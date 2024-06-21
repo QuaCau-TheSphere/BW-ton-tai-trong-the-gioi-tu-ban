@@ -8,7 +8,7 @@ export default ((opts?: Partial<IconFolderOptions>) => {
 		let title = fileData.frontmatter?.title ?? fileData.slug;
 		if (title === "index") {
 			const path = fileData.slug?.split("/");
-			title = path?.[path.length - 2].replaceAll("-", " ") ?? "index";
+			title = path?.[path.length - 2]?.replaceAll("-", " ") ?? "index";
 		}
 		const iconType = (fileData.frontmatter?.icon as string) || opts?.default?.file;
 		if (title) {
