@@ -103,6 +103,12 @@ a {
   }
 }
 
+.left:has(.desktop-only) {
+  @media all and (max-width: $fullPageWidth) {
+    display: none !important;
+  }
+}
+
 .mobile-only {
   display: none;
   @media all and (max-width: $fullPageWidth) {
@@ -159,7 +165,7 @@ a {
       width: $sidePanelWidth;
       margin-top: $topSpacing;
       box-sizing: border-box;
-      padding: 0 4rem;
+      padding: 0 1rem;
       position: fixed;
       @media all and (max-width: $fullPageWidth) {
         position: initial;
@@ -181,6 +187,7 @@ a {
     & .sidebar.right {
       right: calc(calc(100vw - $pageWidth) / 2 - $sidePanelWidth);
       flex-wrap: wrap;
+      z-index: 999;
       & > * {
         @media all and (max-width: $fullPageWidth) {
           flex: 1;
@@ -206,8 +213,8 @@ a {
     width: $pageWidth;
     @media all and (max-width: $fullPageWidth) {
       width: initial;
-      margin-left: 0;
-      margin-right: 0;
+      margin-left: 1rem;
+      margin-right: 1rem;
     }
   }
 }
@@ -479,10 +486,6 @@ video {
 
 .spacer {
   flex: 1 1 auto;
-}
-
-div:has(> .overflow) {
-  position: relative;
 }
 
 ul.overflow,
