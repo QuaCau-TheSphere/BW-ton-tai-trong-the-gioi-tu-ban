@@ -1,6 +1,3 @@
----
-title: Welcome to Quartz
----
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+Lợi ích, động cơ của những người tham gia vào guồng quay này
+Đảm bảo quyền lợi người yếu thế
