@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2024-06-21T17:02
+updated: 2024-06-21T21:20
 ---
 # Quỹ tín dụng
 - [Tổ chức Tài chính Vi mô CEP](https://cep.org.vn/ "Tổ chức Tài chính Vi mô CEP") với [Quỹ Tình Thân](https://www.facebook.com/profile.php?id=100077601589557&v=timeline&lst=100038413598261%3A100077601589557%3A1684514892&eav=AfZ-gv2lqyQB0Aq69YPKH02KBMzxO_jh4u9moWoAnA8pDhYcwmMc0rLzR_dOt0o4jOQ&refid=17&paipv=0 "Facebook") khác nhau thế nào?
@@ -30,7 +30,7 @@ Luật pháp chỉ hiểu về kinh doanh, chứ ko phải là phi lợi nhuận
 
 [Giả thiết về thị trường của nền kinh tế phi chính thức](Gi%E1%BA%A3%20thi%E1%BA%BFt%20v%E1%BB%81%20th%E1%BB%8B%20tr%C6%B0%E1%BB%9Dng%20c%E1%BB%A7a%20n%E1%BB%81n%20kinh%20t%E1%BA%BF%20phi%20ch%C3%ADnh%20th%E1%BB%A9c.md)
 
-[Xù ngân hàng](./X%C3%B9%20ng%C3%A2n%20h%C3%A0ng.md)
+[Xù ngân hàng](../Vay/X%C3%B9%20ng%C3%A2n%20h%C3%A0ng.md)
 
 [Trợ vốn giúp người nghèo: Những món tiền nhỏ đẩy lùi nạn cho vay nặng lãi - Tuổi Trẻ Online](https://tuoitre.vn/tro-von-giup-nguoi-ngheo-nhung-mon-tien-nho-day-lui-nan-cho-vay-nang-lai-20220612094859913.htm)
 

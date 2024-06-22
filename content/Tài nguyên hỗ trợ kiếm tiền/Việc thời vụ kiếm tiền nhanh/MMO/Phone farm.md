@@ -1,10 +1,8 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2024-06-20T19:55
+updated: 2024-06-22T15:10
 ---
-Cần proxy với số lượng tốt để việc chạy airdrop có lời
-
 # Cỗ máy 'kích like' gần một tỷ đồng
 Quảng Ninh
 
