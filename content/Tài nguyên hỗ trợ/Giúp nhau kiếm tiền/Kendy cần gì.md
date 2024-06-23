@@ -3,7 +3,7 @@ share: true
 title: Kendy cần gì?
 description: Cần giảm áp lực trả nợ, tạo dòng tiền, xây dựng hệ thống quản lý, giảm tiền cho các nhu cầu
 created: 2023-09-05T16:17
-updated: 2024-06-22T15:49
+updated: 2024-06-22T19:20
 alias: Trí cần gì?
 ---
 Cảm ơn bạn đã quan tâm tới Kendy. Thực ra bọn mình nghĩ việc góp tiền cũng làm khó khăn cho bạn, và về lâu dài cũng không bền vững. Trừ phi bạn có thể cho mượn một số tiền lớn với kỳ hạn dài, còn không thì chỉ nên quyên góp vào những thời điểm bí bách.
@@ -18,9 +18,7 @@ Việc bọn mình tạo ra Trấn Kỳ cũng như việc tổ chức [Các bu�
 
 Xem thêm:: [Kiếm tiền từ Trấn Kỳ](Ki%E1%BA%BFm%20ti%E1%BB%81n%20t%E1%BB%AB%20Tr%E1%BA%A5n%20K%E1%BB%B3.md)
 
-Ngoài ra thì Kendy cũng đã tính đến chuyện xây dựng mô hình kinh doanh một người. Việc này đi một hồi thì cũng là [MMO](../Vi%E1%BB%87c%20th%E1%BB%9Di%20v%E1%BB%A5%20ki%E1%BA%BFm%20ti%E1%BB%81n%20nhanh/MMO/index.md). VD:
-- [Bán hàng loạt trên Douyin cần có người ở TQ đồng ý cho mã OTP gửi về sđt của mình](../Vi%E1%BB%87c%20th%E1%BB%9Di%20v%E1%BB%A5%20ki%E1%BA%BFm%20ti%E1%BB%81n%20nhanh/MMO/B%C3%A1n%20h%C3%A0ng%20lo%E1%BA%A1t%20tr%C3%AAn%20Douyin%20c%E1%BA%A7n%20c%C3%B3%20ng%C6%B0%E1%BB%9Di%20%E1%BB%9F%20TQ%20%C4%91%E1%BB%93ng%20%C3%BD%20cho%20m%C3%A3%20OTP%20g%E1%BB%ADi%20v%E1%BB%81%20s%C4%91t%20c%E1%BB%A7a%20m%C3%ACnh.md) 
-- [Bán hàng loạt trên Etsy cần nguồn cung proxy, IP Mỹ, và kiến thức API](../Vi%E1%BB%87c%20th%E1%BB%9Di%20v%E1%BB%A5%20ki%E1%BA%BFm%20ti%E1%BB%81n%20nhanh/MMO/B%C3%A1n%20h%C3%A0ng%20lo%E1%BA%A1t%20tr%C3%AAn%20Etsy%20c%E1%BA%A7n%20ngu%E1%BB%93n%20cung%20proxy,%20IP%20M%E1%BB%B9,%20v%C3%A0%20ki%E1%BA%BFn%20th%E1%BB%A9c%20API.md) 
+Ngoài ra thì Kendy cũng đã tính đến chuyện xây dựng mô hình kinh doanh một người. Việc này đi một hồi thì cũng là [MMO](../Vi%E1%BB%87c%20th%E1%BB%9Di%20v%E1%BB%A5%20ki%E1%BA%BFm%20ti%E1%BB%81n%20nhanh/MMO/index.md) để [Bán hàng loạt](../Vi%E1%BB%87c%20th%E1%BB%9Di%20v%E1%BB%A5%20ki%E1%BA%BFm%20ti%E1%BB%81n%20nhanh/MMO/B%C3%A1n%20h%C3%A0ng%20lo%E1%BA%A1t.md).
 # Xây dựng hệ thống quản lý
 Trấn Kỳ được sinh ra là để giúp Kendy nắm được các hạn trả nợ. Đây là phản hồi của khách hàng đầu tiên:
 
@@ -58,5 +56,5 @@ Khác:
 - Khi hỏi lời khuyên của người khác mà câu trả lời đã từng đem lại trải nghiệm tệ thì phản ứng từ chối sự hợp lý của lời khuyên đó cao
 
 Xem thêm:
-- [Giúp đỡ người mắc nợ](./index.md)
+- [Giúp đỡ người mắc nợ](Gi%C3%BAp%20%C4%91%E1%BB%A1%20ng%C6%B0%E1%BB%9Di%20m%E1%BA%AFc%20n%E1%BB%A3.md)
 - [Từ việc hỗ trợ Kendy đến Patreon và tâm lý của con người về tiền](T%E1%BB%AB%20vi%E1%BB%87c%20h%E1%BB%97%20tr%E1%BB%A3%20Kendy%20%C4%91%E1%BA%BFn%20Patreon%20v%C3%A0%20t%C3%A2m%20l%C3%BD%20c%E1%BB%A7a%20con%20ng%C6%B0%E1%BB%9Di%20v%E1%BB%81%20ti%E1%BB%81n.md)

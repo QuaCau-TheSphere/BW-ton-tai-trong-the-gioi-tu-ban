@@ -1,8 +1,10 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2024-06-20T11:01
+updated: 2024-06-23T22:03
 ---
+Công việc này dễ [Làm cùng lúc nhiều công ty](./L%C3%A0m%20c%C3%B9ng%20l%C3%BAc%20nhi%E1%BB%81u%20c%C3%B4ng%20ty.md)
+
 - **Liên hệ:** 0777850094 - Lộc Nguyễn
 - **Lương:** 250k/4h
 
@@ -17,5 +19,3 @@ Xem thêm:: [VNPAY dùng GMV và active để hạn chế chạy ảo](../../Hi%
 - **Mục đích:** các ví điện tử (VD: Momo, VNPAY, Smartpay) cần các cửa hàng nhận sử dụng dịch vụ của mình để mở rộng thị trường. Các nhân viên kinh doanh của các công ty này được giao chỉ tiêu mỗi tháng phải thu thập thông tin các cửa hàng trên địa bàn hoạt động để lên chiến lược tiếp cận
 
 Nguồn:: 
-Dán mã cùng lúc
-[Làm cùng lúc nhiều công ty](../H%C3%ACnh%20th%E1%BB%A9c/L%C3%A0m%20c%C3%B9ng%20l%C3%BAc%20nhi%E1%BB%81u%20c%C3%B4ng%20ty.md)

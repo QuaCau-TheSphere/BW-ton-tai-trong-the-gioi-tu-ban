@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-11-24T16:59
-updated: 2024-06-21T16:56
+updated: 2024-06-22T18:49
 ---
 | Giải pháp gợi ý                                | Hành vi cần đạt được | Giả thiết                                                     | Công việc                                                                                                         |
 | ---------------------------------------------- | -------------------- | ------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
@@ -11,7 +11,8 @@ updated: 2024-06-21T16:56
 | Bán hàng loạt trên Douyin                      |                      | Có sđt TQ để nhận mã OTP. Tạo được nội dung hàng loạt bằng AI | Kiếm người ở TQ đồng ý cho mã OTP gửi về sđt của mình                                                             |
 | Bán được trên Etsy                             |                      | Không bị quét IP. Tạo được nội dung hàng loạt bằng AI         | Tìm IP Mỹ, Học Etsy API                                                                                           |
 
-[Kendy cần gì?](../Kendy%20c%E1%BA%A7n%20g%C3%AC.md)
+
+[Kendy cần gì?](./Kendy%20c%E1%BA%A7n%20g%C3%AC.md)
 
 Các sự kiện trên fb event nó ko thuần tuý là 1 events như dạng ticketbox mà nó giống quảng bá hơn
 
