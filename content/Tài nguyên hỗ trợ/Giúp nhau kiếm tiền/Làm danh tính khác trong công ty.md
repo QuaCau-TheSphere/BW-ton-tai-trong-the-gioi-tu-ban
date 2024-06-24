@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2024-06-23T21:55
+updated: 2024-06-24T12:36
 ---
 Yêu cầu công việc:
 - Thêm 10 mỗi ngày [Công ty không quan tâm dữ liệu cửa hàng do nhân viên gửi về có bị trùng lặp hay không](../../Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Trung%20gian%20thanh%20to%C3%A1n/Ch%C3%ADnh%20s%C3%A1ch/C%C3%B4ng%20ty%20kh%C3%B4ng%20quan%20t%C3%A2m%20d%E1%BB%AF%20li%E1%BB%87u%20c%E1%BB%ADa%20h%C3%A0ng%20do%20nh%C3%A2n%20vi%C3%AAn%20g%E1%BB%ADi%20v%E1%BB%81%20c%C3%B3%20b%E1%BB%8B%20tr%C3%B9ng%20l%E1%BA%B7p%20hay%20kh%C3%B4ng.md)
@@ -28,8 +28,13 @@ Yêu cầu công việc:
 | Thu thập dữ liệu          |                          |                     | ✔               |
 Mỗi sáng t2, t5 các [ASM](../../Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Trung%20gian%20thanh%20to%C3%A1n/L%E1%BB%A3i%20%C3%ADch,%20%C4%91%E1%BB%99ng%20c%C6%A1%20c%E1%BB%A7a%20c%C3%A1c%20b%C3%AAn/ASM/index.md) họp. Sáng t3 thường phải lên công ty họp nhóm
 
-[Phát triển thị trường, lương 60k∕h](../Vi%E1%BB%87c%20th%E1%BB%9Di%20v%E1%BB%A5%20ki%E1%BA%BFm%20ti%E1%BB%81n%20nhanh/Ph%C3%A1t%20tri%E1%BB%83n%20th%E1%BB%8B%20tr%C6%B0%E1%BB%9Dng,%20l%C6%B0%C6%A1ng%2060k%E2%88%95h.md)
+[Phát triển thị trường, lương 60k∕h](../C%C3%B4ng%20vi%E1%BB%87c%20th%E1%BB%9Di%20v%E1%BB%A5%20ki%E1%BA%BFm%20ti%E1%BB%81n%20nhanh/Ph%C3%A1t%20tri%E1%BB%83n%20th%E1%BB%8B%20tr%C6%B0%E1%BB%9Dng,%20l%C6%B0%C6%A1ng%2060k%E2%88%95h.md)
 
+Active 13 giao dịch
+
+Phải nói để chủ nhận
+
+mỗi lần quét 20k, mỗi mã 260k. 10 mã à 2tr6
 
 [\[VNNG\] Sales Checklist - Google Trang tính](https://docs.google.com/spreadsheets/d/1OYAC1TGoBtUZNt3wjc3KM8yjTNNV-xdlX0TcDIz7BgM/edit#gid=906803463 "[VNNG] Sales Checklist - Google Trang tính")
 [\[MNA - HCM9\] Tracking BD 2024](https://lookerstudio.google.com/u/0/reporting/69e85f7b-a4cd-4667-92c5-bdc5a866d9a7/page/p_vesr063xed "[MNA - HCM9] Tracking BD 2024")
