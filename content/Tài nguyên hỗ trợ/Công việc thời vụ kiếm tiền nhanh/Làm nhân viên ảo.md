@@ -1,9 +1,11 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2024-06-25T20:49
-alias: nhân viên ảo
+updated: 2024-06-25T20:59
+aliases:
+  - Làm danh tính khác của nhân viên công ty
 ---
+Nhân viên ảo tức là có nhân viên thật làm dùm. Nói cách khác bạn trở thành một danh tính khác của một nhân viên trong đó. 
 # VNPAY
 Lương: 2tr/tháng
 ## Mô tả công việc
@@ -32,7 +34,7 @@ Mỗi sáng t2, t5 các [ASM](../../Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Trung
 [Cổng Thông Tin - Phòng chống Cheating](https://sites.google.com/vnpay.vn/vnng/vnng-mna/ph%C3%B2ng-ch%E1%BB%91ng-cheating "Cổng Thông Tin - Phòng chống Cheating")
 [Sale Portal](https://sp3.vnpay.vn/mobile? "Sale Portal")
 
-Xem thêm:: [Phát triển thị trường, lương 60k∕h](./Ph%C3%A1t%20tri%E1%BB%83n%20th%E1%BB%8B%20tr%C6%B0%E1%BB%9Dng,%20l%C6%B0%C6%A1ng%2060k%E2%88%95h.md)
+Xem thêm:: [Đổi tiền, chụp hình biển hiệu](./%C4%90%E1%BB%95i%20ti%E1%BB%81n,%20ch%E1%BB%A5p%20h%C3%ACnh%20bi%E1%BB%83n%20hi%E1%BB%87u.md)
 
 # Xử lý khi bị lộ
 Nếu bị lộ thì có thể nói là bạn đang thực hành nhân học trong công ty. Bạn rất tiếc khi đã không trung thực trong lúc xin việc, nhưng công việc nghiên cứu đòi hỏi mình phải giữ bí mật. Thật ra tới lúc nghỉ thì sẽ tiết lộ, mà tại bị lộ sớm hơn dự tính.

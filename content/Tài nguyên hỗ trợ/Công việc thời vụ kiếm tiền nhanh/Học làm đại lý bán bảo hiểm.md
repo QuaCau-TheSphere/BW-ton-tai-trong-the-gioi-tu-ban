@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2024-06-25T20:36
+updated: 2024-06-25T21:00
 ---
 
 Một buổi được tính là một buổi sáng hoặc chiều, 2-5 tiếng. Một ngày gồm 2 buổi sáng chiều.
@@ -18,14 +18,14 @@ Mỗi khoá học có 2 giai đoạn: học cơ bản và học sản phẩm. H�
 - **Số buổi phải dành thời gian:** 5 ngày học + 1 buổi thi
 - **Lương:** 2.5tr
 - **Địa điểm học:** 233 Đồng Khởi, Q1
-- **Yêu cầu:** Phải phỏng vấn xin việc và đậu thì mới được vào học
+- **Điều kiện:** Phải phỏng vấn xin việc và đậu thì mới được vào học
 
 # Nếu làm đại lý ảo sau đó
 Đại lý ảo tức là có đại lý thật đẩy doanh số cho. Hay nói cách khác thì bạn sẽ làm một danh tính khác của người làm thật trong công ty. Lương từ công ty sẽ trả cho trưởng nhóm. 
 
 Làm đại lý ảo thì có bảo hiểm công ty mua cho (không phải bảo hiểm xã hội). Khi có đủ doanh số thì có được những quyền lợi khác.
 
-Bài chi tiết:: [Làm danh tính khác cho các nhân viên bán hàng](./L%C3%A0m%20danh%20t%C3%ADnh%20kh%C3%A1c%20cho%20c%C3%A1c%20nh%C3%A2n%20vi%C3%AAn%20b%C3%A1n%20h%C3%A0ng.md)
+Xem thêm:: [Làm nhân viên ảo](./L%C3%A0m%20nh%C3%A2n%20vi%C3%AAn%20%E1%BA%A3o.md)
 
 ## Bảo Việt
 - **Lương chấm công:** không cần chấm công. Không có lương

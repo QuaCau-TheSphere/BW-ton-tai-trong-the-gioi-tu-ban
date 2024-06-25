@@ -1,9 +1,9 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2024-06-25T01:45
+updated: 2024-06-25T20:51
 ---
-Công việc này dễ [Làm cùng lúc nhiều công ty](./L%C3%A0m%20c%C3%B9ng%20l%C3%BAc%20nhi%E1%BB%81u%20c%C3%B4ng%20ty.md)
+Công việc này dễ [Đi dán mã QR cho nhiều công ty trung gian tài chính cùng lúc](./%C4%90i%20d%C3%A1n%20m%C3%A3%20QR%20cho%20nhi%E1%BB%81u%20c%C3%B4ng%20ty%20trung%20gian%20t%C3%A0i%20ch%C3%ADnh%20c%C3%B9ng%20l%C3%BAc.md)
 
 - **Liên hệ:** 0777850094 - Lộc Nguyễn
 - **Lương:** 250k/4h
