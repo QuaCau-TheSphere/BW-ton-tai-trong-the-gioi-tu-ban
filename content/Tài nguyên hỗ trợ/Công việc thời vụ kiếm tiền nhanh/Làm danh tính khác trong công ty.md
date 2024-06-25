@@ -32,8 +32,8 @@ Yêu cầu công việc:
 
 Mỗi sáng t2, t5 các [ASM](../../Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Trung%20gian%20thanh%20to%C3%A1n/L%E1%BB%A3i%20%C3%ADch,%20%C4%91%E1%BB%99ng%20c%C6%A1%20c%E1%BB%A7a%20c%C3%A1c%20b%C3%AAn/ASM/index.md) họp. Sáng t3 thường phải lên công ty họp nhóm
 
-[Phát triển thị trường, lương 60k∕h](../C%C3%B4ng%20vi%E1%BB%87c%20th%E1%BB%9Di%20v%E1%BB%A5%20ki%E1%BA%BFm%20ti%E1%BB%81n%20nhanh/Ph%C3%A1t%20tri%E1%BB%83n%20th%E1%BB%8B%20tr%C6%B0%E1%BB%9Dng,%20l%C6%B0%C6%A1ng%2060k%E2%88%95h.md)
-[Quét mã chéo](./Qu%C3%A9t%20m%C3%A3%20ch%C3%A9o.md)
+[Phát triển thị trường, lương 60k∕h](./Ph%C3%A1t%20tri%E1%BB%83n%20th%E1%BB%8B%20tr%C6%B0%E1%BB%9Dng,%20l%C6%B0%C6%A1ng%2060k%E2%88%95h.md)
+[Quét mã chéo](../Gi%C3%BAp%20nhau%20ki%E1%BA%BFm%20ti%E1%BB%81n/Qu%C3%A9t%20m%C3%A3%20ch%C3%A9o.md)
 
 
 [\[VNNG\] Sales Checklist - Google Trang tính](https://docs.google.com/spreadsheets/d/1OYAC1TGoBtUZNt3wjc3KM8yjTNNV-xdlX0TcDIz7BgM/edit#gid=906803463 "[VNNG] Sales Checklist - Google Trang tính")

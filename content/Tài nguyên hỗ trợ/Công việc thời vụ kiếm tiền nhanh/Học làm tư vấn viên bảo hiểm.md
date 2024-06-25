@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2024-06-25T15:43
+updated: 2024-06-25T15:48
 ---
 
 Một buổi được tính là một buổi sáng, chiều hoặc tối, 2-5 tiếng
@@ -24,15 +24,15 @@ Phần Sau Bảo Việt Lập Nghiệp thì học lúc nào cũng được, khô
 
 
 # Nếu có đi làm ảo sau đó
-## Bảo Việt
-Không cần chấm công. Sau khi thi đậu thì sẽ trở thành đại lý, có bảo hiểm công ty mua cho. Khi có đủ doanh số thì được đi du lịch.
+Đi làm ảo tức là có nhân viên thật đẩy doanh số cho. Lương từ công ty sẽ trả cho trưởng nhóm. Khi có đủ doanh số thì được đi du lịch.
 
-**Lương chấm công:** không có
+## Bảo Việt
+- **Quyền lợi:** Không cần chấm công. Có bảo hiểm công ty mua cho (không phải bảo hiểm xã hội)
+- **Lương chấm công:** không có
 
 ## Prudential
-Phải lên công ty chấm công bằng vân tay, checkout cách checkin tối thiểu 2 tiếng. Tháng đầu chấm công 5 ngày là được. Tháng thứ 2 mới bắt đầu chấm đủ 80% ngày đi làm, tức là 17 ngày/ tháng
+- **Yêu cầu:** Phải lên công ty chấm công bằng vân tay, checkout cách checkin tối thiểu 2 tiếng. Tháng đầu chấm công 5 ngày là được. Tháng thứ 2 mới bắt đầu chấm đủ 80% ngày đi làm, tức là 17 ngày/tháng.
+- **Lương chấm công:** ban đầu 4tr/tháng, sau 3 tháng thì có thể lên 5.6tr. 
 
-**Lương chấm công:** ban đầu 4tr/tháng, sau 3 tháng thì có thể lên 5.6tr. 
-
-Xem thêm:: [Làm danh tính khác trong công ty](../Gi%C3%BAp%20nhau%20ki%E1%BA%BFm%20ti%E1%BB%81n/L%C3%A0m%20danh%20t%C3%ADnh%20kh%C3%A1c%20trong%20c%C3%B4ng%20ty.md)
+Xem thêm:: [Làm danh tính khác trong công ty](./L%C3%A0m%20danh%20t%C3%ADnh%20kh%C3%A1c%20trong%20c%C3%B4ng%20ty.md)
 Nguồn:: 
