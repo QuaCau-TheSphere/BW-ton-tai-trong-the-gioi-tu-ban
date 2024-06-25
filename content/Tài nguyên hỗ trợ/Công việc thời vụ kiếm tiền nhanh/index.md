@@ -13,17 +13,19 @@ Vào [Discord Quả Cầu](https://doi-thoai.deno.dev/discordQC.Việc-thời-v�
 
 - \-: 
     - [Chạy chỉ tiêu](./Ch%E1%BA%A1y%20ch%E1%BB%89%20ti%C3%AAu.md)
-    - [Học làm tư vấn viên bảo hiểm, 2,5 ngày thi 1 buổi, lương 2tr. Chỉ cần học xong thi đậu là được](./H%E1%BB%8Dc%20l%C3%A0m%20t%C6%B0%20v%E1%BA%A5n%20vi%C3%AAn%20b%E1%BA%A3o%20hi%E1%BB%83m,%202,5%20ng%C3%A0y%20thi%201%20bu%E1%BB%95i,%20l%C6%B0%C6%A1ng%202tr.%20Ch%E1%BB%89%20c%E1%BA%A7n%20h%E1%BB%8Dc%20xong%20thi%20%C4%91%E1%BA%ADu%20l%C3%A0%20%C4%91%C6%B0%E1%BB%A3c.md)
+    - [Học làm đại lý bán bảo hiểm](./H%E1%BB%8Dc%20l%C3%A0m%20%C4%91%E1%BA%A1i%20l%C3%BD%20b%C3%A1n%20b%E1%BA%A3o%20hi%E1%BB%83m.md)
     - [Hỗ trợ phân loại dữ liệu cho người có nhiều dữ liệu](./H%E1%BB%97%20tr%E1%BB%A3%20ph%C3%A2n%20lo%E1%BA%A1i%20d%E1%BB%AF%20li%E1%BB%87u%20cho%20ng%C6%B0%E1%BB%9Di%20c%C3%B3%20nhi%E1%BB%81u%20d%E1%BB%AF%20li%E1%BB%87u.md)
     - [Làm cùng lúc nhiều công ty](./L%C3%A0m%20c%C3%B9ng%20l%C3%BAc%20nhi%E1%BB%81u%20c%C3%B4ng%20ty.md)
     - [Lừa đảo hội lừa đảo](./L%E1%BB%ABa%20%C4%91%E1%BA%A3o%20h%E1%BB%99i%20l%E1%BB%ABa%20%C4%91%E1%BA%A3o.md)
     - [Phát triển thị trường, lương 60k∕h](./Ph%C3%A1t%20tri%E1%BB%83n%20th%E1%BB%8B%20tr%C6%B0%E1%BB%9Dng,%20l%C6%B0%C6%A1ng%2060k%E2%88%95h.md)
     - [Săn khảo sát, phỏng vấn người dùng](./S%C4%83n%20kh%E1%BA%A3o%20s%C3%A1t,%20ph%E1%BB%8Fng%20v%E1%BA%A5n%20ng%C6%B0%E1%BB%9Di%20d%C3%B9ng.md)
+    - [Làm danh tính khác cho các nhân viên bán hàng](./L%C3%A0m%20danh%20t%C3%ADnh%20kh%C3%A1c%20cho%20c%C3%A1c%20nh%C3%A2n%20vi%C3%AAn%20b%C3%A1n%20h%C3%A0ng.md)
+    - [Quét mã chéo](Qu%C3%A9t%20m%C3%A3%20ch%C3%A9o.md)
 
-- MMO: 
-    - [Bán hàng loạt](./MMO/B%C3%A1n%20h%C3%A0ng%20lo%E1%BA%A1t.md)
-    - [Chạy airdrop](./MMO/Ch%E1%BA%A1y%20airdrop.md)
-    - [MMO](./MMO/index.md)
-    - [Phone farm](./MMO/Phone%20farm.md)
+- Kiếm tiền trực tuyến (MMO): 
+    - [Bán hàng loạt](./Ki%E1%BA%BFm%20ti%E1%BB%81n%20tr%E1%BB%B1c%20tuy%E1%BA%BFn%20(MMO)/B%C3%A1n%20h%C3%A0ng%20lo%E1%BA%A1t.md)
+    - [Chạy airdrop](./Ki%E1%BA%BFm%20ti%E1%BB%81n%20tr%E1%BB%B1c%20tuy%E1%BA%BFn%20(MMO)/Ch%E1%BA%A1y%20airdrop.md)
+    - [Kiếm tiền trực tuyến (MMO)](./Ki%E1%BA%BFm%20ti%E1%BB%81n%20tr%E1%BB%B1c%20tuy%E1%BA%BFn%20(MMO)/index.md)
+    - [Phone farm](./Ki%E1%BA%BFm%20ti%E1%BB%81n%20tr%E1%BB%B1c%20tuy%E1%BA%BFn%20(MMO)/Phone%20farm.md)
 
 

@@ -1,12 +1,8 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2024-06-24T17:06
+updated: 2024-06-25T20:50
 ---
-Như trưa nay cho ý kiến đóng góp TVC quảng cáo về thương hiệu Panasonic 
-Ngồi trả lời phỏng vấn tầm 1 tiếng là nhận ngay 300k á
-Tương tự nhiều cái giống v, một buổi tầm 1 tiếng rưỡi đến max 2 tiếng là được 250 đến 3, 400k 
-Có mấy cái điều kiện hiếm hơn thì 800k 1tr chẳng hạn
 
 Như trưa nay cho ý kiến đóng góp TVC quảng cáo về thương hiệu Panasonic 
 Ngồi trả lời phỏng vấn tầm 1 tiếng là nhận ngay 300k á

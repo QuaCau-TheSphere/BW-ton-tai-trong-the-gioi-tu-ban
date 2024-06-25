@@ -3,7 +3,7 @@ share: true
 title: Kendy cần gì?
 description: Cần giảm áp lực trả nợ, tạo dòng tiền, xây dựng hệ thống quản lý, giảm tiền cho các nhu cầu
 created: 2023-09-05T16:17
-updated: 2024-06-22T19:20
+updated: 2024-06-25T16:39
 alias: Trí cần gì?
 ---
 Cảm ơn bạn đã quan tâm tới Kendy. Thực ra bọn mình nghĩ việc góp tiền cũng làm khó khăn cho bạn, và về lâu dài cũng không bền vững. Trừ phi bạn có thể cho mượn một số tiền lớn với kỳ hạn dài, còn không thì chỉ nên quyên góp vào những thời điểm bí bách.
@@ -18,7 +18,7 @@ Việc bọn mình tạo ra Trấn Kỳ cũng như việc tổ chức [Các bu�
 
 Xem thêm:: [Kiếm tiền từ Trấn Kỳ](Ki%E1%BA%BFm%20ti%E1%BB%81n%20t%E1%BB%AB%20Tr%E1%BA%A5n%20K%E1%BB%B3.md)
 
-Ngoài ra thì Kendy cũng đã tính đến chuyện xây dựng mô hình kinh doanh một người. Việc này đi một hồi thì cũng là [MMO](../Vi%E1%BB%87c%20th%E1%BB%9Di%20v%E1%BB%A5%20ki%E1%BA%BFm%20ti%E1%BB%81n%20nhanh/MMO/index.md) để [Bán hàng loạt](../Vi%E1%BB%87c%20th%E1%BB%9Di%20v%E1%BB%A5%20ki%E1%BA%BFm%20ti%E1%BB%81n%20nhanh/MMO/B%C3%A1n%20h%C3%A0ng%20lo%E1%BA%A1t.md).
+Ngoài ra thì Kendy cũng đã tính đến chuyện xây dựng mô hình kinh doanh một người. Việc này đi một hồi thì cũng là [Kiếm tiền trực tuyến (MMO)](../C%C3%B4ng%20vi%E1%BB%87c%20th%E1%BB%9Di%20v%E1%BB%A5%20ki%E1%BA%BFm%20ti%E1%BB%81n%20nhanh/Ki%E1%BA%BFm%20ti%E1%BB%81n%20tr%E1%BB%B1c%20tuy%E1%BA%BFn%20(MMO)/index.md) để [Bán hàng loạt](../C%C3%B4ng%20vi%E1%BB%87c%20th%E1%BB%9Di%20v%E1%BB%A5%20ki%E1%BA%BFm%20ti%E1%BB%81n%20nhanh/Ki%E1%BA%BFm%20ti%E1%BB%81n%20tr%E1%BB%B1c%20tuy%E1%BA%BFn%20(MMO)/B%C3%A1n%20h%C3%A0ng%20lo%E1%BA%A1t.md).
 # Xây dựng hệ thống quản lý
 Trấn Kỳ được sinh ra là để giúp Kendy nắm được các hạn trả nợ. Đây là phản hồi của khách hàng đầu tiên:
 
