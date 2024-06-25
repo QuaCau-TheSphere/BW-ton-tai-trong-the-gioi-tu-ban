@@ -1,7 +1,8 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2024-06-25T13:20
+updated: 2024-06-25T15:08
+alias: nhân viên ảo
 ---
 Yêu cầu công việc:
 - Thêm 10 mỗi ngày [Công ty không quan tâm dữ liệu cửa hàng do nhân viên gửi về có bị trùng lặp hay không](../../Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Trung%20gian%20thanh%20to%C3%A1n/Ch%C3%ADnh%20s%C3%A1ch/C%C3%B4ng%20ty%20kh%C3%B4ng%20quan%20t%C3%A2m%20d%E1%BB%AF%20li%E1%BB%87u%20c%E1%BB%ADa%20h%C3%A0ng%20do%20nh%C3%A2n%20vi%C3%AAn%20g%E1%BB%ADi%20v%E1%BB%81%20c%C3%B3%20b%E1%BB%8B%20tr%C3%B9ng%20l%E1%BA%B7p%20hay%20kh%C3%B4ng.md)
