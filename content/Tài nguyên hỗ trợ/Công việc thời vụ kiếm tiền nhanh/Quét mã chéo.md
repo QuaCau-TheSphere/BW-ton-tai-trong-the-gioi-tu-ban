@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-06-25T13:20
-updated: 2024-06-27T22:24
+updated: 2024-06-27T23:14
 ---
 Tiền công: 10% số tiền quét
 
@@ -57,15 +57,16 @@ Không quét mặt được: AB, Bắc Á, Bảo Việt
 
 Kiên Long, OCB, saigonbank
 
+PIN là 3344 hoặc 334477
 
 | Ngân hàng | Tên đăng nhập | Mật khẩu      | Tên trên căn cước | Số căn cước  | Ghi chú                                      |
 | --------- | ------------- | ------------- | ----------------- | ------------ | -------------------------------------------- |
 | SHB       | 0903850094    | LOCratro12!@  | Nguyễn Văn Tận    | 096094002666 | Tạo mã QR bị lỗi (nhưng vẫn dùng OK)         |
 | Ocean     | 084089001378  | LOCratro12!@  | Lê Văn Cường      | 084089001378 |                                              |
 | Shinhan   | 0903850094N   | 63563620      | Nguyễn Thị Liễu   | 093177005446 |                                              |
+| Bắc Á     | 40008060      | LOCratro12!@  | Đoàn Văn Bơ       |              |                                              |
 | Vietin    | 0979437321    | NHATratro12!@ | Lý Minh Nhật      | 079092007133 |                                              |
 | VP        | 0979437321    | LOCratro12!@  | Lý Minh Nhật      | 079092007133 |                                              |
-|           |               |               |                   |              |                                              |
 | Kiên Long | 0903850094    | Nhuy@2004     | Nguyễn Thị Như Ý  | 052304014268 | Đang đợi xác minh nên bị khoá chuyển tiền đi |
 | MSB       | 0903850094    | Anhvinh19@    | Lò Văn Phúc       | 011203008787 | Không chuyển cho VNPAY được                  |
 
