@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2024-06-22T22:33
+updated: 2024-06-27T13:29
 ---
 a sẽ ko vay được gì cao với cái cà vẹt xe cả, dù nó là chính chủ anh đi nữa, vì nó ko care đâu và khi a cầm đồ cavet xe ntn a có hiểu tại sao nó trả 2-3tr ko, vì nó sẽ dùng infor đó để bán infor reg acc
 
@@ -20,3 +20,5 @@ a bán infor mà ko biết giá đã là lỗ
 cầm xe mất chi phí cơ hội
 cầm giấy tờ
 đã vậy còn lãi sau bao nhiêu ngày
+
+[Thông tin bán được sẽ được dùng để tạo tài khoản ngân hàng ảo](./Th%C3%B4ng%20tin%20b%C3%A1n%20%C4%91%C6%B0%E1%BB%A3c%20s%E1%BA%BD%20%C4%91%C6%B0%E1%BB%A3c%20d%C3%B9ng%20%C4%91%E1%BB%83%20t%E1%BA%A1o%20t%C3%A0i%20kho%E1%BA%A3n%20ng%C3%A2n%20h%C3%A0ng%20%E1%BA%A3o.md) 

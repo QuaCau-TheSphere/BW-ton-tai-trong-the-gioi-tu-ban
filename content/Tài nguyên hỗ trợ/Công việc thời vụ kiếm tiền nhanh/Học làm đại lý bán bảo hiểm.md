@@ -1,10 +1,11 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2024-06-25T23:19
+updated: 2024-06-26T22:27
 ---
 Một buổi được tính là một buổi sáng hoặc chiều, 2-5 tiếng. Một ngày gồm 2 buổi sáng chiều.
 
+Khi học bên nào thì sẽ được cấp code. Khi có code thì không học được ở nơi nào khác.
 # Nếu chỉ học
 Mỗi khoá học có 2 giai đoạn: học cơ bản và học sản phẩm. Học cơ bản thì phải đi học, chịu khó học để thi đậu ở Cục giám sát, và có điểm danh. Sau khi thi đậu thì học sản phẩm. Cái này thì học lúc nào cũng được, không cần phải thi.
 
@@ -17,7 +18,7 @@ Mỗi khoá học có 2 giai đoạn: học cơ bản và học sản phẩm. H�
 - **Số buổi phải dành thời gian:** 5 ngày học + 1 buổi thi
 - **Lương:** 2.5tr
 - **Địa điểm học:** 233 Đồng Khởi, Q1
-- **Điều kiện:** Phải phỏng vấn xin việc và đậu thì mới được vào học
+- **Điều kiện:** Phải phỏng vấn xin việc và đậu thì mới được vào học. Cần cam kết làm lâu dài
 
 # Nếu làm đại lý ảo sau đó
 Đại lý ảo tức là có đại lý thật đẩy doanh số cho. Hay nói cách khác thì bạn sẽ làm một danh tính khác của người làm thật trong công ty. Lương từ công ty sẽ trả cho trưởng nhóm. 
