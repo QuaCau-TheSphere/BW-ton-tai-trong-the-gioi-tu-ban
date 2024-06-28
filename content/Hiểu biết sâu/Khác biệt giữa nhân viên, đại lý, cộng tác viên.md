@@ -1,14 +1,14 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2024-06-25T22:13
+updated: 2024-06-28T22:21
 ---
 | Loại hình                                    | Hình thức trả tiền                             | Bảo hiểm xã hội | Ưu đãi khác | Phải đảm bảo doanh số mỗi tháng |
 | -------------------------------------------- | ---------------------------------------------- | --------------- | ----------- | ------------------------------- |
 | Nhân viên                                    | Lương cứng                                     | ✔               | Tuỳ         | ✔                               |
-| Đại lý                                       | Làm bao nhiêu ăn bấy nhiêu/ăn hoa hồng, thưởng | ❌              | Tuỳ         | ✔                               |
-| Cộng tác viên/<br>thời vụ tự do (freelancer) | Làm bao nhiêu ăn bấy nhiêu                     | ❌              | ❌          | ❌                              |
-| 
+| Đại lý                                       | Làm bao nhiêu ăn bấy nhiêu/ăn hoa hồng, thưởng | ❌               | Tuỳ         | ✔                               |
+| Cộng tác viên/<br>thời vụ tự do (freelancer) | Làm bao nhiêu ăn bấy nhiêu                     | ❌               | ❌           | ❌                               |
+|                                              |                                                |                 |             |                                 |
 
 
 hag gah, [25-Jun-24 9:23 PM]

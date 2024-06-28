@@ -2,12 +2,15 @@
 share: true
 filename: index
 created: 2023-09-05T16:17
-updated: 2024-06-27T21:13
+updated: 2024-06-28T22:21
 title: Tồn tại trong thế giới tư bản
 ---
 - Lợi ích, động cơ của những người tham gia vào guồng quay này
 - Đảm bảo quyền lợi người yếu thế
 Thừa nhận là có nhiều cái 
 
+Vấn đề là nhà đầu tư chỉ quan tâm đến việc tối đa hoá lợi nhuận, chứ không quan tâm đến chất lượng sống của bạn một cách thực chất.
+
 Không khuyến khích làm chuyên nghiệp. Nhưng 
 lợi dụng người thiếu hiểu biết
+Nếu cản thì chắc chắn không cản được. Cái đói vẫn ở đó. Nên thôi tạo một cổng thông tin để họ biết được những nguồn tài nguyên bền vững hơn
