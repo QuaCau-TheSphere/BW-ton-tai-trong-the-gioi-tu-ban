@@ -2,7 +2,7 @@
 share: true
 filename: index
 created: 2023-09-05T16:17
-updated: 2024-06-28T22:21
+updated: 2024-06-30T20:21
 title: Tồn tại trong thế giới tư bản
 ---
 - Lợi ích, động cơ của những người tham gia vào guồng quay này
@@ -14,3 +14,5 @@ Vấn đề là nhà đầu tư chỉ quan tâm đến việc tối đa hoá l�
 Không khuyến khích làm chuyên nghiệp. Nhưng 
 lợi dụng người thiếu hiểu biết
 Nếu cản thì chắc chắn không cản được. Cái đói vẫn ở đó. Nên thôi tạo một cổng thông tin để họ biết được những nguồn tài nguyên bền vững hơn
+
+Mệt mỏi với việc giấu nghề

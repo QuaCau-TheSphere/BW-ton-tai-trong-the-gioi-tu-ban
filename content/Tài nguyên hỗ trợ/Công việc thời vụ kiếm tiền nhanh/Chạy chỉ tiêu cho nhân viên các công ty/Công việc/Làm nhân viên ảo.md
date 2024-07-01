@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2024-06-28T23:31
+updated: 2024-06-29T15:16
 aliases:
   - Làm danh tính khác của nhân viên công ty
 ---
@@ -12,15 +12,17 @@ Lương: 2tr/tháng
 ## Mô tả công việc
 ### Làm một lần
 - Khám sức khoẻ: 2 tiếng 
-- Xác nhận sơ yếu lý lịch: 15 phút 
-- Mở tài khoản ngân hàng: 5 phút 
+- Xác nhận sơ yếu lý lịch trên phường: 15 phút 
+- Mở tài khoản ngân hàng Vietinbank: 5 phút 
 - Đi phỏng vấn: 1 tiếng 
 - Tham gia các buổi đào tạo chung: 3 buổi, mỗi buổi 2 tiếng (1 ngày rưỡi)
-- Chụp hình chấm công cho cả tháng: 10 phút 
 - Lên công ty hướng dẫn thực địa: khoảng 3 buổi trong 3 ngày khác nhau
+- Có đồng phục thì chụp hình chấm công cho cả tháng: 10 phút 
  
 ### Làm mỗi ngày
 - Gửi hình và vị trí chấm công qua Zalo vào mỗi sáng lúc 8h30: 10 s
+
+	Có thể dùng Fake GPS để ở nơi khác vẫn tới vị trí chấm công được.
 
 ### Làm mỗi tuần
 - Trả lời tin nhắn: vài phút 
