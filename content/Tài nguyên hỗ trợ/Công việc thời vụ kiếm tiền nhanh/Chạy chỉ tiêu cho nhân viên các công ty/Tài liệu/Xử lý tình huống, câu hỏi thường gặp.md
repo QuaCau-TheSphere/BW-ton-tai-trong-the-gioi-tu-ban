@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2024-07-05T00:42
+updated: 2024-07-05T01:57
 ---
 # Tôi thấy việc làm nhân viên ảo là việc không nên
 Còn bên pru ng chịu thiệt là ko có ai ở đây. Nếu có là ng hưởng lợi cao nhất là tổng giám đốc hoặc các nhà đầu tư chẳng hạn. Một ng ko mấy bị ảnh hưởng bởi số tiền nhỏ
@@ -17,6 +17,7 @@ Ng dạy em họ thừa biết là em fake
 Tổng thể cty ng ta ngầm đồng ý như v
 Còn cái này em ko thấy có sự đồng ý của anh lead
 Quan trọng hơn là ảnh trực tiếp làm việc với em nữa chứ
+[Nhân viên có cộng tác viên riêng, nhân viên ảo, người đại diện nhóm, bán việc là những cái tên khác nhau cho cùng một thứ](../../../../Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Ki%E1%BA%BFm%20ti%E1%BB%81n/Nh%C3%A2n%20vi%C3%AAn%20c%C3%B3%20c%E1%BB%99ng%20t%C3%A1c%20vi%C3%AAn%20ri%C3%AAng,%20nh%C3%A2n%20vi%C3%AAn%20%E1%BA%A3o,%20ng%C6%B0%E1%BB%9Di%20%C4%91%E1%BA%A1i%20di%E1%BB%87n%20nh%C3%B3m,%20b%C3%A1n%20vi%E1%BB%87c%20l%C3%A0%20nh%E1%BB%AFng%20c%C3%A1i%20t%C3%AAn%20kh%C3%A1c%20nhau%20cho%20c%C3%B9ng%20m%E1%BB%99t%20th%E1%BB%A9.md)
 # Tôi là người cho mượn tài khoản ngân hàng để các bạn quẹt. Chuyện gì sẽ xảy ra nếu các bạn bị phát hiện?
 Vì là trung gian thanh toán, nên các ví điện tử đứng ra bảo lãnh cho người quẹt. Chuyển khoản thì còn không biết đang làm gì, chứ dùng trung gian thanh toán thì xác định là mua hàng. Ngân hàng sẽ thấy là sạch, và điểm tín dụng sẽ cao hơn. Hoặc chẳng qua nó nhắm mắt làm ngơ, vì bọn mình chưa đủ lớn để truy tố hay thả lưới. Nếu bọn mình làm lớn thì chắc đã không phải nhờ tới các bạn rồi.
 
