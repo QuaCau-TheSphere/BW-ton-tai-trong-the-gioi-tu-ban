@@ -2,7 +2,7 @@
 share: true
 created: 2023-09-05T16:17
 updated: 2024-07-04T23:49
-title: Chính sách nhân sự các công ty
+title: Chính sách nhân sự các công ty trung gian thanh toán
 ---
 Ngày trả lương cho nhân viên và tiền công cho cộng tác viên đều là vào đầu tháng.
 
