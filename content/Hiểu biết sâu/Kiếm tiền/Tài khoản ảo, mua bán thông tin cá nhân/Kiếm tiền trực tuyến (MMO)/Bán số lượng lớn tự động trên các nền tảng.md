@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2024-07-05T00:12
+updated: 2024-07-06T14:30
 ---
 # Bán hàng loạt trên Douyin: cần có người ở TQ đồng ý cho mã OTP gửi về sđt của mình
 Cần có sđt TQ để nhận mã OTP

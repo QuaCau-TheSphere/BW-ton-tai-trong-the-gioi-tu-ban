@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2024-07-05T00:12
+updated: 2024-07-06T14:30
 ---
 # Cỗ máy 'kích like' gần một tỷ đồng
 Quảng Ninh
@@ -34,7 +34,7 @@ Toàn bộ được kiểm soát thông qua một máy tính chính với hai m�
 
 Hệ thống sử dụng phần mềm tự phát triển với chi phí 250 triệu đồng, hoàn thành trong 7 tháng. Cộng với thiết bị và vật tư, chi phí cho toàn bộ căn phòng khoảng một tỷ đồng.
 
- ![Điểm đặc biệt của hệ thống mà anh Hùng đang vận hành là tự chạy trên phần mềm tự phát triển với chi phí 250 triệu đồng, hoàn thành trong 7 tháng. Tổng cộng các thiết bị và vật tư, toàn bộ căn phòng có giá trị khoảng một tỷ đồng.  Ưu điểm của việc tự làm phần mềm là mình sẽ kiểm soát nó tối ưu hơn, lách được các thuật toán mạng xã hội tốt hơn và chạy ổn định hơn các phần mềm mua bên ngoài rất nhiều, anh Hùng chia sẻ. Tôi từng thử các phần mềm bên thứ ba và nhận thấy họ làm ra để với mục đích bán phần mềm, nên thiếu sự đồng bộ và rất hay gặp lỗi. Mỗi lần gặp lỗi, rất lâu họ mới khắc phục. Ngoài ra, nó cũng không có một số  tính năng mình cần hoặc khả năng mở rộng tính năng trong tương lai.](https://i1-sohoa.vnecdn.net/2023/11/03/IMG-6819-9462-1699009001.jpg?w=680&h=0&q=100&dpr=1&fit=crop&s=iC8qEVk6SAwXC-jUcFGNwA)
+ ![Điểm đặc biệt của hệ thống mà anh Hùng đang vận hành là tự chạy trên phần mềm tự phát triển với chi phí 250 triệu đồng, hoàn thành trong 7 tháng. Tổng cộng các thiết bị và vật tư, toàn bộ căn phòng có giá trị khoảng một tỷ đồng. Ưu điểm của việc tự làm phần mềm là mình sẽ kiểm soát nó tối ưu hơn, lách được các thuật toán mạng xã hội tốt hơn và chạy ổn định hơn các phần mềm mua bên ngoài rất nhiều, anh Hùng chia sẻ. Tôi từng thử các phần mềm bên thứ ba và nhận thấy họ làm ra để với mục đích bán phần mềm, nên thiếu sự đồng bộ và rất hay gặp lỗi. Mỗi lần gặp lỗi, rất lâu họ mới khắc phục. Ngoài ra, nó cũng không có một số tính năng mình cần hoặc khả năng mở rộng tính năng trong tương lai.](https://i1-sohoa.vnecdn.net/2023/11/03/IMG-6819-9462-1699009001.jpg?w=680&h=0&q=100&dpr=1&fit=crop&s=iC8qEVk6SAwXC-jUcFGNwA)
 
 Hệ thống PhoneFarm này đang phục vụ việc tăng lượt xem nội dung, lượt xem phát trực tiếp (livestream) cũng như lượt thích, bình luận và chạy các chiến dịch quảng cáo, seeding (tạo nội dung tranh luận) trên mạng xã hội. Anh cho biết, chi phí vận hành căn phòng này mỗi tháng vào khoảng 25 triệu đồng, chủ yếu là tiền điện và kết nối Internet. "Mỗi tháng thu nhập từ hệ thống PhoneFarm này khoảng 40-45 triệu đồng", anh Hùng tiết lộ.  
   

@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-06-25T13:20
-updated: 2024-06-30T16:26
+updated: 2024-07-10T10:45
 ---
 # Mỗi mã QR cần được quét 13 lần
 - Mỗi giao dịch phải ít nhất 20k. Mỗi cửa hàng cần tối thiểu 13 giao dịch để được công nhận là đang hoạt động
@@ -37,13 +37,10 @@ Tốn thời gian nhất là phải chuyển app. Chứ quẹt xong mã này nó
 >  Giả sử 10 giây quét xong một lần, thì quét 30 lần tốn 300 giây, tức 5 phút. Đó là lý thuyết. Thử nghiệm lần đầu cho thấy tốn 13 lần quẹt trong 15 phút.
 
 > [!attention] Các ngân hàng không làm tốt với VNPAY
-> - **Shinhan**, **TP**, **VP**  không ghi rõ tên giao dịch với cửa hàng nào khi quẹt VNPAY, dù vẫn chuyển được
+> - **Shinhan**, **TP**, **VP** không ghi rõ tên giao dịch với cửa hàng nào khi quẹt VNPAY, dù vẫn chuyển được
 > - **Kiên Long**, **MSB** không quẹt được VNPAY, dù quẹt TK ngân hàng bình thường khác vẫn được
 > 
 > Xem thêm:: [Ghi chú về các ngân hàng](../../../../Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Vay%20ti%E1%BB%81n/Ng%C3%A2n%20h%C3%A0ng,%20%C4%91i%E1%BB%83m%20t%C3%ADn%20d%E1%BB%A5ng/Ghi%20ch%C3%BA%20v%E1%BB%81%20c%C3%A1c%20ng%C3%A2n%20h%C3%A0ng.md)
 
 ![](https://i.imgur.com/Q7KcLn6.png)
-
-PIN là 3344, 3347 hoặc 334477
-<iframe class="airtable-embed" src="https://airtable.com/embed/apphGvGCUizVP2Shq/shreE2x0QGv2MphOO?viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
