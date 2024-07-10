@@ -3,14 +3,15 @@ share: true
 title: Kendy cần gì?
 description: Cần giảm áp lực trả nợ, tạo dòng tiền, xây dựng hệ thống quản lý, giảm tiền cho các nhu cầu
 created: 2023-09-05T16:17
-updated: 2024-06-25T16:39
-alias: Trí cần gì?
+updated: 2024-07-09T13:48
+alias:
+  - Trí cần gì?
 ---
 Cảm ơn bạn đã quan tâm tới Kendy. Thực ra bọn mình nghĩ việc góp tiền cũng làm khó khăn cho bạn, và về lâu dài cũng không bền vững. Trừ phi bạn có thể cho mượn một số tiền lớn với kỳ hạn dài, còn không thì chỉ nên quyên góp vào những thời điểm bí bách.
 
 Đây là những thứ Kendy cần:
 # Giảm áp lực trả nợ
-[Một trong những cách để ngân hàng cấp lại tín dụng của mình là có tiền để qua đêm.](../../Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Ng%C3%A2n%20h%C3%A0ng,%20t%C3%ADn%20d%E1%BB%A5ng,%20vay%20ti%E1%BB%81n/Ng%C3%A2n%20h%C3%A0ng%20c%E1%BA%A5p%20t%C3%ADn%20d%E1%BB%A5ng%20b%E1%BA%B1ng%20vi%E1%BB%87c%20nh%C3%ACn%20s%E1%BB%91%20t%C3%A0i%20kho%E1%BA%A3n%20v%C3%A0o%20cu%E1%BB%91i%20ng%C3%A0y.md) Đến sáng tài khoản không có gì cũng được. Làm như vậy tầm vài tháng thì ngân hàng sẽ nghĩ là mình có nguồn tiền dư thì sẽ cấp tín dụng cao hơn.
+[Một trong những cách để ngân hàng cấp lại tín dụng của mình là có tiền để qua đêm.](../../Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Vay%20ti%E1%BB%81n/Ng%C3%A2n%20h%C3%A0ng,%20%C4%91i%E1%BB%83m%20t%C3%ADn%20d%E1%BB%A5ng/Ng%C3%A2n%20h%C3%A0ng%20c%E1%BA%A5p%20t%C3%ADn%20d%E1%BB%A5ng%20b%E1%BA%B1ng%20vi%E1%BB%87c%20nh%C3%ACn%20s%E1%BB%91%20t%C3%A0i%20kho%E1%BA%A3n%20v%C3%A0o%20cu%E1%BB%91i%20ng%C3%A0y.md) Đến sáng tài khoản không có gì cũng được. Làm như vậy tầm vài tháng thì ngân hàng sẽ nghĩ là mình có nguồn tiền dư thì sẽ cấp tín dụng cao hơn.
 
 Như vậy, bọn mình cần tìm nguồn có thể cho Kendy mượn tầm 100tr để trong ngân hàng qua đêm, sáng hôm sau trả lại cũng được. Chỉ cần đến trước 5h chiều thì lại cho mượn tiếp. 
 # Tạo dòng tiền
@@ -18,7 +19,7 @@ Việc bọn mình tạo ra Trấn Kỳ cũng như việc tổ chức [Các bu�
 
 Xem thêm:: [Kiếm tiền từ Trấn Kỳ](Ki%E1%BA%BFm%20ti%E1%BB%81n%20t%E1%BB%AB%20Tr%E1%BA%A5n%20K%E1%BB%B3.md)
 
-Ngoài ra thì Kendy cũng đã tính đến chuyện xây dựng mô hình kinh doanh một người. Việc này đi một hồi thì cũng là [Kiếm tiền trực tuyến (MMO)](../C%C3%B4ng%20vi%E1%BB%87c%20th%E1%BB%9Di%20v%E1%BB%A5%20ki%E1%BA%BFm%20ti%E1%BB%81n%20nhanh/Ki%E1%BA%BFm%20ti%E1%BB%81n%20tr%E1%BB%B1c%20tuy%E1%BA%BFn%20(MMO)/index.md) để [Bán hàng loạt](../C%C3%B4ng%20vi%E1%BB%87c%20th%E1%BB%9Di%20v%E1%BB%A5%20ki%E1%BA%BFm%20ti%E1%BB%81n%20nhanh/Ki%E1%BA%BFm%20ti%E1%BB%81n%20tr%E1%BB%B1c%20tuy%E1%BA%BFn%20(MMO)/B%C3%A1n%20h%C3%A0ng%20lo%E1%BA%A1t.md).
+Ngoài ra thì Kendy cũng đã tính đến chuyện xây dựng mô hình kinh doanh một người. Việc này đi một hồi thì cũng là [Kiếm tiền trực tuyến (MMO)](../../Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Ki%E1%BA%BFm%20ti%E1%BB%81n/T%C3%A0i%20kho%E1%BA%A3n%20%E1%BA%A3o,%20mua%20b%C3%A1n%20th%C3%B4ng%20tin%20c%C3%A1%20nh%C3%A2n/Ki%E1%BA%BFm%20ti%E1%BB%81n%20tr%E1%BB%B1c%20tuy%E1%BA%BFn%20(MMO)/index.md) để [Bán số lượng lớn tự động trên các nền tảng](../../Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Ki%E1%BA%BFm%20ti%E1%BB%81n/T%C3%A0i%20kho%E1%BA%A3n%20%E1%BA%A3o,%20mua%20b%C3%A1n%20th%C3%B4ng%20tin%20c%C3%A1%20nh%C3%A2n/Ki%E1%BA%BFm%20ti%E1%BB%81n%20tr%E1%BB%B1c%20tuy%E1%BA%BFn%20(MMO)/B%C3%A1n%20s%E1%BB%91%20l%C6%B0%E1%BB%A3ng%20l%E1%BB%9Bn%20t%E1%BB%B1%20%C4%91%E1%BB%99ng%20tr%C3%AAn%20c%C3%A1c%20n%E1%BB%81n%20t%E1%BA%A3ng.md).
 # Xây dựng hệ thống quản lý
 Trấn Kỳ được sinh ra là để giúp Kendy nắm được các hạn trả nợ. Đây là phản hồi của khách hàng đầu tiên:
 
@@ -46,7 +47,7 @@ Liên quan đến chuyện tiền bạc:
 - Rất tin tưởng rằng tất cả những người trong kinh doanh chỉ muốn đạt lợi ích lớn nhất cho mình, và việc đặt mục tiêu từ thiện làm mục tiêu kinh doanh là sai lầm lớn của một người
 - Nhất định phải có lợi ích cho cả hai bên. Nếu thấy người khác giúp mình mà điều đó không giúp được gì cho họ thì sẽ từ chối
 - Không muốn vì mình mà làm liên luỵ người khác, không lan toả sự tiêu cực của mình. Việc bàn về khó khăn của mình là sự tiêu cực, nên cũng không muốn bàn chuyện của mình để người khác không tiêu cực thêm
-- Không muốn cho người khác biết tình hình nợ vì sợ bị nghĩ là mình vòi tiền
+- Không muốn cho người khác biết tình hình nợ vì sợ bị nghĩ là mình vòi tiền, và muốn bảo vệ mình khỏi bị người khác vòi tiền
 - Rất chú trọng việc giữ uy tín. Nếu đã vay thì tới hạn sẽ cố gắng trả cho bạn, dù bạn đã nói là cứ giữ tiền đó vì bạn không cần có tiền ngay lúc đó. Mọi thứ luôn phải có lộ trình và kỷ luật, chứ không tự phát được
 - Khi cần nói về lãi thì cần ngồi vào xem hệ thống chứ không nói suông được
 
