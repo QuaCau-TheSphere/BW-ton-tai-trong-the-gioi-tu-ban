@@ -1,9 +1,9 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2024-06-21T16:56
+updated: 2024-07-17T00:33
 ---
-chưa kể với các giao dịch đặc biệt như bản thân e, 1 debt multi transaction, 1 debt tạo multi debt tạo multi payment,.... nó ko thể dùng app đơn giản để làm đc.
+chưa kể với các giao dịch đặc biệt như bản thân e, 1 debt multi transaction, 1 debt tạo multi debt tạo multi payment,…. nó ko thể dùng app đơn giản để làm đc.
 odoo ko link project với task management đc?
 
 em có nói anh rồi đó, e fai research + rất cân nhắc mới nói anh option tự build thế này. đến khi vài bữa sử dụng xong anh sử dụng lại các apps trên thị trường là a thấy sự bất cập ngay
@@ -57,7 +57,7 @@ Ooker — 07/23/2023 2:45 PM
 lúc có airtable là đã có api lâu rồi mà?
 Kendy — 07/23/2023 2:45 PM
 e nhớ cách đây 4 năm nó mới bắt đầu rộ api trong airtable
-cơ  bản hồi đó hạn chế lắm, có nhưng ít có apps nào triển khai nhiều
+cơ bản hồi đó hạn chế lắm, có nhưng ít có apps nào triển khai nhiều
 mà cái hồi đó em nhắm tới là automation, chính xác là no code automation
 mà thằng access thì ko match vs cái nhu cầu trên của e
 Kendy — 07/23/2023 2:48 PM
@@ -67,7 +67,7 @@ access ko làm đc à?
 ko có cái nào là no code đâu. Nếu no code thì ko có tuỳ chỉnh nâng cao được rồi 
 Kendy — 07/23/2023 2:53 PM
 obsidian tát thẳng mặt đấy
-bắt học 1 đống, query, js, metadata, yaml,css...
+bắt học 1 đống, query, js, metadata, yaml,css…
 Ooker — 07/23/2023 2:54 PM
 cái đó chưa có gọi là code đâu
 anh vẫn tính nó là cấp độ no code
