@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-07-04T23:52
-updated: 2024-07-07T00:42
+updated: 2024-07-13T21:58
 title: Sự khác biệt giữa các công ty trung gian thanh toán
 ---
 ## Khác biệt về sản phẩm
@@ -11,7 +11,9 @@ title: Sự khác biệt giữa các công ty trung gian thanh toán
 | VNPAY    | ✔          | ✔                | Cà thẻ NFC điện thoại Android |
 | Smartpay | ✔          | ✔                |                               |
 | Ecopay   | ✔          |                  |                               |
-Chính vì Momo không có máy POS còn VNPAY có máy POS, nên Momo tập trung vào sự tiện lợi với người mua hàng, còn VNPAY tập trung vào sự tiện lợi với người bán hàng. [VNPAY tập trung vào những cửa hàng lớn đủ để có nhu cầu dùng máy POS](./VNPAY/VNPAY%20t%E1%BA%ADp%20trung%20v%C3%A0o%20nh%E1%BB%AFng%20c%E1%BB%ADa%20h%C3%A0ng%20l%E1%BB%9Bn%20%C4%91%E1%BB%A7%20%C4%91%E1%BB%83%20c%C3%B3%20nhu%20c%E1%BA%A7u%20d%C3%B9ng%20m%C3%A1y%20POS.md)
+Ko chỉ Vnpay, cả momo, zalopay, smartpay, eco đều có máy pos, ngân hàng cũng có. Mỗi nơi có ưu điểm khác nhau tùy thuộc vào loại thẻ, ngành nghề, nhiều thứ khác.
+
+~~Chính vì Momo không có máy POS còn VNPAY có máy POS~~, nên Momo tập trung vào sự tiện lợi với người mua hàng, còn VNPAY tập trung vào sự tiện lợi với người bán hàng. [VNPAY tập trung vào những cửa hàng lớn đủ để có nhu cầu dùng máy POS](./VNPAY/VNPAY%20t%E1%BA%ADp%20trung%20v%C3%A0o%20nh%E1%BB%AFng%20c%E1%BB%ADa%20h%C3%A0ng%20l%E1%BB%9Bn%20%C4%91%E1%BB%A7%20%C4%91%E1%BB%83%20c%C3%B3%20nhu%20c%E1%BA%A7u%20d%C3%B9ng%20m%C3%A1y%20POS.md)
 
 ## Khác biệt đối với người mua hàng
 Momo có nhiều ưu đãi, khuyến mãi, dịch vụ hơn:
