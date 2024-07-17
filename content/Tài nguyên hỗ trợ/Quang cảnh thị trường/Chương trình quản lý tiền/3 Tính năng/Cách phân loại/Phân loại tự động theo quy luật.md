@@ -1,11 +1,11 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2024-07-17T17:28
+updated: 2024-07-17T22:41
 ---
 Yêu cầu đầu vào:: 
 Đồng thời có thêm tính năng::
-Loại chương trình:: 
+Loại chương trình:: [Chương trình phân loại dữ liệu tự động](../../4%20Lo%E1%BA%A1i%20ch%C6%B0%C6%A1ng%20tr%C3%ACnh/Ch%C6%B0%C6%A1ng%20tr%C3%ACnh%20ph%C3%A2n%20lo%E1%BA%A1i%20d%E1%BB%AF%20li%E1%BB%87u%20t%E1%BB%B1%20%C4%91%E1%BB%99ng.md)
 
 Đáp ứng cho nhu cầu hoặc tính năng:
 - [Việc phân loại thủ công là vấn đề lớn](../../1%20Nhu%20c%E1%BA%A7u%20ng%C6%B0%E1%BB%9Di%20d%C3%B9ng/C%C3%A1ch%20ph%C3%A2n%20lo%E1%BA%A1i/Vi%E1%BB%87c%20ph%C3%A2n%20lo%E1%BA%A1i%20th%E1%BB%A7%20c%C3%B4ng%20l%C3%A0%20v%E1%BA%A5n%20%C4%91%E1%BB%81%20l%E1%BB%9Bn.md)
