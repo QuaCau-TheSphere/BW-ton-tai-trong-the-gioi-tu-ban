@@ -5,4 +5,4 @@ updated: 2024-07-01T15:49
 ---
 Khái niệm:: 
 
-Nguồn:: [CORE Econ](CORE%20Econ.md)
+Nguồn:: [CORE Econ](../CORE%20Econ.md)
