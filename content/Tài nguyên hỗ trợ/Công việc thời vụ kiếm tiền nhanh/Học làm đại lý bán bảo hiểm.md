@@ -25,7 +25,7 @@ Mỗi khoá học có 2 giai đoạn: học cơ bản và học sản phẩm. H�
 
 Làm đại lý ảo thì có bảo hiểm công ty mua cho (không phải bảo hiểm xã hội). Khi có đủ doanh số thì có được những quyền lợi khác.
 
-Xem thêm:: [Làm nhân viên ảo](./L%C3%A0m%20nh%C3%A2n%20vi%C3%AAn%20%E1%BA%A3o.md)
+Xem thêm:: [Làm nhân viên ảo](./Ch%E1%BA%A1y%20ch%E1%BB%89%20ti%C3%AAu%20cho%20nh%C3%A2n%20vi%C3%AAn%20c%C3%A1c%20c%C3%B4ng%20ty/C%C3%B4ng%20vi%E1%BB%87c/L%C3%A0m%20nh%C3%A2n%20vi%C3%AAn%20%E1%BA%A3o.md)
 
 ## Bảo Việt
 - **Lương chấm công:** không cần chấm công. Không có lương

@@ -12,8 +12,8 @@ Chỉ nên làm các công việc này khi bạn không tìm được một côn
 Vào [Discord Quả Cầu](https://doi-thoai.deno.dev/discordQC.Việc-thời-vụ-kiếm-tiền-nhanh.1) để trao đổi thêm với những bạn cũng đang làm những công việc này.
 
 - \-: 
-    - [Học làm đại lý bán bảo hiểm](./H%E1%BB%8Dc%20l%C3%A0m%20%C4%91%E1%BA%A1i%20l%C3%BD%20b%C3%A1n%20b%E1%BA%A3o%20hi%E1%BB%83m.md)
     - [Lừa đảo hội lừa đảo](./L%E1%BB%ABa%20%C4%91%E1%BA%A3o%20h%E1%BB%99i%20l%E1%BB%ABa%20%C4%91%E1%BA%A3o.md)
+    - [Học làm đại lý bán bảo hiểm](./H%E1%BB%8Dc%20l%C3%A0m%20%C4%91%E1%BA%A1i%20l%C3%BD%20b%C3%A1n%20b%E1%BA%A3o%20hi%E1%BB%83m.md)
     - [Phân loại dữ liệu cho người có nhiều dữ liệu](./Ph%C3%A2n%20lo%E1%BA%A1i%20d%E1%BB%AF%20li%E1%BB%87u%20cho%20ng%C6%B0%E1%BB%9Di%20c%C3%B3%20nhi%E1%BB%81u%20d%E1%BB%AF%20li%E1%BB%87u.md)
     - [Săn khảo sát, phỏng vấn người dùng](./S%C4%83n%20kh%E1%BA%A3o%20s%C3%A1t,%20ph%E1%BB%8Fng%20v%E1%BA%A5n%20ng%C6%B0%E1%BB%9Di%20d%C3%B9ng.md)
 
@@ -25,11 +25,11 @@ Vào [Discord Quả Cầu](https://doi-thoai.deno.dev/discordQC.Việc-thời-v�
     - [Tốt nhất là chuẩn bị hợp đồng từ ngày 25 tháng trước, để đến tháng sau là lên hợp đồng xong thì sẽ có 20 ngày để sử dụng](./Ch%E1%BA%A1y%20ch%E1%BB%89%20ti%C3%AAu%20cho%20nh%C3%A2n%20vi%C3%AAn%20c%C3%A1c%20c%C3%B4ng%20ty/Ch%C3%ADnh%20s%C3%A1ch%20nh%C3%A2n%20s%E1%BB%B1%20c%C3%A1c%20c%C3%B4ng%20ty%20trung%20gian%20thanh%20to%C3%A1n/VNPAY/T%E1%BB%91t%20nh%E1%BA%A5t%20l%C3%A0%20chu%E1%BA%A9n%20b%E1%BB%8B%20h%E1%BB%A3p%20%C4%91%E1%BB%93ng%20t%E1%BB%AB%20ng%C3%A0y%2025%20th%C3%A1ng%20tr%C6%B0%E1%BB%9Bc,%20%C4%91%E1%BB%83%20%C4%91%E1%BA%BFn%20th%C3%A1ng%20sau%20l%C3%A0%20l%C3%AAn%20h%E1%BB%A3p%20%C4%91%E1%BB%93ng%20xong%20th%C3%AC%20s%E1%BA%BD%20c%C3%B3%2020%20ng%C3%A0y%20%C4%91%E1%BB%83%20s%E1%BB%AD%20d%E1%BB%A5ng.md)
     - [Chạy chỉ tiêu cho nhân viên các công ty](./Ch%E1%BA%A1y%20ch%E1%BB%89%20ti%C3%AAu%20cho%20nh%C3%A2n%20vi%C3%AAn%20c%C3%A1c%20c%C3%B4ng%20ty/index.md)
     - [Làm nhân viên ảo](./Ch%E1%BA%A1y%20ch%E1%BB%89%20ti%C3%AAu%20cho%20nh%C3%A2n%20vi%C3%AAn%20c%C3%A1c%20c%C3%B4ng%20ty/C%C3%B4ng%20vi%E1%BB%87c/L%C3%A0m%20nh%C3%A2n%20vi%C3%AAn%20%E1%BA%A3o.md)
-    - [Quét mã chéo](./Ch%E1%BA%A1y%20ch%E1%BB%89%20ti%C3%AAu%20cho%20nh%C3%A2n%20vi%C3%AAn%20c%C3%A1c%20c%C3%B4ng%20ty/C%C3%B4ng%20vi%E1%BB%87c/Qu%C3%A9t%20m%C3%A3%20ch%C3%A9o.md)
     - [Viết hợp đồng, thu thập thông tin](./Ch%E1%BA%A1y%20ch%E1%BB%89%20ti%C3%AAu%20cho%20nh%C3%A2n%20vi%C3%AAn%20c%C3%A1c%20c%C3%B4ng%20ty/C%C3%B4ng%20vi%E1%BB%87c/Vi%E1%BA%BFt%20h%E1%BB%A3p%20%C4%91%E1%BB%93ng,%20thu%20th%E1%BA%ADp%20th%C3%B4ng%20tin.md)
+    - [Quét mã chéo](./Ch%E1%BA%A1y%20ch%E1%BB%89%20ti%C3%AAu%20cho%20nh%C3%A2n%20vi%C3%AAn%20c%C3%A1c%20c%C3%B4ng%20ty/C%C3%B4ng%20vi%E1%BB%87c/Qu%C3%A9t%20m%C3%A3%20ch%C3%A9o.md)
     - [Đổi tiền, chụp hình biển hiệu, dán mã QR](./Ch%E1%BA%A1y%20ch%E1%BB%89%20ti%C3%AAu%20cho%20nh%C3%A2n%20vi%C3%AAn%20c%C3%A1c%20c%C3%B4ng%20ty/C%C3%B4ng%20vi%E1%BB%87c/%C4%90%E1%BB%95i%20ti%E1%BB%81n,%20ch%E1%BB%A5p%20h%C3%ACnh%20bi%E1%BB%83n%20hi%E1%BB%87u,%20d%C3%A1n%20m%C3%A3%20QR.md)
-    - [Script](./Ch%E1%BA%A1y%20ch%E1%BB%89%20ti%C3%AAu%20cho%20nh%C3%A2n%20vi%C3%AAn%20c%C3%A1c%20c%C3%B4ng%20ty/T%C3%A0i%20li%E1%BB%87u/Script.md)
     - [Nói mình là nhân viên Momo nhưng gắn mã công ty khác sẽ dễ hơn](./Ch%E1%BA%A1y%20ch%E1%BB%89%20ti%C3%AAu%20cho%20nh%C3%A2n%20vi%C3%AAn%20c%C3%A1c%20c%C3%B4ng%20ty/T%C3%A0i%20li%E1%BB%87u/N%C3%B3i%20m%C3%ACnh%20l%C3%A0%20nh%C3%A2n%20vi%C3%AAn%20Momo%20nh%C6%B0ng%20g%E1%BA%AFn%20m%C3%A3%20c%C3%B4ng%20ty%20kh%C3%A1c%20s%E1%BA%BD%20d%E1%BB%85%20h%C6%A1n.md)
+    - [Script](./Ch%E1%BA%A1y%20ch%E1%BB%89%20ti%C3%AAu%20cho%20nh%C3%A2n%20vi%C3%AAn%20c%C3%A1c%20c%C3%B4ng%20ty/T%C3%A0i%20li%E1%BB%87u/Script.md)
     - [Xử lý tình huống, câu hỏi thường gặp](./Ch%E1%BA%A1y%20ch%E1%BB%89%20ti%C3%AAu%20cho%20nh%C3%A2n%20vi%C3%AAn%20c%C3%A1c%20c%C3%B4ng%20ty/T%C3%A0i%20li%E1%BB%87u/X%E1%BB%AD%20l%C3%BD%20t%C3%ACnh%20hu%E1%BB%91ng,%20c%C3%A2u%20h%E1%BB%8Fi%20th%C6%B0%E1%BB%9Dng%20g%E1%BA%B7p.md)
 
 

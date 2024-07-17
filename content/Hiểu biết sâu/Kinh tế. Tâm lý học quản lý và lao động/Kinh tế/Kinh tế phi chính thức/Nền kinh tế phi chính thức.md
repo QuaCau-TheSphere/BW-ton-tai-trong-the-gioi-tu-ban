@@ -33,6 +33,6 @@ updated: 2024-07-01T15:50
 
 
 
-[Phạm Trường Sơn](../../../H%E1%BB%97%20tr%E1%BB%A3%20ng%C6%B0%E1%BB%9Di%20y%E1%BA%BFu%20th%E1%BA%BF/Ph%E1%BA%A1m%20Tr%C6%B0%E1%BB%9Dng%20S%C6%A1n.md)
+[Phạm Trường Sơn](../../../Kinh%20doanh%20c%C3%B3%20tr%C3%A1ch%20nhi%E1%BB%87m.%20H%E1%BB%97%20tr%E1%BB%A3%20ng%C6%B0%E1%BB%9Di%20y%E1%BA%BFu%20th%E1%BA%BF/H%E1%BB%97%20tr%E1%BB%A3%20ng%C6%B0%E1%BB%9Di%20y%E1%BA%BFu%20th%E1%BA%BF/Ph%E1%BA%A1m%20Tr%C6%B0%E1%BB%9Dng%20S%C6%A1n.md)
 - Anh có thể kể tên một số tiêu chí KPI của các doanh nghiệp làm CSR mà anh thấy là không đi vào bản chất của phát triển cộng đồng ko?
 -  Anh có những từ khoá hoặc nghiên cứu nào nói về những gì nãy giờ mình đang bàn ko? 
