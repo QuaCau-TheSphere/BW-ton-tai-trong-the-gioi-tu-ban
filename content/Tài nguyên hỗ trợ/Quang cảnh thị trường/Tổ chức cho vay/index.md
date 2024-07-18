@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-07-17T21:41
-updated: 2024-07-18T12:04
+updated: 2024-07-18T16:07
 title: Tổ chức cho vay
 ---
 ## Vì người yếu thế
@@ -68,6 +68,7 @@ Thông tin khác:
 ## Hiểu biết sâu
 - \-: 
     - [Cho mượn theo nhóm đảm bảo không bị quịt hơn](../../../Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Vay%20ti%E1%BB%81n/Cho%20m%C6%B0%E1%BB%A3n%20theo%20nh%C3%B3m%20%C4%91%E1%BA%A3m%20b%E1%BA%A3o%20kh%C3%B4ng%20b%E1%BB%8B%20qu%E1%BB%8Bt%20h%C6%A1n.md)
+    - [Vay tiền](../../../Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Vay%20ti%E1%BB%81n/index.md)
 
 - Dịch vụ cho vay khác: 
     - [Bên cho vay sẽ có bảo hiểm cho vay](../../../Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Vay%20ti%E1%BB%81n/D%E1%BB%8Bch%20v%E1%BB%A5%20cho%20vay%20kh%C3%A1c/B%C3%AAn%20cho%20vay%20s%E1%BA%BD%20c%C3%B3%20b%E1%BA%A3o%20hi%E1%BB%83m%20cho%20vay.md)
@@ -93,3 +94,6 @@ Thông tin khác:
     - [Hạn mức và lãi suất không liên quan tới hộ khẩu](../../../Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Vay%20ti%E1%BB%81n/Ng%C3%A2n%20h%C3%A0ng,%20%C4%91i%E1%BB%83m%20t%C3%ADn%20d%E1%BB%A5ng/H%E1%BA%A1n%20m%E1%BB%A9c%20v%C3%A0%20l%C3%A3i%20su%E1%BA%A5t%20kh%C3%B4ng%20li%C3%AAn%20quan%20t%E1%BB%9Bi%20h%E1%BB%99%20kh%E1%BA%A9u.md)
 
 
+
+## Nơi thảo luận
+![](https://i.imgur.com/OtW4epu.png)
