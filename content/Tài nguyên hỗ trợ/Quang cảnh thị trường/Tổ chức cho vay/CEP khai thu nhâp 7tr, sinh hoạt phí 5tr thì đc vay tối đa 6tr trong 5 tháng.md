@@ -1,8 +1,13 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2024-07-18T01:11
+updated: 2024-07-18T16:05
 ---
+
+Nếu vay 20tr thì lãi 500k/tháng 
+Phải là vay cho bản thân chứ không được vay cho người khác. Nếu là vay kinh doanh thì cần có cửa hàng. Mà ở chung cư thì không cho kinh doanh nên phải kiếm nơi nào cho. Rồi mở cửa hàng ở đâu thì vay ở đó.
+
+
 - [Tổ chức Tài chính Vi mô CEP](https://cep.org.vn/ "Tổ chức Tài chính Vi mô CEP") 
 - [Quỹ Tình Thân](https://www.facebook.com/profile.php?id=100077601589557&v=timeline&lst=100038413598261%3A100077601589557%3A1684514892&eav=AfZ-gv2lqyQB0Aq69YPKH02KBMzxO_jh4u9moWoAnA8pDhYcwmMc0rLzR_dOt0o4jOQ&refid=17&paipv=0 "Facebook")
 
