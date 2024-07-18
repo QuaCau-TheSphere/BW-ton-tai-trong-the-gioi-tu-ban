@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2024-07-17T18:15
+updated: 2024-07-18T01:11
 ---
 Tính năng:: [Nhập liệu được trên Telegram](../../3%20T%C3%ADnh%20n%C4%83ng/C%C3%A1ch%20nh%E1%BA%ADp%20li%E1%BB%87u/Nh%E1%BA%ADp%20li%E1%BB%87u%20%C4%91%C6%B0%E1%BB%A3c%20tr%C3%AAn%20Telegram.md)
 Tính năng:: [Nhập được trên máy tính](../../3%20T%C3%ADnh%20n%C4%83ng/C%C3%A1ch%20nh%E1%BA%ADp%20li%E1%BB%87u/Nh%E1%BA%ADp%20%C4%91%C6%B0%E1%BB%A3c%20tr%C3%AAn%20m%C3%A1y%20t%C3%ADnh.md)
@@ -14,6 +14,6 @@ Tính năng:: [Sao chép kết quả sang chương trình khác được](../../
 Tính năng:: [100k/tháng](../../3%20T%C3%ADnh%20n%C4%83ng/Ch%C3%ADnh%20s%C3%A1ch%20gi%C3%A1/100k%20m%E1%BB%97i%20th%C3%A1ng.md)
 Tính năng::
 
-Loại chương trình: [Plugin cho phần mềm khác](../../4%20Lo%E1%BA%A1i%20ch%C6%B0%C6%A1ng%20tr%C3%ACnh/Plugin%20cho%20ph%E1%BA%A7n%20m%E1%BB%81m%20kh%C3%A1c.md)
+Loại chương trình: [Chương trình ghi chép thu chi cá nhân](../../4%20Lo%E1%BA%A1i%20ch%C6%B0%C6%A1ng%20tr%C3%ACnh/Ch%C6%B0%C6%A1ng%20tr%C3%ACnh%20ghi%20ch%C3%A9p%20thu%20chi%20c%C3%A1%20nh%C3%A2n.md),[Plugin cho phần mềm khác](../../4%20Lo%E1%BA%A1i%20ch%C6%B0%C6%A1ng%20tr%C3%ACnh/Plugin%20cho%20ph%E1%BA%A7n%20m%E1%BB%81m%20kh%C3%A1c.md)
 
 ![4 bài học nhớ đời khi lần đầu kinh doanh sản phẩm số - YouTube](https://www.youtube.com/watch?v=hta693y_BaY)

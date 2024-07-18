@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-06-28T23:05
-updated: 2024-06-28T23:25
+updated: 2024-07-18T01:11
 title: Chạy chỉ tiêu cho nhân viên các công ty
 ---
 
@@ -31,8 +31,8 @@ Khó khăn:
 
 - Công việc: 
     - [Làm nhân viên ảo](./C%C3%B4ng%20vi%E1%BB%87c/L%C3%A0m%20nh%C3%A2n%20vi%C3%AAn%20%E1%BA%A3o.md)
-    - [Viết hợp đồng, thu thập thông tin](./C%C3%B4ng%20vi%E1%BB%87c/Vi%E1%BA%BFt%20h%E1%BB%A3p%20%C4%91%E1%BB%93ng,%20thu%20th%E1%BA%ADp%20th%C3%B4ng%20tin.md)
     - [Quét mã chéo](./C%C3%B4ng%20vi%E1%BB%87c/Qu%C3%A9t%20m%C3%A3%20ch%C3%A9o.md)
+    - [Viết hợp đồng, thu thập thông tin](./C%C3%B4ng%20vi%E1%BB%87c/Vi%E1%BA%BFt%20h%E1%BB%A3p%20%C4%91%E1%BB%93ng,%20thu%20th%E1%BA%ADp%20th%C3%B4ng%20tin.md)
     - [Đổi tiền, chụp hình biển hiệu, dán mã QR](./C%C3%B4ng%20vi%E1%BB%87c/%C4%90%E1%BB%95i%20ti%E1%BB%81n,%20ch%E1%BB%A5p%20h%C3%ACnh%20bi%E1%BB%83n%20hi%E1%BB%87u,%20d%C3%A1n%20m%C3%A3%20QR.md)
 
 - Tài liệu: 
