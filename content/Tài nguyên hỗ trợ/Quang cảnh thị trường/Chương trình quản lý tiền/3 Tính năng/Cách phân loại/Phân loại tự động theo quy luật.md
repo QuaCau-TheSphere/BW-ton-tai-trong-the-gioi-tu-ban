@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2024-07-17T22:41
+updated: 2024-07-18T01:11
 ---
 Yêu cầu đầu vào:: 
 Đồng thời có thêm tính năng::
@@ -12,4 +12,4 @@ Loại chương trình:: [Chương trình phân loại dữ liệu tự động]
 - [Chỉ cần xét những mục phổ biến](../../1%20Nhu%20c%E1%BA%A7u%20ng%C6%B0%E1%BB%9Di%20d%C3%B9ng/H%E1%BB%87%20th%E1%BB%91ng%20ph%C3%A2n%20lo%E1%BA%A1i/Ch%E1%BB%89%20c%E1%BA%A7n%20x%C3%A9t%20nh%E1%BB%AFng%20m%E1%BB%A5c%20ph%E1%BB%95%20bi%E1%BA%BFn.md)
 - [Cần xét cặn kẽ từng hạng mục](../../1%20Nhu%20c%E1%BA%A7u%20ng%C6%B0%E1%BB%9Di%20d%C3%B9ng/H%E1%BB%87%20th%E1%BB%91ng%20ph%C3%A2n%20lo%E1%BA%A1i/C%E1%BA%A7n%20x%C3%A9t%20c%E1%BA%B7n%20k%E1%BA%BD%20t%E1%BB%ABng%20h%E1%BA%A1ng%20m%E1%BB%A5c.md)
 - [App của Huy](../../5%20T%C3%AAn%20ch%C6%B0%C6%A1ng%20tr%C3%ACnh/App%20qu%E1%BA%A3n%20l%C3%BD%20chi%20ti%C3%AAu/App%20c%E1%BB%A7a%20Huy.md)
-- [Trấn Kỳ (lõi)](../../5%20T%C3%AAn%20ch%C6%B0%C6%A1ng%20tr%C3%ACnh/Tr%E1%BA%A5n%20K%E1%BB%B3%20(l%C3%B5i).md)
+- [Trấn Kỳ](../../5%20T%C3%AAn%20ch%C6%B0%C6%A1ng%20tr%C3%ACnh/Tr%E1%BA%A5n%20K%E1%BB%B3.md)
