@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-06-28T23:05
-updated: 2024-07-27T23:29
+updated: 2024-07-28T00:43
 alias:
   - Quản lý nhóm nhân viên ảo
 title: Chạy chỉ tiêu cho nhân viên các công ty
