@@ -1,21 +1,13 @@
 ---
 share: true
 created: 2023-11-24T16:59
-updated: 2024-07-28T01:05
+updated: 2024-07-28T01:09
 alias:
   - Tạo lợi nhuận
   - Mô hình kinh doanh
   - Cách kiếm tiền
-  - Kiếm tiền nhanh
-  - Kiếm dự án thuê ngoài
-  - Mở các buổi chia sẻ
-  - lớp học ngắn
-  - buổi huấn luyện
-  - Làm nhân viên ăn lương
-  - Đầu tư
-  - kinh doanh
-  - bán hàng
-description: Kiếm tiền nhanh, Kiếm dự án thuê ngoài, Mở các buổi chia sẻ, lớp học ngắn, buổi huấn luyện, Làm nhân viên ăn lương, Đầu tư, kinh doanh, bán hàng,
+  - Kiếm tiền nhanh Kiếm dự án thuê ngoài Mở các buổi chia sẻ lớp học ngắn buổi huấn luyện Làm nhân viên ăn lương Đầu tư kinh doanh bán hàng
+description: Kiếm tiền nhanh, Kiếm dự án thuê ngoài, Mở các buổi chia sẻ, lớp học ngắn, buổi huấn luyện, Làm nhân viên ăn lương, Đầu tư, kinh doanh, bán hàng
 ---
 | Hình thức                                                                                                                                   | Thời gian nhận tiền    |
 | ------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------- |
@@ -95,5 +87,6 @@ Liên quan đến lập trình, dữ liệu:
 - [Tạo app quản lý chi tiêu từ Trấn Kỳ](../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Quang%20c%E1%BA%A3nh%20th%E1%BB%8B%20tr%C6%B0%E1%BB%9Dng/Ch%C6%B0%C6%A1ng%20tr%C3%ACnh%20qu%E1%BA%A3n%20l%C3%BD%20ti%E1%BB%81n/5%20T%C3%AAn%20ch%C6%B0%C6%A1ng%20tr%C3%ACnh/App%20qu%E1%BA%A3n%20l%C3%BD%20chi%20ti%C3%AAu/App%20c%E1%BB%A7a%20Huy.md)
 - [Tạo báo cáo tiếp thị quản lý được theo từng cấp](../Gia%20c%C3%B4ng%20gi%E1%BA%A3i%20ph%C3%A1p,%20%C4%91%C3%A1p%20%E1%BB%A9ng%20nhu%20c%E1%BA%A7u%20doanh%20nghi%E1%BB%87p/T%E1%BA%A1o%20b%C3%A1o%20c%C3%A1o%20ti%E1%BA%BFp%20th%E1%BB%8B%20qu%E1%BA%A3n%20l%C3%BD%20%C4%91%C6%B0%E1%BB%A3c%20theo%20t%E1%BB%ABng%20c%E1%BA%A5p.md)
 - [Tạo plugin tích hợp vào các chương trình kế toán](../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Quang%20c%E1%BA%A3nh%20th%E1%BB%8B%20tr%C6%B0%E1%BB%9Dng/Ch%C6%B0%C6%A1ng%20tr%C3%ACnh%20qu%E1%BA%A3n%20l%C3%BD%20ti%E1%BB%81n/4%20Lo%E1%BA%A1i%20ch%C6%B0%C6%A1ng%20tr%C3%ACnh/Ch%C6%B0%C6%A1ng%20tr%C3%ACnh%20k%E1%BA%BF%20to%C3%A1n.md) 
-- [Bộ thẻ học từ vựng tiếng Anh nâng cao GRE Anki](B%E1%BB%99%20th%E1%BA%BB%20h%E1%BB%8Dc%20t%E1%BB%AB%20v%E1%BB%B1ng%20ti%E1%BA%BFng%20Anh%20n%C3%A2ng%20cao%20GRE%20Anki.md) 
-- [Bộ sưu tập từ điển chuyên ngành](B%E1%BB%99%20s%C6%B0u%20t%E1%BA%ADp%20t%E1%BB%AB%20%C4%91i%E1%BB%83n%20chuy%C3%AAn%20ng%C3%A0nh.md) 
+- [Bán bộ thẻ học từ vựng tiếng Anh nâng cao GRE Anki](https://quảcầu.cc/bo-the-hoc-tu-vung-tieng-anh-nang-cao?utm_source=Vault+B+Tồn+tại+trong+thế+giới+tư+bản+(Dự+án)&utm_medium=Vault&utm_campaign=Tài+nguyên+khác%2Cngôn+ngữ%2Cnét+nghĩa+ẩn%2CHọc+tiếng+Anh%2Ckhoa+học+nhận+thức&utm_content=📐+Dự+án%2FGiúp+nhau%2FTạo+sinh+kế%2C+thu+nhập%2C+dòng+tiền.md&utm_term=)
+- [Bán bộ sưu tập từ điển chuyên ngành](https://quảcầu.cc/tu-dien-chuyen-nganh?utm_source=Vault+B+Tồn+tại+trong+thế+giới+tư+bản+(Dự+án)&utm_medium=Vault&utm_campaign=Bài+nổi+bật%2CTài+nguyên+khác%2CLàm+việc+hiệu+quả%2Cdịch%2Csách&utm_content=📐+Dự+án%2FGiúp+nhau%2FTạo+sinh+kế%2C+thu+nhập%2C+dòng+tiền.md&utm_term=)
+
