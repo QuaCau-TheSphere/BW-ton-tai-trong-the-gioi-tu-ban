@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2024-07-27T18:33
+updated: 2024-07-28T00:36
 ---
 # Tạo tệp Excel tự động để nhập khẩu vào các phần mềm kế toán 
 Chia sẻ với mọi người một chương trình phân loại câu nhập mình mới viết. Ví dụ, với câu nhập đầu vào là:
