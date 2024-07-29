@@ -3,7 +3,7 @@ share: true
 title: Kendy cần gì?
 description: Cần giảm áp lực trả nợ, tạo dòng tiền, xây dựng hệ thống quản lý, giảm tiền cho các nhu cầu
 created: 2023-09-05T16:17
-updated: 2024-07-28T16:20
+updated: 2024-07-29T13:18
 alias:
   - Trí cần gì?
 ---
@@ -11,15 +11,14 @@ Cảm ơn bạn đã quan tâm tới Kendy. Thực ra bọn mình nghĩ việc g
 
 Đây là những thứ Kendy cần:
 # Giảm áp lực trả nợ
-[Một trong những cách để ngân hàng cấp lại tín dụng của mình là có tiền để qua đêm.](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Vay%20ti%E1%BB%81n/Ng%C3%A2n%20h%C3%A0ng,%20%C4%91i%E1%BB%83m%20t%C3%ADn%20d%E1%BB%A5ng/Ng%C3%A2n%20h%C3%A0ng%20c%E1%BA%A5p%20t%C3%ADn%20d%E1%BB%A5ng%20b%E1%BA%B1ng%20vi%E1%BB%87c%20nh%C3%ACn%20s%E1%BB%91%20t%C3%A0i%20kho%E1%BA%A3n%20v%C3%A0o%20cu%E1%BB%91i%20ng%C3%A0y.md) Đến sáng tài khoản không có gì cũng được. Làm như vậy tầm vài tháng thì ngân hàng sẽ nghĩ là mình có nguồn tiền dư thì sẽ cấp tín dụng cao hơn.
+- [Huy động nguồn tiền nhàn rỗi](../C%C3%B4ng%20vi%E1%BB%87c/Huy%20%C4%91%E1%BB%99ng%20ngu%E1%BB%93n%20ti%E1%BB%81n%20nh%C3%A0n%20r%E1%BB%97i.md)
+- [Thương lượng với chủ nợ](../C%C3%B4ng%20vi%E1%BB%87c/Th%C6%B0%C6%A1ng%20l%C6%B0%E1%BB%A3ng%20v%E1%BB%9Bi%20ch%E1%BB%A7%20n%E1%BB%A3.md)
+- [Tìm nguồn cho mượn 100tr qua đêm, sáng hôm sau trả lại, liên tục vài tháng](../C%C3%B4ng%20vi%E1%BB%87c/T%C3%ACm%20ngu%E1%BB%93n%20cho%20m%C6%B0%E1%BB%A3n%20100tr%20qua%20%C4%91%C3%AAm,%20s%C3%A1ng%20h%C3%B4m%20sau%20tr%E1%BA%A3%20l%E1%BA%A1i,%20li%C3%AAn%20t%E1%BB%A5c%20v%C3%A0i%20th%C3%A1ng.md)
+- [Đứng ra vay giùm](../C%C3%B4ng%20vi%E1%BB%87c/%C4%90%E1%BB%A9ng%20ra%20vay%20gi%C3%B9m.md)
 
-Như vậy, bọn mình cần tìm nguồn có thể cho Kendy mượn tầm 100tr để trong ngân hàng qua đêm, sáng hôm sau trả lại cũng được. Chỉ cần đến trước 5h chiều thì lại cho mượn tiếp. 
 # Tạo dòng tiền
-Việc bọn mình tạo ra Trấn Kỳ cũng như việc tổ chức [Các buổi đáp ứng nhu cầu học cách sử dụng công cụ và tư duy lập trình cho nhu cầu công việc](C%C3%A1c%20bu%E1%BB%95i%20%C4%91%C3%A1p%20%E1%BB%A9ng%20nhu%20c%E1%BA%A7u%20h%E1%BB%8Dc%20c%C3%A1ch%20s%E1%BB%AD%20d%E1%BB%A5ng%20c%C3%B4ng%20c%E1%BB%A5%20v%C3%A0%20t%C6%B0%20duy%20l%E1%BA%ADp%20tr%C3%ACnh%20cho%20nhu%20c%E1%BA%A7u%20c%C3%B4ng%20vi%E1%BB%87c.md) như [Các buổi hướng dẫn tích hợp Trấn Kỳ vào hệ thống quản lý](C%C3%A1c%20bu%E1%BB%95i%20h%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn%20t%C3%ADch%20h%E1%BB%A3p%20Tr%E1%BA%A5n%20K%E1%BB%B3%20v%C3%A0o%20h%E1%BB%87%20th%E1%BB%91ng%20qu%E1%BA%A3n%20l%C3%BD.md) hoặc [Các buổi hướng dẫn cào dữ liệu web vào Google Calendar](C%C3%A1c%20bu%E1%BB%95i%20h%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn%20c%C3%A0o%20d%E1%BB%AF%20li%E1%BB%87u%20web%20v%C3%A0o%20Google%20Calendar.md) là để tạo ra dòng tiền để giúp Kendy. Bạn có thể giúp đăng bài hỗ trợ.
+Bài chi tiết:: [Kiếm tiền từ các hoạt động của Quả Cầu](../T%E1%BA%A1o%20sinh%20k%E1%BA%BF,%20thu%20nh%E1%BA%ADp,%20d%C3%B2ng%20ti%E1%BB%81n.md#Đầu%20tư,%20kinh%20doanh,%20bán%20hàng)
 
-Xem thêm:: [Kiếm tiền từ Trấn Kỳ](../../Tr%E1%BA%A5n%20K%E1%BB%B3/C%C5%A9/9%20Blog/Ki%E1%BA%BFm%20ti%E1%BB%81n%20t%E1%BB%AB%20Tr%E1%BA%A5n%20K%E1%BB%B3.md)
-
-Ngoài ra thì Kendy cũng đã tính đến chuyện xây dựng mô hình kinh doanh một người. Việc này đi một hồi thì cũng là [Kiếm tiền trực tuyến (MMO)](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Ki%E1%BA%BFm%20ti%E1%BB%81n/T%C3%A0i%20kho%E1%BA%A3n%20%E1%BA%A3o,%20mua%20b%C3%A1n%20th%C3%B4ng%20tin%20c%C3%A1%20nh%C3%A2n/Ki%E1%BA%BFm%20ti%E1%BB%81n%20tr%E1%BB%B1c%20tuy%E1%BA%BFn%20(MMO)/index.md) để [Bán số lượng lớn tự động trên các nền tảng](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Ki%E1%BA%BFm%20ti%E1%BB%81n/T%C3%A0i%20kho%E1%BA%A3n%20%E1%BA%A3o,%20mua%20b%C3%A1n%20th%C3%B4ng%20tin%20c%C3%A1%20nh%C3%A2n/Ki%E1%BA%BFm%20ti%E1%BB%81n%20tr%E1%BB%B1c%20tuy%E1%BA%BFn%20(MMO)/B%C3%A1n%20s%E1%BB%91%20l%C6%B0%E1%BB%A3ng%20l%E1%BB%9Bn%20t%E1%BB%B1%20%C4%91%E1%BB%99ng%20tr%C3%AAn%20c%C3%A1c%20n%E1%BB%81n%20t%E1%BA%A3ng.md).
 # Xây dựng hệ thống quản lý
 Trấn Kỳ được sinh ra là để giúp Kendy nắm được các hạn trả nợ. Đây là phản hồi của khách hàng đầu tiên:
 
