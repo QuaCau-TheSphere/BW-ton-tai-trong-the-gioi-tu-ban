@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-11-24T16:59
-updated: 2024-07-28T17:06
+updated: 2024-07-28T17:22
 alias:
   - Kiếm tiền nhanh Kiếm dự án thuê ngoài Mở các buổi chia sẻ lớp học ngắn buổi huấn luyện Làm nhân viên ăn lương Đầu tư kinh doanh bán hàng Tạo lợi nhuận
   - Một số ý tưởng kiếm tiền
@@ -17,11 +17,11 @@ description: Kiếm tiền từ các hoạt động của Quả Cầu
 | [Đầu tư, kinh doanh, bán hàng](T%E1%BA%A1o%20sinh%20k%E1%BA%BF,%20thu%20nh%E1%BA%ADp,%20d%C3%B2ng%20ti%E1%BB%81n.md#Đầu%20tư,%20kinh%20doanh,%20bán%20hàng)                                             | Tuỳ vào mô hình cụ thể |
 
 ## Kiếm tiền nhanh
-- [BPO](../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/C%C3%B4ng%20vi%E1%BB%87c%20th%E1%BB%9Di%20v%E1%BB%A5%20ki%E1%BA%BFm%20ti%E1%BB%81n%20nhanh/BPO.md)
-- [Làm nhân viên ảo](../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/C%C3%B4ng%20vi%E1%BB%87c%20th%E1%BB%9Di%20v%E1%BB%A5%20ki%E1%BA%BFm%20ti%E1%BB%81n%20nhanh/Ch%E1%BA%A1y%20ch%E1%BB%89%20ti%C3%AAu%20cho%20nh%C3%A2n%20vi%C3%AAn%20c%C3%A1c%20c%C3%B4ng%20ty/C%C3%B4ng%20vi%E1%BB%87c/L%C3%A0m%20nh%C3%A2n%20vi%C3%AAn%20%E1%BA%A3o.md)
 - [Quét mã chéo](../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/C%C3%B4ng%20vi%E1%BB%87c%20th%E1%BB%9Di%20v%E1%BB%A5%20ki%E1%BA%BFm%20ti%E1%BB%81n%20nhanh/Ch%E1%BA%A1y%20ch%E1%BB%89%20ti%C3%AAu%20cho%20nh%C3%A2n%20vi%C3%AAn%20c%C3%A1c%20c%C3%B4ng%20ty/C%C3%B4ng%20vi%E1%BB%87c/Qu%C3%A9t%20m%C3%A3%20ch%C3%A9o.md)
+- [Làm nhân viên ảo](../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/C%C3%B4ng%20vi%E1%BB%87c%20th%E1%BB%9Di%20v%E1%BB%A5%20ki%E1%BA%BFm%20ti%E1%BB%81n%20nhanh/Ch%E1%BA%A1y%20ch%E1%BB%89%20ti%C3%AAu%20cho%20nh%C3%A2n%20vi%C3%AAn%20c%C3%A1c%20c%C3%B4ng%20ty/C%C3%B4ng%20vi%E1%BB%87c/L%C3%A0m%20nh%C3%A2n%20vi%C3%AAn%20%E1%BA%A3o.md)
 - [Viết hợp đồng, thu thập thông tin](../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/C%C3%B4ng%20vi%E1%BB%87c%20th%E1%BB%9Di%20v%E1%BB%A5%20ki%E1%BA%BFm%20ti%E1%BB%81n%20nhanh/Ch%E1%BA%A1y%20ch%E1%BB%89%20ti%C3%AAu%20cho%20nh%C3%A2n%20vi%C3%AAn%20c%C3%A1c%20c%C3%B4ng%20ty/C%C3%B4ng%20vi%E1%BB%87c/Vi%E1%BA%BFt%20h%E1%BB%A3p%20%C4%91%E1%BB%93ng,%20thu%20th%E1%BA%ADp%20th%C3%B4ng%20tin.md)
 - [Đổi tiền, chụp hình biển hiệu, dán mã QR](../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/C%C3%B4ng%20vi%E1%BB%87c%20th%E1%BB%9Di%20v%E1%BB%A5%20ki%E1%BA%BFm%20ti%E1%BB%81n%20nhanh/Ch%E1%BA%A1y%20ch%E1%BB%89%20ti%C3%AAu%20cho%20nh%C3%A2n%20vi%C3%AAn%20c%C3%A1c%20c%C3%B4ng%20ty/C%C3%B4ng%20vi%E1%BB%87c/%C4%90%E1%BB%95i%20ti%E1%BB%81n,%20ch%E1%BB%A5p%20h%C3%ACnh%20bi%E1%BB%83n%20hi%E1%BB%87u,%20d%C3%A1n%20m%C3%A3%20QR.md)
+- [BPO](../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/C%C3%B4ng%20vi%E1%BB%87c%20th%E1%BB%9Di%20v%E1%BB%A5%20ki%E1%BA%BFm%20ti%E1%BB%81n%20nhanh/BPO.md)
 - [Chạy sự kiện, hậu cần, truyền thông](../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/C%C3%B4ng%20vi%E1%BB%87c%20th%E1%BB%9Di%20v%E1%BB%A5%20ki%E1%BA%BFm%20ti%E1%BB%81n%20nhanh/Ch%E1%BA%A1y%20s%E1%BB%B1%20ki%E1%BB%87n,%20h%E1%BA%ADu%20c%E1%BA%A7n,%20truy%E1%BB%81n%20th%C3%B4ng.md)
 - [Học làm đại lý bán bảo hiểm](../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/C%C3%B4ng%20vi%E1%BB%87c%20th%E1%BB%9Di%20v%E1%BB%A5%20ki%E1%BA%BFm%20ti%E1%BB%81n%20nhanh/H%E1%BB%8Dc%20l%C3%A0m%20%C4%91%E1%BA%A1i%20l%C3%BD%20b%C3%A1n%20b%E1%BA%A3o%20hi%E1%BB%83m.md)
 - [Lừa đảo hội lừa đảo](../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/C%C3%B4ng%20vi%E1%BB%87c%20th%E1%BB%9Di%20v%E1%BB%A5%20ki%E1%BA%BFm%20ti%E1%BB%81n%20nhanh/L%E1%BB%ABa%20%C4%91%E1%BA%A3o%20h%E1%BB%99i%20l%E1%BB%ABa%20%C4%91%E1%BA%A3o.md)
