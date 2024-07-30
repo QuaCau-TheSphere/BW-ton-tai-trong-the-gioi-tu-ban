@@ -3,7 +3,7 @@ share: true
 title: Kendy cần gì?
 description: Cần giảm áp lực trả nợ, tạo dòng tiền, xây dựng hệ thống quản lý, giảm tiền cho các nhu cầu
 created: 2023-09-05T16:17
-updated: 2024-07-29T13:23
+updated: 2024-07-30T14:43
 alias:
   - Trí cần gì?
 ---
@@ -17,7 +17,7 @@ Cảm ơn bạn đã quan tâm tới Kendy. Thực ra bọn mình nghĩ việc g
 - [Đứng ra vay giùm](../C%C3%B4ng%20vi%E1%BB%87c/%C4%90%E1%BB%A9ng%20ra%20vay%20gi%C3%B9m.md)
 
 # Tạo dòng tiền
-Bài chi tiết:: [Kiếm tiền từ các hoạt động của Quả Cầu](../T%E1%BA%A1o%20sinh%20k%E1%BA%BF,%20thu%20nh%E1%BA%ADp,%20d%C3%B2ng%20ti%E1%BB%81n.md#Đầu%20tư,%20kinh%20doanh,%20bán%20hàng)
+Bài chi tiết:: [Kiếm tiền từ các hoạt động của Quả Cầu](T%E1%BA%A1o%20sinh%20k%E1%BA%BF,%20thu%20nh%E1%BA%ADp,%20d%C3%B2ng%20ti%E1%BB%81n.md#Đầu%20tư,%20kinh%20doanh,%20bán%20hàng)
 
 # Xây dựng hệ thống quản lý
 Trấn Kỳ được sinh ra là để giúp Kendy nắm được các hạn trả nợ. Đây là phản hồi của khách hàng đầu tiên:
@@ -34,7 +34,7 @@ Hệ thống quản lý hiện nay của Kendy là Fibery. Kendy rất đau đ�
 
 # Giảm tiền cho các nhu cầu sống khác
 - **Ăn:** Lượng thức ăn bỏ phí trong thành phố là rất lớn, đặc biệt là ở các tiệc cưới. Có FoodShare là tổ chức giúp giảm bớt sự lãng phí này
-- **Ở:** Nhà trọ hiện tại lên giá, dọn đồ chuyển đi chỗ khác cũng cực và làm cản trở công việc kiếm tiền. Nếu dọn về quê thì cũng không có điều kiện để kiếm tiền
+- **Ở:** Nhà trọ hiện tại không được thông gió dù cũng có cửa sổ. Nếu dọn về quê thì cũng không có điều kiện để kiếm tiền
 - **Nuôi con:** 
 - **Y tế:** Cần tìm người có kiến thức y học để có thể lên một chế độ dinh dưỡng phù hợp
 
