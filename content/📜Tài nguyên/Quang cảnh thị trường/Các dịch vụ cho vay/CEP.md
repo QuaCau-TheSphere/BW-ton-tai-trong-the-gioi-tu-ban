@@ -1,11 +1,12 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2024-07-28T15:22
+updated: 2024-08-05T16:48
 ---
 
 URL:: https://cep.org.vn
 Nếu vay 20tr thì lãi 500k/tháng 
+nếu khai thu nhâp 7tr, sinh hoạt phí 5tr thì đc vay tối đa 6tr trong 5 tháng
 
 |                      | Mục đích            | Mức vay tối đa | Thời hạn tối đa | Dành cho người trong hay ngoài công đoàn? |
 | -------------------- | ------------------- | -------------- | --------------- | ----------------------------------------- |

@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2024-07-29T13:24
+updated: 2024-08-01T17:08
 ---
 # Quỹ tín dụng
 - [Tổ chức Tài chính Vi mô CEP](https://cep.org.vn/ "Tổ chức Tài chính Vi mô CEP") với [Quỹ Tình Thân](https://www.facebook.com/profile.php?id=100077601589557&v=timeline&lst=100038413598261%3A100077601589557%3A1684514892&eav=AfZ-gv2lqyQB0Aq69YPKH02KBMzxO_jh4u9moWoAnA8pDhYcwmMc0rLzR_dOt0o4jOQ&refid=17&paipv=0 "Facebook") khác nhau thế nào?
@@ -10,7 +10,7 @@ updated: 2024-07-29T13:24
 -  Anh có những từ khoá hoặc nghiên cứu nào nói về những gì nãy giờ mình đang bàn ko? 
 - Ngân hàng có những ràng buộc gì mà không thể cho kéo dài nợ được? Vì đằng nào thì nó cũng bị mất
 - Ai là người muốn có giải pháp cho người đang ngập trong nợ nhất?
-- Nếu [Cho vay ngang hàng](../../Kinh%20t%E1%BA%BF.%20T%C3%A2m%20l%C3%BD%20h%E1%BB%8Dc%20qu%E1%BA%A3n%20l%C3%BD%20v%C3%A0%20lao%20%C4%91%E1%BB%99ng/Kinh%20t%E1%BA%BF/C%C3%A1c%20lo%E1%BA%A1i%20h%C3%ACnh%20kinh%20t%E1%BA%BF%20m%E1%BB%9Bi/Cho%20vay%20ngang%20h%C3%A0ng.md), [Cho mượn theo nhóm đảm bảo hơn](../../Kinh%20t%E1%BA%BF.%20T%C3%A2m%20l%C3%BD%20h%E1%BB%8Dc%20qu%E1%BA%A3n%20l%C3%BD%20v%C3%A0%20lao%20%C4%91%E1%BB%99ng/Kinh%20t%E1%BA%BF/C%C3%A1c%20lo%E1%BA%A1i%20h%C3%ACnh%20kinh%20t%E1%BA%BF%20m%E1%BB%9Bi/Cho%20m%C6%B0%E1%BB%A3n%20theo%20nh%C3%B3m%20%C4%91%E1%BA%A3m%20b%E1%BA%A3o%20h%C6%A1n.md), tại sao các doanh nghiệp không áp dụng
+- Nếu [Cho vay ngang hàng](../../Kinh%20t%E1%BA%BF.%20T%C3%A2m%20l%C3%BD%20h%E1%BB%8Dc%20qu%E1%BA%A3n%20l%C3%BD%20v%C3%A0%20lao%20%C4%91%E1%BB%99ng/Kinh%20t%E1%BA%BF/C%C3%A1c%20lo%E1%BA%A1i%20h%C3%ACnh%20kinh%20t%E1%BA%BF%20m%E1%BB%9Bi/Cho%20vay%20ngang%20h%C3%A0ng.md), [Cho mượn theo nhóm đảm bảo không bị quịt hơn](../../Vay%20ti%E1%BB%81n/Cho%20m%C6%B0%E1%BB%A3n%20theo%20nh%C3%B3m%20%C4%91%E1%BA%A3m%20b%E1%BA%A3o%20kh%C3%B4ng%20b%E1%BB%8B%20qu%E1%BB%8Bt%20h%C6%A1n.md), tại sao các doanh nghiệp không áp dụng
 - Các chương trình hỗ trợ người lao động của chính phủ gặp vấn đề gì mà không phát triển được?
 - Vì sao anh không lo lắng là mình đang bị để ý? Dù sao anh cũng là người có tiếng trong cộng đồng mà
 Luật pháp chỉ hiểu về kinh doanh, chứ ko phải là phi lợi nhuận. Chính thức hoá khi lập quỹ là chết với luật tín dụng
