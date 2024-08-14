@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-07-17T21:41
-updated: 2024-08-05T16:48
+updated: 2024-08-13T17:17
 title: Các dịch vụ cho vay
 ---
 ## Vì người yếu thế
@@ -54,7 +54,7 @@ Ngân hàng CIMB tạo thẻ tín dụng hạn mức 100tr, chỉ cần trả 3t
 |              | Số tiền rút lần đầu | Lãi | Thời hạn |
 | ------------ | ------------------- | --- | -------- |
 | [Moneyveo](./Moneyveo.md) | 1tr5                |     | 10 ngày  |
-| Cayvang      | 1tr5                |     | 10 ngày  |
+| [Cayvang](./Cayvang.md)      | 1tr5                |     | 10 ngày  |
 | Moneycat     |                     |     |          |
 
 Jeff chỉ là cái app để chuyển sang các app cho vay khác
