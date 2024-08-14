@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2024-07-29T16:44
+updated: 2024-08-14T21:27
 ---
 - Tình hình nợ hiện nay thế nào? Các khoản nợ, lãi và thời hạn trả của chúng, v.v.
 - Tình hình nợ này ảnh hưởng đến cuộc sống của bạn thế nào?
@@ -11,6 +11,6 @@ updated: 2024-07-29T16:44
 - Bạn có chấp nhận [Xù nợ](../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Vay%20ti%E1%BB%81n/X%C3%B9%20n%E1%BB%A3.md) không? Vì sao?
 - Ai sẽ là người bạn cảm thấy thoải mái khi họ biết được những gì bạn ghi ở đây? Vì sao?
 
-[Nền kinh tế chia sẻ](../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/N%E1%BB%81n%20kinh%20t%E1%BA%BF%20chia%20s%E1%BA%BB.md)
+[Các nhóm tặng đồ](../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Qu%C3%A0%20t%E1%BA%B7ng/C%C3%A1c%20nh%C3%B3m%20t%E1%BA%B7ng%20%C4%91%E1%BB%93.md)
 
 **Mục tiêu: cắt hết lãi**
