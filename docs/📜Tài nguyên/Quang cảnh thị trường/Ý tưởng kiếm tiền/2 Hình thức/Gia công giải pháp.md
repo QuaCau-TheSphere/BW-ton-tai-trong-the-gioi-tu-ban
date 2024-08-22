@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2024-07-30T14:01
+updated: 2024-08-16T11:53
 ---
 - Nghiên cứu người dùng, phát triển sản phẩm
 - Nắm bắt xu hướng mạng
