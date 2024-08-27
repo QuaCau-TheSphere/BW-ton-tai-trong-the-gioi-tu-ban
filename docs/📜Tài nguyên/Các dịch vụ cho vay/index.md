@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-07-17T21:41
-updated: 2024-08-27T14:10
+updated: 2024-08-27T16:46
 title: Các dịch vụ cho vay
 ---
 ## Vì người yếu thế
@@ -48,7 +48,7 @@ Ngân hàng CIMB tạo thẻ tín dụng hạn mức 100tr, chỉ cần trả 3t
 [Thẻ tín dụng và ví trả sau đều là các hình thức cấp tín dụng](../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Vay%20ti%E1%BB%81n/Ng%C3%A2n%20h%C3%A0ng,%20%C4%91i%E1%BB%83m%20t%C3%ADn%20d%E1%BB%A5ng/Th%E1%BA%BB%20t%C3%ADn%20d%E1%BB%A5ng%20v%C3%A0%20v%C3%AD%20tr%E1%BA%A3%20sau%20%C4%91%E1%BB%81u%20l%C3%A0%20c%C3%A1c%20h%C3%ACnh%20th%E1%BB%A9c%20c%E1%BA%A5p%20t%C3%ADn%20d%E1%BB%A5ng.md)
 
 ## App cho vay nóng
-[Cho vay nóng không cần điểm tín dụng](./Cho%20vay%20n%C3%B3ng%20kh%C3%B4ng%20c%E1%BA%A7n%20%C4%91i%E1%BB%83m%20t%C3%ADn%20d%E1%BB%A5ng/index.md)
+[App vay nóng không cần điểm tín dụng](./App%20vay%20n%C3%B3ng%20kh%C3%B4ng%20c%E1%BA%A7n%20%C4%91i%E1%BB%83m%20t%C3%ADn%20d%E1%BB%A5ng/index.md)
 
 ## Tiệm cầm đồ
 F88 giống tiệm cầm đồ, dùng cà vẹt xe để vay
@@ -71,8 +71,9 @@ Thông tin khác:
     - [Rất nhiều các công ty cho vay lấy dữ liệu từ Viettel](../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Vay%20ti%E1%BB%81n/D%E1%BB%8Bch%20v%E1%BB%A5%20cho%20vay%20kh%C3%A1c/Vay%20c%C3%B3%20%C4%91i%E1%BB%83m%20t%C3%ADn%20d%E1%BB%A5ng/R%E1%BA%A5t%20nhi%E1%BB%81u%20c%C3%A1c%20c%C3%B4ng%20ty%20cho%20vay%20l%E1%BA%A5y%20d%E1%BB%AF%20li%E1%BB%87u%20t%E1%BB%AB%20Viettel.md)
     - [App đen thực chất là mấy thằng trung quốc đặt sever bên Campuchia với Lào ép về cho vay](../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Vay%20ti%E1%BB%81n/D%E1%BB%8Bch%20v%E1%BB%A5%20cho%20vay%20kh%C3%A1c/Vay%20kh%C3%B4ng%20%C4%91i%E1%BB%83m%20t%C3%ADn%20d%E1%BB%A5ng/App%20%C4%91en%20th%E1%BB%B1c%20ch%E1%BA%A5t%20l%C3%A0%20m%E1%BA%A5y%20th%E1%BA%B1ng%20trung%20qu%E1%BB%91c%20%C4%91%E1%BA%B7t%20sever%20b%C3%AAn%20Campuchia%20v%E1%BB%9Bi%20L%C3%A0o%20%C3%A9p%20v%E1%BB%81%20cho%20vay.md)
     - [App đen, vay nóng là những cái tên cho cùng một thứ](../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Vay%20ti%E1%BB%81n/D%E1%BB%8Bch%20v%E1%BB%A5%20cho%20vay%20kh%C3%A1c/Vay%20kh%C3%B4ng%20%C4%91i%E1%BB%83m%20t%C3%ADn%20d%E1%BB%A5ng/App%20%C4%91en,%20vay%20n%C3%B3ng%20l%C3%A0%20nh%E1%BB%AFng%20c%C3%A1i%20t%C3%AAn%20cho%20c%C3%B9ng%20m%E1%BB%99t%20th%E1%BB%A9.md)
-    - [App đen có khả năng nhận biết sim đã xài trong bao lâu](../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Vay%20ti%E1%BB%81n/D%E1%BB%8Bch%20v%E1%BB%A5%20cho%20vay%20kh%C3%A1c/Vay%20kh%C3%B4ng%20%C4%91i%E1%BB%83m%20t%C3%ADn%20d%E1%BB%A5ng/App%20%C4%91en%20c%C3%B3%20kh%E1%BA%A3%20n%C4%83ng%20nh%E1%BA%ADn%20bi%E1%BA%BFt%20sim%20%C4%91%C3%A3%20x%C3%A0i%20trong%20bao%20l%C3%A2u.md)
     - [Vay nóng nếu không trả sẽ bị bêu xấu với mọi người](../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Vay%20ti%E1%BB%81n/D%E1%BB%8Bch%20v%E1%BB%A5%20cho%20vay%20kh%C3%A1c/Vay%20kh%C3%B4ng%20%C4%91i%E1%BB%83m%20t%C3%ADn%20d%E1%BB%A5ng/Vay%20n%C3%B3ng%20n%E1%BA%BFu%20kh%C3%B4ng%20tr%E1%BA%A3%20s%E1%BA%BD%20b%E1%BB%8B%20b%C3%AAu%20x%E1%BA%A5u%20v%E1%BB%9Bi%20m%E1%BB%8Di%20ng%C6%B0%E1%BB%9Di.md)
+    - [App đen có người trong các công ty viễn thông nên biết được sim đã xài trong bao lâu](../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Vay%20ti%E1%BB%81n/D%E1%BB%8Bch%20v%E1%BB%A5%20cho%20vay%20kh%C3%A1c/Vay%20kh%C3%B4ng%20%C4%91i%E1%BB%83m%20t%C3%ADn%20d%E1%BB%A5ng/App%20%C4%91en%20c%C3%B3%20ng%C6%B0%E1%BB%9Di%20trong%20c%C3%A1c%20c%C3%B4ng%20ty%20vi%E1%BB%85n%20th%C3%B4ng%20n%C3%AAn%20bi%E1%BA%BFt%20%C4%91%C6%B0%E1%BB%A3c%20sim%20%C4%91%C3%A3%20x%C3%A0i%20trong%20bao%20l%C3%A2u.md)
+    - [DoctorDong là bên mở màng cho thị trường này tại Việt Nam. Bây giờ là Cayvang](../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Vay%20ti%E1%BB%81n/D%E1%BB%8Bch%20v%E1%BB%A5%20cho%20vay%20kh%C3%A1c/Vay%20kh%C3%B4ng%20%C4%91i%E1%BB%83m%20t%C3%ADn%20d%E1%BB%A5ng/DoctorDong%20l%C3%A0%20b%C3%AAn%20m%E1%BB%9F%20m%C3%A0ng%20cho%20th%E1%BB%8B%20tr%C6%B0%E1%BB%9Dng%20n%C3%A0y%20t%E1%BA%A1i%20Vi%E1%BB%87t%20Nam.%20B%C3%A2y%20gi%E1%BB%9D%20l%C3%A0%20Cayvang.md)
 
 - Ngân hàng, điểm tín dụng: 
     - [Các công ty con cho vay từ các ngân hàng lớn là để lách giới hạn lãi suất](../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Vay%20ti%E1%BB%81n/Ng%C3%A2n%20h%C3%A0ng,%20%C4%91i%E1%BB%83m%20t%C3%ADn%20d%E1%BB%A5ng/C%C3%A1c%20c%C3%B4ng%20ty%20con%20cho%20vay%20t%E1%BB%AB%20c%C3%A1c%20ng%C3%A2n%20h%C3%A0ng%20l%E1%BB%9Bn%20l%C3%A0%20%C4%91%E1%BB%83%20l%C3%A1ch%20gi%E1%BB%9Bi%20h%E1%BA%A1n%20l%C3%A3i%20su%E1%BA%A5t.md)
