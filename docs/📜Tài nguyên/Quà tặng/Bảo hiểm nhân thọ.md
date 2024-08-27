@@ -1,10 +1,10 @@
 ---
 share: true
 created: 2024-08-14T12:10
-updated: 2024-08-22T19:17
+updated: 2024-08-27T13:31
 alias:
   - Tặng bảo hiểm nhân thọ
-  - Tặng 10 slot trải nghiệm bảo hiểm nhân thọ, miễn phí năm đầu
+  - Hợp đồng bảo hiểm nhân thọ, miễn phí năm đầu
 description: "Quyền lợi: ung thư, bệnh hiểm nghèo, tai nạn, tử vong và tiết kiệm dài"
 ---
 # Tặng hợp đồng bảo hiểm nhân thọ, miễn phí năm đầu
