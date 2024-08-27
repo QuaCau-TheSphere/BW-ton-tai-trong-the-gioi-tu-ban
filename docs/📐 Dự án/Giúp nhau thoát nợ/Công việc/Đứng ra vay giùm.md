@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2024-08-05T16:15
+updated: 2024-08-27T13:25
 ---
 Đỗ Hàng Minh Trí: 0378 303 123
 Hồng Thị Tuyết Nhi: 0336 408 666
@@ -15,6 +15,6 @@ có thể đợi để mua luôn được, nhưng cần thời gian học nên c
 cty a ngay tại chính nhà a luôn, tận dụng chung cư làm office để mọi người làm, nhưng đa phần là làm remote
 anh ko cần vay hết 20tr, mà chỉ cần vay 16tr, thì có gói nào ls vừa phải, thời hạn tầm 12 → 18 tháng đều đc
 
-Xem thêm:: [Các dịch vụ cho vay](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Quang%20c%E1%BA%A3nh%20th%E1%BB%8B%20tr%C6%B0%E1%BB%9Dng/C%C3%A1c%20d%E1%BB%8Bch%20v%E1%BB%A5%20cho%20vay/index.md)
+Xem thêm:: [Các dịch vụ cho vay](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/C%C3%A1c%20d%E1%BB%8Bch%20v%E1%BB%A5%20cho%20vay/index.md)
 
 Tốn thời gian nhất là cứ phải làm kyc, nhập thông tin địa chỉ thủ công. Đã nhập rồi nhưng vẫn cứ phải làm lại
