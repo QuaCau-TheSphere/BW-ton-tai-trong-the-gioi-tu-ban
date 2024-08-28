@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-08-27T14:20
-updated: 2024-08-27T17:00
+updated: 2024-08-28T14:10
 ---
 ## Mô tả công việc
 ### Làm một lần
@@ -25,5 +25,6 @@ Xem thêm:: [Học làm đại lý bán bảo hiểm](../%C3%9D%20t%C6%B0%E1%BB%
 
 ## FAQ
 ### 10tr/tháng có nhiều quá không?
+Tại vì làm quản lý, không phải làm đại lý.
 
-Liên hệ:: [Hồng Thị Tuyết Nhi](../../%F0%9F%93%90%20D%E1%BB%B1%20%C3%A1n/Ng%C6%B0%E1%BB%9Di%20ch%C6%A1i/H%E1%BB%93ng%20Th%E1%BB%8B%20Tuy%E1%BA%BFt%20Nhi.md)
+Liên hệ:: [Hồng Thị Tuyết Nhi – 0336 408 666](../../%F0%9F%93%90%20D%E1%BB%B1%20%C3%A1n/Ng%C6%B0%E1%BB%9Di%20ch%C6%A1i/H%E1%BB%93ng%20Th%E1%BB%8B%20Tuy%E1%BA%BFt%20Nhi.md)

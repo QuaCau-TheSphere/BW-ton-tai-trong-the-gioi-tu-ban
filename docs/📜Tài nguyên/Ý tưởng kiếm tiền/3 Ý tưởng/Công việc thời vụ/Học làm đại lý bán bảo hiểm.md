@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2024-08-27T16:19
+updated: 2024-08-27T20:36
 ---
 Yêu cầu đầu vào:: [Sắp xếp theo lịch được cho trước](../../1%20Y%C3%AAu%20c%E1%BA%A7u%20%C4%91%E1%BA%A7u%20v%C3%A0o/Theo%20th%E1%BB%9Di%20gian/S%E1%BA%AFp%20x%E1%BA%BFp%20theo%20l%E1%BB%8Bch%20%C4%91%C6%B0%E1%BB%A3c%20cho%20tr%C6%B0%E1%BB%9Bc.md)
 Hình thức:: [Việc làm thời vụ, theo dự án](../../2%20H%C3%ACnh%20th%E1%BB%A9c/Vi%E1%BB%87c%20l%C3%A0m%20th%E1%BB%9Di%20v%E1%BB%A5,%20theo%20d%E1%BB%B1%20%C3%A1n.md)
@@ -18,7 +18,10 @@ Mỗi khoá học có 2 giai đoạn: học cơ bản và học sản phẩm. H�
 - **Lương:** Sinh từ năm 2001 trở đi thì được 900k, sinh trước năm 2000 thì được 2tr
 - **Địa điểm học:** 233 Đồng Khởi, Q1
 
-### Prudential (đang ngừng tuyển)
+### Prudential 
+> [!Attention] Đang ngừng tuyển
+> Lý do: chính sách của Bộ Tài chính thay đổi
+
 - **Số buổi phải dành thời gian:** 5 ngày học + 1 buổi thi
 - **Lương:** 2.5tr
 - **Địa điểm học:** 
