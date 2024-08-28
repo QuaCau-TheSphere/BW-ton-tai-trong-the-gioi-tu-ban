@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-08-14T12:10
-updated: 2024-08-28T14:18
+updated: 2024-08-28T14:28
 alias:
   - Tặng bảo hiểm nhân thọ
   - Hợp đồng bảo hiểm nhân thọ, miễn phí năm đầu
@@ -12,11 +12,11 @@ Lý do:: [Chạy chỉ tiêu cho nhân viên các công ty](../../%F0%9F%93%90%2
 
 5-7 ngày giao hợp đồng đến nhà  
 
-<button type="button"><a href="📐 Dự án/Người chơi/Nguyễn Hữu Lộc" target="_blank">Liên hệ: Nguyễn Hữu Lộc|Nguyễn Hữu Lộc – 0783865410</a></button>
+<button type="button"><a href="📐 Dự án/Người chơi/Nguyễn Hữu Lộc" target="_blank">Liên hệ: Nguyễn Hữu Lộc – 0783865410</a></button>
 
 ---
 
-Thông tin hợp đồng: [Ảnh màn hình tài khoản](../../assets/attachments/H%E1%BB%A3p%20%C4%91%E1%BB%93ng%20b%E1%BA%A3o%20hi%E1%BB%83m%20%C4%91%C6%B0%E1%BB%A3c%20t%E1%BA%B7ng.png), [PDF toàn bộ hợp đồng](../../assets/attachments/H%E1%BB%A3p%20%C4%91%E1%BB%93ng%20FWD.pdf)
+Thông tin hợp đồng: [Ảnh màn hình tài khoản](../../assets/attachments/H%E1%BB%A3p%20%C4%91%E1%BB%93ng%20b%E1%BA%A3o%20hi%E1%BB%83m%20%C4%91%C6%B0%E1%BB%A3c%20t%E1%BA%B7ng.png), [PDF toàn bộ hợp đồng](../../assets/attachments/fwd.pdf)
 ## Quyền lợi bảo hiểm
 ### Quyền lợi bảo vệ
 - Ung thư giai đoạn sau: 212.000.000 ₫
