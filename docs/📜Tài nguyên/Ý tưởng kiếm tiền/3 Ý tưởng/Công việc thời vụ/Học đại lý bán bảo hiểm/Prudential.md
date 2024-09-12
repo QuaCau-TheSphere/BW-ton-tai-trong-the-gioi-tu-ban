@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-09-12T22:24
-updated: 2024-09-12T22:48
+updated: 2024-09-12T22:56
 ---
 ## Học
 - [ ] Học cơ bản: 5 buổi trong 3 ngày
@@ -10,7 +10,7 @@ updated: 2024-09-12T22:48
 - [ ] Học sản phẩm: 4 buổi trong 2 ngày
 
 - **Lương:** 3tr
-- **Địa điểm học:** 
+- **Địa điểm học:** Cao Thắng, Q3 hoặc Hồ Con Rùa
 - **Điều kiện dự thi:** 
 - **Điều kiện khác:** Cần cam kết làm đại lý ảo sau đó
 
