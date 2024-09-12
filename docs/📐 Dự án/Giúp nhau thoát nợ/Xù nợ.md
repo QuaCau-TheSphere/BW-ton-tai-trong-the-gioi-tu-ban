@@ -1,9 +1,10 @@
 ---
 share: true
-created: 2023-09-05T16:17
-updated: 2024-08-27T13:56
+created: 2024-08-31T13:30
+updated: 2024-08-31T13:33
 ---
 Khái niệm:: 
+khoản vay bên đối tác moenyveo đã trễ hạn, tổng tiền 1,304,600 hôm nay cần xử lí trước 16h để tránh chuyển hs sang đối tác liên hệ nhắn nợ về người thân và công ty phản hồi để được hỗ trợ
 
 giờ giả sử như hết sạch nợ thì em cần vay bao nhiêu để làm ăn?
 Kendy: thôi a, xong nợ đã
@@ -40,4 +41,9 @@ nên nói chuyện với ngân hàng
 cần biết cụ thể mỗi tháng bao nhiêu lãi. Khó khăn: 
 - khi đang bị áp lực trả nợ thì cũng không có thời gian để nói cho người khác biết tình hình nợ của mình 
 - không muốn cho người khác biết tình hình nợ vì sợ bị nghĩ là mình vòi tiền
-[Điểm tín dụng (CIC) là cách để các ngân hàng đánh giá khả năng trả nợ của mình](../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Vay%20ti%E1%BB%81n/Ng%C3%A2n%20h%C3%A0ng,%20%C4%91i%E1%BB%83m%20t%C3%ADn%20d%E1%BB%A5ng/%C4%90i%E1%BB%83m%20t%C3%ADn%20d%E1%BB%A5ng%20(CIC)%20l%C3%A0%20c%C3%A1ch%20%C4%91%E1%BB%83%20c%C3%A1c%20ng%C3%A2n%20h%C3%A0ng%20%C4%91%C3%A1nh%20gi%C3%A1%20kh%E1%BA%A3%20n%C4%83ng%20tr%E1%BA%A3%20n%E1%BB%A3%20c%E1%BB%A7a%20m%C3%ACnh.md)
+[Điểm tín dụng (CIC) là cách để các ngân hàng đánh giá khả năng trả nợ của mình](../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Ng%C3%A0nh%20t%C3%A0i%20ch%C3%ADnh/Vay%20ti%E1%BB%81n/Ng%C3%A2n%20h%C3%A0ng,%20%C4%91i%E1%BB%83m%20t%C3%ADn%20d%E1%BB%A5ng/%C4%90i%E1%BB%83m%20t%C3%ADn%20d%E1%BB%A5ng%20(CIC)%20l%C3%A0%20c%C3%A1ch%20%C4%91%E1%BB%83%20c%C3%A1c%20ng%C3%A2n%20h%C3%A0ng%20%C4%91%C3%A1nh%20gi%C3%A1%20kh%E1%BA%A3%20n%C4%83ng%20tr%E1%BA%A3%20n%E1%BB%A3%20c%E1%BB%A7a%20m%C3%ACnh.md)
+
+[Vay nóng nếu không trả sẽ bị bêu xấu với mọi người](../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Ng%C3%A0nh%20t%C3%A0i%20ch%C3%ADnh/Vay%20ti%E1%BB%81n/D%E1%BB%8Bch%20v%E1%BB%A5%20cho%20vay%20kh%C3%A1c/Vay%20kh%C3%B4ng%20%C4%91i%E1%BB%83m%20t%C3%ADn%20d%E1%BB%A5ng/Vay%20n%C3%B3ng%20n%E1%BA%BFu%20kh%C3%B4ng%20tr%E1%BA%A3%20s%E1%BA%BD%20b%E1%BB%8B%20b%C3%AAu%20x%E1%BA%A5u%20v%E1%BB%9Bi%20m%E1%BB%8Di%20ng%C6%B0%E1%BB%9Di.md)
+[Xù nợ](X%C3%B9%20n%E1%BB%A3.md)
+
+[Có những người dù thực sự thấy không có khả năng trả nợ vẫn chấp nhận vay app đen còn hơn mất điểm tín dụng](../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Ng%C3%A0nh%20t%C3%A0i%20ch%C3%ADnh/Vay%20ti%E1%BB%81n/Ng%C3%A2n%20h%C3%A0ng,%20%C4%91i%E1%BB%83m%20t%C3%ADn%20d%E1%BB%A5ng/C%C3%B3%20nh%E1%BB%AFng%20ng%C6%B0%E1%BB%9Di%20d%C3%B9%20th%E1%BB%B1c%20s%E1%BB%B1%20th%E1%BA%A5y%20kh%C3%B4ng%20c%C3%B3%20kh%E1%BA%A3%20n%C4%83ng%20tr%E1%BA%A3%20n%E1%BB%A3%20v%E1%BA%ABn%20ch%E1%BA%A5p%20nh%E1%BA%ADn%20vay%20app%20%C4%91en%20c%C3%B2n%20h%C6%A1n%20m%E1%BA%A5t%20%C4%91i%E1%BB%83m%20t%C3%ADn%20d%E1%BB%A5ng.md)
