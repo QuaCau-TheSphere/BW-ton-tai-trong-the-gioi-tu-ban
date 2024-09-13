@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2024-09-12T22:39
+updated: 2024-09-13T09:12
 aliases:
   - Làm danh tính khác của nhân viên công ty
 title: Làm nhân viên ảo
@@ -11,7 +11,7 @@ Hình thức:: [Vị trí chính thức của một công ty](../../../2%20H%C3%
 
 Nhân viên ảo tức là có nhân viên thật làm giùm. Nói cách khác bạn trở thành một danh tính khác của một nhân viên trong đó. Cần lưu ý là nếu có vấn đề gì thì bạn sẽ là người chịu trách nhiệm chính. Có thể nói số tiền bạn nhận là tiền để bạn làm hình nhân thế mạng cho người khác.
 
-- [Cathay](../../../../Ch%C3%ADnh%20s%C3%A1ch%20c%C3%B4ng%20ty/Cathay.md)
+- [Cathay](../H%E1%BB%8Dc%20%C4%91%E1%BA%A1i%20l%C3%BD%20b%C3%A1n%20b%E1%BA%A3o%20hi%E1%BB%83m/Cathay.md)
 - [VNPAY](../../../../Ch%C3%ADnh%20s%C3%A1ch%20c%C3%B4ng%20ty/VNPAY.md)
 
 Xem thêm:: [Mẫu CV ảo](../../../../../%F0%9F%93%90%20D%E1%BB%B1%20%C3%A1n/Ch%E1%BA%A1y%20ch%E1%BB%89%20ti%C3%AAu%20cho%20nh%C3%A2n%20vi%C3%AAn%20c%C3%A1c%20c%C3%B4ng%20ty/T%C3%A0i%20li%E1%BB%87u/M%E1%BA%ABu%20CV%20%E1%BA%A3o.md)
