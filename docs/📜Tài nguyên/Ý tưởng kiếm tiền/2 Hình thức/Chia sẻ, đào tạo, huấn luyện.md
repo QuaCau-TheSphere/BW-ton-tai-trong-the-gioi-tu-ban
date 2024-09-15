@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2024-09-15T20:37
+updated: 2024-09-15T21:01
 alias:
   - Mở các buổi chia sẻ lớp học ngắn buổi huấn luyện
   - Lập nhóm tổ chức các buổi chia sẻ hướng dẫn
@@ -9,6 +9,7 @@ alias:
   - Mentor mentee coach train
   - Các buổi chia sẻ, lớp học, khoá đào tạo, buổi huấn luyện
 ---
+Các công việc: 
+- [Tìm người có nhu cầu được hướng dẫn, huấn luyện](../3%20%C3%9D%20t%C6%B0%E1%BB%9Fng/C%C3%B4ng%20vi%E1%BB%87c%20th%E1%BB%9Di%20v%E1%BB%A5/C%E1%BB%99ng%20t%C3%A1c%20vi%C3%AAn,%20tr%E1%BB%A3%20l%C3%BD/T%C3%ACm%20ng%C6%B0%E1%BB%9Di%20c%C3%B3%20nhu%20c%E1%BA%A7u%20%C4%91%C6%B0%E1%BB%A3c%20h%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn,%20hu%E1%BA%A5n%20luy%E1%BB%87n.md)
 - [Huấn luyện lập trình 1-1](../3%20%C3%9D%20t%C6%B0%E1%BB%9Fng/C%C3%A1c%20bu%E1%BB%95i%20chia%20s%E1%BA%BB,%20l%E1%BB%9Bp%20h%E1%BB%8Dc,%20kho%C3%A1%20%C4%91%C3%A0o%20t%E1%BA%A1o,%20bu%E1%BB%95i%20hu%E1%BA%A5n%20luy%E1%BB%87n/Hu%E1%BA%A5n%20luy%E1%BB%87n%20l%E1%BA%ADp%20tr%C3%ACnh%201-1.md)
 - [Hướng dẫn tìm hiểu các lĩnh vực](../3%20%C3%9D%20t%C6%B0%E1%BB%9Fng/C%C3%A1c%20bu%E1%BB%95i%20chia%20s%E1%BA%BB,%20l%E1%BB%9Bp%20h%E1%BB%8Dc,%20kho%C3%A1%20%C4%91%C3%A0o%20t%E1%BA%A1o,%20bu%E1%BB%95i%20hu%E1%BA%A5n%20luy%E1%BB%87n/H%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn%20t%C3%ACm%20hi%E1%BB%83u%20c%C3%A1c%20l%C4%A9nh%20v%E1%BB%B1c.md)
-
