@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-11-24T16:59
-updated: 2024-09-15T21:00
+updated: 2024-09-15T21:43
 alias:
   - Kiếm tiền nhanh Kiếm dự án thuê ngoài Mở các buổi chia sẻ lớp học ngắn buổi huấn luyện Làm nhân viên ăn lương Đầu tư kinh doanh bán hàng Tạo lợi nhuận
   - Một số ý tưởng kiếm tiền
@@ -10,10 +10,11 @@ alias:
 description: Kiếm tiền từ các hoạt động của Quả Cầu
 title: 3 Ý tưởng
 ---
+# Một số ý tưởng kiếm tiền
 ## Công việc thời vụ
 | File                                                                                                                                                                                                   | Yêu cầu đầu vào                                                                                                                           |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------- |
-| [Làm nhân viên ảo](./C%C3%B4ng%20vi%E1%BB%87c%20th%E1%BB%9Di%20v%E1%BB%A5/C%E1%BB%99ng%20t%C3%A1c%20vi%C3%AAn,%20tr%E1%BB%A3%20l%C3%BD/L%C3%A0m%20nh%C3%A2n%20vi%C3%AAn%20%E1%BA%A3o.md)                                                                             | [Thỉnh thoảng lên công ty](../1%20Y%C3%AAu%20c%E1%BA%A7u%20%C4%91%E1%BA%A7u%20v%C3%A0o/Theo%20th%E1%BB%9Di%20gian/Th%E1%BB%89nh%20tho%E1%BA%A3ng%20l%C3%AAn%20c%C3%B4ng%20ty.md)                 |
+| [Làm nhân viên ảo](./C%C3%B4ng%20vi%E1%BB%87c%20th%E1%BB%9Di%20v%E1%BB%A5/C%E1%BB%99ng%20t%C3%A1c%20vi%C3%AAn,%20tr%E1%BB%A3%20l%C3%BD/L%C3%A0m%20nh%C3%A2n%20vi%C3%AAn%20%E1%BA%A3o.md)                                                                             | [Mỗi tuần lên công ty một buổi](../1%20Y%C3%AAu%20c%E1%BA%A7u%20%C4%91%E1%BA%A7u%20v%C3%A0o/Theo%20th%E1%BB%9Di%20gian/M%E1%BB%97i%20tu%E1%BA%A7n%20l%C3%AAn%20c%C3%B4ng%20ty%20m%E1%BB%99t%20bu%E1%BB%95i.md)       |
 | [Viết hợp đồng, thu thập thông tin khách hàng tiềm năng](./C%C3%B4ng%20vi%E1%BB%87c%20th%E1%BB%9Di%20v%E1%BB%A5/C%E1%BB%99ng%20t%C3%A1c%20vi%C3%AAn,%20tr%E1%BB%A3%20l%C3%BD/Vi%E1%BA%BFt%20h%E1%BB%A3p%20%C4%91%E1%BB%93ng,%20thu%20th%E1%BA%ADp%20th%C3%B4ng%20tin%20kh%C3%A1ch%20h%C3%A0ng%20ti%E1%BB%81m%20n%C4%83ng.md) | \-                                                                                                                                        |
 | [Đổi tiền, chụp hình biển hiệu, dán mã QR](./C%C3%B4ng%20vi%E1%BB%87c%20th%E1%BB%9Di%20v%E1%BB%A5/C%E1%BB%99ng%20t%C3%A1c%20vi%C3%AAn,%20tr%E1%BB%A3%20l%C3%BD/%C4%90%E1%BB%95i%20ti%E1%BB%81n,%20ch%E1%BB%A5p%20h%C3%ACnh%20bi%E1%BB%83n%20hi%E1%BB%87u,%20d%C3%A1n%20m%C3%A3%20QR.md)                             | [Làm ngoài đường](../1%20Y%C3%AAu%20c%E1%BA%A7u%20%C4%91%E1%BA%A7u%20v%C3%A0o/Theo%20t%C3%ADnh%20ch%E1%BA%A5t%20c%C3%B4ng%20vi%E1%BB%87c/L%C3%A0m%20ngo%C3%A0i%20%C4%91%C6%B0%E1%BB%9Dng.md)                         |
 | [Tìm người có nhu cầu được hướng dẫn, huấn luyện](./C%C3%B4ng%20vi%E1%BB%87c%20th%E1%BB%9Di%20v%E1%BB%A5/C%E1%BB%99ng%20t%C3%A1c%20vi%C3%AAn,%20tr%E1%BB%A3%20l%C3%BD/T%C3%ACm%20ng%C6%B0%E1%BB%9Di%20c%C3%B3%20nhu%20c%E1%BA%A7u%20%C4%91%C6%B0%E1%BB%A3c%20h%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn,%20hu%E1%BA%A5n%20luy%E1%BB%87n.md)               | \-                                                                                                                                        |
