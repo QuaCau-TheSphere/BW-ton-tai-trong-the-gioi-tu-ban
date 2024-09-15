@@ -1,11 +1,11 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2024-09-15T15:31
+updated: 2024-09-15T22:01
 aliases:
   - Làm danh tính khác của nhân viên công ty
 ---
-Yêu cầu đầu vào:: [Thỉnh thoảng lên công ty](../../../1%20Y%C3%AAu%20c%E1%BA%A7u%20%C4%91%E1%BA%A7u%20v%C3%A0o/Theo%20th%E1%BB%9Di%20gian/Th%E1%BB%89nh%20tho%E1%BA%A3ng%20l%C3%AAn%20c%C3%B4ng%20ty.md)
+Yêu cầu đầu vào:: [Mỗi tuần lên công ty một buổi](../../../1%20Y%C3%AAu%20c%E1%BA%A7u%20%C4%91%E1%BA%A7u%20v%C3%A0o/Theo%20th%E1%BB%9Di%20gian/M%E1%BB%97i%20tu%E1%BA%A7n%20l%C3%AAn%20c%C3%B4ng%20ty%20m%E1%BB%99t%20bu%E1%BB%95i.md)
 Hình thức:: [Vị trí chính thức của một công ty](../../../2%20H%C3%ACnh%20th%E1%BB%A9c/V%E1%BB%8B%20tr%C3%AD%20ch%C3%ADnh%20th%E1%BB%A9c%20c%E1%BB%A7a%20m%E1%BB%99t%20c%C3%B4ng%20ty.md)
 
 Nhân viên ảo tức là có nhân viên thật làm giùm. Nói cách khác bạn sẽ trở thành một danh tính khác của một người khác. Nếu có vấn đề gì thì bạn sẽ là người đứng ra chịu trách nhiệm chính. Có thể nói số tiền bạn được nhận là tiền để bạn làm hình nhân thế mạng cho người khác.
