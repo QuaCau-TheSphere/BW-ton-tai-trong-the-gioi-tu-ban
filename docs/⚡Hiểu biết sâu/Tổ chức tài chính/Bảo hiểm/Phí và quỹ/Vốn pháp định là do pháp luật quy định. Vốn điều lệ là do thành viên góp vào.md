@@ -1,12 +1,12 @@
 ---
 share: true
 created: 2024-09-06T16:53
-updated: 2024-09-15T15:54
+updated: 2024-09-16T00:13
 alias:
   - Vốn điều lệ là do thành viên góp vào
   - Vốn pháp định là do pháp luật quy định
 ---
-Khái niệm:: [Vốn pháp định, vốn điều lệ](../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/V%E1%BB%91n%20ph%C3%A1p%20%C4%91%E1%BB%8Bnh,%20v%E1%BB%91n%20%C4%91i%E1%BB%81u%20l%E1%BB%87.md)
+Khái niệm:: [Vốn (khái niệm)](../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/V%E1%BB%91n%20(kh%C3%A1i%20ni%E1%BB%87m).md)
 - Nhân thọ: bao gồm bảo hiểm liên kết đơn vị, và/hoặc bảo hiểm hưu trí
 - Phi nhân thọ: bao gồm bảo hiểm hàng không và/hoặc bảo hiểm vệ tinh
 

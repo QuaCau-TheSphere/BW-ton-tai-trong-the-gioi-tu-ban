@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-06-11T10:17
-updated: 2024-07-27T18:33
+updated: 2024-09-16T00:05
 ---
 Một tổ chức đáng làm là một tổ chức tạo được động lực nội sinh ở nhân viên, chứ không phải dùng động lực ngoại sinh để thúc đẩy hoạt động (tạo động lực thông qua thưởng/phạt). Một người sẽ có động lực nội sinh khi:
 
@@ -10,6 +10,6 @@ Một tổ chức đáng làm là một tổ chức tạo được động lực
 - Công việc đang tạo nên một điều gì đó **có ý nghĩa** cho mình và mọi người (meaningful)
 
 Nguồn:: [Mô hình động lực của Daniel Pink](https://www.gamehoa.org/p/dong-luc-daniel-pink)
-Câu hỏi:: [❓Tại sao một công việc có ý nghĩa là không đủ để một người quyết định sẽ làm](./%E2%9D%93T%E1%BA%A1i%20sao%20m%E1%BB%99t%20c%C3%B4ng%20vi%E1%BB%87c%20c%C3%B3%20%C3%BD%20ngh%C4%A9a%20l%C3%A0%20kh%C3%B4ng%20%C4%91%E1%BB%A7%20%C4%91%E1%BB%83%20m%E1%BB%99t%20ng%C6%B0%E1%BB%9Di%20quy%E1%BA%BFt%20%C4%91%E1%BB%8Bnh%20s%E1%BA%BD%20l%C3%A0m.md)
+Câu hỏi:: [❓Tại sao một công việc có ý nghĩa là không đủ để một người quyết định sẽ làm, mà còn phải có cả việc tự quyết định và thấy mình tiến bộ hơn](./%E2%9D%93T%E1%BA%A1i%20sao%20m%E1%BB%99t%20c%C3%B4ng%20vi%E1%BB%87c%20c%C3%B3%20%C3%BD%20ngh%C4%A9a%20l%C3%A0%20kh%C3%B4ng%20%C4%91%E1%BB%A7%20%C4%91%E1%BB%83%20m%E1%BB%99t%20ng%C6%B0%E1%BB%9Di%20quy%E1%BA%BFt%20%C4%91%E1%BB%8Bnh%20s%E1%BA%BD%20l%C3%A0m,%20m%C3%A0%20c%C3%B2n%20ph%E1%BA%A3i%20c%C3%B3%20c%E1%BA%A3%20vi%E1%BB%87c%20t%E1%BB%B1%20quy%E1%BA%BFt%20%C4%91%E1%BB%8Bnh%20v%C3%A0%20th%E1%BA%A5y%20m%C3%ACnh%20ti%E1%BA%BFn%20b%E1%BB%99%20h%C6%A1n.md)
 
 [Một nhóm đáng tin là nhóm mà các thành viên có thể nói lên sai lầm của mình](M%E1%BB%99t%20nh%C3%B3m%20%C4%91%C3%A1ng%20tin%20l%C3%A0%20nh%C3%B3m%20m%C3%A0%20c%C3%A1c%20th%C3%A0nh%20vi%C3%AAn%20c%C3%B3%20th%E1%BB%83%20n%C3%B3i%20l%C3%AAn%20sai%20l%E1%BA%A7m%20c%E1%BB%A7a%20m%C3%ACnh.md)

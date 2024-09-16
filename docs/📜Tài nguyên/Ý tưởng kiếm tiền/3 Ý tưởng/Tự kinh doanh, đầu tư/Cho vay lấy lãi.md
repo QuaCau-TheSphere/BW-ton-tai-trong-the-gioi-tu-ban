@@ -1,16 +1,16 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2024-09-15T15:53
+updated: 2024-09-16T00:13
 ---
 Yêu cầu đầu vào:: [Vốn](../../1%20Y%C3%AAu%20c%E1%BA%A7u%20%C4%91%E1%BA%A7u%20v%C3%A0o/V%E1%BB%91n.md)
 Hình thức:: [Tự kinh doanh, đầu tư](../../2%20H%C3%ACnh%20th%E1%BB%A9c/T%E1%BB%B1%20kinh%20doanh,%20%C4%91%E1%BA%A7u%20t%C6%B0.md)
 
 ## Mục đích vay
 ### Đầu tư
-- [Buôn bán nhỏ](./Bu%C3%B4n%20b%C3%A1n%20nh%E1%BB%8F.md)
 - [Bán bộ sưu tập từ điển chuyên ngành](./B%C3%A1n%20quy%E1%BB%81n%20truy%20c%E1%BA%ADp%20d%E1%BB%AF%20li%E1%BB%87u/B%C3%A1n%20b%E1%BB%99%20s%C6%B0u%20t%E1%BA%ADp%20t%E1%BB%AB%20%C4%91i%E1%BB%83n%20chuy%C3%AAn%20ng%C3%A0nh.md)
 - [Bán bộ thẻ học GRE cho Anki](./B%C3%A1n%20quy%E1%BB%81n%20truy%20c%E1%BA%ADp%20d%E1%BB%AF%20li%E1%BB%87u/B%C3%A1n%20b%E1%BB%99%20th%E1%BA%BB%20h%E1%BB%8Dc%20GRE%20cho%20Anki.md)
+- [Buôn bán nhỏ](./Bu%C3%B4n%20b%C3%A1n%20nh%E1%BB%8F.md)
 - [Bán số lượng lớn tự động trên các nền tảng](./B%C3%A1n%20s%E1%BB%91%20l%C6%B0%E1%BB%A3ng%20l%E1%BB%9Bn%20t%E1%BB%B1%20%C4%91%E1%BB%99ng%20tr%C3%AAn%20c%C3%A1c%20n%E1%BB%81n%20t%E1%BA%A3ng.md)
 - [Nhóm thuê ngoài cho nhân viên](./Nh%C3%B3m%20thu%C3%AA%20ngo%C3%A0i%20cho%20nh%C3%A2n%20vi%C3%AAn.md)
 - [Xem tử vi tự động](./Xem%20t%E1%BB%AD%20vi%20t%E1%BB%B1%20%C4%91%E1%BB%99ng.md)

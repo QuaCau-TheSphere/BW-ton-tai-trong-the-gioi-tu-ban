@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-08-14T12:10
-updated: 2024-09-15T15:02
+updated: 2024-09-16T11:57
 alias:
   - Tặng bảo hiểm nhân thọ
   - Hợp đồng bảo hiểm nhân thọ, miễn phí năm đầu
@@ -16,7 +16,7 @@ Lý do:: [Chạy chỉ tiêu cho nhân viên các công ty](../../%F0%9F%93%90%2
 
 ---
 
-Thông tin hợp đồng: [Ảnh màn hình tài khoản](../../assets/attachments/H%E1%BB%A3p%20%C4%91%E1%BB%93ng%20b%E1%BA%A3o%20hi%E1%BB%83m%20%C4%91%C6%B0%E1%BB%A3c%20t%E1%BA%B7ng.png), [PDF toàn bộ hợp đồng](https://github.com/QuaCau-TheSphere/BW-ton-tai-trong-the-gioi-tu-ban/blob/main/docs/assets/attachments/fwd.pdf)
+Thông tin hợp đồng: [Ảnh màn hình tài khoản](../../assets/attachments/H%E1%BB%A3p%20%C4%91%E1%BB%93ng%20FWD%20(t%C3%B3m%20t%E1%BA%AFt).png), [PDF toàn bộ hợp đồng](https://github.com/QuaCau-TheSphere/BW-ton-tai-trong-the-gioi-tu-ban/blob/main/docs/assets/attachments/fwd.pdf)
 ## Quyền lợi bảo hiểm
 ### Quyền lợi bảo vệ
 - Ung thư giai đoạn sau: 212.000.000 ₫
