@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-09-15T15:50
-updated: 2024-09-15T15:54
+updated: 2024-09-16T00:13
 ---
 - [Buôn bán nhỏ](../3%20%C3%9D%20t%C6%B0%E1%BB%9Fng/T%E1%BB%B1%20kinh%20doanh,%20%C4%91%E1%BA%A7u%20t%C6%B0/Bu%C3%B4n%20b%C3%A1n%20nh%E1%BB%8F.md)
 - [Cho vay lấy lãi](../3%20%C3%9D%20t%C6%B0%E1%BB%9Fng/T%E1%BB%B1%20kinh%20doanh,%20%C4%91%E1%BA%A7u%20t%C6%B0/Cho%20vay%20l%E1%BA%A5y%20l%C3%A3i.md)
