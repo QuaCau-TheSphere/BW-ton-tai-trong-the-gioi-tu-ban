@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-09-15T14:19
-updated: 2024-09-15T21:58
+updated: 2024-09-16T16:56
 alias:
   - Nhóm chạy chỉ tiêu (KPI) cho nhân viên
   - Nhóm thuê ngoài (outsource) cho nhân viên
