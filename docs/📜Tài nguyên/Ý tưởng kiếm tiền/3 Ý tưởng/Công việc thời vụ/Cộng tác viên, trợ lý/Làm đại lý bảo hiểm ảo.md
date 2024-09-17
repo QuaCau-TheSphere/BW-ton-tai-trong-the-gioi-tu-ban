@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2024-09-17T18:09
+updated: 2024-09-17T19:02
 alias: Làm tư vấn viên bảo hiểm ảo
 ---
 Yêu cầu đầu vào:: [Sắp xếp theo lịch được cho trước](../../../1%20Y%C3%AAu%20c%E1%BA%A7u%20%C4%91%E1%BA%A7u%20v%C3%A0o/Theo%20th%E1%BB%9Di%20gian/S%E1%BA%AFp%20x%E1%BA%BFp%20theo%20l%E1%BB%8Bch%20%C4%91%C6%B0%E1%BB%A3c%20cho%20tr%C6%B0%E1%BB%9Bc.md)
@@ -19,7 +19,7 @@ Hình thức:: [Việc làm thời vụ, theo dự án](../../../2%20H%C3%ACnh%2
 > [!attention] Chỉ có thể làm đại lý cho một công ty
 > Khi đăng ký làm đại lý bạn sẽ được Bộ Tài chính cấp một mã số đại lý. Mã số này gắn liền với công ty bạn đăng ký. Khi muốn làm đại lý cho công ty khác thì phải cắt mã số ở công ty cũ. Muốn có mã số mới thì phải đi học lại và thi lại.
 
-Sau khi trở thành đại lý bạn có thể tiếp tục trở thành [quản lý ảo](../../../../../%F0%9F%93%90%20D%E1%BB%B1%20%C3%A1n/Ch%E1%BA%A1y%20ch%E1%BB%89%20ti%C3%AAu/B%E1%BA%A3o%20hi%E1%BB%83m/Tuy%E1%BB%83n%20d%E1%BB%A5ng%20qu%E1%BA%A3n%20l%C3%BD%20%E1%BA%A3o.md) để kiếm thêm. Với [Prudential](../../../../Ch%C3%ADnh%20s%C3%A1ch%20c%C3%B4ng%20ty/B%E1%BA%A3o%20hi%E1%BB%83m/%C4%90%E1%BA%A1i%20l%C3%BD%20v%C3%A0%20qu%E1%BA%A3n%20l%C3%BD/Prudential.md) thì việc cam kết làm quản lý ảo là bắt buộc để được làm đại lý ảo. Bạn cũng có thể [thật sự đi bán hợp đồng](../../../../../%F0%9F%93%90%20D%E1%BB%B1%20%C3%A1n/Ch%E1%BA%A1y%20ch%E1%BB%89%20ti%C3%AAu/B%E1%BA%A3o%20hi%E1%BB%83m/Thu%20h%C3%BAt%20kh%C3%A1ch%20h%C3%A0ng%20mua%20b%E1%BA%A3o%20hi%E1%BB%83m.md).
+Sau khi trở thành đại lý bạn có thể tiếp tục trở thành [quản lý ảo](../../../../../%F0%9F%93%90%20D%E1%BB%B1%20%C3%A1n/Ch%E1%BA%A1y%20ch%E1%BB%89%20ti%C3%AAu/B%E1%BA%A3o%20hi%E1%BB%83m/Tuy%E1%BB%83n%20d%E1%BB%A5ng%20qu%E1%BA%A3n%20l%C3%BD%20%E1%BA%A3o.md) để kiếm thêm. Với [Prudential](../../../../Ch%C3%ADnh%20s%C3%A1ch%20c%C3%B4ng%20ty/B%E1%BA%A3o%20hi%E1%BB%83m/%C4%90%E1%BA%A1i%20l%C3%BD%20v%C3%A0%20qu%E1%BA%A3n%20l%C3%BD/Prudential.md) thì việc cam kết làm quản lý ảo là bắt buộc để được làm đại lý ảo. Bạn cũng có thể [thật sự đi bán hợp đồng](../../../../../%F0%9F%93%90%20D%E1%BB%B1%20%C3%A1n/Ch%E1%BA%A1y%20ch%E1%BB%89%20ti%C3%AAu/B%E1%BA%A3o%20hi%E1%BB%83m/Ki%E1%BA%BFm%20kh%C3%A1ch.md).
 
 Xem thêm:: [Khác biệt giữa nhân viên, đại lý, cộng tác viên](../../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/M%C3%B4%20h%C3%ACnh%20nh%C3%A2n%20s%E1%BB%B1/Kh%C3%A1c%20bi%E1%BB%87t%20gi%E1%BB%AFa%20nh%C3%A2n%20vi%C3%AAn,%20%C4%91%E1%BA%A1i%20l%C3%BD,%20c%E1%BB%99ng%20t%C3%A1c%20vi%C3%AAn.md)
 Xem thêm:: [Một số ý tưởng kiếm tiền](../../index.md)
