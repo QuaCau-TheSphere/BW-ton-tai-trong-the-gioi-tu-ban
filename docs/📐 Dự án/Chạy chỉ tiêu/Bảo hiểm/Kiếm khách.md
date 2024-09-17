@@ -1,20 +1,23 @@
 ---
 share: true
 created: 2024-09-17T11:13
-updated: 2024-09-17T18:03
-alias: bán bảo hiểm
+updated: 2024-09-17T20:54
+alias: bán bảo hiểm, thu hút khách hàng
 description: Cam kết không khai thác cảm xúc của họ, mà chỉ muốn nâng đỡ lý tính họ. Làm cho họ thấy mình không sợ họ từ chối, và kể cả từ chối thì mình vẫn sẵn sàng lắng nghe và đáp ứng các nhu cầu khác của họ.
 ---
+# Thu hút khách hàng mua bảo hiểm
 Khái niệm:: [Bảo hiểm](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/B%E1%BA%A3o%20hi%E1%BB%83m.md)
 ## Khách hàng tiềm năng
-Trong [các đối tượng mua được ảo hiểm](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/T%E1%BB%95%20ch%E1%BB%A9c%20t%C3%A0i%20ch%C3%ADnh/B%E1%BA%A3o%20hi%E1%BB%83m/Nhu%20c%E1%BA%A7u%20kh%C3%A1ch%20h%C3%A0ng%20v%C3%A0%20%C4%91%E1%BA%A1i%20l%C3%BD/Ng%C6%B0%E1%BB%9Di%20mu%E1%BB%91n%20ph%C3%B2ng%20h%E1%BB%9D%20r%E1%BB%A7i%20ro%20s%E1%BA%BD%20c%E1%BA%A7n%20mua%20b%E1%BA%A3o%20hi%E1%BB%83m,%20nh%C6%B0ng%20ch%E1%BB%89%20ng%C6%B0%E1%BB%9Di%20c%C3%B3%20ti%E1%BB%81n%20v%C3%A0%20c%C3%B3%20s%E1%BB%A9c%20kho%E1%BA%BB%20m%E1%BB%9Bi%20%C4%91%C6%B0%E1%BB%A3c%20mua.md), có vẻ như **các tổ chức** là các đối tượng đem lại nhiều doanh số nhất. Việc mua cho nhân viên của họ có thể giúp làm tăng lòng trung thành của nhân viên. Có thể đối với chủ doanh nghiệp, cái chết vẫn là chuyện xa vời, nhưng lòng trung thành của nhân viên thì thiết thực hơn.
+Trong [các đối tượng mua được ảo hiểm](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/T%E1%BB%95%20ch%E1%BB%A9c%20t%C3%A0i%20ch%C3%ADnh/B%E1%BA%A3o%20hi%E1%BB%83m/Nhu%20c%E1%BA%A7u%20kh%C3%A1ch%20h%C3%A0ng%20v%C3%A0%20%C4%91%E1%BA%A1i%20l%C3%BD/Ng%C6%B0%E1%BB%9Di%20mu%E1%BB%91n%20ph%C3%B2ng%20h%E1%BB%9D%20r%E1%BB%A7i%20ro%20s%E1%BA%BD%20c%E1%BA%A7n%20mua%20b%E1%BA%A3o%20hi%E1%BB%83m,%20nh%C6%B0ng%20ch%E1%BB%89%20ng%C6%B0%E1%BB%9Di%20c%C3%B3%20ti%E1%BB%81n%20v%C3%A0%20c%C3%B3%20s%E1%BB%A9c%20kho%E1%BA%BB%20m%E1%BB%9Bi%20%C4%91%C6%B0%E1%BB%A3c%20mua.md), có vẻ như **các tổ chức** là các đối tượng đem lại nhiều doanh số nhất. 
 
-Cùng phân tích:
+Đâu là lý do khiến một người đứng đầu tổ chức muốn mua bảo hiểm cho nhân viên của mình? Có thể nằm ở việc nó giúp làm tăng lòng trung thành của nhân viên. Có thể đối với chủ doanh nghiệp, cái chết vẫn là chuyện xa vời, nhưng lòng trung thành của nhân viên thì thiết thực hơn. Ngoài ra họ cũng cần chưa mua bảo hiểm nào, và có tiền để mua nữa.
+
+Những đặc điểm đó nói lên được điều gì về tổ chức của họ?
 - Chưa mua bảo hiểm cho nhân viên → Tổ chức mới thành lập hoặc có quy mô nhỏ 
 - Cần lòng trung thành của nhân viên → Tổ chức làm các dự án dài hơi, cần nhân sự hiểu nhau và không xáo trộn thường xuyên hoặc có chi phí đào tạo lớn
 - Có tiền mua bảo hiểm → Đang có lời hoặc được cấp quỹ
 
-Các lĩnh vực thường có loại tổ chức thế này:
+Các loại tổ chức thường có những đặc điểm này:
 - Tổ chức phi lợi nhuận được tài trợ từ nước ngoài
 - Phòng R&D
 - Bộ phận IT
@@ -28,7 +31,8 @@ Nhu cầu thường gặp của các tổ chức như vậy:
 - Tri thức liên ngành
 - ...
 
-## Làm cho khách hàng tin mình
+## Tiếp cận khách hàng
+### Làm cho khách hàng tin mình
 Cam kết không khai thác cảm xúc của họ, mà chỉ muốn nâng đỡ lý tính họ. Làm cho họ thấy mình không sợ họ từ chối, và kể cả từ chối thì mình vẫn sẵn sàng lắng nghe và đáp ứng các nhu cầu khác của họ.
 [Dark patterns in insurance: practices that exploit consumer biases - EIOPA](https://www.eiopa.europa.eu/tools-and-data/behavioural-insights-insurance-and-pensions-supervision/dark-patterns-insurance-practices-exploit-consumer-biases_en)
 
@@ -54,9 +58,5 @@ Bất cứ ai cũng có thể tham gia: nhân viên, bạn bè, con cái, v.v.
 
 Xem thêm:: [Nhóm chạy chỉ tiêu (KPI) cho nhân viên](../index.md)
 
-%% Để ý rằng:
-- [Chính phủ khuyến khích phát triển sản phẩm nhân thọ cho người già và các sản phẩm tích hợp các dịch vụ hỗ trợ y tế, chăm sóc sức khỏe](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/T%E1%BB%95%20ch%E1%BB%A9c%20t%C3%A0i%20ch%C3%ADnh/B%E1%BA%A3o%20hi%E1%BB%83m/Lu%E1%BA%ADt,%20%C4%91%E1%BB%8Bnh%20h%C6%B0%E1%BB%9Bng%20c%E1%BB%A7a%20nh%C3%A0%20n%C6%B0%E1%BB%9Bc/Ch%C3%ADnh%20ph%E1%BB%A7%20khuy%E1%BA%BFn%20kh%C3%ADch%20ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m%20nh%C3%A2n%20th%E1%BB%8D%20cho%20ng%C6%B0%E1%BB%9Di%20gi%C3%A0%20v%C3%A0%20c%C3%A1c%20s%E1%BA%A3n%20ph%E1%BA%A9m%20t%C3%ADch%20h%E1%BB%A3p%20c%C3%A1c%20d%E1%BB%8Bch%20v%E1%BB%A5%20h%E1%BB%97%20tr%E1%BB%A3%20y%20t%E1%BA%BF,%20ch%C4%83m%20s%C3%B3c%20s%E1%BB%A9c%20kh%E1%BB%8Fe.md)
-- [Bảo hiểm nhân thọ xoay quanh tỉ lệ tử vong và quản lý dòng tiền trong thời gian dài](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/T%E1%BB%95%20ch%E1%BB%A9c%20t%C3%A0i%20ch%C3%ADnh/B%E1%BA%A3o%20hi%E1%BB%83m/T%C3%ADnh%20to%C3%A1n%20b%E1%BA%A3o%20hi%E1%BB%83m/B%E1%BA%A3o%20hi%E1%BB%83m%20nh%C3%A2n%20th%E1%BB%8D%20xoay%20quanh%20t%E1%BB%89%20l%E1%BB%87%20t%E1%BB%AD%20vong%20v%C3%A0%20qu%E1%BA%A3n%20l%C3%BD%20d%C3%B2ng%20ti%E1%BB%81n%20trong%20th%E1%BB%9Di%20gian%20d%C3%A0i,%20c%C3%B2n%20b%E1%BA%A3o%20hi%E1%BB%83m%20phi%20nh%C3%A2n%20th%E1%BB%8D%20t%E1%BA%ADp%20trung%20v%C3%A0o%20t%E1%BA%A7n%20su%E1%BA%A5t,%20m%E1%BB%A9c%20%C4%91%E1%BB%99%20t%E1%BB%95n%20th%E1%BA%A5t%20khi%20x%E1%BA%A3y%20ra%20r%E1%BB%A7i%20ro,%20v%C3%A0%20t%C3%ADnh%20to%C3%A1n%20d%E1%BB%B1%20ph%C3%B2ng.md)
-- [Tuổi, tiết kiệm, vay nợ, thu nhập, giáo dục là các yếu tố có tác động đến quyết định mua bảo hiểm nhân thọ](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/T%E1%BB%95%20ch%E1%BB%A9c%20t%C3%A0i%20ch%C3%ADnh/B%E1%BA%A3o%20hi%E1%BB%83m/Lo%E1%BA%A1i%20h%C3%ACnh%20b%E1%BA%A3o%20hi%E1%BB%83m/Nh%C3%A2n%20th%E1%BB%8D/Tu%E1%BB%95i,%20ti%E1%BA%BFt%20ki%E1%BB%87m,%20vay%20n%E1%BB%A3,%20thu%20nh%E1%BA%ADp,%20gi%C3%A1o%20d%E1%BB%A5c%20l%C3%A0%20c%C3%A1c%20y%E1%BA%BFu%20t%E1%BB%91%20c%C3%B3%20t%C3%A1c%20%C4%91%E1%BB%99ng%20%C4%91%E1%BA%BFn%20quy%E1%BA%BFt%20%C4%91%E1%BB%8Bnh%20mua%20b%E1%BA%A3o%20hi%E1%BB%83m%20nh%C3%A2n%20th%E1%BB%8D.md)
-- [các đối tượng mua được ảo hiểm](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/T%E1%BB%95%20ch%E1%BB%A9c%20t%C3%A0i%20ch%C3%ADnh/B%E1%BA%A3o%20hi%E1%BB%83m/Nhu%20c%E1%BA%A7u%20kh%C3%A1ch%20h%C3%A0ng%20v%C3%A0%20%C4%91%E1%BA%A1i%20l%C3%BD/Ng%C6%B0%E1%BB%9Di%20mu%E1%BB%91n%20ph%C3%B2ng%20h%E1%BB%9D%20r%E1%BB%A7i%20ro%20s%E1%BA%BD%20c%E1%BA%A7n%20mua%20b%E1%BA%A3o%20hi%E1%BB%83m,%20nh%C6%B0ng%20ch%E1%BB%89%20ng%C6%B0%E1%BB%9Di%20c%C3%B3%20ti%E1%BB%81n%20v%C3%A0%20c%C3%B3%20s%E1%BB%A9c%20kho%E1%BA%BB%20m%E1%BB%9Bi%20%C4%91%C6%B0%E1%BB%A3c%20mua.md)
-%%
+## Nơi thảo luận
+![](https://i.imgur.com/6TJxtif.png)
