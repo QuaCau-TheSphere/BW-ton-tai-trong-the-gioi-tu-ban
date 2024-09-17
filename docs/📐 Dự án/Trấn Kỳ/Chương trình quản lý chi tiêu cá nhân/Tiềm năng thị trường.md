@@ -6,7 +6,7 @@ updated: 2024-07-28T16:59
 ## Đối thủ cạnh tranh
 Theo dữ liệu của Money Lover, hơn 60% (1.2 triệu user) sau khi sử dụng và tải app đã xóa app hoặc không sử dụng. Daily active không thường xuyên. Một người dùng cho biết họ cũng chỉ làm những cái được nhiều người la ó nhất.
 
-Xem thêm:: [So sánh tính năng giữa chương trình ghi chép thu chi cá nhân](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Quang%20c%E1%BA%A3nh%20th%E1%BB%8B%20tr%C6%B0%E1%BB%9Dng/Ch%C6%B0%C6%A1ng%20tr%C3%ACnh%20qu%E1%BA%A3n%20l%C3%BD%20ti%E1%BB%81n/4%20Lo%E1%BA%A1i%20ch%C6%B0%C6%A1ng%20tr%C3%ACnh/Ch%C6%B0%C6%A1ng%20tr%C3%ACnh%20ghi%20ch%C3%A9p%20thu%20chi%20c%C3%A1%20nh%C3%A2n.md)
+Xem thêm:: [So sánh tính năng giữa chương trình ghi chép thu chi cá nhân](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Ch%C6%B0%C6%A1ng%20tr%C3%ACnh%20qu%E1%BA%A3n%20l%C3%BD%20ti%E1%BB%81n/4%20Lo%E1%BA%A1i%20ch%C6%B0%C6%A1ng%20tr%C3%ACnh/Ch%C6%B0%C6%A1ng%20tr%C3%ACnh%20ghi%20ch%C3%A9p%20thu%20chi%20c%C3%A1%20nh%C3%A2n.md)
 
 ## Tiềm năng đầu tư
 Việc phân loại chi tiêu cũng là bước đầu tiên để một người gia nhập thị trường tài chính. Nó có thể giúp các ngân hàng tiếp cận những người không dùng tài khoản ngân hàng (nhóm unbanked). Nhất là với nhóm đối tượng học sinh, khi họ chưa đủ 18 tuổi để mở tài khoản ngân hàng. Đây là một mỏ dữ liệu cho các nhà đầu tư.

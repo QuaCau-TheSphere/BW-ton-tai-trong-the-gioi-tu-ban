@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2024-08-27T14:10
+updated: 2024-08-27T14:15
 cssClass: wide-table
 ---
 Tên chương trình:: [PiPu](../5%20T%C3%AAn%20ch%C6%B0%C6%A1ng%20tr%C3%ACnh/App%20qu%E1%BA%A3n%20l%C3%BD%20chi%20ti%C3%AAu/PiPu.md), [Trấn Kỳ](../../../%F0%9F%93%90%20D%E1%BB%B1%20%C3%A1n/Tr%E1%BA%A5n%20K%E1%BB%B3/index.md)
