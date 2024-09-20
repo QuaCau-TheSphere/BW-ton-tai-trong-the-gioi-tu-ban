@@ -9,8 +9,8 @@ Loại chương trình:: [Chương trình phân loại dữ liệu tự động]
 
 Đáp ứng cho việc:
 - [Nhập liệu được bằng file text](./Nh%E1%BA%ADp%20li%E1%BB%87u%20%C4%91%C6%B0%E1%BB%A3c%20b%E1%BA%B1ng%20file%20text.md)
-- [Nhập liệu được trên Google Keep](./Nh%E1%BA%ADp%20li%E1%BB%87u%20%C4%91%C6%B0%E1%BB%A3c%20tr%C3%AAn%20Google%20Keep.md)
 - [Nhập liệu được trên Telegram](./Nh%E1%BA%ADp%20li%E1%BB%87u%20%C4%91%C6%B0%E1%BB%A3c%20tr%C3%AAn%20Telegram.md)
+- [Nhập liệu được trên Google Keep](./Nh%E1%BA%ADp%20li%E1%BB%87u%20%C4%91%C6%B0%E1%BB%A3c%20tr%C3%AAn%20Google%20Keep.md)
 - [Nhập được bằng tập tin bảng tính](./Nh%E1%BA%ADp%20%C4%91%C6%B0%E1%BB%A3c%20b%E1%BA%B1ng%20t%E1%BA%ADp%20tin%20b%E1%BA%A3ng%20t%C3%ADnh.md)
 - [Dùng được trên CLI](../Giao%20di%E1%BB%87n/D%C3%B9ng%20%C4%91%C6%B0%E1%BB%A3c%20tr%C3%AAn%20CLI.md)
 - [Là phần mềm tự do](../Kh%C3%A1c/L%C3%A0%20ph%E1%BA%A7n%20m%E1%BB%81m%20t%E1%BB%B1%20do.md)
