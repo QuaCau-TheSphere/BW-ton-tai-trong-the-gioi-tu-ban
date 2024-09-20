@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2024-09-15T15:14
+updated: 2024-09-20T19:37
 ---
 Yêu cầu đầu vào:: [Làm ngoài đường](../../../1%20Y%C3%AAu%20c%E1%BA%A7u%20%C4%91%E1%BA%A7u%20v%C3%A0o/Theo%20t%C3%ADnh%20ch%E1%BA%A5t%20c%C3%B4ng%20vi%E1%BB%87c/L%C3%A0m%20ngo%C3%A0i%20%C4%91%C6%B0%E1%BB%9Dng.md)
 Hình thức:: [Việc làm thời vụ, theo dự án](../../../2%20H%C3%ACnh%20th%E1%BB%A9c/Vi%E1%BB%87c%20l%C3%A0m%20th%E1%BB%9Di%20v%E1%BB%A5,%20theo%20d%E1%BB%B1%20%C3%A1n.md)

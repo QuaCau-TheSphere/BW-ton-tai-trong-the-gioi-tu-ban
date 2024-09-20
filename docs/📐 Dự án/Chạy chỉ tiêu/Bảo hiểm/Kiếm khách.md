@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-09-17T11:13
-updated: 2024-09-18T14:45
+updated: 2024-09-20T13:39
 alias: bán bảo hiểm, thu hút khách hàng
 description: Cam kết không khai thác cảm xúc của họ, mà chỉ muốn nâng đỡ lý tính họ
 ---
@@ -10,7 +10,7 @@ Khái niệm:: [Bảo hiểm](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%
 ## Khách hàng tiềm năng
 Trong [các đối tượng mua được ảo hiểm](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/T%E1%BB%95%20ch%E1%BB%A9c%20t%C3%A0i%20ch%C3%ADnh/B%E1%BA%A3o%20hi%E1%BB%83m/Nhu%20c%E1%BA%A7u%20kh%C3%A1ch%20h%C3%A0ng%20v%C3%A0%20%C4%91%E1%BA%A1i%20l%C3%BD/Ng%C6%B0%E1%BB%9Di%20mu%E1%BB%91n%20ph%C3%B2ng%20h%E1%BB%9D%20r%E1%BB%A7i%20ro%20s%E1%BA%BD%20c%E1%BA%A7n%20mua%20b%E1%BA%A3o%20hi%E1%BB%83m,%20nh%C6%B0ng%20ch%E1%BB%89%20ng%C6%B0%E1%BB%9Di%20c%C3%B3%20ti%E1%BB%81n%20v%C3%A0%20c%C3%B3%20s%E1%BB%A9c%20kho%E1%BA%BB%20m%E1%BB%9Bi%20%C4%91%C6%B0%E1%BB%A3c%20mua.md), có vẻ như **các tổ chức** là các đối tượng đem lại nhiều doanh số nhất. 
 
-Đâu là lý do khiến một người đứng đầu tổ chức muốn mua bảo hiểm cho nhân viên của mình? Có thể nằm ở việc nó giúp làm tăng lòng trung thành của nhân viên. Có thể đối với chủ doanh nghiệp, cái chết vẫn là chuyện xa vời, nhưng lòng trung thành của nhân viên thì thiết thực hơn. Ngoài ra họ cũng cần chưa mua bảo hiểm nào, và có tiền để mua nữa.
+Đâu là lý do khiến một người đứng đầu tổ chức muốn mua bảo hiểm cho nhân viên của mình? Có thể nằm ở việc nó giúp làm tăng lòng trung thành của nhân viên. Có thể đối với chủ doanh nghiệp, cái chết vẫn là chuyện xa vời, nhưng lòng trung thành của nhân viên thì thiết thực hơn. Ngoài ra họ cũng cần chưa mua bảo hiểm nào, và cần có tiền để mua nữa.
 
 Những đặc điểm đó nói lên được điều gì về tổ chức của họ?
 - Chưa mua bảo hiểm cho nhân viên → Tổ chức mới thành lập hoặc có quy mô nhỏ 
@@ -32,6 +32,7 @@ Nhu cầu thường gặp của các tổ chức như vậy:
 - ...
 
 ## Tiếp cận khách hàng
+[Kế hoạch tổ chức sự kiện](./K%E1%BA%BF%20ho%E1%BA%A1ch%20t%E1%BB%95%20ch%E1%BB%A9c%20s%E1%BB%B1%20ki%E1%BB%87n.md)
 ### Làm cho khách hàng tin mình
 Cam kết không khai thác cảm xúc của họ và tạo gánh nặng trong suy nghĩ, mà chỉ muốn nâng đỡ lý tính họ. Làm cho họ thấy mình không sợ họ từ chối, và kể cả từ chối thì mình vẫn sẵn sàng lắng nghe và đáp ứng các nhu cầu khác của họ.
 
