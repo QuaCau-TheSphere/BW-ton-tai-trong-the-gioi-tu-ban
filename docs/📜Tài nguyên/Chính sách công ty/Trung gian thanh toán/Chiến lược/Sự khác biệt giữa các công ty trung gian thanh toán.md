@@ -19,7 +19,7 @@ Momo có nhiều ưu đãi, khuyến mãi, dịch vụ hơn:
 - Từ thiện
 - Phân loại thu chi
 - Giáo dục tài chính
-- Ví trả sau ([Thẻ tín dụng và ví trả sau đều là các hình thức cấp tín dụng](../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/T%E1%BB%95%20ch%E1%BB%A9c%20t%C3%A0i%20ch%C3%ADnh/Vay%20ti%E1%BB%81n/Ng%C3%A2n%20h%C3%A0ng,%20%C4%91i%E1%BB%83m%20t%C3%ADn%20d%E1%BB%A5ng/Th%E1%BA%BB%20t%C3%ADn%20d%E1%BB%A5ng%20v%C3%A0%20v%C3%AD%20tr%E1%BA%A3%20sau%20%C4%91%E1%BB%81u%20l%C3%A0%20c%C3%A1c%20h%C3%ACnh%20th%E1%BB%A9c%20c%E1%BA%A5p%20t%C3%ADn%20d%E1%BB%A5ng.md)) 
+- Ví trả sau ([Thẻ tín dụng và ví trả sau đều là các hình thức cấp tín dụng](../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/T%E1%BB%95%20ch%E1%BB%A9c%20t%C3%A0i%20ch%C3%ADnh/Vay%20ti%E1%BB%81n/Ng%C3%A2n%20h%C3%A0ng,%20%C4%91i%E1%BB%83m%20t%C3%ADn%20d%E1%BB%A5ng/%C4%90i%E1%BB%83m%20t%C3%ADn%20d%E1%BB%A5ng/Th%E1%BA%BB%20t%C3%ADn%20d%E1%BB%A5ng%20v%C3%A0%20v%C3%AD%20tr%E1%BA%A3%20sau%20%C4%91%E1%BB%81u%20l%C3%A0%20c%C3%A1c%20h%C3%ACnh%20th%E1%BB%A9c%20c%E1%BA%A5p%20t%C3%ADn%20d%E1%BB%A5ng.md)) 
 
 ## Khác biệt đối với người bán hàng
 Các công ty đều có tặng loa
