@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2024-09-15T09:53
+updated: 2024-09-20T22:01
 ---
 au 4 tháng tiến độ làm việc quá chậm
 mục tiêu q2 là 5000 active
