@@ -12,8 +12,8 @@ Loại chương trình:: [Chương trình kế toán](../../4%20Lo%E1%BA%A1i%20c
 - [Nhập được bằng tập tin bảng tính](../C%C3%A1ch%20nh%E1%BA%ADp%20li%E1%BB%87u/Nh%E1%BA%ADp%20%C4%91%C6%B0%E1%BB%A3c%20b%E1%BA%B1ng%20t%E1%BA%ADp%20tin%20b%E1%BA%A3ng%20t%C3%ADnh.md)
 - [Tạo query phức tạp được](../Kh%C3%A1c/T%E1%BA%A1o%20query%20ph%E1%BB%A9c%20t%E1%BA%A1p%20%C4%91%C6%B0%E1%BB%A3c.md)
 - [Xuất được kết quả ra dạng bảng tính](../Kh%E1%BA%A3%20n%C4%83ng%20t%C3%ADch%20h%E1%BB%A3p/Xu%E1%BA%A5t%20%C4%91%C6%B0%E1%BB%A3c%20k%E1%BA%BFt%20qu%E1%BA%A3%20ra%20d%E1%BA%A1ng%20b%E1%BA%A3ng%20t%C3%ADnh.md)
+- [Trấn Kỳ (quang cảnh thị trường)](../../5%20T%C3%AAn%20ch%C6%B0%C6%A1ng%20tr%C3%ACnh/Tr%E1%BA%A5n%20K%E1%BB%B3%20(quang%20c%E1%BA%A3nh%20th%E1%BB%8B%20tr%C6%B0%E1%BB%9Dng).md)
+- [SaveDi](../../5%20T%C3%AAn%20ch%C6%B0%C6%A1ng%20tr%C3%ACnh/SaveDi.md)
 - [Beancount](../../5%20T%C3%AAn%20ch%C6%B0%C6%A1ng%20tr%C3%ACnh/K%E1%BA%BF%20to%C3%A1n/Beancount.md)
 - [Misa](../../5%20T%C3%AAn%20ch%C6%B0%C6%A1ng%20tr%C3%ACnh/K%E1%BA%BF%20to%C3%A1n/Misa.md)
-- [SaveDi](../../5%20T%C3%AAn%20ch%C6%B0%C6%A1ng%20tr%C3%ACnh/SaveDi.md)
-- [Trấn Kỳ (quang cảnh thị trường)](../../5%20T%C3%AAn%20ch%C6%B0%C6%A1ng%20tr%C3%ACnh/Tr%E1%BA%A5n%20K%E1%BB%B3%20(quang%20c%E1%BA%A3nh%20th%E1%BB%8B%20tr%C6%B0%E1%BB%9Dng).md)
 
