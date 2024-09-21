@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-09-17T11:13
-updated: 2024-09-20T13:39
+updated: 2024-09-21T17:06
 alias: bán bảo hiểm, thu hút khách hàng
 description: Cam kết không khai thác cảm xúc của họ, mà chỉ muốn nâng đỡ lý tính họ
 ---
@@ -32,7 +32,7 @@ Nhu cầu thường gặp của các tổ chức như vậy:
 - ...
 
 ## Tiếp cận khách hàng
-[Kế hoạch tổ chức sự kiện](./K%E1%BA%BF%20ho%E1%BA%A1ch%20t%E1%BB%95%20ch%E1%BB%A9c%20s%E1%BB%B1%20ki%E1%BB%87n.md)
+[Chỉ tiêu bán hợp đồng](./Ch%E1%BB%89%20ti%C3%AAu%20b%C3%A1n%20h%E1%BB%A3p%20%C4%91%E1%BB%93ng.md)
 ### Làm cho khách hàng tin mình
 Cam kết không khai thác cảm xúc của họ và tạo gánh nặng trong suy nghĩ, mà chỉ muốn nâng đỡ lý tính họ. Làm cho họ thấy mình không sợ họ từ chối, và kể cả từ chối thì mình vẫn sẵn sàng lắng nghe và đáp ứng các nhu cầu khác của họ.
 
