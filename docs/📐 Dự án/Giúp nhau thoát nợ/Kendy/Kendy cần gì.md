@@ -11,10 +11,10 @@ Cảm ơn bạn đã quan tâm tới Kendy. Thực ra bọn mình nghĩ việc g
 
 Đây là những thứ Kendy cần:
 # Giảm áp lực trả nợ
-- [Huy động nguồn tiền nhàn rỗi](../C%C3%B4ng%20vi%E1%BB%87c/Huy%20%C4%91%E1%BB%99ng%20ngu%E1%BB%93n%20ti%E1%BB%81n%20nh%C3%A0n%20r%E1%BB%97i.md)
+- [Đứng ra vay giùm](../C%C3%B4ng%20vi%E1%BB%87c/%C4%90%E1%BB%A9ng%20ra%20vay%20gi%C3%B9m.md)
 - [Thương lượng với chủ nợ](../C%C3%B4ng%20vi%E1%BB%87c/Th%C6%B0%C6%A1ng%20l%C6%B0%E1%BB%A3ng%20v%E1%BB%9Bi%20ch%E1%BB%A7%20n%E1%BB%A3.md)
 - [Tìm nguồn cho mượn 100tr qua đêm, sáng hôm sau trả lại, liên tục vài tháng](../C%C3%B4ng%20vi%E1%BB%87c/T%C3%ACm%20ngu%E1%BB%93n%20cho%20m%C6%B0%E1%BB%A3n%20100tr%20qua%20%C4%91%C3%AAm,%20s%C3%A1ng%20h%C3%B4m%20sau%20tr%E1%BA%A3%20l%E1%BA%A1i,%20li%C3%AAn%20t%E1%BB%A5c%20v%C3%A0i%20th%C3%A1ng.md)
-- [Đứng ra vay giùm](../C%C3%B4ng%20vi%E1%BB%87c/%C4%90%E1%BB%A9ng%20ra%20vay%20gi%C3%B9m.md)
+- [Huy động nguồn tiền nhàn rỗi](../C%C3%B4ng%20vi%E1%BB%87c/Huy%20%C4%91%E1%BB%99ng%20ngu%E1%BB%93n%20ti%E1%BB%81n%20nh%C3%A0n%20r%E1%BB%97i.md)
 
 # Tạo dòng tiền
 Bài chi tiết:: [Kiếm tiền từ các hoạt động của Quả Cầu](T%E1%BA%A1o%20sinh%20k%E1%BA%BF,%20thu%20nh%E1%BA%ADp,%20d%C3%B2ng%20ti%E1%BB%81n.md#Đầu%20tư,%20kinh%20doanh,%20bán%20hàng)
