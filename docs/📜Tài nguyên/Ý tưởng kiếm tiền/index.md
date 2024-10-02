@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2024-08-27T14:15
+updated: 2024-09-26T11:27
 description: Điểm giống và khác nhau giữa các ý tưởng kiếm tiền. Quang cảnh và sơ đồ giữa chúng.
 alias:
   - Điểm giống và khác nhau giữa các ý tưởng kiếm tiền
@@ -35,8 +35,8 @@ style 3 fill:lightgreen
     - [Kiếm người cho tiền](./2%20H%C3%ACnh%20th%E1%BB%A9c/Ki%E1%BA%BFm%20ng%C6%B0%E1%BB%9Di%20cho%20ti%E1%BB%81n.md)
     - [Tự kinh doanh, đầu tư](./2%20H%C3%ACnh%20th%E1%BB%A9c/T%E1%BB%B1%20kinh%20doanh,%20%C4%91%E1%BA%A7u%20t%C6%B0.md)
     - [Việc làm thời vụ, theo dự án](./2%20H%C3%ACnh%20th%E1%BB%A9c/Vi%E1%BB%87c%20l%C3%A0m%20th%E1%BB%9Di%20v%E1%BB%A5,%20theo%20d%E1%BB%B1%20%C3%A1n.md)
-    - [Vị trí chính thức của một công ty](./2%20H%C3%ACnh%20th%E1%BB%A9c/V%E1%BB%8B%20tr%C3%AD%20ch%C3%ADnh%20th%E1%BB%A9c%20c%E1%BB%A7a%20m%E1%BB%99t%20c%C3%B4ng%20ty.md)
     - [Xin tài trợ](./2%20H%C3%ACnh%20th%E1%BB%A9c/Xin%20t%C3%A0i%20tr%E1%BB%A3.md)
+    - [Vị trí chính thức của một công ty](./2%20H%C3%ACnh%20th%E1%BB%A9c/V%E1%BB%8B%20tr%C3%AD%20ch%C3%ADnh%20th%E1%BB%A9c%20c%E1%BB%A7a%20m%E1%BB%99t%20c%C3%B4ng%20ty.md)
     - [3 Ý tưởng](./3%20%C3%9D%20t%C6%B0%E1%BB%9Fng/index.md)
     - [Ý tưởng kiếm tiền](index.md)
 
@@ -44,20 +44,20 @@ style 3 fill:lightgreen
     - [Huấn luyện lập trình 1-1](./3%20%C3%9D%20t%C6%B0%E1%BB%9Fng/C%C3%A1c%20bu%E1%BB%95i%20chia%20s%E1%BA%BB,%20l%E1%BB%9Bp%20h%E1%BB%8Dc,%20kho%C3%A1%20%C4%91%C3%A0o%20t%E1%BA%A1o,%20bu%E1%BB%95i%20hu%E1%BA%A5n%20luy%E1%BB%87n/Hu%E1%BA%A5n%20luy%E1%BB%87n%20l%E1%BA%ADp%20tr%C3%ACnh%201-1.md)
     - [Hướng dẫn tìm hiểu các lĩnh vực](./3%20%C3%9D%20t%C6%B0%E1%BB%9Fng/C%C3%A1c%20bu%E1%BB%95i%20chia%20s%E1%BA%BB,%20l%E1%BB%9Bp%20h%E1%BB%8Dc,%20kho%C3%A1%20%C4%91%C3%A0o%20t%E1%BA%A1o,%20bu%E1%BB%95i%20hu%E1%BA%A5n%20luy%E1%BB%87n/H%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn%20t%C3%ACm%20hi%E1%BB%83u%20c%C3%A1c%20l%C4%A9nh%20v%E1%BB%B1c.md)
 
-- Công việc thời vụ: 
-    - [Chạy sự kiện, shipper, telesale, BPO](./3%20%C3%9D%20t%C6%B0%E1%BB%9Fng/C%C3%B4ng%20vi%E1%BB%87c%20th%E1%BB%9Di%20v%E1%BB%A5/Ch%E1%BA%A1y%20s%E1%BB%B1%20ki%E1%BB%87n,%20shipper,%20telesale,%20BPO.md)
-    - [Làm nhân viên ảo](./3%20%C3%9D%20t%C6%B0%E1%BB%9Fng/C%C3%B4ng%20vi%E1%BB%87c%20th%E1%BB%9Di%20v%E1%BB%A5/C%E1%BB%99ng%20t%C3%A1c%20vi%C3%AAn,%20tr%E1%BB%A3%20l%C3%BD/L%C3%A0m%20nh%C3%A2n%20vi%C3%AAn%20%E1%BA%A3o.md)
-    - [Làm đại lý bảo hiểm ảo](./3%20%C3%9D%20t%C6%B0%E1%BB%9Fng/C%C3%B4ng%20vi%E1%BB%87c%20th%E1%BB%9Di%20v%E1%BB%A5/C%E1%BB%99ng%20t%C3%A1c%20vi%C3%AAn,%20tr%E1%BB%A3%20l%C3%BD/L%C3%A0m%20%C4%91%E1%BA%A1i%20l%C3%BD%20b%E1%BA%A3o%20hi%E1%BB%83m%20%E1%BA%A3o.md)
-    - [Viết hợp đồng, thu thập thông tin khách hàng tiềm năng](./3%20%C3%9D%20t%C6%B0%E1%BB%9Fng/C%C3%B4ng%20vi%E1%BB%87c%20th%E1%BB%9Di%20v%E1%BB%A5/C%E1%BB%99ng%20t%C3%A1c%20vi%C3%AAn,%20tr%E1%BB%A3%20l%C3%BD/Vi%E1%BA%BFt%20h%E1%BB%A3p%20%C4%91%E1%BB%93ng,%20thu%20th%E1%BA%ADp%20th%C3%B4ng%20tin%20kh%C3%A1ch%20h%C3%A0ng%20ti%E1%BB%81m%20n%C4%83ng.md)
-    - [Đổi tiền, chụp hình biển hiệu, dán mã QR](./3%20%C3%9D%20t%C6%B0%E1%BB%9Fng/C%C3%B4ng%20vi%E1%BB%87c%20th%E1%BB%9Di%20v%E1%BB%A5/C%E1%BB%99ng%20t%C3%A1c%20vi%C3%AAn,%20tr%E1%BB%A3%20l%C3%BD/%C4%90%E1%BB%95i%20ti%E1%BB%81n,%20ch%E1%BB%A5p%20h%C3%ACnh%20bi%E1%BB%83n%20hi%E1%BB%87u,%20d%C3%A1n%20m%C3%A3%20QR.md)
-    - [Hướng dẫn viên du lịch](./3%20%C3%9D%20t%C6%B0%E1%BB%9Fng/C%C3%B4ng%20vi%E1%BB%87c%20th%E1%BB%9Di%20v%E1%BB%A5/C%E1%BB%99ng%20t%C3%A1c%20vi%C3%AAn,%20tr%E1%BB%A3%20l%C3%BD/H%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn%20vi%C3%AAn%20du%20l%E1%BB%8Bch.md)
-    - [Lừa đảo hội lừa đảo](./3%20%C3%9D%20t%C6%B0%E1%BB%9Fng/C%C3%B4ng%20vi%E1%BB%87c%20th%E1%BB%9Di%20v%E1%BB%A5/L%E1%BB%ABa%20%C4%91%E1%BA%A3o%20h%E1%BB%99i%20l%E1%BB%ABa%20%C4%91%E1%BA%A3o.md)
-    - [Săn khảo sát, phỏng vấn người dùng](./3%20%C3%9D%20t%C6%B0%E1%BB%9Fng/C%C3%B4ng%20vi%E1%BB%87c%20th%E1%BB%9Di%20v%E1%BB%A5/S%C4%83n%20kh%E1%BA%A3o%20s%C3%A1t,%20ph%E1%BB%8Fng%20v%E1%BA%A5n%20ng%C6%B0%E1%BB%9Di%20d%C3%B9ng.md)
+- Công việc thời vụ, cộng tác viên: 
+    - [Hướng dẫn viên du lịch](./3%20%C3%9D%20t%C6%B0%E1%BB%9Fng/C%C3%B4ng%20vi%E1%BB%87c%20th%E1%BB%9Di%20v%E1%BB%A5,%20c%E1%BB%99ng%20t%C3%A1c%20vi%C3%AAn/Cho%20nh%C3%A2n%20vi%C3%AAn,%20%C4%91%E1%BA%A1i%20l%C3%BD/H%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn%20vi%C3%AAn%20du%20l%E1%BB%8Bch.md)
+    - [Làm nhân viên ảo](./3%20%C3%9D%20t%C6%B0%E1%BB%9Fng/C%C3%B4ng%20vi%E1%BB%87c%20th%E1%BB%9Di%20v%E1%BB%A5,%20c%E1%BB%99ng%20t%C3%A1c%20vi%C3%AAn/Cho%20nh%C3%A2n%20vi%C3%AAn,%20%C4%91%E1%BA%A1i%20l%C3%BD/L%C3%A0m%20nh%C3%A2n%20vi%C3%AAn%20%E1%BA%A3o.md)
+    - [Làm đại lý bảo hiểm ảo](./3%20%C3%9D%20t%C6%B0%E1%BB%9Fng/C%C3%B4ng%20vi%E1%BB%87c%20th%E1%BB%9Di%20v%E1%BB%A5,%20c%E1%BB%99ng%20t%C3%A1c%20vi%C3%AAn/Cho%20nh%C3%A2n%20vi%C3%AAn,%20%C4%91%E1%BA%A1i%20l%C3%BD/L%C3%A0m%20%C4%91%E1%BA%A1i%20l%C3%BD%20b%E1%BA%A3o%20hi%E1%BB%83m%20%E1%BA%A3o.md)
+    - [Viết hợp đồng, thu thập thông tin khách hàng tiềm năng](./3%20%C3%9D%20t%C6%B0%E1%BB%9Fng/C%C3%B4ng%20vi%E1%BB%87c%20th%E1%BB%9Di%20v%E1%BB%A5,%20c%E1%BB%99ng%20t%C3%A1c%20vi%C3%AAn/Cho%20nh%C3%A2n%20vi%C3%AAn,%20%C4%91%E1%BA%A1i%20l%C3%BD/Vi%E1%BA%BFt%20h%E1%BB%A3p%20%C4%91%E1%BB%93ng,%20thu%20th%E1%BA%ADp%20th%C3%B4ng%20tin%20kh%C3%A1ch%20h%C3%A0ng%20ti%E1%BB%81m%20n%C4%83ng.md)
+    - [Đổi tiền, chụp hình biển hiệu, dán mã QR](./3%20%C3%9D%20t%C6%B0%E1%BB%9Fng/C%C3%B4ng%20vi%E1%BB%87c%20th%E1%BB%9Di%20v%E1%BB%A5,%20c%E1%BB%99ng%20t%C3%A1c%20vi%C3%AAn/Cho%20nh%C3%A2n%20vi%C3%AAn,%20%C4%91%E1%BA%A1i%20l%C3%BD/%C4%90%E1%BB%95i%20ti%E1%BB%81n,%20ch%E1%BB%A5p%20h%C3%ACnh%20bi%E1%BB%83n%20hi%E1%BB%87u,%20d%C3%A1n%20m%C3%A3%20QR.md)
+    - [Chạy sự kiện, shipper, telesale, BPO, tro ly](./3%20%C3%9D%20t%C6%B0%E1%BB%9Fng/C%C3%B4ng%20vi%E1%BB%87c%20th%E1%BB%9Di%20v%E1%BB%A5,%20c%E1%BB%99ng%20t%C3%A1c%20vi%C3%AAn/Ch%E1%BA%A1y%20s%E1%BB%B1%20ki%E1%BB%87n,%20shipper,%20telesale,%20BPO,%20tro%20ly.md)
+    - [Làm khảo sát, phỏng vấn](./3%20%C3%9D%20t%C6%B0%E1%BB%9Fng/C%C3%B4ng%20vi%E1%BB%87c%20th%E1%BB%9Di%20v%E1%BB%A5,%20c%E1%BB%99ng%20t%C3%A1c%20vi%C3%AAn/L%C3%A0m%20kh%E1%BA%A3o%20s%C3%A1t,%20ph%E1%BB%8Fng%20v%E1%BA%A5n.md)
+    - [Lừa đảo hội lừa đảo](./3%20%C3%9D%20t%C6%B0%E1%BB%9Fng/C%C3%B4ng%20vi%E1%BB%87c%20th%E1%BB%9Di%20v%E1%BB%A5,%20c%E1%BB%99ng%20t%C3%A1c%20vi%C3%AAn/L%E1%BB%ABa%20%C4%91%E1%BA%A3o%20h%E1%BB%99i%20l%E1%BB%ABa%20%C4%91%E1%BA%A3o.md)
 
 - Gia công giải pháp: 
     - [Gom lịch vào Google Calendar](./3%20%C3%9D%20t%C6%B0%E1%BB%9Fng/Gia%20c%C3%B4ng%20gi%E1%BA%A3i%20ph%C3%A1p/Gom%20l%E1%BB%8Bch%20v%C3%A0o%20Google%20Calendar.md)
-    - [Tạo báo cáo tiếp thị quản lý được theo từng cấp](./3%20%C3%9D%20t%C6%B0%E1%BB%9Fng/Gia%20c%C3%B4ng%20gi%E1%BA%A3i%20ph%C3%A1p/T%E1%BA%A1o%20b%C3%A1o%20c%C3%A1o%20ti%E1%BA%BFp%20th%E1%BB%8B%20qu%E1%BA%A3n%20l%C3%BD%20%C4%91%C6%B0%E1%BB%A3c%20theo%20t%E1%BB%ABng%20c%E1%BA%A5p.md)
     - [Kết nối nhu cầu di chuyển của người khuyết tật](./3%20%C3%9D%20t%C6%B0%E1%BB%9Fng/Gia%20c%C3%B4ng%20gi%E1%BA%A3i%20ph%C3%A1p/K%E1%BA%BFt%20n%E1%BB%91i%20nhu%20c%E1%BA%A7u%20di%20chuy%E1%BB%83n%20c%E1%BB%A7a%20ng%C6%B0%E1%BB%9Di%20khuy%E1%BA%BFt%20t%E1%BA%ADt.md)
+    - [Tạo báo cáo tiếp thị quản lý được theo từng cấp](./3%20%C3%9D%20t%C6%B0%E1%BB%9Fng/Gia%20c%C3%B4ng%20gi%E1%BA%A3i%20ph%C3%A1p/T%E1%BA%A1o%20b%C3%A1o%20c%C3%A1o%20ti%E1%BA%BFp%20th%E1%BB%8B%20qu%E1%BA%A3n%20l%C3%BD%20%C4%91%C6%B0%E1%BB%A3c%20theo%20t%E1%BB%ABng%20c%E1%BA%A5p.md)
     - [Viết plugin tích hợp vào các chương trình kế toán](./3%20%C3%9D%20t%C6%B0%E1%BB%9Fng/Gia%20c%C3%B4ng%20gi%E1%BA%A3i%20ph%C3%A1p/Vi%E1%BA%BFt%20plugin%20t%C3%ADch%20h%E1%BB%A3p%20v%C3%A0o%20c%C3%A1c%20ch%C6%B0%C6%A1ng%20tr%C3%ACnh%20k%E1%BA%BF%20to%C3%A1n.md)
     - [Xây dựng hệ thống quản lý](./3%20%C3%9D%20t%C6%B0%E1%BB%9Fng/Gia%20c%C3%B4ng%20gi%E1%BA%A3i%20ph%C3%A1p/X%C3%A2y%20d%E1%BB%B1ng%20h%E1%BB%87%20th%E1%BB%91ng%20qu%E1%BA%A3n%20l%C3%BD.md)
 
@@ -85,8 +85,8 @@ style 3 fill:lightgreen
     - [Viết app quản lý chi tiêu cá nhân](./3%20%C3%9D%20t%C6%B0%E1%BB%9Fng/T%E1%BB%B1%20kinh%20doanh,%20%C4%91%E1%BA%A7u%20t%C6%B0/B%C3%A1n%20d%E1%BB%8Bch%20v%E1%BB%A5%20ph%E1%BA%A7n%20m%E1%BB%81m%20(SaaS)/Vi%E1%BA%BFt%20app%20qu%E1%BA%A3n%20l%C3%BD%20chi%20ti%C3%AAu%20c%C3%A1%20nh%C3%A2n.md)
     - [Bán bộ sưu tập từ điển chuyên ngành](./3%20%C3%9D%20t%C6%B0%E1%BB%9Fng/T%E1%BB%B1%20kinh%20doanh,%20%C4%91%E1%BA%A7u%20t%C6%B0/B%C3%A1n%20quy%E1%BB%81n%20truy%20c%E1%BA%ADp%20d%E1%BB%AF%20li%E1%BB%87u/B%C3%A1n%20b%E1%BB%99%20s%C6%B0u%20t%E1%BA%ADp%20t%E1%BB%AB%20%C4%91i%E1%BB%83n%20chuy%C3%AAn%20ng%C3%A0nh.md)
     - [Bán bộ thẻ học GRE cho Anki](./3%20%C3%9D%20t%C6%B0%E1%BB%9Fng/T%E1%BB%B1%20kinh%20doanh,%20%C4%91%E1%BA%A7u%20t%C6%B0/B%C3%A1n%20quy%E1%BB%81n%20truy%20c%E1%BA%ADp%20d%E1%BB%AF%20li%E1%BB%87u/B%C3%A1n%20b%E1%BB%99%20th%E1%BA%BB%20h%E1%BB%8Dc%20GRE%20cho%20Anki.md)
-    - [Cho vay lấy lãi](./3%20%C3%9D%20t%C6%B0%E1%BB%9Fng/T%E1%BB%B1%20kinh%20doanh,%20%C4%91%E1%BA%A7u%20t%C6%B0/Cho%20vay%20l%E1%BA%A5y%20l%C3%A3i.md)
     - [Bán số lượng lớn tự động trên các nền tảng](./3%20%C3%9D%20t%C6%B0%E1%BB%9Fng/T%E1%BB%B1%20kinh%20doanh,%20%C4%91%E1%BA%A7u%20t%C6%B0/B%C3%A1n%20s%E1%BB%91%20l%C6%B0%E1%BB%A3ng%20l%E1%BB%9Bn%20t%E1%BB%B1%20%C4%91%E1%BB%99ng%20tr%C3%AAn%20c%C3%A1c%20n%E1%BB%81n%20t%E1%BA%A3ng.md)
+    - [Cho vay lấy lãi](./3%20%C3%9D%20t%C6%B0%E1%BB%9Fng/T%E1%BB%B1%20kinh%20doanh,%20%C4%91%E1%BA%A7u%20t%C6%B0/Cho%20vay%20l%E1%BA%A5y%20l%C3%A3i.md)
     - [Nhóm cộng tác viên cho nhân viên](./3%20%C3%9D%20t%C6%B0%E1%BB%9Fng/T%E1%BB%B1%20kinh%20doanh,%20%C4%91%E1%BA%A7u%20t%C6%B0/Nh%C3%B3m%20c%E1%BB%99ng%20t%C3%A1c%20vi%C3%AAn%20cho%20nh%C3%A2n%20vi%C3%AAn.md)
     - [Xem tử vi tự động](./3%20%C3%9D%20t%C6%B0%E1%BB%9Fng/T%E1%BB%B1%20kinh%20doanh,%20%C4%91%E1%BA%A7u%20t%C6%B0/Xem%20t%E1%BB%AD%20vi%20t%E1%BB%B1%20%C4%91%E1%BB%99ng.md)
 

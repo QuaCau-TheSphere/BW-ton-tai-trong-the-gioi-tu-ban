@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-08-14T12:10
-updated: 2024-09-18T13:49
+updated: 2024-10-01T20:26
 alias:
   - Tặng bảo hiểm nhân thọ
   - Hợp đồng bảo hiểm nhân thọ, miễn phí năm đầu
@@ -17,6 +17,7 @@ Lý do:: [Chạy chỉ tiêu](../../%F0%9F%93%90%20D%E1%BB%B1%20%C3%A1n/Ch%E1%BA
 ---
 
 Thông tin hợp đồng: [Ảnh màn hình tài khoản](../../assets/attachments/H%E1%BB%A3p%20%C4%91%E1%BB%93ng%20FWD%20(t%C3%B3m%20t%E1%BA%AFt).png), [PDF toàn bộ hợp đồng](https://github.com/QuaCau-TheSphere/BW-ton-tai-trong-the-gioi-tu-ban/blob/main/docs/assets/attachments/fwd.pdf)
+
 ## Quyền lợi bảo hiểm
 ### Quyền lợi bảo vệ
 - Ung thư giai đoạn sau: 212.000.000 ₫
@@ -36,6 +37,7 @@ Thông tin hợp đồng: [Ảnh màn hình tài khoản](../../assets/attachmen
 - Thương tật vĩnh viễn: Từ 15.000.000 ₫ đến 300.000.000 ₫
 - Tử vong do Tai nạn: Từ 300.000.000 ₫ đến 900.000.000 ₫
 - Quyền lợi tăng thêm: Chi trả gấp đôi quyền lợi tử vong khi Người được bảo hiểm và vợ/chồng của Người được bảo hiểm tử vong do cùng 1 tai nạn
+
 ### Quyền lợi đầu tư
 - Tài khoản bảo hiểm: 2.821.422 ₫
 - Tài khoản đầu tư thêm: 0 ₫

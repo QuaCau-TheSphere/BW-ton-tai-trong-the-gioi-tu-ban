@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2024-09-16T11:46
+updated: 2024-10-01T14:28
 ---
 - Tình hình nợ hiện nay thế nào? Các khoản nợ, lãi và thời hạn trả của chúng, v.v.
 - Tình hình nợ này ảnh hưởng đến cuộc sống của bạn thế nào?
