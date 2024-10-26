@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-09-17T11:13
-updated: 2024-10-11T14:53
+updated: 2024-10-26T22:51
 alias: bán bảo hiểm, thu hút khách hàng
 description: Cam kết không khai thác cảm xúc của họ, mà chỉ muốn nâng đỡ lý tính họ
 title: Kiếm khách
@@ -33,20 +33,12 @@ Nhu cầu thường gặp của các tổ chức như vậy:
 - ...
 
 ## Tiếp cận khách hàng tiềm năng
-Mở các buổi workshop cho những người đứng đầu các tổ chức:
-- Mới thành lập hoặc có quy mô nhỏ 
-- Làm các dự án dài hơi
-- Đang có lời hoặc được cấp quỹ
 
 - Chia sẻ các tài nguyên trong C:
 - Đăng bài trên LinkedIn  
 
-Nơi kiếm được những người như vậy:
-- Danh sách học viên MBA
-- CLB các doanh nghiệp: [CLB Doanh Nghiệp Việt Nam (VEC)](https://clbdoanhnghiepvietnam.com/thau-hieu-nhu-cau-ho-tro-doanh-nghiep-phat-trien-ben-vung/), ABG
-- Danh sách các công ty: [Danh sách 1000 doanh nghiệp nộp thuế TNDN nhiều nhất](https://mof.gov.vn/webcenter/portal/vclvcstc/pages_r/l/chi-tiet-tin?dDocName=MOFUCM248033)
-- Các trung tâm làm việc với nhiều doanh nghiệp: [Danh sách đơn vị kiểm định an toàn](https://ldt.vn/danh-sach-don-vi-kiem-dinh-an-toan/)
-
+Bài chi tiết:: [Networking. Thiết lập các cuộc hẹn](../../Networking.%20Thi%E1%BA%BFt%20l%E1%BA%ADp%20c%C3%A1c%20cu%E1%BB%99c%20h%E1%BA%B9n.md)
+[Xây dựng thương hiệu trên MXH](../../X%C3%A2y%20d%E1%BB%B1ng%20th%C6%B0%C6%A1ng%20hi%E1%BB%87u%20tr%C3%AAn%20MXH.md)
 [Giả thiết về tỉ lệ chuyển đổi](../../Gi%E1%BA%A3%20thi%E1%BA%BFt/B%E1%BA%A3o%20hi%E1%BB%83m/Gi%E1%BA%A3%20thi%E1%BA%BFt%20v%E1%BB%81%20t%E1%BB%89%20l%E1%BB%87%20chuy%E1%BB%83n%20%C4%91%E1%BB%95i.md)
 [Kế hoạch](%F0%9F%93%90%20D%E1%BB%B1%20%C3%A1n/Ch%E1%BA%A1y%20ch%E1%BB%89%20ti%C3%AAu/K%E1%BA%BF%20ho%E1%BA%A1ch.md)
 ### Làm cho khách hàng tin mình
