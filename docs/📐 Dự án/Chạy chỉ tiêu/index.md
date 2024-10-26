@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-09-15T14:19
-updated: 2024-10-05T14:51
+updated: 2024-10-11T14:53
 alias:
   - Nhóm chạy chỉ tiêu (KPI) cho nhân viên
   - Nhóm thuê ngoài (outsource) cho nhân viên
@@ -19,8 +19,8 @@ Nhóm có thể được gọi là "nhóm chạy chỉ tiêu (KPI) cho nhân vi�
 
 - Bảo hiểm:
     - [Làm đại lý bảo hiểm ảo](../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/%C3%9D%20t%C6%B0%E1%BB%9Fng%20ki%E1%BA%BFm%20ti%E1%BB%81n/3%20%C3%9D%20t%C6%B0%E1%BB%9Fng/C%C3%B4ng%20vi%E1%BB%87c%20th%E1%BB%9Di%20v%E1%BB%A5,%20c%E1%BB%99ng%20t%C3%A1c%20vi%C3%AAn/Cho%20nh%C3%A2n%20vi%C3%AAn,%20%C4%91%E1%BA%A1i%20l%C3%BD/L%C3%A0m%20%C4%91%E1%BA%A1i%20l%C3%BD%20b%E1%BA%A3o%20hi%E1%BB%83m%20%E1%BA%A3o.md)
-    - [Tuyển dụng](./T%C3%A0i%20li%E1%BB%87u/B%E1%BA%A3o%20hi%E1%BB%83m/Tuy%E1%BB%83n%20d%E1%BB%A5ng/index.md)
-    - [Kiếm khách](./T%C3%A0i%20li%E1%BB%87u/B%E1%BA%A3o%20hi%E1%BB%83m/Ki%E1%BA%BFm%20kh%C3%A1ch/index.md)
+    - [Tuyển dụng](./B%E1%BA%A3o%20hi%E1%BB%83m/T%C3%A0i%20li%E1%BB%87u/Tuy%E1%BB%83n%20d%E1%BB%A5ng/index.md)
+    - [Kiếm khách](./B%E1%BA%A3o%20hi%E1%BB%83m/T%C3%A0i%20li%E1%BB%87u/Ki%E1%BA%BFm%20kh%C3%A1ch/index.md)
 - Trung gian thanh toán:
     - [Làm nhân viên ảo](../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/%C3%9D%20t%C6%B0%E1%BB%9Fng%20ki%E1%BA%BFm%20ti%E1%BB%81n/3%20%C3%9D%20t%C6%B0%E1%BB%9Fng/C%C3%B4ng%20vi%E1%BB%87c%20th%E1%BB%9Di%20v%E1%BB%A5,%20c%E1%BB%99ng%20t%C3%A1c%20vi%C3%AAn/Cho%20nh%C3%A2n%20vi%C3%AAn,%20%C4%91%E1%BA%A1i%20l%C3%BD/L%C3%A0m%20nh%C3%A2n%20vi%C3%AAn%20%E1%BA%A3o.md)
     - [Viết hợp đồng, thu thập thông tin khách hàng tiềm năng](../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/%C3%9D%20t%C6%B0%E1%BB%9Fng%20ki%E1%BA%BFm%20ti%E1%BB%81n/3%20%C3%9D%20t%C6%B0%E1%BB%9Fng/C%C3%B4ng%20vi%E1%BB%87c%20th%E1%BB%9Di%20v%E1%BB%A5,%20c%E1%BB%99ng%20t%C3%A1c%20vi%C3%AAn/Cho%20nh%C3%A2n%20vi%C3%AAn,%20%C4%91%E1%BA%A1i%20l%C3%BD/Vi%E1%BA%BFt%20h%E1%BB%A3p%20%C4%91%E1%BB%93ng,%20thu%20th%E1%BA%ADp%20th%C3%B4ng%20tin%20kh%C3%A1ch%20h%C3%A0ng%20ti%E1%BB%81m%20n%C4%83ng.md)

@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-08-14T12:10
-updated: 2024-10-01T20:26
+updated: 2024-10-09T21:29
 alias:
   - Tặng bảo hiểm nhân thọ
   - Hợp đồng bảo hiểm nhân thọ, miễn phí năm đầu
@@ -16,7 +16,7 @@ Lý do:: [Chạy chỉ tiêu](../../%F0%9F%93%90%20D%E1%BB%B1%20%C3%A1n/Ch%E1%BA
 
 ---
 
-Thông tin hợp đồng: [Ảnh màn hình tài khoản](../../assets/attachments/H%E1%BB%A3p%20%C4%91%E1%BB%93ng%20FWD%20(t%C3%B3m%20t%E1%BA%AFt).png), [PDF toàn bộ hợp đồng](https://github.com/QuaCau-TheSphere/BW-ton-tai-trong-the-gioi-tu-ban/blob/main/docs/assets/attachments/fwd.pdf)
+Thông tin hợp đồng: [Ảnh màn hình tài khoản](../../assets/attachments/H%E1%BB%A3p%20%C4%91%E1%BB%93ng%20FWD%20(t%C3%B3m%20t%E1%BA%AFt).png), [PDF toàn bộ hợp đồng](https://github.com/QuaCau-TheSphere/BW-ton-tai-trong-the-gioi-tu-ban/blob/main/docs/assets/attachments/H%E1%BB%A3p%20%C4%91%E1%BB%93ng%20FWD%20(t%C3%B3m%20t%E1%BA%AFt).png)
 
 ## Quyền lợi bảo hiểm
 ### Quyền lợi bảo vệ
@@ -55,3 +55,5 @@ Kênh bảo hiểm:
 
 Ngân hàng phân phối:
 ![FWD x Vietcombank - Vững tin sống đầy 2020 - YouTube](https://youtu.be/JtOSw8uegVI)
+
+![Hợp đồng FWD (đầy đủ).pdf](../../assets/attachments/H%E1%BB%A3p%20%C4%91%E1%BB%93ng%20FWD%20(%C4%91%E1%BA%A7y%20%C4%91%E1%BB%A7).pdf)
