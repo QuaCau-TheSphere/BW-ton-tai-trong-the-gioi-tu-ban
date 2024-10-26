@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-09-14T22:58
-updated: 2024-10-18T22:24
+updated: 2024-10-26T22:08
 alias: Kế hoạch tuyển dụng
 title: Tuyển dụng
 ---
@@ -15,10 +15,11 @@ Tuyển người thực sự muốn làm vẫn tốt hơn tuyển ảo. Nếu mu
 
 ## Tập người thường thoả các điều kiện này
 Người cần một công việc:
-- Người cận nghèo, người nhập cư, di cư lên TPHCM
+- Người có thu nhập trung bình, người nhập cư, di cư lên TPHCM
 
 Người cần một số tiền đột biến
 
+[Networking. Thiết lập các cuộc hẹn](../../Networking.%20Thi%E1%BA%BFt%20l%E1%BA%ADp%20c%C3%A1c%20cu%E1%BB%99c%20h%E1%BA%B9n.md)
 Nơi tiếp cận:
 - Sàn giao dịch việc làm, 
 - Trung tâm dạy nghề,
@@ -27,6 +28,10 @@ Nơi tiếp cận:
 Người cần thời gian linh hoạt: 
 - bị bệnh hoặc có người thân bị bệnh
 
+Người thường bị gạt ra khi xin việc:
+- Người không có bằng đại học:
+- , mới ra trại lính hoặc tù
+
 | Đặc điểm | Nơi tiếp cận |
 | -------- | ------------ |
 |          |              |
@@ -34,7 +39,7 @@ Người cần thời gian linh hoạt:
 
 
 ## Tập tưởng là phù hợp nhưng không
-- Người không có bằng đại học: người nghèo, mới ra trại lính hoặc tù
+- Người nghèo
 
 [Việt Nam không ai chết đói, chỉ có nghèo đa chiều](../../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Ph%C3%A1t%20tri%E1%BB%83n%20b%E1%BB%81n%20v%E1%BB%AFng/H%E1%BB%97%20tr%E1%BB%A3%20ng%C6%B0%E1%BB%9Di%20y%E1%BA%BFu%20th%E1%BA%BF/Vi%E1%BB%87t%20Nam%20kh%C3%B4ng%20ai%20ch%E1%BA%BFt%20%C4%91%C3%B3i,%20ch%E1%BB%89%20c%C3%B3%20ngh%C3%A8o%20%C4%91a%20chi%E1%BB%81u.md)
 [Phạm Trường Sơn](../../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Ngu%E1%BB%93n/Ph%E1%BA%A1m%20Tr%C6%B0%E1%BB%9Dng%20S%C6%A1n.md)
