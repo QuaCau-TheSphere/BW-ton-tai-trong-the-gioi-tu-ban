@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-10-10T13:03
-updated: 2024-10-10T13:04
+updated: 2024-10-27T12:43
 ---
 TẠI SAO NÊN MUA BẢO HIỂM TỪ QUẢ CẦU?
 • Bọn mình chỉ muốn nâng đỡ lý tính bạn
@@ -21,7 +21,7 @@ Trước mắt thì bọn mình sẽ bán như sau:
  • Với sản phẩm phi nhân thọ, bạn chỉ cần trả giá gốc của sản phẩm. Bọn mình sẽ không ăn một đồng hoa hồng nào
  • Với sản phẩm nhân thọ, 5 người đầu tiên được miễn phí 1 năm, 20 người tiếp theo được miễn phí 6 tháng đầu, những người tiếp theo được miễn phí 3 tháng đầu. Bạn sẽ được chọn sản phẩm theo đúng nhu cầu của mình, chứ bọn mình không mặc định sản phẩm rẻ nhất chỉ để chạy doanh số.
 
-Vì số tiền hoa hồng từ phí bạn đóng cả năm chỉ đủ để trả tiền cho 3 tháng đầu, nên việc sẵn sàng trả tiền cả năm cho bạn là từ tiền túi của bọn mình. Bọn mình làm vậy vì bọn mình thực sự muốn bạn được trải nghiệm hợp đồng, để bạn thấy được [tầm quan trọng của bảo hiểm](../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/T%E1%BB%95%20ch%E1%BB%A9c%20t%C3%A0i%20ch%C3%ADnh/B%E1%BA%A3o%20hi%E1%BB%83m/Nhu%20c%E1%BA%A7u%20kh%C3%A1ch%20h%C3%A0ng%20v%C3%A0%20%C4%91%E1%BA%A1i%20l%C3%BD/T%E1%BA%A7m%20quan%20tr%E1%BB%8Dng%20c%E1%BB%A7a%20b%E1%BA%A3o%20hi%E1%BB%83m.md). Khi có thưởng hay ưu đãi gì của công ty bọn mình cũng sẽ tự động thêm vào để bạn có phí tốt nhất có thể.
+Vì số tiền hoa hồng từ phí bạn đóng cả năm chỉ đủ để trả tiền cho 3 tháng đầu, nên việc sẵn sàng trả tiền cả năm cho bạn là từ tiền túi của bọn mình. Bọn mình làm vậy vì bọn mình thực sự muốn bạn được trải nghiệm hợp đồng, để bạn thấy được [Các câu hỏi để xác định nhu cầu bảo hiểm của một người](../../%F0%9F%93%90%20D%E1%BB%B1%20%C3%A1n/Ch%E1%BA%A1y%20ch%E1%BB%89%20ti%C3%AAu/B%E1%BA%A3o%20hi%E1%BB%83m/Nghi%C3%AAn%20c%E1%BB%A9u%20ng%C6%B0%E1%BB%9Di%20d%C3%B9ng/C%C3%A1c%20c%C3%A2u%20h%E1%BB%8Fi%20%C4%91%E1%BB%83%20x%C3%A1c%20%C4%91%E1%BB%8Bnh%20nhu%20c%E1%BA%A7u%20b%E1%BA%A3o%20hi%E1%BB%83m%20c%E1%BB%A7a%20m%E1%BB%99t%20ng%C6%B0%E1%BB%9Di.md). Khi có thưởng hay ưu đãi gì của công ty bọn mình cũng sẽ tự động thêm vào để bạn có phí tốt nhất có thể.
 
 Lưu ý rằng, luật quy định đại lý không được cắt hoa hồng để giảm giá cho khách. Mục tiêu có lẽ là để không bị phá giá. Nhưng đó là vì lợi ích của các công ty, không phải vì lợi ích của bạn. Nên điều này sẽ cần sự hợp tác của bạn trong việc không tiết lộ với công ty.
 
@@ -54,7 +54,7 @@ Trước mắt thì bọn mình sẽ bán như sau:
  - Với sản phẩm phi nhân thọ, bạn chỉ cần trả giá gốc của sản phẩm. Bọn mình sẽ không ăn một đồng hoa hồng nào
  - Với sản phẩm nhân thọ, 5 người đầu tiên được miễn phí 1 năm, 20 người tiếp theo được miễn phí 6 tháng đầu, những người tiếp theo được miễn phí 3 tháng đầu. Bạn sẽ được chọn sản phẩm theo đúng nhu cầu của mình, chứ bọn mình không mặc định sản phẩm rẻ nhất chỉ để chạy doanh số.
 
-Vì số tiền hoa hồng từ phí bạn đóng cả năm chỉ đủ để trả tiền cho 3 tháng đầu, nên việc sẵn sàng trả tiền cả năm cho bạn là từ tiền túi của bọn mình. Bọn mình làm vậy vì bọn mình thực sự muốn bạn được trải nghiệm hợp đồng, để bạn thấy được [tầm quan trọng của bảo hiểm](../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/T%E1%BB%95%20ch%E1%BB%A9c%20t%C3%A0i%20ch%C3%ADnh/B%E1%BA%A3o%20hi%E1%BB%83m/Nhu%20c%E1%BA%A7u%20kh%C3%A1ch%20h%C3%A0ng%20v%C3%A0%20%C4%91%E1%BA%A1i%20l%C3%BD/T%E1%BA%A7m%20quan%20tr%E1%BB%8Dng%20c%E1%BB%A7a%20b%E1%BA%A3o%20hi%E1%BB%83m.md). Khi có thưởng hay ưu đãi gì của công ty bọn mình cũng sẽ tự động thêm vào để bạn có phí tốt nhất có thể.
+Vì số tiền hoa hồng từ phí bạn đóng cả năm chỉ đủ để trả tiền cho 3 tháng đầu, nên việc sẵn sàng trả tiền cả năm cho bạn là từ tiền túi của bọn mình. Bọn mình làm vậy vì bọn mình thực sự muốn bạn được trải nghiệm hợp đồng, để bạn thấy được [Các câu hỏi để xác định nhu cầu bảo hiểm của một người](../../%F0%9F%93%90%20D%E1%BB%B1%20%C3%A1n/Ch%E1%BA%A1y%20ch%E1%BB%89%20ti%C3%AAu/B%E1%BA%A3o%20hi%E1%BB%83m/Nghi%C3%AAn%20c%E1%BB%A9u%20ng%C6%B0%E1%BB%9Di%20d%C3%B9ng/C%C3%A1c%20c%C3%A2u%20h%E1%BB%8Fi%20%C4%91%E1%BB%83%20x%C3%A1c%20%C4%91%E1%BB%8Bnh%20nhu%20c%E1%BA%A7u%20b%E1%BA%A3o%20hi%E1%BB%83m%20c%E1%BB%A7a%20m%E1%BB%99t%20ng%C6%B0%E1%BB%9Di.md). Khi có thưởng hay ưu đãi gì của công ty bọn mình cũng sẽ tự động thêm vào để bạn có phí tốt nhất có thể.
 
 Lưu ý rằng, luật quy định đại lý không được cắt hoa hồng để giảm giá cho khách. Mục tiêu có lẽ là để không bị phá giá. Nhưng đó là vì lợi ích của các công ty, không phải vì lợi ích của bạn. Nên điều này sẽ cần sự hợp tác của bạn trong việc không tiết lộ với công ty.
 

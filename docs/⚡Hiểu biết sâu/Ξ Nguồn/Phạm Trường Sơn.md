@@ -80,8 +80,8 @@ SNPO không tổ chức gì nữa, mọi người tự liên kết vosơvoiwhau 
 - Nơi gặp mặt
 - Nhu cầu công việc và nhu cầu công nghệ
 
-- [Không có tổ chức nào có đối tượng thụ hưởng là người đang nợ](../Ph%C3%A1t%20tri%E1%BB%83n%20b%E1%BB%81n%20v%E1%BB%AFng/H%E1%BB%97%20tr%E1%BB%A3%20ng%C6%B0%E1%BB%9Di%20y%E1%BA%BFu%20th%E1%BA%BF/Kh%C3%B4ng%20c%C3%B3%20t%E1%BB%95%20ch%E1%BB%A9c%20n%C3%A0o%20c%C3%B3%20%C4%91%E1%BB%91i%20t%C6%B0%E1%BB%A3ng%20th%E1%BB%A5%20h%C6%B0%E1%BB%9Fng%20l%C3%A0%20ng%C6%B0%E1%BB%9Di%20%C4%91ang%20n%E1%BB%A3.md)
 - [Các tổ chức tôn giáo không có sứ mệnh phát triển cộng đồng, chỉ có sứ mệnh thương người](../Ph%C3%A1t%20tri%E1%BB%83n%20b%E1%BB%81n%20v%E1%BB%AFng/H%E1%BB%97%20tr%E1%BB%A3%20ng%C6%B0%E1%BB%9Di%20y%E1%BA%BFu%20th%E1%BA%BF/C%C3%A1c%20t%E1%BB%95%20ch%E1%BB%A9c%20t%C3%B4n%20gi%C3%A1o%20kh%C3%B4ng%20c%C3%B3%20s%E1%BB%A9%20m%E1%BB%87nh%20ph%C3%A1t%20tri%E1%BB%83n%20c%E1%BB%99ng%20%C4%91%E1%BB%93ng,%20ch%E1%BB%89%20c%C3%B3%20s%E1%BB%A9%20m%E1%BB%87nh%20th%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%9Di.md)
+- [Không có tổ chức nào có đối tượng thụ hưởng là người đang nợ](../Ph%C3%A1t%20tri%E1%BB%83n%20b%E1%BB%81n%20v%E1%BB%AFng/H%E1%BB%97%20tr%E1%BB%A3%20ng%C6%B0%E1%BB%9Di%20y%E1%BA%BFu%20th%E1%BA%BF/Kh%C3%B4ng%20c%C3%B3%20t%E1%BB%95%20ch%E1%BB%A9c%20n%C3%A0o%20c%C3%B3%20%C4%91%E1%BB%91i%20t%C6%B0%E1%BB%A3ng%20th%E1%BB%A5%20h%C6%B0%E1%BB%9Fng%20l%C3%A0%20ng%C6%B0%E1%BB%9Di%20%C4%91ang%20n%E1%BB%A3.md)
 - [Các câu hỏi về việc thành lập quỹ tín dụng và bản chất CSR của doanh nghiệp](../Ph%C3%A1t%20tri%E1%BB%83n%20b%E1%BB%81n%20v%E1%BB%AFng/H%E1%BB%97%20tr%E1%BB%A3%20ng%C6%B0%E1%BB%9Di%20y%E1%BA%BFu%20th%E1%BA%BF/T%C3%A0i%20ch%C3%ADnh%20vi%20m%C3%B4/C%C3%A1c%20c%C3%A2u%20h%E1%BB%8Fi%20v%E1%BB%81%20vi%E1%BB%87c%20th%C3%A0nh%20l%E1%BA%ADp%20qu%E1%BB%B9%20t%C3%ADn%20d%E1%BB%A5ng%20v%C3%A0%20b%E1%BA%A3n%20ch%E1%BA%A5t%20CSR%20c%E1%BB%A7a%20doanh%20nghi%E1%BB%87p.md)
 - [Luật pháp chỉ hiểu về kinh doanh, chứ không phải là phi lợi nhuận. Chính thức hoá khi lập quỹ là chết với luật tín dụng](../Ph%C3%A1t%20tri%E1%BB%83n%20b%E1%BB%81n%20v%E1%BB%AFng/H%E1%BB%97%20tr%E1%BB%A3%20ng%C6%B0%E1%BB%9Di%20y%E1%BA%BFu%20th%E1%BA%BF/T%C3%A0i%20ch%C3%ADnh%20vi%20m%C3%B4/Lu%E1%BA%ADt%20ph%C3%A1p%20ch%E1%BB%89%20hi%E1%BB%83u%20v%E1%BB%81%20kinh%20doanh,%20ch%E1%BB%A9%20kh%C3%B4ng%20ph%E1%BA%A3i%20l%C3%A0%20phi%20l%E1%BB%A3i%20nhu%E1%BA%ADn.%20Ch%C3%ADnh%20th%E1%BB%A9c%20ho%C3%A1%20khi%20l%E1%BA%ADp%20qu%E1%BB%B9%20l%C3%A0%20ch%E1%BA%BFt%20v%E1%BB%9Bi%20lu%E1%BA%ADt%20t%C3%ADn%20d%E1%BB%A5ng.md)
 - [❓Chính phủ không nên làm các chương trình hỗ trợ người lao động](../Ph%C3%A1t%20tri%E1%BB%83n%20b%E1%BB%81n%20v%E1%BB%AFng/H%E1%BB%97%20tr%E1%BB%A3%20ng%C6%B0%E1%BB%9Di%20y%E1%BA%BFu%20th%E1%BA%BF/T%C3%A0i%20ch%C3%ADnh%20vi%20m%C3%B4/%E2%9D%93Ch%C3%ADnh%20ph%E1%BB%A7%20kh%C3%B4ng%20n%C3%AAn%20l%C3%A0m%20c%C3%A1c%20ch%C6%B0%C6%A1ng%20tr%C3%ACnh%20h%E1%BB%97%20tr%E1%BB%A3%20ng%C6%B0%E1%BB%9Di%20lao%20%C4%91%E1%BB%99ng.md)
@@ -92,6 +92,7 @@ SNPO không tổ chức gì nữa, mọi người tự liên kết vosơvoiwhau 
 ## Phân biệt nghèo, cận nghèo, thu nhập trung bình có ý nghĩa gì? Mindset sẽ khác nhau? 
 Có phải tất cả những người nghèo đa chiều đều có tư duy giống như trong sách? 
 Khi hết nghèo rồi thì người ta có thay đổi tư duy hay ko? 
+Những nhà ở khu vực đó anh thấy vẫn nghèo ntn
 ## Vẫn có những tổ chức hoạt động không phụ thuộc vào MTTQ, như Thảo Đàn, IECD, MLUTV hoạt động được vì nhỏ. Ở mức độ nào mới bị để ý?
 - Các nhóm xã hội như bọn anh lấy tiền từ đâu? Bà Tôn Nữ Thị Ninh
 Người nghèo ko tham gia dịch vụ công dù nhu cầu sức khoẻ rất lớn
