@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-09-17T11:13
-updated: 2024-10-27T12:55
+updated: 2024-10-27T22:49
 alias: bán bảo hiểm, thu hút khách hàng
 description: Cam kết không khai thác cảm xúc của họ, mà chỉ muốn nâng đỡ lý tính họ
 title: Kiếm khách
@@ -37,7 +37,7 @@ Nhu cầu thường gặp của các tổ chức như vậy:
 - Chia sẻ các tài nguyên trong C:
 - Đăng bài trên LinkedIn  
 
-Bài chi tiết:: [Những nơi có khách hàng mua bảo hiểm nhân thọ tiềm năng](../../Nh%E1%BB%AFng%20n%C6%A1i%20c%C3%B3%20kh%C3%A1ch%20h%C3%A0ng%20mua%20b%E1%BA%A3o%20hi%E1%BB%83m%20nh%C3%A2n%20th%E1%BB%8D%20ti%E1%BB%81m%20n%C4%83ng.md)
+Bài chi tiết:: [Cách tiếp cận các khách hàng tiềm năng một cách tự nhiên](./C%C3%A1ch%20ti%E1%BA%BFp%20c%E1%BA%ADn%20c%C3%A1c%20kh%C3%A1ch%20h%C3%A0ng%20ti%E1%BB%81m%20n%C4%83ng%20m%E1%BB%99t%20c%C3%A1ch%20t%E1%BB%B1%20nhi%C3%AAn.md)
 [Xây dựng thương hiệu trên MXH](../../X%C3%A2y%20d%E1%BB%B1ng%20th%C6%B0%C6%A1ng%20hi%E1%BB%87u%20tr%C3%AAn%20MXH.md)
 [Giả thiết về tỉ lệ chuyển đổi](../../Gi%E1%BA%A3%20thi%E1%BA%BFt/B%E1%BA%A3o%20hi%E1%BB%83m/Gi%E1%BA%A3%20thi%E1%BA%BFt%20v%E1%BB%81%20t%E1%BB%89%20l%E1%BB%87%20chuy%E1%BB%83n%20%C4%91%E1%BB%95i.md)
 [Kế hoạch](%F0%9F%93%90%20D%E1%BB%B1%20%C3%A1n/Ch%E1%BA%A1y%20ch%E1%BB%89%20ti%C3%AAu/K%E1%BA%BF%20ho%E1%BA%A1ch.md)
