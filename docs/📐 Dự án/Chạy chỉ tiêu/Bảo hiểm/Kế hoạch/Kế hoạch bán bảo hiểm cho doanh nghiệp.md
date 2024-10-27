@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-10-09T20:39
-updated: 2024-10-27T12:55
+updated: 2024-10-27T22:49
 description: Thiết lập mối quan hệ với các CEO, kế toán, HR
 ---
 ## Ý tưởng
@@ -9,7 +9,7 @@ Xây dựng thương hiệu:
  - Mở các buổi workshop cho những người đứng đầu các tổ chức mới thành lập hoặc có quy mô nhỏ, làm các dự án dài hơi và đang có lời hoặc được cấp quỹ
 - Chia sẻ các tài nguyên trong C lên LinkedIn, Facebook, đặc biệt là các bài liên quan đến rủi ro hoặc bảo hiểm
 
-Đến [Những nơi có khách hàng mua bảo hiểm nhân thọ tiềm năng](../Nh%E1%BB%AFng%20n%C6%A1i%20c%C3%B3%20kh%C3%A1ch%20h%C3%A0ng%20mua%20b%E1%BA%A3o%20hi%E1%BB%83m%20nh%C3%A2n%20th%E1%BB%8D%20ti%E1%BB%81m%20n%C4%83ng.md)
+Đến [Cách tiếp cận các khách hàng tiềm năng một cách tự nhiên](../T%C3%A0i%20li%E1%BB%87u/Ki%E1%BA%BFm%20kh%C3%A1ch/C%C3%A1ch%20ti%E1%BA%BFp%20c%E1%BA%ADn%20c%C3%A1c%20kh%C3%A1ch%20h%C3%A0ng%20ti%E1%BB%81m%20n%C4%83ng%20m%E1%BB%99t%20c%C3%A1ch%20t%E1%BB%B1%20nhi%C3%AAn.md)
 
 ## Các hành động
 ### Khi chưa trò chuyện được
