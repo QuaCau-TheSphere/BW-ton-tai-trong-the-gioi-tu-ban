@@ -2,7 +2,7 @@
 share: true
 created: 2024-10-16T20:14
 description: 'Đâu là nơi có nhiều người hay đặt câu hỏi: "Nếu tôi bị tai nạn hoặc chết đột ngột thì con tôi sống sao?"?'
-updated: 2024-10-27T23:10
+updated: 2024-10-29T18:53
 ---
 Bảo hiểm nhân thọ là câu trả lời cho câu hỏi: 
 - Nếu tôi bị ung thư giai đoạn cuối thì ai lo tiền chữa trị cho tôi?
@@ -34,12 +34,14 @@ Lên các công ty này hỏi lịch họp công nhân, nhân viên, công đoà
 - [Danh sách đơn vị kiểm định an toàn](https://ldt.vn/danh-sach-don-vi-kiem-dinh-an-toan/) 
 - [Danh sách công ty bảo vệ](https://www.yellowpages.vn/class/119310/công-ty-bảo-vệ-ở_tp.-hồ-chí-minh-(tphcm).html)
 - Công ty kinh doanh bảo hộ lao động
-- Công an TPHCM
+
+Lên công an phường, xã hỏi về lịch tuyên truyền phòng chống tội phạm, phòng cháy chữa cháy cho người dân rồi tham gia. 
 
 ### Nhân viên y tế
 - Tham gia các lớp học, các câu lạc bộ của sinh viên ngành y
 - Lên các bệnh viện hỏi có chương trình cộng tác viên không
 - Đến tổ dân phố ở các phường, xã có bệnh viện, hỏi lịch sinh hoạt tổ dân phố rồi tham gia
+- Hội chữ thập đỏ
 
 ### Người thân, hàng xóm, bạn bè của người có bị ung thư, tai nạn, chết đột ngột, hoặc người quyên góp từ thiện cho họ
 - Đăng ký tham gia từ thiện. Có thể lên chùa, nhà thờ gần nhà để tìm chương trình 
@@ -47,7 +49,9 @@ Lên các công ty này hỏi lịch họp công nhân, nhân viên, công đoà
 - Đến các đoạn đường có cắm biển "Nơi đây đã xảy ra X vụ tai nạn chết người", rồi trò chuyện với các quán nước gần đó
 - Theo dõi Facebook các tổ chức hỗ trợ bệnh nhân ung thư, người khuyết tật như:
     - [Quỹ Ngày mai tươi sáng](https://www.facebook.com/ngaymaituoisangvietnam)
-    - [DRD Vietnam](https://www.facebook.com/drdvietnam)
+    - [Y Học Cộng Đồng](https://www.facebook.com/yhoccongdong/ "Facebook")
+    - [Salt Cancer Initiative - SCI](https://www.facebook.com/saltcancerinitiative/ "Facebook")
+    - [DRD Vietnam](https://www.facebook.com/drdvietnam): [Fetching Title#jmhu](https://www.facebook.com/groups/kynangvavieclamchonguoikhuyettat/)
 
 ### Người làm trong nhà tang lễ, nghĩa trang, bệnh viện, chùa, nhà thờ hoặc người thân, hàng xóm, bạn bè của họ
 - Tham gia tình nguyện cho các chùa, nhà thờ, bệnh viện gần nhà

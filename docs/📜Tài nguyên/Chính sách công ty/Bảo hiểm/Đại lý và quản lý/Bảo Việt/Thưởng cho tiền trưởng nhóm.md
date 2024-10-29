@@ -1,10 +1,13 @@
 ---
 share: true
 created: 2024-10-12T09:02
-updated: 2024-10-12T09:43
+updated: 2024-10-29T10:35
 ---
 ## Tuyển luyện
+200% của thưởng TVV mới
 ## Quản lý hoạt động
+15% trên tổng hoa hồng của TVV
+3 tháng đầu
 ## Quản lý khởi nghiệp
 | Tháng                   | 1     | 2   | 3   | 4   | 5   | 6   |
 | ----------------------- | ----- | --- | --- | --- | --- | --- |
@@ -16,13 +19,12 @@ updated: 2024-10-12T09:43
 ## Quà mừng thăng tiến
 
 
-## điều kiện lên trưởng nhóm
+## Điều kiện lên trưởng nhóm
 Tuyển dụng thì không giới hạn thời gian, 
+## Thi đua
+Bắt cặp
+Đà Nẵng
 
-
-| Tên gọi           | Tiền | Điều  kiện  |
-| ----------------- | ---- | ----------- |
-| Tuyển luyện       |      |             |
-| Quản lý hoạt động |      | 3 tháng đầu |
-| Năng suất quý     |      |             |
-| TVV mới           |      |             |
+??
+Năng suất quý
+TVV mới

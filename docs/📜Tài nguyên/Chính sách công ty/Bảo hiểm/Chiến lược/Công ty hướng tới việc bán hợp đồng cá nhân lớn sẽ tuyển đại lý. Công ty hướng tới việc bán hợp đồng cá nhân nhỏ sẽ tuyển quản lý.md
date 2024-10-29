@@ -1,19 +1,19 @@
 ---
 share: true
 created: 2024-09-13T13:49
-updated: 2024-10-18T22:20
+updated: 2024-10-29T10:17
 ---
 | Công ty  |                                 |                              |
 | -------- | ------------------------------- | ---------------------------- |
-| Bảo Việt | Hướng tới việc bán hợp đồng lớn | Hướng tới tuyển đại lý       |
-| Cathay   | Hướng tới việc bán hợp đồng nhỏ | Hướng tới việc tuyển quản lý |
+| Bảo Việt | Hướng tới việc bán hợp đồng cá nhân lớn | Hướng tới tuyển đại lý       |
+| Cathay   | Hướng tới việc bán hợp đồng cá nhân nhỏ | Hướng tới việc tuyển quản lý |
 
-| Dấu hiệu                      | Hướng tới việc bán hợp đồng lớn                            | Hướng tới việc bán hợp đồng nhỏ                                                         |
-| ----------------------------- | ---------------------------------------------------------- | --------------------------------------------------------------------------------------- |
-| Chăm sóc khách hàng tiềm năng | Mời đi ăn trưa ở nhà hàng, khách sạn lớn                   | Mời đi xem phim                                                                         |
-| Cách giới thiệu sản phẩm      | Nhấn mạnh tới việc mua hợp đồng được đi khám bệnh miễn phí | Nhấn mạnh tới việc nếu mua hợp đồng lớn thì bắt buộc phải đi khám và có thể lòi ra bệnh |
-| Phương thức thu phí           | Đóng phí theo tháng bị thu thêm phí                        | Đóng phí theo tháng không mất tiền                                                      |
-| Thưởng                        | Các hợp đồng đóng theo năm sẽ được thưởng                  |                                                                                         |
+| Dấu hiệu                      | Hướng tới việc bán hợp đồng cá nhân lớn                                                               | Hướng tới việc bán hợp đồng cá nhân nhỏ                                                 |
+| ----------------------------- | ----------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
+| Chăm sóc khách hàng tiềm năng | <li>Mời đi ăn trưa ở nhà hàng, khách sạn lớn</li><li>Tổ chức các buổi tầm soát sức khoẻ miễn phí</li> | Mời đi xem phim                                                                         |
+| Cách giới thiệu sản phẩm      | Nhấn mạnh tới việc mua hợp đồng được đi khám bệnh miễn phí                                            | Nhấn mạnh tới việc nếu mua hợp đồng lớn thì bắt buộc phải đi khám và có thể lòi ra bệnh |
+| Phương thức thu phí           | Đóng phí theo tháng bị thu thêm phí                                                                   | Đóng phí theo tháng không mất tiền                                                      |
+| Thưởng                        | Các hợp đồng đóng theo năm sẽ được thưởng                                                             |                                                                                         |
 
 | Dấu hiệu                  | Hướng tới tuyển đại lý | Hướng tới việc tuyển quản lý  |
 | ------------------------- | ---------------------- | ----------------------------- |
@@ -21,6 +21,12 @@ updated: 2024-10-18T22:20
 | Tuyển ảo                  | Thả lỏng               | Siết chặt                     |
 | Tần số bị bắt lên công ty | Hàng tuần              | Mỗi ngày                      |
 
+
+Hợp đồng lớn là hợp đồng doanh nghiệp, được đính kèm nhiều người phụ thuộc. Ex 1 chủ doanh nghiệp là bên mua bảo hiểm, và 20 người phụ thuộc trong 1 hợp đồng → hạn mức cho 1 hợp đồng thế này thường từ 30tr trở lê, nên mới gọi là hđ lớn
+
+Tất cả người bán hàng đều muốn có hợp đồng lớn là hợp đồng doanh nghiệp, vì chỉ cần 1 cái gật đầu của doanh nghiệp là có thể là top sales của cả năm đó và ko phải bận tâm quá nhiều về việc doanh số nữa.
+
+Còn ở quy mô cá nhân, việc bắt cá lớn khó, nên đa phần người ta chuyển dịch sang bắt cá nhỏ với sản lượng nhỏ, chỉ đi câu chứ ko thể chài lưới, nên việc chấp nhận có hợp đồng cũng ko phải là tệ dù hợp đồng mệnh giá thấp.
 
 
 
