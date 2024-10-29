@@ -7,7 +7,7 @@ description: "0783865410"
 ---
 SĐT:: 0783865410
 
-- [Tặng bảo hiểm nhân thọ](../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Qu%C3%A0%20t%E1%BA%B7ng/B%E1%BA%A3o%20hi%E1%BB%83m%20nh%C3%A2n%20th%E1%BB%8D.md)
+- [Tặng bảo hiểm nhân thọ](B%E1%BA%A3o%20hi%E1%BB%83m%20nh%C3%A2n%20th%E1%BB%8D.md)
 
 ## Dịch vụ
 | Dịch vụ                                                                                    | Phí                                                       | Ghi chú                                                                                                                |
