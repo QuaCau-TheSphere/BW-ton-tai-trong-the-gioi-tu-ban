@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2024-09-30T12:39
+updated: 2024-10-29T21:26
 ---
 au 4 tháng tiến độ làm việc quá chậm
 mục tiêu q2 là 5000 active
@@ -23,7 +23,7 @@ t-2 dưới 50% sẽ được review
 [ASM bị áp lực phải tuyển mới](ASM%20b%E1%BB%8B%20%C3%A1p%20l%E1%BB%B1c%20ph%E1%BA%A3i%20tuy%E1%BB%83n%20m%E1%BB%9Bi.md)
 
 
-[Thấy việc trả lương là đã đủ để NV phải cống hiến cho mình](../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%C4%90%E1%BA%A1o%20%C4%91%E1%BB%A9c,%20ph%C3%A1p%20lu%E1%BA%ADt.%20Ch%E1%BB%A7%20ngh%C4%A9a%20t%C3%A2n%20t%E1%BB%B1%20do/Th%E1%BA%A5y%20vi%E1%BB%87c%20tr%E1%BA%A3%20l%C6%B0%C6%A1ng%20l%C3%A0%20%C4%91%C3%A3%20%C4%91%E1%BB%A7%20%C4%91%E1%BB%83%20NV%20ph%E1%BA%A3i%20c%E1%BB%91ng%20hi%E1%BA%BFn%20cho%20m%C3%ACnh.md)
+[Công ty thấy việc trả lương là đã đủ để nhân viên phải cống hiến cho mình](../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%C4%90%E1%BA%A1o%20%C4%91%E1%BB%A9c,%20ph%C3%A1p%20lu%E1%BA%ADt.%20Ch%E1%BB%A7%20ngh%C4%A9a%20t%C3%A2n%20t%E1%BB%B1%20do/C%C3%B4ng%20ty%20th%E1%BA%A5y%20vi%E1%BB%87c%20tr%E1%BA%A3%20l%C6%B0%C6%A1ng%20l%C3%A0%20%C4%91%C3%A3%20%C4%91%E1%BB%A7%20%C4%91%E1%BB%83%20nh%C3%A2n%20vi%C3%AAn%20ph%E1%BA%A3i%20c%E1%BB%91ng%20hi%E1%BA%BFn%20cho%20m%C3%ACnh.md)
 
 
 [Một nhân viên mở sai thanh tra toàn bộ nhóm](./M%E1%BB%99t%20nh%C3%A2n%20vi%C3%AAn%20m%E1%BB%9F%20sai%20thanh%20tra%20to%C3%A0n%20b%E1%BB%99%20nh%C3%B3m.md)
