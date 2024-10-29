@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2024-10-05T16:10
+updated: 2024-10-29T19:31
 alias: Bản câu hỏi cho người cần được hỗ trợ thoát nợ
 description: Bản câu hỏi cho người cần được hỗ trợ thoát nợ
 title: Giúp nhau thoát nợ
@@ -20,3 +20,5 @@ title: Giúp nhau thoát nợ
 ## Rủi ro
 Bị nói là thân lo chưa xong
 Bị tị nạnh
+
+[Lời mời xây dựng một startup](../Tr%E1%BA%A5n%20K%E1%BB%B3/C%C5%A9/4%20Th%C3%A0nh%20ph%E1%BA%A9m/Truy%E1%BB%81n%20th%C3%B4ng/L%E1%BB%9Di%20m%E1%BB%9Di%20x%C3%A2y%20d%E1%BB%B1ng%20m%E1%BB%99t%20startup.md)
