@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-10-09T21:14
-updated: 2024-10-29T21:55
+updated: 2024-10-30T15:08
 alias: Tại sao nên mua bảo hiểm từ Quả Cầu?
 description: (1) Bọn mình chỉ muốn nâng đỡ lý tính bạn, (2) Bạn không phải trả tiền hoa hồng cho bọn mình, (3) Bạn sẽ được hướng dẫn những cách để xử lý hồ sơ có lợi nhất
 title: Bảo hiểm
@@ -15,7 +15,10 @@ title: Bảo hiểm
 ## Bọn mình chỉ muốn nâng đỡ lý tính bạn
 Bọn mình cam kết không khai thác cảm xúc của bạn, tạo gánh nặng trong suy nghĩ hoặc lợi dụng sự ngại mất lòng của bạn, mà chỉ muốn nâng đỡ lý tính bạn. Vì Quả Cầu chạy theo sự bền vững chứ không chạy theo lợi nhuận nên bọn mình không sợ bị bạn từ chối. Bạn có không mua thì bọn mình vẫn luôn sẵn sàng lắng nghe và đáp ứng các nhu cầu khác của bạn.
 
-Bọn mình sẽ minh bạch hết mức có thể, và rất thoải mái cho bạn xem hệ thống thông tin của bọn mình (với điều kiện bạn được một người đáng tin giới thiệu).
+Bọn mình sẽ minh bạch hết mức có thể, và rất thoải mái cho bạn xem hệ thống thông tin của bọn mình (với điều kiện bạn được một người đáng tin giới thiệu). Tại website kiếmtiền.quảcầu.cc, bạn sẽ biết được:
+- [Kiến thức bảo hiểm](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/T%E1%BB%95%20ch%E1%BB%A9c%20t%C3%A0i%20ch%C3%ADnh/B%E1%BA%A3o%20hi%E1%BB%83m/index.md)
+- [Kế hoạch bán hàng của bọn mình](../../../%F0%9F%93%90%20D%E1%BB%B1%20%C3%A1n/Ch%E1%BA%A1y%20ch%E1%BB%89%20ti%C3%AAu/B%E1%BA%A3o%20hi%E1%BB%83m/index.md)
+- [Các chính sách của các công ty mà bọn mình phân tích được](../../Ch%C3%ADnh%20s%C3%A1ch%20c%C3%B4ng%20ty/B%E1%BA%A3o%20hi%E1%BB%83m/index.md)
 
 ## Bạn không phải trả tiền hoa hồng cho bọn mình
 Hoa hồng của đại lý chiếm tới 30% giá sản phẩm. Nghe thì có vẻ đại lý được hưởng nhiều, nhưng thực ra đại lý cũng phải tự trả bớt để chi trả cho hoạt động chăm sóc khách hàng. Thực chất tiền đó là tiền để đại lý chèo kéo bạn mua. Cái đồng tiền đó là cái đồng tiền khách hàng phải trả để bị đối xử như một món hàng. Việc bạn không phải trả tiền hoa hồng không chỉ để bạn tiết kiệm tiền, mà còn để bọn mình chăm sóc bạn vì chính bạn.
