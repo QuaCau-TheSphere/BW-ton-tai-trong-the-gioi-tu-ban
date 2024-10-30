@@ -1,50 +1,24 @@
 ---
 share: true
 created: 2024-09-17T11:13
-updated: 2024-10-29T19:33
+updated: 2024-10-30T14:05
 alias: bán bảo hiểm, thu hút khách hàng
 description: Cam kết không khai thác cảm xúc của họ, mà chỉ muốn nâng đỡ lý tính họ
 title: Kiếm khách
 ---
 # Thu hút khách hàng mua bảo hiểm
-Khái niệm:: [Bảo hiểm](../../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/B%E1%BA%A3o%20hi%E1%BB%83m.md)
 ## Khách hàng tiềm năng
-Trong [các đối tượng mua được bảo hiểm](../../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/T%E1%BB%95%20ch%E1%BB%A9c%20t%C3%A0i%20ch%C3%ADnh/B%E1%BA%A3o%20hi%E1%BB%83m/Nhu%20c%E1%BA%A7u%20kh%C3%A1ch%20h%C3%A0ng%20v%C3%A0%20%C4%91%E1%BA%A1i%20l%C3%BD/Ng%C6%B0%E1%BB%9Di%20mu%E1%BB%91n%20ph%C3%B2ng%20h%E1%BB%9D%20r%E1%BB%A7i%20ro%20s%E1%BA%BD%20c%E1%BA%A7n%20mua%20b%E1%BA%A3o%20hi%E1%BB%83m,%20nh%C6%B0ng%20ch%E1%BB%89%20ng%C6%B0%E1%BB%9Di%20c%C3%B3%20ti%E1%BB%81n%20v%C3%A0%20c%C3%B3%20s%E1%BB%A9c%20kho%E1%BA%BB%20m%E1%BB%9Bi%20%C4%91%C6%B0%E1%BB%A3c%20mua.md), có vẻ như **các tổ chức** là các đối tượng đem lại nhiều doanh số nhất. 
+- [Những nơi giúp mở rộng mối quan hệ với doanh nghiệp](../../Nh%E1%BB%AFng%20n%C6%A1i%20gi%C3%BAp%20m%E1%BB%9F%20r%E1%BB%99ng%20m%E1%BB%91i%20quan%20h%E1%BB%87%20v%E1%BB%9Bi%20doanh%20nghi%E1%BB%87p.md)
+- [Nơi hay gặp những người hay suy nghĩ đến cảnh tai nạn, ung thư, chết chóc](./N%C6%A1i%20hay%20g%E1%BA%B7p%20nh%E1%BB%AFng%20ng%C6%B0%E1%BB%9Di%20hay%20suy%20ngh%C4%A9%20%C4%91%E1%BA%BFn%20c%E1%BA%A3nh%20tai%20n%E1%BA%A1n,%20ung%20th%C6%B0,%20ch%E1%BA%BFt%20ch%C3%B3c.md)
 
-Đâu là lý do khiến một người đứng đầu tổ chức muốn mua bảo hiểm cho nhân viên của mình? Có thể nằm ở việc nó giúp làm tăng lòng trung thành của nhân viên. Có thể đối với chủ doanh nghiệp, cái chết vẫn là chuyện xa vời, nhưng lòng trung thành của nhân viên thì thiết thực hơn. Ngoài ra họ cũng cần chưa mua bảo hiểm nào, và cần có tiền để mua nữa.
-
-Những đặc điểm đó nói lên được điều gì về tổ chức của họ?
-- Chưa mua bảo hiểm cho nhân viên → Tổ chức mới thành lập hoặc có quy mô nhỏ 
-- Cần lòng trung thành của nhân viên → Tổ chức làm các dự án dài hơi, cần nhân sự hiểu nhau và không xáo trộn thường xuyên hoặc có chi phí đào tạo lớn
-- Có tiền mua bảo hiểm → Đang có lời hoặc được cấp quỹ
-
-Các loại tổ chức thường có những đặc điểm này:
-- Tổ chức phi lợi nhuận được tài trợ từ nước ngoài
-- Phòng R&D
-- Bộ phận IT
-- Cơ quan nghiên cứu
-- Trường học
-- ...
-
-Nhu cầu thường gặp của các tổ chức như vậy:
-- Hệ thống quản lý kiến thức, các bên liên quan
-- Website
-- Tri thức liên ngành
-- ...
-
-## Tiếp cận khách hàng tiềm năng
-
-- Chia sẻ các tài nguyên trong C:
-- Đăng bài trên LinkedIn  
-
-Bài chi tiết:: [Cách làm quen với các khách hàng tiềm năng mua bảo hiểm nhân thọ một cách tự nhiên](./C%C3%A1ch%20l%C3%A0m%20quen%20v%E1%BB%9Bi%20c%C3%A1c%20kh%C3%A1ch%20h%C3%A0ng%20ti%E1%BB%81m%20n%C4%83ng%20mua%20b%E1%BA%A3o%20hi%E1%BB%83m%20nh%C3%A2n%20th%E1%BB%8D%20m%E1%BB%99t%20c%C3%A1ch%20t%E1%BB%B1%20nhi%C3%AAn.md)
+## Công việc 
+Kiểm tra [Giả thiết về tỉ lệ chuyển đổi](../../Gi%E1%BA%A3%20thi%E1%BA%BFt/Gi%E1%BA%A3%20thi%E1%BA%BFt%20v%E1%BB%81%20t%E1%BB%89%20l%E1%BB%87%20chuy%E1%BB%83n%20%C4%91%E1%BB%95i.md)
 [Xây dựng thương hiệu trên MXH](../../X%C3%A2y%20d%E1%BB%B1ng%20th%C6%B0%C6%A1ng%20hi%E1%BB%87u%20tr%C3%AAn%20MXH.md)
-[Giả thiết về tỉ lệ chuyển đổi](../../Gi%E1%BA%A3%20thi%E1%BA%BFt/B%E1%BA%A3o%20hi%E1%BB%83m/Gi%E1%BA%A3%20thi%E1%BA%BFt%20v%E1%BB%81%20t%E1%BB%89%20l%E1%BB%87%20chuy%E1%BB%83n%20%C4%91%E1%BB%95i.md)
-[Chạy chỉ tiêu](../../../index.md)
+Đến [Những nơi giúp mở rộng mối quan hệ với doanh nghiệp](../../Nh%E1%BB%AFng%20n%C6%A1i%20gi%C3%BAp%20m%E1%BB%9F%20r%E1%BB%99ng%20m%E1%BB%91i%20quan%20h%E1%BB%87%20v%E1%BB%9Bi%20doanh%20nghi%E1%BB%87p.md), 
+
 ### Làm cho khách hàng tin mình
 Cam kết không khai thác cảm xúc của họ và tạo gánh nặng trong suy nghĩ, mà chỉ muốn nâng đỡ lý tính họ. Làm cho họ thấy mình không sợ họ từ chối, và kể cả từ chối thì mình vẫn sẵn sàng lắng nghe và đáp ứng các nhu cầu khác của họ.
 
-[Làm khách hàng hiểu tầm quan trọng của bảo hiểm](../../Nghi%C3%AAn%20c%E1%BB%A9u%20ng%C6%B0%E1%BB%9Di%20d%C3%B9ng/C%C3%A1c%20c%C3%A2u%20h%E1%BB%8Fi%20%C4%91%E1%BB%83%20x%C3%A1c%20%C4%91%E1%BB%8Bnh%20nhu%20c%E1%BA%A7u%20b%E1%BA%A3o%20hi%E1%BB%83m%20c%E1%BB%A7a%20m%E1%BB%99t%20ng%C6%B0%E1%BB%9Di.md)
 
 ### Quà tặng khi mua
 - Mạng lưới kết nối nhu cầu

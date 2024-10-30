@@ -1,8 +1,8 @@
 ---
 share: true
 created: 2024-10-16T20:14
-description: 'Đâu là nơi có nhiều người hay đặt câu hỏi: "Nếu tôi bị tai nạn hoặc chết đột ngột thì con tôi sống sao?"?'
-updated: 2024-10-29T18:53
+description: Đâu là những môi trường hay làm ta suy nghĩ đến cảnh tai nạn, ung thư, chết chóc?
+updated: 2024-10-30T14:08
 ---
 Bảo hiểm nhân thọ là câu trả lời cho câu hỏi: 
 - Nếu tôi bị ung thư giai đoạn cuối thì ai lo tiền chữa trị cho tôi?
@@ -16,6 +16,8 @@ Bởi vì [Bộ não được thiết kế để loại bỏ mối nguy hiểm n
 - Nhân viên y tế
 - Người thân, hàng xóm, bạn bè của người có bị ung thư, tai nạn, chết đột ngột, hoặc người quyên góp từ thiện cho họ
 - Người thân, hàng xóm, bạn bè của người làm trong nhà tang lễ, nghĩa trang, chùa, nhà thờ
+
+[Người muốn phòng hờ rủi ro sẽ cần mua bảo hiểm, nhưng chỉ người có tiền và có sức khoẻ mới được mua](../../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/T%E1%BB%95%20ch%E1%BB%A9c%20t%C3%A0i%20ch%C3%ADnh/B%E1%BA%A3o%20hi%E1%BB%83m/Nhu%20c%E1%BA%A7u%20kh%C3%A1ch%20h%C3%A0ng%20v%C3%A0%20%C4%91%E1%BA%A1i%20l%C3%BD/Ng%C6%B0%E1%BB%9Di%20mu%E1%BB%91n%20ph%C3%B2ng%20h%E1%BB%9D%20r%E1%BB%A7i%20ro%20s%E1%BA%BD%20c%E1%BA%A7n%20mua%20b%E1%BA%A3o%20hi%E1%BB%83m,%20nh%C6%B0ng%20ch%E1%BB%89%20ng%C6%B0%E1%BB%9Di%20c%C3%B3%20ti%E1%BB%81n%20v%C3%A0%20c%C3%B3%20s%E1%BB%A9c%20kho%E1%BA%BB%20m%E1%BB%9Bi%20%C4%91%C6%B0%E1%BB%A3c%20mua.md). Trong các đối tượng mua được bảo hiểm, có vẻ như **các tổ chức** là các đối tượng đem lại nhiều doanh số nhất. 
 
 Ngoài ra, bảo hiểm còn có thể trở thành một nguồn để các chủ doanh nghiệp tăng phúc lợi cho nhân viên.
 
@@ -62,4 +64,4 @@ Lên công an phường, xã hỏi về lịch tuyên truyền phòng chống t�
 - Tham gia các hội thảo về nhân sự
 
 ## Làm sao để thảo luận sâu về vấn đề bảo hiểm với họ?
-Để tăng độ tin cậy trong việc tìm hiểu nhu cầu và giới thiệu sản phẩm, bạn có thể trả tiền cho một người làm trong các nơi này để họ giúp mình thiết lập các cuộc hẹn và cùng bạn thảo luận về các nhu cầu của đối tượng. Trong buổi gặp mặt đó, bạn có thể dùng [các câu hỏi để xác định nhu cầu bảo hiểm của một người](../../Nghi%C3%AAn%20c%E1%BB%A9u%20ng%C6%B0%E1%BB%9Di%20d%C3%B9ng/C%C3%A1c%20c%C3%A2u%20h%E1%BB%8Fi%20%C4%91%E1%BB%83%20x%C3%A1c%20%C4%91%E1%BB%8Bnh%20nhu%20c%E1%BA%A7u%20b%E1%BA%A3o%20hi%E1%BB%83m%20c%E1%BB%A7a%20m%E1%BB%99t%20ng%C6%B0%E1%BB%9Di.md).
+Để tăng độ tin cậy trong việc tìm hiểu nhu cầu và giới thiệu sản phẩm, bạn có thể trả tiền cho một người làm trong các nơi này để họ giúp mình thiết lập các cuộc hẹn và cùng bạn thảo luận về các nhu cầu của đối tượng. Trong buổi gặp mặt đó, bạn có thể dùng [Xác định nhu cầu bảo hiểm của một người](../../Nghi%C3%AAn%20c%E1%BB%A9u%20ng%C6%B0%E1%BB%9Di%20d%C3%B9ng/X%C3%A1c%20%C4%91%E1%BB%8Bnh%20nhu%20c%E1%BA%A7u%20b%E1%BA%A3o%20hi%E1%BB%83m%20c%E1%BB%A7a%20m%E1%BB%99t%20ng%C6%B0%E1%BB%9Di.md).

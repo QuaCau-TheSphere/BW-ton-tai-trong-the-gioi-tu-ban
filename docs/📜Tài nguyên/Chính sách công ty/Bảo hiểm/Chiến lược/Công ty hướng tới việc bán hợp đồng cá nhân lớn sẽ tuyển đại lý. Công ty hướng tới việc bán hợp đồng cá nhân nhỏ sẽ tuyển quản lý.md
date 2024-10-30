@@ -1,10 +1,10 @@
 ---
 share: true
 created: 2024-09-13T13:49
-updated: 2024-10-29T10:17
+updated: 2024-10-30T14:58
 ---
-| Công ty  |                                 |                              |
-| -------- | ------------------------------- | ---------------------------- |
+| Công ty  |                                         |                              |
+| -------- | --------------------------------------- | ---------------------------- |
 | Bảo Việt | Hướng tới việc bán hợp đồng cá nhân lớn | Hướng tới tuyển đại lý       |
 | Cathay   | Hướng tới việc bán hợp đồng cá nhân nhỏ | Hướng tới việc tuyển quản lý |
 

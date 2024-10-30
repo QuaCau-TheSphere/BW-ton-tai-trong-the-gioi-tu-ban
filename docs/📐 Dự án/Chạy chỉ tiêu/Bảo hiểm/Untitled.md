@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-10-10T13:03
-updated: 2024-10-29T19:27
+updated: 2024-10-30T14:22
 ---
 # Tại sao nên mua bảo hiểm từ Quả Cầu?
 - Bọn mình chỉ muốn nâng đỡ lý tính bạn
@@ -21,7 +21,7 @@ Trước mắt thì bọn mình sẽ bán như sau:
  - Với sản phẩm phi nhân thọ, bạn chỉ cần trả giá gốc của sản phẩm. Bọn mình sẽ không ăn một đồng hoa hồng nào
  - Với sản phẩm nhân thọ, 5 người đầu tiên được miễn phí 1 năm, 20 người tiếp theo được miễn phí 6 tháng đầu, những người tiếp theo được miễn phí 3 tháng đầu. Bạn sẽ được chọn sản phẩm theo đúng nhu cầu của mình, chứ bọn mình không mặc định sản phẩm rẻ nhất chỉ để chạy doanh số.
 
-Vì số tiền hoa hồng từ phí bạn đóng cả năm chỉ đủ để trả tiền cho 3 tháng đầu, nên việc sẵn sàng trả tiền cả năm cho bạn là từ tiền túi của bọn mình. Bọn mình làm vậy vì bọn mình thực sự muốn bạn được trải nghiệm hợp đồng, để bạn thấy được [Các câu hỏi để xác định nhu cầu bảo hiểm của một người](./Nghi%C3%AAn%20c%E1%BB%A9u%20ng%C6%B0%E1%BB%9Di%20d%C3%B9ng/C%C3%A1c%20c%C3%A2u%20h%E1%BB%8Fi%20%C4%91%E1%BB%83%20x%C3%A1c%20%C4%91%E1%BB%8Bnh%20nhu%20c%E1%BA%A7u%20b%E1%BA%A3o%20hi%E1%BB%83m%20c%E1%BB%A7a%20m%E1%BB%99t%20ng%C6%B0%E1%BB%9Di.md). Khi có thưởng hay ưu đãi gì của công ty bọn mình cũng sẽ tự động thêm vào để bạn có phí tốt nhất có thể.
+Vì số tiền hoa hồng từ phí bạn đóng cả năm chỉ đủ để trả tiền cho 3 tháng đầu, nên việc sẵn sàng trả tiền cả năm cho bạn là từ tiền túi của bọn mình. Bọn mình làm vậy vì bọn mình thực sự muốn bạn được trải nghiệm hợp đồng, để bạn thấy được [Xác định nhu cầu bảo hiểm của một người](./Nghi%C3%AAn%20c%E1%BB%A9u%20ng%C6%B0%E1%BB%9Di%20d%C3%B9ng/X%C3%A1c%20%C4%91%E1%BB%8Bnh%20nhu%20c%E1%BA%A7u%20b%E1%BA%A3o%20hi%E1%BB%83m%20c%E1%BB%A7a%20m%E1%BB%99t%20ng%C6%B0%E1%BB%9Di.md). Khi có thưởng hay ưu đãi gì của công ty bọn mình cũng sẽ tự động thêm vào để bạn có phí tốt nhất có thể.
 
 Lưu ý rằng, luật quy định đại lý không được cắt hoa hồng để giảm giá cho khách. Mục tiêu có lẽ là để không bị phá giá. Nhưng đó là vì lợi ích của các công ty, không phải vì lợi ích của bạn. Nên điều này sẽ cần sự hợp tác của bạn trong việc không tiết lộ với công ty.
 
@@ -35,6 +35,5 @@ Có những trường hợp nếu bạn biết cách khai báo rủi ro bạn s�
 Các buổi này sẽ nói đến khi bạn muốn ngừng thì thôi. Nếu bạn không cần có thể chuyển quyền lợi này cho người khác.
 
 
-[29-10](29-10.md) 17:19 54 impression, 47 reach, 1 engagement
 
-[Cách làm quen với các khách hàng tiềm năng mua bảo hiểm nhân thọ một cách tự nhiên](./T%C3%A0i%20li%E1%BB%87u/Ki%E1%BA%BFm%20kh%C3%A1ch/C%C3%A1ch%20l%C3%A0m%20quen%20v%E1%BB%9Bi%20c%C3%A1c%20kh%C3%A1ch%20h%C3%A0ng%20ti%E1%BB%81m%20n%C4%83ng%20mua%20b%E1%BA%A3o%20hi%E1%BB%83m%20nh%C3%A2n%20th%E1%BB%8D%20m%E1%BB%99t%20c%C3%A1ch%20t%E1%BB%B1%20nhi%C3%AAn.md)
+[Nơi hay gặp những người hay suy nghĩ đến cảnh tai nạn, ung thư, chết chóc](./T%C3%A0i%20li%E1%BB%87u/Ki%E1%BA%BFm%20kh%C3%A1ch/N%C6%A1i%20hay%20g%E1%BA%B7p%20nh%E1%BB%AFng%20ng%C6%B0%E1%BB%9Di%20hay%20suy%20ngh%C4%A9%20%C4%91%E1%BA%BFn%20c%E1%BA%A3nh%20tai%20n%E1%BA%A1n,%20ung%20th%C6%B0,%20ch%E1%BA%BFt%20ch%C3%B3c.md)

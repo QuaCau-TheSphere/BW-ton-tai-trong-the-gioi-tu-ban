@@ -1,9 +1,9 @@
 ---
 share: true
 created: 2024-09-30T14:49
-updated: 2024-10-17T00:12
+updated: 2024-10-30T14:13
 ---
-[Tuyển dụng](../../T%C3%A0i%20li%E1%BB%87u/Tuy%E1%BB%83n%20d%E1%BB%A5ng/index.md)
+[Tuyển dụng](../T%C3%A0i%20li%E1%BB%87u/Tuy%E1%BB%83n%20d%E1%BB%A5ng/index.md)
 - Người nghèo có thời gian và mong muốn để làm ảo
 - Người nghèo có khả năng vượt qua bài kiểm tra
 - Luôn dễ tìm những người như vậy
