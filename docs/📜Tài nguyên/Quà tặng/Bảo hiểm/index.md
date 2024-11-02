@@ -3,7 +3,7 @@ share: true
 created: 2024-10-09T21:14
 alias: Tại sao nên mua bảo hiểm từ Quả Cầu?
 description: (1) Bọn mình chỉ muốn nâng đỡ lý tính bạn, (2) Bạn không phải trả tiền hoa hồng cho bọn mình, (3) Bạn sẽ được hướng dẫn những cách để xử lý hồ sơ có lợi nhất
-updated: 2024-11-02T13:02
+updated: 2024-11-02T13:25
 title: Bảo hiểm
 ---
 # Tại sao nên mua bảo hiểm từ Quả Cầu?
@@ -23,17 +23,20 @@ Kiếm tiền bằng tuyển dụng
 
 Bọn mình cần bạn mua bảo hiểm giúp bọn mình, vì đây là một phần của dự án [hỗ trợ chạy chỉ tiêu cho nhân viên](../../../%F0%9F%93%90%20D%E1%BB%B1%20%C3%A1n/Ch%E1%BA%A1y%20ch%E1%BB%89%20ti%C3%AAu/L%E1%BB%9Di%20m%E1%BB%9Di%20tham%20gia%20nh%C3%B3m%20ch%E1%BA%A1y%20ch%E1%BB%89%20ti%C3%AAu%20cho%20nh%C3%A2n%20vi%C3%AAn.md).
 [Việt Nam không ai chết đói, chỉ có nghèo đa chiều](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Ph%C3%A1t%20tri%E1%BB%83n%20b%E1%BB%81n%20v%E1%BB%AFng/H%E1%BB%97%20tr%E1%BB%A3%20ng%C6%B0%E1%BB%9Di%20y%E1%BA%BFu%20th%E1%BA%BF/Vi%E1%BB%87t%20Nam%20kh%C3%B4ng%20ai%20ch%E1%BA%BFt%20%C4%91%C3%B3i,%20ch%E1%BB%89%20c%C3%B3%20ngh%C3%A8o%20%C4%91a%20chi%E1%BB%81u.md)
+
 ## Bọn mình chỉ muốn nâng đỡ lý tính bạn
 Bọn mình cam kết không khai thác cảm xúc của bạn, tạo gánh nặng trong suy nghĩ hoặc lợi dụng sự ngại mất lòng của bạn, mà chỉ muốn nâng đỡ lý tính bạn. Vì Quả Cầu chạy theo sự bền vững chứ không chạy theo lợi nhuận nên bọn mình không sợ bị bạn từ chối. Bạn có không mua thì bọn mình vẫn luôn sẵn sàng lắng nghe và đáp ứng các nhu cầu khác của bạn.
+
+thực chất là đang là dự án nâng cao nhận thức [Xác định nhu cầu bảo hiểm của một người](../../../%F0%9F%93%90%20D%E1%BB%B1%20%C3%A1n/Ch%E1%BA%A1y%20ch%E1%BB%89%20ti%C3%AAu/B%E1%BA%A3o%20hi%E1%BB%83m/Nghi%C3%AAn%20c%E1%BB%A9u%20ng%C6%B0%E1%BB%9Di%20d%C3%B9ng/X%C3%A1c%20%C4%91%E1%BB%8Bnh%20nhu%20c%E1%BA%A7u%20b%E1%BA%A3o%20hi%E1%BB%83m%20c%E1%BB%A7a%20m%E1%BB%99t%20ng%C6%B0%E1%BB%9Di.md)
 
 Bọn mình sẽ minh bạch hết mức có thể. Tại website kiếmtiền.quảcầu.cc, bạn sẽ biết được:
 - [Các kiến thức và hiểu biết sâu](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/T%E1%BB%95%20ch%E1%BB%A9c%20t%C3%A0i%20ch%C3%ADnh/B%E1%BA%A3o%20hi%E1%BB%83m/index.md) về bảo hiểm. Không chỉ là kiến thức cơ bản mà còn là từ các chia sẻ của những người đã lăn lộn cá nhân chứ không được dạy lý thuyết, hoặc từ các nghiên cứu, kể cả khi việc biết đến chúng làm giảm nhu cầu mua bảo hiểm của bạn.
 - [Các chính sách của các công ty mà bọn mình thu thập và phân tích được](../../Ch%C3%ADnh%20s%C3%A1ch%20c%C3%B4ng%20ty/B%E1%BA%A3o%20hi%E1%BB%83m/index.md)
 - [Kế hoạch bán hàng của bọn mình](../../../%F0%9F%93%90%20D%E1%BB%B1%20%C3%A1n/Ch%E1%BA%A1y%20ch%E1%BB%89%20ti%C3%AAu/B%E1%BA%A3o%20hi%E1%BB%83m/index.md)
 
-Với những thông tin sâu hơn bọn mình cũng sẽ thoải mái cho xem nếu bạn thể hiện được sự đáng tin tưởng của mình. 
+Với những thông tin sâu hơn bọn mình cũng sẽ thoải mái cho xem nếu bạn cũng thể hiện được rằng bạn cũng [đứng về người yếu thế](index.md#Bọn%20mình%20đứng%20về%20người%20yếu%20thế).
 
-Bọn mình có thể mạnh dạn nói rằng bọn mình sẽ không khai thác điểm yếu của bạn, vì lý do duy nhất để làm điều đó là kiếm tiền đã không còn nữa. Phần tiếp theo sẽ làm rõ vấn đề này.
+Bọn mình có thể mạnh dạn nói rằng bọn mình sẽ không khai thác điểm yếu của bạn, vì [Bạn không phải trả tiền hoa hồng cho bọn mình](index.md#Bạn%20không%20phải%20trả%20tiền%20hoa%20hồng%20cho%20bọn%20mình).
 
 ## Bạn không phải trả tiền hoa hồng cho bọn mình
 Hoa hồng của đại lý chiếm tới 30% giá sản phẩm. Nghe thì có vẻ đại lý được hưởng nhiều, nhưng thực ra đại lý cũng phải tự trả bớt để chi trả cho hoạt động chăm sóc khách hàng. Thực chất tiền đó là tiền để đại lý chèo kéo bạn mua. Cái đồng tiền đó là cái đồng tiền khách hàng phải trả để bị đối xử như một món hàng, song song với việc đại lý phải nội tâm hóa suy nghĩ rằng đó là giọt mồ hôi quý giá và chân chính. Việc bạn không phải trả tiền hoa hồng không chỉ để bạn tiết kiệm tiền, mà còn để bọn mình chăm sóc bạn vì chính bạn.

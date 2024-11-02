@@ -2,7 +2,7 @@
 share: true
 created: 2024-10-16T20:14
 description: Đâu là những môi trường hay làm ta suy nghĩ đến cảnh tai nạn, ung thư, chết chóc?
-updated: 2024-10-31T22:13
+updated: 2024-11-02T13:14
 ---
 Bảo hiểm nhân thọ là câu trả lời cho câu hỏi: 
 - Nếu tôi bị ung thư giai đoạn cuối thì ai lo tiền chữa trị cho tôi?
@@ -61,4 +61,4 @@ Lên công an phường, xã hỏi về lịch tuyên truyền phòng chống t�
 - Đến tổ dân phố ở các phường, xã có nhà tang lễ, nghĩa trang, bệnh viện, chùa, nhà thờ gần nhà, hỏi lịch sinh hoạt tổ dân phố rồi tham gia
 
 ## Làm sao để thảo luận sâu về vấn đề bảo hiểm với họ?
-Để tăng độ tin cậy trong việc tìm hiểu nhu cầu và giới thiệu sản phẩm, bạn có thể trả tiền cho một người làm trong các nơi này để họ giúp mình thiết lập các cuộc hẹn và cùng bạn thảo luận về các nhu cầu của đối tượng. Trong buổi gặp mặt đó, bạn có thể dùng [Xác định nhu cầu bảo hiểm của một người](../../Nghi%C3%AAn%20c%E1%BB%A9u%20ng%C6%B0%E1%BB%9Di%20d%C3%B9ng/X%C3%A1c%20%C4%91%E1%BB%8Bnh%20nhu%20c%E1%BA%A7u%20b%E1%BA%A3o%20hi%E1%BB%83m%20c%E1%BB%A7a%20m%E1%BB%99t%20ng%C6%B0%E1%BB%9Di.md).
+Để tăng độ tin cậy trong việc tìm hiểu nhu cầu và giới thiệu sản phẩm, bạn có thể trả tiền cho một người làm trong các nơi này để họ giúp mình thiết lập các cuộc hẹn và cùng bạn thảo luận về các nhu cầu của đối tượng. Trong buổi gặp mặt đó, hãy [Xác định nhu cầu bảo hiểm của một người](../../Nghi%C3%AAn%20c%E1%BB%A9u%20ng%C6%B0%E1%BB%9Di%20d%C3%B9ng/X%C3%A1c%20%C4%91%E1%BB%8Bnh%20nhu%20c%E1%BA%A7u%20b%E1%BA%A3o%20hi%E1%BB%83m%20c%E1%BB%A7a%20m%E1%BB%99t%20ng%C6%B0%E1%BB%9Di.md).

@@ -1,24 +1,28 @@
 ---
 share: true
 created: 2024-09-14T11:04
-updated: 2024-10-30T14:08
+updated: 2024-11-02T13:20
 alias: Lý do trì hoãn
 ---
 ## Không tin
-> Thủ tục phức tạp, bỏ vào dễ lấy ra khó
-> Sản phẩm bên này có gì khác?
-> Không có lời
+> [!question] Thủ tục phức tạp, bỏ vào dễ lấy ra khó
+
+> [!question] Sản phẩm bên này có gì khác?
+
+> [!question] Không có lời
 
 ## Không tiền
-> Tiền ăn chưa có lấy đâu ra
+> [!question] Tiền ăn chưa có lấy đâu ra
+> Nếu người kiếm tiền chính trong nhà gặp rủi ro thì ai lo cho những người còn lại?
 
-Nếu người kiếm tiền chính trong nhà gặp rủi ro thì ai lo cho những người còn lại?
-> Tiền dư đang dùng để kinh doanh nên không lấy ra được
+> [!question] Tiền dư đang dùng để kinh doanh nên không lấy ra được
 
 ## Không cần
-> Đã có BHXH, BHYT rồi
-> Đã có sổ tiết kiệm trong ngân hàng rồi
-> Thấy còn khoẻ
+> [!question] Đã có BHXH, BHYT rồi
+
+> [!question] Đã có sổ tiết kiệm trong ngân hàng rồi
+
+> [!question] Thấy còn khoẻ
 
 ## Không vội
 > [!question] Muốn tham khảo thêm các công ty khác
