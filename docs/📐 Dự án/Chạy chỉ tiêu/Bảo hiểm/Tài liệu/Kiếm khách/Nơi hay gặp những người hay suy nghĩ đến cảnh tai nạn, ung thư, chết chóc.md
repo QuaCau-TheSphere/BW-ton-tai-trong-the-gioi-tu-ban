@@ -2,13 +2,13 @@
 share: true
 created: 2024-10-16T20:14
 description: Đâu là những môi trường hay làm ta suy nghĩ đến cảnh tai nạn, ung thư, chết chóc?
-updated: 2024-10-30T14:08
+updated: 2024-10-31T22:13
 ---
 Bảo hiểm nhân thọ là câu trả lời cho câu hỏi: 
 - Nếu tôi bị ung thư giai đoạn cuối thì ai lo tiền chữa trị cho tôi?
 - Nếu tôi bị tai nạn hoặc chết đột ngột thì con tôi sống sao?
 
-Bởi vì [Bộ não được thiết kế để loại bỏ mối nguy hiểm ngay bây giờ, không phải trong tương lai](../../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/T%C3%A2m%20l%C3%BD%20h%E1%BB%8Dc%20qu%E1%BA%A3n%20l%C3%BD%20v%C3%A0%20lao%20%C4%91%E1%BB%99ng/S%E1%BA%AFp%20x%E1%BA%BFp%20%C4%91%E1%BB%99%20%C6%B0u%20ti%C3%AAn/S%E1%BB%B1%20tr%C3%AC%20ho%C3%A3n/B%E1%BB%99%20n%C3%A3o%20%C4%91%C6%B0%E1%BB%A3c%20thi%E1%BA%BFt%20k%E1%BA%BF%20%C4%91%E1%BB%83%20lo%E1%BA%A1i%20b%E1%BB%8F%20m%E1%BB%91i%20nguy%20hi%E1%BB%83m%20ngay%20b%C3%A2y%20gi%E1%BB%9D,%20kh%C3%B4ng%20ph%E1%BA%A3i%20trong%20t%C6%B0%C6%A1ng%20lai.md), nên [Làm một người lạc quan thấy được tầm quan trọng của bảo hiểm giống như làm một người đang thấy việc hút thuốc là thú vị hiểu được tầm quan trọng của việc bỏ thuốc](../../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/T%E1%BB%95%20ch%E1%BB%A9c%20t%C3%A0i%20ch%C3%ADnh/B%E1%BA%A3o%20hi%E1%BB%83m/Nhu%20c%E1%BA%A7u%20kh%C3%A1ch%20h%C3%A0ng%20v%C3%A0%20%C4%91%E1%BA%A1i%20l%C3%BD/L%C3%A0m%20m%E1%BB%99t%20ng%C6%B0%E1%BB%9Di%20l%E1%BA%A1c%20quan%20th%E1%BA%A5y%20%C4%91%C6%B0%E1%BB%A3c%20t%E1%BA%A7m%20quan%20tr%E1%BB%8Dng%20c%E1%BB%A7a%20b%E1%BA%A3o%20hi%E1%BB%83m%20gi%E1%BB%91ng%20nh%C6%B0%20l%C3%A0m%20m%E1%BB%99t%20ng%C6%B0%E1%BB%9Di%20%C4%91ang%20th%E1%BA%A5y%20vi%E1%BB%87c%20h%C3%BAt%20thu%E1%BB%91c%20l%C3%A0%20th%C3%BA%20v%E1%BB%8B%20hi%E1%BB%83u%20%C4%91%C6%B0%E1%BB%A3c%20t%E1%BA%A7m%20quan%20tr%E1%BB%8Dng%20c%E1%BB%A7a%20vi%E1%BB%87c%20b%E1%BB%8F%20thu%E1%BB%91c.md). Tốt nhất là tìm đến những người phải sống trong các môi trường hay làm ta suy nghĩ đến cảnh tai nạn, ung thư, chết chóc.
+Bởi vì [Bộ não được thiết kế để loại bỏ mối nguy hiểm ngay bây giờ, không phải trong tương lai](../../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/T%C3%A2m%20l%C3%BD%20h%E1%BB%8Dc%20qu%E1%BA%A3n%20l%C3%BD%20v%C3%A0%20lao%20%C4%91%E1%BB%99ng/S%E1%BA%AFp%20x%E1%BA%BFp%20%C4%91%E1%BB%99%20%C6%B0u%20ti%C3%AAn/S%E1%BB%B1%20tr%C3%AC%20ho%C3%A3n/B%E1%BB%99%20n%C3%A3o%20%C4%91%C6%B0%E1%BB%A3c%20thi%E1%BA%BFt%20k%E1%BA%BF%20%C4%91%E1%BB%83%20lo%E1%BA%A1i%20b%E1%BB%8F%20m%E1%BB%91i%20nguy%20hi%E1%BB%83m%20ngay%20b%C3%A2y%20gi%E1%BB%9D,%20kh%C3%B4ng%20ph%E1%BA%A3i%20trong%20t%C6%B0%C6%A1ng%20lai.md), nên [Làm cho một người thấy được tầm quan trọng của bảo hiểm giống như làm một người đang thấy việc hút thuốc là thú vị hiểu được tầm quan trọng của việc bỏ thuốc](../../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/T%E1%BB%95%20ch%E1%BB%A9c%20t%C3%A0i%20ch%C3%ADnh/B%E1%BA%A3o%20hi%E1%BB%83m/Nhu%20c%E1%BA%A7u%20kh%C3%A1ch%20h%C3%A0ng%20v%C3%A0%20%C4%91%E1%BA%A1i%20l%C3%BD/L%C3%A0m%20cho%20m%E1%BB%99t%20ng%C6%B0%E1%BB%9Di%20th%E1%BA%A5y%20%C4%91%C6%B0%E1%BB%A3c%20t%E1%BA%A7m%20quan%20tr%E1%BB%8Dng%20c%E1%BB%A7a%20b%E1%BA%A3o%20hi%E1%BB%83m%20gi%E1%BB%91ng%20nh%C6%B0%20l%C3%A0m%20m%E1%BB%99t%20ng%C6%B0%E1%BB%9Di%20%C4%91ang%20th%E1%BA%A5y%20vi%E1%BB%87c%20h%C3%BAt%20thu%E1%BB%91c%20l%C3%A0%20th%C3%BA%20v%E1%BB%8B%20hi%E1%BB%83u%20%C4%91%C6%B0%E1%BB%A3c%20t%E1%BA%A7m%20quan%20tr%E1%BB%8Dng%20c%E1%BB%A7a%20vi%E1%BB%87c%20b%E1%BB%8F%20thu%E1%BB%91c.md). Tốt nhất là tìm đến những người phải sống trong các môi trường hay làm ta suy nghĩ đến cảnh tai nạn, ung thư, chết chóc.
 
 Đây là một số người như vậy:
 - Các công nhân, nhân viên của các nhà máy, xí nghiệp có các thiết bị dễ gây tai nạn, hoặc người dân sống xung quanh, hoặc người thân, bạn bè của họ
@@ -47,6 +47,7 @@ Lên công an phường, xã hỏi về lịch tuyên truyền phòng chống t�
 
 ### Người thân, hàng xóm, bạn bè của người có bị ung thư, tai nạn, chết đột ngột, hoặc người quyên góp từ thiện cho họ
 - Đăng ký tham gia từ thiện. Có thể lên chùa, nhà thờ gần nhà để tìm chương trình 
+- Tìm hiểu các vụ tai nạn, cháy nhà, rồi tham gia các sinh hoạt tại nơi đó
 - Lên các bệnh viện, nhất là các bệnh viên chuyên về ung thư hoặc chấn thương chỉnh hình, hỏi lịch các buổi tuyên truyền, phổ biến kiến thức cho bệnh nhân rồi tham gia
 - Đến các đoạn đường có cắm biển "Nơi đây đã xảy ra X vụ tai nạn chết người", rồi trò chuyện với các quán nước gần đó
 - Theo dõi Facebook các tổ chức hỗ trợ bệnh nhân ung thư, người khuyết tật như:
@@ -58,10 +59,6 @@ Lên công an phường, xã hỏi về lịch tuyên truyền phòng chống t�
 ### Người làm trong nhà tang lễ, nghĩa trang, bệnh viện, chùa, nhà thờ hoặc người thân, hàng xóm, bạn bè của họ
 - Tham gia tình nguyện cho các chùa, nhà thờ, bệnh viện gần nhà
 - Đến tổ dân phố ở các phường, xã có nhà tang lễ, nghĩa trang, bệnh viện, chùa, nhà thờ gần nhà, hỏi lịch sinh hoạt tổ dân phố rồi tham gia
-
-### Các chủ doanh nghiệp muốn tăng phúc lợi cho nhân viên
-- Tìm đến [Những nơi giúp mở rộng mối quan hệ với doanh nghiệp](../../Nh%E1%BB%AFng%20n%C6%A1i%20gi%C3%BAp%20m%E1%BB%9F%20r%E1%BB%99ng%20m%E1%BB%91i%20quan%20h%E1%BB%87%20v%E1%BB%9Bi%20doanh%20nghi%E1%BB%87p.md), rồi tìm xem ai đang tập trung vào điều này
-- Tham gia các hội thảo về nhân sự
 
 ## Làm sao để thảo luận sâu về vấn đề bảo hiểm với họ?
 Để tăng độ tin cậy trong việc tìm hiểu nhu cầu và giới thiệu sản phẩm, bạn có thể trả tiền cho một người làm trong các nơi này để họ giúp mình thiết lập các cuộc hẹn và cùng bạn thảo luận về các nhu cầu của đối tượng. Trong buổi gặp mặt đó, bạn có thể dùng [Xác định nhu cầu bảo hiểm của một người](../../Nghi%C3%AAn%20c%E1%BB%A9u%20ng%C6%B0%E1%BB%9Di%20d%C3%B9ng/X%C3%A1c%20%C4%91%E1%BB%8Bnh%20nhu%20c%E1%BA%A7u%20b%E1%BA%A3o%20hi%E1%BB%83m%20c%E1%BB%A7a%20m%E1%BB%99t%20ng%C6%B0%E1%BB%9Di.md).
