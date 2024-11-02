@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2024-10-29T19:31
+updated: 2024-11-02T13:04
 alias: Bản câu hỏi cho người cần được hỗ trợ thoát nợ
 description: Bản câu hỏi cho người cần được hỗ trợ thoát nợ
 title: Giúp nhau thoát nợ
@@ -17,8 +17,5 @@ title: Giúp nhau thoát nợ
 
 [Tặng đồ đạc, thức ăn](../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Qu%C3%A0%20t%E1%BA%B7ng/T%E1%BA%B7ng%20%C4%91%E1%BB%93%20%C4%91%E1%BA%A1c,%20th%E1%BB%A9c%20%C4%83n.md)
 **Mục tiêu: cắt hết lãi**
-## Rủi ro
-Bị nói là thân lo chưa xong
-Bị tị nạnh
-
 [Lời mời xây dựng một startup](../Tr%E1%BA%A5n%20K%E1%BB%B3/C%C5%A9/4%20Th%C3%A0nh%20ph%E1%BA%A9m/Truy%E1%BB%81n%20th%C3%B4ng/L%E1%BB%9Di%20m%E1%BB%9Di%20x%C3%A2y%20d%E1%BB%B1ng%20m%E1%BB%99t%20startup.md)
+[Việt Nam không ai chết đói, chỉ có nghèo đa chiều](../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Ph%C3%A1t%20tri%E1%BB%83n%20b%E1%BB%81n%20v%E1%BB%AFng/H%E1%BB%97%20tr%E1%BB%A3%20ng%C6%B0%E1%BB%9Di%20y%E1%BA%BFu%20th%E1%BA%BF/Vi%E1%BB%87t%20Nam%20kh%C3%B4ng%20ai%20ch%E1%BA%BFt%20%C4%91%C3%B3i,%20ch%E1%BB%89%20c%C3%B3%20ngh%C3%A8o%20%C4%91a%20chi%E1%BB%81u.md)

@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-09-13T13:49
-updated: 2024-10-30T14:58
+updated: 2024-11-01T10:29
 ---
 | Công ty  |                                         |                              |
 | -------- | --------------------------------------- | ---------------------------- |
@@ -21,6 +21,7 @@ updated: 2024-10-30T14:58
 | Tuyển ảo                  | Thả lỏng               | Siết chặt                     |
 | Tần số bị bắt lên công ty | Hàng tuần              | Mỗi ngày                      |
 
+Cathay dù nhân viên được định hướng làm quản lý thì vẫn phải bán hàng trong thời gian đầu
 
 Hợp đồng lớn là hợp đồng doanh nghiệp, được đính kèm nhiều người phụ thuộc. Ex 1 chủ doanh nghiệp là bên mua bảo hiểm, và 20 người phụ thuộc trong 1 hợp đồng → hạn mức cho 1 hợp đồng thế này thường từ 30tr trở lê, nên mới gọi là hđ lớn
 
