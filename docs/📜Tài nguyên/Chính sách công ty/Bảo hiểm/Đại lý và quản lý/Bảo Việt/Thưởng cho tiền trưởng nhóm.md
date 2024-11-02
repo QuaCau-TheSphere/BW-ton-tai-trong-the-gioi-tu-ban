@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-10-12T09:02
-updated: 2024-10-29T10:35
+updated: 2024-11-01T19:53
 ---
 ## Tuyển luyện
 200% của thưởng TVV mới
@@ -22,9 +22,24 @@ updated: 2024-10-29T10:35
 ## Điều kiện lên trưởng nhóm
 Tuyển dụng thì không giới hạn thời gian, 
 ## Thi đua
-Bắt cặp
-Đà Nẵng
+### Tháng 11
+### Phát triển mạnh
+- 3: 2tr
+- 4: 3tr
+- 5: 5tr
+- ≥ 6: 8tr
+### Thúc đẩy  TVV hoạt động
+1tr
+### Tuyển mới
+- 1 người: 800k
+- ≥ 2 người: 2tr
+
+### Bắt cặp
+### Đà Nẵng
 
 ??
 Năng suất quý
 TVV mới
+
+- Họp mỗi tuần được 100k, hàng tháng 200k
+- Sinh nhật 100k
