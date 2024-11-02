@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-10-11T10:51
-updated: 2024-10-29T10:11
+updated: 2024-11-01T12:08
 alias: thưởng tvv
 ---
 ## Hoa hồng
@@ -19,7 +19,15 @@ alias: thưởng tvv
 | Tháng 13            |                                      |                                                                                                                 |
 
 ## Thi đua
-- 3
+### Tháng 3/2025
+Thành công sớm phát triển bền
 ## Chính sách khuyến khích
 100 tr FYP hoặc 5 tháng hoạt động chuẩn
 Được đồng phục, áo, vest
+
+## Ưu đãi vay vốn của ngân hàng Bảo Việt 
+Có tài sản đảm bảo:
+- 6.5%/năm trong 12 tháng đầu
+- 7.9%/năm trong 24 tháng đầu
+Biên độ lãi suất sau thời gian ưu đãi từ 3.0%/năm
+Miễn phí trả nợ sau năm 3 với gói 12 tháng, sau năm 5 với gói 24 tháng
