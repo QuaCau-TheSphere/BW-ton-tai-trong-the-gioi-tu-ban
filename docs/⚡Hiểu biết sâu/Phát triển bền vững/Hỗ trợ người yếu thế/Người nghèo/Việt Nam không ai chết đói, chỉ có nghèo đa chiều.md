@@ -4,7 +4,7 @@ created: 2024-10-07T00:30
 updated: 2024-11-02T13:04
 alias: nghèo đa chiều
 ---
-Khái niệm:: [Nghèo](../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Ngh%C3%A8o.md)
+Khái niệm:: [Nghèo](../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Ngh%C3%A8o.md)
 ## Tiêu chí mức độ thiếu hụt dịch vụ xã hội cơ bản
 Việc làm:
 - Không tìm được việc làm thường xuyên, đều đặn, tương đối ổn định

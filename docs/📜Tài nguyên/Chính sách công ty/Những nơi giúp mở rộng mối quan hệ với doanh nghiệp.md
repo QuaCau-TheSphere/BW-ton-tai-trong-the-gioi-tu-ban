@@ -3,7 +3,7 @@ share: true
 created: 2024-10-27T13:04
 updated: 2024-10-30T13:53
 ---
-[Có vẻ như bán cho doanh nghiệp đem lại nhiều doanh thu nhất](./T%C3%A0i%20li%E1%BB%87u/Ki%E1%BA%BFm%20kh%C3%A1ch/C%C3%B3%20v%E1%BA%BB%20nh%C6%B0%20b%C3%A1n%20cho%20doanh%20nghi%E1%BB%87p%20%C4%91em%20l%E1%BA%A1i%20nhi%E1%BB%81u%20doanh%20thu%20nh%E1%BA%A5t.md). Nếu bạn chưa có nhiều mối quan hệ sẵn có, đây là những nơi giúp bạn tiếp cận được người khác mà họ không cảm thấy phí thời gian, đồng thời có thêm thông tin
+[Có vẻ như bán cho doanh nghiệp đem lại nhiều doanh thu nhất](../../%F0%9F%93%90%20D%E1%BB%B1%20%C3%A1n/Ch%E1%BA%A1y%20ch%E1%BB%89%20ti%C3%AAu/B%E1%BA%A3o%20hi%E1%BB%83m/T%C3%A0i%20li%E1%BB%87u/Ki%E1%BA%BFm%20kh%C3%A1ch/C%C3%B3%20v%E1%BA%BB%20nh%C6%B0%20b%C3%A1n%20cho%20doanh%20nghi%E1%BB%87p%20%C4%91em%20l%E1%BA%A1i%20nhi%E1%BB%81u%20doanh%20thu%20nh%E1%BA%A5t.md). Nếu bạn chưa có nhiều mối quan hệ sẵn có, đây là những nơi giúp bạn tiếp cận được người khác mà họ không cảm thấy phí thời gian, đồng thời có thêm thông tin
 
 ## Chủ doanh nghiệp
 ### Các nhóm học viên các chương trình đào tạo về kinh doanh, lãnh đạo
