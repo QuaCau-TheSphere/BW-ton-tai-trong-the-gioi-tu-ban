@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-09-14T11:04
-updated: 2024-11-02T13:20
+updated: 2024-11-02T22:35
 alias: Lý do trì hoãn
 ---
 ## Không tin
@@ -28,7 +28,7 @@ alias: Lý do trì hoãn
 > [!question] Muốn tham khảo thêm các công ty khác
 > Không phải là em muốn giấu, mà là em không biết. Nếu điều này quan trọng với anh chị thì ok, còn không thì mua luôn để khỏi nhức đầu
 
-[Xác định nhu cầu bảo hiểm của một người](../../../../%F0%9F%93%90%20D%E1%BB%B1%20%C3%A1n/Ch%E1%BA%A1y%20ch%E1%BB%89%20ti%C3%AAu/B%E1%BA%A3o%20hi%E1%BB%83m/Nghi%C3%AAn%20c%E1%BB%A9u%20ng%C6%B0%E1%BB%9Di%20d%C3%B9ng/X%C3%A1c%20%C4%91%E1%BB%8Bnh%20nhu%20c%E1%BA%A7u%20b%E1%BA%A3o%20hi%E1%BB%83m%20c%E1%BB%A7a%20m%E1%BB%99t%20ng%C6%B0%E1%BB%9Di.md)
+[Xác định các rủi ro và thái độ đối với rủi ro và bảo hiểm ở người dân](../../../../%F0%9F%93%90%20D%E1%BB%B1%20%C3%A1n/Ch%E1%BA%A1y%20ch%E1%BB%89%20ti%C3%AAu/B%E1%BA%A3o%20hi%E1%BB%83m/Nghi%C3%AAn%20c%E1%BB%A9u%20ng%C6%B0%E1%BB%9Di%20d%C3%B9ng/X%C3%A1c%20%C4%91%E1%BB%8Bnh%20c%C3%A1c%20r%E1%BB%A7i%20ro%20v%C3%A0%20th%C3%A1i%20%C4%91%E1%BB%99%20%C4%91%E1%BB%91i%20v%E1%BB%9Bi%20r%E1%BB%A7i%20ro%20v%C3%A0%20b%E1%BA%A3o%20hi%E1%BB%83m%20%E1%BB%9F%20ng%C6%B0%E1%BB%9Di%20d%C3%A2n.md)
 
 ---
 
