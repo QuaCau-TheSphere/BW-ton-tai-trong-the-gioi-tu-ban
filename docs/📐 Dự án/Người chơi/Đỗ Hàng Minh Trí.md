@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-09-14T23:01
-updated: 2024-10-30T13:33
+updated: 2024-10-31T20:05
 ---
 Khái niệm:: 
 
@@ -16,3 +16,6 @@ Nguồn::
 - [ ] Nếu không được thưởng do cái này thì bị thiệt sang tháng sau thế nào? 
 
 [Trí cần gì?](../Gi%C3%BAp%20nhau%20tho%C3%A1t%20n%E1%BB%A3/Kendy/Kendy%20c%E1%BA%A7n%20g%C3%AC.md)
+
+quan điểm về lịch sự, tôn trọng, người ngoài đánh giá
+[Bản câu hỏi cho người cần được hỗ trợ thoát nợ](../Gi%C3%BAp%20nhau%20tho%C3%A1t%20n%E1%BB%A3/index.md)
