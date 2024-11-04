@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-07-17T21:41
-updated: 2024-10-26T09:30
+updated: 2024-11-04T15:13
 ---
 URL:: https://www.facebook.com/profile.php?id=100077601589557
 
@@ -28,3 +28,8 @@ Kiến thức đào tạo:
 Không cho người nợ nần mượn. Còn cái 
 
 [Tiết kiệm tín dụng nhóm bền vững hơn cho vay cá nhân khi có nhiều người vay](./Ti%E1%BA%BFt%20ki%E1%BB%87m%20t%C3%ADn%20d%E1%BB%A5ng%20nh%C3%B3m%20b%E1%BB%81n%20v%E1%BB%AFng%20h%C6%A1n%20cho%20vay%20c%C3%A1%20nh%C3%A2n%20khi%20c%C3%B3%20nhi%E1%BB%81u%20ng%C6%B0%E1%BB%9Di%20vay.md)
+
+
+Chỉ cho thành thị, ko cho mượn từ xa
+Thời hạn tùy cam kết là bao nhiêu
+Từ khi chờ theo nhóm thì 
