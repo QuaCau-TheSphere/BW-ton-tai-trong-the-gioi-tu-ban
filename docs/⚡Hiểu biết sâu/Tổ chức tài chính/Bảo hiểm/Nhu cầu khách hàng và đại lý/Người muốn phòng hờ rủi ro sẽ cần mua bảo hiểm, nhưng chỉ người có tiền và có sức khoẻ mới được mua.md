@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-09-14T09:07
-updated: 2024-10-01T20:47
+updated: 2024-11-03T21:35
 ---
 Khái niệm:: 
 thấy mình có trách nhiệm và có khả năng mất trách nhiệm
@@ -9,4 +9,4 @@ thấy mình có trách nhiệm và có khả năng mất trách nhiệm
 [Tuổi, tiết kiệm, vay nợ, thu nhập, giáo dục là các yếu tố có tác động đến quyết định mua bảo hiểm nhân thọ. Giới tính, tình trạng hôn nhân, số thành viên trong hộ không có ảnh hưởng đến quyết định này](../Lo%E1%BA%A1i%20h%C3%ACnh%20b%E1%BA%A3o%20hi%E1%BB%83m/Nh%C3%A2n%20th%E1%BB%8D/Tu%E1%BB%95i,%20ti%E1%BA%BFt%20ki%E1%BB%87m,%20vay%20n%E1%BB%A3,%20thu%20nh%E1%BA%ADp,%20gi%C3%A1o%20d%E1%BB%A5c%20l%C3%A0%20c%C3%A1c%20y%E1%BA%BFu%20t%E1%BB%91%20c%C3%B3%20t%C3%A1c%20%C4%91%E1%BB%99ng%20%C4%91%E1%BA%BFn%20quy%E1%BA%BFt%20%C4%91%E1%BB%8Bnh%20mua%20b%E1%BA%A3o%20hi%E1%BB%83m%20nh%C3%A2n%20th%E1%BB%8D.md)
 [Chính phủ khuyến khích phát triển sản phẩm nhân thọ cho người già và các sản phẩm tích hợp các dịch vụ hỗ trợ y tế, chăm sóc sức khỏe](../Lu%E1%BA%ADt,%20%C4%91%E1%BB%8Bnh%20h%C6%B0%E1%BB%9Bng%20c%E1%BB%A7a%20nh%C3%A0%20n%C6%B0%E1%BB%9Bc/Ch%C3%ADnh%20ph%E1%BB%A7%20khuy%E1%BA%BFn%20kh%C3%ADch%20ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m%20nh%C3%A2n%20th%E1%BB%8D%20cho%20ng%C6%B0%E1%BB%9Di%20gi%C3%A0%20v%C3%A0%20c%C3%A1c%20s%E1%BA%A3n%20ph%E1%BA%A9m%20t%C3%ADch%20h%E1%BB%A3p%20c%C3%A1c%20d%E1%BB%8Bch%20v%E1%BB%A5%20h%E1%BB%97%20tr%E1%BB%A3%20y%20t%E1%BA%BF,%20ch%C4%83m%20s%C3%B3c%20s%E1%BB%A9c%20kh%E1%BB%8Fe.md)
 
-[Tại sao khách hàng chưa đồng ý](./T%E1%BA%A1i%20sao%20kh%C3%A1ch%20h%C3%A0ng%20ch%C6%B0a%20%C4%91%E1%BB%93ng%20%C3%BD.md)
+[Các lý do từ chối mua thường gặp](./C%C3%A1c%20l%C3%BD%20do%20t%E1%BB%AB%20ch%E1%BB%91i%20mua%20th%C6%B0%E1%BB%9Dng%20g%E1%BA%B7p.md)
