@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-10-30T14:21
-updated: 2024-10-30T22:25
+updated: 2024-11-05T10:46
 ---
 ## [Câu hỏi thu thập ý kiến về việc tổ chức các buổi workshop đáp ứng nhu cầu các tổ chức và hỗ trợ kiếm khách hàng tiềm năng cho người bán hàng](./Nghi%C3%AAn%20c%E1%BB%A9u%20ng%C6%B0%E1%BB%9Di%20d%C3%B9ng/C%C3%A2u%20h%E1%BB%8Fi%20thu%20th%E1%BA%ADp%20%C3%BD%20ki%E1%BA%BFn%20v%E1%BB%81%20vi%E1%BB%87c%20t%E1%BB%95%20ch%E1%BB%A9c%20c%C3%A1c%20bu%E1%BB%95i%20workshop%20%C4%91%C3%A1p%20%E1%BB%A9ng%20nhu%20c%E1%BA%A7u%20c%C3%A1c%20t%E1%BB%95%20ch%E1%BB%A9c%20v%C3%A0%20h%E1%BB%97%20tr%E1%BB%A3%20ki%E1%BA%BFm%20kh%C3%A1ch%20h%C3%A0ng%20ti%E1%BB%81m%20n%C4%83ng%20cho%20ng%C6%B0%E1%BB%9Di%20b%C3%A1n%20h%C3%A0ng.md)
 ### SNPO
@@ -28,3 +28,17 @@ updated: 2024-10-30T22:25
 [10-10-2024](10-10-2024.md) https://www.facebook.com/share/p/SiFLni6x3sxLTntJ/
 Thịnh từ bỏ quyền quản trị page
 [29-10-2024](29-10-2024.md) 17:19 54 impression, 47 reach, 1 engagement, 0 react
+
+## [Kết nối nhu cầu di chuyển của người khuyết tật](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/%C3%9D%20t%C6%B0%E1%BB%9Fng%20ki%E1%BA%BFm%20ti%E1%BB%81n/3%20%C3%9D%20t%C6%B0%E1%BB%9Fng/Gia%20c%C3%B4ng%20gi%E1%BA%A3i%20ph%C3%A1p/K%E1%BA%BFt%20n%E1%BB%91i%20nhu%20c%E1%BA%A7u%20di%20chuy%E1%BB%83n%20c%E1%BB%A7a%20ng%C6%B0%E1%BB%9Di%20khuy%E1%BA%BFt%20t%E1%BA%ADt.md)
+### Xoá
+[04-11-2024](04-11-2024.md) 16:34 submit
+16:40 [Xóa Rào cản - Vẽ Tương lai | # App kết nối nhu cầu di chuyển của người khuyết tật](https://www.facebook.com/groups/kynangvavieclamchonguoikhuyettat/posts/571519068613041/?notif_id=1730713205558732&notif_t=group_post_approved&ref=notif)
+2 like
+
+
+18:15 https://www.facebook.com/groups/435488508882765/pending_posts/571568648608083/
+
+## [Cộng tác viên khuyết tật](./T%C3%A0i%20li%E1%BB%87u/Ki%E1%BA%BFm%20kh%C3%A1ch/C%E1%BB%99ng%20t%C3%A1c%20vi%C3%AAn%20khuy%E1%BA%BFt%20t%E1%BA%ADt.md)
+[05-11-2024](05-11-2024.md) 10:40 https://www.facebook.com/groups/1200148400408240/posts/-ng%C6%B0%E1%BB%9Di-khuy%E1%BA%BFt-t%E1%BA%ADt-%C4%91i-b%C3%A1n-b%E1%BA%A3o-hi%E1%BB%83m-th%C3%AC-c%C3%B3-v%E1%BA%A5n-%C4%91%E1%BB%81-g%C3%AC-kh%C3%B4ngl%E1%BA%A5y-b%E1%BA%A3o-hi%E1%BB%83m-nh%C3%A2n-th%E1%BB%8D-l%C3%A0/2001302123626193/
+
+10:46 https://www.facebook.com/groups/1332867813835604/my_pending_content
