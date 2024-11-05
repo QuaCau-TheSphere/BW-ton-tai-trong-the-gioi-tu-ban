@@ -3,10 +3,11 @@ share: true
 created: 2023-09-05T16:17
 alias: Bản câu hỏi cho người cần được hỗ trợ thoát nợ
 description: Bản câu hỏi cho người cần được hỗ trợ thoát nợ
-updated: 2024-11-02T14:13
+updated: 2024-11-04T23:49
 title: Giúp nhau thoát nợ
 ---
 # Bản câu hỏi cho người cần được hỗ trợ thoát nợ
+- Tại sao bạn bị nợ? 
 - Tình hình nợ hiện nay thế nào? Các khoản nợ, lãi và thời hạn trả của chúng, v.v.
 - Tình hình nợ này ảnh hưởng đến cuộc sống của bạn thế nào?
 - Bạn có thể chia sẻ chi phí sinh hoạt của bạn được không? Càng chi tiết càng tốt
@@ -22,3 +23,8 @@ title: Giúp nhau thoát nợ
 
 [Cho vay lấy lãi](../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/%C3%9D%20t%C6%B0%E1%BB%9Fng%20ki%E1%BA%BFm%20ti%E1%BB%81n/3%20%C3%9D%20t%C6%B0%E1%BB%9Fng/T%E1%BB%B1%20kinh%20doanh,%20%C4%91%E1%BA%A7u%20t%C6%B0/Cho%20vay%20l%E1%BA%A5y%20l%C3%A3i.md)
 [Huy động nguồn tiền nhàn rỗi](./C%C3%B4ng%20vi%E1%BB%87c/Huy%20%C4%91%E1%BB%99ng%20ngu%E1%BB%93n%20ti%E1%BB%81n%20nh%C3%A0n%20r%E1%BB%97i.md)
+
+Stress vì muốn khám phá, vì muốn có cuộc sống tốt hơn
+Khái niệm:: 
+
+Nguồn:: 
