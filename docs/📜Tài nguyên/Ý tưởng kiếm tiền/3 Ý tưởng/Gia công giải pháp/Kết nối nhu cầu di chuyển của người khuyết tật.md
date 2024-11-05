@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2024-11-04T16:13
+updated: 2024-11-04T16:38
 ---
 Yêu cầu đầu vào:: [Biết lập trình](../../1%20Y%C3%AAu%20c%E1%BA%A7u%20%C4%91%E1%BA%A7u%20v%C3%A0o/Theo%20ki%E1%BA%BFn%20th%E1%BB%A9c,%20k%E1%BB%B9%20n%C4%83ng/Bi%E1%BA%BFt%20l%E1%BA%ADp%20tr%C3%ACnh.md)
 Hình thức:: [Gia công giải pháp](../../2%20H%C3%ACnh%20th%E1%BB%A9c/Gia%20c%C3%B4ng%20gi%E1%BA%A3i%20ph%C3%A1p.md)
@@ -9,6 +9,8 @@ Hình thức:: [Gia công giải pháp](../../2%20H%C3%ACnh%20th%E1%BB%A9c/Gia%2
 ## Mô tả chung
 - **Nhu cầu:** người khuyết tật khi có nhu cầu di chuyển chi phí tốn kém
 - **Giải pháp:** viết app kết nối họ và người sẵn sàng hỗ trợ, tương tự như Grab
+
+![](https://upload.wikimedia.org/wikipedia/commons/0/0a/Le_Dai_Hanh_street%2C_ph%C6%B0%E1%BB%9Dng_15%2C_Qu%E1%BA%ADn_11%2C_TPHCM%2C_Vi%E1%BB%87t_Nam_-_panoramio.jpg)
 
 ### Câu hỏi
 #### Câu hỏi về chiến lược
@@ -84,7 +86,7 @@ Thời gian khởi động dưới 5s
 | Open Street Map |                                                                | Miễn phí                                   |
 
 ### Ngôn ngữ, framework
-Ngôn ngữ TypeScript với runtime Deno là thích hợp nhất cho những app còn nhỏ. Nếu viết app mobile thì có thể dùng framework Capacitor để có thể viết một lần mà có cả app Android và iOS, nhưng như vậy thì có thể sẽ phải đổi runtime sang Node. Nếu đổi sang ngôn ngữ khác thì sẽ đội chi phí lên.
+Ngôn ngữ TypeScript với runtime Deno là thích hợp nhất cho những app còn nhỏ. Nếu viết app mobile thì có thể dùng framework Capacitor để có thể viết một lần mà có cả app Android và iOS, nhưng như vậy thì có thể sẽ phải đổi runtime sang Node. Nếu đổi sang ngôn ngữ khác thì sẽ đội chi phí lên (nếu muốn đặt bên mình). Nếu chỉ cần dùng bản web được thì sẽ tốt hơn.
 
 ### Máy chủ
 Firebase/Deno Deploy
