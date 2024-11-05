@@ -3,7 +3,7 @@ share: true
 title: Kendy cần gì?
 description: Cần giảm áp lực trả nợ, tạo dòng tiền, xây dựng hệ thống quản lý, giảm tiền cho các nhu cầu
 created: 2023-09-05T16:17
-updated: 2024-09-30T23:52
+updated: 2024-11-04T23:49
 alias:
   - Trí cần gì?
 ---
@@ -12,8 +12,8 @@ Cảm ơn bạn đã quan tâm tới Kendy. Thực ra bọn mình nghĩ việc g
 Đây là những thứ Kendy cần:
 # Giảm áp lực trả nợ
 - [Huy động nguồn tiền nhàn rỗi](../C%C3%B4ng%20vi%E1%BB%87c/Huy%20%C4%91%E1%BB%99ng%20ngu%E1%BB%93n%20ti%E1%BB%81n%20nh%C3%A0n%20r%E1%BB%97i.md)
-- [Thương lượng với chủ nợ](../C%C3%B4ng%20vi%E1%BB%87c/Th%C6%B0%C6%A1ng%20l%C6%B0%E1%BB%A3ng%20v%E1%BB%9Bi%20ch%E1%BB%A7%20n%E1%BB%A3.md)
 - [Tìm nguồn cho mượn 100tr qua đêm, sáng hôm sau trả lại, liên tục vài tháng](../C%C3%B4ng%20vi%E1%BB%87c/T%C3%ACm%20ngu%E1%BB%93n%20cho%20m%C6%B0%E1%BB%A3n%20100tr%20qua%20%C4%91%C3%AAm,%20s%C3%A1ng%20h%C3%B4m%20sau%20tr%E1%BA%A3%20l%E1%BA%A1i,%20li%C3%AAn%20t%E1%BB%A5c%20v%C3%A0i%20th%C3%A1ng.md)
+- [Thương lượng với chủ nợ](../C%C3%B4ng%20vi%E1%BB%87c/Th%C6%B0%C6%A1ng%20l%C6%B0%E1%BB%A3ng%20v%E1%BB%9Bi%20ch%E1%BB%A7%20n%E1%BB%A3.md)
 - [Đứng ra vay giùm](../C%C3%B4ng%20vi%E1%BB%87c/%C4%90%E1%BB%A9ng%20ra%20vay%20gi%C3%B9m.md)
 
 # Tạo dòng tiền
@@ -56,5 +56,5 @@ Khác:
 - Khi hỏi lời khuyên của người khác mà câu trả lời đã từng đem lại trải nghiệm tệ thì phản ứng từ chối sự hợp lý của lời khuyên đó cao
 
 Xem thêm:
-- [Giúp đỡ người mắc nợ](Gi%C3%BAp%20%C4%91%E1%BB%A1%20ng%C6%B0%E1%BB%9Di%20m%E1%BA%AFc%20n%E1%BB%A3.md)
+- [Giúp nhau thoát nợ](../index.md)
 - [Từ việc hỗ trợ Kendy đến Patreon và tâm lý của con người về tiền](./T%E1%BB%AB%20vi%E1%BB%87c%20h%E1%BB%97%20tr%E1%BB%A3%20Kendy%20%C4%91%E1%BA%BFn%20Patreon%20v%C3%A0%20t%C3%A2m%20l%C3%BD%20c%E1%BB%A7a%20con%20ng%C6%B0%E1%BB%9Di%20v%E1%BB%81%20ti%E1%BB%81n.md)
