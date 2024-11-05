@@ -1,10 +1,10 @@
 ---
 share: true
 created: 2024-10-12T09:02
-updated: 2024-11-01T19:53
+updated: 2024-11-05T10:23
 ---
 ## Tuyển luyện
-200% của thưởng TVV mới
+200% của thưởng TVV mới: cứ 1 người được 1 tr thì mình được 2 tr
 ## Quản lý hoạt động
 15% trên tổng hoa hồng của TVV
 3 tháng đầu
@@ -43,3 +43,5 @@ TVV mới
 
 - Họp mỗi tuần được 100k, hàng tháng 200k
 - Sinh nhật 100k
+
+Giá vé 120k sớm, hoặc 180k trễ
