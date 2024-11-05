@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-10-31T20:22
-updated: 2024-11-05T20:23
+updated: 2024-11-05T20:10
 ---
 ## Giả thiết
 - hay suy nghĩ về vấn đề giảm thiểu rủi ro
@@ -13,8 +13,8 @@ updated: 2024-11-05T20:23
 [Xác định các rủi ro và thái độ đối với rủi ro và bảo hiểm ở người dân](./X%C3%A1c%20%C4%91%E1%BB%8Bnh%20c%C3%A1c%20r%E1%BB%A7i%20ro%20v%C3%A0%20th%C3%A1i%20%C4%91%E1%BB%99%20%C4%91%E1%BB%91i%20v%E1%BB%9Bi%20r%E1%BB%A7i%20ro%20v%C3%A0%20b%E1%BA%A3o%20hi%E1%BB%83m%20%E1%BB%9F%20ng%C6%B0%E1%BB%9Di%20d%C3%A2n.md)
 ## Câu hỏi phỏng vấn
 ### Khi nói về khuyết tật thì bạn nghĩ về những gì? 
-### Bạn nghĩ cuộc sống của người khuyết tật sẽ như thế nào? 
-### Nếu một ngày bạn
+### Nếu phải sống cuộc đời của
+
 ### Bạn thấy mình đang có những loại rủi ro nào? Tác hại với bạn khi xảy ra là thế nào?
 
 ### Trong số những rủi ro đó cái nào bạn thấy tác hại vượt qua ngưỡng chịu đựng được của mình? Bạn sẽ làm gì trong lúc đó?

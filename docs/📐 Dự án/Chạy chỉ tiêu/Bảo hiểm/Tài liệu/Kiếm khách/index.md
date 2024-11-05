@@ -1,24 +1,23 @@
 ---
 share: true
 created: 2024-09-17T11:13
-updated: 2024-10-30T14:05
+updated: 2024-11-05T21:01
 alias: bán bảo hiểm, thu hút khách hàng
 description: Cam kết không khai thác cảm xúc của họ, mà chỉ muốn nâng đỡ lý tính họ
 title: Kiếm khách
 ---
 # Thu hút khách hàng mua bảo hiểm
 ## Khách hàng tiềm năng
-- [Những nơi giúp mở rộng mối quan hệ với doanh nghiệp](../../Nh%E1%BB%AFng%20n%C6%A1i%20gi%C3%BAp%20m%E1%BB%9F%20r%E1%BB%99ng%20m%E1%BB%91i%20quan%20h%E1%BB%87%20v%E1%BB%9Bi%20doanh%20nghi%E1%BB%87p.md)
-- [Nơi hay gặp những người hay suy nghĩ đến cảnh tai nạn, ung thư, chết chóc](./N%C6%A1i%20hay%20g%E1%BA%B7p%20nh%E1%BB%AFng%20ng%C6%B0%E1%BB%9Di%20hay%20suy%20ngh%C4%A9%20%C4%91%E1%BA%BFn%20c%E1%BA%A3nh%20tai%20n%E1%BA%A1n,%20ung%20th%C6%B0,%20ch%E1%BA%BFt%20ch%C3%B3c.md)
+- [Những nơi giúp mở rộng mối quan hệ với doanh nghiệp](../../../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Ch%C3%ADnh%20s%C3%A1ch%20c%C3%B4ng%20ty/Nh%E1%BB%AFng%20n%C6%A1i%20gi%C3%BAp%20m%E1%BB%9F%20r%E1%BB%99ng%20m%E1%BB%91i%20quan%20h%E1%BB%87%20v%E1%BB%9Bi%20doanh%20nghi%E1%BB%87p.md)
+- [Cách để gặp được những người hay suy nghĩ đến cảnh tai nạn, ung thư, chết chóc](./C%C3%A1ch%20%C4%91%E1%BB%83%20g%E1%BA%B7p%20%C4%91%C6%B0%E1%BB%A3c%20nh%E1%BB%AFng%20ng%C6%B0%E1%BB%9Di%20hay%20suy%20ngh%C4%A9%20%C4%91%E1%BA%BFn%20c%E1%BA%A3nh%20tai%20n%E1%BA%A1n,%20ung%20th%C6%B0,%20ch%E1%BA%BFt%20ch%C3%B3c.md)
 
 ## Công việc 
 Kiểm tra [Giả thiết về tỉ lệ chuyển đổi](../../Gi%E1%BA%A3%20thi%E1%BA%BFt/Gi%E1%BA%A3%20thi%E1%BA%BFt%20v%E1%BB%81%20t%E1%BB%89%20l%E1%BB%87%20chuy%E1%BB%83n%20%C4%91%E1%BB%95i.md)
-[Xây dựng thương hiệu trên MXH](../../X%C3%A2y%20d%E1%BB%B1ng%20th%C6%B0%C6%A1ng%20hi%E1%BB%87u%20tr%C3%AAn%20MXH.md)
-Đến [Những nơi giúp mở rộng mối quan hệ với doanh nghiệp](../../Nh%E1%BB%AFng%20n%C6%A1i%20gi%C3%BAp%20m%E1%BB%9F%20r%E1%BB%99ng%20m%E1%BB%91i%20quan%20h%E1%BB%87%20v%E1%BB%9Bi%20doanh%20nghi%E1%BB%87p.md), 
-
+[Xây dựng thương hiệu trên MXH](../../../X%C3%A2y%20d%E1%BB%B1ng%20th%C6%B0%C6%A1ng%20hi%E1%BB%87u%20tr%C3%AAn%20MXH.md)
+Đến [Những nơi giúp mở rộng mối quan hệ với doanh nghiệp](../../../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Ch%C3%ADnh%20s%C3%A1ch%20c%C3%B4ng%20ty/Nh%E1%BB%AFng%20n%C6%A1i%20gi%C3%BAp%20m%E1%BB%9F%20r%E1%BB%99ng%20m%E1%BB%91i%20quan%20h%E1%BB%87%20v%E1%BB%9Bi%20doanh%20nghi%E1%BB%87p.md), 
+[Kế hoạch bán bảo hiểm cho cá nhân](../../K%E1%BA%BF%20ho%E1%BA%A1ch/K%E1%BA%BF%20ho%E1%BA%A1ch%20b%C3%A1n%20b%E1%BA%A3o%20hi%E1%BB%83m%20cho%20c%C3%A1%20nh%C3%A2n.md)
 ### Làm cho khách hàng tin mình
 Cam kết không khai thác cảm xúc của họ và tạo gánh nặng trong suy nghĩ, mà chỉ muốn nâng đỡ lý tính họ. Làm cho họ thấy mình không sợ họ từ chối, và kể cả từ chối thì mình vẫn sẵn sàng lắng nghe và đáp ứng các nhu cầu khác của họ.
-
 
 ### Quà tặng khi mua
 - Mạng lưới kết nối nhu cầu

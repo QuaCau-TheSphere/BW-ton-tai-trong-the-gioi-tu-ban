@@ -1,9 +1,9 @@
 ---
 share: true
 created: 2024-11-02T21:11
-updated: 2024-11-04T15:29
+updated: 2024-11-05T21:01
 ---
-Các cộng tác viên là những người sống trong [các môi trường hay làm ta suy nghĩ đến cảnh tai nạn, ung thư, chết chóc](./N%C6%A1i%20hay%20g%E1%BA%B7p%20nh%E1%BB%AFng%20ng%C6%B0%E1%BB%9Di%20hay%20suy%20ngh%C4%A9%20%C4%91%E1%BA%BFn%20c%E1%BA%A3nh%20tai%20n%E1%BA%A1n,%20ung%20th%C6%B0,%20ch%E1%BA%BFt%20ch%C3%B3c.md). Họ có thể là:
+Các cộng tác viên là những người sống trong [các môi trường hay làm ta suy nghĩ đến cảnh tai nạn, ung thư, chết chóc](./C%C3%A1ch%20%C4%91%E1%BB%83%20g%E1%BA%B7p%20%C4%91%C6%B0%E1%BB%A3c%20nh%E1%BB%AFng%20ng%C6%B0%E1%BB%9Di%20hay%20suy%20ngh%C4%A9%20%C4%91%E1%BA%BFn%20c%E1%BA%A3nh%20tai%20n%E1%BA%A1n,%20ung%20th%C6%B0,%20ch%E1%BA%BFt%20ch%C3%B3c.md). Họ có thể là:
 - Các công nhân, nhân viên của các nhà máy, xí nghiệp có các thiết bị dễ gây tai nạn, hoặc người dân sống xung quanh, hoặc người thân, bạn bè của họ
 - Những người làm trong các đơn vị chuyên xử lý rủi ro cho bên khác hoặc các khách hàng của họ
 - Nhân viên y tế
@@ -32,3 +32,4 @@ Người không quan tâm đến điều tốt cho người khác thì xem tiề
 Người quan tâm đến điều tốt cho người khác thì xem tiền là xấu, hoặc chỉ cần ở mức độ đủ để có sự thảnh thơi trong tâm trí
 
 [Cộng tác viên khuyết tật](./C%E1%BB%99ng%20t%C3%A1c%20vi%C3%AAn%20khuy%E1%BA%BFt%20t%E1%BA%ADt.md)
+[Khi nào thì việc đi bán bảo hiểm phù hợp với một người](../Tuy%E1%BB%83n%20d%E1%BB%A5ng/Khi%20n%C3%A0o%20th%C3%AC%20vi%E1%BB%87c%20%C4%91i%20b%C3%A1n%20b%E1%BA%A3o%20hi%E1%BB%83m%20ph%C3%B9%20h%E1%BB%A3p%20v%E1%BB%9Bi%20m%E1%BB%99t%20ng%C6%B0%E1%BB%9Di.md)
