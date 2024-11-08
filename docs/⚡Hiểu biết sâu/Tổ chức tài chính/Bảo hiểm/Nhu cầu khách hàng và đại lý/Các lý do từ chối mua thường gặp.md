@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-09-14T11:04
-updated: 2024-11-04T21:49
+updated: 2024-11-06T01:20
 alias: Lý do trì hoãn, lý do chưa muốn mua bảo hiểm, tại sao không mua
 ---
 ## Không cần
@@ -23,12 +23,16 @@ alias: Lý do trì hoãn, lý do chưa muốn mua bảo hiểm, tại sao không
 ## Không tiền
 > [!question] Tiền ăn chưa có lấy đâu ra
 > Thực ra mình chắc chắn sẽ không chết đói. Nếu người kiếm tiền chính trong nhà gặp rủi ro thì ai lo cho những người còn lại?
+> [Bộ não được thiết kế để loại bỏ mối nguy hiểm ngay bây giờ, không phải trong tương lai](../../../T%C3%A2m%20l%C3%BD%20h%E1%BB%8Dc%20qu%E1%BA%A3n%20l%C3%BD%20v%C3%A0%20lao%20%C4%91%E1%BB%99ng/S%E1%BA%AFp%20x%E1%BA%BFp%20%C4%91%E1%BB%99%20%C6%B0u%20ti%C3%AAn/S%E1%BB%B1%20tr%C3%AC%20ho%C3%A3n/B%E1%BB%99%20n%C3%A3o%20%C4%91%C6%B0%E1%BB%A3c%20thi%E1%BA%BFt%20k%E1%BA%BF%20%C4%91%E1%BB%83%20lo%E1%BA%A1i%20b%E1%BB%8F%20m%E1%BB%91i%20nguy%20hi%E1%BB%83m%20ngay%20b%C3%A2y%20gi%E1%BB%9D,%20kh%C3%B4ng%20ph%E1%BA%A3i%20trong%20t%C6%B0%C6%A1ng%20lai.md)
+> nghĩ giữa 2 tháng và 3 tháng
+> khi cần gấp 1 tỷ mà có ngay 500tr
+> tự động trích
 
 > [!question] Tiền dư đang dùng để kinh doanh nên không lấy ra được
 
 ## Không tin
 > [!question] Thủ tục phức tạp, bỏ vào dễ lấy ra khó
->Vậy vấn đề không phải là không tham gia bảo hiểm, mà là chọn bên nào không làm khó mình. [Các bên cung cấp dịch vụ phụ trợ bảo hiểm đảm bảo là doanh nghiệp bảo hiểm không làm khó mình để từ chối](../C%C3%B4ng%20ty,%20%C4%91%E1%BA%A1i%20l%C3%BD,%20h%E1%BB%A3p%20%C4%91%E1%BB%93ng/C%C3%A1c%20b%C3%AAn%20cung%20c%E1%BA%A5p%20d%E1%BB%8Bch%20v%E1%BB%A5%20ph%E1%BB%A5%20tr%E1%BB%A3%20b%E1%BA%A3o%20hi%E1%BB%83m%20%C4%91%E1%BA%A3m%20b%E1%BA%A3o%20l%C3%A0%20doanh%20nghi%E1%BB%87p%20b%E1%BA%A3o%20hi%E1%BB%83m%20kh%C3%B4ng%20l%C3%A0m%20kh%C3%B3%20m%C3%ACnh%20%C4%91%E1%BB%83%20t%E1%BB%AB%20ch%E1%BB%91i.md).
+> Vậy vấn đề không phải là không tham gia bảo hiểm, mà là chọn bên nào không làm khó mình. [Các bên cung cấp dịch vụ phụ trợ bảo hiểm đảm bảo là doanh nghiệp bảo hiểm không làm khó mình để từ chối](../C%C3%B4ng%20ty,%20%C4%91%E1%BA%A1i%20l%C3%BD,%20h%E1%BB%A3p%20%C4%91%E1%BB%93ng/C%C3%A1c%20b%C3%AAn%20cung%20c%E1%BA%A5p%20d%E1%BB%8Bch%20v%E1%BB%A5%20ph%E1%BB%A5%20tr%E1%BB%A3%20b%E1%BA%A3o%20hi%E1%BB%83m%20%C4%91%E1%BA%A3m%20b%E1%BA%A3o%20l%C3%A0%20doanh%20nghi%E1%BB%87p%20b%E1%BA%A3o%20hi%E1%BB%83m%20kh%C3%B4ng%20l%C3%A0m%20kh%C3%B3%20m%C3%ACnh%20%C4%91%E1%BB%83%20t%E1%BB%AB%20ch%E1%BB%91i.md).
 
 > [!question] Không có lời bằng việc đầu tư
 

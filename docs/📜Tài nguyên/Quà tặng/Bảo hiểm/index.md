@@ -3,7 +3,7 @@ share: true
 created: 2024-10-09T21:14
 alias: Tại sao nên mua bảo hiểm từ Quả Cầu?
 description: (1) Bọn mình đứng về người yếu thế, (2) Bọn mình chỉ muốn nâng đỡ lý tính bạn, (3) Bạn không phải trả tiền hoa hồng cho bọn mình, (4) Bạn sẽ được hướng dẫn những cách để xử lý hồ sơ có lợi nhất
-updated: 2024-11-03T21:34
+updated: 2024-11-08T21:58
 title: Bảo hiểm
 ---
 # Tại sao nên mua bảo hiểm từ Quả Cầu?
@@ -11,10 +11,10 @@ title: Bảo hiểm
 - Bọn mình chỉ muốn nâng đỡ lý tính bạn
 - Bạn không phải trả tiền hoa hồng cho bọn mình
 - Bạn sẽ được hướng dẫn những cách để xử lý hồ sơ có lợi nhất
-- Nếu mua combo thì sẽ được một buổi tư vấn, huấn luyện 1-1 theo nhu cầu của bạn
+- Các lợi ích khác
 
-## Bọn mình đứng về người yếu thế
-Bọn mình cần bạn mua bảo hiểm giúp bọn mình, vì đây bọn mình muốn [hỗ trợ chạy chỉ tiêu](../../../%F0%9F%93%90%20D%E1%BB%B1%20%C3%A1n/Ch%E1%BA%A1y%20ch%E1%BB%89%20ti%C3%AAu/L%E1%BB%9Di%20m%E1%BB%9Di%20tham%20gia%20nh%C3%B3m%20ch%E1%BA%A1y%20ch%E1%BB%89%20ti%C3%AAu%20cho%20nh%C3%A2n%20vi%C3%AAn.md) cho [những người còn đang mắc nợ](../../../%F0%9F%93%90%20D%E1%BB%B1%20%C3%A1n/Gi%C3%BAp%20nhau%20tho%C3%A1t%20n%E1%BB%A3/index.md). 
+## Bọn mình đứng về người yếu thế, và hướng tới sự phát triển bền vững
+Đó là những người xứng đáng có được cuộc sống tốt hơn. Bài chi tiết: [Giúp nhau thoát nợ](../../../%F0%9F%93%90%20D%E1%BB%B1%20%C3%A1n/Gi%C3%BAp%20nhau%20tho%C3%A1t%20n%E1%BB%A3/index.md). 
 
 ## Bọn mình chỉ muốn nâng đỡ lý tính bạn
 Vì [Bộ não được thiết kế để loại bỏ mối nguy hiểm ngay bây giờ, không phải trong tương lai](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/T%C3%A2m%20l%C3%BD%20h%E1%BB%8Dc%20qu%E1%BA%A3n%20l%C3%BD%20v%C3%A0%20lao%20%C4%91%E1%BB%99ng/S%E1%BA%AFp%20x%E1%BA%BFp%20%C4%91%E1%BB%99%20%C6%B0u%20ti%C3%AAn/S%E1%BB%B1%20tr%C3%AC%20ho%C3%A3n/B%E1%BB%99%20n%C3%A3o%20%C4%91%C6%B0%E1%BB%A3c%20thi%E1%BA%BFt%20k%E1%BA%BF%20%C4%91%E1%BB%83%20lo%E1%BA%A1i%20b%E1%BB%8F%20m%E1%BB%91i%20nguy%20hi%E1%BB%83m%20ngay%20b%C3%A2y%20gi%E1%BB%9D,%20kh%C3%B4ng%20ph%E1%BA%A3i%20trong%20t%C6%B0%C6%A1ng%20lai.md), nên [Làm cho một người thấy được tầm quan trọng của bảo hiểm giống như làm một người đang thấy việc hút thuốc là thú vị hiểu được tầm quan trọng của việc bỏ thuốc](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/T%E1%BB%95%20ch%E1%BB%A9c%20t%C3%A0i%20ch%C3%ADnh/B%E1%BA%A3o%20hi%E1%BB%83m/Nhu%20c%E1%BA%A7u%20kh%C3%A1ch%20h%C3%A0ng%20v%C3%A0%20%C4%91%E1%BA%A1i%20l%C3%BD/L%C3%A0m%20cho%20m%E1%BB%99t%20ng%C6%B0%E1%BB%9Di%20th%E1%BA%A5y%20%C4%91%C6%B0%E1%BB%A3c%20t%E1%BA%A7m%20quan%20tr%E1%BB%8Dng%20c%E1%BB%A7a%20b%E1%BA%A3o%20hi%E1%BB%83m%20gi%E1%BB%91ng%20nh%C6%B0%20l%C3%A0m%20m%E1%BB%99t%20ng%C6%B0%E1%BB%9Di%20%C4%91ang%20th%E1%BA%A5y%20vi%E1%BB%87c%20h%C3%BAt%20thu%E1%BB%91c%20l%C3%A0%20th%C3%BA%20v%E1%BB%8B%20hi%E1%BB%83u%20%C4%91%C6%B0%E1%BB%A3c%20t%E1%BA%A7m%20quan%20tr%E1%BB%8Dng%20c%E1%BB%A7a%20vi%E1%BB%87c%20b%E1%BB%8F%20thu%E1%BB%91c.md). Cách làm việc của bọn mình rất đơn giản: bọn mình sẽ hỏi bạn [các câu hỏi để hiểu được những rủi ro trong cuộc sống của bạn](../../../%F0%9F%93%90%20D%E1%BB%B1%20%C3%A1n/Ch%E1%BA%A1y%20ch%E1%BB%89%20ti%C3%AAu/B%E1%BA%A3o%20hi%E1%BB%83m/Nghi%C3%AAn%20c%E1%BB%A9u%20ng%C6%B0%E1%BB%9Di%20d%C3%B9ng/X%C3%A1c%20%C4%91%E1%BB%8Bnh%20c%C3%A1c%20r%E1%BB%A7i%20ro%20v%C3%A0%20th%C3%A1i%20%C4%91%E1%BB%99%20%C4%91%E1%BB%91i%20v%E1%BB%9Bi%20r%E1%BB%A7i%20ro%20v%C3%A0%20b%E1%BA%A3o%20hi%E1%BB%83m%20%E1%BB%9F%20ng%C6%B0%E1%BB%9Di%20d%C3%A2n.md). Bạn cũng có thể nghĩ về chúng ngay bây giờ. Với những người nhận ra bảo hiểm cần thiết cho mình, thì bọn mình sẽ giới thiệu giải pháp cho bạn. Thực chất đây là đang là dự án nâng cao nhận thức về rủi ro trong cuộc sống.
@@ -51,9 +51,13 @@ Bạn có thể thắc mắc bán lỗ như vậy thì sống sao. Câu trả l�
 ## Bạn sẽ được hướng dẫn những cách để xử lý hồ sơ có lợi nhất
 Có những trường hợp nếu bạn biết cách khai báo rủi ro bạn sẽ được lợi hơn. Bọn mình sẽ tư vấn cách làm điều đó.
 
-## Nếu mua combo thì sẽ được một buổi tư vấn, huấn luyện 1-1 theo nhu cầu của bạn
-- Một buổi xem lá số tử vi trị giá 10 tr, hoặc
-- Một buổi hướng dẫn công cụ hoặc kỹ năng để đáp ứng các nhu cầu công việc của bạn, để bạn có thể biết được thứ mình cần dù không biết chính xác từ khoá của nó
+## Các lợi ích khác
+Nếu bạn mua combo thì bạn sẽ được:
+- Một buổi xem lá số tử vi trị giá 10 tr,
+- Mạng lưới kết nối nhu cầu
+- Các hệ thống tri thức để bạn có thể biết được thứ mình cần dù không biết chính xác từ khoá của nó
+- [Các buổi đáp ứng nhu cầu đáp ứng nhu cầu công việc và nhu cầu công nghệ](https://doi-thoai.deno.dev/cac-buoi-dap-ung-nhu-cau-hoc-cach-su-dung-cong-cu-va-tu-duy-lap-trinh-cho-nhu-cau-ca-nhan-hoac-nghien-cuu.59.3)
 
 Các buổi này sẽ nói đến khi bạn muốn ngừng thì thôi. Nếu bạn không cần có thể chuyển quyền lợi này cho người khác.
 
+Bạn cũng có thể cân nhắc [tham gia nhóm chạy chỉ tiêu cho nhân viên](../../../%F0%9F%93%90%20D%E1%BB%B1%20%C3%A1n/Ch%E1%BA%A1y%20ch%E1%BB%89%20ti%C3%AAu/L%E1%BB%9Di%20m%E1%BB%9Di%20tham%20gia%20nh%C3%B3m%20ch%E1%BA%A1y%20ch%E1%BB%89%20ti%C3%AAu%20cho%20nh%C3%A2n%20vi%C3%AAn.md)
