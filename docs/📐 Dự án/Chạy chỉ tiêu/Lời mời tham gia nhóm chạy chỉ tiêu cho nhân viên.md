@@ -1,11 +1,14 @@
 ---
 share: true
 created: 2024-09-27T13:00
-updated: 2024-11-08T22:01
+updated: 2024-11-08T22:25
 ---
 Nhân viên bán hàng của các công ty thường được áp đặt chỉ tiêu (KPI). Khi các công ty, tập đoàn đặt việc tối đa hoá lợi nhuận lên hàng đầu, [họ sẽ thấy việc trả lương là đã đủ để nhân viên phải cống hiến cho mình](../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%C4%90%E1%BA%A1o%20%C4%91%E1%BB%A9c,%20ph%C3%A1p%20lu%E1%BA%ADt.%20Ch%E1%BB%A7%20ngh%C4%A9a%20t%C3%A2n%20t%E1%BB%B1%20do/C%C3%B4ng%20ty%20th%E1%BA%A5y%20vi%E1%BB%87c%20tr%E1%BA%A3%20l%C6%B0%C6%A1ng%20l%C3%A0%20%C4%91%C3%A3%20%C4%91%E1%BB%A7%20%C4%91%E1%BB%83%20nh%C3%A2n%20vi%C3%AAn%20ph%E1%BA%A3i%20c%E1%BB%91ng%20hi%E1%BA%BFn%20cho%20m%C3%ACnh.md), và áp đặt các chỉ tiêu (KPI) hằng tháng, và dùng hoa hồng để tạo động lực. Bởi vì, [việc khai thác điểm yếu của con người đem lại lợi nhuận](../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%C4%90%E1%BA%A1o%20%C4%91%E1%BB%A9c,%20ph%C3%A1p%20lu%E1%BA%ADt.%20Ch%E1%BB%A7%20ngh%C4%A9a%20t%C3%A2n%20t%E1%BB%B1%20do/Vi%E1%BB%87c%20khai%20th%C3%A1c%20%C4%91i%E1%BB%83m%20y%E1%BA%BFu%20c%E1%BB%A7a%20con%20ng%C6%B0%E1%BB%9Di%20%C4%91em%20l%E1%BA%A1i%20l%E1%BB%A3i%20nhu%E1%BA%ADn.md), nên các nhân viên bán hàng được đào tạo với các tình huống khác nhau để gỡ bỏ sự từ chối. Nên để kiếm được đồng tiền, họ không còn cách nào khác là từ bỏ vai trò là người nâng đỡ suy nghĩ lý tính của khách hàng nữa, mà chỉ còn [giao diện giọng nói của một cái máy hơn là một con người thật](../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%C4%90%E1%BA%A1o%20%C4%91%E1%BB%A9c,%20ph%C3%A1p%20lu%E1%BA%ADt.%20Ch%E1%BB%A7%20ngh%C4%A9a%20t%C3%A2n%20t%E1%BB%B1%20do/Ng%C6%B0%E1%BB%9Di%20b%C3%A1n%20h%C3%A0ng%20gi%E1%BB%91ng%20nh%C6%B0%20giao%20di%E1%BB%87n%20gi%E1%BB%8Dng%20n%C3%B3i%20c%E1%BB%A7a%20m%E1%BB%99t%20c%C3%A1i%20m%C3%A1y%20h%C6%A1n%20l%C3%A0%20m%E1%BB%99t%20con%20ng%C6%B0%E1%BB%9Di%20th%E1%BA%ADt.md). Và họ phải xem điều mình làm [là giọt mồ hôi quý giá, là ý nghĩa của việc lao động](../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%C4%90%E1%BA%A1o%20%C4%91%E1%BB%A9c,%20ph%C3%A1p%20lu%E1%BA%ADt.%20Ch%E1%BB%A7%20ngh%C4%A9a%20t%C3%A2n%20t%E1%BB%B1%20do/C%E1%BA%A3m%20x%C3%BAc/B%C3%A1n%20h%C3%A0ng%20b%E1%BA%B1ng%20s%E1%BB%B1%20s%E1%BB%A3%20h%C3%A3i,%20nh%C6%B0ng%20l%E1%BA%A1i%20xem%20%C4%91%C3%B3%20l%C3%A0%20gi%E1%BB%8Dt%20m%E1%BB%93%20h%C3%B4i%20qu%C3%BD%20gi%C3%A1.md).
 
-Để giải quyết vấn đề cho cả khách hàng và nhân viên, nhóm chạy chỉ tiêu cho nhân viên này sẽ cung cấp các kiến thức, nguồn lực để việc kiếm tiền đỡ phải chật vật hơn. Nhóm cam kết không khai thác cảm xúc của bạn và tạo gánh nặng trong việc xử lý thông tin, mà chỉ muốn nâng đỡ suy nghĩ lý tính của bạn, để lựa chọn của bạn là lựa chọn bạn thấy thực sự hữu ích. Bọn mình không sợ bạn từ chối, và vẫn sẵn sàng lắng nghe và đáp ứng các nhu cầu khác của bạn. Vì bản chất nhóm này đã được sinh ra từ việc đó.
+Để giải quyết vấn đề cho cả khách hàng và nhân viên, bọn mình sẽ:
+- Đứng về phía người yếu thế
+- Cung cấp các kiến thức, nguồn lực để việc kiếm tiền đỡ phải chật vật hơn. Xây dựng hệ thống thông tin để hạn chế tình trạng bát nháo, ém thông tin nhất có thể
+- [Kế hoạch](./index.md) công khai nhất có thể
 
 Nhóm này có thể có nhiều cái tên khác nhau:
 - Nhóm chạy chỉ tiêu (KPI) cho nhân viên
@@ -14,15 +17,14 @@ Nhóm này có thể có nhiều cái tên khác nhau:
 - Nhóm nhân viên ảo
 - Nhóm môi giới cho khách hàng
 
+Nhóm cam kết không khai thác cảm xúc của bạn và tạo gánh nặng trong việc xử lý thông tin, mà chỉ muốn nâng đỡ suy nghĩ lý tính của bạn, để lựa chọn của bạn là lựa chọn bạn thấy thực sự hữu ích. Bọn mình không sợ bạn từ chối, và vẫn sẵn sàng lắng nghe và đáp ứng các nhu cầu khác của bạn. Vì bản chất nhóm này đã được sinh ra từ việc đó.
+
 ## Bạn có thể giúp gì? 
 - Cho bọn mình biết điểm bạn thấy khó hiểu hoặc không hợp lý để bọn mình giải thích tốt hơn hoặc chỉnh sửa
-- Mua ủng hộ bọn mình nếu sản phẩm đáp ứng nhu cầu  của bạn. Bài chi tiết: [Tại sao nên mua bảo hiểm từ Quả Cầu?](../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Qu%C3%A0%20t%E1%BA%B7ng/B%E1%BA%A3o%20hi%E1%BB%83m/index.md)
-- Trở thành một người bạn với những người xung quanh bạn, và xem nhu cầu của họ có phù hợp với những gì bọn mình có hay không
-
-## Khác biệt với các hội nhóm giúp nhau khác thế nào?
-- Không tập trung vào một nhu cầu
-- Xây dựng hệ thống thông tin liên quan tới việc kiếm tiền, hạn chế tình trạng bát nháo, ém thông tin nhất có thể
-- [Kế hoạch](./index.md) công khai nhất có thể
+- Mua sản phẩm nếu chúng đáp ứng nhu cầu của bạn. Bài chi tiết: [Tại sao nên mua bảo hiểm từ Quả Cầu?](../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Qu%C3%A0%20t%E1%BA%B7ng/B%E1%BA%A3o%20hi%E1%BB%83m/index.md)
+- Trở thành một người bạn với những người xung quanh, lắng nghe những nhu cầu của họ rồi xem chúng có phù hợp với Quả Cầu hay không
+- Tìm người cần kiếm việc làm và xem việc [Làm đại lý bảo hiểm ảo](../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/%C3%9D%20t%C6%B0%E1%BB%9Fng%20ki%E1%BA%BFm%20ti%E1%BB%81n/3%20%C3%9D%20t%C6%B0%E1%BB%9Fng/C%C3%B4ng%20vi%E1%BB%87c%20th%E1%BB%9Di%20v%E1%BB%A5,%20c%E1%BB%99ng%20t%C3%A1c%20vi%C3%AAn/Cho%20nh%C3%A2n%20vi%C3%AAn,%20%C4%91%E1%BA%A1i%20l%C3%BD/L%C3%A0m%20%C4%91%E1%BA%A1i%20l%C3%BD%20b%E1%BA%A3o%20hi%E1%BB%83m%20%E1%BA%A3o.md) có phù hợp cho họ không
+- Tham gia xây dựng để hệ thống thông tin được hoàn thiện hơn
 
 ## Bạn được gì khi tham gia?
 - Mạng lưới kết nối nhu cầu
