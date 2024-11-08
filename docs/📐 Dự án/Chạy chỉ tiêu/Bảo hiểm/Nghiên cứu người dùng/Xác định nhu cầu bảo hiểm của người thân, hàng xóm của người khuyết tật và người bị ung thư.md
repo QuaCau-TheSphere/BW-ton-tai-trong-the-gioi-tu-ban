@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-10-31T20:22
-updated: 2024-11-05T20:23
+updated: 2024-11-05T23:26
 ---
 ## Giả thiết
 - hay suy nghĩ về vấn đề giảm thiểu rủi ro
@@ -14,7 +14,6 @@ updated: 2024-11-05T20:23
 ## Câu hỏi phỏng vấn
 ### Khi nói về khuyết tật thì bạn nghĩ về những gì? 
 ### Bạn nghĩ cuộc sống của người khuyết tật sẽ như thế nào? 
-### Nếu một ngày bạn
 ### Bạn thấy mình đang có những loại rủi ro nào? Tác hại với bạn khi xảy ra là thế nào?
 
 ### Trong số những rủi ro đó cái nào bạn thấy tác hại vượt qua ngưỡng chịu đựng được của mình? Bạn sẽ làm gì trong lúc đó?
@@ -30,3 +29,5 @@ updated: 2024-11-05T20:23
 ### Bạn có nghĩ mua bảo hiểm là tốt cho bạn không?
 
 ### Bạn đã có bảo hiểm chưa? Nếu chưa thì điều gì khiến bạn chưa mua bảo hiểm?
+
+### Ngoài ra bạn còn thấy có những ai
