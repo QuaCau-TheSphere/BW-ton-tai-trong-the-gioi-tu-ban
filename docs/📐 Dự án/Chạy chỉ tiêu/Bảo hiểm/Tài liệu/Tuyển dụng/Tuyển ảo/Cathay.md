@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-09-12T22:39
-updated: 2024-10-16T22:34
+updated: 2024-11-06T11:10
 ---
 Tiền công: 
 - Học: 2tr (trả vào ngày trả tiền của tháng làm việc đầu tiên)
@@ -13,7 +13,7 @@ Yêu cầu:
 - Hưởng ứng các hoạt động của công ty khi đi làm (VD: tập thể dục buổi sáng)
 
 Ghi chú:
-- T2 và t4 có thể cần ở lại đến 13, 14h chiều để học
+- T2 và t4 có thể cần ở lại đến 14h chiều để học
 - Sau 3 tháng thì không ai chạy cho nữa
 - Đi học cả ngày, không được coi điện thoại
 
@@ -24,3 +24,5 @@ Xem thêm:: [New Star](../../../../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Ch%C
 
 Tham khảo:: [Tuyển dụng](../index.md), [Làm đại lý bảo hiểm ảo](../../../../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/%C3%9D%20t%C6%B0%E1%BB%9Fng%20ki%E1%BA%BFm%20ti%E1%BB%81n/3%20%C3%9D%20t%C6%B0%E1%BB%9Fng/C%C3%B4ng%20vi%E1%BB%87c%20th%E1%BB%9Di%20v%E1%BB%A5,%20c%E1%BB%99ng%20t%C3%A1c%20vi%C3%AAn/Cho%20nh%C3%A2n%20vi%C3%AAn,%20%C4%91%E1%BA%A1i%20l%C3%BD/L%C3%A0m%20%C4%91%E1%BA%A1i%20l%C3%BD%20b%E1%BA%A3o%20hi%E1%BB%83m%20%E1%BA%A3o.md), [Kiếm khách](../../Ki%E1%BA%BFm%20kh%C3%A1ch/index.md)
 [Kế hoạch tuyển người mới, tìm nguồn tuyển dụng](../../../K%E1%BA%BF%20ho%E1%BA%A1ch/K%E1%BA%BF%20ho%E1%BA%A1ch%20tuy%E1%BB%83n%20ng%C6%B0%E1%BB%9Di%20m%E1%BB%9Bi,%20t%C3%ACm%20ngu%E1%BB%93n%20tuy%E1%BB%83n%20d%E1%BB%A5ng.md)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rMHMd7s8XQI?si=4ekxgFnTmyx8la6x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
