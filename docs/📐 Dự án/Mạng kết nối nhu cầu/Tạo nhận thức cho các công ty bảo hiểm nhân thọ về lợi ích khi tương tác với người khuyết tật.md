@@ -1,8 +1,9 @@
 ---
 share: true
 created: 2024-11-09T00:04
-updated: 2024-11-09T15:57
+updated: 2024-11-09T16:15
 ---
+# Tạo nhận thức cho các công ty bảo hiểm nhân thọ về lợi ích khi tương tác với người khuyết tật
 > [''Mong muốn lớn nhất của một người là được thấy mình có ích''](https://www.drdvietnam.org/vi/tin-bon-phuong/18874-mong-muon-lon-nhat-cua-mot-nguoi-la-duoc-thay-minh-co-ich.html) 
 > — Võ Hoàng Yến
 
@@ -26,9 +27,9 @@ Các công ty bảo hiểm hay có các sự kiện để thu hút khách hàng 
 - Các đại lý sẽ dễ đạt chỉ tiêu vì sẽ có thêm nguồn khách hàng và cộng tác viên tiềm năng
 - Việc xây dựng hình ảnh hoà nhập sẽ giúp làm bớt những kỳ thị về bảo hiểm, tăng thêm sự ủng hộ của khách hàng
 
-Những việc này có thể bắt đầu bằng việc chia sẻ các sự kiện của các công ty này đến với cộng đồng NKT. Mọi người nghĩ sao?
+Những việc này có thể bắt đầu bằng việc chia sẻ các sự kiện của các công ty này đến với cộng đồng NKT. Mọi người nghĩ sao về ý tưởng này?
 
-
+---
 Có thể bằng việc giảm áp lực doanh số với NKT
 Tại sao việc tạo điều kiện hỗ trợ NKT đi làm đem lại nhiều lợi ích hơn là làm từ thiện
 
