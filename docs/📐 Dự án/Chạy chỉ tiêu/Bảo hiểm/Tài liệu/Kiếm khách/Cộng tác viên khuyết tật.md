@@ -1,9 +1,8 @@
 ---
 share: true
 created: 2024-11-04T15:09
-updated: 2024-11-08T14:46
+updated: 2024-11-09T14:16
 ---
-
 # Người khuyết tật đi bán bảo hiểm thì có vấn đề gì không? 
 Lấy bảo hiểm nhân thọ làm ví dụ. Ý tưởng cơ bản của nó là nếu mình gặp tai nạn dẫn tới thương tật vĩnh viễn, hoặc bị ung thư, hoặc chết thì mình và người thân của mình sẽ được trả một số tiền lớn. Em thấy đây là một loại dịch vụ có ích cho con người. Đứng ở góc nhìn cho NKT một công việc tốt và thúc đẩy sự đa dạng thì em thấy không có lý do gì để NKT không nên đi bán bảo hiểm. Chưa kể, chính sự khuyết tật của họ cũng trở thành lợi thế, khi khách hàng tiềm năng thấy được hệ quả của rủi ro rõ ràng và sinh động hơn, từ đó thấy việc mua cần thiết hơn. Nếu họ không muốn chạy doanh số thì họ có thể làm cộng tác viên cũng được. Em nghĩ các tổ chức hỗ trợ NKT cũng có thể dùng việc bán bảo hiểm để gây quỹ.
 
@@ -48,7 +47,7 @@ Khác biệt với các hội khuyết tật khác là gì?
 Lý do dẫn đến khuyết tật là gì? Tỉ lệ bao nhiêu?
 Các sản phẩm bảo hiểm nhân thọ đều có khoản chi trả khi người được bảo hiểm bị thương tật vĩnh viễn. 
 
+[Tạo nhận thức cho các công ty bảo hiểm nhân thọ về tuyển dụng NKT](../../../../M%E1%BA%A1ng%20k%E1%BA%BFt%20n%E1%BB%91i%20nhu%20c%E1%BA%A7u/T%E1%BA%A1o%20nh%E1%BA%ADn%20th%E1%BB%A9c%20cho%20c%C3%A1c%20c%C3%B4ng%20ty%20b%E1%BA%A3o%20hi%E1%BB%83m%20nh%C3%A2n%20th%E1%BB%8D%20v%E1%BB%81%20tuy%E1%BB%83n%20d%E1%BB%A5ng%20NKT.md) 
 [Làm sao để một người thấy giá trị của Cathay](../../../../M%E1%BA%A1ng%20k%E1%BA%BFt%20n%E1%BB%91i%20nhu%20c%E1%BA%A7u/L%C3%A0m%20sao%20%C4%91%E1%BB%83%20m%E1%BB%99t%20ng%C6%B0%E1%BB%9Di%20th%E1%BA%A5y%20gi%C3%A1%20tr%E1%BB%8B%20c%E1%BB%A7a%20Cathay.md)
 
 
-[''Mong muốn lớn nhất của một người là được thấy mình có ích''](https://www.drdvietnam.org/vi/tin-bon-phuong/18874-mong-muon-lon-nhat-cua-mot-nguoi-la-duoc-thay-minh-co-ich.html)
