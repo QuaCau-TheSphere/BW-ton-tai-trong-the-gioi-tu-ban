@@ -3,23 +3,29 @@ share: true
 title: Kendy cần gì?
 description: Cần giảm áp lực trả nợ, tạo dòng tiền, xây dựng hệ thống quản lý, giảm tiền cho các nhu cầu
 created: 2023-09-05T16:17
-updated: 2024-11-04T23:49
+updated: 2024-11-10T21:51
 alias:
   - Trí cần gì?
 ---
 Cảm ơn bạn đã quan tâm tới Kendy. Thực ra bọn mình nghĩ việc góp tiền cũng làm khó khăn cho bạn, và về lâu dài cũng không bền vững. Trừ phi bạn có thể cho mượn một số tiền lớn với kỳ hạn dài, còn không thì chỉ nên quyên góp vào những thời điểm bí bách.
 
 Đây là những thứ Kendy cần:
-# Giảm áp lực trả nợ
+## Giảm áp lực trả nợ
+|
+- 1.2tr, ngày 27.11 cho hôm nay truoc
+- 2.2tr cho 2 hđ của anh vs hà
+- 1.3tr tiền lãi TNEX 15.11
+- tiền điện nước quản lý 1.5tr 15.11
+- tiền nhà  5.5tr 15.11
 - [Huy động nguồn tiền nhàn rỗi](../C%C3%B4ng%20vi%E1%BB%87c/Huy%20%C4%91%E1%BB%99ng%20ngu%E1%BB%93n%20ti%E1%BB%81n%20nh%C3%A0n%20r%E1%BB%97i.md)
-- [Tìm nguồn cho mượn 100tr qua đêm, sáng hôm sau trả lại, liên tục vài tháng](../C%C3%B4ng%20vi%E1%BB%87c/T%C3%ACm%20ngu%E1%BB%93n%20cho%20m%C6%B0%E1%BB%A3n%20100tr%20qua%20%C4%91%C3%AAm,%20s%C3%A1ng%20h%C3%B4m%20sau%20tr%E1%BA%A3%20l%E1%BA%A1i,%20li%C3%AAn%20t%E1%BB%A5c%20v%C3%A0i%20th%C3%A1ng.md)
 - [Thương lượng với chủ nợ](../C%C3%B4ng%20vi%E1%BB%87c/Th%C6%B0%C6%A1ng%20l%C6%B0%E1%BB%A3ng%20v%E1%BB%9Bi%20ch%E1%BB%A7%20n%E1%BB%A3.md)
+- [Tìm nguồn cho mượn 100tr qua đêm, sáng hôm sau trả lại, liên tục vài tháng](../C%C3%B4ng%20vi%E1%BB%87c/T%C3%ACm%20ngu%E1%BB%93n%20cho%20m%C6%B0%E1%BB%A3n%20100tr%20qua%20%C4%91%C3%AAm,%20s%C3%A1ng%20h%C3%B4m%20sau%20tr%E1%BA%A3%20l%E1%BA%A1i,%20li%C3%AAn%20t%E1%BB%A5c%20v%C3%A0i%20th%C3%A1ng.md)
 - [Đứng ra vay giùm](../C%C3%B4ng%20vi%E1%BB%87c/%C4%90%E1%BB%A9ng%20ra%20vay%20gi%C3%B9m.md)
 
-# Tạo dòng tiền
+## Tạo dòng tiền
 Bài chi tiết:: [Kiếm tiền từ các hoạt động của Quả Cầu](T%E1%BA%A1o%20sinh%20k%E1%BA%BF,%20thu%20nh%E1%BA%ADp,%20d%C3%B2ng%20ti%E1%BB%81n.md#Đầu%20tư,%20kinh%20doanh,%20bán%20hàng)
 
-# Xây dựng hệ thống quản lý
+## Xây dựng hệ thống quản lý
 Trấn Kỳ được sinh ra là để giúp Kendy nắm được các hạn trả nợ. Đây là phản hồi của khách hàng đầu tiên:
 
 > script này là 1 phần trong lộ trình xử lý nợ, nên anh thừa biết nó quan trọng ntn đối vs bản thân em, dù ở ngoài nhìn vào nó đơn giản chỉ là ghi chú chi tiêu, nhưng nó giảm áp lực khá nhiều khi e dần bản lĩnh nhìn vào từng con số, vì nó luôn layon trên cái calendar nên em fai đối mặt thay vì sợ nó như trước
@@ -32,13 +38,13 @@ Hệ thống quản lý hiện nay của Kendy là Fibery. Kendy rất đau đ�
 - [ ] Truy cập nhanh: có nút để vào kênh mình cần ngay ở ngoài chứ không phải bấm thêm nút nào nữa.
 %%❓Vẫn vào kênh Obsidian được mà%%
 
-# Giảm tiền cho các nhu cầu sống khác
+## Giảm tiền cho các nhu cầu sống khác
 - **Ăn:** Lượng thức ăn bỏ phí trong thành phố là rất lớn, đặc biệt là ở các tiệc cưới. Có FoodShare là tổ chức giúp giảm bớt sự lãng phí này
 - **Ở:** Nhà trọ hiện tại không được thông gió dù cũng có cửa sổ. Nếu dọn về quê thì cũng không có điều kiện để kiếm tiền
 - **Nuôi con:** 
 - **Y tế:** Cần tìm người có kiến thức y học để có thể lên một chế độ dinh dưỡng phù hợp
 
-# Những vấn đề khác khiến việc giúp đỡ trở nên khó khăn
+## Những vấn đề khác khiến việc giúp đỡ trở nên khó khăn
 Liên quan đến chuyện tiền bạc:
 - Không chịu mất tín dụng ngân hàng vì sau này khó làm ăn
 - Không muốn ngồi bàn vì cần tiền trong tay hơn là những lời hứa cho tương lai

@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-10-01T19:38
-updated: 2024-10-11T14:53
+updated: 2024-11-09T21:52
 alias: Câu hỏi thu thập ý kiến
 description: Về việc tổ chức các buổi workshop đáp ứng nhu cầu các tổ chức và hỗ trợ kiếm khách hàng tiềm năng cho người bán hàng
 ---
@@ -27,7 +27,7 @@ Sẽ có nhiều cách gọi tên cho ý tưởng này:
 - Với người bán hàng: nhóm chạy chỉ tiêu cho nhân viên
 - Với người tham gia workshop:
 
-[Giả thiết về nguồn tuyển dụng](../Gi%E1%BA%A3%20thi%E1%BA%BFt/B%E1%BA%A3o%20hi%E1%BB%83m/Gi%E1%BA%A3%20thi%E1%BA%BFt%20v%E1%BB%81%20ngu%E1%BB%93n%20tuy%E1%BB%83n%20d%E1%BB%A5ng.md)
-[Tuyển dụng](../T%C3%A0i%20li%E1%BB%87u/Tuy%E1%BB%83n%20d%E1%BB%A5ng/index.md)
-[Xác định những cách mà người quản lý làm để tăng lòng trung thành của nhân viên](./X%C3%A1c%20%C4%91%E1%BB%8Bnh%20nh%E1%BB%AFng%20c%C3%A1ch%20m%C3%A0%20ng%C6%B0%E1%BB%9Di%20qu%E1%BA%A3n%20l%C3%BD%20l%C3%A0m%20%C4%91%E1%BB%83%20t%C4%83ng%20l%C3%B2ng%20trung%20th%C3%A0nh%20c%E1%BB%A7a%20nh%C3%A2n%20vi%C3%AAn.md)
+[Giả thiết về nguồn tuyển dụng](../Ch%E1%BA%A1y%20ch%E1%BB%89%20ti%C3%AAu/B%E1%BA%A3o%20hi%E1%BB%83m/Gi%E1%BA%A3%20thi%E1%BA%BFt/Gi%E1%BA%A3%20thi%E1%BA%BFt%20v%E1%BB%81%20ngu%E1%BB%93n%20tuy%E1%BB%83n%20d%E1%BB%A5ng.md)
+[Tuyển dụng](../Ch%E1%BA%A1y%20ch%E1%BB%89%20ti%C3%AAu/B%E1%BA%A3o%20hi%E1%BB%83m/T%C3%A0i%20li%E1%BB%87u/Tuy%E1%BB%83n%20d%E1%BB%A5ng/index.md)
+[Xác định những cách mà người quản lý làm để tăng lòng trung thành của nhân viên](../Ch%E1%BA%A1y%20ch%E1%BB%89%20ti%C3%AAu/B%E1%BA%A3o%20hi%E1%BB%83m/Nghi%C3%AAn%20c%E1%BB%A9u%20ng%C6%B0%E1%BB%9Di%20d%C3%B9ng/X%C3%A1c%20%C4%91%E1%BB%8Bnh%20nh%E1%BB%AFng%20c%C3%A1ch%20m%C3%A0%20ng%C6%B0%E1%BB%9Di%20qu%E1%BA%A3n%20l%C3%BD%20l%C3%A0m%20%C4%91%E1%BB%83%20t%C4%83ng%20l%C3%B2ng%20trung%20th%C3%A0nh%20c%E1%BB%A7a%20nh%C3%A2n%20vi%C3%AAn.md)
 

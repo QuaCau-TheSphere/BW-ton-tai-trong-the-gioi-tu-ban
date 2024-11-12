@@ -1,9 +1,8 @@
 ---
 share: true
 created: 2024-11-09T00:04
-updated: 2024-11-09T16:15
+updated: 2024-11-09T21:52
 ---
-# Tạo nhận thức cho các công ty bảo hiểm nhân thọ về lợi ích khi tương tác với người khuyết tật
 > [''Mong muốn lớn nhất của một người là được thấy mình có ích''](https://www.drdvietnam.org/vi/tin-bon-phuong/18874-mong-muon-lon-nhat-cua-mot-nguoi-la-duoc-thay-minh-co-ich.html) 
 > — Võ Hoàng Yến
 
@@ -27,7 +26,11 @@ Các công ty bảo hiểm hay có các sự kiện để thu hút khách hàng 
 - Các đại lý sẽ dễ đạt chỉ tiêu vì sẽ có thêm nguồn khách hàng và cộng tác viên tiềm năng
 - Việc xây dựng hình ảnh hoà nhập sẽ giúp làm bớt những kỳ thị về bảo hiểm, tăng thêm sự ủng hộ của khách hàng
 
-Những việc này có thể bắt đầu bằng việc chia sẻ các sự kiện của các công ty này đến với cộng đồng NKT. Mọi người nghĩ sao về ý tưởng này?
+Những việc này có thể bắt đầu bằng việc:
+- Chia sẻ các sự kiện của các công ty này đến với cộng đồng NKT, mời gọi NKT đăng ký
+- Kêu gọi các công ty bảo hiểm tổ chức các buổi chia sẻ "Là người khuyết tật thì như thế nào?" 
+
+Mọi người nghĩ sao về ý tưởng này?
 
 ---
 Có thể bằng việc giảm áp lực doanh số với NKT
@@ -41,9 +44,5 @@ https://www.dearourcommunity.com/ngayhoivieclam
 
 https://www.cathayholdings.com/holdings/-/media/d76fb3a02de3443b8a4bf3c14c6c21ae.pdf?v=1;hash=4F0FD2F55073066091B9CBEAD42B7B7A395BFA00&sc_lang=en
 
-
-
 [Tỉ lệ khuyết tật của người 16 tuổi trở lên là 5.59% ở thành thị, 8.36% ở nông thôn](../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Ph%C3%A1t%20tri%E1%BB%83n%20b%E1%BB%81n%20v%E1%BB%AFng/H%E1%BB%97%20tr%E1%BB%A3%20ng%C6%B0%E1%BB%9Di%20y%E1%BA%BFu%20th%E1%BA%BF/Ng%C6%B0%E1%BB%9Di%20khuy%E1%BA%BFt%20t%E1%BA%ADt/T%E1%BB%89%20l%E1%BB%87%20khuy%E1%BA%BFt%20t%E1%BA%ADt%20c%E1%BB%A7a%20ng%C6%B0%E1%BB%9Di%2016%20tu%E1%BB%95i%20tr%E1%BB%9F%20l%C3%AAn%20l%C3%A0%205.59%25%20%E1%BB%9F%20th%C3%A0nh%20th%E1%BB%8B,%208.36%25%20%E1%BB%9F%20n%C3%B4ng%20th%C3%B4n.md). Văn phòng mình có 30 người, tức là có 1.67 người là NKT
-
-
 [Hoạt động xã hội /Cathay's Social activities - YouTube](https://www.youtube.com/playlist?list=PL4WT9IMyiqKxMKAcIFkYL1MeLdu-GSFc9)
