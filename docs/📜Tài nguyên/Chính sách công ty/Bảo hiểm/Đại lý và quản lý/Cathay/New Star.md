@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-09-30T21:24
-updated: 2024-11-04T21:40
+updated: 2024-11-10T17:16
 ---
 Mỗi sáng t2 đến t6:
 - 8h30 – 11h: tập thể dục buổi sáng, cập nhật các chính sách công ty, tuyên dương người có hợp đồng mới, nhắc nhở người chưa đạt chỉ tiêu, ghi nhật ký hoạt động
@@ -22,4 +22,4 @@ Trả tiền chậm 1 tháng. 04/09 thực tập → 27/11 mới nhận lương 
 Phải trả tiền mua vé xem phim. Nếu họ nghỉ 
 ## Thưởng 
 Tháng đầu tiên đạt 200% doanh số 
-[TUM](./TUM.md)
+[NS, SE, SA chỉ là đại lý, nhưng TUM là trở thành nhân viên](./NS,%20SE,%20SA%20ch%E1%BB%89%20l%C3%A0%20%C4%91%E1%BA%A1i%20l%C3%BD,%20nh%C6%B0ng%20TUM%20l%C3%A0%20tr%E1%BB%9F%20th%C3%A0nh%20nh%C3%A2n%20vi%C3%AAn.md)
