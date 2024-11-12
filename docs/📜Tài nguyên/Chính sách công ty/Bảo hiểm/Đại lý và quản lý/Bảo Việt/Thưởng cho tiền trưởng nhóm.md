@@ -1,10 +1,10 @@
 ---
 share: true
 created: 2024-10-12T09:02
-updated: 2024-11-05T10:23
+updated: 2024-11-12T09:44
 ---
 ## Tuyển luyện
-200% của thưởng TVV mới: cứ 1 người được 1 tr thì mình được 2 tr
+200% của thưởng TVV mới trong 3 tháng mdx a: cứ 1 người được 1 tr thì mình được 2 tr
 ## Quản lý hoạt động
 15% trên tổng hoa hồng của TVV
 3 tháng đầu
@@ -17,7 +17,7 @@ updated: 2024-11-05T10:23
 | Thưởng                  | 8     | 8   | 8   | 5   | 5   | 6   |
 
 ## Quà mừng thăng tiến
-
+ddddddddddd
 
 ## Điều kiện lên trưởng nhóm
 Tuyển dụng thì không giới hạn thời gian, 
