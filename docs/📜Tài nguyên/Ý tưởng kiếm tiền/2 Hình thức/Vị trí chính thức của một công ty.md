@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2024-08-27T14:39
+updated: 2024-11-12T20:58
 ---
 
 Nếu cần Nhật có thể [Làm nhân viên ảo](../3%20%C3%9D%20t%C6%B0%E1%BB%9Fng/C%C3%B4ng%20vi%E1%BB%87c%20th%E1%BB%9Di%20v%E1%BB%A5,%20c%E1%BB%99ng%20t%C3%A1c%20vi%C3%AAn/Cho%20nh%C3%A2n%20vi%C3%AAn,%20%C4%91%E1%BA%A1i%20l%C3%BD/L%C3%A0m%20nh%C3%A2n%20vi%C3%AAn%20%E1%BA%A3o.md) trong công ty, còn bạn thì làm những công việc công ty giao cho Nhật. Có thể CV của Nhật sẽ giúp tăng khả năng nhận được việc.
