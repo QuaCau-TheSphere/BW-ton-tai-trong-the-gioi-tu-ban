@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-10-30T14:21
-updated: 2024-11-09T20:45
+updated: 2024-11-12T15:14
 ---
 ## [Câu hỏi thu thập ý kiến về việc tổ chức các buổi workshop đáp ứng nhu cầu các tổ chức và hỗ trợ kiếm khách hàng tiềm năng cho người bán hàng](../../M%E1%BA%A1ng%20k%E1%BA%BFt%20n%E1%BB%91i%20nhu%20c%E1%BA%A7u/C%C3%A2u%20h%E1%BB%8Fi%20thu%20th%E1%BA%ADp%20%C3%BD%20ki%E1%BA%BFn%20v%E1%BB%81%20vi%E1%BB%87c%20t%E1%BB%95%20ch%E1%BB%A9c%20c%C3%A1c%20bu%E1%BB%95i%20workshop%20%C4%91%C3%A1p%20%E1%BB%A9ng%20nhu%20c%E1%BA%A7u%20c%C3%A1c%20t%E1%BB%95%20ch%E1%BB%A9c%20v%C3%A0%20h%E1%BB%97%20tr%E1%BB%A3%20ki%E1%BA%BFm%20kh%C3%A1ch%20h%C3%A0ng%20ti%E1%BB%81m%20n%C4%83ng%20cho%20ng%C6%B0%E1%BB%9Di%20b%C3%A1n%20h%C3%A0ng.md)
 ### SNPO
@@ -61,6 +61,7 @@ Thịnh từ bỏ quyền quản trị page
 ### CỘNG ĐỒNG TƯ VẤN BẢO HIỂM XANH
 [06-11-2024](06-11-2024.md) 13:00 https://www.facebook.com/groups/1364880117350651/my_pending_content
 [08-11-2024](08-11-2024.md) từ chối
+
 ### GROUP ĐẠI LÝ BẢO HIỂM CHUYÊN NGHIỆP
 [06-11-2024](06-11-2024.md) 13:06 https://www.facebook.com/groups/groupdailybaohiemchuyennghiep/posts/-c%C3%A1ch-%C4%91%E1%BB%83-g%E1%BA%B7p-%C4%91%C6%B0%E1%BB%A3c-nh%E1%BB%AFng-ng%C6%B0%E1%BB%9Di-hay-suy-ngh%C4%A9-%C4%91%E1%BA%BFn-c%E1%BA%A3nh-tai-n%E1%BA%A1n-ung-th%C6%B0-ch%E1%BA%BFt-ch%C3%B3cb%E1%BA%A3o/1140270210785326/
 
@@ -68,3 +69,5 @@ Thịnh từ bỏ quyền quản trị page
 ### Page Quả Cầu
 [09-11-2024](09-11-2024.md)
 14:07 1 share
+
+[12-11-2024](12-11-2024.md) bị nhóm Xoá rào cản ban. [Đinh Thuý Vy](https://www.facebook.com/Vydt.98) block
