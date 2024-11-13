@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-08-13T17:17
-updated: 2024-11-03T13:26
+updated: 2024-11-12T21:05
 ---
 Loại dịch vụ:: [App vay nóng không cần điểm tín dụng](./index.md)
 
@@ -18,6 +18,8 @@ Lần 3:
         Thời gian: 30 ngày
         Số tiền: 1tr
 ```
+
+
 
 Cái gọi là "Số tiền đã giải ngân" phải gọi là "Số tiền cần thanh toán". Nó là tiền gốc + tiền lãi mình cần trả, chứ ko phải là số tiền nó đưa mình. Cái gọi là "Gia hạn" là đang trả góp vào số tiền cần thanh toán đó.
 
