@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-09-14T23:01
-updated: 2024-11-11T15:21
+updated: 2024-11-12T19:50
 ---
 Khái niệm:: 
 
@@ -15,7 +15,8 @@ Nguồn::
 - [ ] Nhi thì có vấn đề gì mà không được mua? Chị Hà biết em cũng toàn chạy ảo rồi sao nữa? 
 - [ ] Nếu không được thưởng do cái này thì bị thiệt sang tháng sau thế nào? 
 - [ ] có những người gì đã giúp em? 
-
+Xem là partner mà lại ko muốn hiểu gì về anh? 
+Tại sao lại sợ người khác bị ảnh hưởng đến vậy, trong khi người ta đã nói là ko sao
   
 Bên ngoài vui vẻ nhưng vẫn có những  
   
