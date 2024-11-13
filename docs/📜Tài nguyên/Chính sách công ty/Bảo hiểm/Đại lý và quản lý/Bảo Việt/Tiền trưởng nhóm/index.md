@@ -1,11 +1,11 @@
 ---
 share: true
 created: 2024-10-12T09:02
-updated: 2024-11-12T11:10
+updated: 2024-11-13T18:18
 title: Tiền trưởng nhóm
 ---
 ## [Tuyển luyện](./Trong%203%20th%C3%A1ng%20%C4%91%E1%BA%A7u,%20ti%E1%BB%81n%20tr%C6%B0%E1%BB%9Fng%20nh%C3%B3m%20%C4%91%C6%B0%E1%BB%A3c%20th%C6%B0%E1%BB%9Fng%20g%E1%BA%A5p%20%C4%91%C3%B4i%20s%E1%BB%91%20th%C6%B0%E1%BB%9Fng%20cho%20t%C6%B0%20v%E1%BA%A5n%20vi%C3%AAn.md)
-## [Quản lý hoạt động](./Trong%203%20th%C3%A1ng%20%C4%91%E1%BA%A7u,%20ti%E1%BB%81n%20tr%C6%B0%E1%BB%9Fng%20nh%C3%B3m%20%C4%91%C6%B0%E1%BB%A3c%2015%25%20tr%C3%AAn%20t%E1%BB%95ng%20hoa%20h%E1%BB%93ng%20c%E1%BB%A7a%20t%C6%B0%20v%E1%BA%A5n%20vi%C3%AAn.md)
+## [Quản lý hoạt động](./Trong%203%20th%C3%A1ng%20%C4%91%E1%BA%A7u,%20ti%E1%BB%81n%20tr%C6%B0%E1%BB%9Fng%20nh%C3%B3m%20%C4%91%C6%B0%E1%BB%A3c%2015%20tr%C3%AAn%20t%E1%BB%95ng%20hoa%20h%E1%BB%93ng%20c%E1%BB%A7a%20t%C6%B0%20v%E1%BA%A5n%20vi%C3%AAn.md)
 ## Quản lý khởi nghiệp
 | Tháng                   | 1     | 2   | 3   | 4   | 5   | 6   |
 | ----------------------- | ----- | --- | --- | --- | --- | --- |
