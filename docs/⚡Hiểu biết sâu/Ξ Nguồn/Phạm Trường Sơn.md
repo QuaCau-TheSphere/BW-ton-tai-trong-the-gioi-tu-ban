@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2024-11-10T21:11
+updated: 2024-11-15T16:20
 ---
 ## Mục tiêu nghiên cứu
 1. Hiểu được lý do vì sao không tương tác với [Câu hỏi thu thập ý kiến về việc tổ chức các buổi workshop đáp ứng nhu cầu các tổ chức và hỗ trợ kiếm khách hàng tiềm năng cho người bán hàng](../../%F0%9F%93%90%20D%E1%BB%B1%20%C3%A1n/M%E1%BA%A1ng%20k%E1%BA%BFt%20n%E1%BB%91i%20nhu%20c%E1%BA%A7u/C%C3%A2u%20h%E1%BB%8Fi%20thu%20th%E1%BA%ADp%20%C3%BD%20ki%E1%BA%BFn%20v%E1%BB%81%20vi%E1%BB%87c%20t%E1%BB%95%20ch%E1%BB%A9c%20c%C3%A1c%20bu%E1%BB%95i%20workshop%20%C4%91%C3%A1p%20%E1%BB%A9ng%20nhu%20c%E1%BA%A7u%20c%C3%A1c%20t%E1%BB%95%20ch%E1%BB%A9c%20v%C3%A0%20h%E1%BB%97%20tr%E1%BB%A3%20ki%E1%BA%BFm%20kh%C3%A1ch%20h%C3%A0ng%20ti%E1%BB%81m%20n%C4%83ng%20cho%20ng%C6%B0%E1%BB%9Di%20b%C3%A1n%20h%C3%A0ng.md)
@@ -42,7 +42,7 @@ Giờ thì khoẻ, ổng mới mệt.
 Nghèo đa chiều, ko phải là VN không ai chết đói, chỉ là nghèo đa chiều.
 Ba anh còn từng đưa người nghèo ra nước ngoài. Hát ko phải là vui, vì đó là cách giải quyết của họ. Ko tiếp cận được yoga, chánh niệm. Người làng mai chưa chắc là giàu. 
 làm với người nghèo kinh doanh ko đc đâu
-[Ngân hàng Chính sách xã hội cũng là từ thiện](../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/C%C3%A1c%20d%E1%BB%8Bch%20v%E1%BB%A5%20cho%20vay/V%C3%AC%20ng%C6%B0%E1%BB%9Di%20y%E1%BA%BFu%20th%E1%BA%BF/Ng%C3%A2n%20h%C3%A0ng%20Ch%C3%ADnh%20s%C3%A1ch%20x%C3%A3%20h%E1%BB%99i%20c%C5%A9ng%20l%C3%A0%20t%E1%BB%AB%20thi%E1%BB%87n.md), ko có sao kê. Chỉ có VN mới có mặt trận tổ quốc xã hội. nghị định 93 thiên tai bão lũ, khẩn cấp thì phải giao về mặt trận tổ quốc
+[Vì người yếu thế](../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/C%C3%A1c%20d%E1%BB%8Bch%20v%E1%BB%A5%20cho%20vay/V%C3%AC%20ng%C6%B0%E1%BB%9Di%20y%E1%BA%BFu%20th%E1%BA%BF/index.md), ko có sao kê. Chỉ có VN mới có mặt trận tổ quốc xã hội. nghị định 93 thiên tai bão lũ, khẩn cấp thì phải giao về mặt trận tổ quốc
 Người mượn quỹ CEP 
 
 Nếu họ có bằng đại học và trên 26 tuổi thì càng tốt. Nếu họ không muốn đi bán hợp đồng thì họ sẽ được đẩy hợp đồng xuống và được trả thù lao 10 tr/tháng. Cơ bản thì đây là một hình thức tuyển dụng đại lý ảo đã có từ lâu và em thấy có lợi cho tất cả các bên. Qua thảo luận thì em thấy những người có tiềm năng tham gia nhất là những người nghèo. Anh nghĩ sao về điều này?
@@ -82,9 +82,9 @@ SNPO không tổ chức gì nữa, mọi người tự liên kết với nhau, d
 
 - [Các tổ chức tôn giáo không có sứ mệnh phát triển cộng đồng, chỉ có sứ mệnh thương người](../Ph%C3%A1t%20tri%E1%BB%83n%20b%E1%BB%81n%20v%E1%BB%AFng/H%E1%BB%97%20tr%E1%BB%A3%20ng%C6%B0%E1%BB%9Di%20y%E1%BA%BFu%20th%E1%BA%BF/C%C3%A1c%20t%E1%BB%95%20ch%E1%BB%A9c%20t%C3%B4n%20gi%C3%A1o%20kh%C3%B4ng%20c%C3%B3%20s%E1%BB%A9%20m%E1%BB%87nh%20ph%C3%A1t%20tri%E1%BB%83n%20c%E1%BB%99ng%20%C4%91%E1%BB%93ng,%20ch%E1%BB%89%20c%C3%B3%20s%E1%BB%A9%20m%E1%BB%87nh%20th%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%9Di.md)
 - [Không có tổ chức nào có đối tượng thụ hưởng là người đang nợ](../Ph%C3%A1t%20tri%E1%BB%83n%20b%E1%BB%81n%20v%E1%BB%AFng/H%E1%BB%97%20tr%E1%BB%A3%20ng%C6%B0%E1%BB%9Di%20y%E1%BA%BFu%20th%E1%BA%BF/Kh%C3%B4ng%20c%C3%B3%20t%E1%BB%95%20ch%E1%BB%A9c%20n%C3%A0o%20c%C3%B3%20%C4%91%E1%BB%91i%20t%C6%B0%E1%BB%A3ng%20th%E1%BB%A5%20h%C6%B0%E1%BB%9Fng%20l%C3%A0%20ng%C6%B0%E1%BB%9Di%20%C4%91ang%20n%E1%BB%A3.md)
-- [Các câu hỏi về việc thành lập quỹ tín dụng và bản chất CSR của doanh nghiệp](../Ph%C3%A1t%20tri%E1%BB%83n%20b%E1%BB%81n%20v%E1%BB%AFng/H%E1%BB%97%20tr%E1%BB%A3%20ng%C6%B0%E1%BB%9Di%20y%E1%BA%BFu%20th%E1%BA%BF/T%C3%A0i%20ch%C3%ADnh%20vi%20m%C3%B4/C%C3%A1c%20c%C3%A2u%20h%E1%BB%8Fi%20v%E1%BB%81%20vi%E1%BB%87c%20th%C3%A0nh%20l%E1%BA%ADp%20qu%E1%BB%B9%20t%C3%ADn%20d%E1%BB%A5ng%20v%C3%A0%20b%E1%BA%A3n%20ch%E1%BA%A5t%20CSR%20c%E1%BB%A7a%20doanh%20nghi%E1%BB%87p.md)
 - [Luật pháp chỉ hiểu về kinh doanh, chứ không phải là phi lợi nhuận. Chính thức hoá khi lập quỹ là chết với luật tín dụng](../Ph%C3%A1t%20tri%E1%BB%83n%20b%E1%BB%81n%20v%E1%BB%AFng/H%E1%BB%97%20tr%E1%BB%A3%20ng%C6%B0%E1%BB%9Di%20y%E1%BA%BFu%20th%E1%BA%BF/T%C3%A0i%20ch%C3%ADnh%20vi%20m%C3%B4/Lu%E1%BA%ADt%20ph%C3%A1p%20ch%E1%BB%89%20hi%E1%BB%83u%20v%E1%BB%81%20kinh%20doanh,%20ch%E1%BB%A9%20kh%C3%B4ng%20ph%E1%BA%A3i%20l%C3%A0%20phi%20l%E1%BB%A3i%20nhu%E1%BA%ADn.%20Ch%C3%ADnh%20th%E1%BB%A9c%20ho%C3%A1%20khi%20l%E1%BA%ADp%20qu%E1%BB%B9%20l%C3%A0%20ch%E1%BA%BFt%20v%E1%BB%9Bi%20lu%E1%BA%ADt%20t%C3%ADn%20d%E1%BB%A5ng.md)
 - [❓Chính phủ không nên làm các chương trình hỗ trợ người lao động](../Ph%C3%A1t%20tri%E1%BB%83n%20b%E1%BB%81n%20v%E1%BB%AFng/H%E1%BB%97%20tr%E1%BB%A3%20ng%C6%B0%E1%BB%9Di%20y%E1%BA%BFu%20th%E1%BA%BF/T%C3%A0i%20ch%C3%ADnh%20vi%20m%C3%B4/%E2%9D%93Ch%C3%ADnh%20ph%E1%BB%A7%20kh%C3%B4ng%20n%C3%AAn%20l%C3%A0m%20c%C3%A1c%20ch%C6%B0%C6%A1ng%20tr%C3%ACnh%20h%E1%BB%97%20tr%E1%BB%A3%20ng%C6%B0%E1%BB%9Di%20lao%20%C4%91%E1%BB%99ng.md)
+- [Các câu hỏi về việc thành lập quỹ tín dụng và bản chất CSR của doanh nghiệp](../Ph%C3%A1t%20tri%E1%BB%83n%20b%E1%BB%81n%20v%E1%BB%AFng/H%E1%BB%97%20tr%E1%BB%A3%20ng%C6%B0%E1%BB%9Di%20y%E1%BA%BFu%20th%E1%BA%BF/T%C3%A0i%20ch%C3%ADnh%20vi%20m%C3%B4/C%C3%A1c%20c%C3%A2u%20h%E1%BB%8Fi%20v%E1%BB%81%20vi%E1%BB%87c%20th%C3%A0nh%20l%E1%BA%ADp%20qu%E1%BB%B9%20t%C3%ADn%20d%E1%BB%A5ng%20v%C3%A0%20b%E1%BA%A3n%20ch%E1%BA%A5t%20CSR%20c%E1%BB%A7a%20doanh%20nghi%E1%BB%87p.md)
 - [Doanh nhân chỉ biết kiếm tiền](../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Ni%E1%BB%81m%20tin,%20di%E1%BB%85n%20ng%C3%B4n/Ti%E1%BB%81n/Doanh%20nh%C3%A2n%20ch%E1%BB%89%20bi%E1%BA%BFt%20ki%E1%BA%BFm%20ti%E1%BB%81n.md)
 
 
