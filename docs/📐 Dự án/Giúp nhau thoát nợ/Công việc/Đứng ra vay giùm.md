@@ -1,10 +1,10 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2024-08-28T14:06
+updated: 2024-11-15T16:20
 ---
 Tốn thời gian nhất là cứ phải làm kyc, nhập thông tin địa chỉ thủ công. Đã nhập rồi nhưng vẫn cứ phải làm lại
-[App vay nóng không cần điểm tín dụng](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/C%C3%A1c%20d%E1%BB%8Bch%20v%E1%BB%A5%20cho%20vay/App%20vay%20n%C3%B3ng%20kh%C3%B4ng%20c%E1%BA%A7n%20%C4%91i%E1%BB%83m%20t%C3%ADn%20d%E1%BB%A5ng/index.md)
+[App vay nóng](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/C%C3%A1c%20d%E1%BB%8Bch%20v%E1%BB%A5%20cho%20vay/App%20vay%20n%C3%B3ng/index.md)
 
 %% 
 Đỗ Hàng Minh Trí: 0378 303 123
