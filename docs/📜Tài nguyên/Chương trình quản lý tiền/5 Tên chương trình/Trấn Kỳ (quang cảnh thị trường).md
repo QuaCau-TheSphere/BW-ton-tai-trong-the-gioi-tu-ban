@@ -26,7 +26,7 @@ Loại chương trình: [Chương trình phân loại dữ liệu tự động](
 
 Làm sao để đưa VNPAY vào luồng hoạt động của cửa hàng?: https://doi-thoai.deno.dev/VNPAY.discordQC#c2.1
 
-Xem thêm:: [Trấn Kỳ](../../../%F0%9F%93%90%20D%E1%BB%B1%20%C3%A1n/Tr%E1%BA%A5n%20K%E1%BB%B3/index.md)
+Xem thêm:: [Trấn Kỳ](../../../%F0%9F%93%90%20D%E1%BB%B1%20%C3%A1n/T%E1%BB%B1%20%C4%91%E1%BB%99ng%20ho%C3%A1/Tr%E1%BA%A5n%20K%E1%BB%B3/index.md)
 
 ## Nơi thảo luận
 ![](https://i.imgur.com/TDK2yri.png)
