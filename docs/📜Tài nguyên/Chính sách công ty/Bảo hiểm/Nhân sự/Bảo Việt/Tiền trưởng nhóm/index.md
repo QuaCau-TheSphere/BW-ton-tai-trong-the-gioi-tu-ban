@@ -1,19 +1,40 @@
 ---
 share: true
 created: 2024-10-12T09:02
-updated: 2024-11-13T18:18
+updated: 2024-11-19T10:11
 title: Tiền trưởng nhóm
 ---
+Chỉ tiêu thăng tiến:
+- Thâm niên: 3 tháng
+- Tuyển dụng: 4 TVV mới
+- Số lượng TVV mới HĐC: 2
+- FYP: 100tr
+không bao gồm cá nhân tiền trưởng nhóm 
+
+Giả sử tiền trưởng nhóm A có
+
+|       | Tháng 10 | Tháng  11 |
+| ----- | -------- | --------- |
+| TVV1  | 0        | 12        | 
+| TVV 2 | 12       | 12        |
+| TVV 3 | 12       | 0         |
+
+4 lượt HĐC
+Tháng 10: 2 lượt
+Tháng 11: 1 lượt
+
+Chỉ đếm lần đầu tiên 
+
 ## [Tuyển luyện](./Trong%203%20th%C3%A1ng%20%C4%91%E1%BA%A7u,%20ti%E1%BB%81n%20tr%C6%B0%E1%BB%9Fng%20nh%C3%B3m%20%C4%91%C6%B0%E1%BB%A3c%20th%C6%B0%E1%BB%9Fng%20g%E1%BA%A5p%20%C4%91%C3%B4i%20s%E1%BB%91%20th%C6%B0%E1%BB%9Fng%20cho%20t%C6%B0%20v%E1%BA%A5n%20vi%C3%AAn.md)
 ## [Quản lý hoạt động](./Trong%203%20th%C3%A1ng%20%C4%91%E1%BA%A7u,%20ti%E1%BB%81n%20tr%C6%B0%E1%BB%9Fng%20nh%C3%B3m%20%C4%91%C6%B0%E1%BB%A3c%2015%20tr%C3%AAn%20t%E1%BB%95ng%20hoa%20h%E1%BB%93ng%20c%E1%BB%A7a%20t%C6%B0%20v%E1%BA%A5n%20vi%C3%AAn.md)
 ## Quản lý khởi nghiệp
-| Tháng                   | 1     | 2   | 3   | 4   | 5   | 6   |
-| ----------------------- | ----- | --- | --- | --- | --- | --- |
-| Số lượng TVV tuyển được | 2     | 3   | 4   | 5   | 6   | 6   |
-| Số lượng TVV đạt 12 tr  | 1     | 2   | 2   | 3   | 3   | 3   |
-| Tổng FYP                | 25 tr | 35  | 45  | 45  | 50  | 50  |
-| Thưởng                  | 8     | 8   | 8   | 5   | 5   | 6   |
-
+| Tháng                          | 1     | 2   | 3   | 4   | 5   | 6   |
+| ------------------------------ | ----- | --- | --- | --- | --- | --- |
+| Số lượng TVV tuyển được        | 2     | 3   | 4   | 5   | 6   | 6   |
+| Số lượng TVV HĐC               | 1     | 2   | 2   | 3   | 3   | 3   |
+| Doanh thu toàn nhóm (Tổng FYP) | 25 tr | 35  | 45  | 45  | 50  | 50  |
+| Thưởng                         | 10    | 10  | 8   | 5   | 5   | 6   |
+[Số lượng tuyển được cao lắm là 50%](../../../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/M%C3%B4%20h%C3%ACnh%20nh%C3%A2n%20s%E1%BB%B1/%C4%90%E1%BA%A1i%20l%C3%BD,%20l%C6%B0%C6%A1ng%20kho%C3%A1n,%20KPI/S%E1%BB%91%20l%C6%B0%E1%BB%A3ng%20tuy%E1%BB%83n%20%C4%91%C6%B0%E1%BB%A3c%20cao%20l%E1%BA%AFm%20l%C3%A0%2050%25.md)
 ## Quà mừng thăng tiến
 
 
