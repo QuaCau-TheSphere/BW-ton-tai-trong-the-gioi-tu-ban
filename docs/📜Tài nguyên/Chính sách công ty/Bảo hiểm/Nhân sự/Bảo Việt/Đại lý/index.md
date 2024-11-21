@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-10-11T10:51
-updated: 2024-11-12T09:44
+updated: 2024-11-19T10:32
 alias: thưởng tvv
 title: Đại lý
 ---
@@ -26,6 +26,8 @@ Thành công sớm phát triển bền
 100 tr FYP hoặc 5 tháng hoạt động chuẩn
 Được đồng phục, áo, vest
 
+## Đi Thái Lan (Thành công sớm phát triển bền)
+- 
 ## Ưu đãi vay vốn của ngân hàng Bảo Việt 
 Có tài sản đảm bảo:
 - 6.5%/năm trong 12 tháng đầu
