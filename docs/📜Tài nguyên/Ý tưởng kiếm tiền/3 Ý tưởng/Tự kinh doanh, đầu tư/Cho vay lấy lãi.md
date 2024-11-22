@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2024-11-02T14:09
+updated: 2024-11-22T13:59
 ---
 Yêu cầu đầu vào:: [Vốn](../../1%20Y%C3%AAu%20c%E1%BA%A7u%20%C4%91%E1%BA%A7u%20v%C3%A0o/V%E1%BB%91n.md)
 Hình thức:: [Tự kinh doanh, đầu tư](../../2%20H%C3%ACnh%20th%E1%BB%A9c/T%E1%BB%B1%20kinh%20doanh,%20%C4%91%E1%BA%A7u%20t%C6%B0.md)
@@ -21,6 +21,6 @@ Hình thức:: [Tự kinh doanh, đầu tư](../../2%20H%C3%ACnh%20th%E1%BB%A9c/
 
 ### Ăn chênh lệch
 - [Đứng ra vay giùm](../../../../%F0%9F%93%90%20D%E1%BB%B1%20%C3%A1n/Gi%C3%BAp%20nhau%20tho%C3%A1t%20n%E1%BB%A3/C%C3%B4ng%20vi%E1%BB%87c/%C4%90%E1%BB%A9ng%20ra%20vay%20gi%C3%B9m.md)
-- [Huy động nguồn tiền nhàn rỗi](../../../../%F0%9F%93%90%20D%E1%BB%B1%20%C3%A1n/Gi%C3%BAp%20nhau%20tho%C3%A1t%20n%E1%BB%A3/C%C3%B4ng%20vi%E1%BB%87c/Huy%20%C4%91%E1%BB%99ng%20ngu%E1%BB%93n%20ti%E1%BB%81n%20nh%C3%A0n%20r%E1%BB%97i.md)
+- [Huy động nguồn tiền nhàn rỗi. Lập quỹ tín dụng](../../../../%F0%9F%93%90%20D%E1%BB%B1%20%C3%A1n/Gi%C3%BAp%20nhau%20tho%C3%A1t%20n%E1%BB%A3/C%C3%B4ng%20vi%E1%BB%87c/Huy%20%C4%91%E1%BB%99ng%20ngu%E1%BB%93n%20ti%E1%BB%81n%20nh%C3%A0n%20r%E1%BB%97i.%20L%E1%BA%ADp%20qu%E1%BB%B9%20t%C3%ADn%20d%E1%BB%A5ng.md)
 
 [Cho vay theo nhóm đảm bảo không bị quịt hơn](../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/T%E1%BB%95%20ch%E1%BB%A9c%20t%C3%A0i%20ch%C3%ADnh/Vay%20ti%E1%BB%81n/Cho%20vay%20theo%20nh%C3%B3m%20%C4%91%E1%BA%A3m%20b%E1%BA%A3o%20kh%C3%B4ng%20b%E1%BB%8B%20qu%E1%BB%8Bt%20h%C6%A1n.md)
