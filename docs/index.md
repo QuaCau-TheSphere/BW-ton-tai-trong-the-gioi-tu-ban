@@ -26,3 +26,5 @@ Nếu cản thì chắc chắn không cản được. Cái đói vẫn ở đó.
 Mệt mỏi với việc giấu nghề
 
 Nền kinh tế vừa đủ
+
+Những mệnh đề nghe có vẻ hợp lý, mà ngay cả những người đã có hiểu biết rồi cũng có thể nhất thời không nghĩ ra, hoặc lo sợ việc nói ra sẽ làm mình không an toàn. 
