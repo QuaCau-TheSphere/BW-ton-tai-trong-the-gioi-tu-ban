@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-11-02T00:57
-updated: 2024-12-04T12:27
+updated: 2024-12-04T12:37
 alias: được và mất
 ---
 ## Lý do muốn giúp
@@ -64,10 +64,10 @@ VD:
 - [Nhất định phải giữ điểm tín dụng với ngân hàng cho bằng được](../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Ni%E1%BB%81m%20tin,%20di%E1%BB%85n%20ng%C3%B4n/Ti%E1%BB%81n/B%E1%BA%B1ng%20m%E1%BB%8Di%20gi%C3%A1%20ph%E1%BA%A3i%20gi%E1%BB%AF%20%C4%91i%E1%BB%83m%20t%C3%ADn%20d%E1%BB%A5ng%20cho%20s%E1%BA%A1ch.md)
 - Phải vào quán nước cho đàng hoàng chứ không ngồi ngoài đường hoặc công viên được
 - [Vẫn muốn sinh con khi đang nợ](../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Ni%E1%BB%81m%20tin,%20di%E1%BB%85n%20ng%C3%B4n/Cu%E1%BB%99c%20s%E1%BB%91ng/Kh%C3%B4ng%20nu%C3%B4i%20%C4%91%C6%B0%E1%BB%A3c%20con%20th%C3%AC%20%C4%91%E1%BB%ABng%20sinh%20con.md)
-- Khi hỏi tới thì cứ nói để sau
 
 ❓Ở quê tệ như thế nào?
 ❓Khi nào thì việc tôn trọng người khác bằng việc giữ hình ảnh bản thân là cần thiết?
+❓Khi nào thì một người từ chối nhưng vẫn sẵn sàng để mình thảo luận tiếp?
 
 ### Thấy không có mình họ vẫn xoay sở được
 - Phần khó khăn hơn họ đã làm được khi không có mình, thì sao lần này lại cần mình?
@@ -76,20 +76,20 @@ VD:
 - Mục tiêu là giúp con người cụ thể này, hay mục tiêu là để không ai phải có hoàn cảnh như thế này? Mỗi ngày có cả trăm người chết vì nợ. Thêm một người nữa thì khác gì?
 - Vay đầu này đắp đầu kia là không ổn, mà cần dứt điểm trả hết lãi. 
 - Thấy việc gõ cửa hỏi từng người không bằng làm được thứ khiến họ muốn giúp mình
-
-Thay vì giúp cá nhân thì sao ko cho các nhóm lớn
-Lúc đó sẽ bị trách là chỉ nghĩ cho bản thân, hoặc nhân danh
+- [Khi được hỏi về những điều này thì cứ nói là để giải thích sau, giờ phải tập trung vào cái quan trọng hơn](./C%C3%B3%20nh%E1%BB%AFng%20l%C3%BAc%20c%C3%A2u%20h%E1%BB%8Fi%20ch%E1%BA%A5t%20v%E1%BA%A5n%20th%C3%AC%20ng%C6%B0%E1%BB%9Di%20%C4%91%C6%B0%E1%BB%A3c%20gi%C3%BAp%20l%E1%BA%A1i%20ch%E1%BB%89%20tr%E1%BA%A3%20l%E1%BB%9Di%20nh%E1%BB%AFng%20c%C3%A2u%20h%E1%BB%8D%20th%E1%BA%A5y%20quan%20tr%E1%BB%8Dng%20h%C6%A1n.%20M%C3%A0%20th%E1%BA%A5y%20b%E1%BB%8B%20v%E1%BA%ADy%20th%C3%AC%20l%E1%BA%A1i%20d%E1%BB%85%20nghi%20h%E1%BB%8D.md)
 
 ❓Bắt đầu làm từ cái nhỏ, cái xung quanh mình tới cái vĩ mô, cái trừu tượng
     - Điều đó chỉ đúng khi cái nhỏ không cản trở cái lớn. Trong việc này thì nó cho thấy mình chỉ có sự ngắn hạn chứ không phải dài hạn
-    
+    ❓Thế nào là hiểu biết
 
 [Việt Nam không ai chết đói, chỉ có nghèo đa chiều](../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Ph%C3%A1t%20tri%E1%BB%83n%20b%E1%BB%81n%20v%E1%BB%AFng/H%E1%BB%97%20tr%E1%BB%A3%20ng%C6%B0%E1%BB%9Di%20y%E1%BA%BFu%20th%E1%BA%BF/Ng%C6%B0%E1%BB%9Di%20ngh%C3%A8o/Vi%E1%BB%87t%20Nam%20kh%C3%B4ng%20ai%20ch%E1%BA%BFt%20%C4%91%C3%B3i,%20ch%E1%BB%89%20c%C3%B3%20ngh%C3%A8o%20%C4%91a%20chi%E1%BB%81u.md)
 
 **Những lập luận dùng để tự an ủi khi không giúp họ:**
-- Cứng rắn từ chối giúp khi thấy Có cố gắng thì cũng thất bại. Thà buông sớm để họ từ bỏ hy vọng còn tốt cho họ hơn. 
-- 
+- Thà buông sớm để họ từ bỏ hy vọng còn tốt cho họ hơn. Nhiều khi cần phải biết cứng rắn
 
 ## Quan điểm của người được giúp
 - Chịu ảnh hưởng của chủ nghĩa tân tự do 
 - Chửi ngược lại mình
+
+Lúc đó sẽ bị trách là chỉ nghĩ cho bản thân, hoặc nhân danh
+Thay vì giúp cá nhân thì sao ko cho các nhóm lớn
