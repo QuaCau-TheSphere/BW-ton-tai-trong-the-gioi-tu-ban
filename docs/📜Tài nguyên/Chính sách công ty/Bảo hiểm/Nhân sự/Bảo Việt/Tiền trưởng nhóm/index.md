@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-10-12T09:02
-updated: 2024-11-19T10:11
+updated: 2024-12-03T14:08
 title: Tiền trưởng nhóm
 ---
 Chỉ tiêu thăng tiến:
@@ -41,6 +41,8 @@ Chỉ đếm lần đầu tiên
 ## Điều kiện lên trưởng nhóm
 Tuyển dụng thì không giới hạn thời gian, 
 ## Thi đua
+### 12/2024
+Đăng ký tham gia được 3tr
 ### Tháng 11
 ### Phát triển mạnh
 | Số lượng TVVm HĐC xét thăng tiến TN | Thưởng | Δ   |
