@@ -1,9 +1,12 @@
 ---
 share: true
 created: 2024-11-02T00:57
-updated: 2024-12-04T20:55
 alias: được và mất
+updated: 2024-12-05T11:47
 ---
+Cân nhắc lợi hại
+Nếu chỉ quy về tiền thì đơn giản rồi, nhưng có những thứ có muốn quy ra tiền cũng không biết phải làm thế nào
+
 ## Lý do muốn giúp
 ### Lợi ích
 - Có được những công cụ, hiểu biết mà đằng nào cũng cần trong quá trình làm. Bây giờ giúp thì chỉ phải đi tìm hiểu chúng sớm hơn kế hoạch thôi
@@ -23,6 +26,7 @@ alias: được và mất
 - Thấy con người có quyền được sai lầm. Họ đã có bài học rồi, không cần học thêm nữa
 - Thấy họ là một người đã rất nỗ lực để học hỏi
 - Thấy mình cũng đâu có phải giúp gì quá nhiều, và những việc mình có thể cố hơn một chút, mà có tác động lớn với họ. Tự thân họ cũng phải làm rất nhiều rồi.
+- Thấy con nít không có tội. Muốn nó được tiếp tục ở cạnh bố mẹ
 
 ## Các lập luận để không giúp
 ### Các rủi ro cho bản thân
@@ -42,7 +46,7 @@ alias: được và mất
 - Thấy [lo cho thân mình còn chưa xong thì lo cho ai](../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Ni%E1%BB%81m%20tin,%20di%E1%BB%85n%20ng%C3%B4n/C%C3%A1%20nh%C3%A2n/Lo%20cho%20th%C3%A2n%20m%C3%ACnh%20c%C3%B2n%20ch%C6%B0a%20xong%20th%C3%AC%20lo%20cho%20ai.md)
 - Thấy còn nhiều trách nhiệm với những người khác 
 
-❓Con người thường không biết được năng lực của mình?
+❓Con người thường không biết được năng lực của mình? Khi bị ép vào đường cùng họ sẽ làm được những điều đến chính họ cũng ngạc nhiên?
     - Sự huy động năng lượng chỉ hữu ích trong một thời gian ngắn, chứ không phải là cảnh cortisol thường xuyên
 ❓Những người đó đã cần mình thế nào? Tại sao họ cần được giúp hơn người này? 
 ❓Tại sao để người khác nuôi mình thì có vấn đề? 
@@ -69,20 +73,6 @@ VD:
 ❓Khi nào thì một người từ chối nhưng vẫn sẵn sàng để mình thảo luận tiếp?
 ❓Khi nào thì sự riêng tư nên được ưu tiên hơn sự minh bạch?
 
-### Thấy không có mình họ vẫn xoay sở được
-VD:
-- [Cố gắng ở lại thành phố vì thấy đưa con về quê thì nó sẽ có môi trường tệ](../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Ni%E1%BB%81m%20tin,%20di%E1%BB%85n%20ng%C3%B4n/Cu%E1%BB%99c%20s%E1%BB%91ng/%E1%BB%9E%20qu%C3%AA%20kh%C3%B4ng%20ph%C3%A1t%20tri%E1%BB%83n%20%C4%91%C6%B0%E1%BB%A3c.md), mà không muốn con phải chịu cảnh xa ba mẹ
-- Nếu ngày nào cũng chỉ ăn chuối thì vẫn có đủ dinh dưỡng để làm việc
-- Vợ còn công việc ở đây. Nếu xa vợ thì ảnh hưởng đến hôn nhân
-
-❓Đây là những nhu cầu chính đáng, nhưng thực sự là Có những cái ban đầu thấy tệ, nhưng sau đó lại thấy có ý nghĩa. Đó là sự thoả hiệp và đánh mất các giá trị sống của mình, hay là thấy được những điều mình trước đây mình đã không thấy?
-
-❓Ở quê tệ như thế nào?
-❓Có thật là con xa ba mẹ thì ảnh hưởng tiêu cực đến con không? 
-❓Vì sao không tin tưởng được vào sự hôn nhân? 
-- Phần khó khăn hơn họ đã làm được khi không có mình, thì sao lần này lại cần mình?
-[Việt Nam không ai chết đói, chỉ có nghèo đa chiều](../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Ph%C3%A1t%20tri%E1%BB%83n%20b%E1%BB%81n%20v%E1%BB%AFng/H%E1%BB%97%20tr%E1%BB%A3%20ng%C6%B0%E1%BB%9Di%20y%E1%BA%BFu%20th%E1%BA%BF/Ng%C6%B0%E1%BB%9Di%20ngh%C3%A8o/Vi%E1%BB%87t%20Nam%20kh%C3%B4ng%20ai%20ch%E1%BA%BFt%20%C4%91%C3%B3i,%20ch%E1%BB%89%20c%C3%B3%20ngh%C3%A8o%20%C4%91a%20chi%E1%BB%81u.md)
-
 ### Thấy sự giúp đỡ không đem lại hiệu quả thực chất
 - Mục tiêu là giúp con người cụ thể này, hay mục tiêu là để không ai phải có hoàn cảnh như thế này? Mỗi ngày có cả trăm người chết vì nợ. Thêm một người nữa thì khác gì?
 - Vay đầu này đắp đầu kia là không ổn, mà cần dứt điểm trả hết lãi. 
@@ -93,9 +83,15 @@ VD:
 
 ❓Bắt đầu làm từ cái nhỏ, cái xung quanh mình tới cái vĩ mô, cái trừu tượng
     - Điều đó chỉ đúng khi cái nhỏ không cản trở cái lớn. Trong việc này thì làm cái ngắn hạn thực sự gây cản trở đến việc làm cái dài hạn
-    ❓Muốn giúp phải có năng lực
         - Nếu làm điều mình thấy là dài hạn thì sẽ bị trách móc rằng chỉ biết nghĩ cho bản thân, rằng chỉ đang nhân danh sự giúp đỡ. 
         ❓Ai là người biết điều tốt nhất? Tại sao sự không đồng ý của mình lại khiến mình trở thành kẻ áp đặt hoặc không biết điều tốt nhất cho họ? 
+    ❓Muốn giúp phải có năng lực
 
-**Những lập luận dùng để tự an ủi khi không giúp họ:**
+## Những lập luận sẽ xuất hiện khi đã cảm thấy muốn từ bỏ
+Tác dụng của những câu này là để an ủi bản thân khi thấy mình không đủ khả năng để giúp (aka vô dụng):
+- Những nhu cầu cần dùng tới tiền của họ là chính đáng, nhưng thực sự là việc không được đáp ứng chúng sẽ làm ta tệ vĩnh viễn không? Có những cái ban đầu thấy tệ, nhưng sau đó ta lại nhanh chóng sắp xếp lại được cuộc sống mới. Điều gì khiến cho những vấn đề này không phải là như vậy?
 - Thà buông sớm để họ từ bỏ hy vọng còn tốt cho họ hơn. Nhiều khi cần phải biết cứng rắn
+- Thấy không có mình họ vẫn xoay sở được. Trước khi cần tới mình giúp  thì phần khó khăn nhất họ vẫn đã vượt qua được. Tại sao lần này lại cần mình? Hơn nữa, con người thường không biết được năng lực của mình. Khi bị ép vào đường cùng họ sẽ làm được những điều đến chính họ cũng ngạc nhiên thì sao?
+
+## Nơi thảo luận
+![](https://i.imgur.com/7Tiy6r2.png)
