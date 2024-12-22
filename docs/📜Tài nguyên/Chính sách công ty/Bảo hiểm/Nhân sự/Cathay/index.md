@@ -2,14 +2,12 @@
 share: true
 created: 2024-11-22T13:37
 title: Chính sách nhân sự ở Cathay
-updated: 2024-11-22T15:41
+updated: 2024-12-21T11:31
 ---
-
 Biết là [Muốn tập trung vào sự đồng đều hơn là cho không gian để thử nghiệm ý tưởng mới](./Minh%20b%E1%BA%A1ch%20v%C3%A0%20r%C3%A0ng%20bu%E1%BB%99c/Mu%E1%BB%91n%20t%E1%BA%ADp%20trung%20v%C3%A0o%20s%E1%BB%B1%20%C4%91%E1%BB%93ng%20%C4%91%E1%BB%81u%20h%C6%A1n%20l%C3%A0%20cho%20kh%C3%B4ng%20gian%20%C4%91%E1%BB%83%20th%E1%BB%AD%20nghi%E1%BB%87m%20%C3%BD%20t%C6%B0%E1%BB%9Fng%20m%E1%BB%9Bi.md)
 Việc bắt lên như vậy khác gì chỉ muốn tập trung vào người đang cần tiền? Mà những người như vậy thì ít mqh. Phải để cho người ta đi làm thì họ mới có nhiều mqh khác chứ
 
 - [ ] Sao phải đủ người xem phim? 
-
 - [ ] quản lý bên bv cũng đâu cần bán gì đâu [Công ty hướng tới việc bán hợp đồng cá nhân lớn sẽ tuyển đại lý. Công ty hướng tới việc bán hợp đồng cá nhân nhỏ sẽ tuyển quản lý](../../Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c/C%C3%B4ng%20ty%20h%C6%B0%E1%BB%9Bng%20t%E1%BB%9Bi%20vi%E1%BB%87c%20b%C3%A1n%20h%E1%BB%A3p%20%C4%91%E1%BB%93ng%20c%C3%A1%20nh%C3%A2n%20l%E1%BB%9Bn%20s%E1%BA%BD%20tuy%E1%BB%83n%20%C4%91%E1%BA%A1i%20l%C3%BD.%20C%C3%B4ng%20ty%20h%C6%B0%E1%BB%9Bng%20t%E1%BB%9Bi%20vi%E1%BB%87c%20b%C3%A1n%20h%E1%BB%A3p%20%C4%91%E1%BB%93ng%20c%C3%A1%20nh%C3%A2n%20nh%E1%BB%8F%20s%E1%BA%BD%20tuy%E1%BB%83n%20qu%E1%BA%A3n%20l%C3%BD.md)[Tiền trưởng nhóm](../B%E1%BA%A3o%20Vi%E1%BB%87t/Ti%E1%BB%81n%20tr%C6%B0%E1%BB%9Fng%20nh%C3%B3m/index.md)
 
 [Tùy duyên sll](../../Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c/T%C3%B9y%20duy%C3%AAn%20sll.md)
