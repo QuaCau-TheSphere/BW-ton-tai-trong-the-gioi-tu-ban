@@ -18,7 +18,7 @@ Bài chi tiết: [Làm đại lý bảo hiểm ảo](../../../../../../%F0%9F%93
 - Sáng thứ 3 hàng tuần, họp cập nhật chính sách, được 100k. 4 người ngẫu nhiên sẽ bị gọi lên kiểm tra
 - Ngày đầu tiên mỗi tháng họp giao ban toàn công ty
 
-Xem thêm:: [Đại lý](../../../../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Ch%C3%ADnh%20s%C3%A1ch%20c%C3%B4ng%20ty/B%E1%BA%A3o%20hi%E1%BB%83m/%C4%90%E1%BA%A1i%20l%C3%BD%20v%C3%A0%20qu%E1%BA%A3n%20l%C3%BD/B%E1%BA%A3o%20Vi%E1%BB%87t/%C4%90%E1%BA%A1i%20l%C3%BD/index.md)
+Xem thêm:: [Đại lý](../../../../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Ch%C3%ADnh%20s%C3%A1ch%20c%C3%B4ng%20ty/B%E1%BA%A3o%20hi%E1%BB%83m/Nh%C3%A2n%20s%E1%BB%B1/B%E1%BA%A3o%20Vi%E1%BB%87t/%C4%90%E1%BA%A1i%20l%C3%BD/index.md)
 ## Ghi chú
 - Một bài thi thử đạt từ 34 điểm sẽ được thưởng thêm 20k. Tối đa thưởng 200k.
 - Buổi tốt nghiệp sẽ ăn trưa ở nhà hàng và tặng một áo mưa
@@ -33,7 +33,7 @@ Chương trình thi thử:
 Wifi :
 - Tên: `BVNT-SG-TVV`
 - Pass: `dlntsg@233`
-
+`ntsg@233dk`
 Các từ viết tắt:
 - `bvl`: Bảo Việt Life
 - `dlntsg`: đại lý nhân thọ Sài Gòn

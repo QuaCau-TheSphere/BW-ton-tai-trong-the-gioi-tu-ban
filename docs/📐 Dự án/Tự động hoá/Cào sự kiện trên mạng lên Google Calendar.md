@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-11-21T17:51
-updated: 2024-11-28T23:15
+updated: 2024-12-09T21:51
 ---
 Hiện tại mình đang xây dựng một chương trình giúp người dùng xây dựng thương hiệu cá nhân trên mạng xã hội. Chương trình viết xong sẽ là phần mềm tự do và mã nguồn mở, dùng giấy phép AGPL. Mình muốn được học thêm kinh nghiệm của mọi người. 
 
@@ -56,3 +56,6 @@ cách xây dựng mô hình vật thể (object model)
 
 
 Tại sao lúc đó lại muốn cào meetup mà ko phải là những cái ở những người mình có thể tiếp cận?
+
+
+
