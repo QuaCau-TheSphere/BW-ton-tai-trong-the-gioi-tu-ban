@@ -2,7 +2,7 @@
 share: true
 created: 2024-11-02T00:57
 alias: được và mất
-updated: 2024-12-05T11:47
+updated: 2024-12-07T11:01
 ---
 Cân nhắc lợi hại
 Nếu chỉ quy về tiền thì đơn giản rồi, nhưng có những thứ có muốn quy ra tiền cũng không biết phải làm thế nào
@@ -80,7 +80,8 @@ VD:
 - [Khi được hỏi về những điều này thì cứ nói là để giải thích sau, giờ phải tập trung vào cái quan trọng hơn](./C%C3%B3%20nh%E1%BB%AFng%20l%C3%BAc%20c%C3%A2u%20h%E1%BB%8Fi%20ch%E1%BA%A5t%20v%E1%BA%A5n%20th%C3%AC%20ng%C6%B0%E1%BB%9Di%20%C4%91%C6%B0%E1%BB%A3c%20gi%C3%BAp%20l%E1%BA%A1i%20ch%E1%BB%89%20tr%E1%BA%A3%20l%E1%BB%9Di%20nh%E1%BB%AFng%20c%C3%A2u%20h%E1%BB%8D%20th%E1%BA%A5y%20quan%20tr%E1%BB%8Dng%20h%C6%A1n.%20M%C3%A0%20th%E1%BA%A5y%20b%E1%BB%8B%20v%E1%BA%ADy%20th%C3%AC%20l%E1%BA%A1i%20d%E1%BB%85%20nghi%20h%E1%BB%8D.md)
     - Thực ra không hẳn chỉ là không có thời gian, mà là không chịu trả lời luôn
         - Không chịu đặt câu hỏi, mà cũng không chịu trả lời khi được hỏi
-
+không chịu đi vào chi tiết vì thấy không giúp ích được gì
+Có rất nhiều thứ dí nên rất overwhelm
 ❓Bắt đầu làm từ cái nhỏ, cái xung quanh mình tới cái vĩ mô, cái trừu tượng
     - Điều đó chỉ đúng khi cái nhỏ không cản trở cái lớn. Trong việc này thì làm cái ngắn hạn thực sự gây cản trở đến việc làm cái dài hạn
         - Nếu làm điều mình thấy là dài hạn thì sẽ bị trách móc rằng chỉ biết nghĩ cho bản thân, rằng chỉ đang nhân danh sự giúp đỡ. 
