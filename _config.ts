@@ -1,9 +1,9 @@
-import lume from "lume/mod.ts";
+import lume from "lume/mod.ts"
 import wiki from "wiki/mod.ts";
 import metas from "lume/plugins/metas.ts";
 import ogImages from "lume/plugins/og_images.ts";
 import sitemap from "lume/plugins/sitemap.ts";
-import mermaid from "https://deno.land/x/lume_mermaid_plugin/mod.ts";
+import mermaid from "@ooker777/lume-mermaid-plugin";
 
 const markdown = {
   options: {
@@ -15,11 +15,11 @@ const site = lume({
   src: "./docs",
   location: new URL("https://kiếmtiền.quảcầu.cc"),
   server: {
-    open: true,
+    open: true, // Tự động mở trình duyệt khi xong
   },
 }, { markdown });
 
-
+// site.use(wiki());
 site.use(wiki({
   favicon: {
     input: "assets/favicon.svg"
