@@ -1,6 +1,0 @@
----
-share: true
-created: 2024-12-21T13:42
-updated: 2024-12-22T09:57
----
-[Ý đồ thiết kế của sản phẩm Thịnh An Phát của Cathay](./%C3%9D%20%C4%91%E1%BB%93%20thi%E1%BA%BFt%20k%E1%BA%BF%20c%E1%BB%A7a%20s%E1%BA%A3n%20ph%E1%BA%A9m%20Th%E1%BB%8Bnh%20An%20Ph%C3%A1t%20c%E1%BB%A7a%20Cathay.md)
