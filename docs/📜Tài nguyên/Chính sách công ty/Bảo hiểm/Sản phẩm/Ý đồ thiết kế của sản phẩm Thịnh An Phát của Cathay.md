@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-12-22T09:57
-updated: 2024-12-25T15:00
+updated: 2024-12-25T16:10
 description: Một cuốn sổ tiết kiệm linh hoạt có thể rút ra lại đến 85% mà không bị mất lãi. Doanh nghiệp khi mua cho nhân viên sẽ không bị tính vào thuế thu nhập doanh nghiệp.
 alias: Thịnh An Phát
 ---
@@ -38,7 +38,7 @@ Từ đây đến ngày 26/2/2025, Cathay đang có chương trình khuyến mã
 > [!NOTE] So sánh Thịnh An Phát với sổ tiết kiệm ngân hàng thông thường:
 > - Có thể rút ra lại đến 85% mà không bị mất lãi
 > - Trả gốc và lãi ngay trong trường hợp người được bảo hiểm chết
-> - Lãi gần tương đương lãi ngân hàng. Trong thời gian khuyến mãi thì lãi gấp đôi ngân hàng
+> - Lãi gần tương đương lãi ngân hàng. Đến trước ngày 26/2/2025 thì lãi gấp đôi ngân hàng, và được nhận một phần ngay lập tức chứ không phải đợi đến khi đáo hạn
 > - [Doanh nghiệp khi mua cho nhân viên không bị tính vào thuế thu nhập doanh nghiệp](../../../Qu%E1%BA%A3n%20l%C3%BD%20nh%C3%A0%20n%C6%B0%E1%BB%9Bc/B%E1%BA%A3o%20hi%E1%BB%83m/T%E1%BA%A1i%20sao%20doanh%20nghi%E1%BB%87p%20khi%20mua%20b%E1%BA%A3o%20hi%E1%BB%83m%20nh%C3%A2n%20th%E1%BB%8D%20cho%20nh%C3%A2n%20vi%C3%AAn%20l%E1%BA%A1i%20kh%C3%B4ng%20b%E1%BB%8B%20t%C3%ADnh%20v%C3%A0o%20thu%E1%BA%BF%20thu%20nh%E1%BA%ADp%20doanh%20nghi%E1%BB%87p.md)
 
 Xem thêm:: [Tại sao nên mua bảo hiểm từ Quả Cầu?](../../../Qu%C3%A0%20t%E1%BA%B7ng/B%E1%BA%A3o%20hi%E1%BB%83m/index.md)
