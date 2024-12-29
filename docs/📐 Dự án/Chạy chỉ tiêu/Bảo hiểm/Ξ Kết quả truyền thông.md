@@ -1,7 +1,7 @@
 ---
 share: true
-created: 2024-10-30T14:21
-updated: 2024-11-12T15:14
+created: 2024-12-25T18:06
+updated: 2024-12-25T18:11
 ---
 ## [Câu hỏi thu thập ý kiến về việc tổ chức các buổi workshop đáp ứng nhu cầu các tổ chức và hỗ trợ kiếm khách hàng tiềm năng cho người bán hàng](../../M%E1%BA%A1ng%20k%E1%BA%BFt%20n%E1%BB%91i%20nhu%20c%E1%BA%A7u/C%C3%A2u%20h%E1%BB%8Fi%20thu%20th%E1%BA%ADp%20%C3%BD%20ki%E1%BA%BFn%20v%E1%BB%81%20vi%E1%BB%87c%20t%E1%BB%95%20ch%E1%BB%A9c%20c%C3%A1c%20bu%E1%BB%95i%20workshop%20%C4%91%C3%A1p%20%E1%BB%A9ng%20nhu%20c%E1%BA%A7u%20c%C3%A1c%20t%E1%BB%95%20ch%E1%BB%A9c%20v%C3%A0%20h%E1%BB%97%20tr%E1%BB%A3%20ki%E1%BA%BFm%20kh%C3%A1ch%20h%C3%A0ng%20ti%E1%BB%81m%20n%C4%83ng%20cho%20ng%C6%B0%E1%BB%9Di%20b%C3%A1n%20h%C3%A0ng.md)
 ### SNPO
@@ -71,3 +71,7 @@ Thịnh từ bỏ quyền quản trị page
 14:07 1 share
 
 [12-11-2024](12-11-2024.md) bị nhóm Xoá rào cản ban. [Đinh Thuý Vy](https://www.facebook.com/Vydt.98) block
+
+## [Ý đồ thiết kế của sản phẩm Thịnh An Phát của Cathay](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Ch%C3%ADnh%20s%C3%A1ch%20c%C3%B4ng%20ty/B%E1%BA%A3o%20hi%E1%BB%83m/S%E1%BA%A3n%20ph%E1%BA%A9m/%C3%9D%20%C4%91%E1%BB%93%20thi%E1%BA%BFt%20k%E1%BA%BF%20c%E1%BB%A7a%20s%E1%BA%A3n%20ph%E1%BA%A9m%20Th%E1%BB%8Bnh%20An%20Ph%C3%A1t%20c%E1%BB%A7a%20Cathay.md)
+![](https://i.imgur.com/N6H429w.png)
+[25-12-2024](25-12-2024.md) 18:11: https://www.facebook.com/qua.cau.the.sphere/posts/pfbid02mcfoqSgR1SFBn4Y67gFvbXQwqpECP4c2XYNVKAfQDGdrc4V6VTxVBRjqRnp9N9dRl
