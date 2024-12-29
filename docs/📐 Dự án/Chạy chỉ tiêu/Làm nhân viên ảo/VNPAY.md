@@ -1,8 +1,9 @@
 ---
 share: true
 created: 2024-08-27T14:25
-updated: 2024-12-24T22:34
+updated: 2025-01-01T22:37
 ---
+# Làm nhân viên ảo VNPAY
 Lương: 2tr/tháng
 ## Mô tả công việc
 ### Làm một lần
@@ -18,7 +19,7 @@ Lương: 2tr/tháng
 - Gửi hình và vị trí chấm công qua Zalo vào mỗi sáng lúc 8h30: 10 s
 
 Có thể dùng Fake GPS để ở nơi khác vẫn tới vị trí chấm công được.
-[Checkin ảo](../Checkin%20%E1%BA%A3o.md)
+
 ### Làm mỗi tuần
 - Trả lời tin nhắn: vài phút 
 - Họp nhóm trên công ty: 3 tiếng 
