@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2024-09-20T20:12
+updated: 2025-01-01T12:01
 ---
 Lý do:: [Ngân hàng lớn ưu tiên cho vay doanh nghiệp, ngân hàng nhỏ khó cạnh tranh thì cho vay cá nhân](./Ng%C3%A2n%20h%C3%A0ng%20l%E1%BB%9Bn%20%C6%B0u%20ti%C3%AAn%20cho%20vay%20doanh%20nghi%E1%BB%87p,%20ng%C3%A2n%20h%C3%A0ng%20nh%E1%BB%8F%20kh%C3%B3%20c%E1%BA%A1nh%20tranh%20th%C3%AC%20cho%20vay%20c%C3%A1%20nh%C3%A2n.md)
 Luật Dân sự 2015 không cho vay lãi quá 20%/năm. Nếu là tổ chức tín dụng thì làm theo luật Các tổ chức tín dụng là thoả thuận 
