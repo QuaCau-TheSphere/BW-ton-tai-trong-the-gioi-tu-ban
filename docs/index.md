@@ -2,7 +2,7 @@
 share: true
 filename: index
 created: 2023-09-05T16:17
-updated: 2024-12-24T22:47
+updated: 2025-01-01T23:11
 title: Nơi này là nơi nào
 ---
 Tiêu chí lựa chọn:
@@ -35,3 +35,4 @@ Những mệnh đề nghe có vẻ hợp lý, mà ngay cả những người đ�
 | [📜Tài nguyên](./%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/index.md)    | Công ty, định chế | cách các tổ chức định chế chống gian lận, liên quan đến môi trường cụ thể ở Việt Nam                          |
 | Dự án               | Cá nhân           | cách thứ lợi từ những điều trên                                                                               |
 
+- Định nghĩa khái niệm
