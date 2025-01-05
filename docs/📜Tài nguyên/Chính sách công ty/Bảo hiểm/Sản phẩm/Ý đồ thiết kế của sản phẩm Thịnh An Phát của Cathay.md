@@ -1,14 +1,11 @@
 ---
 share: true
 created: 2024-12-22T09:57
-updated: 2025-01-02T13:29
 description: Một nơi giữ tiền không mất giá giống như sổ tiết kiệm mà vẫn có thể dùng tiền vào việc đầu tư. Được miễn thuế doanh nghiệp.
 alias: Thịnh An Phát
-extra_head: |
-  <div id="main" style="width: 100%; height: 500px"></div>
-  <script src="./scripts/chart.js" type="module"></script>
+extra_head: <script src="./scripts/chart.js" type="module"></script>
+updated: 2025-01-05T09:19
 ---
-
 ## Mô tả sản phẩm
 Thịnh An Phát của Cathay là sản phẩm bảo hiểm nhân thọ **hỗn hợp ngắn hạn đóng phí một lần**. Nó:
 - *Hỗn hợp*, vì nếu bạn chết trước ngày đáo hạn cũng được trả tiền, mà sống tới ngày đáo hạn cũng được trả tiền
@@ -17,6 +14,15 @@ Thịnh An Phát của Cathay là sản phẩm bảo hiểm nhân thọ **hỗn 
 
 Số tiền bạn đóng vào tối thiểu là 30 triệu, tối đa là 10 tỷ. Số tiền nhận được sau khi đáo hạn tối thiểu là 100 triệu, tối đa là 16 tỷ. Nếu chẳng may chưa tới lúc đáo hạn mà bạn chết thì bạn được nhận lại được gốc và lãi ngay lập tức.
 
+![Thịnh An Phát.jpg](../../../../assets/attachments/Th%E1%BB%8Bnh%20An%20Ph%C3%A1t.jpg)
+
+![Thịnh An Phát 2.jpg](../../../../assets/attachments/Th%E1%BB%8Bnh%20An%20Ph%C3%A1t%202.jpg)
+
+![Thịnh An Phát 3.jpg](../../../../assets/attachments/Th%E1%BB%8Bnh%20An%20Ph%C3%A1t%203.jpg)
+
+![Thịnh An Phát 4.jpg](../../../../assets/attachments/Th%E1%BB%8Bnh%20An%20Ph%C3%A1t%204.jpg)
+
+![Các mốc khuyến mãi.png](../../../../assets/attachments/C%C3%A1c%20m%E1%BB%91c%20khuy%E1%BA%BFn%20m%C3%A3i.png)
 ## Ý đồ thiết kế 
 ### Giúp nhà đầu tư trữ tiền chờ đầu tư
 Đáo hạn từ 3 đến 5 năm khá là bất bình thường. Làm gì có cái sản phẩm bảo hiểm nhân thọ nào đáo hạn nhanh đến thế? Bạn có thể kiểm chứng điều này trên [TheBank](https://thebank.vn/bao-hiem-nhan-tho.html), trang liệt kê các sản phẩm tài chính đang có ở Việt Nam. Cái này giống như một cuốn sổ tiết kiệm thì đúng hơn; bạn quăng vào một cục tiền, tới lúc đáo hạn thì cầm về, cộng với một chút lãi để bù cho lạm phát.
@@ -37,7 +43,7 @@ Tất nhiên, ở trường hợp mở sổ tiết kiệm thì bạn cũng có t
 ### Được xem như một chi phí vận hành cho doanh nghiệp và không bị tính thuế
 Đọc [bài chi tiết](../../../Qu%E1%BA%A3n%20l%C3%BD%20nh%C3%A0%20n%C6%B0%E1%BB%9Bc/B%E1%BA%A3o%20hi%E1%BB%83m/T%E1%BA%A1i%20sao%20doanh%20nghi%E1%BB%87p%20khi%20mua%20b%E1%BA%A3o%20hi%E1%BB%83m%20nh%C3%A2n%20th%E1%BB%8D%20cho%20nh%C3%A2n%20vi%C3%AAn%20l%E1%BA%A1i%20kh%C3%B4ng%20b%E1%BB%8B%20t%C3%ADnh%20v%C3%A0o%20thu%E1%BA%BF%20thu%20nh%E1%BA%ADp%20doanh%20nghi%E1%BB%87p.md).
 
-### Không gặp nhiều phiền phức cho người nhận tiền khi bạn chết
+### Nếu bạn chết thì người nhận tiền sẽ không gặp nhiều phiền phức để làm thủ tục
 Ngay thời điểm bài này đang được viết ra thì có câu chuyện [nhà văn Nguyên Ngọc không rút được tiền từ ngân hàng](https://www.facebook.com/dzung.hoang.501/posts/pfbid02krDsLfRSgPwCP1foc6QZsD2wh4oUXm9uZopqcdG9aZ2C7BBL16EGQvz9RNkX4Gvwl) do con gái ông đứng tên tài khoản nhưng chẳng may mất trước ông:
 ![Nhà văn Nguyên Ngọc không lấy được tiền.jpg](../../../../assets/attachments/Nh%C3%A0%20v%C4%83n%20Nguy%C3%AAn%20Ng%E1%BB%8Dc%20kh%C3%B4ng%20l%E1%BA%A5y%20%C4%91%C6%B0%E1%BB%A3c%20ti%E1%BB%81n.jpg)
 
@@ -46,6 +52,7 @@ Tất cả giấy tờ cuối cùng cũng đã xong, nhưng đó là bởi vì N
 ### Đặc điểm khác
 Tại sao lại có hai mức 3 năm và 5 năm? Vì 5 gần với 6. Thay vì bạn mua gói 5 năm, thì tuy tiền lãi có nhiều hơn một tí, nhưng bạn không quay thêm vòng vốn được. Còn nếu bạn mua hai lần 3 năm, thì bạn được nhận hai lần lãi và khuyến mãi, trong khi thời gian cũng tương đương 5 năm. Cathay muốn bạn thấy rằng việc tái tục là có lợi hơn. Mức 3 năm không chỉ dành cho những ai muốn lấy tiền nhanh, mà còn dành cho những ai muốn lấy tiền nhiều.
 
+nhận ngay sau 21 → 30 ngày
 ## Minh hoạ lãi suất
 Giả sử bạn đóng vào 250 triệu đồng thì lãi suất sẽ là bao nhiêu?
 
@@ -58,8 +65,8 @@ Từ đây đến ngày 26/2/2025, Cathay đang có chương trình khuyến mã
 
 | Thời hạn | Tiền gốc      | Đáo hạn       | Chênh lệch   | Lãi suất  |
 | -------- | ------------- | ------------- | ------------ | --------- |
-| 5 năm    | 224.351,300 đ | 315,000,000 đ | 90,648,700 đ | 8.08%/năm |
-| 3 năm    | 224.694.660 đ | 278,000,000 đ | 53,305,340 đ | 7.91%/năm |
+| 5 năm    | 224,351,300 đ | 315,000,000 đ | 90,648,700 đ | 8.08%/năm |
+| 3 năm    | 224,694,660 đ | 278,000,000 đ | 53,305,340 đ | 7.91%/năm |
 
 Tại sao mình lại chọn số 250 triệu? Vì ở mức này thì khuyến mãi mới là một chỉ vàng. Dưới số này thì khuyến mãi chỉ là nửa chỉ thôi. Số tiền gửi thấp nhất cho sản phẩm này là 90 triệu.
 
@@ -78,8 +85,6 @@ Xem thêm:: [Tại sao nên mua bảo hiểm từ Quả Cầu?](../../../Qu%C3%A
 ![KHAI XUÂN THỊNH VƯỢNG NĂM 2025.pdf](../../../../assets/attachments/KHAI%20XU%C3%82N%20TH%E1%BB%8ANH%20V%C6%AF%E1%BB%A2NG%20N%C4%82M%202025.pdf)
 ![Lãi Thịnh An Phát.png](../../../../assets/attachments/L%C3%A3i%20Th%E1%BB%8Bnh%20An%20Ph%C3%A1t.png)
 
-<div id="main" style="width: 100%; height: 500px"></div>
-
 ---
 
 chỉ tập trung vào lãi. Nó được đẻ ra ko phải vì lãi. Nhiều người không biết
@@ -91,5 +96,16 @@ Anh Nguyên Ngọc năm nay 93 tuổi, ngồi xe lăn, làm sao ra Hà Nội, đ
 
 Không lẽ anh Nguyên Ngọc chịu mất tiền?
 
+Một bạn nhắn: Trường hợp của bác Nguyên Ngọc, hãy liên hệ vp công chứng nơi bác đang ở làm thủ tục khai nhận di sản và nhờ họ làm văn bản xác minh tình trạng hôn nhân, nhân thân như mẫu này là được ạ. Thông tin bình luận trên trang cá nhân có thể do chưa hiểu quy định, chưa biết cách làm (kể cả cơ quan nhà nước) dẫn đến tiêu cực.
 
-Bạn **không cần khám sức khoẻ** khi mua gói này. Gói này được thiết kế để giống như sổ tiết kiệm, mà bạn đâu cần đi khám sức khoẻ mới được làm sổ. Điều này khiến nó trở thành cánh cửa duy nhất để những người có vấn đề sức khoẻ được mua bảo hiểm. Nói thẳng ra là sắp chết mua cũng được. Và nếu chết thì sẽ được trả lại tiền và lãi ngay lập tức chứ không cần phải đợi tới đáo hạn. Miễn là bạn dưới 66 tuổi là được.
+
+<div id="main" style="width: 100%; height: 500px"></div>
+## Phản hồi với một số lập luận giới thiệu
+> Đây là cánh cửa duy nhất để những người có vấn đề sức khoẻ được mua bảo hiểm
+
+Cathay vẫn có những sản phẩm nhân thọ không cần đi khám
+
+
+Bạn **không cần khám sức khoẻ** khi mua gói này. Gói này được thiết kế để giống như sổ tiết kiệm, mà bạn đâu cần đi khám sức khoẻ mới được làm sổ. Điều này khiến nó trở thành 
+
+. Nói thẳng ra là sắp chết mua cũng được. Và nếu chết thì sẽ được trả lại tiền và lãi ngay lập tức chứ không cần phải đợi tới đáo hạn. Miễn là bạn dưới 66 tuổi là được.
