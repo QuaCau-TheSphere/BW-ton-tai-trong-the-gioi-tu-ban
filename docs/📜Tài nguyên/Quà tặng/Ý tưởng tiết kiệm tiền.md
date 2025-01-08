@@ -1,7 +1,8 @@
 ---
 share: true
 created: 2024-08-14T21:27
-updated: 2025-01-04T14:57
+updated: 2025-01-08T19:38
+alias: Tặng đồ đạc, thức ăn
 ---
 ## Tặng thức ăn
 - [FoodShare](https://foodshare.id.vn/foods/tat-ca-thuc-pham)
