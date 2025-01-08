@@ -1,14 +1,14 @@
 ---
 share: true
 created: 2024-07-17T21:41
-updated: 2024-12-24T22:08
+updated: 2025-01-08T19:54
 title: Các dịch vụ cho vay
 ---
 ## Vì người yếu thế
+Cơ bản đó là các [quỹ tín dụng vi mô](../../%F0%9F%93%90%20D%E1%BB%B1%20%C3%A1n/Gi%C3%BAp%20nhau%20tho%C3%A1t%20n%E1%BB%A3/C%C3%B4ng%20vi%E1%BB%87c/Huy%20%C4%91%E1%BB%99ng%20ngu%E1%BB%93n%20ti%E1%BB%81n%20nh%C3%A0n%20r%E1%BB%97i,%20l%E1%BA%ADp%20qu%E1%BB%B9%20t%C3%ADn%20d%E1%BB%A5ng%20vi%20m%C3%B4.md):
 - [Quỹ Tình Thân](./V%C3%AC%20ng%C6%B0%E1%BB%9Di%20y%E1%BA%BFu%20th%E1%BA%BF/Qu%E1%BB%B9%20T%C3%ACnh%20Th%C3%A2n.md)           
 - [CEP](./V%C3%AC%20ng%C6%B0%E1%BB%9Di%20y%E1%BA%BFu%20th%E1%BA%BF/CEP.md)                     
 - [Ngân hàng chính sách xã hội](./V%C3%AC%20ng%C6%B0%E1%BB%9Di%20y%E1%BA%BFu%20th%E1%BA%BF/Ng%C3%A2n%20h%C3%A0ng%20ch%C3%ADnh%20s%C3%A1ch%20x%C3%A3%20h%E1%BB%99i.md) 
-
 ## Ví trả sau
 |           | Số tiền rút lần đầu | Điều kiện |
 | --------- | ------------------- | --------- |
@@ -56,8 +56,8 @@ Dự án: [Giúp nhau thoát nợ](../../%F0%9F%93%90%20D%E1%BB%B1%20%C3%A1n/Gi%
 
 ## ⚡Hiểu biết sâu
 - \-: 
-    - [Ghi chú về các app ngân hàng](./Ghi%20ch%C3%BA%20v%E1%BB%81%20c%C3%A1c%20app%20ng%C3%A2n%20h%C3%A0ng.md)
     - [TNEX](./TNEX.md)
+    - [Ghi chú về các app ngân hàng](./Ghi%20ch%C3%BA%20v%E1%BB%81%20c%C3%A1c%20app%20ng%C3%A2n%20h%C3%A0ng.md)
 
 - App vay nóng: 
     - [App vay nóng](./App%20vay%20n%C3%B3ng/index.md)
@@ -69,10 +69,10 @@ Dự án: [Giúp nhau thoát nợ](../../%F0%9F%93%90%20D%E1%BB%B1%20%C3%A1n/Gi%
 
 - Vì người yếu thế: 
     - [CEP](./V%C3%AC%20ng%C6%B0%E1%BB%9Di%20y%E1%BA%BFu%20th%E1%BA%BF/CEP.md)
-    - [Ngân hàng chính sách xã hội](./V%C3%AC%20ng%C6%B0%E1%BB%9Di%20y%E1%BA%BFu%20th%E1%BA%BF/Ng%C3%A2n%20h%C3%A0ng%20ch%C3%ADnh%20s%C3%A1ch%20x%C3%A3%20h%E1%BB%99i.md)
     - [Quỹ Tình Thân](./V%C3%AC%20ng%C6%B0%E1%BB%9Di%20y%E1%BA%BFu%20th%E1%BA%BF/Qu%E1%BB%B9%20T%C3%ACnh%20Th%C3%A2n.md)
     - [Tiết kiệm tín dụng nhóm bền vững hơn cho vay cá nhân khi có nhiều người vay](./V%C3%AC%20ng%C6%B0%E1%BB%9Di%20y%E1%BA%BFu%20th%E1%BA%BF/Ti%E1%BA%BFt%20ki%E1%BB%87m%20t%C3%ADn%20d%E1%BB%A5ng%20nh%C3%B3m%20b%E1%BB%81n%20v%E1%BB%AFng%20h%C6%A1n%20cho%20vay%20c%C3%A1%20nh%C3%A2n%20khi%20c%C3%B3%20nhi%E1%BB%81u%20ng%C6%B0%E1%BB%9Di%20vay.md)
     - [Vì người yếu thế](./V%C3%AC%20ng%C6%B0%E1%BB%9Di%20y%E1%BA%BFu%20th%E1%BA%BF/index.md)
+    - [Ngân hàng chính sách xã hội](./V%C3%AC%20ng%C6%B0%E1%BB%9Di%20y%E1%BA%BFu%20th%E1%BA%BF/Ng%C3%A2n%20h%C3%A0ng%20ch%C3%ADnh%20s%C3%A1ch%20x%C3%A3%20h%E1%BB%99i.md)
 
 
 
