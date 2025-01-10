@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-11-08T10:55
-updated: 2024-11-08T14:25
+updated: 2025-01-10T12:21
 ---
 Chỉ cần biết chỗ là mua. Có những thứ không tốn nhiều tiền. Nhiều khi chỉ là cái sticker mấy ngàn. Cái quan trọng là biết từ khoá
 Sở thích, đam mê

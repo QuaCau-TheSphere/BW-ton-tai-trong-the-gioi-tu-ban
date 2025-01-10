@@ -4,7 +4,7 @@ created: 2024-12-22T09:57
 description: Một nơi giữ tiền không mất giá giống như sổ tiết kiệm mà vẫn có thể dùng tiền vào việc đầu tư. Được miễn thuế doanh nghiệp.
 alias: Thịnh An Phát
 extra_head: <script src="./scripts/chart.js" type="module"></script>
-updated: 2025-01-05T09:19
+updated: 2025-01-10T12:01
 ---
 ## Mô tả sản phẩm
 Thịnh An Phát của Cathay là sản phẩm bảo hiểm nhân thọ **hỗn hợp ngắn hạn đóng phí một lần**. Nó:
@@ -53,6 +53,9 @@ Tất cả giấy tờ cuối cùng cũng đã xong, nhưng đó là bởi vì N
 Tại sao lại có hai mức 3 năm và 5 năm? Vì 5 gần với 6. Thay vì bạn mua gói 5 năm, thì tuy tiền lãi có nhiều hơn một tí, nhưng bạn không quay thêm vòng vốn được. Còn nếu bạn mua hai lần 3 năm, thì bạn được nhận hai lần lãi và khuyến mãi, trong khi thời gian cũng tương đương 5 năm. Cathay muốn bạn thấy rằng việc tái tục là có lợi hơn. Mức 3 năm không chỉ dành cho những ai muốn lấy tiền nhanh, mà còn dành cho những ai muốn lấy tiền nhiều.
 
 nhận ngay sau 21 → 30 ngày
+#### An toàn hơn ngân hàng
+Nếu phá sản,  Mức bảo hiểm rủi ro của bank = Hạn mức chi trả max khi bank phá sản = 70tr/ người (dù anh có gửi bao nhiêu tỷ)
+2. Mức bảo hiểm rủi ro của bảo hiểm = Hạn mức chi trả max khi cty bh phá sản = 200tr/ người (sau khi qua 2 3 lớp chuyển nhượng tái bảo hiểm, 2 3 lớp layer có trình bày như trên)
 ## Minh hoạ lãi suất
 Giả sử bạn đóng vào 250 triệu đồng thì lãi suất sẽ là bao nhiêu?
 
