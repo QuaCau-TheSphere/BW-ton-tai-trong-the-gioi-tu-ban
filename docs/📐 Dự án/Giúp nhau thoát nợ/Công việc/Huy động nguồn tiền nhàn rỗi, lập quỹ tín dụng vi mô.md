@@ -1,11 +1,16 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2025-01-08T19:55
+updated: 2025-01-10T12:45
 alias:
-  - Lập quỹ tín dụng
+  - Lập quỹ tín dụng vi mô
   - Tìm người có tiền nhàn rỗi lớn
 ---
+Thông thường những người xung quan đều muốn giúp, nhưng số tiền cũng gây ảnh hưởng đến nhu cầu sinh hoạt của họ. Có thể đó là tiền nhàn rỗi nhưng nó cần ở đó để có thể yên tâm là khi có sự cố xảy ra thì họ có thể xoay sở được ngay. Để có thể mượn được cần  Số tiền dự phòng không nhiều 
+
+Có rất nhiều người sẵn sàng làm từ thiện
+
+Vì vậy, bản chất của việc tìm người có tiền nhàn rỗi lớn là lập quỹ tín dụng vi mô
 Mô hình sẽ giống như [Quỹ Tình Thân](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/C%C3%A1c%20d%E1%BB%8Bch%20v%E1%BB%A5%20cho%20vay/V%C3%AC%20ng%C6%B0%E1%BB%9Di%20y%E1%BA%BFu%20th%E1%BA%BF/Qu%E1%BB%B9%20T%C3%ACnh%20Th%C3%A2n.md)
 
 ## Nơi thảo luận

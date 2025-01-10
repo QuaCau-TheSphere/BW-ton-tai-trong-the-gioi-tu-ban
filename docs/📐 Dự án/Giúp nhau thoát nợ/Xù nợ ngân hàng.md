@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-08-31T13:30
-updated: 2024-09-20T19:56
+updated: 2025-01-10T12:14
 ---
 Khái niệm:: 
 khoản vay bên đối tác moenyveo đã trễ hạn, tổng tiền 1,304,600 hôm nay cần xử lí trước 16h để tránh chuyển hs sang đối tác liên hệ nhắn nợ về người thân và công ty phản hồi để được hỗ trợ
@@ -40,7 +40,7 @@ Ngân hàng cũng chẳng muốn lấy nhà, xã hội đen cũng chẳng muốn
 nên nói chuyện với ngân hàng
 cần biết cụ thể mỗi tháng bao nhiêu lãi. Khó khăn: 
 - khi đang bị áp lực trả nợ thì cũng không có thời gian để nói cho người khác biết tình hình nợ của mình 
-- không muốn cho người khác biết tình hình nợ vì sợ bị nghĩ là mình vòi tiền
+- [Không muốn cho người khác biết tình hình nợ vì sợ bị nghĩ là mình vòi tiền](../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Ni%E1%BB%81m%20tin,%20di%E1%BB%85n%20ng%C3%B4n/Kh%C3%B4ng%20mu%E1%BB%91n%20cho%20ng%C6%B0%E1%BB%9Di%20kh%C3%A1c%20bi%E1%BA%BFt%20t%C3%ACnh%20h%C3%ACnh%20n%E1%BB%A3%20v%C3%AC%20s%E1%BB%A3%20b%E1%BB%8B%20ngh%C4%A9%20l%C3%A0%20m%C3%ACnh%20v%C3%B2i%20ti%E1%BB%81n.md)
 [Điểm tín dụng là cách để các ngân hàng đánh giá khả năng trả nợ của mình](../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/T%E1%BB%95%20ch%E1%BB%A9c%20t%C3%A0i%20ch%C3%ADnh/Vay%20ti%E1%BB%81n/Ng%C3%A2n%20h%C3%A0ng,%20%C4%91i%E1%BB%83m%20t%C3%ADn%20d%E1%BB%A5ng/%C4%90i%E1%BB%83m%20t%C3%ADn%20d%E1%BB%A5ng/%C4%90i%E1%BB%83m%20t%C3%ADn%20d%E1%BB%A5ng%20l%C3%A0%20c%C3%A1ch%20%C4%91%E1%BB%83%20c%C3%A1c%20ng%C3%A2n%20h%C3%A0ng%20%C4%91%C3%A1nh%20gi%C3%A1%20kh%E1%BA%A3%20n%C4%83ng%20tr%E1%BA%A3%20n%E1%BB%A3%20c%E1%BB%A7a%20m%C3%ACnh.md)
 
 [Vay nóng nếu không trả sẽ bị bêu xấu với mọi người](../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/T%E1%BB%95%20ch%E1%BB%A9c%20t%C3%A0i%20ch%C3%ADnh/Vay%20ti%E1%BB%81n/D%E1%BB%8Bch%20v%E1%BB%A5%20cho%20vay%20kh%C3%A1c/Vay%20kh%C3%B4ng%20%C4%91i%E1%BB%83m%20t%C3%ADn%20d%E1%BB%A5ng%20(app%20%C4%91en)/Vay%20n%C3%B3ng%20n%E1%BA%BFu%20kh%C3%B4ng%20tr%E1%BA%A3%20s%E1%BA%BD%20b%E1%BB%8B%20b%C3%AAu%20x%E1%BA%A5u%20v%E1%BB%9Bi%20m%E1%BB%8Di%20ng%C6%B0%E1%BB%9Di.md)
