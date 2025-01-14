@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-07-22T17:02
-updated: 2024-09-20T22:08
+updated: 2025-01-11T12:43
 ---
 spam hết messenger a đấy
 + post facebook a
@@ -17,5 +17,5 @@ còn tín dụng đen chỉ cần deep fake, 1 cccd 1 sdt verified là đủ
 nên em mới hỏi a, a dám làm black ko
 a chỉ cần mua infor và ẩn sao tốt nhất có thể là có thể đi scam toàn bộ các app đen
 
-[Bên cho vay sẽ có bảo hiểm cho vay](../../../Vay%20ti%E1%BB%81n/D%E1%BB%8Bch%20v%E1%BB%A5%20cho%20vay%20kh%C3%A1c/Vay%20c%C3%B3%20%C4%91i%E1%BB%83m%20t%C3%ADn%20d%E1%BB%A5ng%20(c%C3%B4ng%20ty%20t%C3%A0i%20ch%C3%ADnh)/B%C3%AAn%20cho%20vay%20s%E1%BA%BD%20c%C3%B3%20b%E1%BA%A3o%20hi%E1%BB%83m%20cho%20vay.md)
-[Xù nợ app đen](../../../../../%F0%9F%93%90%20D%E1%BB%B1%20%C3%A1n/Gi%C3%BAp%20nhau%20tho%C3%A1t%20n%E1%BB%A3/X%C3%B9%20n%E1%BB%A3%20app%20%C4%91en.md)
+[Bên cho vay sẽ có bảo hiểm cho vay](B%C3%AAn%20cho%20vay%20s%E1%BA%BD%20c%C3%B3%20b%E1%BA%A3o%20hi%E1%BB%83m%20cho%20vay.md)
+[Xù nợ app đen](../../../../../%F0%9F%93%90%20D%E1%BB%B1%20%C3%A1n/Gi%C3%BAp%20nhau%20tho%C3%A1t%20n%E1%BB%A3/T%C3%A0i%20li%E1%BB%87u/X%C3%B9%20n%E1%BB%A3%20app%20%C4%91en.md)

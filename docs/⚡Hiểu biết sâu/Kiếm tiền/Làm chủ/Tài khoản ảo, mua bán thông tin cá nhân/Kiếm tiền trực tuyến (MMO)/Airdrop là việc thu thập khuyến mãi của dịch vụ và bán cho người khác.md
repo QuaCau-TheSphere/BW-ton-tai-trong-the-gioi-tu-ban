@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-06-22T15:12
-updated: 2024-11-18T13:29
+updated: 2025-01-11T12:36
 ---
 Airdrop là một kiểu các công ty công nghệ cho tiền khách hàng để tri ân. VD: tạo một tài khoản được tặng $10 ban đầu để khuyến khích dùng thử, giới thiệu người khác dùng được thêm $10 nữa, làm một nhiệm vụ khác được $10 nữa…
 

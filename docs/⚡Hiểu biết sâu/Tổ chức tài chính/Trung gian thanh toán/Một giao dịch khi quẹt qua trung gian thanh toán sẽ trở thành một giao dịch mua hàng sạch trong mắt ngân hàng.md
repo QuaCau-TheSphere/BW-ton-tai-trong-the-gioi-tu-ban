@@ -9,4 +9,4 @@ Tháng này phí xuống còn 1%, vì các đối tác (visa) thấy uy tín c�
 Các bên khác (kể cả smartpay) ko có phí đó
 
 
-[Rút tiền mặt tại cửa hàng là bị cấm](../Vay%20ti%E1%BB%81n/Ng%C3%A2n%20h%C3%A0ng,%20%C4%91i%E1%BB%83m%20t%C3%ADn%20d%E1%BB%A5ng/R%C3%BAt%20ti%E1%BB%81n%20m%E1%BA%B7t%20t%E1%BA%A1i%20c%E1%BB%ADa%20h%C3%A0ng%20l%C3%A0%20b%E1%BB%8B%20c%E1%BA%A5m.md) 
+[Rút tiền mặt tại cửa hàng là bị cấm](R%C3%BAt%20ti%E1%BB%81n%20m%E1%BA%B7t%20t%E1%BA%A1i%20c%E1%BB%ADa%20h%C3%A0ng%20l%C3%A0%20b%E1%BB%8B%20c%E1%BA%A5m.md) 
