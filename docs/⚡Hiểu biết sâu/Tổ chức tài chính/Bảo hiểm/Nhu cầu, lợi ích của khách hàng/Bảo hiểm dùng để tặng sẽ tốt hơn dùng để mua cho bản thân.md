@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-11-21T16:35
-updated: 2024-11-21T16:35
+updated: 2025-01-11T14:36
 ---
 Khái niệm:: 
 Lý do:: [Người ngoài mới thấy mình cần bảo hiểm hơn mình tự thấy](./Ng%C6%B0%E1%BB%9Di%20ngo%C3%A0i%20m%E1%BB%9Bi%20th%E1%BA%A5y%20m%C3%ACnh%20c%E1%BA%A7n%20b%E1%BA%A3o%20hi%E1%BB%83m%20h%C6%A1n%20m%C3%ACnh%20t%E1%BB%B1%20th%E1%BA%A5y.md)
