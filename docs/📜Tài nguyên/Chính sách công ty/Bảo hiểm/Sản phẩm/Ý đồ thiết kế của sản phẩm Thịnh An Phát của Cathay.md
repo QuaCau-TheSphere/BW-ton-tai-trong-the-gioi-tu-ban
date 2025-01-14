@@ -4,7 +4,7 @@ created: 2024-12-22T09:57
 description: Một nơi giữ tiền không mất giá giống như sổ tiết kiệm mà vẫn có thể dùng tiền vào việc đầu tư. Được miễn thuế doanh nghiệp.
 alias: Thịnh An Phát
 extra_head: <script src="./scripts/chart.js" type="module"></script>
-updated: 2025-01-10T12:01
+updated: 2025-01-11T14:36
 ---
 ## Mô tả sản phẩm
 Thịnh An Phát của Cathay là sản phẩm bảo hiểm nhân thọ **hỗn hợp ngắn hạn đóng phí một lần**. Nó:
