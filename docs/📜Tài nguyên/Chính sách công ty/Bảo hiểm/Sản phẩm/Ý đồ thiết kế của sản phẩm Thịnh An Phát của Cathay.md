@@ -1,9 +1,9 @@
 ---
 share: true
 created: 2024-12-22T09:57
-description: Một nơi giữ tiền không mất giá giống như sổ tiết kiệm mà vẫn có thể dùng tiền vào việc đầu tư. Được miễn thuế doanh nghiệp.
+description: Một sổ tiết kiệm không làm chôn tiền cho những việc khác. Không bị tính vào thuế thu nhập doanh nghiệp khi mua cho nhân viên
 alias: Thịnh An Phát
-updated: 2025-01-16T15:24
+updated: 2025-01-16T15:53
 ---
 ## Mô tả sản phẩm
 Thịnh An Phát của Cathay là sản phẩm bảo hiểm nhân thọ **hỗn hợp ngắn hạn đóng phí một lần**. Nó:
@@ -41,7 +41,7 @@ Còn với sản phẩm này thì bạn vẫn có thể **vay lại đến 85% m
 
 Chính vì điều này nên nó sẽ tối ưu cho những ai muốn dùng tiền để đầu tư cho những việc khác. Bạn không bị chôn tiền ở đây. Nó có tính thanh khoản. 
 
-Tất nhiên, ở trường hợp mở sổ tiết kiệm thì bạn cũng có thể tạo thẻ tín dụng liên kết với sổ, và ở khía cạnh không bị chôn tiền thì nó cũng tầm một chín một mười với sản phẩm này. Sản phẩm này phù hợp hơn cho bạn nếu bạn cần các tính năng sẽ được nói tiếp ở dưới.
+Tất nhiên, bạn cũng có thể tránh việc chôn tiền khi mở sổ tiết kiệm bằng cách tạo thẻ tín dụng liên kết với sổ. Tuy nhiên lãi của thẻ tín dụng sẽ cao hơn, và cũng không chắc bạn được cấp hạn mức 85% tiền gốc như ở đây.
 
 #### Lãi ngang ngửa ngân hàng 
 Giả sử bạn đóng vào 250 triệu đồng thì lãi suất sẽ là bao nhiêu?
