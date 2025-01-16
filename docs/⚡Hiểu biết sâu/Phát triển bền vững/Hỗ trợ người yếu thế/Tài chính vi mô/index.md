@@ -1,7 +1,8 @@
 ---
 share: true
 created: 2024-10-04T13:20
-updated: 2024-10-04T13:28
+updated: 2025-01-15T23:25
+alias: quỹ tín dụng vi mô
 title: Tài chính vi mô
 ---
 Khái niệm:: 

@@ -5,7 +5,7 @@ description: Cần giảm áp lực trả nợ, tạo dòng tiền, xây dựng 
 created: 2023-09-05T16:17
 alias:
   - Trí cần gì?
-updated: 2025-01-14T18:45
+updated: 2025-01-14T22:35
 ---
 Cảm ơn bạn đã quan tâm tới Kendy. Thực ra bọn mình nghĩ việc góp tiền cũng làm khó khăn cho bạn, và về lâu dài cũng không bền vững. Trừ phi bạn có thể cho mượn một số tiền lớn với kỳ hạn dài, còn không thì chỉ nên quyên góp vào những thời điểm bí bách.
 
@@ -18,12 +18,13 @@ Cảm ơn bạn đã quan tâm tới Kendy. Thực ra bọn mình nghĩ việc g
 - tiền điện nước quản lý 1.5tr 15.11
 - tiền nhà  5.5tr 15.11
 - [Huy động nguồn tiền nhàn rỗi, lập quỹ tín dụng vi mô](../../C%C3%B4ng%20vi%E1%BB%87c/Huy%20%C4%91%E1%BB%99ng%20ngu%E1%BB%93n%20ti%E1%BB%81n%20nh%C3%A0n%20r%E1%BB%97i,%20l%E1%BA%ADp%20qu%E1%BB%B9%20t%C3%ADn%20d%E1%BB%A5ng%20vi%20m%C3%B4.md)
+- [Kịch bản khi vay](../../C%C3%B4ng%20vi%E1%BB%87c/K%E1%BB%8Bch%20b%E1%BA%A3n%20khi%20vay.md)
 - [Thương lượng với chủ nợ](../../C%C3%B4ng%20vi%E1%BB%87c/Th%C6%B0%C6%A1ng%20l%C6%B0%E1%BB%A3ng%20v%E1%BB%9Bi%20ch%E1%BB%A7%20n%E1%BB%A3.md)
 - [Tìm nguồn cho mượn 100tr qua đêm, sáng hôm sau trả lại, liên tục vài tháng](../../C%C3%B4ng%20vi%E1%BB%87c/T%C3%ACm%20ngu%E1%BB%93n%20cho%20m%C6%B0%E1%BB%A3n%20100tr%20qua%20%C4%91%C3%AAm,%20s%C3%A1ng%20h%C3%B4m%20sau%20tr%E1%BA%A3%20l%E1%BA%A1i,%20li%C3%AAn%20t%E1%BB%A5c%20v%C3%A0i%20th%C3%A1ng.md)
-- [Kịch bản khi vay](../../C%C3%B4ng%20vi%E1%BB%87c/K%E1%BB%8Bch%20b%E1%BA%A3n%20khi%20vay.md)
+- [Tạo sinh kế, thu nhập, dòng tiền](../../C%C3%B4ng%20vi%E1%BB%87c/T%E1%BA%A1o%20sinh%20k%E1%BA%BF,%20thu%20nh%E1%BA%ADp,%20d%C3%B2ng%20ti%E1%BB%81n.md)
 
 ## Tạo dòng tiền
-Bài chi tiết:: [Kiếm tiền từ các hoạt động của Quả Cầu](./T%E1%BA%A1o%20sinh%20k%E1%BA%BF,%20thu%20nh%E1%BA%ADp,%20d%C3%B2ng%20ti%E1%BB%81n.md#Đầu%20tư,%20kinh%20doanh,%20bán%20hàng)
+Bài chi tiết:: [Kiếm tiền từ các hoạt động của Quả Cầu](../../C%C3%B4ng%20vi%E1%BB%87c/T%E1%BA%A1o%20sinh%20k%E1%BA%BF,%20thu%20nh%E1%BA%ADp,%20d%C3%B2ng%20ti%E1%BB%81n.md#Đầu%20tư,%20kinh%20doanh,%20bán%20hàng)
 
 ## Xây dựng hệ thống quản lý
 Trấn Kỳ được sinh ra là để giúp Kendy nắm được các hạn trả nợ. Đây là phản hồi của khách hàng đầu tiên:
@@ -63,4 +64,4 @@ Khác:
 
 Xem thêm:
 - [Bản câu hỏi cho người cần được hỗ trợ thoát nợ](../../T%C3%A0i%20li%E1%BB%87u/B%E1%BA%A3n%20c%C3%A2u%20h%E1%BB%8Fi%20cho%20ng%C6%B0%E1%BB%9Di%20c%E1%BA%A7n%20%C4%91%C6%B0%E1%BB%A3c%20h%E1%BB%97%20tr%E1%BB%A3%20tho%C3%A1t%20n%E1%BB%A3.md)
-- [Từ việc hỗ trợ Kendy đến Patreon và tâm lý của con người về tiền](T%E1%BB%AB%20vi%E1%BB%87c%20h%E1%BB%97%20tr%E1%BB%A3%20Kendy%20%C4%91%E1%BA%BFn%20Patreon%20v%C3%A0%20t%C3%A2m%20l%C3%BD%20c%E1%BB%A7a%20con%20ng%C6%B0%E1%BB%9Di%20v%E1%BB%81%20ti%E1%BB%81n.md)
+- [Từ việc hỗ trợ Kendy đến Patreon và tâm lý của con người về tiền](./T%E1%BB%AB%20vi%E1%BB%87c%20h%E1%BB%97%20tr%E1%BB%A3%20Kendy%20%C4%91%E1%BA%BFn%20Patreon%20v%C3%A0%20t%C3%A2m%20l%C3%BD%20c%E1%BB%A7a%20con%20ng%C6%B0%E1%BB%9Di%20v%E1%BB%81%20ti%E1%BB%81n.md)
