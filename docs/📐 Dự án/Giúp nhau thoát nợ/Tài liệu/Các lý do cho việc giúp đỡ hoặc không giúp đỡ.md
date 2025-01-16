@@ -2,7 +2,7 @@
 share: true
 created: 2024-11-02T00:57
 alias: được và mất
-updated: 2025-01-13T08:59
+updated: 2025-01-14T21:05
 ---
 Cân nhắc lợi hại
 Nếu chỉ quy về tiền thì đơn giản rồi, nhưng có những thứ có muốn quy ra tiền cũng không biết phải làm thế nào
@@ -77,7 +77,7 @@ VD:
 - Mục tiêu là giúp con người cụ thể này, hay mục tiêu là để không ai phải có hoàn cảnh như thế này? Mỗi ngày có cả trăm người chết vì nợ. Thêm một người nữa thì khác gì?
 - Vay đầu này đắp đầu kia là không ổn, mà cần dứt điểm trả hết lãi. 
 - Thấy việc gõ cửa hỏi từng người không bằng làm được thứ khiến họ muốn giúp mình
-- [Khi được hỏi về những điều này thì cứ nói là để giải thích sau, giờ phải tập trung vào cái quan trọng hơn](./C%C3%B3%20nh%E1%BB%AFng%20l%C3%BAc%20c%C3%A2u%20h%E1%BB%8Fi%20ch%E1%BA%A5t%20v%E1%BA%A5n%20th%C3%AC%20ng%C6%B0%E1%BB%9Di%20%C4%91%C6%B0%E1%BB%A3c%20gi%C3%BAp%20l%E1%BA%A1i%20ch%E1%BB%89%20tr%E1%BA%A3%20l%E1%BB%9Di%20nh%E1%BB%AFng%20c%C3%A2u%20h%E1%BB%8D%20th%E1%BA%A5y%20quan%20tr%E1%BB%8Dng%20h%C6%A1n.%20M%C3%A0%20th%E1%BA%A5y%20b%E1%BB%8B%20v%E1%BA%ADy%20th%C3%AC%20l%E1%BA%A1i%20d%E1%BB%85%20nghi%20h%E1%BB%8D.md)
+- [Khi được hỏi về những điều này thì cứ nói là để giải thích sau, giờ phải tập trung vào cái quan trọng hơn](./C%C3%B3%20nh%E1%BB%AFng%20l%C3%BAc%20ng%C6%B0%E1%BB%9Di%20%C4%91%C6%B0%E1%BB%A3c%20gi%C3%BAp%20l%E1%BA%A1i%20ch%E1%BB%89%20tr%E1%BA%A3%20l%E1%BB%9Di%20nh%E1%BB%AFng%20c%C3%A2u%20h%E1%BB%8Fi%20ch%E1%BA%A5t%20v%E1%BA%A5n%20h%E1%BB%8D%20th%E1%BA%A5y%20quan%20tr%E1%BB%8Dng%20h%C6%A1n.%20M%C3%A0%20th%E1%BA%A5y%20b%E1%BB%8B%20v%E1%BA%ADy%20th%C3%AC%20l%E1%BA%A1i%20d%E1%BB%85%20nghi%20h%E1%BB%8D.md)
     - Thực ra không hẳn chỉ là không có thời gian, mà là không chịu trả lời luôn
         - Không chịu đặt câu hỏi, mà cũng không chịu trả lời khi được hỏi
 không chịu đi vào chi tiết vì thấy không giúp ích được gì
