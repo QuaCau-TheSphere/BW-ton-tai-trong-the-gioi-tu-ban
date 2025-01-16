@@ -3,7 +3,7 @@ share: true
 created: 2024-12-22T09:57
 description: Một nơi giữ tiền không mất giá giống như sổ tiết kiệm mà vẫn có thể dùng tiền vào việc đầu tư. Được miễn thuế doanh nghiệp.
 alias: Thịnh An Phát
-updated: 2025-01-16T15:18
+updated: 2025-01-16T15:24
 ---
 ## Mô tả sản phẩm
 Thịnh An Phát của Cathay là sản phẩm bảo hiểm nhân thọ **hỗn hợp ngắn hạn đóng phí một lần**. Nó:
@@ -63,7 +63,7 @@ Tại sao mình lại chọn số 250 triệu? Vì ở mức này thì khuyến 
 ![Các mốc khuyến mãi.png](../../../../assets/attachments/C%C3%A1c%20m%E1%BB%91c%20khuy%E1%BA%BFn%20m%C3%A3i.png)
 
 #### An toàn hơn ngân hàng
-Nếu ngân hàng phá sản, ngân hàng nhà nước sẽ can thiệp và chi trả tối đa là 70 triệu/người. Nhưng nếu công ty bảo hiểm phá sản, thì mức chi trả tối đa là 200 triệu/người, do có hai, ba lớp chuyển nhượng tái bảo hiểm.
+Sản phẩm bảo hiểm cũng như sản phẩm ngân hàng có mức độ rủi ro là 0. Nhưng nếu ngân hàng phá sản, bạn sẽ được trả tối đa là 70 triệu. Còn nếu công ty bảo hiểm phá sản, thì bạn sẽ được trả tối đa là 200 triệu, do một công ty bảo hiểm có hai, ba lớp chuyển nhượng tái bảo hiểm đằng sau.
 
 ### Được xem như một chi phí vận hành cho doanh nghiệp và không bị tính thuế
 Đọc [bài chi tiết](../../../Qu%E1%BA%A3n%20l%C3%BD%20nh%C3%A0%20n%C6%B0%E1%BB%9Bc/B%E1%BA%A3o%20hi%E1%BB%83m/T%E1%BA%A1i%20sao%20doanh%20nghi%E1%BB%87p%20khi%20mua%20b%E1%BA%A3o%20hi%E1%BB%83m%20nh%C3%A2n%20th%E1%BB%8D%20cho%20nh%C3%A2n%20vi%C3%AAn%20l%E1%BA%A1i%20kh%C3%B4ng%20b%E1%BB%8B%20t%C3%ADnh%20v%C3%A0o%20thu%E1%BA%BF%20thu%20nh%E1%BA%ADp%20doanh%20nghi%E1%BB%87p.md).
