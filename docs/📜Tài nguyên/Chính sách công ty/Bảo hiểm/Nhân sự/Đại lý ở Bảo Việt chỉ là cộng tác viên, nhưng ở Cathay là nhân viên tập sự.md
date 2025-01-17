@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-11-10T17:17
-updated: 2025-01-11T12:34
+updated: 2025-01-17T09:35
 ---
 Khái niệm:: 
 [NS, SE, SA chỉ là đại lý, nhưng TUM là trở thành nhân viên](NS,%20SE,%20SA%20ch%E1%BB%89%20l%C3%A0%20%C4%91%E1%BA%A1i%20l%C3%BD,%20nh%C6%B0ng%20TUM%20l%C3%A0%20tr%E1%BB%9F%20th%C3%A0nh%20nh%C3%A2n%20vi%C3%AAn.md)

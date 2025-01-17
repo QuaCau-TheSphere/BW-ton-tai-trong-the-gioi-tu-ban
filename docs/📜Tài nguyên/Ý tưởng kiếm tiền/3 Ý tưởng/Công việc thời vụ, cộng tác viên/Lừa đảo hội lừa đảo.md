@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2024-11-04T22:00
+updated: 2025-01-17T11:58
 ---
 Yêu cầu đầu vào:: [Biết cách ẩn danh](../../1%20Y%C3%AAu%20c%E1%BA%A7u%20%C4%91%E1%BA%A7u%20v%C3%A0o/Theo%20ki%E1%BA%BFn%20th%E1%BB%A9c,%20k%E1%BB%B9%20n%C4%83ng/Bi%E1%BA%BFt%20c%C3%A1ch%20%E1%BA%A9n%20danh.md)
 Hình thức:: [Việc làm thời vụ, theo dự án](../../2%20H%C3%ACnh%20th%E1%BB%A9c/Vi%E1%BB%87c%20l%C3%A0m%20th%E1%BB%9Di%20v%E1%BB%A5,%20theo%20d%E1%BB%B1%20%C3%A1n.md)
@@ -17,4 +17,6 @@ Những hình thức lừa đảo trên telegram xưa giờ là không mới. G�
 [Tuyển dụng online lừa đảo người tìm việc - Kỳ 1: Mất hơn trăm triệu vẫn không có việc - Tuổi Trẻ Online](https://tuoitre.vn/tuyen-dung-online-lua-dao-nguoi-tim-viec-ky-1-mat-hon-tram-trieu-van-khong-co-viec-20230829101044997.htm)
 [Bẫy tuyển dụng online lừa đảo người tìm việc - Kỳ 2: Chiêu trò lừa đảo trên Telegram - Tuổi Trẻ Online](https://tuoitre.vn/bay-tuyen-dung-online-lua-dao-nguoi-tim-viec-ky-2-chieu-tro-lua-dao-tren-telegram-2023083010523942.htm)
 
-https://chongluadao.vn/ https://www.facebook.com/chongluadao.vn
+
+
+[Cảnh giác lừa đảo](../../../C%E1%BA%A3nh%20gi%C3%A1c%20l%E1%BB%ABa%20%C4%91%E1%BA%A3o.md)

@@ -3,7 +3,7 @@ share: true
 created: 2024-12-22T09:57
 description: Một sổ tiết kiệm không làm chôn tiền cho những việc khác. Không bị tính vào thuế thu nhập doanh nghiệp khi mua cho nhân viên
 alias: Thịnh An Phát
-updated: 2025-01-16T15:53
+updated: 2025-01-17T14:43
 ---
 ## Mô tả sản phẩm
 Thịnh An Phát của Cathay là sản phẩm bảo hiểm nhân thọ **hỗn hợp ngắn hạn đóng phí một lần**. Nó:
@@ -14,17 +14,14 @@ Thịnh An Phát của Cathay là sản phẩm bảo hiểm nhân thọ **hỗn 
 Số tiền bạn đóng vào tối thiểu là 30 triệu, tối đa là 10 tỷ. Số tiền nhận được sau khi đáo hạn tối thiểu là 100 triệu, tối đa là 16 tỷ. Nếu chẳng may chưa tới lúc đáo hạn mà bạn chết thì bạn được nhận lại được gốc và lãi ngay lập tức.
 
 ![Thịnh An Phát.jpg](../../../../assets/attachments/Th%E1%BB%8Bnh%20An%20Ph%C3%A1t.jpg)
-
 ![Thịnh An Phát 2.jpg](../../../../assets/attachments/Th%E1%BB%8Bnh%20An%20Ph%C3%A1t%202.jpg)
-
 ![Thịnh An Phát 3.jpg](../../../../assets/attachments/Th%E1%BB%8Bnh%20An%20Ph%C3%A1t%203.jpg)
-
 ![Thịnh An Phát 4.jpg](../../../../assets/attachments/Th%E1%BB%8Bnh%20An%20Ph%C3%A1t%204.jpg)
 
 ## Ý đồ thiết kế 
 ### Giúp nhà đầu tư trữ tiền chờ đầu tư
 - Linh hoạt hơn ngân hàng
-- Lãi ngang ngửa ngân hàng 
+- Lãi gần bằng ngân hàng 
 - An toàn hơn ngân hàng
 
 #### Linh hoạt hơn ngân hàng
@@ -41,9 +38,10 @@ Còn với sản phẩm này thì bạn vẫn có thể **vay lại đến 85% m
 
 Chính vì điều này nên nó sẽ tối ưu cho những ai muốn dùng tiền để đầu tư cho những việc khác. Bạn không bị chôn tiền ở đây. Nó có tính thanh khoản. 
 
-Tất nhiên, bạn cũng có thể tránh việc chôn tiền khi mở sổ tiết kiệm bằng cách tạo thẻ tín dụng liên kết với sổ. Tuy nhiên lãi của thẻ tín dụng sẽ cao hơn, và cũng không chắc bạn được cấp hạn mức 85% tiền gốc như ở đây.
+Tất nhiên, bạn cũng có thể tránh việc chôn tiền khi mở sổ tiết kiệm bằng cách tạo thẻ tín dụng liên kết với sổ. Tuy nhiên lãi của thẻ tín dụng sẽ cao hơn, và cũng không chắc bạn được cấp hạn mức 85% tiền gốc như ở đây. Bạn cũng có thể xào thẻ hoặc dùng dịch vụ đảo nợ để tận dụng khoảng thời gian miễn lãi 30 ngày đầu cho những đợt đảo nợ, tuy nhiên bạn sẽ cần có nhiều thẻ hoặc chịu phí 2%.
 
-#### Lãi ngang ngửa ngân hàng 
+#### Lãi gần bằng ngân hàng 
+##### Khi chưa có khuyến mãi
 Giả sử bạn đóng vào 250 triệu đồng thì lãi suất sẽ là bao nhiêu?
 
 | Thời hạn | Tiền gốc      | Đáo hạn       | Chênh lệch   | Lãi suất  |
@@ -51,6 +49,9 @@ Giả sử bạn đóng vào 250 triệu đồng thì lãi suất sẽ là bao n
 | 5 năm    | 251,685,000 đ | 315,000,000 đ | 63,315,000 đ | 5.03%/năm |
 | 3 năm    | 250,756,000 đ | 278,000,000 đ | 27,244.000 đ | 3.62%/năm |
 
+Lãi này gần bằng lãi ở các ngân hàng lớn như Vietcombank
+
+##### Khi có khuyến mãi
 Từ đây đến ngày 26/2/2025, Cathay đang có chương trình khuyến mãi tặng một chỉ vàng cho khách hàng (8.5 triệu). Với đại lý có chức vụ NS/NE thì tổng số tiền họ có được cho một hợp đồng là tầm 18 triệu. Nếu tất cả những con số này được cắt vào tiền gốc thì sao?
 
 | Thời hạn | Tiền gốc      | Đáo hạn       | Chênh lệch   | Lãi suất  |
@@ -58,15 +59,17 @@ Từ đây đến ngày 26/2/2025, Cathay đang có chương trình khuyến mã
 | 5 năm    | 224,351,300 đ | 315,000,000 đ | 90,648,700 đ | 8.08%/năm |
 | 3 năm    | 224,694,660 đ | 278,000,000 đ | 53,305,340 đ | 7.91%/năm |
 
-Tại sao mình lại chọn số 250 triệu? Vì ở mức này thì khuyến mãi mới là một chỉ vàng. Dưới số này thì khuyến mãi chỉ là nửa chỉ thôi. Số tiền gửi thấp nhất cho sản phẩm này là 90 triệu.
+Tại sao con số 250 triệu lại được chọn? Vì ở mức này thì khuyến mãi mới là một chỉ vàng. Dưới số này thì khuyến mãi chỉ là nửa chỉ thôi. Số tiền gửi thấp nhất cho sản phẩm này là 90 triệu.
 
 ![Các mốc khuyến mãi.png](../../../../assets/attachments/C%C3%A1c%20m%E1%BB%91c%20khuy%E1%BA%BFn%20m%C3%A3i.png)
+
+Hay nói cách khác, bạn sẽ được nhận một phần lãi ngay lập tức sau khi mua. (Thực ra là sau 3 tuần đến 1 tháng, nhưng cũng có thể xem là ngay lập tức.)
 
 #### An toàn hơn ngân hàng
 Sản phẩm bảo hiểm cũng như sản phẩm ngân hàng có mức độ rủi ro là 0. Nhưng nếu ngân hàng phá sản, bạn sẽ được trả tối đa là 70 triệu. Còn nếu công ty bảo hiểm phá sản, thì bạn sẽ được trả tối đa là 200 triệu, do một công ty bảo hiểm có hai, ba lớp chuyển nhượng tái bảo hiểm đằng sau.
 
 ### Được xem như một chi phí vận hành cho doanh nghiệp và không bị tính thuế
-Đọc [bài chi tiết](../../../Qu%E1%BA%A3n%20l%C3%BD%20nh%C3%A0%20n%C6%B0%E1%BB%9Bc/B%E1%BA%A3o%20hi%E1%BB%83m/T%E1%BA%A1i%20sao%20doanh%20nghi%E1%BB%87p%20khi%20mua%20b%E1%BA%A3o%20hi%E1%BB%83m%20nh%C3%A2n%20th%E1%BB%8D%20cho%20nh%C3%A2n%20vi%C3%AAn%20l%E1%BA%A1i%20kh%C3%B4ng%20b%E1%BB%8B%20t%C3%ADnh%20v%C3%A0o%20thu%E1%BA%BF%20thu%20nh%E1%BA%ADp%20doanh%20nghi%E1%BB%87p.md).
+Bài chi tiết: [Tại sao doanh nghiệp khi mua bảo hiểm nhân thọ cho nhân viên lại không bị tính vào thuế thu nhập doanh nghiệp?](../../../Qu%E1%BA%A3n%20l%C3%BD%20nh%C3%A0%20n%C6%B0%E1%BB%9Bc/B%E1%BA%A3o%20hi%E1%BB%83m/Doanh%20nghi%E1%BB%87p%20khi%20mua%20b%E1%BA%A3o%20hi%E1%BB%83m%20nh%C3%A2n%20th%E1%BB%8D%20cho%20nh%C3%A2n%20vi%C3%AAn%20l%E1%BA%A1i%20kh%C3%B4ng%20b%E1%BB%8B%20t%C3%ADnh%20v%C3%A0o%20thu%E1%BA%BF%20thu%20nh%E1%BA%ADp%20doanh%20nghi%E1%BB%87p,%20d%C3%B9%20th%E1%BB%B1c%20ra%20lu%E1%BA%ADt%20v%E1%BA%ABn%20c%E1%BA%A5m.md).
 
 ### Đặc điểm khác
 #### Người nhận tiền sẽ không gặp nhiều phiền phức để làm thủ tục
@@ -78,13 +81,12 @@ Tất cả giấy tờ cuối cùng cũng đã xong, nhưng đó là bởi vì N
 #### Tại sao lại có hai mức 3 năm và 5 năm? 
 Vì 5 gần với 6. Thay vì bạn mua gói 5 năm, thì tuy tiền lãi có nhiều hơn một tí, nhưng bạn không quay thêm vòng vốn được. Còn nếu bạn mua hai lần 3 năm, thì bạn được nhận hai lần lãi và khuyến mãi, trong khi thời gian cũng tương đương 5 năm. Cathay muốn bạn thấy rằng việc tái tục là có lợi hơn. Mức 3 năm không chỉ dành cho những ai muốn lấy tiền nhanh, mà còn dành cho những ai muốn lấy tiền nhiều.
 
-nhận ngay sau 21 → 30 ngày
 
 > [!NOTE] Điểm khác biệt của Thịnh An Phát với sổ tiết kiệm ngân hàng thông thường:
 > - Có thể rút ra mượn tạm đến 85% mà không bị mất lãi
 > - Trả gốc và lãi ngay khi người được bảo hiểm chết mà không cần chờ đáo hạn
 > - Lãi gần tương đương lãi ngân hàng. Đến trước ngày 26/2/2025 thì lãi gấp đôi ngân hàng, và được nhận một phần ngay lập tức chứ không phải đợi đến khi đáo hạn
-> - [Doanh nghiệp khi mua cho nhân viên không bị tính vào thuế thu nhập doanh nghiệp](../../../Qu%E1%BA%A3n%20l%C3%BD%20nh%C3%A0%20n%C6%B0%E1%BB%9Bc/B%E1%BA%A3o%20hi%E1%BB%83m/T%E1%BA%A1i%20sao%20doanh%20nghi%E1%BB%87p%20khi%20mua%20b%E1%BA%A3o%20hi%E1%BB%83m%20nh%C3%A2n%20th%E1%BB%8D%20cho%20nh%C3%A2n%20vi%C3%AAn%20l%E1%BA%A1i%20kh%C3%B4ng%20b%E1%BB%8B%20t%C3%ADnh%20v%C3%A0o%20thu%E1%BA%BF%20thu%20nh%E1%BA%ADp%20doanh%20nghi%E1%BB%87p.md)
+> - [Doanh nghiệp khi mua cho nhân viên không bị tính vào thuế thu nhập doanh nghiệp](../../../Qu%E1%BA%A3n%20l%C3%BD%20nh%C3%A0%20n%C6%B0%E1%BB%9Bc/B%E1%BA%A3o%20hi%E1%BB%83m/Doanh%20nghi%E1%BB%87p%20khi%20mua%20b%E1%BA%A3o%20hi%E1%BB%83m%20nh%C3%A2n%20th%E1%BB%8D%20cho%20nh%C3%A2n%20vi%C3%AAn%20l%E1%BA%A1i%20kh%C3%B4ng%20b%E1%BB%8B%20t%C3%ADnh%20v%C3%A0o%20thu%E1%BA%BF%20thu%20nh%E1%BA%ADp%20doanh%20nghi%E1%BB%87p,%20d%C3%B9%20th%E1%BB%B1c%20ra%20lu%E1%BA%ADt%20v%E1%BA%ABn%20c%E1%BA%A5m.md)
 
 Xem thêm:: [Tại sao nên mua bảo hiểm từ Quả Cầu?](../../../Qu%C3%A0%20t%E1%BA%B7ng/B%E1%BA%A3o%20hi%E1%BB%83m/index.md)
 
