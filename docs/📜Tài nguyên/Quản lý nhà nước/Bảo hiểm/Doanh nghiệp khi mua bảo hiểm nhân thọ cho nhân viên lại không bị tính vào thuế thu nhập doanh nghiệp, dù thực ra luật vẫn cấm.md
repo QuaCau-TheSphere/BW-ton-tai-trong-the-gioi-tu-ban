@@ -1,14 +1,14 @@
 ---
 share: true
 created: 2024-12-23T15:09
-updated: 2025-01-16T15:07
-title: Tại sao doanh nghiệp khi mua bảo hiểm nhân thọ cho nhân viên lại không bị tính vào thuế thu nhập doanh nghiệp?
+updated: 2025-01-17T14:35
 description: Thâm cung bí sử của Thịnh An Phát
 ---
+# Tại sao doanh nghiệp khi mua bảo hiểm nhân thọ cho nhân viên lại không bị tính vào thuế thu nhập doanh nghiệp?
 [Điều 3.3 Thông tư 25/2018/TT-BTC](https://thuvienphapluat.vn/phap-luat/cong-ty-mua-bao-hiem-nhan-tho-cho-nhan-vien-co-duoc-tinh-vao-chi-phi-duoc-tru-khi-tinh-thue-thu-nha-626376-83663.html "Công ty mua bảo hiểm nhân thọ cho nhân viên có được tính vào chi phí được trừ khi tính thuế thu nhập doanh nghiệp không?") quy định rằng nếu một doanh nghiệp mua bảo hiểm nhân thọ cho nhân viên thì chỉ được miễn thuế nếu nó không vượt quá 3 triệu đồng/tháng/người. Phần vượt quá sẽ không được trừ khi tính thuế thu nhập doanh nghiệp. Tuy nhiên, theo thông tin chúng tôi đang có, có vẻ như quy định này đang được thả lỏng. Một giám đốc mua một bảo hiểm nhân thọ trị giá 1 tỷ đồng thì vẫn tính chi tiêu cho công ty là 1 tỷ đồng, dù sau này khi đáo hạn thì tiền này sẽ trở thành tiền cá nhân của họ. Liệu có chỉ thị nào đó đè lên cái thông tư này không? Chúng tôi không có thông tin, nhưng chúng tôi có giả thuyết để lý giải hiện tượng này.
 
 > [!Important] Lưu ý
-> Những thông tin trong đây đến từ một nguồn thân tín đã có những trải nghiệm trong việc bán sản phẩm này. Điều này có nghĩa là các phát biểu trong đây có khả năng bị thiên lệch và khó tìm được dữ kiện công khai. Có những phát biểu chúng tôi cũng nghi ngờ độ chính xác vì có vẻ mâu thuẫn với những bằng chứng khác, nhưng chúng tôi chưa có điều kiện để chất vấn. Chúng tôi vẫn để vào vì chúng vẫn có vẻ hợp lý và cần thiết để có những giải thích khác. Chúng tôi nỗ lực trong khả năng để kiểm tra lại các lập luận trong đây.
+> Những thông tin trong đây đến từ một nguồn thân tín đã có những trải nghiệm trong việc bán sản phẩm này. Điều này có nghĩa là các phát biểu trong đây có khả năng bị thiên lệch và khó tìm được dữ kiện công khai. Có những phát biểu chúng tôi cũng nghi ngờ độ chính xác vì có vẻ mâu thuẫn với những bằng chứng khác, nhưng chúng tôi chưa có điều kiện để chất vấn. Chúng tôi vẫn sử dụng vì chúng vẫn có vẻ hợp lý và hữu ích. Chúng tôi nỗ lực trong khả năng để kiểm tra lại các lập luận trong đây.
 
 Các công ty có nhiều cách để trốn thuế. Chẳng hạn, để tận dụng việc nhà nước ưu đãi hoặc không thu thuế trong 3, 4 năm đầu, người ta đẻ công ty con rồi phá sản liên tục. Hoặc để được tính như một chi phí vận hành doanh nghiệp, họ có thể mua hoá đơn giả hoặc giả vờ chi tiêu để có hoá đơn mang về. Hoặc thưởng giả cho nhân sự, hoặc giả bảo hiểm xã hội. Nhà nước biết những điều này nhưng không thể kiểm soát được. Chính vì vậy họ cần một cách để dung hoà cho cả hai bên để vẫn tốt cho cả hai. Một bên được giảm thuế, một bên không phải giải quyết đống hậu quả để lại. Một giải pháp như [Thịnh An Phát](../../Ch%C3%ADnh%20s%C3%A1ch%20c%C3%B4ng%20ty/B%E1%BA%A3o%20hi%E1%BB%83m/S%E1%BA%A3n%20ph%E1%BA%A9m/%C3%9D%20%C4%91%E1%BB%93%20thi%E1%BA%BFt%20k%E1%BA%BF%20c%E1%BB%A7a%20s%E1%BA%A3n%20ph%E1%BA%A9m%20Th%E1%BB%8Bnh%20An%20Ph%C3%A1t%20c%E1%BB%A7a%20Cathay.md) sẽ thoả mãn được đôi bên.
 

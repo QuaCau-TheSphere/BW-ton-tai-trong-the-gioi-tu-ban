@@ -47,6 +47,6 @@ Tốn thời gian nhất là phải chuyển app. Chứ quẹt xong mã này nó
 > - **Shinhan**, **TP**, **VP** không ghi rõ tên giao dịch với cửa hàng nào khi quẹt VNPAY, dù vẫn chuyển được
 > - **Kiên Long** không quẹt được VNPAY, dù quẹt TK ngân hàng bình thường khác vẫn được. MSB có thể được, cần kiểm tra lại
 > 
-> Xem thêm:: [Ghi chú về các app ngân hàng](./Ghi%20ch%C3%BA%20v%E1%BB%81%20c%C3%A1c%20app%20ng%C3%A2n%20h%C3%A0ng.md)
+> Xem thêm:: [Ghi chú về các app ngân hàng](Ghi%20ch%C3%BA%20v%E1%BB%81%20c%C3%A1c%20app%20ng%C3%A2n%20h%C3%A0ng.md)
 
 ![](https://i.imgur.com/Q7KcLn6.png)
