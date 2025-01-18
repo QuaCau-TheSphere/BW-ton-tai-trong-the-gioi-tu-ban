@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-11-05T09:56
-updated: 2025-01-11T14:36
+updated: 2025-03-21T15:09
 ---
 IP tháng trước tối thiểu 2 tr, và
 
@@ -11,4 +11,4 @@ IP tháng trước tối thiểu 2 tr, và
 
 Năng suất tháng chỉ có nếu tháng trước có hoạt động
 
-[Năng suất quý tính trên FYP](N%C4%83ng%20su%E1%BA%A5t%20qu%C3%BD%20t%C3%ADnh%20tr%C3%AAn%20FYP.md)
+[Năng suất quý tính trên FYP](./N%C4%83ng%20su%E1%BA%A5t%20qu%C3%BD%20t%C3%ADnh%20tr%C3%AAn%20FYP.md)

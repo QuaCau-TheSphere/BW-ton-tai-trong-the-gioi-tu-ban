@@ -1,20 +1,114 @@
 ---
 share: true
 created: 2024-07-17T21:41
-updated: 2025-01-14T18:51
+<<<<<<< HEAD
+updated: 2024-08-27T16:46
+title: Các dịch vụ cho vay
+---
+## Vì người yếu thế
+- [Quỹ Tình Thân](./V%C3%AC%20ng%C6%B0%E1%BB%9Di%20y%E1%BA%BFu%20th%E1%BA%BF/Qu%E1%BB%B9%20T%C3%ACnh%20Th%C3%A2n.md)           
+- [CEP](./V%C3%AC%20ng%C6%B0%E1%BB%9Di%20y%E1%BA%BFu%20th%E1%BA%BF/CEP.md)                     
+- [Ngân hàng chính sách xã hội](./V%C3%AC%20ng%C6%B0%E1%BB%9Di%20y%E1%BA%BFu%20th%E1%BA%BF/Ng%C3%A2n%20h%C3%A0ng%20ch%C3%ADnh%20s%C3%A1ch%20x%C3%A3%20h%E1%BB%99i.md) 
+
+## Ví trả sau
+|           | Số tiền rút lần đầu | Điều kiện |
+| --------- | ------------------- | --------- |
+| Momo      | 3tr                 |           |
+| ZaloPay   |                     |           |
+| Shopee    |                     |           |
+| ShopeePay |                     |           |
+| Lazada    |                     |           |
+
+## App cho vay
+|             | Số tiền rút lần đầu | Lãi | Thời hạn |
+| ----------- | ------------------- | --- | -------- |
+| Fundiin     |                     |     |          |
+| Tnex        |                     |     |          |
+| Kredivo     |                     |     |          |
+| EasyCredit  |                     |     |          |
+| Mcredit     |                     |     |          |
+| Cake        |                     |     |          |
+| HDSaison    |                     |     |          |
+| Home Credit |                     |     |          |
+| FE Credit            |                     |     |          |
+
+- Khi bị app từ chối duyệt thì phải đợi mấy tháng mới cho nộp lại
+- Viettel Money chỉ là cái app để chuyển sang các app cho vay khác. [Rất nhiều các công ty cho vay lấy dữ liệu từ Viettel](../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Vay%20ti%E1%BB%81n/D%E1%BB%8Bch%20v%E1%BB%A5%20cho%20vay%20kh%C3%A1c/Vay%20c%C3%B3%20%C4%91i%E1%BB%83m%20t%C3%ADn%20d%E1%BB%A5ng/R%E1%BA%A5t%20nhi%E1%BB%81u%20c%C3%A1c%20c%C3%B4ng%20ty%20cho%20vay%20l%E1%BA%A5y%20d%E1%BB%AF%20li%E1%BB%87u%20t%E1%BB%AB%20Viettel.md)
+- Vay dưới 10tr dễ được duyệt hơn
+- Home Credit bắt phải có 2 giấy tờ bổ sung
+- Tnex ko đổi đc sđt 
+
+
+## Ngân hàng
+|      | Số tiền rút lần đầu | Lãi | Thời hạn | Điều kiện |
+| ---- | ------------------- | --- | -------- | --------- |
+| CIMB |                     |     |          |           |
+Ngân hàng CIMB tạo thẻ tín dụng hạn mức 100tr, chỉ cần trả 3tr∕tháng trong mấy năm hay gì đó là đc
+[Ngân hàng chỉ cần đất, sổ tiết kiệm hoặc ô tô, chứ mấy cái nhỏ sẽ từ chối](../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Vay%20ti%E1%BB%81n/Ng%C3%A2n%20h%C3%A0ng,%20%C4%91i%E1%BB%83m%20t%C3%ADn%20d%E1%BB%A5ng/Ng%C3%A2n%20h%C3%A0ng%20ch%E1%BB%89%20c%E1%BA%A7n%20%C4%91%E1%BA%A5t,%20s%E1%BB%95%20ti%E1%BA%BFt%20ki%E1%BB%87m%20ho%E1%BA%B7c%20%C3%B4%20t%C3%B4,%20ch%E1%BB%A9%20m%E1%BA%A5y%20c%C3%A1i%20nh%E1%BB%8F%20s%E1%BA%BD%20t%E1%BB%AB%20ch%E1%BB%91i.md)
+[Ghi chú về các app ngân hàng](../../%F0%9F%93%90%20D%E1%BB%B1%20%C3%A1n/Ch%E1%BA%A1y%20ch%E1%BB%89%20ti%C3%AAu%20cho%20nh%C3%A2n%20vi%C3%AAn%20c%C3%A1c%20c%C3%B4ng%20ty/T%C3%A0i%20li%E1%BB%87u/Ghi%20ch%C3%BA%20v%E1%BB%81%20c%C3%A1c%20app%20ng%C3%A2n%20h%C3%A0ng.md)
+[Thẻ tín dụng và ví trả sau đều là các hình thức cấp tín dụng](../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Vay%20ti%E1%BB%81n/Ng%C3%A2n%20h%C3%A0ng,%20%C4%91i%E1%BB%83m%20t%C3%ADn%20d%E1%BB%A5ng/Th%E1%BA%BB%20t%C3%ADn%20d%E1%BB%A5ng%20v%C3%A0%20v%C3%AD%20tr%E1%BA%A3%20sau%20%C4%91%E1%BB%81u%20l%C3%A0%20c%C3%A1c%20h%C3%ACnh%20th%E1%BB%A9c%20c%E1%BA%A5p%20t%C3%ADn%20d%E1%BB%A5ng.md)
+
+## App cho vay nóng
+[App vay nóng không cần điểm tín dụng](./App%20vay%20n%C3%B3ng%20kh%C3%B4ng%20c%E1%BA%A7n%20%C4%91i%E1%BB%83m%20t%C3%ADn%20d%E1%BB%A5ng/index.md)
+
+## Tiệm cầm đồ
+F88 giống tiệm cầm đồ, dùng cà vẹt xe để vay
+
+Thông tin khác:
+
+
+## ⚡Hiểu biết sâu
+- \-: 
+    - [Cho mượn theo nhóm đảm bảo không bị quịt hơn](../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Vay%20ti%E1%BB%81n/Cho%20m%C6%B0%E1%BB%A3n%20theo%20nh%C3%B3m%20%C4%91%E1%BA%A3m%20b%E1%BA%A3o%20kh%C3%B4ng%20b%E1%BB%8B%20qu%E1%BB%8Bt%20h%C6%A1n.md)
+    - [Chỉ có người thân được bảo lãnh, chứ bạn bè thì không](../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Vay%20ti%E1%BB%81n/Ch%E1%BB%89%20c%C3%B3%20ng%C6%B0%E1%BB%9Di%20th%C3%A2n%20%C4%91%C6%B0%E1%BB%A3c%20b%E1%BA%A3o%20l%C3%A3nh,%20ch%E1%BB%A9%20b%E1%BA%A1n%20b%C3%A8%20th%C3%AC%20kh%C3%B4ng.md)
+    - [Vay tiền](../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Vay%20ti%E1%BB%81n/index.md)
+
+- Dịch vụ cho vay khác: 
+    - [Việc tạo tài khoản mới ở các app cho vay tiền thực ra không quan trọng, vì dữ liệu đã được chia sẻ hết rồi](../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Vay%20ti%E1%BB%81n/D%E1%BB%8Bch%20v%E1%BB%A5%20cho%20vay%20kh%C3%A1c/Vay%20c%C3%B3%20%C4%91i%E1%BB%83m%20t%C3%ADn%20d%E1%BB%A5ng/Vi%E1%BB%87c%20t%E1%BA%A1o%20t%C3%A0i%20kho%E1%BA%A3n%20m%E1%BB%9Bi%20%E1%BB%9F%20c%C3%A1c%20app%20cho%20vay%20ti%E1%BB%81n%20th%E1%BB%B1c%20ra%20kh%C3%B4ng%20quan%20tr%E1%BB%8Dng,%20v%C3%AC%20d%E1%BB%AF%20li%E1%BB%87u%20%C4%91%C3%A3%20%C4%91%C6%B0%E1%BB%A3c%20chia%20s%E1%BA%BB%20h%E1%BA%BFt%20r%E1%BB%93i.md)
+    - [Bên cho vay sẽ có bảo hiểm cho vay](../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Vay%20ti%E1%BB%81n/D%E1%BB%8Bch%20v%E1%BB%A5%20cho%20vay%20kh%C3%A1c/Vay%20c%C3%B3%20%C4%91i%E1%BB%83m%20t%C3%ADn%20d%E1%BB%A5ng/B%C3%AAn%20cho%20vay%20s%E1%BA%BD%20c%C3%B3%20b%E1%BA%A3o%20hi%E1%BB%83m%20cho%20vay.md)
+    - [Các tài sản hay bảo hiểm chỉ là phụ thêm để tăng khả năng được duyệt, chứ hạn mức tiền vay thì đã được cố định sẵn](../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Vay%20ti%E1%BB%81n/D%E1%BB%8Bch%20v%E1%BB%A5%20cho%20vay%20kh%C3%A1c/Vay%20c%C3%B3%20%C4%91i%E1%BB%83m%20t%C3%ADn%20d%E1%BB%A5ng/C%C3%A1c%20t%C3%A0i%20s%E1%BA%A3n%20hay%20b%E1%BA%A3o%20hi%E1%BB%83m%20ch%E1%BB%89%20l%C3%A0%20ph%E1%BB%A5%20th%C3%AAm%20%C4%91%E1%BB%83%20t%C4%83ng%20kh%E1%BA%A3%20n%C4%83ng%20%C4%91%C6%B0%E1%BB%A3c%20duy%E1%BB%87t,%20ch%E1%BB%A9%20h%E1%BA%A1n%20m%E1%BB%A9c%20ti%E1%BB%81n%20vay%20th%C3%AC%20%C4%91%C3%A3%20%C4%91%C6%B0%E1%BB%A3c%20c%E1%BB%91%20%C4%91%E1%BB%8Bnh%20s%E1%BA%B5n.md)
+    - [Cho vay ngang hàng kết nối trực tiếp người đi vay với người cho vay mà không thông qua các tổ chức trung gian tài chính](../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Vay%20ti%E1%BB%81n/D%E1%BB%8Bch%20v%E1%BB%A5%20cho%20vay%20kh%C3%A1c/Vay%20c%C3%B3%20%C4%91i%E1%BB%83m%20t%C3%ADn%20d%E1%BB%A5ng/Cho%20vay%20ngang%20h%C3%A0ng%20k%E1%BA%BFt%20n%E1%BB%91i%20tr%E1%BB%B1c%20ti%E1%BA%BFp%20ng%C6%B0%E1%BB%9Di%20%C4%91i%20vay%20v%E1%BB%9Bi%20ng%C6%B0%E1%BB%9Di%20cho%20vay%20m%C3%A0%20kh%C3%B4ng%20th%C3%B4ng%20qua%20c%C3%A1c%20t%E1%BB%95%20ch%E1%BB%A9c%20trung%20gian%20t%C3%A0i%20ch%C3%ADnh.md)
+    - [Muốn trả nợ trước hạn cũng phải mất phí](../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Vay%20ti%E1%BB%81n/D%E1%BB%8Bch%20v%E1%BB%A5%20cho%20vay%20kh%C3%A1c/Vay%20c%C3%B3%20%C4%91i%E1%BB%83m%20t%C3%ADn%20d%E1%BB%A5ng/Mu%E1%BB%91n%20tr%E1%BA%A3%20n%E1%BB%A3%20tr%C6%B0%E1%BB%9Bc%20h%E1%BA%A1n%20c%C5%A9ng%20ph%E1%BA%A3i%20m%E1%BA%A5t%20ph%C3%AD.md)
+    - [Rất nhiều các công ty cho vay lấy dữ liệu từ Viettel](../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Vay%20ti%E1%BB%81n/D%E1%BB%8Bch%20v%E1%BB%A5%20cho%20vay%20kh%C3%A1c/Vay%20c%C3%B3%20%C4%91i%E1%BB%83m%20t%C3%ADn%20d%E1%BB%A5ng/R%E1%BA%A5t%20nhi%E1%BB%81u%20c%C3%A1c%20c%C3%B4ng%20ty%20cho%20vay%20l%E1%BA%A5y%20d%E1%BB%AF%20li%E1%BB%87u%20t%E1%BB%AB%20Viettel.md)
+    - [App đen thực chất là mấy thằng trung quốc đặt sever bên Campuchia với Lào ép về cho vay](../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Vay%20ti%E1%BB%81n/D%E1%BB%8Bch%20v%E1%BB%A5%20cho%20vay%20kh%C3%A1c/Vay%20kh%C3%B4ng%20%C4%91i%E1%BB%83m%20t%C3%ADn%20d%E1%BB%A5ng/App%20%C4%91en%20th%E1%BB%B1c%20ch%E1%BA%A5t%20l%C3%A0%20m%E1%BA%A5y%20th%E1%BA%B1ng%20trung%20qu%E1%BB%91c%20%C4%91%E1%BA%B7t%20sever%20b%C3%AAn%20Campuchia%20v%E1%BB%9Bi%20L%C3%A0o%20%C3%A9p%20v%E1%BB%81%20cho%20vay.md)
+    - [App đen, vay nóng là những cái tên cho cùng một thứ](../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Vay%20ti%E1%BB%81n/D%E1%BB%8Bch%20v%E1%BB%A5%20cho%20vay%20kh%C3%A1c/Vay%20kh%C3%B4ng%20%C4%91i%E1%BB%83m%20t%C3%ADn%20d%E1%BB%A5ng/App%20%C4%91en,%20vay%20n%C3%B3ng%20l%C3%A0%20nh%E1%BB%AFng%20c%C3%A1i%20t%C3%AAn%20cho%20c%C3%B9ng%20m%E1%BB%99t%20th%E1%BB%A9.md)
+    - [Vay nóng nếu không trả sẽ bị bêu xấu với mọi người](../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Vay%20ti%E1%BB%81n/D%E1%BB%8Bch%20v%E1%BB%A5%20cho%20vay%20kh%C3%A1c/Vay%20kh%C3%B4ng%20%C4%91i%E1%BB%83m%20t%C3%ADn%20d%E1%BB%A5ng/Vay%20n%C3%B3ng%20n%E1%BA%BFu%20kh%C3%B4ng%20tr%E1%BA%A3%20s%E1%BA%BD%20b%E1%BB%8B%20b%C3%AAu%20x%E1%BA%A5u%20v%E1%BB%9Bi%20m%E1%BB%8Di%20ng%C6%B0%E1%BB%9Di.md)
+    - [App đen có người trong các công ty viễn thông nên biết được sim đã xài trong bao lâu](../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Vay%20ti%E1%BB%81n/D%E1%BB%8Bch%20v%E1%BB%A5%20cho%20vay%20kh%C3%A1c/Vay%20kh%C3%B4ng%20%C4%91i%E1%BB%83m%20t%C3%ADn%20d%E1%BB%A5ng/App%20%C4%91en%20c%C3%B3%20ng%C6%B0%E1%BB%9Di%20trong%20c%C3%A1c%20c%C3%B4ng%20ty%20vi%E1%BB%85n%20th%C3%B4ng%20n%C3%AAn%20bi%E1%BA%BFt%20%C4%91%C6%B0%E1%BB%A3c%20sim%20%C4%91%C3%A3%20x%C3%A0i%20trong%20bao%20l%C3%A2u.md)
+    - [DoctorDong là bên mở màng cho thị trường này tại Việt Nam. Bây giờ là Cayvang](../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Vay%20ti%E1%BB%81n/D%E1%BB%8Bch%20v%E1%BB%A5%20cho%20vay%20kh%C3%A1c/Vay%20kh%C3%B4ng%20%C4%91i%E1%BB%83m%20t%C3%ADn%20d%E1%BB%A5ng/DoctorDong%20l%C3%A0%20b%C3%AAn%20m%E1%BB%9F%20m%C3%A0ng%20cho%20th%E1%BB%8B%20tr%C6%B0%E1%BB%9Dng%20n%C3%A0y%20t%E1%BA%A1i%20Vi%E1%BB%87t%20Nam.%20B%C3%A2y%20gi%E1%BB%9D%20l%C3%A0%20Cayvang.md)
+
+- Ngân hàng, điểm tín dụng: 
+    - [Các công ty con cho vay từ các ngân hàng lớn là để lách giới hạn lãi suất](../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Vay%20ti%E1%BB%81n/Ng%C3%A2n%20h%C3%A0ng,%20%C4%91i%E1%BB%83m%20t%C3%ADn%20d%E1%BB%A5ng/C%C3%A1c%20c%C3%B4ng%20ty%20con%20cho%20vay%20t%E1%BB%AB%20c%C3%A1c%20ng%C3%A2n%20h%C3%A0ng%20l%E1%BB%9Bn%20l%C3%A0%20%C4%91%E1%BB%83%20l%C3%A1ch%20gi%E1%BB%9Bi%20h%E1%BA%A1n%20l%C3%A3i%20su%E1%BA%A5t.md)
+    - [Debit nghĩa là ngân hàng nợ mình,  credit là mình nợ ngân hàng](../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Vay%20ti%E1%BB%81n/Ng%C3%A2n%20h%C3%A0ng,%20%C4%91i%E1%BB%83m%20t%C3%ADn%20d%E1%BB%A5ng/Debit%20ngh%C4%A9a%20l%C3%A0%20ng%C3%A2n%20h%C3%A0ng%20n%E1%BB%A3%20m%C3%ACnh,%20%20credit%20l%C3%A0%20m%C3%ACnh%20n%E1%BB%A3%20ng%C3%A2n%20h%C3%A0ng.md)
+    - [Hạn mức và lãi suất không liên quan tới hộ khẩu](../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Vay%20ti%E1%BB%81n/Ng%C3%A2n%20h%C3%A0ng,%20%C4%91i%E1%BB%83m%20t%C3%ADn%20d%E1%BB%A5ng/H%E1%BA%A1n%20m%E1%BB%A9c%20v%C3%A0%20l%C3%A3i%20su%E1%BA%A5t%20kh%C3%B4ng%20li%C3%AAn%20quan%20t%E1%BB%9Bi%20h%E1%BB%99%20kh%E1%BA%A9u.md)
+    - [Ngân hàng chỉ cần đất, sổ tiết kiệm hoặc ô tô, chứ mấy cái nhỏ sẽ từ chối](../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Vay%20ti%E1%BB%81n/Ng%C3%A2n%20h%C3%A0ng,%20%C4%91i%E1%BB%83m%20t%C3%ADn%20d%E1%BB%A5ng/Ng%C3%A2n%20h%C3%A0ng%20ch%E1%BB%89%20c%E1%BA%A7n%20%C4%91%E1%BA%A5t,%20s%E1%BB%95%20ti%E1%BA%BFt%20ki%E1%BB%87m%20ho%E1%BA%B7c%20%C3%B4%20t%C3%B4,%20ch%E1%BB%A9%20m%E1%BA%A5y%20c%C3%A1i%20nh%E1%BB%8F%20s%E1%BA%BD%20t%E1%BB%AB%20ch%E1%BB%91i.md)
+    - [Ngân hàng cấp tín dụng bằng việc nhìn số tài khoản vào cuối ngày](../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Vay%20ti%E1%BB%81n/Ng%C3%A2n%20h%C3%A0ng,%20%C4%91i%E1%BB%83m%20t%C3%ADn%20d%E1%BB%A5ng/Ng%C3%A2n%20h%C3%A0ng%20c%E1%BA%A5p%20t%C3%ADn%20d%E1%BB%A5ng%20b%E1%BA%B1ng%20vi%E1%BB%87c%20nh%C3%ACn%20s%E1%BB%91%20t%C3%A0i%20kho%E1%BA%A3n%20v%C3%A0o%20cu%E1%BB%91i%20ng%C3%A0y.md)
+    - [Ngân hàng không nghi ngờ mình đáo vì ngân hàng thích cho mình nợ hơn là cho mình tiền](../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Vay%20ti%E1%BB%81n/Ng%C3%A2n%20h%C3%A0ng,%20%C4%91i%E1%BB%83m%20t%C3%ADn%20d%E1%BB%A5ng/Ng%C3%A2n%20h%C3%A0ng%20kh%C3%B4ng%20nghi%20ng%E1%BB%9D%20m%C3%ACnh%20%C4%91%C3%A1o%20v%C3%AC%20ng%C3%A2n%20h%C3%A0ng%20th%C3%ADch%20cho%20m%C3%ACnh%20n%E1%BB%A3%20h%C6%A1n%20l%C3%A0%20cho%20m%C3%ACnh%20ti%E1%BB%81n.md)
+    - [Ngân hàng lớn ưu tiên cho vay doanh nghiệp, ngân hàng nhỏ khó cạnh tranh thì cho vay cá nhân](../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Vay%20ti%E1%BB%81n/Ng%C3%A2n%20h%C3%A0ng,%20%C4%91i%E1%BB%83m%20t%C3%ADn%20d%E1%BB%A5ng/Ng%C3%A2n%20h%C3%A0ng%20l%E1%BB%9Bn%20%C6%B0u%20ti%C3%AAn%20cho%20vay%20doanh%20nghi%E1%BB%87p,%20ng%C3%A2n%20h%C3%A0ng%20nh%E1%BB%8F%20kh%C3%B3%20c%E1%BA%A1nh%20tranh%20th%C3%AC%20cho%20vay%20c%C3%A1%20nh%C3%A2n.md)
+    - [Ngân hàng ngại CIC có dính đến tín dụng ngoài hoặc ví trả sau, kể cả khi chưa quá hạn](../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Vay%20ti%E1%BB%81n/Ng%C3%A2n%20h%C3%A0ng,%20%C4%91i%E1%BB%83m%20t%C3%ADn%20d%E1%BB%A5ng/Ng%C3%A2n%20h%C3%A0ng%20ng%E1%BA%A1i%20CIC%20c%C3%B3%20d%C3%ADnh%20%C4%91%E1%BA%BFn%20t%C3%ADn%20d%E1%BB%A5ng%20ngo%C3%A0i%20ho%E1%BA%B7c%20v%C3%AD%20tr%E1%BA%A3%20sau,%20k%E1%BB%83%20c%E1%BA%A3%20khi%20ch%C6%B0a%20qu%C3%A1%20h%E1%BA%A1n.md)
+    - [Người dùng thẻ thường xuyên sẽ ghi được nhiều điểm CIC](../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Vay%20ti%E1%BB%81n/Ng%C3%A2n%20h%C3%A0ng,%20%C4%91i%E1%BB%83m%20t%C3%ADn%20d%E1%BB%A5ng/Ng%C6%B0%E1%BB%9Di%20d%C3%B9ng%20th%E1%BA%BB%20th%C6%B0%E1%BB%9Dng%20xuy%C3%AAn%20s%E1%BA%BD%20ghi%20%C4%91%C6%B0%E1%BB%A3c%20nhi%E1%BB%81u%20%C4%91i%E1%BB%83m%20CIC.md)
+    - [Rút tiền mặt tại cửa hàng là bị cấm](../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Vay%20ti%E1%BB%81n/Ng%C3%A2n%20h%C3%A0ng,%20%C4%91i%E1%BB%83m%20t%C3%ADn%20d%E1%BB%A5ng/R%C3%BAt%20ti%E1%BB%81n%20m%E1%BA%B7t%20t%E1%BA%A1i%20c%E1%BB%ADa%20h%C3%A0ng%20l%C3%A0%20b%E1%BB%8B%20c%E1%BA%A5m.md)
+    - [Sử dụng tín dụng sẽ khuyến khích mình chi tiêu rất nhiều](../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Vay%20ti%E1%BB%81n/Ng%C3%A2n%20h%C3%A0ng,%20%C4%91i%E1%BB%83m%20t%C3%ADn%20d%E1%BB%A5ng/S%E1%BB%AD%20d%E1%BB%A5ng%20t%C3%ADn%20d%E1%BB%A5ng%20s%E1%BA%BD%20khuy%E1%BA%BFn%20kh%C3%ADch%20m%C3%ACnh%20chi%20ti%C3%AAu%20r%E1%BA%A5t%20nhi%E1%BB%81u.md)
+    - [Thẻ tín dụng và ví trả sau đều là các hình thức cấp tín dụng](../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Vay%20ti%E1%BB%81n/Ng%C3%A2n%20h%C3%A0ng,%20%C4%91i%E1%BB%83m%20t%C3%ADn%20d%E1%BB%A5ng/Th%E1%BA%BB%20t%C3%ADn%20d%E1%BB%A5ng%20v%C3%A0%20v%C3%AD%20tr%E1%BA%A3%20sau%20%C4%91%E1%BB%81u%20l%C3%A0%20c%C3%A1c%20h%C3%ACnh%20th%E1%BB%A9c%20c%E1%BA%A5p%20t%C3%ADn%20d%E1%BB%A5ng.md)
+    - [Điểm tín dụng (CIC) là cách để các ngân hàng đánh giá khả năng trả nợ của mình](../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Vay%20ti%E1%BB%81n/Ng%C3%A2n%20h%C3%A0ng,%20%C4%91i%E1%BB%83m%20t%C3%ADn%20d%E1%BB%A5ng/%C4%90i%E1%BB%83m%20t%C3%ADn%20d%E1%BB%A5ng%20(CIC)%20l%C3%A0%20c%C3%A1ch%20%C4%91%E1%BB%83%20c%C3%A1c%20ng%C3%A2n%20h%C3%A0ng%20%C4%91%C3%A1nh%20gi%C3%A1%20kh%E1%BA%A3%20n%C4%83ng%20tr%E1%BA%A3%20n%E1%BB%A3%20c%E1%BB%A7a%20m%C3%ACnh.md)
+
+
+
+## Nơi thảo luận
+![](https://i.imgur.com/OtW4epu.png)
+=======
+updated: 2025-01-29T18:25
 title: Các dịch vụ cho vay
 ---
 Nếu bạn tìm được một người có thể đưa tiền cho bạn mượn không phải đắn đo gì thì bạn đã chẳng cần đọc bài viết này.
 
 ## Từ cá nhân
-Bài chi tiết:: [Bản câu hỏi cho người cần được hỗ trợ thoát nợ](../../%F0%9F%93%90%20D%E1%BB%B1%20%C3%A1n/Gi%C3%BAp%20nhau%20tho%C3%A1t%20n%E1%BB%A3/T%C3%A0i%20li%E1%BB%87u/B%E1%BA%A3n%20c%C3%A2u%20h%E1%BB%8Fi%20cho%20ng%C6%B0%E1%BB%9Di%20c%E1%BA%A7n%20%C4%91%C6%B0%E1%BB%A3c%20h%E1%BB%97%20tr%E1%BB%A3%20tho%C3%A1t%20n%E1%BB%A3.md)
+Bài chi tiết:: [Bản câu hỏi cho người cần được hỗ trợ thoát nợ](../../%F0%9F%93%90D%E1%BB%B1%20%C3%A1n/Gi%C3%BAp%20nhau%20tho%C3%A1t%20n%E1%BB%A3/T%C3%A0i%20li%E1%BB%87u/B%E1%BA%A3n%20c%C3%A2u%20h%E1%BB%8Fi%20cho%20ng%C6%B0%E1%BB%9Di%20c%E1%BA%A7n%20%C4%91%C6%B0%E1%BB%A3c%20h%E1%BB%97%20tr%E1%BB%A3%20tho%C3%A1t%20n%E1%BB%A3.md)
 
 ## Từ tổ chức
-### Vì người yếu thế
-Cơ bản đây là các [quỹ tín dụng vi mô](../../%F0%9F%93%90%20D%E1%BB%B1%20%C3%A1n/Gi%C3%BAp%20nhau%20tho%C3%A1t%20n%E1%BB%A3/C%C3%B4ng%20vi%E1%BB%87c/Huy%20%C4%91%E1%BB%99ng%20ngu%E1%BB%93n%20ti%E1%BB%81n%20nh%C3%A0n%20r%E1%BB%97i,%20l%E1%BA%ADp%20qu%E1%BB%B9%20t%C3%ADn%20d%E1%BB%A5ng%20vi%20m%C3%B4.md):
-- [Quỹ Tình Thân](./V%C3%AC%20ng%C6%B0%E1%BB%9Di%20y%E1%BA%BFu%20th%E1%BA%BF/Qu%E1%BB%B9%20T%C3%ACnh%20Th%C3%A2n.md)           
-- [CEP](./V%C3%AC%20ng%C6%B0%E1%BB%9Di%20y%E1%BA%BFu%20th%E1%BA%BF/CEP.md)                     
-- [Ngân hàng chính sách xã hội](./V%C3%AC%20ng%C6%B0%E1%BB%9Di%20y%E1%BA%BFu%20th%E1%BA%BF/Ng%C3%A2n%20h%C3%A0ng%20ch%C3%ADnh%20s%C3%A1ch%20x%C3%A3%20h%E1%BB%99i.md) 
+### Vì người yếu thế (các [quỹ tín dụng vi mô](../../%F0%9F%93%90D%E1%BB%B1%20%C3%A1n/Gi%C3%BAp%20nhau%20tho%C3%A1t%20n%E1%BB%A3/C%C3%B4ng%20vi%E1%BB%87c/Huy%20%C4%91%E1%BB%99ng%20ngu%E1%BB%93n%20ti%E1%BB%81n%20nh%C3%A0n%20r%E1%BB%97i,%20l%E1%BA%ADp%20qu%E1%BB%B9%20t%C3%ADn%20d%E1%BB%A5ng%20vi%20m%C3%B4.md))
+- [Quỹ Tình Thân](./V%C3%AC%20ng%C6%B0%E1%BB%9Di%20y%E1%BA%BFu%20th%E1%BA%BF/Qu%E1%BB%B9%20T%C3%ACnh%20Th%C3%A2n.md)
+- [CEP](./V%C3%AC%20ng%C6%B0%E1%BB%9Di%20y%E1%BA%BFu%20th%E1%BA%BF/CEP.md)
+- [Ngân hàng chính sách xã hội](./V%C3%AC%20ng%C6%B0%E1%BB%9Di%20y%E1%BA%BFu%20th%E1%BA%BF/Ng%C3%A2n%20h%C3%A0ng%20ch%C3%ADnh%20s%C3%A1ch%20x%C3%A3%20h%E1%BB%99i.md)
 
 ### Ví trả sau
 |           | Số tiền rút lần đầu | Điều kiện |
@@ -28,20 +122,20 @@ Cơ bản đây là các [quỹ tín dụng vi mô](../../%F0%9F%93%90%20D%E1%BB
 ### Tổ chức tài chính
 Tốn thời gian nhất là cứ phải làm kyc, nhập thông tin địa chỉ thủ công. Đã nhập rồi nhưng vẫn cứ phải làm lại
 
-|             | Số tiền rút lần đầu | Lãi | Thời hạn |
-| ----------- | ------------------- | --- | -------- |
-| FE Credit   |                     |     |          |
-| Home Credit |                     |     |          |
-| Fundiin     |                     |     |          |
-| TNEX        |                     |     |          |
-| Kredivo     |                     |     |          |
-| EasyCredit  |                     |     |          |
-| Mcredit     |                     |     |          |
-| Cake        |                     |     |          |
-| HDSaison    |                     |     |          |
+|               | Số tiền rút lần đầu | Lãi | Thời hạn |
+| ------------- | ------------------- | --- | -------- |
+| [FE Credit](../Ch%C3%ADnh%20s%C3%A1ch%20c%C3%B4ng%20ty/T%E1%BB%95%20ch%E1%BB%A9c%20t%C3%ADn%20d%E1%BB%A5ng/Thu%20h%E1%BB%93i%20n%E1%BB%A3/FE%20Credit/index.md) |                     | 55% |          |
+| Home Credit   |                     |     |          |
+| Fundiin       |                     |     |          |
+| TNEX          |                     |     |          |
+| Kredivo       |                     |     |          |
+| EasyCredit    |                     |     |          |
+| Mcredit       |                     |     |          |
+| Cake          |                     |     |          |
+| HDSaison      |                     |     |          |
 
 - Khi bị app từ chối duyệt thì phải đợi mấy tháng mới cho nộp lại
-- Viettel Money chỉ là cái app để chuyển sang các app cho vay khác. [Rất nhiều các công ty cho vay lấy dữ liệu từ Viettel](../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/T%E1%BB%95%20ch%E1%BB%A9c%20t%C3%A0i%20ch%C3%ADnh/Vay%20ti%E1%BB%81n/D%E1%BB%8Bch%20v%E1%BB%A5%20cho%20vay%20kh%C3%A1c/Vay%20c%C3%B3%20%C4%91i%E1%BB%83m%20t%C3%ADn%20d%E1%BB%A5ng%20(c%C3%B4ng%20ty%20t%C3%A0i%20ch%C3%ADnh)/R%E1%BA%A5t%20nhi%E1%BB%81u%20c%C3%A1c%20c%C3%B4ng%20ty%20cho%20vay%20l%E1%BA%A5y%20d%E1%BB%AF%20li%E1%BB%87u%20t%E1%BB%AB%20Viettel.md)
+- Viettel Money chỉ là cái app để chuyển sang các app cho vay khác. [Rất nhiều các công ty cho vay lấy dữ liệu từ Viettel](../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/T%E1%BB%95%20ch%E1%BB%A9c%20t%C3%A0i%20ch%C3%ADnh/T%E1%BB%95%20ch%E1%BB%A9c%20t%C3%ADn%20d%E1%BB%A5ng/T%E1%BB%95%20ch%E1%BB%A9c%20t%C3%ADn%20d%E1%BB%A5ng%20phi%20ng%C3%A2n%20h%C3%A0ng/Vay%20c%C3%B3%20%C4%91i%E1%BB%83m%20t%C3%ADn%20d%E1%BB%A5ng%20(c%C3%B4ng%20ty%20t%C3%A0i%20ch%C3%ADnh)/R%E1%BA%A5t%20nhi%E1%BB%81u%20c%C3%A1c%20c%C3%B4ng%20ty%20cho%20vay%20l%E1%BA%A5y%20d%E1%BB%AF%20li%E1%BB%87u%20t%E1%BB%AB%20Viettel.md)
 - Vay dưới 10tr dễ được duyệt hơn
 - Home Credit bắt phải có 2 giấy tờ bổ sung
 - TNEX không đổi được sđt 
@@ -51,9 +145,9 @@ Tốn thời gian nhất là cứ phải làm kyc, nhập thông tin địa ch�
 | ---- | ------------------- | --- | -------- | --------- |
 | CIMB |                     |     |          |           |
 Ngân hàng CIMB tạo thẻ tín dụng hạn mức 100tr, chỉ cần trả 3tr∕tháng trong mấy năm hay gì đó là đc
-[Ngân hàng chỉ cần đất, sổ tiết kiệm hoặc ô tô, chứ mấy cái nhỏ sẽ từ chối](Ng%C3%A2n%20h%C3%A0ng%20ch%E1%BB%89%20c%E1%BA%A7n%20%C4%91%E1%BA%A5t,%20s%E1%BB%95%20ti%E1%BA%BFt%20ki%E1%BB%87m%20ho%E1%BA%B7c%20%C3%B4%20t%C3%B4,%20ch%E1%BB%A9%20m%E1%BA%A5y%20c%C3%A1i%20nh%E1%BB%8F%20s%E1%BA%BD%20t%E1%BB%AB%20ch%E1%BB%91i.md)
+[Ngân hàng chỉ cần đất, sổ tiết kiệm hoặc ô tô, chứ mấy cái nhỏ sẽ từ chối](../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/T%E1%BB%95%20ch%E1%BB%A9c%20t%C3%A0i%20ch%C3%ADnh/T%E1%BB%95%20ch%E1%BB%A9c%20t%C3%ADn%20d%E1%BB%A5ng/Ng%C3%A2n%20h%C3%A0ng,%20%C4%91i%E1%BB%83m%20t%C3%ADn%20d%E1%BB%A5ng/Ng%C3%A2n%20h%C3%A0ng%20ch%E1%BB%89%20c%E1%BA%A7n%20%C4%91%E1%BA%A5t,%20s%E1%BB%95%20ti%E1%BA%BFt%20ki%E1%BB%87m%20ho%E1%BA%B7c%20%C3%B4%20t%C3%B4,%20ch%E1%BB%A9%20m%E1%BA%A5y%20c%C3%A1i%20nh%E1%BB%8F%20s%E1%BA%BD%20t%E1%BB%AB%20ch%E1%BB%91i.md)
 [Ghi chú về các app ngân hàng](Ghi%20ch%C3%BA%20v%E1%BB%81%20c%C3%A1c%20app%20ng%C3%A2n%20h%C3%A0ng.md)
-[Thẻ tín dụng và ví trả sau đều là các hình thức cấp tín dụng](Th%E1%BA%BB%20t%C3%ADn%20d%E1%BB%A5ng%20v%C3%A0%20v%C3%AD%20tr%E1%BA%A3%20sau%20%C4%91%E1%BB%81u%20l%C3%A0%20c%C3%A1c%20h%C3%ACnh%20th%E1%BB%A9c%20c%E1%BA%A5p%20t%C3%ADn%20d%E1%BB%A5ng.md)
+[Thẻ tín dụng và ví trả sau đều là các hình thức cấp tín dụng](../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/T%E1%BB%95%20ch%E1%BB%A9c%20t%C3%A0i%20ch%C3%ADnh/T%E1%BB%95%20ch%E1%BB%A9c%20t%C3%ADn%20d%E1%BB%A5ng/Ng%C3%A2n%20h%C3%A0ng,%20%C4%91i%E1%BB%83m%20t%C3%ADn%20d%E1%BB%A5ng/%C4%90i%E1%BB%83m%20t%C3%ADn%20d%E1%BB%A5ng/Th%E1%BA%BB%20t%C3%ADn%20d%E1%BB%A5ng%20v%C3%A0%20v%C3%AD%20tr%E1%BA%A3%20sau%20%C4%91%E1%BB%81u%20l%C3%A0%20c%C3%A1c%20h%C3%ACnh%20th%E1%BB%A9c%20c%E1%BA%A5p%20t%C3%ADn%20d%E1%BB%A5ng.md)
 
 ### App vay nóng
 Bài chi tiết:: [App vay nóng](./App%20vay%20n%C3%B3ng/index.md)
@@ -65,24 +159,31 @@ F88 giống tiệm cầm đồ, dùng cà vẹt xe để vay
 ## ⚡Hiểu biết sâu
 - \-: 
     - [Ghi chú về các app ngân hàng](Ghi%20ch%C3%BA%20v%E1%BB%81%20c%C3%A1c%20app%20ng%C3%A2n%20h%C3%A0ng.md)
-    - [TNEX](./TNEX.md)
 
 - App vay nóng: 
     - [App vay nóng](./App%20vay%20n%C3%B3ng/index.md)
     - [Cayvang](./App%20vay%20n%C3%B3ng/Cayvang.md)
     - [Moneyveo](./App%20vay%20n%C3%B3ng/Moneyveo.md)
 
+- Công ty tài chính tiêu dùng: 
+    - [Các loại phí](./C%C3%B4ng%20ty%20t%C3%A0i%20ch%C3%ADnh%20ti%C3%AAu%20d%C3%B9ng/FE/C%C3%A1c%20lo%E1%BA%A1i%20ph%C3%AD.md)
+    - [Cách thu tiền](./C%C3%B4ng%20ty%20t%C3%A0i%20ch%C3%ADnh%20ti%C3%AAu%20d%C3%B9ng/FE/C%C3%A1ch%20thu%20ti%E1%BB%81n.md)
+    - [Lãi suất tính trên dư nợ gốc giảm dần](./C%C3%B4ng%20ty%20t%C3%A0i%20ch%C3%ADnh%20ti%C3%AAu%20d%C3%B9ng/FE/L%C3%A3i%20su%E1%BA%A5t%20t%C3%ADnh%20tr%C3%AAn%20d%C6%B0%20n%E1%BB%A3%20g%E1%BB%91c%20gi%E1%BA%A3m%20d%E1%BA%A7n.md)
+    - [TNEX](./C%C3%B4ng%20ty%20t%C3%A0i%20ch%C3%ADnh%20ti%C3%AAu%20d%C3%B9ng/TNEX.md)
+
 - Thẻ tín dụng: 
+    - [Dịch vụ mở thẻ tín dụng](./Th%E1%BA%BB%20t%C3%ADn%20d%E1%BB%A5ng/D%E1%BB%8Bch%20v%E1%BB%A5%20m%E1%BB%9F%20th%E1%BA%BB%20t%C3%ADn%20d%E1%BB%A5ng.md)
     - [JCB](./Th%E1%BA%BB%20t%C3%ADn%20d%E1%BB%A5ng/JCB.md)
 
 - Vì người yếu thế: 
     - [CEP](./V%C3%AC%20ng%C6%B0%E1%BB%9Di%20y%E1%BA%BFu%20th%E1%BA%BF/CEP.md)
     - [Ngân hàng chính sách xã hội](./V%C3%AC%20ng%C6%B0%E1%BB%9Di%20y%E1%BA%BFu%20th%E1%BA%BF/Ng%C3%A2n%20h%C3%A0ng%20ch%C3%ADnh%20s%C3%A1ch%20x%C3%A3%20h%E1%BB%99i.md)
     - [Quỹ Tình Thân](./V%C3%AC%20ng%C6%B0%E1%BB%9Di%20y%E1%BA%BFu%20th%E1%BA%BF/Qu%E1%BB%B9%20T%C3%ACnh%20Th%C3%A2n.md)
-    - [Vì người yếu thế](./V%C3%AC%20ng%C6%B0%E1%BB%9Di%20y%E1%BA%BFu%20th%E1%BA%BF/index.md)
     - [Tiết kiệm tín dụng nhóm bền vững hơn cho vay cá nhân khi có nhiều người vay](./V%C3%AC%20ng%C6%B0%E1%BB%9Di%20y%E1%BA%BFu%20th%E1%BA%BF/Ti%E1%BA%BFt%20ki%E1%BB%87m%20t%C3%ADn%20d%E1%BB%A5ng%20nh%C3%B3m%20b%E1%BB%81n%20v%E1%BB%AFng%20h%C6%A1n%20cho%20vay%20c%C3%A1%20nh%C3%A2n%20khi%20c%C3%B3%20nhi%E1%BB%81u%20ng%C6%B0%E1%BB%9Di%20vay.md)
+    - [Vì người yếu thế](./V%C3%AC%20ng%C6%B0%E1%BB%9Di%20y%E1%BA%BFu%20th%E1%BA%BF/index.md)
 
 
 
 ## Nơi thảo luận
 ![](https://i.imgur.com/OtW4epu.png)
+>>>>>>> c0d3b70881cf4ed62e5e2181c3211df89b86a3ac

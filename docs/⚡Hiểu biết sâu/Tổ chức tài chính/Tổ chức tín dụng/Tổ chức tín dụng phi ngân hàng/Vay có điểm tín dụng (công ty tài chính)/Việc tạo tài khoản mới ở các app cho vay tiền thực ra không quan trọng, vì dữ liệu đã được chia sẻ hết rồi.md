@@ -1,7 +1,11 @@
 ---
 share: true
 created: 2023-09-05T16:17
+<<<<<<<< HEAD:docs/⚡Hiểu biết sâu/Vay tiền/Dịch vụ cho vay khác/Vay có điểm tín dụng/Việc tạo tài khoản mới ở các app cho vay tiền thực ra không quan trọng, vì dữ liệu đã được chia sẻ hết rồi.md
+updated: 2024-08-27T13:50
+========
 updated: 2025-01-11T12:43
+>>>>>>>> c0d3b70881cf4ed62e5e2181c3211df89b86a3ac:docs/⚡Hiểu biết sâu/Tổ chức tài chính/Tổ chức tín dụng/Tổ chức tín dụng phi ngân hàng/Vay có điểm tín dụng (công ty tài chính)/Việc tạo tài khoản mới ở các app cho vay tiền thực ra không quan trọng, vì dữ liệu đã được chia sẻ hết rồi.md
 ---
 
 nó cần a match với 1st time

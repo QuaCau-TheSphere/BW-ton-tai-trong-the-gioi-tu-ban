@@ -10,7 +10,7 @@ updated: 2024-10-05T13:51
 -  Anh có những từ khoá hoặc nghiên cứu nào nói về những gì nãy giờ mình đang bàn ko? 
 - Ngân hàng có những ràng buộc gì mà không thể cho kéo dài nợ được? Vì đằng nào thì nó cũng bị mất
 - Ai là người muốn có giải pháp cho người đang ngập trong nợ nhất?
-- Nếu [Cho vay ngang hàng](../../../Kinh%20t%E1%BA%BF/C%C3%A1c%20lo%E1%BA%A1i%20h%C3%ACnh%20kinh%20t%E1%BA%BF%20m%E1%BB%9Bi/Cho%20vay%20ngang%20h%C3%A0ng.md), [Cho vay theo nhóm đảm bảo không bị quịt hơn](../../../T%E1%BB%95%20ch%E1%BB%A9c%20t%C3%A0i%20ch%C3%ADnh/Vay%20ti%E1%BB%81n/Cho%20vay%20theo%20nh%C3%B3m%20%C4%91%E1%BA%A3m%20b%E1%BA%A3o%20kh%C3%B4ng%20b%E1%BB%8B%20qu%E1%BB%8Bt%20h%C6%A1n.md), tại sao các doanh nghiệp không áp dụng
+- Nếu [Cho vay ngang hàng](../../../Kinh%20t%E1%BA%BF/C%C3%A1c%20lo%E1%BA%A1i%20h%C3%ACnh%20kinh%20t%E1%BA%BF%20m%E1%BB%9Bi/Cho%20vay%20ngang%20h%C3%A0ng.md), [Cho vay theo nhóm đảm bảo không bị quịt hơn](../../../T%E1%BB%95%20ch%E1%BB%A9c%20t%C3%A0i%20ch%C3%ADnh/T%E1%BB%95%20ch%E1%BB%A9c%20t%C3%ADn%20d%E1%BB%A5ng/Cho%20vay%20theo%20nh%C3%B3m%20%C4%91%E1%BA%A3m%20b%E1%BA%A3o%20kh%C3%B4ng%20b%E1%BB%8B%20qu%E1%BB%8Bt%20h%C6%A1n.md), tại sao các doanh nghiệp không áp dụng
 - Các chương trình hỗ trợ người lao động của chính phủ gặp vấn đề gì mà không phát triển được?
 - Vì sao anh không lo lắng là mình đang bị để ý? Dù sao anh cũng là người có tiếng trong cộng đồng mà
 Luật pháp chỉ hiểu về kinh doanh, chứ ko phải là phi lợi nhuận. Chính thức hoá khi lập quỹ là chết với luật tín dụng
@@ -20,5 +20,5 @@ Luật pháp chỉ hiểu về kinh doanh, chứ ko phải là phi lợi nhuận
 - Anh nghĩ rằng hữu xạ tự nhiên hương mới là thực chất, là tốt hơn làm truyền thông, nhưng cụ thể là như thế nào? Vì như vụ Thuỷ Tiên gom tiền bão lũ miền Trung thì là hữu xạ tự nhiên hương thật, nhưng có vẻ như điều đó là không bền vững? Trong khi các tổ chức có nhiều tri thức về phát triển cộng đồng hơn thì không được biết đến? Như vậy là hữu xạ tự nhiên hương vẫn là chưa đủ, mà vẫn phải làm truyền thông?
 - Anh cũng đăng fb, đó có gọi là truyền thông ko? Điều gì khiến anh thấy việc truyền thông là có hại cho việc hữu xạ tự nhiên hương?
 
-[Doanh nhân chỉ biết kiếm tiền](../../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Ni%E1%BB%81m%20tin,%20di%E1%BB%85n%20ng%C3%B4n/Doanh%20nh%C3%A2n%20ch%E1%BB%89%20bi%E1%BA%BFt%20ki%E1%BA%BFm%20ti%E1%BB%81n.md)
+[Doanh nhân chỉ biết kiếm tiền](Doanh%20nh%C3%A2n%20ch%E1%BB%89%20bi%E1%BA%BFt%20ki%E1%BA%BFm%20ti%E1%BB%81n.md)
 Hỏi thêm:: [Phạm Trường Sơn](../../../%CE%9E%20Ngu%E1%BB%93n/Ph%E1%BA%A1m%20Tr%C6%B0%E1%BB%9Dng%20S%C6%A1n.md)

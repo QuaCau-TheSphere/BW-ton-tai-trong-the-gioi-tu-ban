@@ -1,9 +1,8 @@
 {
   "imports": {
-    "lume/": "https://deno.land/x/lume@v2.4.3/",
-    "wiki/": "https://deno.land/x/lume_theme_simple_wiki@v0.11.1/",
-    "@ooker777/lume-mermaid-plugin": "jsr:@ooker777/lume-mermaid-plugin",
-    "lume/cms/": "https://cdn.jsdelivr.net/gh/lumeland/cms@v0.7.7/"
+    "lume/": "https://deno.land/x/lume@v2.2.4/",
+    "wiki/": "https://deno.land/x/lume_theme_simple_wiki@v0.9.2/",
+    "lume/cms/": "https://cdn.jsdelivr.net/gh/lumeland/cms@v0.5.7/"
   },
   "tasks": {
     "lume": "echo \"import 'lume/cli.ts'\" | deno run -A --v8-flags=--max-old-space-size=8192 -",

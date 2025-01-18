@@ -8,7 +8,7 @@ alias:
 description: "Quyền lợi: ung thư, bệnh hiểm nghèo, tai nạn, tử vong và tiết kiệm dài"
 ---
 # Tặng hợp đồng bảo hiểm nhân thọ, miễn phí năm đầu
-Lý do:: [Chạy chỉ tiêu](Ch%E1%BA%A1y%20ch%E1%BB%89%20ti%C3%AAu.md)
+Lý do:: [Chạy chỉ tiêu](../../../%F0%9F%93%90D%E1%BB%B1%20%C3%A1n/Ch%E1%BA%A1y%20ch%E1%BB%89%20ti%C3%AAu/index.md)
 
 5-7 ngày giao hợp đồng đến nhà  
 

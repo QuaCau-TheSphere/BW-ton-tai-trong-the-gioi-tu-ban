@@ -1,7 +1,11 @@
 ---
 share: true
 created: 2023-09-05T16:17
+<<<<<<<< HEAD:docs/📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ/Săn khảo sát, phỏng vấn người dùng.md
+updated: 2024-08-27T14:10
+========
 updated: 2025-01-11T12:43
+>>>>>>>> c0d3b70881cf4ed62e5e2181c3211df89b86a3ac:docs/📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ, cộng tác viên/Cho công ty/Làm khảo sát, phỏng vấn.md
 ---
 ## Đi khảo sát, phỏng vấn người khác
 Tên khác: điều tra viên, chuyên viên thu thập dữ liệu

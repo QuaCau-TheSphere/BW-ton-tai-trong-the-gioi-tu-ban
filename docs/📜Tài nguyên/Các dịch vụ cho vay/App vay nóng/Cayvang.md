@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-08-13T17:17
-updated: 2025-01-11T12:34
+updated: 2024-11-15T16:20
 ---
 Loại dịch vụ:: [App vay nóng](./index.md)
 
@@ -28,4 +28,4 @@ Trước khi "gia hạn":
 Sau khi "gia hạn": 
 ![](https://media.discordapp.net/attachments/953628307314855999/1276470340507275366/image.png?ex=66c9a524&is=66c853a4&hm=de76a53f27602ebcf9949bf8d4ad7581f7f762f3b74a8b06d10fb39a46db6512&=&format=webp&quality=lossless&width=778&height=671)
 
-[App đen thực chất là mấy thằng Trung Quốc đặt sever bên Campuchia với Lào ép về cho vay](App%20%C4%91en%20th%E1%BB%B1c%20ch%E1%BA%A5t%20l%C3%A0%20m%E1%BA%A5y%20th%E1%BA%B1ng%20Trung%20Qu%E1%BB%91c%20%C4%91%E1%BA%B7t%20sever%20b%C3%AAn%20Campuchia%20v%E1%BB%9Bi%20L%C3%A0o%20%C3%A9p%20v%E1%BB%81%20cho%20vay.md)
+[App đen thực chất là mấy thằng Trung Quốc đặt sever bên Campuchia với Lào ép về cho vay](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/T%E1%BB%95%20ch%E1%BB%A9c%20t%C3%A0i%20ch%C3%ADnh/T%E1%BB%95%20ch%E1%BB%A9c%20t%C3%ADn%20d%E1%BB%A5ng/T%E1%BB%95%20ch%E1%BB%A9c%20t%C3%ADn%20d%E1%BB%A5ng%20phi%20ng%C3%A2n%20h%C3%A0ng/Vay%20kh%C3%B4ng%20%C4%91i%E1%BB%83m%20t%C3%ADn%20d%E1%BB%A5ng%20(app%20%C4%91en)/App%20%C4%91en%20th%E1%BB%B1c%20ch%E1%BA%A5t%20l%C3%A0%20m%E1%BA%A5y%20th%E1%BA%B1ng%20Trung%20Qu%E1%BB%91c%20%C4%91%E1%BA%B7t%20sever%20b%C3%AAn%20Campuchia%20v%E1%BB%9Bi%20L%C3%A0o%20%C3%A9p%20v%E1%BB%81%20cho%20vay.md)

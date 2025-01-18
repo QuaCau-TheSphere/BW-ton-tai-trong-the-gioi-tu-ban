@@ -1,7 +1,11 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2024-08-27T14:15
+<<<<<<< HEAD
+updated: 2024-08-27T14:10
+=======
+updated: 2025-02-14T11:49
+>>>>>>> c0d3b70881cf4ed62e5e2181c3211df89b86a3ac
 description: Điểm giống và khác nhau giữa các chương trình quản lý tiền. Quang cảnh và sơ đồ giữa chúng.
 alias:
   - Điểm giống và khác nhau giữa các chương trình quản lý tiền
@@ -11,6 +15,49 @@ alias:
 cssClass: wide-table
 title: Chương trình quản lý tiền
 ---
+<<<<<<< HEAD
+## Mối quan hệ giữa các khái niệm
+- Nhu cầu người dùng sẽ đòi hỏi tính năng
+- Tính năng sẽ đòi hỏi yêu cầu đầu vào 
+- Yêu cầu đầu vào đòi hỏi nhu cầu người dùng
+<br>
+- Tính năng sẽ quyết định loại chương trình
+- Chương trình đáp ứng một tổ hợp các nhu cầu của người dùng bằng một tổ hợp các tính năng 
+
+```mermaid
+flowchart LR
+	subgraph Người dùng
+		1["1 Nhu cầu người dùng"]
+		2["2 Yêu cầu đầu vào"]
+	end
+	subgraph Sản phẩm
+		3["3 Tính năng"]
+		4["4 Loại chương trình"]
+		5["5 Tên chương trình"]
+	end
+
+1-->3
+4-->5
+5-->3
+
+3-->2-- Phù hợp cho nhu cầu -->1
+1-- Phù hợp cho nhu cầu -->1
+2-- Đáp ứng yêu cầu --> 2
+3-- Đồng thời có thêm tính năng --> 3
+
+3~~~4
+style 1 fill:lightgreen
+style 3 fill:lightgreen
+```
+
+## Danh mục
+
+
+- Có những chương trình không biết nên phân loại thế nào. Tốt nhất là liệt kê tính năng của nó
+- Khi một "nhu cầu" của người dùng thực ra là do không có nhu cầu thì nó nên là gì?
+- Khi một "tính năng" của chương trình thực ra là do không có tính năng thì nó nên là gì?
+
+=======
 ## Mối quan hệ giữa các khái niệm
 - Nhu cầu người dùng sẽ đòi hỏi tính năng
 - Tính năng sẽ đòi hỏi yêu cầu đầu vào 
@@ -59,12 +106,12 @@ style 3 fill:lightgreen
     - [Chương trình ghi chép thu chi cá nhân](./4%20Lo%E1%BA%A1i%20ch%C6%B0%C6%A1ng%20tr%C3%ACnh/Ch%C6%B0%C6%A1ng%20tr%C3%ACnh%20ghi%20ch%C3%A9p%20thu%20chi%20c%C3%A1%20nh%C3%A2n.md)
     - [Chương trình kế toán](./4%20Lo%E1%BA%A1i%20ch%C6%B0%C6%A1ng%20tr%C3%ACnh/Ch%C6%B0%C6%A1ng%20tr%C3%ACnh%20k%E1%BA%BF%20to%C3%A1n.md)
     - [Chương trình phân loại dữ liệu tự động](./4%20Lo%E1%BA%A1i%20ch%C6%B0%C6%A1ng%20tr%C3%ACnh/Ch%C6%B0%C6%A1ng%20tr%C3%ACnh%20ph%C3%A2n%20lo%E1%BA%A1i%20d%E1%BB%AF%20li%E1%BB%87u%20t%E1%BB%B1%20%C4%91%E1%BB%99ng.md)
+    - [Chương trình tài liệu động](./4%20Lo%E1%BA%A1i%20ch%C6%B0%C6%A1ng%20tr%C3%ACnh/Ch%C6%B0%C6%A1ng%20tr%C3%ACnh%20t%C3%A0i%20li%E1%BB%87u%20%C4%91%E1%BB%99ng.md)
     - [Plugin cho phần mềm khác](./4%20Lo%E1%BA%A1i%20ch%C6%B0%C6%A1ng%20tr%C3%ACnh/Plugin%20cho%20ph%E1%BA%A7n%20m%E1%BB%81m%20kh%C3%A1c.md)
     - [Template thu chi trên Excel](./4%20Lo%E1%BA%A1i%20ch%C6%B0%C6%A1ng%20tr%C3%ACnh/Template%20thu%20chi%20tr%C3%AAn%20Excel.md)
-    - [Chương trình tài liệu động](./4%20Lo%E1%BA%A1i%20ch%C6%B0%C6%A1ng%20tr%C3%ACnh/Ch%C6%B0%C6%A1ng%20tr%C3%ACnh%20t%C3%A0i%20li%E1%BB%87u%20%C4%91%E1%BB%99ng.md)
     - [figr](./5%20T%C3%AAn%20ch%C6%B0%C6%A1ng%20tr%C3%ACnh/figr.md)
-    - [Soulver](./5%20T%C3%AAn%20ch%C6%B0%C6%A1ng%20tr%C3%ACnh/Soulver.md)
     - [SaveDi](./5%20T%C3%AAn%20ch%C6%B0%C6%A1ng%20tr%C3%ACnh/SaveDi.md)
+    - [Soulver](./5%20T%C3%AAn%20ch%C6%B0%C6%A1ng%20tr%C3%ACnh/Soulver.md)
     - [Trấn Kỳ (quang cảnh thị trường)](./5%20T%C3%AAn%20ch%C6%B0%C6%A1ng%20tr%C3%ACnh/Tr%E1%BA%A5n%20K%E1%BB%B3%20(quang%20c%E1%BA%A3nh%20th%E1%BB%8B%20tr%C6%B0%E1%BB%9Dng).md)
     - [Bất cập của các app quản lý tiền hiện có](./B%E1%BA%A5t%20c%E1%BA%ADp%20c%E1%BB%A7a%20c%C3%A1c%20app%20qu%E1%BA%A3n%20l%C3%BD%20ti%E1%BB%81n%20hi%E1%BB%87n%20c%C3%B3.md)
     - [Chương trình quản lý tiền](index.md)
@@ -72,7 +119,7 @@ style 3 fill:lightgreen
 - App quản lý chi tiêu: 
     - [Chương trình quản lý chi tiêu cá nhân từ Trấn Kỳ](./5%20T%C3%AAn%20ch%C6%B0%C6%A1ng%20tr%C3%ACnh/App%20qu%E1%BA%A3n%20l%C3%BD%20chi%20ti%C3%AAu/Ch%C6%B0%C6%A1ng%20tr%C3%ACnh%20qu%E1%BA%A3n%20l%C3%BD%20chi%20ti%C3%AAu%20c%C3%A1%20nh%C3%A2n%20t%E1%BB%AB%20Tr%E1%BA%A5n%20K%E1%BB%B3.md)
     - [Maybe finance](./5%20T%C3%AAn%20ch%C6%B0%C6%A1ng%20tr%C3%ACnh/App%20qu%E1%BA%A3n%20l%C3%BD%20chi%20ti%C3%AAu/Maybe%20finance.md)
-    - [Momo](./5%20T%C3%AAn%20ch%C6%B0%C6%A1ng%20tr%C3%ACnh/App%20qu%E1%BA%A3n%20l%C3%BD%20chi%20ti%C3%AAu/Momo.md)
+    - [Momo](Momo.md)
     - [MoneyLover](./5%20T%C3%AAn%20ch%C6%B0%C6%A1ng%20tr%C3%ACnh/App%20qu%E1%BA%A3n%20l%C3%BD%20chi%20ti%C3%AAu/MoneyLover.md)
     - [PiPu](./5%20T%C3%AAn%20ch%C6%B0%C6%A1ng%20tr%C3%ACnh/App%20qu%E1%BA%A3n%20l%C3%BD%20chi%20ti%C3%AAu/PiPu.md)
 
@@ -83,11 +130,11 @@ style 3 fill:lightgreen
 - Cách nhập liệu: 
     - [Nhập liệu bằng giọng nói](./3%20T%C3%ADnh%20n%C4%83ng/C%C3%A1ch%20nh%E1%BA%ADp%20li%E1%BB%87u/Nh%E1%BA%ADp%20li%E1%BB%87u%20b%E1%BA%B1ng%20gi%E1%BB%8Dng%20n%C3%B3i.md)
     - [Nhập liệu được bằng file text](./3%20T%C3%ADnh%20n%C4%83ng/C%C3%A1ch%20nh%E1%BA%ADp%20li%E1%BB%87u/Nh%E1%BA%ADp%20li%E1%BB%87u%20%C4%91%C6%B0%E1%BB%A3c%20b%E1%BA%B1ng%20file%20text.md)
-    - [Nhập liệu được trên Telegram](./3%20T%C3%ADnh%20n%C4%83ng/C%C3%A1ch%20nh%E1%BA%ADp%20li%E1%BB%87u/Nh%E1%BA%ADp%20li%E1%BB%87u%20%C4%91%C6%B0%E1%BB%A3c%20tr%C3%AAn%20Telegram.md)
     - [Nhập liệu được trên Google Keep](./3%20T%C3%ADnh%20n%C4%83ng/C%C3%A1ch%20nh%E1%BA%ADp%20li%E1%BB%87u/Nh%E1%BA%ADp%20li%E1%BB%87u%20%C4%91%C6%B0%E1%BB%A3c%20tr%C3%AAn%20Google%20Keep.md)
+    - [Nhập liệu được trên Telegram](./3%20T%C3%ADnh%20n%C4%83ng/C%C3%A1ch%20nh%E1%BA%ADp%20li%E1%BB%87u/Nh%E1%BA%ADp%20li%E1%BB%87u%20%C4%91%C6%B0%E1%BB%A3c%20tr%C3%AAn%20Telegram.md)
     - [Nhập được bằng tập tin bảng tính](./3%20T%C3%ADnh%20n%C4%83ng/C%C3%A1ch%20nh%E1%BA%ADp%20li%E1%BB%87u/Nh%E1%BA%ADp%20%C4%91%C6%B0%E1%BB%A3c%20b%E1%BA%B1ng%20t%E1%BA%ADp%20tin%20b%E1%BA%A3ng%20t%C3%ADnh.md)
-    - [Nhập được trên web](./3%20T%C3%ADnh%20n%C4%83ng/C%C3%A1ch%20nh%E1%BA%ADp%20li%E1%BB%87u/Nh%E1%BA%ADp%20%C4%91%C6%B0%E1%BB%A3c%20tr%C3%AAn%20web.md)
     - [Nhập được trên máy tính](./3%20T%C3%ADnh%20n%C4%83ng/C%C3%A1ch%20nh%E1%BA%ADp%20li%E1%BB%87u/Nh%E1%BA%ADp%20%C4%91%C6%B0%E1%BB%A3c%20tr%C3%AAn%20m%C3%A1y%20t%C3%ADnh.md)
+    - [Nhập được trên web](./3%20T%C3%ADnh%20n%C4%83ng/C%C3%A1ch%20nh%E1%BA%ADp%20li%E1%BB%87u/Nh%E1%BA%ADp%20%C4%91%C6%B0%E1%BB%A3c%20tr%C3%AAn%20web.md)
     - [Nhập được trên điện thoại](./3%20T%C3%ADnh%20n%C4%83ng/C%C3%A1ch%20nh%E1%BA%ADp%20li%E1%BB%87u/Nh%E1%BA%ADp%20%C4%91%C6%B0%E1%BB%A3c%20tr%C3%AAn%20%C4%91i%E1%BB%87n%20tho%E1%BA%A1i.md)
     - [Tự động lấy thông tin giao dịch ngay lúc quẹt mã](./3%20T%C3%ADnh%20n%C4%83ng/C%C3%A1ch%20nh%E1%BA%ADp%20li%E1%BB%87u/T%E1%BB%B1%20%C4%91%E1%BB%99ng%20l%E1%BA%A5y%20th%C3%B4ng%20tin%20giao%20d%E1%BB%8Bch%20ngay%20l%C3%BAc%20qu%E1%BA%B9t%20m%C3%A3.md)
     - [Điều khiển dễ dàng bằng bàn phím](./3%20T%C3%ADnh%20n%C4%83ng/C%C3%A1ch%20nh%E1%BA%ADp%20li%E1%BB%87u/%C4%90i%E1%BB%81u%20khi%E1%BB%83n%20d%E1%BB%85%20d%C3%A0ng%20b%E1%BA%B1ng%20b%C3%A0n%20ph%C3%ADm.md)
@@ -148,3 +195,4 @@ style 3 fill:lightgreen
 - Khi một "nhu cầu" của người dùng thực ra là do không có nhu cầu thì nó nên là gì?
 - Khi một "tính năng" của chương trình thực ra là do không có tính năng thì nó nên là gì?
 
+>>>>>>> c0d3b70881cf4ed62e5e2181c3211df89b86a3ac
