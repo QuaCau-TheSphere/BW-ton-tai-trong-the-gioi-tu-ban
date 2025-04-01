@@ -17,6 +17,7 @@ const site = lume({
   server: {
     open: true, // Tự động mở trình duyệt khi xong
   },
+  dest: "_site"
 }, { markdown });
 
 site.use(wiki({
