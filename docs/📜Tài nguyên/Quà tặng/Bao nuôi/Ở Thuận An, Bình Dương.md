@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-01-13T08:42
-updated: 2025-04-01T15:11
+updated: 2025-04-03T15:27
 description: Chỉ cần chạy ngoài đường 30 phút/ngày, bạn sẽ được bao nuôi nhà cửa, thức ăn miễn phí. Thời gian còn lại là của bạn
 alias: Dịch vụ bao nuôi ở Thuận An, Bình Dương
 ---
@@ -10,7 +10,7 @@ Với dịch vụ này, bạn:
 - Không phải trả tiền nhà (đã bao gồm điện, nước, wifi, rác)
 - Được ăn 3 bữa với chế độ dinh dưỡng theo yêu cầu. Đồ ăn sẽ tự động được đem đến, không phải lo nấu ăn gì
 - Có tiền xăng xe, cà phê nếu có công việc cần chạy về TP.HCM
-- Được đóng bảo hiểm xã hội ngay đầu tháng
+- [Được đóng bảo hiểm xã hội ngay đầu tháng](../../Ch%C3%ADnh%20s%C3%A1ch%20c%C3%B4ng%20ty/T%E1%BB%95%20ch%E1%BB%A9c%20t%C3%ADn%20d%E1%BB%A5ng/Thu%20h%E1%BB%93i%20n%E1%BB%A3/FE%20Credit/%C4%90%C3%B3ng%20BHXH%20ngay%20%C4%91%E1%BA%A7u%20th%C3%A1ng.md)
 
  Công việc của bạn sẽ là [làm nhân viên ảo FE](../../%C3%9D%20t%C6%B0%E1%BB%9Fng%20ki%E1%BA%BFm%20ti%E1%BB%81n/3%20%C3%9D%20t%C6%B0%E1%BB%9Fng/C%C3%B4ng%20vi%E1%BB%87c%20th%E1%BB%9Di%20v%E1%BB%A5,%20c%E1%BB%99ng%20t%C3%A1c%20vi%C3%AAn/Cho%20nh%C3%A2n%20vi%C3%AAn,%20%C4%91%E1%BA%A1i%20l%C3%BD/L%C3%A0m%20nh%C3%A2n%20s%E1%BB%B1%20%E1%BA%A3o/FE.md), mất chừng 20 phút mỗi ngày. Ngoài thời gian đó thì bạn được làm công việc riêng của bạn. 
 
