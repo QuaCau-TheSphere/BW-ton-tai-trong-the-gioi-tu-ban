@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-10-26T21:32
-updated: 2025-03-23T18:17
+updated: 2025-04-03T00:02
 alias: Khi nào thì việc đi bán bảo hiểm là lựa chọn của một người?
 ---
 ## Các ràng buộc

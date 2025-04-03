@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-02-03T12:27
-updated: 2025-03-31T00:56
+updated: 2025-04-03T15:12
 description: "Giữ tiền hộ: 70k/tài khoản ngân hàng. Nhập liệu: 120k/2 tiếng. Gom nhóm: một nửa tiền lời"
 ---
 Yêu cầu đầu vào:: [Có tài khoản ngân hàng](../../../1%20Y%C3%AAu%20c%E1%BA%A7u%20%C4%91%E1%BA%A7u%20v%C3%A0o/C%C3%B3%20t%C3%A0i%20kho%E1%BA%A3n%20ng%C3%A2n%20h%C3%A0ng.md), [Làm trực tuyến](../../../1%20Y%C3%AAu%20c%E1%BA%A7u%20%C4%91%E1%BA%A7u%20v%C3%A0o/Theo%20t%C3%ADnh%20ch%E1%BA%A5t%20c%C3%B4ng%20vi%E1%BB%87c/L%C3%A0m%20tr%E1%BB%B1c%20tuy%E1%BA%BFn.md)
@@ -18,7 +18,7 @@ Mô tả công việc:: Ngày bắt đầu làm bạn sẽ nhận được tiề
 Thông tin khác:
 - Tối thiểu 4 tài khoản ngân hàng, không giới hạn tối đa
 - Được chọn ngày bạn muốn làm
-- Cọc 500k qua trung gian Quả Cầu để đảm bảo
+- Cọc 2tr qua trung gian Quả Cầu hoặc [\[ CHECKSCAM.VN \] Kiểm tra, tố cáo thông tin lừa đảo](https://checkscam.vn/) để đảm bảo
 
 ## Nhập liệu
 Số tiền được nhận:: 120k/2 tiếng
@@ -29,3 +29,5 @@ Mô tả công việc:: Copy dữ liệu vào Excel, thống kê số liệu
 Số tiền được nhận:: một nửa tiền lời
 
 Mô tả công việc: Bạn mở app đăng ký tài khoản làm theo hướng dẫn, bọn mình sẽ nạp tiền cho bạn để bạn gom nhóm mua hàng. Xong bạn rút tiền ra, lời bao nhiêu chúng ta chia đôi.
+
+Bài chi tiết:: [Gom nhóm GM Mall](../S%C4%83n%20khuy%E1%BA%BFn%20m%C3%A3i,%20gi%E1%BA%A3m%20gi%C3%A1/Gom%20nh%C3%B3m%20GM%20Mall.md)
