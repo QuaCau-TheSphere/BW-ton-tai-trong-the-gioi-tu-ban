@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-25T22:31
-updated: 2025-03-27T20:41
+updated: 2025-04-03T23:23
 description: "Số tiền kiếm được: 3 triệu/tháng"
 ---
 # Làm nhân viên ảo GM Mall
@@ -18,3 +18,6 @@ Mỗi tháng đi Biên Hòa tầm 3 lần: 2 lần trực văn phòng, 1 lần h
 Thỉnh thoảng sẽ bắt chụp một vài tấm hình ở ngoài đường đang nói chuyện với ai đó giới thiệu app.
 
 Xem thêm:: [Chính sách công ty GM Mall](../../../../../Ch%C3%ADnh%20s%C3%A1ch%20c%C3%B4ng%20ty/Th%C6%B0%C6%A1ng%20m%E1%BA%A1i%20%C4%91i%E1%BB%87n%20t%E1%BB%AD/GM%20Mall.md)
+
+## Nơi thảo luận
+![](https://i.imgur.com/PffcLkI.png)
