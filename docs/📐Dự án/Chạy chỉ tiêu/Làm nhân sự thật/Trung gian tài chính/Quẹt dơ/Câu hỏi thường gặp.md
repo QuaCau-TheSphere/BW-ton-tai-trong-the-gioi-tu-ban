@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-23T17:44
-updated: 2025-03-23T18:13
+updated: 2025-04-05T00:05
 ---
 ## Tôi là người cho mượn tài khoản ngân hàng để các bạn quẹt. Chuyện gì sẽ xảy ra nếu các bạn bị phát hiện?
 Vì là trung gian thanh toán, nên các ví điện tử đứng ra bảo lãnh cho người quẹt. Chuyển khoản thì còn không biết đang làm gì, chứ dùng trung gian thanh toán thì xác định là mua hàng. Ngân hàng sẽ thấy là sạch, và điểm tín dụng sẽ cao hơn. Hoặc chẳng qua nó nhắm mắt làm ngơ, vì bọn mình chưa đủ lớn để truy tố hay thả lưới. Mà nếu bọn mình làm lớn thì chắc đã không phải nhờ tới các bạn rồi.

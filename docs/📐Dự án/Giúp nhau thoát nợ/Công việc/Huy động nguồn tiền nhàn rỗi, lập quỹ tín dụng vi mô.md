@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2025-01-19T22:29
+updated: 2025-04-04T23:32
 alias:
   - Lập quỹ tín dụng vi mô
   - Tìm người có tiền nhàn rỗi lớn

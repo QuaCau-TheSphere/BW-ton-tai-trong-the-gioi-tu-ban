@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2025-03-22T16:41
+updated: 2025-04-04T22:11
 description: Điểm giống và khác nhau giữa các ý tưởng kiếm tiền. Quang cảnh và sơ đồ giữa chúng.
 alias:
   - Điểm giống và khác nhau giữa các ý tưởng kiếm tiền
@@ -30,6 +30,7 @@ style 3 fill:lightgreen
     - [Có xe máy](./1%20Y%C3%AAu%20c%E1%BA%A7u%20%C4%91%E1%BA%A7u%20v%C3%A0o/C%C3%B3%20xe%20m%C3%A1y.md)
     - [Không tốn diện tích](./1%20Y%C3%AAu%20c%E1%BA%A7u%20%C4%91%E1%BA%A7u%20v%C3%A0o/Kh%C3%B4ng%20t%E1%BB%91n%20di%E1%BB%87n%20t%C3%ADch.md)
     - [Vốn](./1%20Y%C3%AAu%20c%E1%BA%A7u%20%C4%91%E1%BA%A7u%20v%C3%A0o/V%E1%BB%91n.md)
+    - [Ứng biến](./1%20Y%C3%AAu%20c%E1%BA%A7u%20%C4%91%E1%BA%A7u%20v%C3%A0o/%E1%BB%A8ng%20bi%E1%BA%BFn.md)
     - [Chia sẻ, đào tạo, huấn luyện](./2%20H%C3%ACnh%20th%E1%BB%A9c/Chia%20s%E1%BA%BB,%20%C4%91%C3%A0o%20t%E1%BA%A1o,%20hu%E1%BA%A5n%20luy%E1%BB%87n.md)
     - [Gia công giải pháp](./2%20H%C3%ACnh%20th%E1%BB%A9c/Gia%20c%C3%B4ng%20gi%E1%BA%A3i%20ph%C3%A1p.md)
     - [Tự kinh doanh, đầu tư](./2%20H%C3%ACnh%20th%E1%BB%A9c/T%E1%BB%B1%20kinh%20doanh,%20%C4%91%E1%BA%A7u%20t%C6%B0.md)
@@ -46,19 +47,23 @@ style 3 fill:lightgreen
 - Công việc thời vụ, cộng tác viên: 
     - [Chạy sự kiện, guider, chụp ảnh, hướng dẫn viên du lịch](Ch%E1%BA%A1y%20s%E1%BB%B1%20ki%E1%BB%87n,%20guider,%20ch%E1%BB%A5p%20%E1%BA%A3nh,%20h%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn%20vi%C3%AAn%20du%20l%E1%BB%8Bch.md)
     - [Làm khảo sát, phỏng vấn](./3%20%C3%9D%20t%C6%B0%E1%BB%9Fng/C%C3%B4ng%20vi%E1%BB%87c%20th%E1%BB%9Di%20v%E1%BB%A5,%20c%E1%BB%99ng%20t%C3%A1c%20vi%C3%AAn/Cho%20c%C3%B4ng%20ty/L%C3%A0m%20kh%E1%BA%A3o%20s%C3%A1t,%20ph%E1%BB%8Fng%20v%E1%BA%A5n.md)
-    - [Shipper, telesale, trợ lý giám đốc, lễ tân, bồi bàn](./3%20%C3%9D%20t%C6%B0%E1%BB%9Fng/C%C3%B4ng%20vi%E1%BB%87c%20th%E1%BB%9Di%20v%E1%BB%A5,%20c%E1%BB%99ng%20t%C3%A1c%20vi%C3%AAn/Cho%20c%C3%B4ng%20ty/Shipper,%20telesale,%20tr%E1%BB%A3%20l%C3%BD%20gi%C3%A1m%20%C4%91%E1%BB%91c,%20l%E1%BB%85%20t%C3%A2n,%20b%E1%BB%93i%20b%C3%A0n.md)
     - [Nhập liệu, dán nhãn dữ liệu, BPO](./3%20%C3%9D%20t%C6%B0%E1%BB%9Fng/C%C3%B4ng%20vi%E1%BB%87c%20th%E1%BB%9Di%20v%E1%BB%A5,%20c%E1%BB%99ng%20t%C3%A1c%20vi%C3%AAn/Cho%20c%C3%B4ng%20ty/Nh%E1%BA%ADp%20li%E1%BB%87u,%20d%C3%A1n%20nh%C3%A3n%20d%E1%BB%AF%20li%E1%BB%87u,%20BPO.md)
-    - [Giữ tiền hộ, nhập liệu, gom nhóm](./3%20%C3%9D%20t%C6%B0%E1%BB%9Fng/C%C3%B4ng%20vi%E1%BB%87c%20th%E1%BB%9Di%20v%E1%BB%A5,%20c%E1%BB%99ng%20t%C3%A1c%20vi%C3%AAn/Cho%20nh%C3%A2n%20vi%C3%AAn,%20%C4%91%E1%BA%A1i%20l%C3%BD/Gi%E1%BB%AF%20ti%E1%BB%81n%20h%E1%BB%99,%20nh%E1%BA%ADp%20li%E1%BB%87u,%20gom%20nh%C3%B3m.md)
+    - [Shipper, telesale, trợ lý giám đốc, lễ tân, bồi bàn](./3%20%C3%9D%20t%C6%B0%E1%BB%9Fng/C%C3%B4ng%20vi%E1%BB%87c%20th%E1%BB%9Di%20v%E1%BB%A5,%20c%E1%BB%99ng%20t%C3%A1c%20vi%C3%AAn/Cho%20c%C3%B4ng%20ty/Shipper,%20telesale,%20tr%E1%BB%A3%20l%C3%BD%20gi%C3%A1m%20%C4%91%E1%BB%91c,%20l%E1%BB%85%20t%C3%A2n,%20b%E1%BB%93i%20b%C3%A0n.md)
     - [Bảo hiểm](./3%20%C3%9D%20t%C6%B0%E1%BB%9Fng/C%C3%B4ng%20vi%E1%BB%87c%20th%E1%BB%9Di%20v%E1%BB%A5,%20c%E1%BB%99ng%20t%C3%A1c%20vi%C3%AAn/Cho%20nh%C3%A2n%20vi%C3%AAn,%20%C4%91%E1%BA%A1i%20l%C3%BD/L%C3%A0m%20nh%C3%A2n%20s%E1%BB%B1%20%E1%BA%A3o/B%E1%BA%A3o%20hi%E1%BB%83m/index.md)
     - [Bảo Việt](./3%20%C3%9D%20t%C6%B0%E1%BB%9Fng/C%C3%B4ng%20vi%E1%BB%87c%20th%E1%BB%9Di%20v%E1%BB%A5,%20c%E1%BB%99ng%20t%C3%A1c%20vi%C3%AAn/Cho%20nh%C3%A2n%20vi%C3%AAn,%20%C4%91%E1%BA%A1i%20l%C3%BD/L%C3%A0m%20nh%C3%A2n%20s%E1%BB%B1%20%E1%BA%A3o/B%E1%BA%A3o%20hi%E1%BB%83m/B%E1%BA%A3o%20Vi%E1%BB%87t.md)
     - [Cathay](./3%20%C3%9D%20t%C6%B0%E1%BB%9Fng/C%C3%B4ng%20vi%E1%BB%87c%20th%E1%BB%9Di%20v%E1%BB%A5,%20c%E1%BB%99ng%20t%C3%A1c%20vi%C3%AAn/Cho%20nh%C3%A2n%20vi%C3%AAn,%20%C4%91%E1%BA%A1i%20l%C3%BD/L%C3%A0m%20nh%C3%A2n%20s%E1%BB%B1%20%E1%BA%A3o/B%E1%BA%A3o%20hi%E1%BB%83m/Cathay.md)
     - [Prudential](./3%20%C3%9D%20t%C6%B0%E1%BB%9Fng/C%C3%B4ng%20vi%E1%BB%87c%20th%E1%BB%9Di%20v%E1%BB%A5,%20c%E1%BB%99ng%20t%C3%A1c%20vi%C3%AAn/Cho%20nh%C3%A2n%20vi%C3%AAn,%20%C4%91%E1%BA%A1i%20l%C3%BD/L%C3%A0m%20nh%C3%A2n%20s%E1%BB%B1%20%E1%BA%A3o/B%E1%BA%A3o%20hi%E1%BB%83m/Prudential.md)
     - [FE](./3%20%C3%9D%20t%C6%B0%E1%BB%9Fng/C%C3%B4ng%20vi%E1%BB%87c%20th%E1%BB%9Di%20v%E1%BB%A5,%20c%E1%BB%99ng%20t%C3%A1c%20vi%C3%AAn/Cho%20nh%C3%A2n%20vi%C3%AAn,%20%C4%91%E1%BA%A1i%20l%C3%BD/L%C3%A0m%20nh%C3%A2n%20s%E1%BB%B1%20%E1%BA%A3o/FE.md)
-    - [GM Mall](./3%20%C3%9D%20t%C6%B0%E1%BB%9Fng/C%C3%B4ng%20vi%E1%BB%87c%20th%E1%BB%9Di%20v%E1%BB%A5,%20c%E1%BB%99ng%20t%C3%A1c%20vi%C3%AAn/Cho%20nh%C3%A2n%20vi%C3%AAn,%20%C4%91%E1%BA%A1i%20l%C3%BD/L%C3%A0m%20nh%C3%A2n%20s%E1%BB%B1%20%E1%BA%A3o/GM%20Mall.md)
     - [Làm nhân sự ảo](./3%20%C3%9D%20t%C6%B0%E1%BB%9Fng/C%C3%B4ng%20vi%E1%BB%87c%20th%E1%BB%9Di%20v%E1%BB%A5,%20c%E1%BB%99ng%20t%C3%A1c%20vi%C3%AAn/Cho%20nh%C3%A2n%20vi%C3%AAn,%20%C4%91%E1%BA%A1i%20l%C3%BD/L%C3%A0m%20nh%C3%A2n%20s%E1%BB%B1%20%E1%BA%A3o/index.md)
-    - [VNPAY](./3%20%C3%9D%20t%C6%B0%E1%BB%9Fng/C%C3%B4ng%20vi%E1%BB%87c%20th%E1%BB%9Di%20v%E1%BB%A5,%20c%E1%BB%99ng%20t%C3%A1c%20vi%C3%AAn/Cho%20nh%C3%A2n%20vi%C3%AAn,%20%C4%91%E1%BA%A1i%20l%C3%BD/L%C3%A0m%20nh%C3%A2n%20s%E1%BB%B1%20%E1%BA%A3o/VNPAY.md)
-    - [Viết hợp đồng, thu thập thông tin khách hàng tiềm năng](./3%20%C3%9D%20t%C6%B0%E1%BB%9Fng/C%C3%B4ng%20vi%E1%BB%87c%20th%E1%BB%9Di%20v%E1%BB%A5,%20c%E1%BB%99ng%20t%C3%A1c%20vi%C3%AAn/Cho%20nh%C3%A2n%20vi%C3%AAn,%20%C4%91%E1%BA%A1i%20l%C3%BD/Vi%E1%BA%BFt%20h%E1%BB%A3p%20%C4%91%E1%BB%93ng,%20thu%20th%E1%BA%ADp%20th%C3%B4ng%20tin%20kh%C3%A1ch%20h%C3%A0ng%20ti%E1%BB%81m%20n%C4%83ng.md)
-    - [Đổi tiền, chụp hình biển hiệu, dán mã QR](./3%20%C3%9D%20t%C6%B0%E1%BB%9Fng/C%C3%B4ng%20vi%E1%BB%87c%20th%E1%BB%9Di%20v%E1%BB%A5,%20c%E1%BB%99ng%20t%C3%A1c%20vi%C3%AAn/Cho%20nh%C3%A2n%20vi%C3%AAn,%20%C4%91%E1%BA%A1i%20l%C3%BD/%C4%90%E1%BB%95i%20ti%E1%BB%81n,%20ch%E1%BB%A5p%20h%C3%ACnh%20bi%E1%BB%83n%20hi%E1%BB%87u,%20d%C3%A1n%20m%C3%A3%20QR.md)
+    - [Quản lý máy](./3%20%C3%9D%20t%C6%B0%E1%BB%9Fng/C%C3%B4ng%20vi%E1%BB%87c%20th%E1%BB%9Di%20v%E1%BB%A5,%20c%E1%BB%99ng%20t%C3%A1c%20vi%C3%AAn/Cho%20nh%C3%A2n%20vi%C3%AAn,%20%C4%91%E1%BA%A1i%20l%C3%BD/GM%20Mall/Qu%E1%BA%A3n%20l%C3%BD%20m%C3%A1y.md)
+    - [Làm nhân viên ảo](./3%20%C3%9D%20t%C6%B0%E1%BB%9Fng/C%C3%B4ng%20vi%E1%BB%87c%20th%E1%BB%9Di%20v%E1%BB%A5,%20c%E1%BB%99ng%20t%C3%A1c%20vi%C3%AAn/Cho%20nh%C3%A2n%20vi%C3%AAn,%20%C4%91%E1%BA%A1i%20l%C3%BD/GM%20Mall/L%C3%A0m%20nh%C3%A2n%20vi%C3%AAn%20%E1%BA%A3o.md)
+    - [GM Mall](./3%20%C3%9D%20t%C6%B0%E1%BB%9Fng/C%C3%B4ng%20vi%E1%BB%87c%20th%E1%BB%9Di%20v%E1%BB%A5,%20c%E1%BB%99ng%20t%C3%A1c%20vi%C3%AAn/Cho%20nh%C3%A2n%20vi%C3%AAn,%20%C4%91%E1%BA%A1i%20l%C3%BD/GM%20Mall/index.md)
+    - [Gom nhóm](./3%20%C3%9D%20t%C6%B0%E1%BB%9Fng/C%C3%B4ng%20vi%E1%BB%87c%20th%E1%BB%9Di%20v%E1%BB%A5,%20c%E1%BB%99ng%20t%C3%A1c%20vi%C3%AAn/Cho%20nh%C3%A2n%20vi%C3%AAn,%20%C4%91%E1%BA%A1i%20l%C3%BD/GM%20Mall/Gom%20nh%C3%B3m.md)
+    - [Giữ tiền hộ](./3%20%C3%9D%20t%C6%B0%E1%BB%9Fng/C%C3%B4ng%20vi%E1%BB%87c%20th%E1%BB%9Di%20v%E1%BB%A5,%20c%E1%BB%99ng%20t%C3%A1c%20vi%C3%AAn/Cho%20nh%C3%A2n%20vi%C3%AAn,%20%C4%91%E1%BA%A1i%20l%C3%BD/GM%20Mall/Gi%E1%BB%AF%20ti%E1%BB%81n%20h%E1%BB%99.md)
+    - [Đổi tiền, chụp hình biển hiệu, dán mã QR](./3%20%C3%9D%20t%C6%B0%E1%BB%9Fng/C%C3%B4ng%20vi%E1%BB%87c%20th%E1%BB%9Di%20v%E1%BB%A5,%20c%E1%BB%99ng%20t%C3%A1c%20vi%C3%AAn/Cho%20nh%C3%A2n%20vi%C3%AAn,%20%C4%91%E1%BA%A1i%20l%C3%BD/VNPAY/%C4%90%E1%BB%95i%20ti%E1%BB%81n,%20ch%E1%BB%A5p%20h%C3%ACnh%20bi%E1%BB%83n%20hi%E1%BB%87u,%20d%C3%A1n%20m%C3%A3%20QR.md)
+    - [Viết hợp đồng, thu thập thông tin khách hàng tiềm năng](./3%20%C3%9D%20t%C6%B0%E1%BB%9Fng/C%C3%B4ng%20vi%E1%BB%87c%20th%E1%BB%9Di%20v%E1%BB%A5,%20c%E1%BB%99ng%20t%C3%A1c%20vi%C3%AAn/Cho%20nh%C3%A2n%20vi%C3%AAn,%20%C4%91%E1%BA%A1i%20l%C3%BD/VNPAY/Vi%E1%BA%BFt%20h%E1%BB%A3p%20%C4%91%E1%BB%93ng,%20thu%20th%E1%BA%ADp%20th%C3%B4ng%20tin%20kh%C3%A1ch%20h%C3%A0ng%20ti%E1%BB%81m%20n%C4%83ng.md)
+    - [Làm nhân viên ảo](./3%20%C3%9D%20t%C6%B0%E1%BB%9Fng/C%C3%B4ng%20vi%E1%BB%87c%20th%E1%BB%9Di%20v%E1%BB%A5,%20c%E1%BB%99ng%20t%C3%A1c%20vi%C3%AAn/Cho%20nh%C3%A2n%20vi%C3%AAn,%20%C4%91%E1%BA%A1i%20l%C3%BD/VNPAY/L%C3%A0m%20nh%C3%A2n%20vi%C3%AAn%20%E1%BA%A3o.md)
+    - [Cung cấp thông tin liên lạc, làm cầu nối](./3%20%C3%9D%20t%C6%B0%E1%BB%9Fng/C%C3%B4ng%20vi%E1%BB%87c%20th%E1%BB%9Di%20v%E1%BB%A5,%20c%E1%BB%99ng%20t%C3%A1c%20vi%C3%AAn/Cho%20nh%C3%A2n%20vi%C3%AAn,%20%C4%91%E1%BA%A1i%20l%C3%BD/Cung%20c%E1%BA%A5p%20th%C3%B4ng%20tin%20li%C3%AAn%20l%E1%BA%A1c,%20l%C3%A0m%20c%E1%BA%A7u%20n%E1%BB%91i.md)
     - [Gia sư, dạy tiếng Việt cho người nước ngoài](./3%20%C3%9D%20t%C6%B0%E1%BB%9Fng/C%C3%B4ng%20vi%E1%BB%87c%20th%E1%BB%9Di%20v%E1%BB%A5,%20c%E1%BB%99ng%20t%C3%A1c%20vi%C3%AAn/Gia%20s%C6%B0,%20d%E1%BA%A1y%20ti%E1%BA%BFng%20Vi%E1%BB%87t%20cho%20ng%C6%B0%E1%BB%9Di%20n%C6%B0%E1%BB%9Bc%20ngo%C3%A0i.md)
     - [Lừa đảo hội lừa đảo](./3%20%C3%9D%20t%C6%B0%E1%BB%9Fng/C%C3%B4ng%20vi%E1%BB%87c%20th%E1%BB%9Di%20v%E1%BB%A5,%20c%E1%BB%99ng%20t%C3%A1c%20vi%C3%AAn/L%E1%BB%ABa%20%C4%91%E1%BA%A3o%20h%E1%BB%99i%20l%E1%BB%ABa%20%C4%91%E1%BA%A3o.md)
 
@@ -86,8 +91,8 @@ style 3 fill:lightgreen
     - [Thời gian làm linh hoạt](./1%20Y%C3%AAu%20c%E1%BA%A7u%20%C4%91%E1%BA%A7u%20v%C3%A0o/Theo%20th%E1%BB%9Di%20gian/Th%E1%BB%9Di%20gian%20l%C3%A0m%20linh%20ho%E1%BA%A1t.md)
 
 - Theo tính chất công việc: 
-    - [Làm ngoài đường](./1%20Y%C3%AAu%20c%E1%BA%A7u%20%C4%91%E1%BA%A7u%20v%C3%A0o/Theo%20t%C3%ADnh%20ch%E1%BA%A5t%20c%C3%B4ng%20vi%E1%BB%87c/L%C3%A0m%20ngo%C3%A0i%20%C4%91%C6%B0%E1%BB%9Dng.md)
     - [Luật cấm tổ chức tín dụng cho người khác xem thông tin cá nhân của khách hàng mà không có sự đồng ý của họ](./1%20Y%C3%AAu%20c%E1%BA%A7u%20%C4%91%E1%BA%A7u%20v%C3%A0o/Theo%20t%C3%ADnh%20ch%E1%BA%A5t%20c%C3%B4ng%20vi%E1%BB%87c/Lu%E1%BA%ADt%20c%E1%BA%A5m%20t%E1%BB%95%20ch%E1%BB%A9c%20t%C3%ADn%20d%E1%BB%A5ng%20cho%20ng%C6%B0%E1%BB%9Di%20kh%C3%A1c%20xem%20th%C3%B4ng%20tin%20c%C3%A1%20nh%C3%A2n%20c%E1%BB%A7a%20kh%C3%A1ch%20h%C3%A0ng%20m%C3%A0%20kh%C3%B4ng%20c%C3%B3%20s%E1%BB%B1%20%C4%91%E1%BB%93ng%20%C3%BD%20c%E1%BB%A7a%20h%E1%BB%8D.md)
+    - [Làm ngoài đường](./1%20Y%C3%AAu%20c%E1%BA%A7u%20%C4%91%E1%BA%A7u%20v%C3%A0o/Theo%20t%C3%ADnh%20ch%E1%BA%A5t%20c%C3%B4ng%20vi%E1%BB%87c/L%C3%A0m%20ngo%C3%A0i%20%C4%91%C6%B0%E1%BB%9Dng.md)
     - [Làm trực tuyến](./1%20Y%C3%AAu%20c%E1%BA%A7u%20%C4%91%E1%BA%A7u%20v%C3%A0o/Theo%20t%C3%ADnh%20ch%E1%BA%A5t%20c%C3%B4ng%20vi%E1%BB%87c/L%C3%A0m%20tr%E1%BB%B1c%20tuy%E1%BA%BFn.md)
     - [Làm văn phòng](./1%20Y%C3%AAu%20c%E1%BA%A7u%20%C4%91%E1%BA%A7u%20v%C3%A0o/Theo%20t%C3%ADnh%20ch%E1%BA%A5t%20c%C3%B4ng%20vi%E1%BB%87c/L%C3%A0m%20v%C4%83n%20ph%C3%B2ng.md)
     - [Đi ra ngoại thành hoặc tỉnh khác](./1%20Y%C3%AAu%20c%E1%BA%A7u%20%C4%91%E1%BA%A7u%20v%C3%A0o/Theo%20t%C3%ADnh%20ch%E1%BA%A5t%20c%C3%B4ng%20vi%E1%BB%87c/%C4%90i%20ra%20ngo%E1%BA%A1i%20th%C3%A0nh%20ho%E1%BA%B7c%20t%E1%BB%89nh%20kh%C3%A1c.md)
@@ -101,8 +106,8 @@ style 3 fill:lightgreen
     - [Bán bộ thẻ học GRE cho Anki](./3%20%C3%9D%20t%C6%B0%E1%BB%9Fng/T%E1%BB%B1%20kinh%20doanh,%20%C4%91%E1%BA%A7u%20t%C6%B0/B%C3%A1n%20quy%E1%BB%81n%20truy%20c%E1%BA%ADp%20d%E1%BB%AF%20li%E1%BB%87u/B%C3%A1n%20b%E1%BB%99%20th%E1%BA%BB%20h%E1%BB%8Dc%20GRE%20cho%20Anki.md)
     - [Bán số lượng lớn tự động trên các nền tảng](./3%20%C3%9D%20t%C6%B0%E1%BB%9Fng/T%E1%BB%B1%20kinh%20doanh,%20%C4%91%E1%BA%A7u%20t%C6%B0/B%C3%A1n%20s%E1%BB%91%20l%C6%B0%E1%BB%A3ng%20l%E1%BB%9Bn%20t%E1%BB%B1%20%C4%91%E1%BB%99ng%20tr%C3%AAn%20c%C3%A1c%20n%E1%BB%81n%20t%E1%BA%A3ng.md)
     - [Cho vay lấy lãi](./3%20%C3%9D%20t%C6%B0%E1%BB%9Fng/T%E1%BB%B1%20kinh%20doanh,%20%C4%91%E1%BA%A7u%20t%C6%B0/Cho%20vay%20l%E1%BA%A5y%20l%C3%A3i.md)
-    - [Xem tử vi tự động](./3%20%C3%9D%20t%C6%B0%E1%BB%9Fng/T%E1%BB%B1%20kinh%20doanh,%20%C4%91%E1%BA%A7u%20t%C6%B0/Xem%20t%E1%BB%AD%20vi%20t%E1%BB%B1%20%C4%91%E1%BB%99ng.md)
     - [Nhóm cộng tác viên cho nhân viên](./3%20%C3%9D%20t%C6%B0%E1%BB%9Fng/T%E1%BB%B1%20kinh%20doanh,%20%C4%91%E1%BA%A7u%20t%C6%B0/Nh%C3%B3m%20c%E1%BB%99ng%20t%C3%A1c%20vi%C3%AAn%20cho%20nh%C3%A2n%20vi%C3%AAn.md)
+    - [Xem tử vi tự động](./3%20%C3%9D%20t%C6%B0%E1%BB%9Fng/T%E1%BB%B1%20kinh%20doanh,%20%C4%91%E1%BA%A7u%20t%C6%B0/Xem%20t%E1%BB%AD%20vi%20t%E1%BB%B1%20%C4%91%E1%BB%99ng.md)
 
 - Việc chính thức trong công ty: 
     - [Làm việc ở nước ngoài](./3%20%C3%9D%20t%C6%B0%E1%BB%9Fng/Vi%E1%BB%87c%20ch%C3%ADnh%20th%E1%BB%A9c%20trong%20c%C3%B4ng%20ty/L%C3%A0m%20vi%E1%BB%87c%20%E1%BB%9F%20n%C6%B0%E1%BB%9Bc%20ngo%C3%A0i.md)
