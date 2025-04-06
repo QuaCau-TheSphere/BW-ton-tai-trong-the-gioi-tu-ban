@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-22T13:14
-updated: 2025-04-06T01:59
+updated: 2025-04-06T16:31
 ---
 Khái niệm:: [Bán hàng](../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/B%C3%A1n%20h%C3%A0ng.md)
 
@@ -17,8 +17,12 @@ Nói chung, một khi việc bán hàng đã bị áp chỉ tiêu thì không th
 - Họ không biết đến công việc nâng cao nhận thức
 - Họ nói dối
 
-Cách tốt nhất để giúp họ là khiến cho các công việc nâng cao nhận thức kia kiếm được nhiều tiền hơn, hoặc khiến cho các công ty chuyển đổi sang mô hình không áp chỉ tiêu, hoặc đáp ứng các nhu cầu của họ mà không cần tới tiền. Những cách khác như [Tạo thêm sự hấp dẫn cho công việc bán hàng](../../%F0%9F%93%90D%E1%BB%B1%20%C3%A1n/M%E1%BA%A1ng%20k%E1%BA%BFt%20n%E1%BB%91i%20nhu%20c%E1%BA%A7u/L%C3%A0m%20sao%20%C4%91%E1%BB%83%20m%E1%BB%99t%20ng%C6%B0%E1%BB%9Di%20th%E1%BA%A5y%20c%C3%B4ng%20vi%E1%BB%87c%20b%C3%A1n%20h%C3%A0ng%20h%E1%BA%A5p%20d%E1%BA%ABn%20h%C6%A1n.md) chỉ là sự thoả hiệp với sự cấp bách, chứ không đả động gì tới lý do chính yếu. Nhưng ý tưởng tốt hơn nữa là làm cho người bán [có tiếng nói về cách họ sản xuất, những gì họ sản xuất và lợi nhuận mà họ tạo ra được sử dụng như thế nào](./Ch%E1%BB%A7%20ngh%C4%A9a%20x%C3%A3%20h%E1%BB%99i/C%C3%A1c%20t%E1%BA%ADp%20%C4%91o%C3%A0n%20l%C3%A0%20h%C3%ACnh%20th%E1%BB%A9c%20c%E1%BB%A7a%20c%C3%A1c%20ch%E1%BA%BF%20%C4%91%E1%BB%99%20%C4%91%E1%BB%99c%20t%C3%A0i%20c%C3%B3%20th%E1%BB%A9%20b%E1%BA%ADc,%20v%C3%AC%20nh%E1%BB%AFng%20ng%C6%B0%E1%BB%9Di%20l%C3%A0m%20vi%E1%BB%87c%20trong%20%C4%91%C3%B3%20kh%C3%B4ng%20c%C3%B3%20ti%E1%BA%BFng%20n%C3%B3i%20v%E1%BB%81%20c%C3%A1ch%20h%E1%BB%8D%20s%E1%BA%A3n%20xu%E1%BA%A5t,%20nh%E1%BB%AFng%20g%C3%AC%20h%E1%BB%8D%20s%E1%BA%A3n%20xu%E1%BA%A5t%20v%C3%A0%20l%E1%BB%A3i%20nhu%E1%BA%ADn%20m%C3%A0%20h%E1%BB%8D%20t%E1%BA%A1o%20ra%20%C4%91%C6%B0%E1%BB%A3c%20s%E1%BB%AD%20d%E1%BB%A5ng%20nh%C6%B0%20th%E1%BA%BF%20n%C3%A0o.md). Đi một hồi thì sẽ thành chống chủ nghĩa tư bản, tham gia các phong trào chủ nghĩa xã hội.
+Cách tốt nhất để giúp họ là khiến cho các công việc nâng cao nhận thức kia kiếm được nhiều tiền hơn, hoặc khiến cho các công ty chuyển đổi sang mô hình không áp chỉ tiêu, hoặc đáp ứng các nhu cầu của họ mà không cần tới tiền. Những cách khác như [Tạo thêm sự hấp dẫn cho công việc bán hàng](../../%F0%9F%93%90D%E1%BB%B1%20%C3%A1n/M%E1%BA%A1ng%20k%E1%BA%BFt%20n%E1%BB%91i%20nhu%20c%E1%BA%A7u/L%C3%A0m%20sao%20%C4%91%E1%BB%83%20m%E1%BB%99t%20ng%C6%B0%E1%BB%9Di%20th%E1%BA%A5y%20c%C3%B4ng%20vi%E1%BB%87c%20b%C3%A1n%20h%C3%A0ng%20h%E1%BA%A5p%20d%E1%BA%ABn%20h%C6%A1n.md) chỉ là sự thoả hiệp với sự cấp bách, chứ không đả động gì tới lý do chính yếu. Nhưng ý tưởng tốt hơn nữa là làm cho người bán [có tiếng nói về cách họ sản xuất, những gì họ sản xuất và lợi nhuận mà họ tạo ra được sử dụng như thế nào](./Ch%E1%BB%A7%20ngh%C4%A9a%20x%C3%A3%20h%E1%BB%99i/C%C3%A1c%20t%E1%BA%ADp%20%C4%91o%C3%A0n%20l%C3%A0%20h%C3%ACnh%20th%E1%BB%A9c%20c%E1%BB%A7a%20c%C3%A1c%20ch%E1%BA%BF%20%C4%91%E1%BB%99%20%C4%91%E1%BB%99c%20t%C3%A0i%20c%C3%B3%20th%E1%BB%A9%20b%E1%BA%ADc.md). Đi một hồi thì sẽ thành chống chủ nghĩa tư bản, tham gia các phong trào chủ nghĩa xã hội.
 
+Nó đại diện cho mối quan tâm của những người không có nhiều đầu óc để bàn chuyện thế sự. Đồng ý là 
+> liệu chủ nghĩa tư bản ở cấp độ tuyệt đối có thực sự chối từ những nhu cầu của con người trên phương diện thường ngày hay không? Câu trả lời là, với phần lớn dân số thế giới, chúng đã từ chối - và đã thất bại. Thất bại bởi phần với thế giới giờ đây đang trong trạng thái của một hình thái xã hội thị trường vô cùng rời rạc và tàn bạo. Ở Ấn Độ, Trung Quốc, Châu Phi, Trung Đông, phần lớn con người đang sống lắt léo. Không phải tự nhiên mà vậy; đó là bởi họ phải làm việc cho những ông chủ vốn chẳng quan tâm gì tới họ. Vì thế trên phương diện tuyệt đối, với đa phần thế giới, chủ nghĩa tư bản đang thất bại.
+
+Không có đầu óc để nghĩ về điều đó. Nó cần đáp ứng nhu cầu của những người đang sử dụng nó trước tiên 
 Điều này cũng có nghĩa là nơi này không, vì nó cần đáp ứng các nhu cầu của những người xung quanh. Đã có rất nhiều tổ chức chống tư bản rồi, làm thêm một cái chắc cũng không có nhiều ý nghĩa lắm
 
 Nhưng đồng thời cũng cần làm họ nhận ra
