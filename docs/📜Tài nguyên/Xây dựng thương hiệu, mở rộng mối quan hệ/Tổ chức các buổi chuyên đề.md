@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-11-12T14:23
-updated: 2025-03-22T16:42
+updated: 2025-04-05T02:21
 ---
 Các công việc: 
 - [Huấn luyện lập trình 1-1](../%C3%9D%20t%C6%B0%E1%BB%9Fng%20ki%E1%BA%BFm%20ti%E1%BB%81n/3%20%C3%9D%20t%C6%B0%E1%BB%9Fng/C%C3%A1c%20bu%E1%BB%95i%20chia%20s%E1%BA%BB,%20l%E1%BB%9Bp%20h%E1%BB%8Dc,%20kho%C3%A1%20%C4%91%C3%A0o%20t%E1%BA%A1o,%20bu%E1%BB%95i%20hu%E1%BA%A5n%20luy%E1%BB%87n/Hu%E1%BA%A5n%20luy%E1%BB%87n%20l%E1%BA%ADp%20tr%C3%ACnh%201-1.md)
