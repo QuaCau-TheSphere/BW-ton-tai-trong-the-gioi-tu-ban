@@ -1,13 +1,15 @@
 ---
 share: true
 created: 2025-03-22T21:46
-updated: 2025-03-22T21:48
+updated: 2025-04-05T15:36
 ---
 - \-: 
     - [Muốn bán hàng tốt cần có mối quan hệ](../Mu%E1%BB%91n%20b%C3%A1n%20h%C3%A0ng%20t%E1%BB%91t%20c%E1%BA%A7n%20c%C3%B3%20m%E1%BB%91i%20quan%20h%E1%BB%87.md)
     - [Chỉ có những ai không tìm được công việc khác thì mới muốn nhận nghề bán hàng, chứ những nghề khác hấp dẫn hơn](../%C4%90%E1%BA%A1o%20%C4%91%E1%BB%A9c,%20ph%C3%A1p%20lu%E1%BA%ADt.%20Ch%E1%BB%A7%20ngh%C4%A9a%20t%C3%A2n%20t%E1%BB%B1%20do/Ch%E1%BB%89%20c%C3%B3%20nh%E1%BB%AFng%20ai%20kh%C3%B4ng%20t%C3%ACm%20%C4%91%C6%B0%E1%BB%A3c%20c%C3%B4ng%20vi%E1%BB%87c%20kh%C3%A1c%20th%C3%AC%20m%E1%BB%9Bi%20mu%E1%BB%91n%20nh%E1%BA%ADn%20ngh%E1%BB%81%20b%C3%A1n%20h%C3%A0ng,%20ch%E1%BB%A9%20nh%E1%BB%AFng%20ngh%E1%BB%81%20kh%C3%A1c%20h%E1%BA%A5p%20d%E1%BA%ABn%20h%C6%A1n.md)
     - [Người bán hàng giống như giao diện giọng nói của một cái máy hơn là một con người thật](../%C4%90%E1%BA%A1o%20%C4%91%E1%BB%A9c,%20ph%C3%A1p%20lu%E1%BA%ADt.%20Ch%E1%BB%A7%20ngh%C4%A9a%20t%C3%A2n%20t%E1%BB%B1%20do/Ng%C6%B0%E1%BB%9Di%20b%C3%A1n%20h%C3%A0ng%20gi%E1%BB%91ng%20nh%C6%B0%20giao%20di%E1%BB%87n%20gi%E1%BB%8Dng%20n%C3%B3i%20c%E1%BB%A7a%20m%E1%BB%99t%20c%C3%A1i%20m%C3%A1y%20h%C6%A1n%20l%C3%A0%20m%E1%BB%99t%20con%20ng%C6%B0%E1%BB%9Di%20th%E1%BA%ADt.md)
+    - [Để kiếm được đồng tiền, người bán hàng phải ráng chen vào chỗ đã có người đáp ứng nhu cầu rồi. Phải cạnh tranh với những người giống mình](../%C4%90%E1%BA%A1o%20%C4%91%E1%BB%A9c,%20ph%C3%A1p%20lu%E1%BA%ADt.%20Ch%E1%BB%A7%20ngh%C4%A9a%20t%C3%A2n%20t%E1%BB%B1%20do/%C4%90%E1%BB%83%20ki%E1%BA%BFm%20%C4%91%C6%B0%E1%BB%A3c%20%C4%91%E1%BB%93ng%20ti%E1%BB%81n,%20ng%C6%B0%E1%BB%9Di%20b%C3%A1n%20h%C3%A0ng%20ph%E1%BA%A3i%20r%C3%A1ng%20chen%20v%C3%A0o%20ch%E1%BB%97%20%C4%91%C3%A3%20c%C3%B3%20ng%C6%B0%E1%BB%9Di%20%C4%91%C3%A1p%20%E1%BB%A9ng%20nhu%20c%E1%BA%A7u%20r%E1%BB%93i.%20Ph%E1%BA%A3i%20c%E1%BA%A1nh%20tranh%20v%E1%BB%9Bi%20nh%E1%BB%AFng%20ng%C6%B0%E1%BB%9Di%20gi%E1%BB%91ng%20m%C3%ACnh.md)
     - [❓Tại sao các công ty không giúp người bán hàng phát triển](../%E2%9D%93T%E1%BA%A1i%20sao%20c%C3%A1c%20c%C3%B4ng%20ty%20kh%C3%B4ng%20gi%C3%BAp%20ng%C6%B0%E1%BB%9Di%20b%C3%A1n%20h%C3%A0ng%20ph%C3%A1t%20tri%E1%BB%83n.md)
+    - [Nếu khách hàng không rõ ngay từ đầu thì sao còn ký. Nếu đã ký thì là biết rõ rồi](../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Ni%E1%BB%81m%20tin,%20di%E1%BB%85n%20ng%C3%B4n/Lu%E1%BA%ADt%20ph%C3%A1p/N%E1%BA%BFu%20kh%C3%A1ch%20h%C3%A0ng%20kh%C3%B4ng%20r%C3%B5%20ngay%20t%E1%BB%AB%20%C4%91%E1%BA%A7u%20th%C3%AC%20sao%20c%C3%B2n%20k%C3%BD.%20N%E1%BA%BFu%20%C4%91%C3%A3%20k%C3%BD%20th%C3%AC%20l%C3%A0%20bi%E1%BA%BFt%20r%C3%B5%20r%E1%BB%93i.md)
 
 - Bán hàng: 
     - [Công việc bán hàng có lộ trình thăng tiến đơn giản vì không sợ cấp bậc trên đã có người, cứ làm đủ chỉ tiêu là lên chức](../Ki%E1%BA%BFm%20ti%E1%BB%81n/L%C3%A0m%20thu%C3%AA/B%C3%A1n%20h%C3%A0ng/C%C3%B4ng%20vi%E1%BB%87c%20b%C3%A1n%20h%C3%A0ng%20c%C3%B3%20l%E1%BB%99%20tr%C3%ACnh%20th%C4%83ng%20ti%E1%BA%BFn%20%C4%91%C6%A1n%20gi%E1%BA%A3n%20v%C3%AC%20kh%C3%B4ng%20s%E1%BB%A3%20c%E1%BA%A5p%20b%E1%BA%ADc%20tr%C3%AAn%20%C4%91%C3%A3%20c%C3%B3%20ng%C6%B0%E1%BB%9Di,%20c%E1%BB%A9%20l%C3%A0m%20%C4%91%E1%BB%A7%20ch%E1%BB%89%20ti%C3%AAu%20l%C3%A0%20l%C3%AAn%20ch%E1%BB%A9c.md)
