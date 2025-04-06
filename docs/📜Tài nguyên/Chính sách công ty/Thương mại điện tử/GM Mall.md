@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-01-19T21:00
-updated: 2025-04-04T16:22
+updated: 2025-04-06T13:56
 title: Chính sách công ty GM Mall
 ---
 ## Chính sách cho khách
@@ -26,5 +26,11 @@ Phí rút tiền: 3%
 
 ## Chính sách cho nhân viên
 Được tính là có một khách hàng hiệu quả khi:
-- Có 1 khách đạt thu nhập gom nhóm cá nhân ít nhất 100k/ngày và có nhóm Zalo
-- Có 2 khách đạt 30k - 100k/ngày và có mở nhóm Zalo và tích cực chia sẻ sản phẩm
+- Có 1 khách đạt thu nhập gom nhóm cá nhân trung bình ít nhất 100k/ngày (chia cho chu kì tính đến ngày chốt lương) và có nhóm Zalo
+- Có 2 khách đạt 30k - 100k/ngày và có nhóm Zalo
+
+Nhóm Zalo là nhóm chia sẻ sản phẩm đúng cú pháp, có 10 thành viên trở lên.
+
+Khách hoạt động trên 5 ngày từ lúc đạt 100k lần đầu tiên mới được tính.
+
+Từ 5 khách hiệu quả trở lên mới có lương.
