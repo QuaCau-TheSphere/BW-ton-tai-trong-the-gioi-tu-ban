@@ -1,7 +1,8 @@
 ---
 share: true
 created: 2025-04-04T22:48
-updated: 2025-04-04T23:23
+updated: 2025-04-05T23:54
+alias: Các lý do để không về quê
 ---
 ## Sống ở quê không kiếm được việc làm
 ## Sống ở quê nhàm chán
