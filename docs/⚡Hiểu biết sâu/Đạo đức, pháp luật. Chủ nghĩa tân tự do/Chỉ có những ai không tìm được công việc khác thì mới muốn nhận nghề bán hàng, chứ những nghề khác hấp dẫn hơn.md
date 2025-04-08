@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-22T13:14
-updated: 2025-04-06T16:31
+updated: 2025-04-07T02:24
 ---
 Khái niệm:: [Bán hàng](../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/B%C3%A1n%20h%C3%A0ng.md)
 
@@ -25,6 +25,10 @@ Nó đại diện cho mối quan tâm của những người không có nhiều 
 Không có đầu óc để nghĩ về điều đó. Nó cần đáp ứng nhu cầu của những người đang sử dụng nó trước tiên 
 Điều này cũng có nghĩa là nơi này không, vì nó cần đáp ứng các nhu cầu của những người xung quanh. Đã có rất nhiều tổ chức chống tư bản rồi, làm thêm một cái chắc cũng không có nhiều ý nghĩa lắm
 
+Những người đến với nơi này đầu tiên không phải là công nhân mà đa phần là làm trong ngành tài chính. Đa phần họ đã hiểu về sự bóc lột đó rồi
+
+Lý luận của những người ở đây còn rất non yếu, và chắc cũng có thể nói là không đủ sức để quan tâm tới những thứ vĩ mô
+
 Nhưng đồng thời cũng cần làm họ nhận ra
 
 Việc bán hàng chỉ có ý nghĩa khi nó tạo [Một tổ chức đáng làm tạo ra được động lực nội sinh ở nhân viên](../T%C3%A2m%20l%C3%BD%20h%E1%BB%8Dc%20qu%E1%BA%A3n%20l%C3%BD%20v%C3%A0%20lao%20%C4%91%E1%BB%99ng/K%E1%BB%B9%20n%C4%83ng,%20%C4%91%E1%BB%99ng%20l%E1%BB%B1c/M%E1%BB%99t%20t%E1%BB%95%20ch%E1%BB%A9c%20%C4%91%C3%A1ng%20l%C3%A0m%20t%E1%BA%A1o%20ra%20%C4%91%C6%B0%E1%BB%A3c%20%C4%91%E1%BB%99ng%20l%E1%BB%B1c%20n%E1%BB%99i%20sinh%20%E1%BB%9F%20nh%C3%A2n%20vi%C3%AAn.md).
@@ -35,3 +39,10 @@ Không thấy rõ sự ép
 
 [Áp lực giết chết sự sáng tạo](../T%C3%A2m%20l%C3%BD%20h%E1%BB%8Dc%20qu%E1%BA%A3n%20l%C3%BD%20v%C3%A0%20lao%20%C4%91%E1%BB%99ng/%C3%81p%20l%E1%BB%B1c%20gi%E1%BA%BFt%20ch%E1%BA%BFt%20s%E1%BB%B1%20s%C3%A1ng%20t%E1%BA%A1o.md)
 [Tiền tạo cảm giác phải cạnh tranh để có tài nguyên hơn là hợp tác để có nhiều tài nguyên hơn](../Kinh%20t%E1%BA%BF/Kinh%20t%E1%BA%BF%20h%E1%BB%8Dc%20t%C3%A2m%20l%C3%BD/Ti%E1%BB%81n%20t%E1%BA%A1o%20c%E1%BA%A3m%20gi%C3%A1c%20ph%E1%BA%A3i%20c%E1%BA%A1nh%20tranh%20%C4%91%E1%BB%83%20c%C3%B3%20t%C3%A0i%20nguy%C3%AAn%20h%C6%A1n%20l%C3%A0%20h%E1%BB%A3p%20t%C3%A1c%20%C4%91%E1%BB%83%20c%C3%B3%20nhi%E1%BB%81u%20t%C3%A0i%20nguy%C3%AAn%20h%C6%A1n.md)
+
+## Giả thiết 
+- Muốn có thêm sự tự quyết về công việc của mình
+- Muốn có thêm sự minh bạch từ cấp trên, nghe được những
+- Muốn được hỗ trợ phát triển bản thân, các kỹ năng khác ngoài công việc
+- Muốn thực sự là một người bạn với khách hàng, chứ không phải khai thác họ
+- Muốn thấy mình bình đẳng với cấp trên, mọi quyết định có sự đồng thuận 

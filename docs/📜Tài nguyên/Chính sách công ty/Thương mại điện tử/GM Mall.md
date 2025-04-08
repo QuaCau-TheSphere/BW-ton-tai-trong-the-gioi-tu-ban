@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-01-19T21:00
-updated: 2025-04-06T13:56
+updated: 2025-04-08T15:31
 title: Chính sách công ty GM Mall
 ---
 ## Chính sách cho khách
@@ -22,7 +22,7 @@ Hoa hồng cho việc giới thiệu:
 - Cấp 2: 5% 
 - Cấp 3: 2% 
 
-Phí rút tiền: 3%
+Thời gian chờ từ lúc nhận yêu cầu rút đến khi tiền về là 2 tiếng. Chỉ nhận yêu cầu trong giờ làm việc. Phí rút tiền là 3%. 
 
 ## Chính sách cho nhân viên
 Được tính là có một khách hàng hiệu quả khi:
@@ -34,3 +34,13 @@ Nhóm Zalo là nhóm chia sẻ sản phẩm đúng cú pháp, có 10 thành viê
 Khách hoạt động trên 5 ngày từ lúc đạt 100k lần đầu tiên mới được tính.
 
 Từ 5 khách hiệu quả trở lên mới có lương.
+
+Được 2% từ tất cả các cấp
+
+
+### Lương
+|              | Nhân viên | Trưởng nhóm | Giám đốc thị trường |
+| ------------ | --------- | ----------- | ------------------- |
+| Lương cơ bản | 15tr      | 20tr        | 25tr                |
+|              |           |             |                     |
+## Giám đốc thị trường  
