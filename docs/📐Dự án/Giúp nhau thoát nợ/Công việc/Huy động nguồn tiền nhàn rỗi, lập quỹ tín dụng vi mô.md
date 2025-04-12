@@ -1,11 +1,12 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2025-04-04T23:32
+updated: 2025-04-11T21:47
 alias:
   - Lập quỹ tín dụng vi mô
   - Tìm người có tiền nhàn rỗi lớn
 ---
+
 Khi một người gặp khó khăn thì cần những người xung quanh giúp đỡ. Bị kẹt tiền khẩn cấp cũng vậy. Thông thường, những người quý mến họ đều sẵn sàng giúp, miễn là số tiền không làm xáo trộn các dự tính quan trọng đang có. Thường đó là khoản tiền họ đang tích luỹ và chưa dùng được, hoặc để dự phòng cho những tình huống bất trắc. Nói chung đó là tiền nhàn rỗi.
 
 Khi đã vay hết những người thân thiết mà vẫn chưa đủ để giải quyết khó khăn, họ sẽ gặp tìm đến những người quen biết. Nói chung là chạy vạy đủ đường. Nhưng khó 
@@ -27,7 +28,8 @@ Mô hình sẽ giống như [Quỹ Tình Thân](../../../%F0%9F%93%9CT%C3%A0i%20
 
 Người cho mượn tiền thay vì phải nghĩ là nếu bị quịt thì mình chịu, thì có thể nghĩ là mình đang đầu tư.
 [Cho vay lấy lãi](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/%C3%9D%20t%C6%B0%E1%BB%9Fng%20ki%E1%BA%BFm%20ti%E1%BB%81n/3%20%C3%9D%20t%C6%B0%E1%BB%9Fng/T%E1%BB%B1%20kinh%20doanh,%20%C4%91%E1%BA%A7u%20t%C6%B0/Cho%20vay%20l%E1%BA%A5y%20l%C3%A3i.md)
-
+[quỹ tín dụng vi mô](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Ph%C3%A1t%20tri%E1%BB%83n%20b%E1%BB%81n%20v%E1%BB%AFng/H%E1%BB%97%20tr%E1%BB%A3%20ng%C6%B0%E1%BB%9Di%20y%E1%BA%BFu%20th%E1%BA%BF/T%C3%A0i%20ch%C3%ADnh%20vi%20m%C3%B4/index.md)
+[Quỹ tín dụng Quả Cầu](../Qu%E1%BB%B9%20t%C3%ADn%20d%E1%BB%A5ng%20Qu%E1%BA%A3%20C%E1%BA%A7u.md)
 ## Nơi thảo luận
 ![](https://i.imgur.com/OtW4epu.png)
 

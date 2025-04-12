@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-01-19T21:00
-updated: 2025-04-08T15:31
+updated: 2025-04-11T21:05
 title: Chính sách công ty GM Mall
 ---
 ## Chính sách cho khách
@@ -35,12 +35,12 @@ Khách hoạt động trên 5 ngày từ lúc đạt 100k lần đầu tiên m�
 
 Từ 5 khách hiệu quả trở lên mới có lương.
 
-Được 2% từ tất cả các cấp
-
+Được 2% tổng thu nhập từ tất cả thành viên các cấp phía dưới.
 
 ### Lương
 |              | Nhân viên | Trưởng nhóm | Giám đốc thị trường |
 | ------------ | --------- | ----------- | ------------------- |
 | Lương cơ bản | 15tr      | 20tr        | 25tr                |
 |              |           |             |                     |
+
 ## Giám đốc thị trường  

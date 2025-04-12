@@ -1,10 +1,10 @@
 ---
 share: true
 created: 2024-06-25T13:20
-updated: 2025-03-23T17:38
+updated: 2025-04-09T15:38
 title: Quẹt dơ
 ---
-Một hình thức ít rủi ro hơn là đi [đổi tiền](../../../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/%C3%9D%20t%C6%B0%E1%BB%9Fng%20ki%E1%BA%BFm%20ti%E1%BB%81n/3%20%C3%9D%20t%C6%B0%E1%BB%9Fng/C%C3%B4ng%20vi%E1%BB%87c%20th%E1%BB%9Di%20v%E1%BB%A5,%20c%E1%BB%99ng%20t%C3%A1c%20vi%C3%AAn/Cho%20nh%C3%A2n%20vi%C3%AAn,%20%C4%91%E1%BA%A1i%20l%C3%BD/%C4%90%E1%BB%95i%20ti%E1%BB%81n,%20ch%E1%BB%A5p%20h%C3%ACnh%20bi%E1%BB%83n%20hi%E1%BB%87u,%20d%C3%A1n%20m%C3%A3%20QR.md#Đổi%20tiền).
+Một hình thức ít rủi ro hơn là đi [đổi tiền](../../../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/%C3%9D%20t%C6%B0%E1%BB%9Fng%20ki%E1%BA%BFm%20ti%E1%BB%81n/3%20%C3%9D%20t%C6%B0%E1%BB%9Fng/C%C3%B4ng%20vi%E1%BB%87c%20th%E1%BB%9Di%20v%E1%BB%A5,%20c%E1%BB%99ng%20t%C3%A1c%20vi%C3%AAn/Cho%20nh%C3%A2n%20vi%C3%AAn,%20%C4%91%E1%BA%A1i%20l%C3%BD/VNPAY/%C4%90%E1%BB%95i%20ti%E1%BB%81n,%20ch%E1%BB%A5p%20h%C3%ACnh%20bi%E1%BB%83n%20hi%E1%BB%87u,%20d%C3%A1n%20m%C3%A3%20QR.md#Đổi%20tiền).
 ## Yêu cầu
 - Tìm được các chủ cửa hàng chấp nhận trả tiền cho mình
 - Có nhiều tài khoản ngân hàng khác chủ
@@ -47,6 +47,6 @@ Tốn thời gian nhất là phải chuyển app. Chứ quẹt xong mã này nó
 > - **Shinhan**, **TP**, **VP** không ghi rõ tên giao dịch với cửa hàng nào khi quẹt VNPAY, dù vẫn chuyển được
 > - **Kiên Long** không quẹt được VNPAY, dù quẹt TK ngân hàng bình thường khác vẫn được. MSB có thể được, cần kiểm tra lại
 > 
-> Xem thêm:: [Ghi chú về các app ngân hàng](Ghi%20ch%C3%BA%20v%E1%BB%81%20c%C3%A1c%20app%20ng%C3%A2n%20h%C3%A0ng.md)
+> Xem thêm:: [Ghi chú về các app ngân hàng](../../../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/T%C3%A0i%20nguy%C3%AAn%20ch%E1%BA%A1y%20%E1%BA%A3o/Ng%C3%A2n%20h%C3%A0ng/index.md)
 
 ![](https://i.imgur.com/Q7KcLn6.png)

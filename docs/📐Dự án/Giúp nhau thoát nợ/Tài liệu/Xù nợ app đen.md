@@ -1,14 +1,16 @@
 ---
 share: true
 created: 2024-09-14T21:17
-updated: 2025-04-04T19:42
+updated: 2025-04-11T21:35
 alias: Giảm thiệt hại khi quyết định xù nợ app đen
 ---
-| Hành vi đòi nợ    | Giải pháp                                                                                         |
-| ----------------- | ------------------------------------------------------------------------------------------------- |
-| Kéo đến nhà       | Ở nhà chung cư phải có sự đồng ý của chủ nhà mới được cho lên                                     |
-| Phá nơi làm việc  | Không đi làm                                                                                      |
-| Spam fb           | Hiện nay việc bot spam cũng nhiều, mọi người sẽ dễ bỏ qua mà không nghĩ là đó là mình mắc nợ thật |
+Khái niệm:: [App đen, vay nóng](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/App%20%C4%91en,%20vay%20n%C3%B3ng.md)
+
+| Hành vi đòi nợ   | Giải pháp                                                                                         |
+| ---------------- | ------------------------------------------------------------------------------------------------- |
+| Kéo đến nhà      | Ở nhà chung cư phải có sự đồng ý của chủ nhà mới được cho lên                                     |
+| Phá nơi làm việc | Không đi làm                                                                                      |
+| Spam fb          | Hiện nay việc bot spam cũng nhiều, mọi người sẽ dễ bỏ qua mà không nghĩ là đó là mình mắc nợ thật |
 | Gọi cho người nhà | Chỉ gọi giờ làm việc, nên có thể tự động bật chế độ im lặng vào lúc đó, hết giờ thì tắt           |
 
 [❓App đen không có số của người thân mình](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/T%E1%BB%95%20ch%E1%BB%A9c%20t%C3%A0i%20ch%C3%ADnh/T%E1%BB%95%20ch%E1%BB%A9c%20t%C3%ADn%20d%E1%BB%A5ng/T%E1%BB%95%20ch%E1%BB%A9c%20t%C3%ADn%20d%E1%BB%A5ng%20phi%20ng%C3%A2n%20h%C3%A0ng/Vay%20kh%C3%B4ng%20%C4%91i%E1%BB%83m%20t%C3%ADn%20d%E1%BB%A5ng%20(app%20%C4%91en)/%E2%9D%93App%20%C4%91en%20kh%C3%B4ng%20c%C3%B3%20s%E1%BB%91%20c%E1%BB%A7a%20ng%C6%B0%E1%BB%9Di%20th%C3%A2n%20m%C3%ACnh.md)
