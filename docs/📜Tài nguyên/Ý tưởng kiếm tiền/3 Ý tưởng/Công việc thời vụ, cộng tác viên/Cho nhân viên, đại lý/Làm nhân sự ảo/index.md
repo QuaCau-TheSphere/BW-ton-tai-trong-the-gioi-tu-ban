@@ -4,7 +4,7 @@ created: 2023-09-05T16:17
 aliases:
   - Làm danh tính khác của nhân sự thật
   - Danh sách công việc làm ảo
-updated: 2025-04-04T15:28
+updated: 2025-04-12T16:40
 title: Làm nhân sự ảo
 ---
 Khái niệm:: [Chạy ảo, làm ảo, nhân sự ảo](../../../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Ch%E1%BA%A1y%20%E1%BA%A3o,%20l%C3%A0m%20%E1%BA%A3o,%20nh%C3%A2n%20s%E1%BB%B1%20%E1%BA%A3o.md)
@@ -16,7 +16,7 @@ Nhân sự ảo tức là có nhân sự thật làm giùm. Nói cách khác b�
 Một số công ty có người cần tuyển nhân sự ảo:
 - Bảo hiểm: [Bảo Việt](./B%E1%BA%A3o%20hi%E1%BB%83m/B%E1%BA%A3o%20Vi%E1%BB%87t.md), [Prudential](./B%E1%BA%A3o%20hi%E1%BB%83m/Prudential.md), [Cathay](./B%E1%BA%A3o%20hi%E1%BB%83m/Cathay.md)
 - Trung gian thanh toán: [Làm nhân viên ảo](../VNPAY/L%C3%A0m%20nh%C3%A2n%20vi%C3%AAn%20%E1%BA%A3o.md)
-- Tín dụng: [FE](./FE.md)
+- Tài chính tiêu dùng: [FE Credit](./FE%20Credit.md)
 - Sàn thương mại điện tử: [GM Mall](../GM%20Mall/L%C3%A0m%20nh%C3%A2n%20vi%C3%AAn%20%E1%BA%A3o.md)
 
 ## Nơi thảo luận

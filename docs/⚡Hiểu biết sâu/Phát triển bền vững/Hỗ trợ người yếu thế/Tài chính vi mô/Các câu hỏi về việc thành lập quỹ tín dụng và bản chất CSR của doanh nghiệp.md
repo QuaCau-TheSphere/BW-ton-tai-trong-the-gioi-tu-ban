@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2024-10-05T13:51
+updated: 2025-04-12T17:25
 ---
 ## Quỹ tín dụng
 - [Tổ chức Tài chính Vi mô CEP](https://cep.org.vn/ "Tổ chức Tài chính Vi mô CEP") với [Quỹ Tình Thân](https://www.facebook.com/profile.php?id=100077601589557&v=timeline&lst=100038413598261%3A100077601589557%3A1684514892&eav=AfZ-gv2lqyQB0Aq69YPKH02KBMzxO_jh4u9moWoAnA8pDhYcwmMc0rLzR_dOt0o4jOQ&refid=17&paipv=0 "Facebook") khác nhau thế nào?
