@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-10-20T19:03
-updated: 2024-10-25T17:51
+updated: 2025-04-10T20:51
 ---
 Khái niệm:: 
 Trong video quay cho MTV, Jeffrey Sachs và nữ diễn viên Angelina Jolie đã đến thăm Sauri, Kenya, một trong những ngôi làng Thiên niên kỷ lâu năm nhất. Ở đó họ đã gặp một nông dân
