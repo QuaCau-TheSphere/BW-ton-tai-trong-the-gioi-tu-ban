@@ -2,18 +2,20 @@
 share: true
 description: "Số tiền kiếm được: 5 tr/tháng"
 created: 2025-04-04T14:21
-updated: 2025-04-05T23:37
+updated: 2025-04-12T13:16
 ---
 Số tiền kiếm được:: 5 tr/tháng + quà tặng rất thường xuyên
-Mô tả công việc:: Quản lý 25 - 40 cái điện thoại
+Mô tả công việc:: Quản lý phonefarm gồm 60 - 80 cái điện thoại 
 
 ## Mô tả chi tiết
-Bạn sẽ được giao 25-40 cái điện thoại. 95% công việc có thể làm ở nhà, 5% là gặp mặt và diễn
+Bạn sẽ được giao một cái phonefarm gồm 60 - 80 cái điện thoại, dùng phần mềm [xiaowei](https://www.xiaowei.xin/).
+
+![xiaowei.png](../../../../../../assets/attachments/xiaowei.png)
 
 ### Việc làm hằng ngày
-- 8h45: báo cáo sáng 
-- 9h30: mở app quay thưởng, gom nhóm 1 đơn `Mẹ & Bé` tất cả điện thoại
-- 15h45: điểm danh, báo cáo chiều
+- 8h45: báo cáo sáng cho 5 người
+- 9h30: mở app quay thưởng, gom nhóm 1 đơn `Mẹ & Bé` tất cả điện thoại. Xem chi tiết ở bài [Gom nhóm](./Gom%20nh%C3%B3m.md).
+- 15h45: báo cáo chiều
 
 ### Việc làm 3 ngày/lần (10 lần/tháng)
 - Gom đơn lớn 5tr2, gom đơn `Mẹ & Bé` cho đến hết tiền tất cả điện thoại
