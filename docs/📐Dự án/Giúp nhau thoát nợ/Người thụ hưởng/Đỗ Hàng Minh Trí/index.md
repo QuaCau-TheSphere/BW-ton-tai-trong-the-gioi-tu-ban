@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-09-14T23:01
-updated: 2025-04-12T10:53
+updated: 2025-04-12T17:23
 description: Các thông tin để bạn thẩm định việc cho Trí vay
 title: Đỗ Hàng Minh Trí
 ---
@@ -10,12 +10,13 @@ title: Đỗ Hàng Minh Trí
 
 ## Tình hình chung
 ### Tại sao Trí bị nợ? 
-Tin tưởng một người nên đứng ra vay cho họ. Người này cuối cùng mất khả năng trả nên không trả mình. Nhưng vẫn muốn trả cho những người mình đã vay.
+Tin tưởng một người nên đứng ra vay cho họ. Người này cuối cùng mất khả năng trả nên không trả Trí. Xuống tận nhà đòi nợ thì nghe bảo là chây ì. Nhưng vẫn muốn trả cho những người mình đã vay.
 
+[Lý do bị nợ](L%C3%BD%20do%20b%E1%BB%8B%20n%E1%BB%A3.md)
 ### Tình hình nợ hiện nay thế nào? Các khoản nợ, lãi và thời hạn trả của chúng, v.v.
 Gom hết tất cả các khoản nợ vào một người cô, lãi vài triệu/tháng. 
 
-Phải [vay nóng](../../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/C%C3%A1c%20d%E1%BB%8Bch%20v%E1%BB%A5%20cho%20vay/App%20vay%20n%C3%B3ng/index.md)
+Phải [vay nóng](../../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Ch%C3%ADnh%20s%C3%A1ch%20c%C3%B4ng%20ty/T%E1%BB%95%20ch%E1%BB%A9c%20t%C3%ADn%20d%E1%BB%A5ng/T%E1%BB%95%20ch%E1%BB%A9c%20t%C3%ADn%20d%E1%BB%A5ng%20phi%20ng%C3%A2n%20h%C3%A0ng/App%20vay%20n%C3%B3ng/index.md)
 
 ### Cuộc sống của Trí đã thay đổi thế nào từ lúc có nợ?
 ### Chi phí sinh hoạt của Trí hiện nay như thế nào?
@@ -29,7 +30,7 @@ Phải [vay nóng](../../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/C%C3%A1c%20d%E
 | Tiền học mẫu giáo cho con | 5tr3     |                    | Trường có cam để yên tâm về con                                             |
 
 App đen:
-- 15tr [Moneyveo](../../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/C%C3%A1c%20d%E1%BB%8Bch%20v%E1%BB%A5%20cho%20vay/App%20vay%20n%C3%B3ng/Moneyveo.md)
+- 15tr [Moneyveo](../../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Ch%C3%ADnh%20s%C3%A1ch%20c%C3%B4ng%20ty/T%E1%BB%95%20ch%E1%BB%A9c%20t%C3%ADn%20d%E1%BB%A5ng/T%E1%BB%95%20ch%E1%BB%A9c%20t%C3%ADn%20d%E1%BB%A5ng%20phi%20ng%C3%A2n%20h%C3%A0ng/App%20vay%20n%C3%B3ng/Moneyveo.md)
 - 14tr vayvnd
 - 4tr moneycat
 
@@ -43,7 +44,7 @@ Hiện tại đang làm [Đại lý bán hàng](../../../../%F0%9F%93%9CT%C3%A0i
 
 Các ý tưởng khác đều có thứ bị mắc kẹt
 ### Trí nghĩ gì về [các ý tưởng tiết kiệm](../../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/%C3%9D%20t%C6%B0%E1%BB%9Fng%20ti%E1%BA%BFt%20ki%E1%BB%87m.md) này?
-### Trí đã dùng tới [các dịch vụ cho vay](../../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/C%C3%A1c%20d%E1%BB%8Bch%20v%E1%BB%A5%20cho%20vay/index.md) nào? Vì sao chúng không phù hợp với Trí?
+### Trí đã dùng tới [các dịch vụ cho vay](../../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/C%C3%A1c%20d%E1%BB%8Bch%20v%E1%BB%A5%20cho%20vay.md) nào? Vì sao chúng không phù hợp với Trí?
 ### Trí có chấp nhận [Xù nợ ngân hàng](../../T%C3%A0i%20li%E1%BB%87u/X%C3%B9%20n%E1%BB%A3%20ng%C3%A2n%20h%C3%A0ng.md), [Xù nợ app đen](../../T%C3%A0i%20li%E1%BB%87u/X%C3%B9%20n%E1%BB%A3%20app%20%C4%91en.md) không? Vì sao?
 Đã chấp nhận vỡ nợ trên ngân hàng, bị ghi nợ xấu trên CIC. Không dám xù nợ app đen vì sợ ảnh hưởng đến công việc, gia đình. (Đã đưa thông tin thật về chỗ làm việc, tạm trú để có được hạn mức lớn)
 
@@ -82,7 +83,7 @@ Do mới có thêm đứa con, nên chỉ có 3 lựa chọn:
 ### Lý do nên giúp Trí hơn những người khác?
 ### Quan điểm về sự giải trình và minh bạch
 ### Mức độ bí mật của những thông tin chia sẻ ở đây
-### Trí có sẵn sàng tham gia công việc [Huy động nguồn tiền nhàn rỗi, lập quỹ tín dụng vi mô](../../C%C3%B4ng%20vi%E1%BB%87c/Huy%20%C4%91%E1%BB%99ng%20ngu%E1%BB%93n%20ti%E1%BB%81n%20nh%C3%A0n%20r%E1%BB%97i,%20l%E1%BA%ADp%20qu%E1%BB%B9%20t%C3%ADn%20d%E1%BB%A5ng%20vi%20m%C3%B4.md) không?
+### Trí có sẵn sàng tham gia công việc [Huy động nguồn tiền nhàn rỗi](../../C%C3%B4ng%20vi%E1%BB%87c/Huy%20%C4%91%E1%BB%99ng%20ngu%E1%BB%93n%20ti%E1%BB%81n%20nh%C3%A0n%20r%E1%BB%97i.md) không?
 
 Xem thêm:: [Các lý do cho việc giúp đỡ hoặc không giúp đỡ](../../T%C3%A0i%20li%E1%BB%87u/Ni%E1%BB%81m%20tin/C%C3%A1c%20l%C3%BD%20do%20cho%20vi%E1%BB%87c%20gi%C3%BAp%20%C4%91%E1%BB%A1%20ho%E1%BA%B7c%20kh%C3%B4ng%20gi%C3%BAp%20%C4%91%E1%BB%A1.md)
 
