@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-01-19T21:00
-updated: 2025-04-11T21:05
+updated: 2025-04-12T11:18
 title: Chính sách công ty GM Mall
 ---
 ## Chính sách cho khách
@@ -44,3 +44,5 @@ Từ 5 khách hiệu quả trở lên mới có lương.
 |              |           |             |                     |
 
 ## Giám đốc thị trường  
+
+Sếp đi công tác duyệt lương chậm
