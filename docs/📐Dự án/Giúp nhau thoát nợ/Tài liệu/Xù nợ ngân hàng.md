@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-08-31T13:30
-updated: 2025-04-11T21:38
+updated: 2025-04-13T14:14
 ---
 Khái niệm:: [Nợ xấu](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/N%E1%BB%A3%20x%E1%BA%A5u.md)
 [CIC mất vài ngày để cập nhật](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Ch%C3%ADnh%20s%C3%A1ch%20c%C3%B4ng%20ty/T%E1%BB%95%20ch%E1%BB%A9c%20t%C3%ADn%20d%E1%BB%A5ng/CIC%20m%E1%BA%A5t%20v%C3%A0i%20ng%C3%A0y%20%C4%91%E1%BB%83%20c%E1%BA%ADp%20nh%E1%BA%ADt.md)
@@ -58,4 +58,4 @@ cần biết cụ thể mỗi tháng bao nhiêu lãi. Khó khăn:
 
 [Xù nợ ngân hàng](X%C3%B9%20n%E1%BB%A3%20ng%C3%A2n%20h%C3%A0ng.md)
 [Xù nợ app đen](./X%C3%B9%20n%E1%BB%A3%20app%20%C4%91en.md)
-[Có những người dù thực sự thấy không có khả năng trả nợ vẫn chấp nhận vay app đen còn hơn mất điểm tín dụng](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/T%E1%BB%95%20ch%E1%BB%A9c%20t%C3%A0i%20ch%C3%ADnh/T%E1%BB%95%20ch%E1%BB%A9c%20t%C3%ADn%20d%E1%BB%A5ng/T%E1%BB%95%20ch%E1%BB%A9c%20t%C3%ADn%20d%E1%BB%A5ng%20phi%20ng%C3%A2n%20h%C3%A0ng/Vay%20kh%C3%B4ng%20%C4%91i%E1%BB%83m%20t%C3%ADn%20d%E1%BB%A5ng%20(app%20%C4%91en)/C%C3%B3%20nh%E1%BB%AFng%20ng%C6%B0%E1%BB%9Di%20d%C3%B9%20th%E1%BB%B1c%20s%E1%BB%B1%20th%E1%BA%A5y%20kh%C3%B4ng%20c%C3%B3%20kh%E1%BA%A3%20n%C4%83ng%20tr%E1%BA%A3%20n%E1%BB%A3%20v%E1%BA%ABn%20ch%E1%BA%A5p%20nh%E1%BA%ADn%20vay%20app%20%C4%91en%20c%C3%B2n%20h%C6%A1n%20m%E1%BA%A5t%20%C4%91i%E1%BB%83m%20t%C3%ADn%20d%E1%BB%A5ng.md)
+[Có những người dù thực sự thấy không có khả năng trả nợ vẫn chấp nhận vay nặng lại còn hơn mất điểm tín dụng](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/T%E1%BB%95%20ch%E1%BB%A9c%20t%C3%A0i%20ch%C3%ADnh/T%E1%BB%95%20ch%E1%BB%A9c%20t%C3%ADn%20d%E1%BB%A5ng/T%E1%BB%95%20ch%E1%BB%A9c%20t%C3%ADn%20d%E1%BB%A5ng%20phi%20ng%C3%A2n%20h%C3%A0ng/Vay%20n%C3%B3ng/C%C3%B3%20nh%E1%BB%AFng%20ng%C6%B0%E1%BB%9Di%20d%C3%B9%20th%E1%BB%B1c%20s%E1%BB%B1%20th%E1%BA%A5y%20kh%C3%B4ng%20c%C3%B3%20kh%E1%BA%A3%20n%C4%83ng%20tr%E1%BA%A3%20n%E1%BB%A3%20v%E1%BA%ABn%20ch%E1%BA%A5p%20nh%E1%BA%ADn%20vay%20n%E1%BA%B7ng%20l%E1%BA%A1i%20c%C3%B2n%20h%C6%A1n%20m%E1%BA%A5t%20%C4%91i%E1%BB%83m%20t%C3%ADn%20d%E1%BB%A5ng.md)

@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2025-04-12T17:25
+updated: 2025-04-13T21:12
 ---
 ## Quỹ tín dụng
 - [Tổ chức Tài chính Vi mô CEP](https://cep.org.vn/ "Tổ chức Tài chính Vi mô CEP") với [Quỹ Tình Thân](https://www.facebook.com/profile.php?id=100077601589557&v=timeline&lst=100038413598261%3A100077601589557%3A1684514892&eav=AfZ-gv2lqyQB0Aq69YPKH02KBMzxO_jh4u9moWoAnA8pDhYcwmMc0rLzR_dOt0o4jOQ&refid=17&paipv=0 "Facebook") khác nhau thế nào?
@@ -10,7 +10,7 @@ updated: 2025-04-12T17:25
 -  Anh có những từ khoá hoặc nghiên cứu nào nói về những gì nãy giờ mình đang bàn ko? 
 - Ngân hàng có những ràng buộc gì mà không thể cho kéo dài nợ được? Vì đằng nào thì nó cũng bị mất
 - Ai là người muốn có giải pháp cho người đang ngập trong nợ nhất?
-- Nếu [Cho vay ngang hàng](../../../Kinh%20t%E1%BA%BF/C%C3%A1c%20lo%E1%BA%A1i%20h%C3%ACnh%20kinh%20t%E1%BA%BF%20m%E1%BB%9Bi/Cho%20vay%20ngang%20h%C3%A0ng.md), [Cho vay theo nhóm đảm bảo không bị quịt hơn](../../../T%E1%BB%95%20ch%E1%BB%A9c%20t%C3%A0i%20ch%C3%ADnh/T%E1%BB%95%20ch%E1%BB%A9c%20t%C3%ADn%20d%E1%BB%A5ng/Cho%20vay%20theo%20nh%C3%B3m%20%C4%91%E1%BA%A3m%20b%E1%BA%A3o%20kh%C3%B4ng%20b%E1%BB%8B%20qu%E1%BB%8Bt%20h%C6%A1n.md), tại sao các doanh nghiệp không áp dụng
+- Nếu [Cho vay ngang hàng](../../../Kinh%20t%E1%BA%BF/C%C3%A1c%20lo%E1%BA%A1i%20h%C3%ACnh%20kinh%20t%E1%BA%BF%20m%E1%BB%9Bi/Cho%20vay%20ngang%20h%C3%A0ng.md), [Cho vay theo nhóm bền vững hơn, ít bị quịt hơn](../../../T%E1%BB%95%20ch%E1%BB%A9c%20t%C3%A0i%20ch%C3%ADnh/T%E1%BB%95%20ch%E1%BB%A9c%20t%C3%ADn%20d%E1%BB%A5ng/Cho%20vay%20theo%20nh%C3%B3m%20b%E1%BB%81n%20v%E1%BB%AFng%20h%C6%A1n,%20%C3%ADt%20b%E1%BB%8B%20qu%E1%BB%8Bt%20h%C6%A1n.md), tại sao các doanh nghiệp không áp dụng
 - Các chương trình hỗ trợ người lao động của chính phủ gặp vấn đề gì mà không phát triển được?
 - Vì sao anh không lo lắng là mình đang bị để ý? Dù sao anh cũng là người có tiếng trong cộng đồng mà
 Luật pháp chỉ hiểu về kinh doanh, chứ ko phải là phi lợi nhuận. Chính thức hoá khi lập quỹ là chết với luật tín dụng
@@ -21,4 +21,4 @@ Luật pháp chỉ hiểu về kinh doanh, chứ ko phải là phi lợi nhuận
 - Anh cũng đăng fb, đó có gọi là truyền thông ko? Điều gì khiến anh thấy việc truyền thông là có hại cho việc hữu xạ tự nhiên hương?
 
 [Doanh nhân chỉ biết kiếm tiền](Doanh%20nh%C3%A2n%20ch%E1%BB%89%20bi%E1%BA%BFt%20ki%E1%BA%BFm%20ti%E1%BB%81n.md)
-Hỏi thêm:: [Phạm Trường Sơn](../../../%CE%9E%20Ngu%E1%BB%93n/Ph%E1%BA%A1m%20Tr%C6%B0%E1%BB%9Dng%20S%C6%A1n.md)
+Hỏi thêm:: [Phạm Trường Sơn](Ph%E1%BA%A1m%20Tr%C6%B0%E1%BB%9Dng%20S%C6%A1n.md)
