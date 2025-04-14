@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2025-04-12T21:03
+updated: 2025-04-13T20:54
 alias:
   - Lập quỹ tín dụng vi mô
   - Tìm người có tiền nhàn rỗi lớn
@@ -18,7 +18,7 @@ Họ cũng có thể giúp tìm người sẵn sàng đứng ra vay giùm.
 > Nguồn tiền nhàn rỗi nếu biết thu hút thì sẽ lớn. Cái chính là làm sao để:
 > - Họ thấy tin tưởng
 
-Vì vậy, việc tìm người có tiền nhàn rỗi sẽ hiệu quả hơn khi ta lập [quỹ tín dụng vi mô](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Ph%C3%A1t%20tri%E1%BB%83n%20b%E1%BB%81n%20v%E1%BB%AFng/H%E1%BB%97%20tr%E1%BB%A3%20ng%C6%B0%E1%BB%9Di%20y%E1%BA%BFu%20th%E1%BA%BF/T%C3%A0i%20ch%C3%ADnh%20vi%20m%C3%B4/index.md).
+Vì vậy, việc tìm người có tiền nhàn rỗi sẽ hiệu quả hơn khi ta lập [quỹ tín dụng vi mô](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Ch%E1%BB%8Dn%20s%E1%BA%A3n%20ph%E1%BA%A9m%20ph%C3%B9%20h%E1%BB%A3p/C%C3%A1c%20d%E1%BB%8Bch%20v%E1%BB%A5%20cho%20vay/T%E1%BB%95%20ch%E1%BB%A9c%20t%C3%A0i%20ch%C3%ADnh%20vi%20m%C3%B4/index.md).
 
 Việt Nam nhu cầu lá lành đùm lá rách rất lớn. Có rất nhiều người sẵn sàng làm từ thiện với số tiền lớn.
 
@@ -27,11 +27,11 @@ Việt Nam nhu cầu lá lành đùm lá rách rất lớn. Có rất nhiều ng
 
 Người cho mượn tiền thay vì phải nghĩ là nếu bị quịt thì mình chịu, thì có thể nghĩ là mình đang đầu tư.
 [Cho vay lấy lãi](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/%C3%9D%20t%C6%B0%E1%BB%9Fng%20ki%E1%BA%BFm%20ti%E1%BB%81n/3%20%C3%9D%20t%C6%B0%E1%BB%9Fng/T%E1%BB%B1%20kinh%20doanh,%20%C4%91%E1%BA%A7u%20t%C6%B0/Cho%20vay%20l%E1%BA%A5y%20l%C3%A3i.md)
-[quỹ tín dụng vi mô](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Ph%C3%A1t%20tri%E1%BB%83n%20b%E1%BB%81n%20v%E1%BB%AFng/H%E1%BB%97%20tr%E1%BB%A3%20ng%C6%B0%E1%BB%9Di%20y%E1%BA%BFu%20th%E1%BA%BF/T%C3%A0i%20ch%C3%ADnh%20vi%20m%C3%B4/index.md)
+[quỹ tín dụng vi mô](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Ch%E1%BB%8Dn%20s%E1%BA%A3n%20ph%E1%BA%A9m%20ph%C3%B9%20h%E1%BB%A3p/C%C3%A1c%20d%E1%BB%8Bch%20v%E1%BB%A5%20cho%20vay/T%E1%BB%95%20ch%E1%BB%A9c%20t%C3%A0i%20ch%C3%ADnh%20vi%20m%C3%B4/index.md)
 [Quỹ tín dụng Quả Cầu](../Qu%E1%BB%B9%20t%C3%ADn%20d%E1%BB%A5ng%20Qu%E1%BA%A3%20C%E1%BA%A7u.md)
 
 
 ## Nơi thảo luận
 ![](https://i.imgur.com/OtW4epu.png)
 
-Xem thêm:: [Các dịch vụ cho vay](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/C%C3%A1c%20d%E1%BB%8Bch%20v%E1%BB%A5%20cho%20vay.md)
+Xem thêm:: [Các dịch vụ cho vay](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Ch%E1%BB%8Dn%20s%E1%BA%A3n%20ph%E1%BA%A9m%20ph%C3%B9%20h%E1%BB%A3p/C%C3%A1c%20d%E1%BB%8Bch%20v%E1%BB%A5%20cho%20vay/index.md)
