@@ -1,14 +1,7 @@
 ---
 share: true
 created: 2025-01-14T18:51
-updated: 2025-04-12T15:24
+updated: 2025-04-14T13:43
 ---
-## Kịch bản vay 
-[Các dịch vụ cho vay](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/C%C3%A1c%20d%E1%BB%8Bch%20v%E1%BB%A5%20cho%20vay.md)
-- Người sáng lập Quả Cầu, 1 tổ chức hoạt động vì con người, a có thu nhập thông qua các tổ chức + mở các team tham gia code bán các sản phẩm trên Patreon
-- **Thu nhập:** tầm 15 → 25tr/ tháng, có em là nhân viên và nhi là đồng sự
-- **Mục đích vay:** mua khoá học chứng khoán của quách mạnh hào bên qmv, giá 20tr/ năm
-
-có thể đợi để mua luôn được, nhưng cần thời gian học nên cần vay mua trước vì đã thanh toán tiền hàng
-cty a ngay tại chính nhà a luôn, tận dụng chung cư làm office để mọi người làm, nhưng đa phần là làm remote
-anh ko cần vay hết 20tr, mà chỉ cần vay 16tr, thì có gói nào ls vừa phải, thời hạn tầm 12 → 18 tháng đều đc
+[Các dịch vụ cho vay](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Ch%E1%BB%8Dn%20s%E1%BA%A3n%20ph%E1%BA%A9m%20ph%C3%B9%20h%E1%BB%A3p/C%C3%A1c%20d%E1%BB%8Bch%20v%E1%BB%A5%20cho%20vay/index.md)
+Làm thủ tục vay
