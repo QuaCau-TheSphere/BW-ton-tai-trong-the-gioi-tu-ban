@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-04-11T19:11
-updated: 2025-04-14T17:48
+updated: 2025-04-15T01:16
 ---
 ## Khó khăn của người cần vay
 - Không có thời gian giải thích
@@ -19,8 +19,8 @@ updated: 2025-04-14T17:48
 Người di cư tri thức muốn phát triển ở thành phố (không phải người lao động nghèo) và bạn bè của họ. Những người vay là những người đã thử tiếp cận các [Các dịch vụ cho vay](../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Ch%E1%BB%8Dn%20s%E1%BA%A3n%20ph%E1%BA%A9m%20ph%C3%B9%20h%E1%BB%A3p/C%C3%A1c%20d%E1%BB%8Bch%20v%E1%BB%A5%20cho%20vay/index.md) chính thức khác rồi, nhưng không đủ điều kiện để vay, hoặc số tiền vay được không đủ để xử lý vấn đề. Tức là cần huy động một nguồn lớn, và cần huy động thêm từ các nguồn phi chính thức, cụ thể là từ bạn bè xung quanh.
 
 2 quan điểm:
-- Người vững vàng là người ko cần phụ thuộc vào mạng lưới xung quanh mà có thể dùng các dịch vụ
-- Việc phải dùng các dịch vụ đó đang tạo nên sự không bền vững
+- Người vững vàng là người không cần phụ thuộc vào mạng lưới xung quanh mà có thể dùng các dịch vụ
+- Việc phải dùng các dịch vụ thương mại đang tạo nên sự không bền vững
 
 ## Dịch vụ
 - Hỗ trợ người cần vay tạo hồ sơ bản thân để tăng sự minh bạch, giải trình. Hướng đến sự tự trị dữ liệu và để bạn có thể chủ động với các mối quan hệ của mình
@@ -50,4 +50,4 @@ Những người
 Không có tổ chức nào có đối tượng thụ hưởng là người đang nợ
 
 ## Chiến lược
-Chỉ ở mức phi chính thức, vì [Chỉ có các tổ chức tài chính vi mô chính thức mới được phép huy động tiền gửi tiết kiệm tự nguyện, còn bán chính thức và phi chính thức thì bị hạn chế](../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Lu%E1%BA%ADt,%20qu%E1%BA%A3n%20l%C3%BD%20nh%C3%A0%20n%C6%B0%E1%BB%9Bc/Ti%E1%BB%81n%20t%E1%BB%87,%20ng%C3%A2n%20h%C3%A0ng/V%C3%AC%20ng%C6%B0%E1%BB%9Di%20y%E1%BA%BFu%20th%E1%BA%BF/Ch%E1%BB%89%20c%C3%B3%20c%C3%A1c%20t%E1%BB%95%20ch%E1%BB%A9c%20t%C3%A0i%20ch%C3%ADnh%20vi%20m%C3%B4%20ch%C3%ADnh%20th%E1%BB%A9c%20m%E1%BB%9Bi%20%C4%91%C6%B0%E1%BB%A3c%20ph%C3%A9p%20huy%20%C4%91%E1%BB%99ng%20ti%E1%BB%81n%20g%E1%BB%ADi%20ti%E1%BA%BFt%20ki%E1%BB%87m%20t%E1%BB%B1%20nguy%E1%BB%87n,%20c%C3%B2n%20b%C3%A1n%20ch%C3%ADnh%20th%E1%BB%A9c%20v%C3%A0%20phi%20ch%C3%ADnh%20th%E1%BB%A9c%20th%C3%AC%20b%E1%BB%8B%20h%E1%BA%A1n%20ch%E1%BA%BF.md)
+Chỉ ở mức phi chính thức, vì [Chỉ có các tổ chức chính thức mới được phép huy động tiền gửi tiết kiệm tự nguyện, còn bán chính thức và phi chính thức thì bị hạn chế](../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Lu%E1%BA%ADt,%20qu%E1%BA%A3n%20l%C3%BD%20nh%C3%A0%20n%C6%B0%E1%BB%9Bc/Ti%E1%BB%81n%20t%E1%BB%87,%20ng%C3%A2n%20h%C3%A0ng/V%C3%AC%20ng%C6%B0%E1%BB%9Di%20y%E1%BA%BFu%20th%E1%BA%BF/T%C3%A0i%20ch%C3%ADnh%20vi%20m%C3%B4/Ch%E1%BB%89%20c%C3%B3%20c%C3%A1c%20t%E1%BB%95%20ch%E1%BB%A9c%20ch%C3%ADnh%20th%E1%BB%A9c%20m%E1%BB%9Bi%20%C4%91%C6%B0%E1%BB%A3c%20ph%C3%A9p%20huy%20%C4%91%E1%BB%99ng%20ti%E1%BB%81n%20g%E1%BB%ADi%20ti%E1%BA%BFt%20ki%E1%BB%87m%20t%E1%BB%B1%20nguy%E1%BB%87n,%20c%C3%B2n%20b%C3%A1n%20ch%C3%ADnh%20th%E1%BB%A9c%20v%C3%A0%20phi%20ch%C3%ADnh%20th%E1%BB%A9c%20th%C3%AC%20b%E1%BB%8B%20h%E1%BA%A1n%20ch%E1%BA%BF.md)
