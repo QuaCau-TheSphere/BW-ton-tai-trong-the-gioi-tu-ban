@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-07-17T21:41
-updated: 2025-04-15T00:47
+updated: 2025-04-15T17:33
 ---
 URL:: https://www.facebook.com/profile.php?id=100077601589557
 
@@ -16,7 +16,7 @@ URL:: https://www.facebook.com/profile.php?id=100077601589557
 Lần 1: 2tr
 ```
 
-[Cho vay theo nhóm bền vững hơn, ít bị quịt hơn](../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/T%E1%BB%95%20ch%E1%BB%A9c%20t%C3%A0i%20ch%C3%ADnh/T%E1%BB%95%20ch%E1%BB%A9c%20t%C3%ADn%20d%E1%BB%A5ng/Cho%20vay%20theo%20nh%C3%B3m%20b%E1%BB%81n%20v%E1%BB%AFng%20h%C6%A1n,%20%C3%ADt%20b%E1%BB%8B%20qu%E1%BB%8Bt%20h%C6%A1n.md)
+[Cho vay theo nhóm bền vững hơn, ít bị quịt hơn. Cho vay cá nhận nhiều lợi nhuận hơn, dễ mở rộng phạm vi hoạt động hơn](../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/T%E1%BB%95%20ch%E1%BB%A9c%20t%C3%A0i%20ch%C3%ADnh/T%E1%BB%95%20ch%E1%BB%A9c%20t%C3%ADn%20d%E1%BB%A5ng/Cho%20vay%20theo%20nh%C3%B3m%20b%E1%BB%81n%20v%E1%BB%AFng%20h%C6%A1n,%20%C3%ADt%20b%E1%BB%8B%20qu%E1%BB%8Bt%20h%C6%A1n.%20Cho%20vay%20c%C3%A1%20nh%E1%BA%ADn%20nhi%E1%BB%81u%20l%E1%BB%A3i%20nhu%E1%BA%ADn%20h%C6%A1n,%20d%E1%BB%85%20m%E1%BB%9F%20r%E1%BB%99ng%20ph%E1%BA%A1m%20vi%20ho%E1%BA%A1t%20%C4%91%E1%BB%99ng%20h%C6%A1n.md)
 [Tổ chức tài chính vi mô](./index.md)
 
 tỉ lệ mất tiền là 5%
