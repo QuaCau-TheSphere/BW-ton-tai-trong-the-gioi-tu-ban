@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-04-20T16:47
-updated: 2025-04-20T19:01
+updated: 2025-04-20T19:13
 alias: Xây dựng quỹ tín dụng vi mô
 ---
 ## Đối tượng thụ hưởng 
@@ -23,19 +23,22 @@ Nên để đảm bảo sự bền vững, thậm chí là sự khả thi, **cô
 Bởi vì công việc chính của quỹ không phải là cho vay, mà là hỗ trợ họ vay, nên tốt nhất nhà đầu tư nên đầu tư trực tiếp cho khách hàng, chứ không phải cho quỹ. Nói cách khác, quỹ cần giúp đỡ khách hàng tự thành lập một quỹ cho riêng mình. Nói cách khác, quỹ cần tự nhân bản chính nó.
 
 ## Mô hình hoạt động
-Một điều chắc chắn là quỹ sẽ chỉ hoạt động phi chính thức chứ không đăng ký, vì [Tổ chức chính thức phải hoạt động dưới hình thức công ty TNHH, có chủ là tổ chức chính trị hoặc chính trị - xã hội được thành lập hợp pháp, và khách hàng phải được xác nhận là nghèo hoặc từng nghèo](../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Lu%E1%BA%ADt,%20qu%E1%BA%A3n%20l%C3%BD%20nh%C3%A0%20n%C6%B0%E1%BB%9Bc/Ti%E1%BB%81n%20t%E1%BB%87,%20ng%C3%A2n%20h%C3%A0ng/V%C3%AC%20ng%C6%B0%E1%BB%9Di%20y%E1%BA%BFu%20th%E1%BA%BF/T%C3%A0i%20ch%C3%ADnh%20vi%20m%C3%B4/T%E1%BB%95%20ch%E1%BB%A9c%20ch%C3%ADnh%20th%E1%BB%A9c%20ph%E1%BA%A3i%20ho%E1%BA%A1t%20%C4%91%E1%BB%99ng%20d%C6%B0%E1%BB%9Bi%20h%C3%ACnh%20th%E1%BB%A9c%20c%C3%B4ng%20ty%20TNHH,%20c%C3%B3%20ch%E1%BB%A7%20l%C3%A0%20t%E1%BB%95%20ch%E1%BB%A9c%20ch%C3%ADnh%20tr%E1%BB%8B%20ho%E1%BA%B7c%20ch%C3%ADnh%20tr%E1%BB%8B%20-%20x%C3%A3%20h%E1%BB%99i%20%C4%91%C6%B0%E1%BB%A3c%20th%C3%A0nh%20l%E1%BA%ADp%20h%E1%BB%A3p%20ph%C3%A1p,%20v%C3%A0%20kh%C3%A1ch%20h%C3%A0ng%20ph%E1%BA%A3i%20%C4%91%C6%B0%E1%BB%A3c%20x%C3%A1c%20nh%E1%BA%ADn%20l%C3%A0%20ngh%C3%A8o%20ho%E1%BA%B7c%20t%E1%BB%ABng%20ngh%C3%A8o.md).
+Một điều chắc chắn là quỹ sẽ chỉ hoạt động phi chính thức chứ không đăng ký, vì [Tổ chức tài chính vi mô chính thức phải có chủ là tổ chức chính trị - xã hội được thành lập hợp pháp, và khách hàng phải được xác nhận là nghèo hoặc từng nghèo](../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Lu%E1%BA%ADt,%20qu%E1%BA%A3n%20l%C3%BD%20nh%C3%A0%20n%C6%B0%E1%BB%9Bc/Ti%E1%BB%81n%20t%E1%BB%87,%20ng%C3%A2n%20h%C3%A0ng/V%C3%AC%20ng%C6%B0%E1%BB%9Di%20y%E1%BA%BFu%20th%E1%BA%BF/T%C3%A0i%20ch%C3%ADnh%20vi%20m%C3%B4/T%E1%BB%95%20ch%E1%BB%A9c%20t%C3%A0i%20ch%C3%ADnh%20vi%20m%C3%B4%20ch%C3%ADnh%20th%E1%BB%A9c%20ph%E1%BA%A3i%20c%C3%B3%20ch%E1%BB%A7%20l%C3%A0%20t%E1%BB%95%20ch%E1%BB%A9c%20ch%C3%ADnh%20tr%E1%BB%8B%20-%20x%C3%A3%20h%E1%BB%99i%20%C4%91%C6%B0%E1%BB%A3c%20th%C3%A0nh%20l%E1%BA%ADp%20h%E1%BB%A3p%20ph%C3%A1p,%20v%C3%A0%20kh%C3%A1ch%20h%C3%A0ng%20ph%E1%BA%A3i%20%C4%91%C6%B0%E1%BB%A3c%20x%C3%A1c%20nh%E1%BA%ADn%20l%C3%A0%20ngh%C3%A8o%20ho%E1%BA%B7c%20t%E1%BB%ABng%20ngh%C3%A8o.md).
 
 Tuỳ vào mức độ tín nhiệm mà sẽ cho vay theo nhóm hay cho vay cá nhân. [Cho vay theo nhóm bền vững hơn, ít bị quịt hơn. Cho vay cá nhân nhiều lợi nhuận hơn, dễ mở rộng phạm vi hoạt động hơn](../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/T%E1%BB%95%20ch%E1%BB%A9c%20t%C3%A0i%20ch%C3%ADnh/T%E1%BB%95%20ch%E1%BB%A9c%20t%C3%ADn%20d%E1%BB%A5ng/Cho%20vay%20theo%20nh%C3%B3m%20b%E1%BB%81n%20v%E1%BB%AFng%20h%C6%A1n,%20%C3%ADt%20b%E1%BB%8B%20qu%E1%BB%8Bt%20h%C6%A1n.%20Cho%20vay%20c%C3%A1%20nh%C3%A2n%20nhi%E1%BB%81u%20l%E1%BB%A3i%20nhu%E1%BA%ADn%20h%C6%A1n,%20d%E1%BB%85%20m%E1%BB%9F%20r%E1%BB%99ng%20ph%E1%BA%A1m%20vi%20ho%E1%BA%A1t%20%C4%91%E1%BB%99ng%20h%C6%A1n.md).
+
+### Khách hàng
+Phải hoàn thành [Bản câu hỏi cho người cần được hỗ trợ thoát nợ](./B%E1%BA%A3n%20c%C3%A2u%20h%E1%BB%8Fi%20cho%20ng%C6%B0%E1%BB%9Di%20c%E1%BA%A7n%20%C4%91%C6%B0%E1%BB%A3c%20h%E1%BB%97%20tr%E1%BB%A3%20tho%C3%A1t%20n%E1%BB%A3.md). Có thể lúc khẩn cấp thì không có thời gian để làm, nếu tin được thì cứ giúp trước, nhưng sau đó phải làm.
 
 Có cho vay với mục tiêu huy động vốn để kinh doanh, đầu tư kiếm tiền không, hay chỉ giới hạn cho việc trả nợ, sinh hoạt?
 
 ### Phí, lãi
-Theo [nên tăng phí dịch vụ thay vì tăng lãi suất](../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Ch%C3%ADnh%20s%C3%A1ch%20c%C3%B4ng%20ty/T%E1%BB%95%20ch%E1%BB%A9c%20t%C3%ADn%20d%E1%BB%A5ng/T%E1%BB%95%20ch%E1%BB%A9c%20t%C3%A0i%20ch%C3%ADnh%20vi%20m%C3%B4/Khuy%E1%BA%BFn%20ngh%E1%BB%8B%20cho%20c%C3%A1c%20t%E1%BB%95%20ch%E1%BB%A9c%20%E1%BB%9F%20VN.md)
+[Nên tăng phí dịch vụ thay vì tăng lãi suất](../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Ch%C3%ADnh%20s%C3%A1ch%20c%C3%B4ng%20ty/T%E1%BB%95%20ch%E1%BB%A9c%20t%C3%ADn%20d%E1%BB%A5ng/T%E1%BB%95%20ch%E1%BB%A9c%20t%C3%A0i%20ch%C3%ADnh%20vi%20m%C3%B4/Khuy%E1%BA%BFn%20ngh%E1%BB%8B%20cho%20c%C3%A1c%20t%E1%BB%95%20ch%E1%BB%A9c%20%E1%BB%9F%20VN.md). Vấn đề là bao nhiêu?
 
 Tốt nhất chỉ huy động từ những người không yêu cầu thời hạn trả nợ và lãi cố định, không theo chu kỳ. Trong trường hợp cần huy động từ những người như vậy thì cần đảm bảo còn tiền trả lãi kỳ tiếp theo cho họ. Phần lãi này người vay phải gánh.
 
 ## Công việc
-- Hỗ trợ người cần vay tạo hồ sơ bản thân để tăng sự minh bạch, giải trình. Hướng đến sự tự trị dữ liệu và để bạn có thể chủ động với các mối quan hệ của mình
+- Hỗ trợ người cần vay tạo hồ sơ bản thân để tăng sự minh bạch, giải trình. Hướng đến sự tự trị dữ liệu để khách hàng có thể chủ động xây dựng quỹ tín dụng của họ với các mối quan hệ của mình
 - Đại diện giải đáp thắc mắc giữa các bên để giảm sự nhức đầu 
 - Hỗ trợ thương lượng với chủ nợ để giảm lãi
 - [Hỗ trợ nâng hạn mức, điểm tín dụng](./T%C3%A0i%20li%E1%BB%87u/C%C3%A1c%20c%C3%A1ch%20th%E1%BB%A9c%20n%C3%A2ng%20h%E1%BA%A1n%20m%E1%BB%A9c%20th%E1%BA%BB%20t%C3%ADn%20d%E1%BB%A5ng.md)
@@ -59,4 +62,4 @@ Nói chung, đừng xem người đi vay là thứ để mình kiếm lợi nhu�
 Tốt nhất chỉ huy động từ những người không yêu cầu thời hạn trả nợ và lãi cố định, không theo chu kỳ. Trong trường hợp cần huy động từ những người như vậy thì cần đảm bảo còn tiền trả lãi kỳ tiếp theo cho họ.
 
 ## Nơi thảo luận
-![](https://i.imgur.com/OtW4epu.png)
+![](https://i.imgur.com/RNcEBe4.png)
