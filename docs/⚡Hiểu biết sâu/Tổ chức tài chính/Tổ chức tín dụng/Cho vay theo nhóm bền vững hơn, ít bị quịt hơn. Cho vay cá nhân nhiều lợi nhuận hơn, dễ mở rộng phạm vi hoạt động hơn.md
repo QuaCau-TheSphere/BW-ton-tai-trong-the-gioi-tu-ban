@@ -1,7 +1,10 @@
 ---
 share: true
 created: 2024-10-26T09:30
-updated: 2025-04-20T18:23
+updated: 2025-04-20T19:21
+alias:
+  - Cho vay theo nhóm bền vững hơn, ít bị quịt hơn
+  - Cho vay cá nhân nhiều lợi nhuận hơn, dễ mở rộng phạm vi hoạt động hơn
 ---
 Khái niệm:: [Tài chính vi mô](../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/T%C3%A0i%20ch%C3%ADnh%20vi%20m%C3%B4.md)
 
