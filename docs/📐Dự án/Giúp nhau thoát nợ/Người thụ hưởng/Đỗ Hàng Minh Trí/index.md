@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-09-14T23:01
-updated: 2025-04-15T00:25
+updated: 2025-04-20T17:37
 description: Các thông tin để bạn thẩm định việc cho Trí vay
 title: Đỗ Hàng Minh Trí
 ---
@@ -75,7 +75,7 @@ Do mới có thêm đứa con, nên chỉ có 3 lựa chọn:
 ### Trí đã nhận được những sự hỗ trợ nào rồi?
 
 ## Năng lực xoay sở
-### Trí nghĩ sao về quan điểm [Áp lực tạo kim cương](../../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Ni%E1%BB%81m%20tin,%20di%E1%BB%85n%20ng%C3%B4n/Th%C3%A1ch%20th%E1%BB%A9c,%20%C4%91am%20m%C3%AA/%C3%81p%20l%E1%BB%B1c%20t%E1%BA%A1o%20kim%20c%C6%B0%C6%A1ng.md)? Trí có nghĩa rằng [nếu không có ai giúp đỡ thì Trí sẽ làm được những điều đến chính Trí cũng ngạc nhiên](../../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Ni%E1%BB%81m%20tin,%20di%E1%BB%85n%20ng%C3%B4n/Th%C3%A1ch%20th%E1%BB%A9c,%20%C4%91am%20m%C3%AA/Con%20ng%C6%B0%E1%BB%9Di%20th%C6%B0%E1%BB%9Dng%20kh%C3%B4ng%20bi%E1%BA%BFt%20%C4%91%C6%B0%E1%BB%A3c%20n%C4%83ng%20l%E1%BB%B1c%20c%E1%BB%A7a%20m%C3%ACnh.%20Khi%20b%E1%BB%8B%20%C3%A9p%20v%C3%A0o%20%C4%91%C6%B0%E1%BB%9Dng%20c%C3%B9ng%20h%E1%BB%8D%20s%E1%BA%BD%20l%C3%A0m%20%C4%91%C6%B0%E1%BB%A3c%20nh%E1%BB%AFng%20%C4%91i%E1%BB%81u%20%C4%91%E1%BA%BFn%20ch%C3%ADnh%20h%E1%BB%8D%20c%C5%A9ng%20ng%E1%BA%A1c%20nhi%C3%AAn.md)?
+### Trí nghĩ sao về quan điểm [Áp lực tạo kim cương](../../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Ni%E1%BB%81m%20tin,%20di%E1%BB%85n%20ng%C3%B4n/Th%C3%A1ch%20th%E1%BB%A9c,%20%C4%91am%20m%C3%AA,%20ph%C3%A1t%20tri%E1%BB%83n%20b%E1%BA%A3n%20th%C3%A2n/%C3%81p%20l%E1%BB%B1c%20t%E1%BA%A1o%20kim%20c%C6%B0%C6%A1ng.md)? Trí có nghĩa rằng [nếu không có ai giúp đỡ thì Trí sẽ làm được những điều đến chính Trí cũng ngạc nhiên](../../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Ni%E1%BB%81m%20tin,%20di%E1%BB%85n%20ng%C3%B4n/Th%C3%A1ch%20th%E1%BB%A9c,%20%C4%91am%20m%C3%AA,%20ph%C3%A1t%20tri%E1%BB%83n%20b%E1%BA%A3n%20th%C3%A2n/Con%20ng%C6%B0%E1%BB%9Di%20th%C6%B0%E1%BB%9Dng%20kh%C3%B4ng%20bi%E1%BA%BFt%20%C4%91%C6%B0%E1%BB%A3c%20n%C4%83ng%20l%E1%BB%B1c%20c%E1%BB%A7a%20m%C3%ACnh.%20Khi%20b%E1%BB%8B%20%C3%A9p%20v%C3%A0o%20%C4%91%C6%B0%E1%BB%9Dng%20c%C3%B9ng%20h%E1%BB%8D%20s%E1%BA%BD%20l%C3%A0m%20%C4%91%C6%B0%E1%BB%A3c%20nh%E1%BB%AFng%20%C4%91i%E1%BB%81u%20%C4%91%E1%BA%BFn%20ch%C3%ADnh%20h%E1%BB%8D%20c%C5%A9ng%20ng%E1%BA%A1c%20nhi%C3%AAn.md)?
 ### Việc mượn nợ đầu này để đắp đầu kia (xoay nợ, đảo nợ) đến khi nào thì mới chấm dứt? Điều gì khiến cho lãi không sinh ra lãi?
 ### Tại sao Trí chưa thấy mình mất khả năng trả nợ? Chuyện gì sẽ xảy ra nếu Trí thừa nhận việc đó?
 
@@ -83,7 +83,7 @@ Do mới có thêm đứa con, nên chỉ có 3 lựa chọn:
 ### Lý do nên giúp Trí hơn những người khác?
 ### Quan điểm về sự giải trình và minh bạch
 ### Mức độ bí mật của những thông tin chia sẻ ở đây
-### Trí có sẵn sàng tham gia công việc [Huy động nguồn tiền nhàn rỗi](../../C%C3%B4ng%20vi%E1%BB%87c/Huy%20%C4%91%E1%BB%99ng%20ngu%E1%BB%93n%20ti%E1%BB%81n%20nh%C3%A0n%20r%E1%BB%97i.md) không?
+### Trí có sẵn sàng tham gia công việc [xây dựng quỹ tín dụng vi mô](../../Qu%E1%BB%B9%20t%C3%ADn%20d%E1%BB%A5ng%20Qu%E1%BA%A3%20C%E1%BA%A7u.md) không?
 
 Xem thêm:: [Các lý do cho việc giúp đỡ hoặc không giúp đỡ](../../T%C3%A0i%20li%E1%BB%87u/Ni%E1%BB%81m%20tin/C%C3%A1c%20l%C3%BD%20do%20cho%20vi%E1%BB%87c%20gi%C3%BAp%20%C4%91%E1%BB%A1%20ho%E1%BA%B7c%20kh%C3%B4ng%20gi%C3%BAp%20%C4%91%E1%BB%A1.md)
 
