@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-01-19T21:00
-updated: 2025-04-12T11:18
+updated: 2025-04-20T14:01
 title: Chính sách công ty GM Mall
 ---
 ## Chính sách cho khách
@@ -29,13 +29,19 @@ Thời gian chờ từ lúc nhận yêu cầu rút đến khi tiền về là 2 
 - Có 1 khách đạt thu nhập gom nhóm cá nhân trung bình ít nhất 100k/ngày (chia cho chu kì tính đến ngày chốt lương) và có nhóm Zalo
 - Có 2 khách đạt 30k - 100k/ngày và có nhóm Zalo
 
-Nhóm Zalo là nhóm chia sẻ sản phẩm đúng cú pháp, có 10 thành viên trở lên.
-
 Khách hoạt động trên 5 ngày từ lúc đạt 100k lần đầu tiên mới được tính.
 
 Từ 5 khách hiệu quả trở lên mới có lương.
 
 Được 2% tổng thu nhập từ tất cả thành viên các cấp phía dưới.
+
+### Quy định nhóm Zalo
+Nhóm Zalo là nhóm chia sẻ sản phẩm. Sẽ có thêm nhân viên công ty, mỗi ngày sẽ được đăng sản phẩm mới.
+
+Một nhóm đúng quy định là nhóm thoả những điều kiện sau:
+- Tên nhóm đúng cú pháp
+- 10 thành viên trở lên
+- Không trùng trưởng nhóm (có thể tạo rồi chuyển quyền trưởng nhóm cho khách hàng). Trong trường hợp kiểm tra ra là đổi tên nhóm sẽ ko được tính 
 
 ### Lương
 |              | Nhân viên | Trưởng nhóm | Giám đốc thị trường |
