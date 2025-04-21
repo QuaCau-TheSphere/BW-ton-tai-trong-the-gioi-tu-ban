@@ -1,10 +1,11 @@
 ---
 share: true
 created: 2025-04-05T15:11
-updated: 2025-04-20T18:07
+updated: 2025-04-20T19:33
 ---
 ## FAQ
-### Bọn mình đi tìm khách vậy có thấy ổn không? Thực ra là mặc dù đúng tui đang được giao nhiệm vụ giới thiệu sp, nhưng đó chỉ là phần nổi. Phần chìm là:
+### Bọn mình đi tìm khách vậy có thấy ổn không? 
+Thực ra là mặc dù đúng tui đang được giao nhiệm vụ giới thiệu sp, nhưng đó chỉ là phần nổi. Phần chìm là:
 - Giúp Trí thoát nợ
 - Xây dựng hệ thống thông tin để mọi người, đặc biệt là những người yếu thế được hưởng lợi. Trong đó có việc hạn chế tình trạng bát nháo, ém thông tin, thiên lệch từ phía người bán 
 - Tìm hiểu cuộc sống của những người xung quanh mình (nghiên cứu nhân học)
