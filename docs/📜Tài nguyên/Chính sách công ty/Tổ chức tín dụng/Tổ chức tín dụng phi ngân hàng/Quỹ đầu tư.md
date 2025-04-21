@@ -2,7 +2,6 @@
 share: true
 created: 2025-04-19T16:55
 updated: 2025-04-19T16:59
-title: Quỹ đầu tư
 ---
 Khái niệm:: 
 29 cty bảo hiểm quỹ, 64 quỹ mở

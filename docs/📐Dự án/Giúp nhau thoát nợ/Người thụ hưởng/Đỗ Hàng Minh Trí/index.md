@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-09-14T23:01
-updated: 2025-04-20T17:37
+updated: 2025-04-20T23:00
 description: Các thông tin để bạn thẩm định việc cho Trí vay
 title: Đỗ Hàng Minh Trí
 ---
@@ -12,7 +12,7 @@ title: Đỗ Hàng Minh Trí
 ### Tại sao Trí bị nợ? 
 Tin tưởng một người nên đứng ra vay cho họ. Người này cuối cùng mất khả năng trả nên không trả Trí. Xuống tận nhà đòi nợ thì nghe bảo là chây ì. Nhưng vẫn muốn trả cho những người mình đã vay.
 
-[Lý do bị nợ](L%C3%BD%20do%20b%E1%BB%8B%20n%E1%BB%A3.md)
+Bài chi tiết:: [Lý do bị nợ](L%C3%BD%20do%20b%E1%BB%8B%20n%E1%BB%A3.md)
 ### Tình hình nợ hiện nay thế nào? Các khoản nợ, lãi và thời hạn trả của chúng, v.v.
 Gom hết tất cả các khoản nợ vào một người cô, lãi vài triệu/tháng. 
 

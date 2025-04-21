@@ -3,7 +3,7 @@ share: true
 created: 2024-12-22T09:57
 description: Một sổ tiết kiệm không làm chôn tiền cho những việc khác. Không bị tính vào thuế thu nhập doanh nghiệp khi mua cho nhân viên
 alias: Thịnh An Phát
-updated: 2025-04-14T12:51
+updated: 2025-04-21T01:09
 ---
 ## Mô tả sản phẩm
 Thịnh An Phát của Cathay là sản phẩm bảo hiểm nhân thọ **hỗn hợp ngắn hạn đóng phí một lần**. Nó:
@@ -66,7 +66,7 @@ Tại sao con số 250 triệu lại được chọn? Vì ở mức này thì kh
 Hay nói cách khác, bạn sẽ được nhận một phần lãi ngay lập tức sau khi mua. (Thực ra là sau 3 tuần đến 1 tháng, nhưng cũng có thể xem là ngay lập tức.)
 
 ### An toàn như ngân hàng
-Sản phẩm bảo hiểm cũng như sản phẩm ngân hàng có mức độ rủi ro có thể xem là 0. Nhưng nếu ngân hàng phá sản ([dù điều đó là không thể](../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/T%E1%BB%95%20ch%E1%BB%A9c%20t%C3%A0i%20ch%C3%ADnh/T%E1%BB%95%20ch%E1%BB%A9c%20t%C3%ADn%20d%E1%BB%A5ng/Ng%C3%A2n%20h%C3%A0ng,%20%C4%91i%E1%BB%83m%20t%C3%ADn%20d%E1%BB%A5ng/Ng%C3%A2n%20h%C3%A0ng%20kh%C3%B4ng%20th%E1%BB%83%20n%C3%A0o%20s%E1%BB%A5p,%20v%C3%AC%20n%E1%BA%BFu%20m%E1%BB%99t%20ng%C3%A2n%20h%C3%A0ng%20s%E1%BB%A5p%20th%C3%AC%20n%C3%B3%20l%C3%A0m%20m%E1%BA%A5t%20uy%20t%C3%ADn%20c%E1%BB%A7a%20c%E1%BA%A3%20ng%C3%A0nh.md)), bạn sẽ được trả tối đa là 70 triệu. Còn nếu công ty bảo hiểm phá sản, thì bạn sẽ được trả tối đa là 200 triệu, do một công ty bảo hiểm có hai, ba lớp chuyển nhượng tái bảo hiểm đằng sau.
+Sản phẩm bảo hiểm cũng như sản phẩm ngân hàng có mức độ rủi ro có thể xem là 0. Nhưng nếu ngân hàng phá sản ([dù điều đó là không thể](../../../Lu%E1%BA%ADt,%20qu%E1%BA%A3n%20l%C3%BD%20nh%C3%A0%20n%C6%B0%E1%BB%9Bc/Ti%E1%BB%81n%20t%E1%BB%87,%20ng%C3%A2n%20h%C3%A0ng/Ng%C3%A2n%20h%C3%A0ng%20kh%C3%B4ng%20th%E1%BB%83%20n%C3%A0o%20s%E1%BB%A5p,%20v%C3%AC%20n%E1%BA%BFu%20m%E1%BB%99t%20ng%C3%A2n%20h%C3%A0ng%20s%E1%BB%A5p%20th%C3%AC%20n%C3%B3%20l%C3%A0m%20m%E1%BA%A5t%20uy%20t%C3%ADn%20c%E1%BB%A7a%20c%E1%BA%A3%20ng%C3%A0nh.md)), bạn sẽ được trả tối đa là 70 triệu. Còn nếu công ty bảo hiểm phá sản, thì bạn sẽ được trả tối đa là 200 triệu, do một công ty bảo hiểm có hai, ba lớp chuyển nhượng tái bảo hiểm đằng sau.
 
 
 
@@ -114,7 +114,7 @@ Một bạn nhắn: Trường hợp của bác Nguyên Ngọc, hãy liên hệ v
 Cathay vẫn có những sản phẩm nhân thọ không cần đi khám
 
 ### An toàn hơn ngân hàng?
-[dù điều đó là không thể](../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/T%E1%BB%95%20ch%E1%BB%A9c%20t%C3%A0i%20ch%C3%ADnh/T%E1%BB%95%20ch%E1%BB%A9c%20t%C3%ADn%20d%E1%BB%A5ng/Ng%C3%A2n%20h%C3%A0ng,%20%C4%91i%E1%BB%83m%20t%C3%ADn%20d%E1%BB%A5ng/Ng%C3%A2n%20h%C3%A0ng%20kh%C3%B4ng%20th%E1%BB%83%20n%C3%A0o%20s%E1%BB%A5p,%20v%C3%AC%20n%E1%BA%BFu%20m%E1%BB%99t%20ng%C3%A2n%20h%C3%A0ng%20s%E1%BB%A5p%20th%C3%AC%20n%C3%B3%20l%C3%A0m%20m%E1%BA%A5t%20uy%20t%C3%ADn%20c%E1%BB%A7a%20c%E1%BA%A3%20ng%C3%A0nh.md)
+[dù điều đó là không thể](../../../Lu%E1%BA%ADt,%20qu%E1%BA%A3n%20l%C3%BD%20nh%C3%A0%20n%C6%B0%E1%BB%9Bc/Ti%E1%BB%81n%20t%E1%BB%87,%20ng%C3%A2n%20h%C3%A0ng/Ng%C3%A2n%20h%C3%A0ng%20kh%C3%B4ng%20th%E1%BB%83%20n%C3%A0o%20s%E1%BB%A5p,%20v%C3%AC%20n%E1%BA%BFu%20m%E1%BB%99t%20ng%C3%A2n%20h%C3%A0ng%20s%E1%BB%A5p%20th%C3%AC%20n%C3%B3%20l%C3%A0m%20m%E1%BA%A5t%20uy%20t%C3%ADn%20c%E1%BB%A7a%20c%E1%BA%A3%20ng%C3%A0nh.md)
 
 Sản phẩm bảo hiểm cũng như sản phẩm ngân hàng có mức độ rủi ro có thể xem là 0. Nhưng nếu ngân hàng phá sản, bạn sẽ được trả tối đa là 70 triệu. Còn nếu công ty bảo hiểm phá sản, thì bạn sẽ được trả tối đa là 200 triệu, do một công ty bảo hiểm có hai, ba lớp chuyển nhượng tái bảo hiểm đằng sau.
 

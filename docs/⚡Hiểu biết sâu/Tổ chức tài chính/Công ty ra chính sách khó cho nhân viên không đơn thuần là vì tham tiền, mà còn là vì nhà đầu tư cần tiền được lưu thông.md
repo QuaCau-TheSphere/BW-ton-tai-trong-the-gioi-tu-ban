@@ -1,14 +1,13 @@
 ---
 share: true
 created: 2024-09-27T13:06
-updated: 2025-04-08T22:42
+updated: 2025-04-21T02:26
 ---
-Khái niệm:: 
+Khái niệm:: [Rửa tiền](../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/R%E1%BB%ADa%20ti%E1%BB%81n.md)
 
 Thì hệ thống chồng chéo lên nhau. 
 Bữa nói ngay ông giám đốc cũng chửi bên quản lý rủi ro vụ quán karaoke quét pos 50tr nhiều lần buổi tối nên tụi nó khóa máy kìa
 
-Nói rồi mà
 Tức là 1 bộ phận để, 1 bộ phận ko muốn,chồng chéo lên nhau kiểu vậy
 
 Thì cái này ý nói là ở cấp lãnh đạo thôi
