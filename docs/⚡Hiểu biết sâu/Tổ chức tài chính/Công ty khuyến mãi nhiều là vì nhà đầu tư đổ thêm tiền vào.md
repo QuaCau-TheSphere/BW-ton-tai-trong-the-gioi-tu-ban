@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-04-07T15:27
-updated: 2025-04-11T18:46
+updated: 2025-04-21T02:24
 alias:
   - Liệu công ty X có đang lừa đảo, rửa tiền không?
 ---
@@ -30,6 +30,6 @@ Xem thêm:: [Công ty ra chính sách khó cho nhân viên không đơn thuần 
 Vẫn còn một lập luận phản biện nữa. Đó là [Làm đúng luật không có nghĩa là không có thao túng. Có nhiều cái lừa đảo vẫn đúng luật](../%C4%90%E1%BA%A1o%20%C4%91%E1%BB%A9c,%20ph%C3%A1p%20lu%E1%BA%ADt.%20Ch%E1%BB%A7%20ngh%C4%A9a%20t%C3%A2n%20t%E1%BB%B1%20do/Lu%E1%BA%ADt/L%C3%A0m%20%C4%91%C3%BAng%20lu%E1%BA%ADt%20kh%C3%B4ng%20c%C3%B3%20ngh%C4%A9a%20l%C3%A0%20kh%C3%B4ng%20c%C3%B3%20thao%20t%C3%BAng.%20C%C3%B3%20nhi%E1%BB%81u%20c%C3%A1i%20l%E1%BB%ABa%20%C4%91%E1%BA%A3o%20v%E1%BA%ABn%20%C4%91%C3%BAng%20lu%E1%BA%ADt.md). [Lách luật là phạm luật một cách đúng luật](../%C4%90%E1%BA%A1o%20%C4%91%E1%BB%A9c,%20ph%C3%A1p%20lu%E1%BA%ADt.%20Ch%E1%BB%A7%20ngh%C4%A9a%20t%C3%A2n%20t%E1%BB%B1%20do/Lu%E1%BA%ADt/L%C3%A1ch%20lu%E1%BA%ADt%20l%C3%A0%20ph%E1%BA%A1m%20lu%E1%BA%ADt%20m%E1%BB%99t%20c%C3%A1ch%20%C4%91%C3%BAng%20lu%E1%BA%ADt.md). Những cái này thì phải đọc hợp đồng cho kỹ mà thôi. Và đó cũng là lý do mà nơi này được sinh ra:
 
 ## Nhưng lừa đảo không đáng lo bằng rửa tiền?
-Để bị quy vào tội rửa tiền, bạn phải làm việc với các công ty [mà bạn có cơ sở để biết là tiền là do phạm tội mà có](https://thuvienphapluat.vn/chinh-sach-phap-luat-moi/vn/ho-tro-phap-luat/tham-nhung/39307/rua-tien-la-gi-trach-nhiem-hinh-su-doi-voi-toi-rua-tien). Đương nhiên, bọn mình cũng không dại gì làm với các công ty như vậy. Tức là, nếu bạn tin là bọn mình sẽ trung thực, thành thật với bạn, thì bạn cũng không có cơ sở để biết là tiền từ công ty này là do phạm tội mà có. Trừ khi, ờm ..., bạn không trung thực, thành thực với bọn mình. Còn không thì chắc bạn đã có cơ sở để bạn thấy an toàn khi tham gia. 
+Để bị quy vào tội [rửa tiền](../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/R%E1%BB%ADa%20ti%E1%BB%81n.md), bạn phải làm việc với các công ty [mà bạn có cơ sở để biết là tiền là do phạm tội mà có](https://thuvienphapluat.vn/chinh-sach-phap-luat-moi/vn/ho-tro-phap-luat/tham-nhung/39307/rua-tien-la-gi-trach-nhiem-hinh-su-doi-voi-toi-rua-tien). Đương nhiên, bọn mình cũng không dại gì làm với các công ty như vậy. Tức là, nếu bạn tin là bọn mình sẽ trung thực, thành thật với bạn, thì bạn cũng không có cơ sở để biết là tiền từ công ty này là do phạm tội mà có. Trừ khi, ờm ..., bạn không trung thực, thành thực với bọn mình. Còn không thì chắc bạn đã có cơ sở để bạn thấy an toàn khi tham gia. 
 
 [Vì các ví điện tử đứng ra bảo lãnh cho người quẹt, nên một giao dịch khi quẹt qua chúng sẽ trở thành một giao dịch mua hàng sạch trong mắt ngân hàng](./Trung%20gian%20thanh%20to%C3%A1n/V%C3%AC%20c%C3%A1c%20v%C3%AD%20%C4%91i%E1%BB%87n%20t%E1%BB%AD%20%C4%91%E1%BB%A9ng%20ra%20b%E1%BA%A3o%20l%C3%A3nh%20cho%20ng%C6%B0%E1%BB%9Di%20qu%E1%BA%B9t,%20n%C3%AAn%20m%E1%BB%99t%20giao%20d%E1%BB%8Bch%20khi%20qu%E1%BA%B9t%20qua%20ch%C3%BAng%20s%E1%BA%BD%20tr%E1%BB%9F%20th%C3%A0nh%20m%E1%BB%99t%20giao%20d%E1%BB%8Bch%20mua%20h%C3%A0ng%20s%E1%BA%A1ch%20trong%20m%E1%BA%AFt%20ng%C3%A2n%20h%C3%A0ng.md)
