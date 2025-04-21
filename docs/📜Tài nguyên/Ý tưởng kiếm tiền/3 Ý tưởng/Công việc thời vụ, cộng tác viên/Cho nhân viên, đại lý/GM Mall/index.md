@@ -1,23 +1,21 @@
 ---
 share: true
-created: 2025-04-04T14:51
-updated: 2025-04-10T16:42
-alias: Nhóm chạy chỉ tiêu cho nhân viên GM Mall
-title: GM Mall
+created: 2025-04-21T15:33
+updated: 2025-04-21T15:37
+title: Nhóm chạy chỉ tiêu cho nhân viên GM Mall
 ---
-# Nhóm chạy chỉ tiêu cho nhân viên GM Mall
 Yêu cầu đầu vào:: [Làm trực tuyến](../../../../1%20Y%C3%AAu%20c%E1%BA%A7u%20%C4%91%E1%BA%A7u%20v%C3%A0o/Theo%20t%C3%ADnh%20ch%E1%BA%A5t%20c%C3%B4ng%20vi%E1%BB%87c/L%C3%A0m%20tr%E1%BB%B1c%20tuy%E1%BA%BFn.md), [Ứng biến](../../../../1%20Y%C3%AAu%20c%E1%BA%A7u%20%C4%91%E1%BA%A7u%20v%C3%A0o/%E1%BB%A8ng%20bi%E1%BA%BFn.md)
 Hình thức:: [Việc làm thời vụ, theo dự án](../../../../2%20H%C3%ACnh%20th%E1%BB%A9c/Vi%E1%BB%87c%20l%C3%A0m%20th%E1%BB%9Di%20v%E1%BB%A5,%20theo%20d%E1%BB%B1%20%C3%A1n.md)
 
-- [Gom nhóm](./Gom%20nh%C3%B3m.md): 50 k/tài khoản tạo mới
-- [Làm nhân viên ảo](./L%C3%A0m%20nh%C3%A2n%20vi%C3%AAn%20%E1%BA%A3o.md): 600k/tuần
-- [Quản lý máy](./Qu%E1%BA%A3n%20l%C3%BD%20m%C3%A1y.md): 5 tr/tháng + quà tặng rất thường xuyên
 - [Giữ tiền hộ](./Gi%E1%BB%AF%20ti%E1%BB%81n%20h%E1%BB%99.md): 60k/stk ngân hàng
+- [Gom nhóm](./Gom%20nh%C3%B3m.md): 50k/tài khoản tạo mới
+- [Làm nhân viên ảo](./L%C3%A0m%20nh%C3%A2n%20vi%C3%AAn%20%E1%BA%A3o.md): 300-600k/tuần
+- [Quản lý máy](./Qu%E1%BA%A3n%20l%C3%BD%20m%C3%A1y.md): 5 tr/tháng + quà tặng rất thường xuyên
 
 
 ## Câu hỏi thường gặp
 ### GM Mall là công ty gì? Chính sách ra sao?
-Bài chi tiết:: [Chính sách công ty GM Mall](../../../../../Ch%C3%ADnh%20s%C3%A1ch%20c%C3%B4ng%20ty/Th%C6%B0%C6%A1ng%20m%E1%BA%A1i%20%C4%91i%E1%BB%87n%20t%E1%BB%AD/GM%20Mall.md)
+Bài chi tiết:: [Chính sách công ty GM Mall](../../../../../Ch%C3%ADnh%20s%C3%A1ch%20c%C3%B4ng%20ty/S%C3%A0n%20th%C6%B0%C6%A1ng%20m%E1%BA%A1i%20%C4%91i%E1%BB%87n%20t%E1%BB%AD/GM%20Mall/index.md)
 
 ### Sao kiếm tiền dễ vậy? Có đáng tin không?
 Công ty có giấy phép kinh doanh số 0318163736 do sở KH & ĐT TP.HCM cấp ngày 14/11/2023, và đã mở 18 văn phòng đại diện ở khắp cả nước với hơn 1000 nhân viên. Nên có vẻ nó an toàn về mặt pháp luật. Tìm trên YouTube, TikTok về GM Mall lừa đảo cũng chưa có ca nào bị quỵt (nếu có hãy báo cho bọn mình). Còn có phải là rửa tiền hay không thì chưa thấy có dấu hiệu.
