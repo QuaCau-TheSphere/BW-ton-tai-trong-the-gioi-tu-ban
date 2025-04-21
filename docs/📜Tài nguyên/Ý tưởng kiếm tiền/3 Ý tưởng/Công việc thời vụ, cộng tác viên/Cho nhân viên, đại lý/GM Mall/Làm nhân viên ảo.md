@@ -1,9 +1,9 @@
 ---
 share: true
 created: 2025-03-25T22:31
-updated: 2025-04-21T13:08
 description: "Số tiền kiếm được: 600k/tuần"
 alias: Làm nhân viên ảo GM Mall
+updated: 2025-04-21T23:41
 ---
 # Làm nhân viên ảo GM Mall 
 Số tiền kiếm được:: 300-600k/tuần
