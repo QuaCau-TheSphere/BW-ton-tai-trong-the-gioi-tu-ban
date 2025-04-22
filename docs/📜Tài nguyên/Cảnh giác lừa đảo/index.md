@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-12-25T10:56
-updated: 2025-04-09T00:12
+updated: 2025-04-22T12:54
 title: Cảnh giác lừa đảo
 ---
 Khái niệm:: [Lừa đảo](../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/L%E1%BB%ABa%20%C4%91%E1%BA%A3o.md)
@@ -11,3 +11,5 @@ Khái niệm:: [Lừa đảo](../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%
 
 [Trang chủ - Chống Lừa Đảo](https://chongluadao.vn/)
 [Chongluadao.vn \| Ho Chi Minh City \| Facebook](https://www.facebook.com/chongluadao.vn)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4oZ9iVPNtGQ?si=8gW_sqXxWgsCX9dA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
