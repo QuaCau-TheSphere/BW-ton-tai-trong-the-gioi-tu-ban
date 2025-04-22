@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-04-21T12:57
-updated: 2025-04-21T15:37
+updated: 2025-04-22T12:56
 ---
 ## Gom nhóm
 ### B0. Vào app, đăng nhập
@@ -10,14 +10,14 @@ Bấm vào `Đặt đơn nhóm` ở cuối màn hình → `Mẹ & Bé` → `Đ�
 ![B5. Gom nhóm (1).jpg](../../../../assets/attachments/B5.%20Gom%20nh%C3%B3m%20(1).jpg)
 ### B2. 
 mua sau đó kéo xuống sẽ thấy chữ "đặt đơn nhóm" màu hồng bên cạnh sẽ có chữ "còn thiếu X người" với số người càng thấp thì càng tốt, mình bấm vào chữ đặt đơn nhóm đó (trường hợp nếu k có thì có thể bấm chữ đặt đơn nhóm to đùng góc 5h) 
-→ bấm "đặt đơn nhóm" 
-→ vào ngay 
-→ "gửi đơn hàng" 
-→ "Thanh toán cân bằng...." 
-→ "Xác định thanh toán" 
+→ bấm `Đặt đơn nhóm` 
+→ `Vào ngay`
+→ `Gửi đơn hàng` 
+→ `Thanh toán cân bằng....` 
+→ `Xác định thanh toán` 
 → nhập PIN 654321 
-→ xong thoát ra vào "Tôi" góc 5h 
-→ thấy chữ "Chờ lấy hàng" bấm vào đó nếu thấy đơn hàng thì đợi đến khi đơn đó hiển thị chữ "Mua lại" (thường tốn 5p) thì bấm vào "Mua lại" 
+→ xong thoát ra vào `Tôi` góc 5h 
+→ thấy chữ `Chờ lấy hàng` bấm vào đó nếu thấy đơn hàng thì đợi đến khi đơn đó hiển thị chữ `Mua lại` (thường tốn 5p) thì bấm vào `Mua lại` 
 → done (mua trúng, bán lại đc 3%) / trường hợp nếu bấm vào ko thấy đơn hàng hoặc đơn hàng biến mất 
 → done (mua ko trúng đc 1%)
 
