@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-18T22:04
-updated: 2025-04-10T21:20
+updated: 2025-04-22T12:55
 ---
 Em nghĩ mọi người đều mong muốn em trả lời thành thật. Vậy trước tiên em sẽ thành thật để mọi người thấy em có thiện chí. Hãy xem là em muốn có được sự chú ý của mọi người, để em được một buổi ngồi nói chuyện với mọi người ngày hôm nay.
 
@@ -32,3 +32,6 @@ Vậy, làm sao để tất cả mọi người ở đây đều có thể nói 
 
 
 Tại sao không thấy việc đó giúp bán thêm nhiều sản phẩm? 
+
+
+3 cuộc họp. Chỉ muốn làm âm thầm. Thấy việc thảo luận với nhau về trường hợp của mình là đã nhân nhượng rồi
