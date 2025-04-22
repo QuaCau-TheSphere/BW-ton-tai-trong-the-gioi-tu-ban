@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-01-19T21:00
-updated: 2025-04-21T21:37
+updated: 2025-04-22T12:42
 title: Chính sách công ty GM Mall
 ---
 ## Chính sách cho khách
@@ -71,20 +71,15 @@ Nếu F3 mua 1tr:
 | > 15         | 15tr  |
 
 ## Chính sách cho trưởng nhóm, giám đốc thị trường
-|                   | Trưởng nhóm | Giám đốc thị trường |
-| ----------------- | ----------- | ------------------- |
-| **Lương chức vị** | 10tr        | 12tr5               |
-| Chỉ tiêu          |             |                     |
-| Phạt              |             |                     |
-- Lương chức vị: 10.000.000VND
-	Ít nhất có 5 nhân viên thu nhập gom nhóm trên 200k mỗi ngày, bớt 1 người bớt 20% lương chức vị
-- Lương quản lý: 10.000.000VND
-	Quản lý, đào tạo, hỗ trợ được 5 nhân viên nhận được lương, bớt 1 người bớt 20% lương quản lý
-Giám đốc thị trường
-- Lương chức vị: 12.500.000VND
-	Ít nhất có 10 nhân viên thu nhập gom nhóm trên 200k mỗi ngày, bớt 1 người bớt 10% lương chức vị
-- Lương quản lý: 12.500.000VND
-	Quản lý, đào tạo, hỗ trợ được 10 nhân viên nhận được lương ít nhất 5.000.000VND bớt 1 người bớt 10% lương quản lý
+|                   | Trưởng nhóm                                                 | Giám đốc thị trường                                                             |
+| ----------------- | ----------------------------------------------------------- | ------------------------------------------------------------------------------- |
+| **Lương chức vị** | 10tr                                                        | 12tr5                                                                           |
+| Chỉ tiêu          | Ít nhất có 5 nhân viên thu nhập gom nhóm trên 200k mỗi ngày | Ít nhất có 10 nhân viên thu nhập gom nhóm trên 200k mỗi ngày                    |
+| Phạt              | bớt 1 người bớt 20% lương chức vị                           | bớt 1 người bớt 10% lương chức vị                                               |
+| **Lương quản lý** | 10tr                                                        | 12tr5                                                                           |
+| Chỉ tiêu          | Quản lý, đào tạo, hỗ trợ được 5 nhân viên nhận được lương   | Quản lý, đào tạo, hỗ trợ được 10 nhân viên nhận được lương ít nhất 5.000.000VND |
+| Phạt              | bớt 1 người bớt 20% lương quản lý                           | bớt 1 người bớt 10% lương quản lý                                                                                |
+
 
 |                         | Khách hàng | Nhân viên dự bị | Nhân viên chính thức | Trưởng nhóm                                      | Giám đốc thị trường                              |
 | ----------------------- | ---------- | --------------- | -------------------- | ------------------------------------------------ | ------------------------------------------------ |
@@ -97,4 +92,3 @@ Giám đốc thị trường
 \*Chỉ tiêu là 15 trưởng nhóm và 15 nhóm nhận lương 15tr. Cứ ít đi 1 trưởng nhóm thì trừ 1tr/khách
 
 
-Thấy việc thảo luận với nhau về trường hợp của mình là đã nhân nhượng rồi
