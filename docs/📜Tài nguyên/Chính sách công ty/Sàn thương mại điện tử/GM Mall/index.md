@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-01-19T21:00
-updated: 2025-04-22T12:42
+updated: 2025-04-23T14:48
 title: Chính sách công ty GM Mall
 ---
 ## Chính sách cho khách
@@ -81,14 +81,13 @@ Nếu F3 mua 1tr:
 | Phạt              | bớt 1 người bớt 20% lương quản lý                           | bớt 1 người bớt 10% lương quản lý                                                                                |
 
 
-|                         | Khách hàng | Nhân viên dự bị | Nhân viên chính thức | Trưởng nhóm                                      | Giám đốc thị trường                              |
-| ----------------------- | ---------- | --------------- | -------------------- | ------------------------------------------------ | ------------------------------------------------ |
-| Thưởng kích cầu mua sắm |            |                 |                      |                                                  |                                                  |
-| Lương tối đa            | ❌         | 15tr*           | 15tr                 | 20tr                                             | 25tr                                             |
-| Thu nhập đội nhóm       | ❌         | ❌              |                      |                                                  |                                                  |
-| Hoa hồng thị trường     | ❌         | ❌              | 2%                   |                                                  |                                                  |
-| Hoa hồng quản lý        | ❌         | ❌              | ❌                   | 50% tổng hoa hồng thị trường tất cả các cấp dưới | 50% tổng hoa hồng thị trường tất cả các cấp dưới |
-
-\*Chỉ tiêu là 15 trưởng nhóm và 15 nhóm nhận lương 15tr. Cứ ít đi 1 trưởng nhóm thì trừ 1tr/khách
+|                     | Khách hàng | Nhân viên dự bị | Nhân viên chính thức | Trưởng nhóm                                      | Giám đốc thị trường                              |
+| ------------------- | ---------- | --------------- | -------------------- | ------------------------------------------------ | ------------------------------------------------ |
+| Tự kinh doanh       | x           |                 |                      |                                                  |                                                  |
+| Lương tối đa        | ❌         | 15tr*           | 15tr                 | 20tr                                             | 25tr                                             |
+| Thu nhập đội nhóm   | ❌         | ❌              |                      |                                                  |                                                  |
+| Hoa hồng thị trường | ❌         | ❌              | 2%                   |                                                  |                                                  |
+| Hoa hồng quản lý    | ❌         | ❌              | ❌                   | 50% tổng hoa hồng thị trường tất cả các cấp dưới | 50% tổng hoa hồng thị trường tất cả các cấp dưới |
 
 
+[Nhân sự khi thăng tiến sẽ làm hụt chỉ tiêu nhân sự của quản lý](../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/M%C3%B4%20h%C3%ACnh%20nh%C3%A2n%20s%E1%BB%B1/%C4%90%E1%BA%A1i%20l%C3%BD,%20l%C6%B0%C6%A1ng%20kho%C3%A1n,%20KPI/Nh%C3%A2n%20s%E1%BB%B1%20khi%20th%C4%83ng%20ti%E1%BA%BFn%20s%E1%BA%BD%20l%C3%A0m%20h%E1%BB%A5t%20ch%E1%BB%89%20ti%C3%AAu%20nh%C3%A2n%20s%E1%BB%B1%20c%E1%BB%A7a%20qu%E1%BA%A3n%20l%C3%BD.md)
