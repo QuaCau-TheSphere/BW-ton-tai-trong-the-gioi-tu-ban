@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-04-20T16:47
-updated: 2025-04-22T13:01
+updated: 2025-04-23T17:07
 alias: Xây dựng quỹ tín dụng vi mô
 ---
 ## Ý tưởng
