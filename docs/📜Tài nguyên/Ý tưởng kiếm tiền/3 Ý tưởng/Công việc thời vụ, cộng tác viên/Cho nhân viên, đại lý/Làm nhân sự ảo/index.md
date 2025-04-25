@@ -4,7 +4,7 @@ created: 2023-09-05T16:17
 aliases:
   - Làm danh tính khác của nhân sự thật
   - Danh sách công việc làm ảo
-updated: 2025-04-24T16:14
+updated: 2025-04-25T17:08
 title: Làm nhân sự ảo
 ---
 Khái niệm:: [Chạy ảo, làm ảo, nhân sự ảo](../../../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Ch%E1%BA%A1y%20%E1%BA%A3o,%20l%C3%A0m%20%E1%BA%A3o,%20nh%C3%A2n%20s%E1%BB%B1%20%E1%BA%A3o.md)
@@ -18,6 +18,9 @@ Một số công ty có người cần tuyển nhân sự ảo:
 - Trung gian thanh toán: [VNPAY](../VNPAY/L%C3%A0m%20nh%C3%A2n%20vi%C3%AAn%20%E1%BA%A3o.md)
 - Tài chính tiêu dùng: [FE Credit](./FE%20Credit.md)
 - Sàn thương mại điện tử: [GM Mall](../GM%20Mall/L%C3%A0m%20nh%C3%A2n%20vi%C3%AAn%20%E1%BA%A3o.md)
+
+> [!important] Nhìn toàn cảnh
+> Công việc này là một phần của [Nhóm chạy chỉ tiêu cho nhân sự](../../../../../../%F0%9F%93%90D%E1%BB%B1%20%C3%A1n/Ch%E1%BA%A1y%20ch%E1%BB%89%20ti%C3%AAu/L%E1%BB%9Di%20m%E1%BB%9Di%20tham%20gia%20nh%C3%B3m%20ch%E1%BA%A1y%20ch%E1%BB%89%20ti%C3%AAu%20cho%20nh%C3%A2n%20s%E1%BB%B1.md). Đọc bài đó để hiểu thêm về mục tiêu dài hạn của dự án cũng như các lợi ích khác của bạn
 
 ## Nơi thảo luận
 ![](https://i.imgur.com/utzUsO2.png)

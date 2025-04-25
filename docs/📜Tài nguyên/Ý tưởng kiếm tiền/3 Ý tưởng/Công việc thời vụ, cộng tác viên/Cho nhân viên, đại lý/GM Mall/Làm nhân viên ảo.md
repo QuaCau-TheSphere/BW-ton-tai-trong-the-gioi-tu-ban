@@ -3,7 +3,7 @@ share: true
 created: 2025-03-25T22:31
 description: "Số tiền kiếm được: 600k/tuần"
 title: Làm nhân viên ảo GM Mall
-updated: 2025-04-25T15:32
+updated: 2025-04-25T17:48
 ---
 Số tiền kiếm được:: tối thiểu 600k, hoặc 1tr5/tháng
 Số người cần tuyển:: 4/5
@@ -18,7 +18,13 @@ Số người cần tuyển:: 4/5
 - Tất cả các số liệu trưởng nhóm sẽ lo
 - Tháng đầu cần đi lên công ty tối thiểu 2 buổi (bao gồm buổi đầu tiên lên xin việc). Các tháng sau 1 buổi. [Địa chỉ tại 13, đường 11, Q2](https://maps.app.goo.gl/1fcuwPmNYAEgZgaL8)
 - Xem [tài liệu cho nhân viên ảo GM Mall](../../../../../../%F0%9F%93%90D%E1%BB%B1%20%C3%A1n/Ch%E1%BA%A1y%20ch%E1%BB%89%20ti%C3%AAu/L%C3%A0m%20nh%C3%A2n%20s%E1%BB%B1%20%E1%BA%A3o/T%C3%A0i%20li%E1%BB%87u%20cho%20t%E1%BB%ABng%20c%C3%B4ng%20ty/T%C3%A0i%20li%E1%BB%87u%20cho%20nh%C3%A2n%20vi%C3%AAn%20%E1%BA%A3o%20GM%20Mall.md) để không bị ú ớ khi bị hỏi
-- Họp online không cần bật cam. Nếu muốn tắt mic thì cũng được, nhưng phải lên gặp thường xuyên hơn, và cũng phải chat được trong lúc họp
+- Để việc bạn đi làm trở nên đáng tin, bạn có thể chọn một trong những cách đối phó sau:
+
+  | Combo | Tắt cam | Tắt mic | Không phải đi gặp thường xuyên | Không phải chat |
+  | ----- | ------- | ------- | ------------------------------ | --------------- |
+  | 1     | ✔       | ❌      | ✔                              | ✔               |
+  | 2     | ❌      | ✔       | ✔                              | ❌              |
+  | 3     | ✔       | ✔       | ❌                             | ❌              |
 
 ### Thưởng
 - Tham gia các buổi họp đột xuất: 50k/30 phút
