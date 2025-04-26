@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-12-23T15:09
-updated: 2025-04-11T19:06
+updated: 2025-04-25T21:50
 title: Tại sao doanh nghiệp khi mua bảo hiểm nhân thọ cho nhân viên lại không bị tính vào thuế thu nhập doanh nghiệp?
 description: Thâm cung bí sử của Thịnh An Phát
 ---
@@ -10,7 +10,7 @@ description: Thâm cung bí sử của Thịnh An Phát
 > [!Important] Lưu ý
 > Những thông tin trong đây đến từ một nguồn thân tín đã có những trải nghiệm trong việc bán sản phẩm này. Điều này có nghĩa là các phát biểu trong đây có khả năng bị thiên lệch và khó tìm được dữ kiện công khai. Có những phát biểu chúng tôi cũng nghi ngờ độ chính xác vì có vẻ mâu thuẫn với những bằng chứng khác, nhưng chúng tôi chưa có điều kiện để chất vấn. Chúng tôi vẫn để vào vì chúng vẫn có vẻ hợp lý và cần thiết để có những giải thích khác. Chúng tôi nỗ lực trong khả năng để kiểm tra lại các lập luận trong đây.
 
-Các công ty có nhiều cách để trốn thuế. Chẳng hạn, để tận dụng việc nhà nước ưu đãi hoặc không thu thuế trong 3, 4 năm đầu, người ta đẻ công ty con rồi phá sản liên tục. Hoặc để được tính như một chi phí vận hành doanh nghiệp, họ có thể mua hoá đơn giả hoặc giả vờ chi tiêu để có hoá đơn mang về. Hoặc thưởng giả cho nhân sự, hoặc giả bảo hiểm xã hội. Nhà nước biết những điều này nhưng không thể kiểm soát được. Chính vì vậy họ cần một cách để dung hoà cho cả hai bên để vẫn tốt cho cả hai. Một bên được giảm thuế, một bên không phải giải quyết đống hậu quả để lại. Một giải pháp như [Thịnh An Phát](../../Ch%C3%ADnh%20s%C3%A1ch%20c%C3%B4ng%20ty/B%E1%BA%A3o%20hi%E1%BB%83m/S%E1%BA%A3n%20ph%E1%BA%A9m/Cathay/%C3%9D%20%C4%91%E1%BB%93%20thi%E1%BA%BFt%20k%E1%BA%BF%20c%E1%BB%A7a%20s%E1%BA%A3n%20ph%E1%BA%A9m%20Th%E1%BB%8Bnh%20An%20Ph%C3%A1t%20c%E1%BB%A7a%20Cathay.md) sẽ thoả mãn được đôi bên.
+Các công ty có nhiều cách để trốn thuế. Chẳng hạn, để tận dụng việc nhà nước ưu đãi hoặc không thu thuế trong 3, 4 năm đầu, người ta đẻ công ty con rồi phá sản liên tục. Hoặc để được tính như một chi phí vận hành doanh nghiệp, họ có thể mua hoá đơn giả hoặc giả vờ chi tiêu để có hoá đơn mang về. Hoặc thưởng giả cho nhân sự, hoặc giả bảo hiểm xã hội. Nhà nước biết những điều này nhưng không thể kiểm soát được. Chính vì vậy họ cần một cách để dung hoà cho cả hai bên để vẫn tốt cho cả hai. Một bên được giảm thuế, một bên không phải giải quyết đống hậu quả để lại. Một giải pháp như [Thịnh An Phát](../../Ch%E1%BB%8Dn%20s%E1%BA%A3n%20ph%E1%BA%A9m%20ph%C3%B9%20h%E1%BB%A3p/B%E1%BA%A3o%20hi%E1%BB%83m/Cathay/%C3%9D%20%C4%91%E1%BB%93%20thi%E1%BA%BFt%20k%E1%BA%BF%20c%E1%BB%A7a%20s%E1%BA%A3n%20ph%E1%BA%A9m%20Th%E1%BB%8Bnh%20An%20Ph%C3%A1t%20c%E1%BB%A7a%20Cathay.md) sẽ thoả mãn được đôi bên.
 
 Hãy quay lại cách một công ty bảo hiểm được thành lập. Để mở bán một sản phẩm bảo hiểm, họ cần kí quỹ một khoảng tiền trước cho nhà nước, để nếu như công ty phá sản thì nhà nước sẽ đứng ra chi trả cho khách hàng. Tuỳ theo mức đóng mà công ty sẽ được bán bao nhiêu sản phẩm. Giả sử để được bán 50 hợp đồng Thịnh An Phát, Cathay phải cống nạp quỹ này 100 tỷ. **Số tiền này có thể xem như một phần thuế đóng trước của bên mua sản phẩm này.** Nên việc này giống như đi mua một tín chỉ carbon vậy: bạn nghĩ là bạn thoát khỏi việc phải đóng thuế, nhưng thực ra là do Cathay đã phải đóng một phần tiền tương đương với thuế của bạn rồi.
 
@@ -18,7 +18,7 @@ Hãy quay lại cách một công ty bảo hiểm được thành lập. Để m
 
 Cần nhớ rằng sản phẩm này được bán một cách đường hoàng, đúng luật chứ không phải là bán chui. Có doanh nghiệp mua một lần 16 cái hợp đồng như vậy. Tháng vừa qua Cathay về rất nhiều hợp đồng này dù chưa tới chương trình tặng vàng, vì nhiều công ty cần tất toán thuế cuối năm, chứ mấy chỉ vàng khuyến mãi chẳng đáng là bao. Và tại sao chương trình khuyến mãi lại chạy đến hết tháng 2? Vì tháng 3 là hạn chót để doanh nghiệp quyết toán thuế. 
 
-Vậy thì mấy chỉ vàng này dùng để làm gì? Để cắt hoa hồng cho khách. Có thể dùng nó để hối lộ kế toán, để kế toán thuyết phục giám đốc quyết định mua sản phẩm này. [Luật cấm đại lý trích hoa hồng để giảm giá](./Lu%E1%BA%ADt%20c%E1%BA%A5m%20%C4%91%E1%BA%A1i%20l%C3%BD%20tr%C3%ADch%20hoa%20h%E1%BB%93ng%20%C4%91%E1%BB%83%20gi%E1%BA%A3m%20gi%C3%A1.md), nhưng ai kiểm tra được điều này.
+Vậy thì mấy chỉ vàng này dùng để làm gì? Để cắt hoa hồng cho khách. Có thể dùng nó để hối lộ kế toán, để kế toán thuyết phục giám đốc quyết định mua sản phẩm này. [Luật cấm đại lý trích hoa hồng để giảm giá](./C%E1%BA%A5m%20%C4%91%E1%BA%A1i%20l%C3%BD%20tr%C3%ADch%20hoa%20h%E1%BB%93ng%20%C4%91%E1%BB%83%20gi%E1%BA%A3m%20gi%C3%A1.md), nhưng ai kiểm tra được điều này?
 
 Những ai làm doanh nghiệp chắc cũng ít khi nghe thấy quảng cáo sản phẩm này. Tại sao Cathay không quảng cáo nhiều hơn? Vì vốn dĩ cái này chỉ dành cho ai có tiền, mà người có tiền người ta không cần nghe quảng cáo. Người ta cần thấy lợi ích. Hơn nữa quảng cáo cần phải dễ hiểu, nghe cái biết mình có cần hay không. Còn với những thứ phức tạp thì cần đại lý đi tiếp thị. 
 
