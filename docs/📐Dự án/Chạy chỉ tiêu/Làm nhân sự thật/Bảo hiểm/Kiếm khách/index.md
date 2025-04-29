@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-09-17T11:13
-updated: 2025-04-04T23:59
+updated: 2025-04-29T00:05
 alias: bán bảo hiểm, thu hút khách hàng
 description: Cam kết không khai thác cảm xúc của họ, mà chỉ muốn nâng đỡ lý tính họ
 title: Kiếm khách
@@ -13,7 +13,7 @@ title: Kiếm khách
 
 ## Công việc 
 Kiểm tra [Giả thiết về tỉ lệ chuyển đổi](../T%C3%A0i%20li%E1%BB%87u%20kh%C3%A1c/Gi%E1%BA%A3%20thi%E1%BA%BFt/Gi%E1%BA%A3%20thi%E1%BA%BFt%20v%E1%BB%81%20t%E1%BB%89%20l%E1%BB%87%20chuy%E1%BB%83n%20%C4%91%E1%BB%95i.md)
-[Xây dựng thương hiệu trên MXH](../../../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/X%C3%A2y%20d%E1%BB%B1ng%20th%C6%B0%C6%A1ng%20hi%E1%BB%87u,%20m%E1%BB%9F%20r%E1%BB%99ng%20m%E1%BB%91i%20quan%20h%E1%BB%87/X%C3%A2y%20d%E1%BB%B1ng%20th%C6%B0%C6%A1ng%20hi%E1%BB%87u%20tr%C3%AAn%20MXH.md)
+[Xây dựng thương hiệu trên MXH](../../../../T%E1%BB%B1%20%C4%91%E1%BB%99ng%20ho%C3%A1/X%C3%A2y%20d%E1%BB%B1ng%20th%C6%B0%C6%A1ng%20hi%E1%BB%87u%20tr%C3%AAn%20MXH.md)
 Đến [Những nơi giúp mở rộng mối quan hệ với doanh nghiệp](../../../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/X%C3%A2y%20d%E1%BB%B1ng%20th%C6%B0%C6%A1ng%20hi%E1%BB%87u,%20m%E1%BB%9F%20r%E1%BB%99ng%20m%E1%BB%91i%20quan%20h%E1%BB%87/Nh%E1%BB%AFng%20n%C6%A1i%20gi%C3%BAp%20m%E1%BB%9F%20r%E1%BB%99ng%20m%E1%BB%91i%20quan%20h%E1%BB%87%20v%E1%BB%9Bi%20doanh%20nghi%E1%BB%87p.md), 
 [Kế hoạch bán bảo hiểm cho cá nhân](./K%E1%BA%BF%20ho%E1%BA%A1ch%20b%C3%A1n%20b%E1%BA%A3o%20hi%E1%BB%83m%20cho%20c%C3%A1%20nh%C3%A2n.md)
 ### Làm cho khách hàng tin mình
