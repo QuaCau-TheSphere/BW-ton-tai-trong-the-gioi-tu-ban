@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-11-09T00:04
-updated: 2025-03-23T23:26
+updated: 2025-04-29T15:00
 ---
 > [''Mong muốn lớn nhất của một người là được thấy mình có ích''](https://www.drdvietnam.org/vi/tin-bon-phuong/18874-mong-muon-lon-nhat-cua-mot-nguoi-la-duoc-thay-minh-co-ich.html) 
 > — Võ Hoàng Yến
@@ -28,11 +28,11 @@ Các công ty bảo hiểm hay có các sự kiện để thu hút khách hàng 
 
 > [!Attention] Nhắc lại mục tiêu
 > Mục tiêu của việc NKT làm bảo hiểm không phải là để tạo sự thương cảm và làm truyền thông, mà là để **khách hàng tiềm năng thấy được bảo hiểm là cần thiết, từ việc có trải nghiệm trực tiếp với câu chuyện của NKT**. Nó làm đem lại nhiều lợi ích hơn là làm từ thiện.
-> Xem thêm:: [Cách để gặp được những người hay suy nghĩ đến cảnh tai nạn, ung thư, chết chóc](../../Ch%E1%BA%A1y%20ch%E1%BB%89%20ti%C3%AAu/L%C3%A0m%20nh%C3%A2n%20s%E1%BB%B1%20th%E1%BA%ADt/B%E1%BA%A3o%20hi%E1%BB%83m/T%C3%A0i%20li%E1%BB%87u/Ki%E1%BA%BFm%20kh%C3%A1ch/C%C3%A1ch%20%C4%91%E1%BB%83%20g%E1%BA%B7p%20%C4%91%C6%B0%E1%BB%A3c%20nh%E1%BB%AFng%20ng%C6%B0%E1%BB%9Di%20hay%20suy%20ngh%C4%A9%20%C4%91%E1%BA%BFn%20c%E1%BA%A3nh%20tai%20n%E1%BA%A1n,%20ung%20th%C6%B0,%20ch%E1%BA%BFt%20ch%C3%B3c.md)
+> Xem thêm:: [Cách để gặp được những người hay suy nghĩ đến cảnh tai nạn, ung thư, chết chóc](../../Ch%E1%BA%A1y%20ch%E1%BB%89%20ti%C3%AAu/L%C3%A0m%20nh%C3%A2n%20s%E1%BB%B1%20th%E1%BA%ADt/B%E1%BA%A3o%20hi%E1%BB%83m/Ki%E1%BA%BFm%20kh%C3%A1ch/Ng%C6%B0%E1%BB%9Di%20hay%20suy%20ngh%C4%A9%20%C4%91%E1%BA%BFn%20c%E1%BA%A3nh%20tai%20n%E1%BA%A1n,%20ung%20th%C6%B0,%20ch%E1%BA%BFt%20ch%C3%B3c/C%C3%A1ch%20%C4%91%E1%BB%83%20g%E1%BA%B7p%20%C4%91%C6%B0%E1%BB%A3c%20nh%E1%BB%AFng%20ng%C6%B0%E1%BB%9Di%20hay%20suy%20ngh%C4%A9%20%C4%91%E1%BA%BFn%20c%E1%BA%A3nh%20tai%20n%E1%BA%A1n,%20ung%20th%C6%B0,%20ch%E1%BA%BFt%20ch%C3%B3c.md)
 
 ## Hành động
 Kêu gọi các công ty bảo hiểm tạo động lực để NKT muốn đóng góp cho họ, kể cả khi họ đã bị từ chối bảo hiểm:
-- Trong [các buổi OPP](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Ch%C3%ADnh%20s%C3%A1ch%20c%C3%B4ng%20ty/B%E1%BA%A3o%20hi%E1%BB%83m/S%E1%BB%B1%20ki%E1%BB%87n/M%E1%BB%A5c%20%C4%91%C3%ADch%20c%E1%BB%A7a%20OPP.md) như xem phim, dã ngoại, giải chạy, từ thiện, v.v., ghi thêm vào các sản phẩm truyền thông rằng họ mời cả NKT tham gia
+- Trong [các buổi OPP](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/T%E1%BB%95%20ch%E1%BB%A9c%20t%C3%A0i%20ch%C3%ADnh/B%E1%BA%A3o%20hi%E1%BB%83m/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20ph%C3%A1t%20tri%E1%BB%83n%20th%E1%BB%8B%20tr%C6%B0%E1%BB%9Dng/C%C3%A1c%20bu%E1%BB%95i%20s%E1%BB%B1%20ki%E1%BB%87n%20m%E1%BB%9Di%20kh%C3%A1ch%20c%C3%B4ng%20ty%20(OPP)%20kh%C3%B4ng%20ch%E1%BB%89%20%C4%91%E1%BB%83%20d%E1%BB%85%20ch%E1%BB%91t%20h%E1%BB%A3p%20%C4%91%E1%BB%93ng,%20m%C3%A0%20c%C3%B2n%20%C4%91%E1%BB%83%20%C4%91%C3%A1nh%20gi%C3%A1%20%C4%91%E1%BA%A1i%20l%C3%BD%20v%C3%A0%20t%E1%BA%ADp%20cho%20h%E1%BB%8D%20kh%E1%BA%A3%20n%C4%83ng%20t%E1%BB%B1%20t%E1%BB%95%20ch%E1%BB%A9c%20c%C3%A1c%20bu%E1%BB%95i%20c%E1%BB%A7a%20ri%C3%AAng%20m%C3%ACnh.md) như xem phim, dã ngoại, giải chạy, từ thiện, v.v., ghi thêm vào các sản phẩm truyền thông rằng họ mời cả NKT tham gia
 - Tham gia vào các buổi sinh hoạt, buổi chia sẻ, chương trình, dự án do các tổ chức hỗ trợ NKT tổ chức
 - Tổ chức các buổi OPP có trọng tâm về NKT:
     - triển lãm các tác phẩm nghệ thuật của các tác giả NKT
