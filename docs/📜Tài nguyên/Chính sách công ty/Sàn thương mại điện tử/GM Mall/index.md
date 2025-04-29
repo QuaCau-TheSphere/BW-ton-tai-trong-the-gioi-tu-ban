@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-01-19T21:00
-updated: 2025-04-23T17:17
+updated: 2025-04-27T19:56
 title: Chính sách công ty GM Mall
 ---
 ## Chính sách cho khách
@@ -26,8 +26,10 @@ Thời gian chờ từ lúc nhận yêu cầu rút đến khi tiền về là 2 
 
 [Do phí rút tiền bằng với tiền lời khi nhận được hàng, nên cơ bản khách sẽ không thể dùng GM Mall làm nơi để kiếm lời được. Chỉ có các cấp phía trên khách mới được hưởng lợi](./Do%20ph%C3%AD%20r%C3%BAt%20ti%E1%BB%81n%20b%E1%BA%B1ng%20v%E1%BB%9Bi%20ti%E1%BB%81n%20l%E1%BB%9Di%20khi%20nh%E1%BA%ADn%20%C4%91%C6%B0%E1%BB%A3c%20h%C3%A0ng,%20n%C3%AAn%20c%C6%A1%20b%E1%BA%A3n%20kh%C3%A1ch%20s%E1%BA%BD%20kh%C3%B4ng%20th%E1%BB%83%20d%C3%B9ng%20GM%20Mall%20l%C3%A0m%20n%C6%A1i%20%C4%91%E1%BB%83%20ki%E1%BA%BFm%20l%E1%BB%9Di%20%C4%91%C6%B0%E1%BB%A3c.%20Ch%E1%BB%89%20c%C3%B3%20c%C3%A1c%20c%E1%BA%A5p%20ph%C3%ADa%20tr%C3%AAn%20kh%C3%A1ch%20m%E1%BB%9Bi%20%C4%91%C6%B0%E1%BB%A3c%20h%C6%B0%E1%BB%9Fng%20l%E1%BB%A3i.md)
 
+Câu hỏi:: khách muốn mua sản phẩm từ một cửa hàng cụ thể thì công ty có mua ko?
+
 ## Chính sách cho nhân viên
-Lương nhân viên bao gồm:
+Nhân viên ăn lương từ hai đầu:
 - 1tr/khách hàng hiệu quả
 - 2% từ tất cả các cấp khách hàng, hoặc nhân viên là F1
 
