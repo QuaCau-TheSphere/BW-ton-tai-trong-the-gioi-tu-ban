@@ -1,8 +1,8 @@
 ---
 share: true
 created: 2024-09-08T10:26
-updated: 2024-09-22T00:55
+updated: 2025-04-29T15:21
 ---
-Khái niệm:: 
-[Ngành bảo hiểm không có nhân viên bán hàng, chỉ có đại lý](./Ng%C3%A0nh%20b%E1%BA%A3o%20hi%E1%BB%83m%20kh%C3%B4ng%20c%C3%B3%20nh%C3%A2n%20vi%C3%AAn%20b%C3%A1n%20h%C3%A0ng,%20ch%E1%BB%89%20c%C3%B3%20%C4%91%E1%BA%A1i%20l%C3%BD.md)
+Khái niệm:: [Hợp đồng](../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/H%E1%BB%A3p%20%C4%91%E1%BB%93ng.md)
+[Nếu khách hàng không rõ ngay từ đầu thì sao còn ký. Nếu đã ký thì là biết rõ rồi](../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Ni%E1%BB%81m%20tin,%20di%E1%BB%85n%20ng%C3%B4n/Lu%E1%BA%ADt%20ph%C3%A1p/N%E1%BA%BFu%20kh%C3%A1ch%20h%C3%A0ng%20kh%C3%B4ng%20r%C3%B5%20ngay%20t%E1%BB%AB%20%C4%91%E1%BA%A7u%20th%C3%AC%20sao%20c%C3%B2n%20k%C3%BD.%20N%E1%BA%BFu%20%C4%91%C3%A3%20k%C3%BD%20th%C3%AC%20l%C3%A0%20bi%E1%BA%BFt%20r%C3%B5%20r%E1%BB%93i.md)
 Nguồn:: 
