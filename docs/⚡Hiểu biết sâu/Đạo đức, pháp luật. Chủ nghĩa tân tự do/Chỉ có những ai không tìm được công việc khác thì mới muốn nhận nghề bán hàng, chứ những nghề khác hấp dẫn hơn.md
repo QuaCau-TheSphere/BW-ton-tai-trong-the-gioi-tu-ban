@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-22T13:14
-updated: 2025-04-24T12:28
+updated: 2025-04-29T10:52
 ---
 Khái niệm:: [Bán hàng](../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/B%C3%A1n%20h%C3%A0ng.md)
 
@@ -21,3 +21,5 @@ Nói chung, một khi việc bán hàng đã bị áp chỉ tiêu thì không th
 Cách tốt nhất để giúp họ là khiến cho các công việc nâng cao nhận thức kia kiếm được nhiều tiền hơn, hoặc khiến cho các công ty chuyển đổi sang mô hình không áp chỉ tiêu, hoặc đáp ứng các nhu cầu của họ mà không cần tới tiền. Việc cố gắng [Tạo thêm sự hấp dẫn cho công việc bán hàng](../../%F0%9F%93%90D%E1%BB%B1%20%C3%A1n/M%E1%BA%A1ng%20k%E1%BA%BFt%20n%E1%BB%91i%20nhu%20c%E1%BA%A7u/L%C3%A0m%20sao%20%C4%91%E1%BB%83%20m%E1%BB%99t%20ng%C6%B0%E1%BB%9Di%20th%E1%BA%A5y%20c%C3%B4ng%20vi%E1%BB%87c%20h%E1%BA%A5p%20d%E1%BA%ABn%20h%C6%A1n.md) chỉ là sự thoả hiệp với sự cấp bách, chứ không đả động gì tới lý do chính yếu. Nhưng ý tưởng tốt hơn nữa là làm cho người bán [có tiếng nói về cách họ sản xuất, những gì họ sản xuất và lợi nhuận mà họ tạo ra được sử dụng như thế nào](./Ch%E1%BB%A7%20ngh%C4%A9a%20x%C3%A3%20h%E1%BB%99i/C%C3%A1c%20t%E1%BA%ADp%20%C4%91o%C3%A0n%20l%C3%A0%20h%C3%ACnh%20th%E1%BB%A9c%20c%E1%BB%A7a%20c%C3%A1c%20ch%E1%BA%BF%20%C4%91%E1%BB%99%20%C4%91%E1%BB%99c%20t%C3%A0i%20c%C3%B3%20th%E1%BB%A9%20b%E1%BA%ADc.md). Đi một hồi thì sẽ thành việc thành lập công đoàn, chống chủ nghĩa tư bản, tham gia các phong trào chủ nghĩa xã hội.
 
 Bài chi tiết:: [Nhóm chạy chỉ tiêu cho nhân sự](../../%F0%9F%93%90D%E1%BB%B1%20%C3%A1n/Ch%E1%BA%A1y%20ch%E1%BB%89%20ti%C3%AAu/index.md)
+
+[Công việc bán hàng có lộ trình thăng tiến đơn giản vì không cần phải đợi trống chỗ từ cấp trên, cứ làm đủ chỉ tiêu là lên chức](../Ki%E1%BA%BFm%20ti%E1%BB%81n/B%C3%A1n%20h%C3%A0ng/C%C3%B4ng%20vi%E1%BB%87c%20b%C3%A1n%20h%C3%A0ng%20c%C3%B3%20l%E1%BB%99%20tr%C3%ACnh%20th%C4%83ng%20ti%E1%BA%BFn%20%C4%91%C6%A1n%20gi%E1%BA%A3n%20v%C3%AC%20kh%C3%B4ng%20c%E1%BA%A7n%20ph%E1%BA%A3i%20%C4%91%E1%BB%A3i%20tr%E1%BB%91ng%20ch%E1%BB%97%20t%E1%BB%AB%20c%E1%BA%A5p%20tr%C3%AAn,%20c%E1%BB%A9%20l%C3%A0m%20%C4%91%E1%BB%A7%20ch%E1%BB%89%20ti%C3%AAu%20l%C3%A0%20l%C3%AAn%20ch%E1%BB%A9c.md)
