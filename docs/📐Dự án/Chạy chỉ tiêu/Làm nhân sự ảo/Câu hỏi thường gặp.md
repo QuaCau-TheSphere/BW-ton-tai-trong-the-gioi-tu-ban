@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2025-05-05T20:21
+updated: 2025-05-06T01:55
 title: Câu hỏi thường gặp cho công việc làm nhân sự ảo
 ---
 ## Tôi cần chuẩn bị gì?
@@ -19,7 +19,7 @@ Bị người chạy thật nhắc khi đang làm việc khác
 
 
 
-> [!NOTE] Bạn có biết?
+> [!NOTE] Mở rộng
 > Có lẽ đây là một phần trong sự mâu thuẫn giữa hệ quả luận (consequentialism) và đạo nghĩa luận (deontology).
 
 ## Tôi thấy lừa dối người không có lợi dụng tôi là điều không nên
@@ -41,5 +41,4 @@ Cần sự thiếu bằng chứng để có thể tự thuyết phục bản th�
 [Đối với công ty, nhân sự có cộng tác viên riêng, nhân sự ảo, người đại diện nhóm, bán việc là những cái tên khác nhau cho cùng một thứ](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/M%C3%B4%20h%C3%ACnh%20nh%C3%A2n%20s%E1%BB%B1/%C4%90%E1%BB%91i%20v%E1%BB%9Bi%20c%C3%B4ng%20ty,%20nh%C3%A2n%20s%E1%BB%B1%20c%C3%B3%20c%E1%BB%99ng%20t%C3%A1c%20vi%C3%AAn%20ri%C3%AAng,%20nh%C3%A2n%20s%E1%BB%B1%20%E1%BA%A3o,%20ng%C6%B0%E1%BB%9Di%20%C4%91%E1%BA%A1i%20di%E1%BB%87n%20nh%C3%B3m,%20b%C3%A1n%20vi%E1%BB%87c%20l%C3%A0%20nh%E1%BB%AFng%20c%C3%A1i%20t%C3%AAn%20kh%C3%A1c%20nhau%20cho%20c%C3%B9ng%20m%E1%BB%99t%20th%E1%BB%A9.md). [Đối với nhân viên, người làm cộng tác viên cho mình, dịch vụ thuê ngoài, trợ lý riêng là những cái tên khác nhau cho cùng một thứ](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/M%C3%B4%20h%C3%ACnh%20nh%C3%A2n%20s%E1%BB%B1/%C4%90%E1%BB%91i%20v%E1%BB%9Bi%20nh%C3%A2n%20vi%C3%AAn,%20ng%C6%B0%E1%BB%9Di%20l%C3%A0m%20c%E1%BB%99ng%20t%C3%A1c%20vi%C3%AAn%20cho%20m%C3%ACnh,%20d%E1%BB%8Bch%20v%E1%BB%A5%20thu%C3%AA%20ngo%C3%A0i,%20tr%E1%BB%A3%20l%C3%BD%20ri%C3%AAng%20l%C3%A0%20nh%E1%BB%AFng%20c%C3%A1i%20t%C3%AAn%20kh%C3%A1c%20nhau%20cho%20c%C3%B9ng%20m%E1%BB%99t%20th%E1%BB%A9.md)
 
 
-## Tôi không chắc mình có thể xử lý linh hoạt khi 
-
+## Tôi không chắc mình có thể xử lý linh hoạt khi bị hỏi đến
