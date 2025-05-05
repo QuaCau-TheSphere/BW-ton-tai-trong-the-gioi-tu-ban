@@ -1,10 +1,10 @@
 ---
 share: true
 created: 2025-04-25T16:35
-updated: 2025-05-05T19:49
+updated: 2025-05-06T02:00
 ---
 
-## [Làm nhân viên ảo GM Mall](../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/%C3%9D%20t%C6%B0%E1%BB%9Fng%20ki%E1%BA%BFm%20ti%E1%BB%81n/3%20%C3%9D%20t%C6%B0%E1%BB%9Fng/C%C3%B4ng%20vi%E1%BB%87c%20th%E1%BB%9Di%20v%E1%BB%A5,%20tr%E1%BA%A3%20ti%E1%BB%81n%20li%E1%BB%81n/Cho%20nh%C3%A2n%20vi%C3%AAn,%20%C4%91%E1%BA%A1i%20l%C3%BD/GM%20Mall/L%C3%A0m%20nh%C3%A2n%20vi%C3%AAn%20%E1%BA%A3o.md)
+## [Làm nhân viên ảo GM Mall](../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/%C3%9D%20t%C6%B0%E1%BB%9Fng%20ki%E1%BA%BFm%20ti%E1%BB%81n/3%20%C3%9D%20t%C6%B0%E1%BB%9Fng/C%C3%B4ng%20vi%E1%BB%87c%20th%E1%BB%9Di%20v%E1%BB%A5,%20c%E1%BB%99ng%20t%C3%A1c%20vi%C3%AAn/Cho%20nh%C3%A2n%20vi%C3%AAn,%20%C4%91%E1%BA%A1i%20l%C3%BD/GM%20Mall/L%C3%A0m%20nh%C3%A2n%20vi%C3%AAn%20%E1%BA%A3o.md)
 ### [24-04-2025](24-04-2025.md)
 22:56 [Profile](https://www.facebook.com/qua.cau.the.sphere/posts/pfbid02pgkTzWTpwdkxQCBdBS8s5Az2ibsphKeWxUYYRr2dFzV8QjbSx2bEwCFrruKhtGYXl)
 23:10 Hoàng Nhi like
@@ -22,3 +22,6 @@ updated: 2025-05-05T19:49
 [03-05-2025](03-05-2025.md) 16:36 3 like
 #### Khác
 02:04 [Log in to Facebook](https://www.facebook.com/groups/1085777964949551/pending_posts/2639247499602582/)
+
+### [06-05-2025](06-05-2025.md)
+01:59 [việc làm lương liền \| # Tuyển nhân viên ảo \| Facebook](https://www.facebook.com/groups/216042540029525/posts/1038770124423425/)
