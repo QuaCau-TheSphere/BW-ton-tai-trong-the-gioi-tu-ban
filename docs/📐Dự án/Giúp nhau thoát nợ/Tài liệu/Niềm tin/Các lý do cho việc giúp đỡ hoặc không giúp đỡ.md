@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-11-02T00:57
-updated: 2025-04-20T18:06
+updated: 2025-05-08T17:04
 alias: được và mất, cân nhắc lợi hại
 ---
 Nếu chỉ quy về tiền thì đơn giản rồi, nhưng có những thứ có muốn quy ra tiền cũng không biết phải làm thế nào.
@@ -9,11 +9,6 @@ Nếu chỉ quy về tiền thì đơn giản rồi, nhưng có những thứ c�
 Xem thêm:: [Các khó khăn của người cần vay và lý do từ chối cho vay](../C%C3%A1c%20kh%C3%B3%20kh%C4%83n%20c%E1%BB%A7a%20ng%C6%B0%E1%BB%9Di%20c%E1%BA%A7n%20vay%20v%C3%A0%20l%C3%BD%20do%20t%E1%BB%AB%20ch%E1%BB%91i%20cho%20vay.md)
 
 ## Lý do muốn giúp
-### Lợi ích
-- Có được những công cụ, hiểu biết mà đằng nào cũng cần trong quá trình làm. Bây giờ giúp thì chỉ phải đi tìm hiểu chúng sớm hơn kế hoạch thôi
-- Cơ hội làm việc sâu với người sẽ cần sản phẩm mình làm ra
-- Thấy có khả năng cao là được họ giúp ngược lại sau này 
-
 ### Đạo đức
 - Thấy việc bỏ mặc họ là tránh né sự thật là mình là người có đặc quyền
 - Nếu không ta thì ai. Nếu không phải bây giờ thì bao giờ? 
@@ -28,6 +23,13 @@ Xem thêm:: [Các khó khăn của người cần vay và lý do từ chối cho
 - Thấy họ là một người đã rất nỗ lực để học hỏi
 - Thấy mình cũng đâu có phải giúp gì quá nhiều, và những việc mình có thể cố hơn một chút, mà có tác động lớn với họ. Tự thân họ cũng phải làm rất nhiều rồi.
 - Thấy con nít không có tội. Muốn nó được tiếp tục ở cạnh bố mẹ
+
+### Lợi ích thứ cấp
+- Có được những công cụ, hiểu biết mà đằng nào cũng cần trong quá trình làm. Bây giờ giúp thì chỉ phải đi tìm hiểu chúng sớm hơn kế hoạch thôi
+- Cơ hội làm việc sâu với người sẽ cần sản phẩm mình làm ra
+- Thấy có khả năng cao là được họ giúp ngược lại sau này 
+- Quan sát sự thay đổi của một con người (Nhân học nửa mùa) 
+- Cũng không khác gì làm startup cả
 
 ## Các lập luận để không giúp
 ### Các rủi ro cho bản thân

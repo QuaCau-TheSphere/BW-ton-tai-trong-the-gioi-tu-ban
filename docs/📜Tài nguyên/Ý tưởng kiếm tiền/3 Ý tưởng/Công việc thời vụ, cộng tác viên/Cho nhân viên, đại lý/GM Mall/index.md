@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-04-21T15:33
-updated: 2025-04-25T16:48
+updated: 2025-05-08T13:57
 title: Nhóm chạy chỉ tiêu cho nhân viên GM Mall
 ---
 Yêu cầu đầu vào:: [Làm trực tuyến](../../../../1%20Y%C3%AAu%20c%E1%BA%A7u%20%C4%91%E1%BA%A7u%20v%C3%A0o/Theo%20t%C3%ADnh%20ch%E1%BA%A5t%20c%C3%B4ng%20vi%E1%BB%87c/L%C3%A0m%20tr%E1%BB%B1c%20tuy%E1%BA%BFn.md), [Ứng biến](../../../../1%20Y%C3%AAu%20c%E1%BA%A7u%20%C4%91%E1%BA%A7u%20v%C3%A0o/%E1%BB%A8ng%20bi%E1%BA%BFn.md)
@@ -10,11 +10,12 @@ Hình thức:: [Việc làm thời vụ, theo dự án](../../../../2%20H%C3%ACn
 > [!important] Nhìn toàn cảnh
 > Công việc này là một phần của [Nhóm chạy chỉ tiêu cho nhân sự](../../../../../../%F0%9F%93%90D%E1%BB%B1%20%C3%A1n/Ch%E1%BA%A1y%20ch%E1%BB%89%20ti%C3%AAu/L%E1%BB%9Di%20m%E1%BB%9Di%20tham%20gia%20nh%C3%B3m%20ch%E1%BA%A1y%20ch%E1%BB%89%20ti%C3%AAu%20cho%20nh%C3%A2n%20s%E1%BB%B1.md). Đọc bài đó để hiểu thêm về mục tiêu dài hạn của dự án cũng như các lợi ích khác của bạn
 
-- [Giữ tiền hộ](./Gi%E1%BB%AF%20ti%E1%BB%81n%20h%E1%BB%99.md): 60k/stk ngân hàng
 - [Gom nhóm](./Gom%20nh%C3%B3m.md): 50k/tài khoản tạo mới
-- [Quản lý máy](./Qu%E1%BA%A3n%20l%C3%BD%20m%C3%A1y.md): 5tr/tháng + quà tặng rất thường xuyên
 - [Làm nhân viên ảo](./L%C3%A0m%20nh%C3%A2n%20vi%C3%AAn%20%E1%BA%A3o.md): tối thiểu 600k, hoặc 1tr5/tháng
+- [Giữ tiền hộ](./Gi%E1%BB%AF%20ti%E1%BB%81n%20h%E1%BB%99.md): 60k/stk ngân hàng
+- [Quản lý máy](./Qu%E1%BA%A3n%20l%C3%BD%20m%C3%A1y.md): 5tr/tháng + quà tặng rất thường xuyên
 - [Nhận hàng bán lại](./Nh%E1%BA%ADn%20h%C3%A0ng%20b%C3%A1n%20l%E1%BA%A1i.md): \-
+- [Tạo các nhóm Zalo](./T%E1%BA%A1o%20c%C3%A1c%20nh%C3%B3m%20Zalo.md): 300k/10 nhóm Zalo 10 acc khác nhau
 
 
 ## Câu hỏi thường gặp

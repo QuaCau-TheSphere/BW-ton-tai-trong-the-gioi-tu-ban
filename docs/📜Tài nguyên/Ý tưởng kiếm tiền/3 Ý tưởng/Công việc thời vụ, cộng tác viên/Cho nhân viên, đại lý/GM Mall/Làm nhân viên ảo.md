@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-25T22:31
-updated: 2025-05-06T01:26
+updated: 2025-05-06T12:09
 description: "Số tiền kiếm được: 600k, hoặc 1tr5/tháng"
 title: Làm nhân viên ảo GM Mall
 ---
@@ -17,11 +17,11 @@ Nếu bạn chưa biết đây là công việc gì, đọc bài [Làm nhân vi�
 - Ưu tiên những người có kinh nghiệm làm ảo hay đi hội thảo làm khách ảo
 - Tất cả các số liệu trưởng nhóm sẽ lo
 - Xem [tài liệu cho nhân viên ảo GM Mall](../../../../../../%F0%9F%93%90D%E1%BB%B1%20%C3%A1n/Ch%E1%BA%A1y%20ch%E1%BB%89%20ti%C3%AAu/L%C3%A0m%20nh%C3%A2n%20s%E1%BB%B1%20%E1%BA%A3o/T%C3%A0i%20li%E1%BB%87u%20cho%20t%E1%BB%ABng%20c%C3%B4ng%20ty/T%C3%A0i%20li%E1%BB%87u%20cho%20nh%C3%A2n%20vi%C3%AAn%20%E1%BA%A3o%20GM%20Mall.md) để không bị ú ớ khi bị hỏi
-- Thỉnh thoảng sẽ có những buổi không phải họp
-- Việc cấp trên trông thấy bạn có đi làm thật là quan trọng. Chính vì như vậy, trong buổi họp:
-	- Nếu bạn **muốn tắt mic, tắt cam**: bạn phải chat được và phải lên được công ty thường xuyên
-	- Nếu bạn **không muốn lên thường xuyên**: bạn phải bật mic để trả lời, hoặc bật cam và chat 
-- Tháng đầu cần đi lên công ty tối thiểu 2 buổi (bao gồm buổi đầu tiên lên xin việc). Các tháng sau 1 buổi. Nếu ở TPHCM thì địa chỉ tại [13, đường 11, Q2](https://maps.app.goo.gl/1fcuwPmNYAEgZgaL8). Ở nơi khác thì sẽ có văn phòng tại nơi đó.
+- Không phải ngày nào cũng có họp. Thỉnh thoảng sẽ có những buổi không họp
+- Việc cấp trên trông thấy bạn có đi làm thật là quan trọng. Chính vì như vậy:
+	- Nếu bạn **muốn tắt mic, tắt cam trong buổi họp**: bạn phải chat được và phải lên văn phòng thường xuyên
+	- Nếu bạn **không muốn lên văn phòng thường xuyên**: bạn phải bật mic để trả lời, hoặc bật cam và chat 
+- Tháng đầu cần đi lên văn phòng tối thiểu 2 buổi (bao gồm buổi đầu tiên lên xin việc). Các tháng sau 1 buổi. 
 - Một tài khoản Zalo với tên của bạn sẽ được tạo để được thêm vào các nhóm nhân viên. Hoặc bạn phải chuyển tiếp ảnh báo cáo mỗi ngày
 
 ### Thưởng
