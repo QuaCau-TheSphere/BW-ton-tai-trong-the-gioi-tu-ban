@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-01-19T21:00
-updated: 2025-05-03T10:36
+updated: 2025-05-07T10:39
 title: Chính sách công ty GM Mall
 ---
 ## Chính sách cho khách
@@ -34,6 +34,8 @@ Nhân viên ăn lương từ hai đầu:
 - 2% từ tất cả các cấp khách hàng, hoặc nhân viên là F1
 
 Từ 5 khách hàng hiệu quả trở lên mới có lương. 
+
+Mỗi người có một ngày xét khác nhau
 
 ### Khách hàng hiệu quả
 Nhân viên được tính là có một khách hàng hiệu quả khi:
