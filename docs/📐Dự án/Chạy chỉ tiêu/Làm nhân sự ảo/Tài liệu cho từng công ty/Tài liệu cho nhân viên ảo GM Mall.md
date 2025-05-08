@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-04-21T12:57
-updated: 2025-05-08T13:57
+updated: 2025-05-08T22:56
 ---
 ## Gom nhóm
 ### B0. Vào app, đăng nhập
@@ -39,4 +39,4 @@ mua sau đó kéo xuống sẽ thấy chữ "đặt đơn nhóm" màu hồng bê
 - Cứ F1 mua hàng là mình đc 10%, F2 5%, F3 2%, mình là sale đc thêm 2% nữa. 10 ngày sau tiền hoàn về cho người mua.
 - 1 nhân viên có 5KH mua đơn phúc lợi này và có nhóm 5 nhóm zalo sẽ đc tính là 1 KH tích cực, 5KH tích cực là nhận lương 5tr, 15KH tích cực là lương 15tr
 
-Xem thêm:: [Chính sách công ty GM Mall](../../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Ch%C3%ADnh%20s%C3%A1ch%20c%C3%B4ng%20ty/S%C3%A0n%20th%C6%B0%C6%A1ng%20m%E1%BA%A1i%20%C4%91i%E1%BB%87n%20t%E1%BB%AD/GM%20Mall/index.md)
+Xem thêm:: [Chính sách nhân viên GM Mall](../../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Ch%C3%ADnh%20s%C3%A1ch%20c%C3%B4ng%20ty/S%C3%A0n%20th%C6%B0%C6%A1ng%20m%E1%BA%A1i%20%C4%91i%E1%BB%87n%20t%E1%BB%AD/GM%20Mall/Nh%C3%A2n%20s%E1%BB%B1/Ch%C3%ADnh%20s%C3%A1ch%20cho%20nh%C3%A2n%20vi%C3%AAn.md)
