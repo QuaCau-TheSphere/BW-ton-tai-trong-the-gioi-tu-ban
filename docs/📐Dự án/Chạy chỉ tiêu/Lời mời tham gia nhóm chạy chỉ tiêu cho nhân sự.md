@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-09-27T13:00
-updated: 2025-05-08T20:18
+updated: 2025-05-08T23:05
 ---
 Nhân viên bán hàng của các công ty thường được áp đặt chỉ tiêu (KPI). Khi các công ty đặt việc tối đa hoá lợi nhuận lên hàng đầu, [họ sẽ thấy việc trả lương là đã đủ để nhân viên phải cống hiến cho mình](../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%C4%90%E1%BA%A1o%20%C4%91%E1%BB%A9c,%20ph%C3%A1p%20lu%E1%BA%ADt.%20Kinh%20t%E1%BA%BF%20ch%C3%ADnh%20tr%E1%BB%8B/Ch%E1%BB%A7%20ngh%C4%A9a%20t%C6%B0%20b%E1%BA%A3n,%20t%C3%A2n%20t%E1%BB%B1%20do/C%C3%B4ng%20ty%20th%E1%BA%A5y%20vi%E1%BB%87c%20tr%E1%BA%A3%20ti%E1%BB%81n%20l%C3%A0%20%C4%91%C3%A3%20%C4%91%E1%BB%A7%20%C4%91%E1%BB%83%20nh%C3%A2n%20vi%C3%AAn%20ph%E1%BA%A3i%20c%E1%BB%91ng%20hi%E1%BA%BFn%20cho%20m%C3%ACnh.md), và áp đặt các chỉ tiêu (KPI) hằng tháng, và dùng hoa hồng để tạo động lực. Nhóm này sẽ cùng nhau giải quyết vấn đề đó.
 
@@ -13,7 +13,7 @@ Ví dụ, công việc [làm nhân viên ảo GM Mall](../../%F0%9F%93%9CT%C3%A0
 
 ### Sự tự quyết về công việc, sự bình đẳng với mọi người, sự minh bạch về thông tin
 - Các quyết định đều hỏi ý kiến bạn
-- Tất cả các câu hỏi đều được chào đón và trả lời
+- Tất cả các câu hỏi đều được chào đón và trả lời. VD: lý do chọn mức thù lao, tình hình cuộc sống của các thành viên, v.v.
 - Các thông tin, kiến thức, tài nguyên sẽ được tổng hợp một cách có hệ thống, được tự động tính toán và trình bày trực quan, không đẩy gánh nặng xử lý sang cho bạn, hạn chế tình trạng ém thông tin, chèn ép từ phía các công ty
 
 ### Sự phát triển bản thân và cơ hội tiếp cận tới các nguồn thông tin, tài nguyên
