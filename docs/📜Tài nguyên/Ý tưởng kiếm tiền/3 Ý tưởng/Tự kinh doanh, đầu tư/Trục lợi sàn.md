@@ -2,10 +2,10 @@
 share: true
 description: "Số tiền kiếm được: "
 created: 2025-04-26T20:17
-updated: 2025-05-08T23:09
+updated: 2025-05-09T22:03
 ---
 
-Tính chất công việc:: [Nắm được nhu cầu doanh nghiệp](../../1.%20T%C3%ADnh%20ch%E1%BA%A5t%20c%C3%B4ng%20vi%E1%BB%87c/Theo%20nguy%C3%AAn%20li%E1%BB%87u,%20ngu%E1%BB%93n%20th%C3%B4ng%20tin/N%E1%BA%AFm%20%C4%91%C6%B0%E1%BB%A3c%20nhu%20c%E1%BA%A7u%20doanh%20nghi%E1%BB%87p.md)
+Tính chất công việc:: [Cần nắm được nhu cầu doanh nghiệp](../../1.%20T%C3%ADnh%20ch%E1%BA%A5t%20c%C3%B4ng%20vi%E1%BB%87c/Theo%20nguy%C3%AAn%20li%E1%BB%87u,%20ngu%E1%BB%93n%20th%C3%B4ng%20tin/C%E1%BA%A7n%20n%E1%BA%AFm%20%C4%91%C6%B0%E1%BB%A3c%20nhu%20c%E1%BA%A7u%20doanh%20nghi%E1%BB%87p.md)
 Hình thức:: [Việc làm thời vụ, theo dự án](../../2%20H%C3%ACnh%20th%E1%BB%A9c/Vi%E1%BB%87c%20l%C3%A0m%20th%E1%BB%9Di%20v%E1%BB%A5,%20theo%20d%E1%BB%B1%20%C3%A1n.md)
 
 Mô tả công việc:: Tuyển dụng nhân sự ảo, đầu tư tài nguyên

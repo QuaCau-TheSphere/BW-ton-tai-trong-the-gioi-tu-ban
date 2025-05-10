@@ -1,11 +1,12 @@
 ---
 share: true
 created: 2025-03-25T22:31
-updated: 2025-05-08T23:23
-description: "Số tiền kiếm được: 600k, hoặc 1tr5/tháng"
+updated: 2025-05-10T14:34
+description: "Họp online hoặc lên văn phòng chơi. Số tiền kiếm được: tối thiểu 600k, hoặc 1tr5/tháng"
 title: Làm nhân viên ảo GM Mall
 ---
-Số tiền kiếm được:: tối thiểu 600k, hoặc 1tr5/tháng
+Mô tả công việc:: Họp online hoặc lên văn phòng chơi
+Số tiền kiếm được:: Tối thiểu 600k, hoặc 1tr5/tháng
 
 ## Mô tả chi tiết
 Nhân viên các công ty có chỉ tiêu tuyển dụng cho nhân viên sẽ cần tìm người đóng giả làm nhân viên của mình. Bài chi tiết:: [Làm nhân viên ảo là làm gì?](../../../../../../%F0%9F%93%90D%E1%BB%B1%20%C3%A1n/Ch%E1%BA%A1y%20ch%E1%BB%89%20ti%C3%AAu/L%C3%A0m%20nh%C3%A2n%20s%E1%BB%B1%20%E1%BA%A3o/index.md)

@@ -1,9 +1,9 @@
 ---
 share: true
 created: 2024-08-06T15:52
-updated: 2025-05-08T23:09
+updated: 2025-05-09T22:03
 ---
-Tính chất công việc:: [Biết lập trình](../../../1.%20T%C3%ADnh%20ch%E1%BA%A5t%20c%C3%B4ng%20vi%E1%BB%87c/Theo%20ki%E1%BA%BFn%20th%E1%BB%A9c,%20k%E1%BB%B9%20n%C4%83ng/Bi%E1%BA%BFt%20l%E1%BA%ADp%20tr%C3%ACnh.md)
-Tính chất công việc:: [Biết cách ẩn danh](../../../1.%20T%C3%ADnh%20ch%E1%BA%A5t%20c%C3%B4ng%20vi%E1%BB%87c/Theo%20ki%E1%BA%BFn%20th%E1%BB%A9c,%20k%E1%BB%B9%20n%C4%83ng/Bi%E1%BA%BFt%20c%C3%A1ch%20%E1%BA%A9n%20danh.md)
+Tính chất công việc:: [Cần biết lập trình](../../../1.%20T%C3%ADnh%20ch%E1%BA%A5t%20c%C3%B4ng%20vi%E1%BB%87c/Theo%20ki%E1%BA%BFn%20th%E1%BB%A9c,%20k%E1%BB%B9%20n%C4%83ng/C%E1%BA%A7n%20bi%E1%BA%BFt%20l%E1%BA%ADp%20tr%C3%ACnh.md)
+Tính chất công việc:: [Cần biết cách ẩn danh](../../../1.%20T%C3%ADnh%20ch%E1%BA%A5t%20c%C3%B4ng%20vi%E1%BB%87c/Theo%20ki%E1%BA%BFn%20th%E1%BB%A9c,%20k%E1%BB%B9%20n%C4%83ng/C%E1%BA%A7n%20bi%E1%BA%BFt%20c%C3%A1ch%20%E1%BA%A9n%20danh.md)
 
 Hình thức::
