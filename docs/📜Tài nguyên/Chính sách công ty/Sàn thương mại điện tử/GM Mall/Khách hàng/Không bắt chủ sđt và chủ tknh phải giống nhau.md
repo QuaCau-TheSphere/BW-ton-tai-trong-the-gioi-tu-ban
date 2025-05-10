@@ -1,14 +1,14 @@
 ---
 share: true
 created: 2025-04-12T13:41
-updated: 2025-05-08T23:28
+updated: 2025-05-09T02:14
 ---
 Khái niệm:: 
 Điều đó khiến cho việc ko thể gọi để xác minh chủ tài khoản ngân hàng có thực hiện giao dịch hay không, mà phải gặp tận mặt để hỏi. Tuy nhiên, vì cũng không bắt phải điền tạm trú, nên cách duy nhất để gặp mặt họ là thông qua công an.
 
 Tức là, người có động lực truy tìm nhất là nhà nước, không phải 
 
-rảnh để làm việc đó trong khi sàn này đang đóng thuế đủ cho nó với những giao dịch ở gm mall đều là giao dịch mua hàng và giao dịch hoàn tiền đúng như trên gpkd của nó đang hoạt động
+Nhưng tại sao nhà nước lại muốn làm việc đó, trong khi sàn này đang đóng thuế đủ? Những giao dịch ở gm mall đều là giao dịch mua hàng và giao dịch hoàn tiền đúng như trên gpkd của nó đang hoạt động
 
 Nếu đã muốn bắt, sao không bắt mấy đứa chuyên đi bán? Đó mới là xử lý tận gốc
 
