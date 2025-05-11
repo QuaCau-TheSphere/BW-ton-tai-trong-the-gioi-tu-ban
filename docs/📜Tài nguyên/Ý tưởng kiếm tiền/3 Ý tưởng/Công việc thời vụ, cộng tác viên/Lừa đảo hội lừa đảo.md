@@ -1,10 +1,10 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2025-05-09T22:02
+updated: 2025-05-10T15:32
 ---
 Tính chất công việc:: [Cần biết cách ẩn danh](../../1.%20T%C3%ADnh%20ch%E1%BA%A5t%20c%C3%B4ng%20vi%E1%BB%87c/Theo%20ki%E1%BA%BFn%20th%E1%BB%A9c,%20k%E1%BB%B9%20n%C4%83ng/C%E1%BA%A7n%20bi%E1%BA%BFt%20c%C3%A1ch%20%E1%BA%A9n%20danh.md), [Làm trực tuyến](../../1.%20T%C3%ADnh%20ch%E1%BA%A5t%20c%C3%B4ng%20vi%E1%BB%87c/Theo%20t%C3%ADnh%20ch%E1%BA%A5t%20c%C3%B4ng%20vi%E1%BB%87c/L%C3%A0m%20tr%E1%BB%B1c%20tuy%E1%BA%BFn.md)
-Hình thức:: [Việc làm thời vụ, theo dự án](../../2%20H%C3%ACnh%20th%E1%BB%A9c/Vi%E1%BB%87c%20l%C3%A0m%20th%E1%BB%9Di%20v%E1%BB%A5,%20theo%20d%E1%BB%B1%20%C3%A1n.md)
+Hình thức:: [Công việc thời vụ, cộng tác viên](./index.md)
 Khái niệm:: [Lừa đảo](../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/L%E1%BB%ABa%20%C4%91%E1%BA%A3o.md)
 
 Những hình thức lừa đảo trên telegram xưa giờ là không mới. Gần đây các tổ chức, cá nhân lừa đảo ấy lại ngày càng tinh vi hơn khi chịu chim mồi và trả thưởng rất cao cho những nhiệm vụ đơn giản như like video, chụp hình lại và gửi qua cho bên lừa đảo đó. Chỉ với 1 vài thông tin như họ tên, sđt, stk là chúng ta đã có thể nhận đc thù lao từ vài trăm nghìn, miễn sao đừng chuyển tiền qua cho họ là được. Việc con mồi ngày càng khôn, không chuyển tiền bậy bạ sẽ khiến bọn lừa đảo bớt lọng hành hơn. Vậy nên mình hoàn toàn có thể lập nhiều tài khoản để “tỉnh táo” một cách thụ động hoặc chủ động trước những thủ đoạn lừa đảo tinh vi này. 
