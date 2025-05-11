@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2025-05-08T23:09
+updated: 2025-05-10T15:26
 ---
 
 Nếu cần Nhật có thể [Làm nhân sự ảo](../../../%F0%9F%93%90D%E1%BB%B1%20%C3%A1n/Ch%E1%BA%A1y%20ch%E1%BB%89%20ti%C3%AAu/L%C3%A0m%20nh%C3%A2n%20s%E1%BB%B1%20%E1%BA%A3o/index.md) trong công ty, còn bạn thì làm những công việc công ty giao cho Nhật. Có thể CV của Nhật sẽ giúp tăng khả năng nhận được việc.
