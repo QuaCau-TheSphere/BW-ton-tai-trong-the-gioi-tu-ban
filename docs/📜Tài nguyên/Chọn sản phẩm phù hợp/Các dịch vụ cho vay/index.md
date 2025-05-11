@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-07-17T21:41
-updated: 2025-04-20T17:37
+updated: 2025-05-10T22:03
 title: Các dịch vụ cho vay
 ---
 Vay ở đây là vay tín chấp, không phải thế chấp.
@@ -19,7 +19,7 @@ Tốt nhất vẫn là dựa vào những mối quan hệ xung quanh. Nhưng n�
 | [Mua đồ trả góp rồi bán lại](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/T%E1%BB%95%20ch%E1%BB%A9c%20t%C3%A0i%20ch%C3%ADnh/T%E1%BB%95%20ch%E1%BB%A9c%20t%C3%ADn%20d%E1%BB%A5ng/C%C3%B3%20th%E1%BB%83%20vay%20ti%E1%BB%81n%20b%E1%BA%B1ng%20c%C3%A1ch%20mua%20%C4%91%E1%BB%93%20tr%E1%BA%A3%20g%C3%B3p%20r%E1%BB%93i%20b%C3%A1n%20l%E1%BA%A1i.md) |                               |                                                                                                                                                                                                                                                                                                                                                                                                                         |
 | [Ví trả sau](./T%E1%BB%95%20ch%E1%BB%A9c%20t%C3%ADn%20d%E1%BB%A5ng%20phi%20ng%C3%A2n%20h%C3%A0ng/V%C3%AD%20tr%E1%BA%A3%20sau.md)                                                                           |                               | Momo, ZaloPay, Shopee, ShopeePay, Lazada                                                                                                                                                                                                                                                                                                                                                                                |
 | Ngân hàng (thẻ tín dụng)                                                             | Bảng lương                    |                                                                                                                                                                                                                                                                                                                                                                                                                         |
-| [Công ty tài chính tiêu dùng](../../Ch%C3%ADnh%20s%C3%A1ch%20c%C3%B4ng%20ty/T%E1%BB%95%20ch%E1%BB%A9c%20t%C3%ADn%20d%E1%BB%A5ng/T%E1%BB%95%20ch%E1%BB%A9c%20t%C3%ADn%20d%E1%BB%A5ng%20phi%20ng%C3%A2n%20h%C3%A0ng/C%C3%B4ng%20ty%20t%C3%A0i%20ch%C3%ADnh%20ti%C3%AAu%20d%C3%B9ng/index.md)                                                      |                               | [FE Credit](../../Ch%C3%ADnh%20s%C3%A1ch%20c%C3%B4ng%20ty/T%E1%BB%95%20ch%E1%BB%A9c%20t%C3%ADn%20d%E1%BB%A5ng/T%E1%BB%95%20ch%E1%BB%A9c%20t%C3%ADn%20d%E1%BB%A5ng%20phi%20ng%C3%A2n%20h%C3%A0ng/C%C3%B4ng%20ty%20t%C3%A0i%20ch%C3%ADnh%20ti%C3%AAu%20d%C3%B9ng/FE%20Credit/index.md), HomeCredit, Fundiin, TNEX, Kredivo, EasyCredit, Mcredit, Cake, HDSaison                                                                                                                                                                                                 |
+| [Công ty tài chính tiêu dùng](./T%E1%BB%95%20ch%E1%BB%A9c%20t%C3%ADn%20d%E1%BB%A5ng%20phi%20ng%C3%A2n%20h%C3%A0ng/C%C3%B4ng%20ty%20t%C3%A0i%20ch%C3%ADnh%20ti%C3%AAu%20d%C3%B9ng/index.md)                                                      |                               | [FE Credit](../../Ch%C3%ADnh%20s%C3%A1ch%20c%C3%B4ng%20ty/T%E1%BB%95%20ch%E1%BB%A9c%20t%C3%ADn%20d%E1%BB%A5ng/T%E1%BB%95%20ch%E1%BB%A9c%20t%C3%ADn%20d%E1%BB%A5ng%20phi%20ng%C3%A2n%20h%C3%A0ng/C%C3%B4ng%20ty%20t%C3%A0i%20ch%C3%ADnh%20ti%C3%AAu%20d%C3%B9ng/FE%20Credit/index.md), HomeCredit, Fundiin, TNEX, Kredivo, EasyCredit, Mcredit, Cake, HDSaison                                                                                                                                                                                                 |
 
 ## Bảng xếp hạng
 %%Sẽ chuyển dần thành bảng sau. Để dạng này để nhỡ còn bổ sung thêm gì thì di chuyển các dòng cho dễ%%
@@ -31,12 +31,12 @@ Cao nhất là có lợi nhất.
 3. [Ví trả sau](./T%E1%BB%95%20ch%E1%BB%A9c%20t%C3%ADn%20d%E1%BB%A5ng%20phi%20ng%C3%A2n%20h%C3%A0ng/V%C3%AD%20tr%E1%BA%A3%20sau.md)                                                                          
 4. Quỹ tín dụng nhân dân                                                               
 5. Ngân hàng (thẻ tín dụng)                                                            
-6. [Công ty tài chính tiêu dùng](../../Ch%C3%ADnh%20s%C3%A1ch%20c%C3%B4ng%20ty/T%E1%BB%95%20ch%E1%BB%A9c%20t%C3%ADn%20d%E1%BB%A5ng/T%E1%BB%95%20ch%E1%BB%A9c%20t%C3%ADn%20d%E1%BB%A5ng%20phi%20ng%C3%A2n%20h%C3%A0ng/C%C3%B4ng%20ty%20t%C3%A0i%20ch%C3%ADnh%20ti%C3%AAu%20d%C3%B9ng/index.md)                                                     
+6. [Công ty tài chính tiêu dùng](./T%E1%BB%95%20ch%E1%BB%A9c%20t%C3%ADn%20d%E1%BB%A5ng%20phi%20ng%C3%A2n%20h%C3%A0ng/C%C3%B4ng%20ty%20t%C3%A0i%20ch%C3%ADnh%20ti%C3%AAu%20d%C3%B9ng/index.md)
 7. [App vay nóng](./T%E1%BB%95%20ch%E1%BB%A9c%20t%C3%ADn%20d%E1%BB%A5ng%20phi%20ng%C3%A2n%20h%C3%A0ng/App%20vay%20n%C3%B3ng/index.md)
 
 ### Theo hạn mức
 1. Ngân hàng (thẻ tín dụng)                                                            
-2. [Công ty tài chính tiêu dùng](../../Ch%C3%ADnh%20s%C3%A1ch%20c%C3%B4ng%20ty/T%E1%BB%95%20ch%E1%BB%A9c%20t%C3%ADn%20d%E1%BB%A5ng/T%E1%BB%95%20ch%E1%BB%A9c%20t%C3%ADn%20d%E1%BB%A5ng%20phi%20ng%C3%A2n%20h%C3%A0ng/C%C3%B4ng%20ty%20t%C3%A0i%20ch%C3%ADnh%20ti%C3%AAu%20d%C3%B9ng/index.md)                                                     
+2. [Công ty tài chính tiêu dùng](./T%E1%BB%95%20ch%E1%BB%A9c%20t%C3%ADn%20d%E1%BB%A5ng%20phi%20ng%C3%A2n%20h%C3%A0ng/C%C3%B4ng%20ty%20t%C3%A0i%20ch%C3%ADnh%20ti%C3%AAu%20d%C3%B9ng/index.md)
 3. Quỹ tín dụng nhân dân                                                               
 4. [Mua đồ trả góp rồi bán lại](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/T%E1%BB%95%20ch%E1%BB%A9c%20t%C3%A0i%20ch%C3%ADnh/T%E1%BB%95%20ch%E1%BB%A9c%20t%C3%ADn%20d%E1%BB%A5ng/C%C3%B3%20th%E1%BB%83%20vay%20ti%E1%BB%81n%20b%E1%BA%B1ng%20c%C3%A1ch%20mua%20%C4%91%E1%BB%93%20tr%E1%BA%A3%20g%C3%B3p%20r%E1%BB%93i%20b%C3%A1n%20l%E1%BA%A1i.md)
 5. [Ví trả sau](./T%E1%BB%95%20ch%E1%BB%A9c%20t%C3%ADn%20d%E1%BB%A5ng%20phi%20ng%C3%A2n%20h%C3%A0ng/V%C3%AD%20tr%E1%BA%A3%20sau.md)                                                                          
@@ -49,13 +49,13 @@ Cao nhất là có lợi nhất.
 3. Quỹ tín dụng nhân dân                                                               
 4. [Mua đồ trả góp rồi bán lại](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/T%E1%BB%95%20ch%E1%BB%A9c%20t%C3%A0i%20ch%C3%ADnh/T%E1%BB%95%20ch%E1%BB%A9c%20t%C3%ADn%20d%E1%BB%A5ng/C%C3%B3%20th%E1%BB%83%20vay%20ti%E1%BB%81n%20b%E1%BA%B1ng%20c%C3%A1ch%20mua%20%C4%91%E1%BB%93%20tr%E1%BA%A3%20g%C3%B3p%20r%E1%BB%93i%20b%C3%A1n%20l%E1%BA%A1i.md)
 5. [Ví trả sau](./T%E1%BB%95%20ch%E1%BB%A9c%20t%C3%ADn%20d%E1%BB%A5ng%20phi%20ng%C3%A2n%20h%C3%A0ng/V%C3%AD%20tr%E1%BA%A3%20sau.md)                                                                          
-6. [Công ty tài chính tiêu dùng](../../Ch%C3%ADnh%20s%C3%A1ch%20c%C3%B4ng%20ty/T%E1%BB%95%20ch%E1%BB%A9c%20t%C3%ADn%20d%E1%BB%A5ng/T%E1%BB%95%20ch%E1%BB%A9c%20t%C3%ADn%20d%E1%BB%A5ng%20phi%20ng%C3%A2n%20h%C3%A0ng/C%C3%B4ng%20ty%20t%C3%A0i%20ch%C3%ADnh%20ti%C3%AAu%20d%C3%B9ng/index.md)                                                     
+6. [Công ty tài chính tiêu dùng](./T%E1%BB%95%20ch%E1%BB%A9c%20t%C3%ADn%20d%E1%BB%A5ng%20phi%20ng%C3%A2n%20h%C3%A0ng/C%C3%B4ng%20ty%20t%C3%A0i%20ch%C3%ADnh%20ti%C3%AAu%20d%C3%B9ng/index.md)                                                     
 7. Ngân hàng (thẻ tín dụng)                              
 
 ### Theo thời gian giải ngân
 1. [Ví trả sau](./T%E1%BB%95%20ch%E1%BB%A9c%20t%C3%ADn%20d%E1%BB%A5ng%20phi%20ng%C3%A2n%20h%C3%A0ng/V%C3%AD%20tr%E1%BA%A3%20sau.md)                                                                          
 2. [App vay nóng](./T%E1%BB%95%20ch%E1%BB%A9c%20t%C3%ADn%20d%E1%BB%A5ng%20phi%20ng%C3%A2n%20h%C3%A0ng/App%20vay%20n%C3%B3ng/index.md)
-3. [Công ty tài chính tiêu dùng](../../Ch%C3%ADnh%20s%C3%A1ch%20c%C3%B4ng%20ty/T%E1%BB%95%20ch%E1%BB%A9c%20t%C3%ADn%20d%E1%BB%A5ng/T%E1%BB%95%20ch%E1%BB%A9c%20t%C3%ADn%20d%E1%BB%A5ng%20phi%20ng%C3%A2n%20h%C3%A0ng/C%C3%B4ng%20ty%20t%C3%A0i%20ch%C3%ADnh%20ti%C3%AAu%20d%C3%B9ng/index.md)                                                     
+3. [Công ty tài chính tiêu dùng](./T%E1%BB%95%20ch%E1%BB%A9c%20t%C3%ADn%20d%E1%BB%A5ng%20phi%20ng%C3%A2n%20h%C3%A0ng/C%C3%B4ng%20ty%20t%C3%A0i%20ch%C3%ADnh%20ti%C3%AAu%20d%C3%B9ng/index.md)                                                     
 4. [Tổ chức tài chính vi mô](./T%E1%BB%95%20ch%E1%BB%A9c%20t%C3%A0i%20ch%C3%ADnh%20vi%20m%C3%B4/index.md)                                                                     
 5. Quỹ tín dụng nhân dân                                                               
 6. [Mua đồ trả góp rồi bán lại](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/T%E1%BB%95%20ch%E1%BB%A9c%20t%C3%A0i%20ch%C3%ADnh/T%E1%BB%95%20ch%E1%BB%A9c%20t%C3%ADn%20d%E1%BB%A5ng/C%C3%B3%20th%E1%BB%83%20vay%20ti%E1%BB%81n%20b%E1%BA%B1ng%20c%C3%A1ch%20mua%20%C4%91%E1%BB%93%20tr%E1%BA%A3%20g%C3%B3p%20r%E1%BB%93i%20b%C3%A1n%20l%E1%BA%A1i.md)
