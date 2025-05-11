@@ -1,10 +1,10 @@
 ---
 share: true
 created: 2024-09-26T11:02
-updated: 2025-05-05T23:23
+updated: 2025-05-11T02:22
 ---
 ## Tiết kiệm tiền mua đồ ăn
-- Đến các nhà hàng tiệc cưới đóng hộp đồ ăn thừa 
+- Lẻn vào các tiệc cưới, tiệc công ty, có thể đóng hộp đồ ăn thừa 
 - Mua đồ ăn ở chợ đầu mối
 - Đến những nơi [Tặng đồ đạc, thức ăn](./Qu%C3%A0%20t%E1%BA%B7ng/T%E1%BA%B7ng%20%C4%91%E1%BB%93%20%C4%91%E1%BA%A1c,%20th%E1%BB%A9c%20%C4%83n.md)
 - Búp phê giá rẻ
@@ -21,3 +21,8 @@ Bài chi tiết:: [Ra khỏi thành phố sống](../%F0%9F%93%90D%E1%BB%B1%20%C
 ## Cộng đồng
 - [Live With A Lower Impact](https://www.reddit.com/r/ZeroWaste)  
 - [Frugal Living: Waste Less, Gain More!](https://www.reddit.com/r/Frugal/wiki/index)  
+
+[VÉN KHÉO \| Facebook](https://www.facebook.com/groups/1658624727884777/?action_source=group_mall_recommendation_affordance)
+chotot.vn
+Cũng có nhiều người thực ra bán hàng
+
