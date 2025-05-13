@@ -2,7 +2,7 @@
 share: true
 description: "Số tiền kiếm được: "
 created: 2025-04-26T20:17
-updated: 2025-05-10T15:32
+updated: 2025-05-12T17:28
 ---
 
 Tính chất công việc:: [Cần nắm được nhu cầu doanh nghiệp](../../1.%20T%C3%ADnh%20ch%E1%BA%A5t%20c%C3%B4ng%20vi%E1%BB%87c/Theo%20nguy%C3%AAn%20li%E1%BB%87u,%20ngu%E1%BB%93n%20th%C3%B4ng%20tin/C%E1%BA%A7n%20n%E1%BA%AFm%20%C4%91%C6%B0%E1%BB%A3c%20nhu%20c%E1%BA%A7u%20doanh%20nghi%E1%BB%87p.md)
