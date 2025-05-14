@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-05-12T22:36
+updated: 2025-05-13T23:13
 ---
 [Xây dựng thương hiệu trên MXH](./X%C3%A2y%20d%E1%BB%B1ng%20th%C6%B0%C6%A1ng%20hi%E1%BB%87u%20tr%C3%AAn%20MXH.md)
 [Mở rộng mối quan hệ](../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/M%E1%BB%9F%20r%E1%BB%99ng%20m%E1%BB%91i%20quan%20h%E1%BB%87/index.md)
@@ -18,6 +18,8 @@ updated: 2025-05-12T22:36
 
 Cái này thì khác gì xả rác?
 ## Đây có phải là rác không, khi có sự duyệt lại của người viết?
+Ở đây đang khai thác điểm yếu thế nào?
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7lbOS5BIxnU?si=FniWkEjOGxIYA3NZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Cứ cho rằng đây là rác, thì việc hy sinh như vậy có chấp nhận được không?
 Cứ chấp nhận nó là rác, thì nó vẫn còn hiền hơn so với các [content farm](https://en.wikipedia.org/wiki/Content_farm) và các kỹ thuật thao túng đám đông khác. [Việc khai thác điểm yếu của con người đem lại lợi nhuận](../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%C4%90%E1%BA%A1o%20%C4%91%E1%BB%A9c,%20ph%C3%A1p%20lu%E1%BA%ADt.%20Kinh%20t%E1%BA%BF%20ch%C3%ADnh%20tr%E1%BB%8B/Ch%E1%BB%A7%20ngh%C4%A9a%20t%C6%B0%20b%E1%BA%A3n,%20t%C3%A2n%20t%E1%BB%B1%20do/Vi%E1%BB%87c%20khai%20th%C3%A1c%20%C4%91i%E1%BB%83m%20y%E1%BA%BFu%20c%E1%BB%A7a%20con%20ng%C6%B0%E1%BB%9Di%20%C4%91em%20l%E1%BA%A1i%20l%E1%BB%A3i%20nhu%E1%BA%ADn.md). [Thuyết rừng âm u trên internet](https://obsidian.quảcầu.cc/⚡Hiểu%20biết%20sâu/Công%20nghệ%20thông%20tin/Nhân%20học/Những%20nơi%20khó%20chỉ%20mục%20được%20là%20những%20nơi%20gặp%20được%20nhiều%20cuộc%20trò%20chuyện%20lành%20mạnh?utm_source=Vault+B+Tồn+tại+trong+thế+giới+tư+bản+(Dự+án)&utm_medium=Vault&utm_campaign=C1&utm_content=📐Dự+án%2FTự+động+hoá%2FXây+dựng+thương+hiệu+trên+MXH.md&utm_term=) đang dần trở thành hiện thực.

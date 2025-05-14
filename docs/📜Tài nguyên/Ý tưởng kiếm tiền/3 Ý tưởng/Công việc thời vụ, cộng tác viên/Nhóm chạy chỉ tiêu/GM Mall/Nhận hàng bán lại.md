@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-05-03T23:44
-updated: 2025-05-10T22:13
+updated: 2025-05-14T22:06
 description: Cung cấp địa chỉ để được nhận hàng miễn phí
 ---
 Tính chất công việc:: [Không cần độ tập trung cao](../../../../1.%20T%C3%ADnh%20ch%E1%BA%A5t%20c%C3%B4ng%20vi%E1%BB%87c/Theo%20t%C3%ADnh%20ch%E1%BA%A5t%20c%C3%B4ng%20vi%E1%BB%87c/Kh%C3%B4ng%20c%E1%BA%A7n%20%C4%91%E1%BB%99%20t%E1%BA%ADp%20trung%20cao.md), [Làm trực tuyến](../../../../1.%20T%C3%ADnh%20ch%E1%BA%A5t%20c%C3%B4ng%20vi%E1%BB%87c/Theo%20t%C3%ADnh%20ch%E1%BA%A5t%20c%C3%B4ng%20vi%E1%BB%87c/L%C3%A0m%20tr%E1%BB%B1c%20tuy%E1%BA%BFn.md)
@@ -17,7 +17,7 @@ Nhân viên các sàn thương mại điện tử khi hoạt động các tài k
 
 ## Thông tin thêm
 - Quà tặng thường là nồi chiên không dầu, quạt cầm tay, cân điện tử, thẻ điện thoại 20k, cáp sạc 3 trong 1, túi xách mini, sữa tắm, v.v. Lâu lâu có cả những thứ mấy triệu.
-- Bạn có thể cung cấp nhiều địa chỉ khác nhau nhưng trong bán kính giao hàng để được nhận nhiều hơn
+- Những bạn ở gần bùng binh, vòng xoay sẽ có lợi vì có thể cung cấp nhiều địa chỉ khác nhau
 
 ## Nơi thảo luận
 > [!important] Nhìn toàn cảnh

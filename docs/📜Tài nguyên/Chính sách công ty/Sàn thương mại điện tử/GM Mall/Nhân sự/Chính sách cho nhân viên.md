@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-01-19T21:00
-updated: 2025-05-12T17:28
+updated: 2025-05-14T14:03
 title: Chính sách nhân viên GM Mall
 ---
 Nhân viên ăn lương từ hai đầu:
@@ -75,3 +75,5 @@ Nếu F3 mua 1tr:
 | 5 - 9        | 5tr   |
 | 10 - 14      | 10tr  |
 | > 15         | 15tr  |
+
+Sau khi nghỉ việc sẽ bị vô hiệu hoá tài khoản vĩnh viễn (xoá tài khoản)
