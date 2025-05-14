@@ -4,7 +4,7 @@ description:
   - Số tiền đầu tư: 390k
   - Số tiền được nhận: 50k/tài khoản tạo mới
 created: 2025-04-03T14:15
-updated: 2025-05-10T22:13
+updated: 2025-05-14T17:37
 ---
 Tính chất công việc:: [Có tài khoản ngân hàng](../../../../1.%20T%C3%ADnh%20ch%E1%BA%A5t%20c%C3%B4ng%20vi%E1%BB%87c/C%C3%B3%20t%C3%A0i%20kho%E1%BA%A3n%20ng%C3%A2n%20h%C3%A0ng.md), [Làm trực tuyến](../../../../1.%20T%C3%ADnh%20ch%E1%BA%A5t%20c%C3%B4ng%20vi%E1%BB%87c/Theo%20t%C3%ADnh%20ch%E1%BA%A5t%20c%C3%B4ng%20vi%E1%BB%87c/L%C3%A0m%20tr%E1%BB%B1c%20tuy%E1%BA%BFn.md)
 Hình thức:: [Công việc thời vụ, cộng tác viên](../../index.md)
@@ -70,6 +70,10 @@ Liên kết tài khoản ngân hàng của bạn với app để rút tiền v�
 
 Bạn cần bỏ số 0 ở phía trước sđt của bạn thì mới nhập được
 ![B6. Rút tiền (5).jpg](../../../../../../assets/attachments/B6.%20R%C3%BAt%20ti%E1%BB%81n%20(5).jpg)
+
+## Thông tin thêm
+Cảnh giác lừa đảo
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5jeACyUQtVE?si=G6Z0MrLCxMQGAFxF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 > [!important] Nhìn toàn cảnh
 > Công việc này là một phần của [Nhóm chạy chỉ tiêu cho nhân viên GM Mall](./index.md). Đọc bài đó để được giải đáp các thắc mắc như độ an toàn của công việc, cách vận hành nhóm, cách thức tham gia, v.v.
