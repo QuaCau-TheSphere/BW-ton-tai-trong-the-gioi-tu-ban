@@ -40,7 +40,7 @@ Vì số tiền hoa hồng từ phí bạn đóng cả năm chỉ đủ để tr
 Hiện tại bọn mình có làm cho FWD và Cathay. Với FWD bạn sẽ được [một hợp đồng giống như vậy](./FWD.md). Với Cathay bạn sẽ được chọn sản phẩm theo đúng nhu cầu của mình, chứ bọn mình không mặc định sản phẩm rẻ nhất chỉ để chạy doanh số.
 
 > [!attention] Không tiết lộ với công ty về việc bạn được giảm giá
-> [Luật quy định đại lý không được cắt hoa hồng để giảm giá cho khách](../../Lu%E1%BA%ADt,%20qu%E1%BA%A3n%20l%C3%BD%20nh%C3%A0%20n%C6%B0%E1%BB%9Bc/B%E1%BA%A3o%20hi%E1%BB%83m/C%E1%BA%A5m%20%C4%91%E1%BA%A1i%20l%C3%BD%20tr%C3%ADch%20hoa%20h%E1%BB%93ng%20%C4%91%E1%BB%83%20gi%E1%BA%A3m%20gi%C3%A1.md). Mục tiêu có lẽ là để không bị phá giá. Nhưng đó là vì lợi ích của các công ty, không phải vì lợi ích của bạn. 
+> [Luật quy định đại lý không được cắt hoa hồng để giảm giá cho khách](../../Lu%E1%BA%ADt,%20qu%E1%BA%A3n%20l%C3%BD%20nh%C3%A0%20n%C6%B0%E1%BB%9Bc/T%C3%A0i%20ch%C3%ADnh/B%E1%BA%A3o%20hi%E1%BB%83m/C%E1%BA%A5m%20%C4%91%E1%BA%A1i%20l%C3%BD%20tr%C3%ADch%20hoa%20h%E1%BB%93ng%20%C4%91%E1%BB%83%20gi%E1%BA%A3m%20gi%C3%A1.md). Mục tiêu có lẽ là để không bị phá giá. Nhưng đó là vì lợi ích của các công ty, không phải vì lợi ích của bạn. 
 > 
 > Hay nói cách khác, bạn đừng tiết lộ là bạn biết tới bọn mình. 
 

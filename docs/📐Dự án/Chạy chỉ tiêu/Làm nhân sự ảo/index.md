@@ -7,7 +7,7 @@ aliases:
   - Danh sách công việc làm nhân sự ảo
   - Làm danh tính khác của nhân sự thật
   - Làm hình nhân thế mạng
-updated: 2025-05-10T22:35
+updated: 2025-05-15T15:05
 title: Làm nhân sự ảo
 ---
 ## Mô tả công việc
@@ -33,6 +33,7 @@ Với Megan:
 - Phải tin được là Cueball sẽ trả tiền lại cho mình
 
 Với Cueball:
+- Có những lúc công ty họp đột xuất hoặc đào tạo dài ngày thì phải sắp xếp thời gian chạy lên được
 - Phải chịu trách nhiệm cho những gì Megan làm. Có thể nói số tiền Cueball được nhận là tiền để Cueball làm hình nhân thế mạng cho Megan. Nhưng thường Cueball không phải lo, vì Cueball vẫn phải là người kiểm duyệt cuối cùng.
 
 Xem thêm:: [Câu hỏi thường gặp cho công việc làm nhân sự ảo](./C%C3%A2u%20h%E1%BB%8Fi%20th%C6%B0%E1%BB%9Dng%20g%E1%BA%B7p.md)
