@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-09-12T22:14
-updated: 2025-05-10T22:25
+updated: 2025-05-15T15:02
 title: Làm đại lý ảo Bảo Việt
 ---
 ## Học 
@@ -22,6 +22,6 @@ Xem thêm:: [Đại lý](../../../../../../Ch%C3%ADnh%20s%C3%A1ch%20c%C3%B4ng%20
 ## Ghi chú
 - Một bài thi thử đạt từ 34 điểm sẽ được thưởng thêm 20k. Tối đa thưởng 200k.
 - Buổi tốt nghiệp sẽ ăn trưa ở nhà hàng và tặng một áo mưa
-- [Thông tin cho đại lý](%F0%9F%93%90D%E1%BB%B1%20%C3%A1n/Gi%C3%BAp%20nhau%20tho%C3%A1t%20n%E1%BB%A3/C%C3%B4ng%20vi%E1%BB%87c/L%C3%A0m%20nh%C3%A2n%20vi%C3%AAn%20%E1%BA%A3o/B%E1%BA%A3o%20hi%E1%BB%83m/Th%C3%B4ng%20tin%20cho%20%C4%91%E1%BA%A1i%20l%C3%BD.md)
 
-Bài chi tiết: [Bảo hiểm](%F0%9F%93%90D%E1%BB%B1%20%C3%A1n/Ch%E1%BA%A1y%20ch%E1%BB%89%20ti%C3%AAu/L%C3%A0m%20nh%C3%A2n%20s%E1%BB%B1%20%E1%BA%A3o/B%E1%BA%A3o%20hi%E1%BB%83m/B%E1%BA%A3o%20hi%E1%BB%83m.md)
+> [!important] Nhìn toàn cảnh
+> Công việc này là một phần của [Nhóm chạy chỉ tiêu cho nhân sự](../../../../../../../%F0%9F%93%90D%E1%BB%B1%20%C3%A1n/Ch%E1%BA%A1y%20ch%E1%BB%89%20ti%C3%AAu/L%E1%BB%9Di%20m%E1%BB%9Di%20tham%20gia%20nh%C3%B3m%20ch%E1%BA%A1y%20ch%E1%BB%89%20ti%C3%AAu%20cho%20nh%C3%A2n%20s%E1%BB%B1.md). Đọc bài đó để hiểu thêm về mục tiêu dài hạn của dự án cũng như các lợi ích khác của bạn
