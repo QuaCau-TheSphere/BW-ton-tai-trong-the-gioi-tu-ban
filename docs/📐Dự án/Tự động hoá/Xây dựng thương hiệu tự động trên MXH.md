@@ -1,8 +1,9 @@
 ---
 share: true
 created: 2024-10-24T19:14
-updated: 2025-05-12T21:24
+updated: 2025-05-15T13:45
 ---
+Một phần của [Nhóm chạy chỉ tiêu](../Ch%E1%BA%A1y%20ch%E1%BB%89%20ti%C3%AAu/index.md)
 ## Vấn đề
 [Muốn bán hàng tốt cần có mối quan hệ](../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Ki%E1%BA%BFm%20ti%E1%BB%81n/L%C3%A0m%20thu%C3%AA/B%C3%A1n%20h%C3%A0ng/Mu%E1%BB%91n%20b%C3%A1n%20h%C3%A0ng%20t%E1%BB%91t%20c%E1%BA%A7n%20c%C3%B3%20m%E1%BB%91i%20quan%20h%E1%BB%87.md). Đây là các giai đoạn của việc thiết lập mối quan hệ:
 ```mermaid

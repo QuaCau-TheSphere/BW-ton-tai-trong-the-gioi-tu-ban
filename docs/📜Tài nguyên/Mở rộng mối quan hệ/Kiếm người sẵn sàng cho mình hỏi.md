@@ -1,13 +1,13 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-05-13T01:42
+updated: 2025-05-15T14:25
 description: Làm sao để tìm được người để mình hỏi kỹ về nhu cầu của họ một cách hiệu quả nhất?
 alias:
-  - Làm sao để kiếm người phỏng vấn?
+  - Làm sao để kiếm người nhận làm phỏng vấn?
 ---
 # Làm sao để kiếm được người nhận làm phỏng vấn?
-Nhu cầu đi kiếm đáp viên cho các khảo sát, phỏng vấn thường rất lớn. Tuy nhiên, việc tìm đủ số lượng đáp viên khá là khó khăn, vì người chịu khó trả lời câu hỏi thường là người đã quý mến mình hoặc đã có sự quan tâm lớn với đề tài nghiên cứu sẵn rồi. Cả hai tệp này đều không đủ đa dạng. Việc nhờ vả bạn bè chia sẻ khảo sát cũng chỉ giúp được phần nào. Một giải pháp đơn giản là trả tiền cho đáp viên, nhưng nó khó thực hiện với những tổ chức không có nhiều tiền. Ngoài ra nó cũng thu hút cả những người tham gia chỉ để [kiếm tiền](../%C3%9D%20t%C6%B0%E1%BB%9Fng%20ki%E1%BA%BFm%20ti%E1%BB%81n/3%20%C3%9D%20t%C6%B0%E1%BB%9Fng/C%C3%B4ng%20vi%E1%BB%87c%20th%E1%BB%9Di%20v%E1%BB%A5,%20c%E1%BB%99ng%20t%C3%A1c%20vi%C3%AAn/L%C3%A0m%20kh%E1%BA%A3o%20s%C3%A1t,%20ph%E1%BB%8Fng%20v%E1%BA%A5n.md)/[săn phiếu giảm giá](../%C3%9D%20t%C6%B0%E1%BB%9Fng%20ki%E1%BA%BFm%20ti%E1%BB%81n/3%20%C3%9D%20t%C6%B0%E1%BB%9Fng/C%C3%B4ng%20vi%E1%BB%87c%20th%E1%BB%9Di%20v%E1%BB%A5,%20c%E1%BB%99ng%20t%C3%A1c%20vi%C3%AAn/S%C4%83n%20phi%E1%BA%BFu%20gi%E1%BA%A3m%20gi%C3%A1,%20airdrop.md), và có thể họ chỉ trả lời qua loa, không đủ chất lượng. 
+Nhu cầu đi kiếm khách thể, đáp viên cho các khảo sát, phỏng vấn thường rất lớn. Tuy nhiên, việc tìm đủ số lượng đáp viên khá là khó khăn, vì người chịu khó trả lời câu hỏi thường là người đã quý mến mình hoặc đã có sự quan tâm lớn với đề tài nghiên cứu sẵn rồi. Cả hai tệp này đều không đủ đa dạng. Việc nhờ vả bạn bè chia sẻ khảo sát cũng chỉ giúp được phần nào. Một giải pháp đơn giản là trả tiền cho đáp viên, nhưng nó khó thực hiện với những tổ chức không có nhiều tiền. Ngoài ra nó cũng thu hút cả những người tham gia chỉ để [kiếm tiền](../%C3%9D%20t%C6%B0%E1%BB%9Fng%20ki%E1%BA%BFm%20ti%E1%BB%81n/3%20%C3%9D%20t%C6%B0%E1%BB%9Fng/C%C3%B4ng%20vi%E1%BB%87c%20th%E1%BB%9Di%20v%E1%BB%A5,%20c%E1%BB%99ng%20t%C3%A1c%20vi%C3%AAn/Nh%C3%B3m%20ch%E1%BA%A1y%20ch%E1%BB%89%20ti%C3%AAu/T%C3%ACm%20ng%C6%B0%E1%BB%9Di/T%C3%ACm%20%C4%91%C3%A1p%20vi%C3%AAn,%20kh%C3%A1ch%20th%E1%BB%83%20cho%20kh%E1%BA%A3o%20s%C3%A1t,%20ph%E1%BB%8Fng%20v%E1%BA%A5n.md)/[săn phiếu giảm giá](../%C3%9D%20t%C6%B0%E1%BB%9Fng%20ki%E1%BA%BFm%20ti%E1%BB%81n/3%20%C3%9D%20t%C6%B0%E1%BB%9Fng/C%C3%B4ng%20vi%E1%BB%87c%20th%E1%BB%9Di%20v%E1%BB%A5,%20c%E1%BB%99ng%20t%C3%A1c%20vi%C3%AAn/S%C4%83n%20phi%E1%BA%BFu%20gi%E1%BA%A3m%20gi%C3%A1,%20airdrop.md), và có thể họ chỉ trả lời qua loa, không đủ chất lượng. 
 
 Giải pháp gợi ý: 
 - Hợp tác với một cửa hàng/chương trình/lớp học/CLB sẵn sàng hỗ trợ giảm giá hoặc miễn phí cho người tham gia nếu họ đồng ý làm phỏng vấn
