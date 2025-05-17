@@ -12,7 +12,7 @@ updated: 2025-05-15T14:55
 | ...tập trung vào việc tìm người cần mình?                      | Không đủ thời gian để đạt chỉ tiêu |
 | ...tham gia sinh hoạt trong các CLB?                           | Không đủ thời gian để đạt chỉ tiêu |
 | ...tự tổ chức các buổi OPP?                                    | Không đủ thời gian để đạt chỉ tiêu |
-| ...tham gia làm cùng với người đã có sẵn thương hiệu trên MXH? | Lương họ trả chưa chắc đủ sống     |
+| ...tham gia làm cùng với người đã có sẵn thương hiệu trên MXH? | Lương họ trả chưa chắc đủ sống, không dễ tìm được người cùng định hướng mới mình   |
 | ...tham gia nhóm của người làm tư vấn độc lập?                 | Lương họ trả chưa chắc đủ sống     |
 | ...đăng lại bài viết hay của người khác?                       |                                    |
 

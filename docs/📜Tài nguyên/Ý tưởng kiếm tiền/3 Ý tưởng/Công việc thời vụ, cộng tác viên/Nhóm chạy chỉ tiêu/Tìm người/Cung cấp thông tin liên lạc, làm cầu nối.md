@@ -2,7 +2,7 @@
 share: true
 description: "Số tiền kiếm được: 20 k/liên hệ"
 created: 2025-04-04T22:12
-updated: 2025-05-15T14:26
+updated: 2025-05-15T16:00
 ---
 Tính chất công việc:: [Làm trực tuyến](../../../../1.%20T%C3%ADnh%20ch%E1%BA%A5t%20c%C3%B4ng%20vi%E1%BB%87c/Theo%20t%C3%ADnh%20ch%E1%BA%A5t%20c%C3%B4ng%20vi%E1%BB%87c/L%C3%A0m%20tr%E1%BB%B1c%20tuy%E1%BA%BFn.md)
 Hình thức:: [Công việc thời vụ, cộng tác viên](../../index.md)
@@ -18,5 +18,6 @@ Nếu bạn lo lắng rằng việc đưa thông tin sẽ làm phiền bạn mì
 
 ## Nơi thảo luận
 
+
 > [!important] Nhìn toàn cảnh
-> Công việc này là một phần của [Nhóm chạy chỉ tiêu cho nhân sự](../../../../../../%F0%9F%93%90D%E1%BB%B1%20%C3%A1n/Ch%E1%BA%A1y%20ch%E1%BB%89%20ti%C3%AAu/index.md).
+> Công việc này là một phần của [Các công việc tìm người](./index.md), vốn là một phần của [Nhóm chạy chỉ tiêu cho nhân sự](../../../../../../%F0%9F%93%90D%E1%BB%B1%20%C3%A1n/Ch%E1%BA%A1y%20ch%E1%BB%89%20ti%C3%AAu/index.md).
