@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-25T22:31
-updated: 2025-05-11T16:07
+updated: 2025-05-17T20:57
 description: "Họp online hoặc lên văn phòng chơi. Số tiền kiếm được: tối thiểu 600k, hoặc 1tr5/tháng"
 title: Làm nhân viên ảo GM Mall
 ---
@@ -25,16 +25,21 @@ Nhân viên các công ty có chỉ tiêu tuyển dụng cho nhân viên sẽ c�
 	- Nếu bạn **muốn tắt mic, tắt cam trong buổi họp**: bạn phải chat được và phải lên văn phòng thường xuyên
 	- Nếu bạn **không muốn lên văn phòng thường xuyên**: bạn phải bật mic để trả lời, hoặc bật cam và chat 
 - Tháng đầu cần đi lên văn phòng tối thiểu 2 buổi (bao gồm buổi đầu tiên lên xin việc). Các tháng sau 1 buổi. 
+- Việc bạn dùng tên thật hay tên giả không quan trọng, nhưng phải cố định không được đổi. Nếu dùng tên thật thì sẽ nhận được thêm các phúc lợi do công ty tạo ra. Nếu muốn dùng tên giả thì cần báo trước
+- Nếu bạn muốn kiểm soát tài khoản Zalo dùng cho công việc này thì bạn phải chuyển tiếp ảnh báo cáo mỗi ngày
 
-Buổi đầu tiên trước khi lên văn phòng sẽ ngồi cà phê gần đó để bạn được giải đáp thắc mắc cũng như nhận SIM và điện thoại. Điện thoại này dùng để:
-- Nhận điện thoại gọi tới từ quản lý
+### Buổi đầu tiên
+| Hoạt động                                                                                                                                                 | Thời gian |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
+| Ngồi cà phê gần văn phòng để giới thiệu lại công việc, nhận điện thoại, giới thiệu về nhóm, giải đáp các thắc mắc và giới thiệu các nguồn tài nguyên khác | 1 tiếng   |
+| Di chuyển tới văn phòng để phỏng vấn xin việc                                                                                                             | 1 tiếng   |
+| Di chuyển ra công viên gần đó để tổng kết, lắng nghe cảm nhận của mọi người, lấy lại điện thoại và thanh toán tiền                                        | 30 phút   |
+
+Điện thoại và SIM dùng để:
+- Nhận điện thoại do quản lý nhá máy để lưu số
 - Tạo tài khoản Zalo với tên của bạn để thêm vào các nhóm Zalo của công ty
 - Tải app GM Mall để thực hành gom nhóm 100k
 
-Tiền công sẽ được trả khi bạn trả lại điện thoại.
-
-- Nếu bạn muốn dùng tên giả thì bọn mình sẽ chuẩn bị sẵn cho bạn
-- Nếu bạn muốn dùng tài khoản Zalo của mình thì bạn phải chuyển tiếp ảnh báo cáo mỗi ngày
 ### Thưởng
 - Tham gia các buổi họp đột xuất: 50k/30 phút
 - Giới thiệu người mới vào làm cùng: 300k
