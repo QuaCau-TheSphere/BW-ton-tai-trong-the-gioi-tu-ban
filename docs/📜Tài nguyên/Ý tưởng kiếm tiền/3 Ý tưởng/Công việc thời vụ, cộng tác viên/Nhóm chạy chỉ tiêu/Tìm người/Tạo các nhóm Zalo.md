@@ -2,7 +2,7 @@
 share: true
 description: "Tạo 10 nhóm Zalo, mỗi nhóm có 10 tài khoản khác nhau. Số tiền kiếm được: 300k"
 created: 2025-03-27T17:13
-updated: 2025-05-15T14:26
+updated: 2025-05-15T16:00
 ---
 Tính chất công việc:: [Làm trực tuyến](../../../../1.%20T%C3%ADnh%20ch%E1%BA%A5t%20c%C3%B4ng%20vi%E1%BB%87c/Theo%20t%C3%ADnh%20ch%E1%BA%A5t%20c%C3%B4ng%20vi%E1%BB%87c/L%C3%A0m%20tr%E1%BB%B1c%20tuy%E1%BA%BFn.md)
 Hình thức:: 
@@ -23,5 +23,6 @@ Bạn cần tạo 10 nhóm Zalo, mỗi nhóm có 10 tài khoản khác nhau, đ�
 - Sau 1 tháng có thể thoát nhóm. Trong thời gian đó có thể ẩn đi
 
 ## Nơi thảo luận
+
 > [!important] Nhìn toàn cảnh
-> Công việc này là một phần của [Nhóm chạy chỉ tiêu cho nhân viên GM Mall](../GM%20Mall/index.md). Đọc bài đó để được giải đáp các thắc mắc như độ an toàn của công việc, cách vận hành nhóm, cách thức tham gia, v.v. Đọc thêm về [Lời mời tham gia nhóm chạy chỉ tiêu cho nhân sự](../../../../../../%F0%9F%93%90D%E1%BB%B1%20%C3%A1n/Ch%E1%BA%A1y%20ch%E1%BB%89%20ti%C3%AAu/L%E1%BB%9Di%20m%E1%BB%9Di%20tham%20gia%20nh%C3%B3m%20ch%E1%BA%A1y%20ch%E1%BB%89%20ti%C3%AAu%20cho%20nh%C3%A2n%20s%E1%BB%B1.md) để hiểu thêm về mục tiêu dài hạn của dự án cũng như các lợi ích khác của bạn
+> Công việc này là một phần của [Các công việc tìm người](./index.md), vốn là một phần của [Nhóm chạy chỉ tiêu cho nhân sự](../../../../../../%F0%9F%93%90D%E1%BB%B1%20%C3%A1n/Ch%E1%BA%A1y%20ch%E1%BB%89%20ti%C3%AAu/index.md).
