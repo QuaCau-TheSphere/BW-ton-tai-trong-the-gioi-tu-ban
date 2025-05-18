@@ -7,7 +7,7 @@ Nhân viên bán hàng của các công ty thường được áp đặt chỉ t
 
 Xem thêm:: [Góc nhìn chủ nghĩa xã hội cho nhóm chạy chỉ tiêu](../%C4%90%E1%BB%91i%20tho%E1%BA%A1i%20v%E1%BB%9Bi%20t%C6%B0%20b%E1%BA%A3n/G%C3%B3c%20nh%C3%ACn%20ch%E1%BB%A7%20ngh%C4%A9a%20x%C3%A3%20h%E1%BB%99i%20cho%20nh%C3%B3m%20ch%E1%BA%A1y%20ch%E1%BB%89%20ti%C3%AAu.md)
 
-## Bạn được gì khi tham gia?
+## Lợi ích khi tham gia
 ### Tiền và thời gian cho bản thân
 Ví dụ, công việc [làm nhân viên ảo GM Mall](../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/%C3%9D%20t%C6%B0%E1%BB%9Fng%20ki%E1%BA%BFm%20ti%E1%BB%81n/3%20%C3%9D%20t%C6%B0%E1%BB%9Fng/C%C3%B4ng%20vi%E1%BB%87c%20th%E1%BB%9Di%20v%E1%BB%A5,%20c%E1%BB%99ng%20t%C3%A1c%20vi%C3%AAn/Nh%C3%B3m%20ch%E1%BA%A1y%20ch%E1%BB%89%20ti%C3%AAu/GM%20Mall/L%C3%A0m%20nh%C3%A2n%20vi%C3%AAn%20%E1%BA%A3o.md) khi làm cùng với [Quản lý máy](../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/%C3%9D%20t%C6%B0%E1%BB%9Fng%20ki%E1%BA%BFm%20ti%E1%BB%81n/3%20%C3%9D%20t%C6%B0%E1%BB%9Fng/C%C3%B4ng%20vi%E1%BB%87c%20th%E1%BB%9Di%20v%E1%BB%A5,%20c%E1%BB%99ng%20t%C3%A1c%20vi%C3%AAn/Nh%C3%B3m%20ch%E1%BA%A1y%20ch%E1%BB%89%20ti%C3%AAu/GM%20Mall/Qu%E1%BA%A3n%20l%C3%BD%20m%C3%A1y.md) sẽ chỉ tốn bạn 1 tiếng rưỡi/ngày là có thu nhập tầm 7tr/tháng. Thời gian còn lại là của bạn. 
 
@@ -21,11 +21,13 @@ Ví dụ, công việc [làm nhân viên ảo GM Mall](../../%F0%9F%93%9CT%C3%A0
 - Các cách [tạo sinh kế, thu nhập, dòng tiền](../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/%C3%9D%20t%C6%B0%E1%BB%9Fng%20ki%E1%BA%BFm%20ti%E1%BB%81n/3%20%C3%9D%20t%C6%B0%E1%BB%9Fng/index.md)
 - Một [quỹ tín dụng vi mô](../Gi%C3%BAp%20nhau%20tho%C3%A1t%20n%E1%BB%A3/Qu%E1%BB%B9%20t%C3%ADn%20d%E1%BB%A5ng%20Qu%E1%BA%A3%20C%E1%BA%A7u.md) để được vay nhanh với lãi thấp khi không còn vay được từ người thân, bạn bè
 - Sự kết nối tới những cộng đồng để [mở rộng mối quan hệ](../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/M%E1%BB%9F%20r%E1%BB%99ng%20m%E1%BB%91i%20quan%20h%E1%BB%87/index.md)
+- [Công đoàn để được bảo vệ quyền lợi trước tư bản](../%C4%90%E1%BB%91i%20tho%E1%BA%A1i%20v%E1%BB%9Bi%20t%C6%B0%20b%E1%BA%A3n/X%C3%A2y%20d%E1%BB%B1ng%20c%C3%B4ng%20%C4%91o%C3%A0n.md) 
 
-## Các công việc hiện có
+## Các công việc để phát triển nhóm 
 - [Làm nhân sự ảo](./L%C3%A0m%20nh%C3%A2n%20s%E1%BB%B1%20%E1%BA%A3o/index.md)
 - [Mở rộng mối quan hệ](../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/M%E1%BB%9F%20r%E1%BB%99ng%20m%E1%BB%91i%20quan%20h%E1%BB%87/index.md)
-- [Xây dựng hệ thống thông tin cho đại lý bảo hiểm](../T%E1%BB%B1%20%C4%91%E1%BB%99ng%20ho%C3%A1/H%E1%BB%87%20th%E1%BB%91ng%20th%C3%B4ng%20tin%20cho%20%C4%91%E1%BA%A1i%20l%C3%BD%20b%E1%BA%A3o%20hi%E1%BB%83m.md)
+- [Xây dựng hệ thống thông tin](../T%E1%BB%B1%20%C4%91%E1%BB%99ng%20ho%C3%A1/H%E1%BB%87%20th%E1%BB%91ng%20th%C3%B4ng%20tin.md)
+- [Công đoàn để được bảo vệ quyền lợi trước tư bản](../%C4%90%E1%BB%91i%20tho%E1%BA%A1i%20v%E1%BB%9Bi%20t%C6%B0%20b%E1%BA%A3n/X%C3%A2y%20d%E1%BB%B1ng%20c%C3%B4ng%20%C4%91o%C3%A0n.md)
 
 Bài chi tiết:: [Công việc của nhóm chạy chỉ tiêu](./index.md)
 ## Nơi thảo luận
