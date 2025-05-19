@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2025-05-17T21:33
+updated: 2025-05-19T15:03
 title: Câu hỏi thường gặp cho công việc làm nhân sự ảo
 ---
 ## Tôi thấy việc lừa dối người khác là điều không nên
@@ -16,5 +16,7 @@ Quản lý cũng chỉ là người làm công ăn lương chứ không phải l
 
 Thực ra miễn là số liệu của bạn đủ tốt thì sẽ chẳng ai nói gì. Nếu thỉnh thoảng bạn ăn gian thì họ cũng có thể nhắm mắt làm ngơ, giả vờ không biết. Ở một số nơi sẽ gọi chuyện này là "mắt nhắm mắt mở". Tiếng Anh gọi là "turn a blind eye". Có khi chính họ cũng làm vậy nhiều lần mới lên được chức quản lý, và họ làm được như vậy vì quản lý trước đó của họ cũng đã mắt nhắm mắt mở với họ. Nên thực ra bạn có nói thật thì trước mắt cũng sẽ không bị gì. Vấn đề là khi bị cấp lãnh đạo gây sức ép thì họ sẽ dễ bị lung lay, bởi vì trong thâm tâm họ đã biết chắc chắn là bạn làm ảo rồi. Nếu trong thâm tâm họ cũng không biết bạn có làm ảo hay không, thì họ sẽ bảo vệ bạn được tốt hơn. Họ cần sự thiếu bằng chứng rằng bạn làm ảo để có thể làm được điều đó. Có thể họ cũng đã phải làm vậy với quản lý trước đó của họ. 
 
-## Khi nào thì tôi có thể chấm dứt chuyện phải giả tạo với nhau thế này? 
+Ngoài ra, việc cho họ biết bạn làm thật cũng sẽ dễ làm họ ép bạn phải chạy số liệu ảo nhiều hơn, nếu không sẽ không bảo vệ bạn nữa. 
+
+## Khi nào thì tôi có thể chấm dứt chuyện phải giả tạo và lợi dụng nhau thế này? 
 Khi lập được công đoàn có tiếng nói, đảm bảo rằng việc họ tham gia không làm họ mất việc. 
