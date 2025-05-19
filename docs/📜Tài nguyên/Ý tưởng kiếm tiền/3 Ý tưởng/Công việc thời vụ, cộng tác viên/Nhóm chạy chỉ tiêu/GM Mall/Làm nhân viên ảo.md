@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-25T22:31
-updated: 2025-05-17T20:57
+updated: 2025-05-19T14:52
 description: "Họp online hoặc lên văn phòng chơi. Số tiền kiếm được: tối thiểu 600k, hoặc 1tr5/tháng"
 title: Làm nhân viên ảo GM Mall
 ---
@@ -10,23 +10,24 @@ Số tiền kiếm được:: Tối thiểu 600k, hoặc 1tr5/tháng
 Tính chất công việc:: [Cần khả năng ứng biến](../../../../1.%20T%C3%ADnh%20ch%E1%BA%A5t%20c%C3%B4ng%20vi%E1%BB%87c/Theo%20ki%E1%BA%BFn%20th%E1%BB%A9c,%20k%E1%BB%B9%20n%C4%83ng/C%E1%BA%A7n%20kh%E1%BA%A3%20n%C4%83ng%20%E1%BB%A9ng%20bi%E1%BA%BFn.md), [Làm trực tuyến](../../../../1.%20T%C3%ADnh%20ch%E1%BA%A5t%20c%C3%B4ng%20vi%E1%BB%87c/Theo%20t%C3%ADnh%20ch%E1%BA%A5t%20c%C3%B4ng%20vi%E1%BB%87c/L%C3%A0m%20tr%E1%BB%B1c%20tuy%E1%BA%BFn.md)
 
 ## Mô tả chi tiết
-Nhân viên các công ty có chỉ tiêu tuyển dụng cho nhân viên sẽ cần tìm người đóng giả làm nhân viên của mình. Bài chi tiết:: [Làm nhân viên ảo là làm gì?](../../../../../../%F0%9F%93%90D%E1%BB%B1%20%C3%A1n/Ch%E1%BA%A1y%20ch%E1%BB%89%20ti%C3%AAu/L%C3%A0m%20nh%C3%A2n%20s%E1%BB%B1%20%E1%BA%A3o/index.md)
+Đọc bài chi tiết [Làm nhân viên ảo là làm gì?](../../../../../../%F0%9F%93%90D%E1%BB%B1%20%C3%A1n/Ch%E1%BA%A1y%20ch%E1%BB%89%20ti%C3%AAu/L%C3%A0m%20nh%C3%A2n%20s%E1%BB%B1%20%E1%BA%A3o/index.md) để hiểu về công việc này cũng như các quyền lợi và rủi ro.
 
 - Ngày đầu lên văn phòng phỏng vấn xin việc: 250k/2 tiếng
-- 8h30 sáng mỗi ngày họp online: 50k/30 phút
+- 8h30 sáng một số ngày trong tuần họp online: 50k/30 phút
 - Đi họp trên công ty: 300k/lần, mỗi lần 1 - 3 tiếng
 
 ## Thông tin thêm
 - Ưu tiên những người có kinh nghiệm làm ảo hay đi hội thảo làm khách ảo
 - Tất cả các số liệu trưởng nhóm sẽ lo
-- Xem [tài liệu cho nhân viên ảo GM Mall](../../../../../../%F0%9F%93%90D%E1%BB%B1%20%C3%A1n/Ch%E1%BA%A1y%20ch%E1%BB%89%20ti%C3%AAu/L%C3%A0m%20nh%C3%A2n%20s%E1%BB%B1%20%E1%BA%A3o/T%C3%A0i%20li%E1%BB%87u%20cho%20t%E1%BB%ABng%20c%C3%B4ng%20ty/T%C3%A0i%20li%E1%BB%87u%20cho%20nh%C3%A2n%20vi%C3%AAn%20%E1%BA%A3o%20GM%20Mall.md) để không bị ú ớ khi bị hỏi
-- Không phải ngày nào cũng có họp. Thỉnh thoảng sẽ có những buổi không họp
+- Tháng đầu cần đi lên văn phòng tối thiểu 2 buổi (bao gồm buổi đầu tiên lên xin việc). Các tháng sau 1 buổi. 
+- Nếu bạn muốn kiểm soát tài khoản Zalo dùng cho công việc này thì bạn phải chuyển tiếp ảnh báo cáo mỗi ngày
+
+### Việc họp
+- Thỉnh thoảng sẽ có những buổi không họp. Ngày nào có họp thì sẽ gửi liên kết Google Meet để bạn tham gia
 - Việc cấp trên trông thấy bạn có đi làm thật là quan trọng. Chính vì như vậy:
 	- Nếu bạn **muốn tắt mic, tắt cam trong buổi họp**: bạn phải chat được và phải lên văn phòng thường xuyên
 	- Nếu bạn **không muốn lên văn phòng thường xuyên**: bạn phải bật mic để trả lời, hoặc bật cam và chat 
-- Tháng đầu cần đi lên văn phòng tối thiểu 2 buổi (bao gồm buổi đầu tiên lên xin việc). Các tháng sau 1 buổi. 
-- Việc bạn dùng tên thật hay tên giả không quan trọng, nhưng phải cố định không được đổi. Nếu dùng tên thật thì sẽ nhận được thêm các phúc lợi do công ty tạo ra. Nếu muốn dùng tên giả thì cần báo trước
-- Nếu bạn muốn kiểm soát tài khoản Zalo dùng cho công việc này thì bạn phải chuyển tiếp ảnh báo cáo mỗi ngày
+- Xem [tài liệu cho nhân viên ảo GM Mall](../../../../../../%F0%9F%93%90D%E1%BB%B1%20%C3%A1n/Ch%E1%BA%A1y%20ch%E1%BB%89%20ti%C3%AAu/L%C3%A0m%20nh%C3%A2n%20s%E1%BB%B1%20%E1%BA%A3o/T%C3%A0i%20li%E1%BB%87u%20cho%20t%E1%BB%ABng%20c%C3%B4ng%20ty/T%C3%A0i%20li%E1%BB%87u%20cho%20nh%C3%A2n%20vi%C3%AAn%20%E1%BA%A3o%20GM%20Mall.md) để không bị ú ớ khi bị hỏi
 
 ### Buổi đầu tiên
 | Hoạt động                                                                                                                                                 | Thời gian |
@@ -35,10 +36,12 @@ Nhân viên các công ty có chỉ tiêu tuyển dụng cho nhân viên sẽ c�
 | Di chuyển tới văn phòng để phỏng vấn xin việc                                                                                                             | 1 tiếng   |
 | Di chuyển ra công viên gần đó để tổng kết, lắng nghe cảm nhận của mọi người, lấy lại điện thoại và thanh toán tiền                                        | 30 phút   |
 
-Điện thoại và SIM dùng để:
-- Nhận điện thoại do quản lý nhá máy để lưu số
-- Tạo tài khoản Zalo với tên của bạn để thêm vào các nhóm Zalo của công ty
-- Tải app GM Mall để thực hành gom nhóm 100k
+Bạn sẽ cần cung cấp CCCD để làm hồ sơ xin việc. Bạn có thể dùng tên giả nếu muốn, bọn mình sẽ chuẩn bị sẵn cho bạn. Nếu bạn dùng tên thật thì sẽ nhận được thêm các phúc lợi mà công ty cung cấp, nhưng một khi đã chọn thì sẽ không được đổi sang tên giả.
+
+Điện thoại được phát cho bạn dùng để:
+- Nhận cuộc nhá máy của quản lý khi lưu số. Sđt sẽ được dán ở mặt sau. Bạn gỡ ra và cố gắng thuộc để khi được hỏi số thì trả lời lưu loát. Xong rồi dán lại vào máy
+- Vào Zalo, đổi tên tài khoản có sẵn sang tên của bạn và kết bạn với số 0912214006
+- Thực hành gom nhóm GM Mall 
 
 ### Thưởng
 - Tham gia các buổi họp đột xuất: 50k/30 phút
