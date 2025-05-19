@@ -1,23 +1,10 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-05-15T21:48
+updated: 2025-05-19T15:23
 ---
-[
+Tài liệu Workshop: Bây giờ vay tiền, có nên không?
 
-](https://drive.google.com/u/0?usp=docs_web)
-
-Tài liệu workshop
-
-Module 1
-
-# Tài liệu Workshop: Bây giờ vay tiền, có nên không?
-
-Chào mừng bạn đến với tài liệu tham khảo cho buổi workshop "Bây giờ vay tiền, có nên không?".
-
-Tài liệu này được tóm tắt và cấu trúc lại từ tài liệu gốc để giúp bạn dễ dàng theo dõi và áp dụng kiến thức vào các tình huống thực tế.
-
-Chúng ta sẽ cùng nhau khám phá các yếu tố quan trọng cần cân nhắc trước khi đưa ra quyết định vay tiền.
 
 ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXeh0VBSoOjvAh1q_1oMK2aJu-dNEhuLfEhvrbJJ7zrL3qyTFY_xkW91H2sJX74nPtZXEDYVk8Njca24b09L0WmXOC-TyUKQP8n6tpnrVER-2kXQO0-NigqHqW0o9dajyjm3LKQq=s800?key=H7TuBy-JP0Q4bra7qhZLQA)
 

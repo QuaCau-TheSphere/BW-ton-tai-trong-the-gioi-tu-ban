@@ -2,16 +2,16 @@
 share: true
 created: 2025-04-20T16:47
 alias: Xây dựng quỹ tín dụng vi mô
-updated: 2025-05-17T23:35
+updated: 2025-05-19T15:21
 ---
 ## Ý tưởng
 Khi một người cần vay thì sẽ có 2 nguồn để vay:
 - Mượn từ bạn bè, người thân
-- Từ [Các dịch vụ cho vay](../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Ch%E1%BB%8Dn%20s%E1%BA%A3n%20ph%E1%BA%A9m%20ph%C3%B9%20h%E1%BB%A3p/C%C3%A1c%20d%E1%BB%8Bch%20v%E1%BB%A5%20cho%20vay/index.md), dù đó là dịch vụ chính thức hay phi chính thức
+- Từ [các dịch vụ cho vay](../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Ch%E1%BB%8Dn%20s%E1%BA%A3n%20ph%E1%BA%A9m%20ph%C3%B9%20h%E1%BB%A3p/C%C3%A1c%20d%E1%BB%8Bch%20v%E1%BB%A5%20cho%20vay/index.md), dù đó là dịch vụ chính thức hay phi chính thức
 
 Nhưng mượn từ bạn bè, người thân thì [khó mở lời](./T%C3%A0i%20li%E1%BB%87u/C%C3%A1c%20kh%C3%B3%20kh%C4%83n%20c%E1%BB%A7a%20ng%C6%B0%E1%BB%9Di%20c%E1%BA%A7n%20vay%20v%C3%A0%20l%C3%BD%20do%20t%E1%BB%AB%20ch%E1%BB%91i%20cho%20vay.md), mà nếu đã mở lời thì cũng có [vô số lý do để họ không cho mượn](./T%C3%A0i%20li%E1%BB%87u/Ni%E1%BB%81m%20tin/C%C3%A1c%20l%C3%BD%20do%20cho%20vi%E1%BB%87c%20gi%C3%BAp%20%C4%91%E1%BB%A1%20ho%E1%BA%B7c%20kh%C3%B4ng%20gi%C3%BAp%20%C4%91%E1%BB%A1.md). Còn đi vay dịch vụ thì có thể không đủ điều kiện để vay, hoặc lãi quá cao. Và kể cả có vay được thì số tiền vay được cũng có thể không đủ để xử lý vấn đề. Nhưng gốc rễ của tất cả những chuyện này vẫn là họ cần mượn rất nhiều tiền. Tức là nếu cho những người này vay tiền thì gần như là chỉ một, hai lần là đã hết sạch quỹ. 
 
-Nên để đảm bảo sự bền vững, thậm chí là sự khả thi, **công việc chính của quỹ này không phải là cho vay, mà là hỗ trợ họ vay** bằng cách đứng ra mở lời cũng như đảm bảo họ sẽ trả nợ đúng cam kết. Điều đó khiến cho việc giúp đỡ họ cơ bản không khác gì mở tài khoản trên [Thiennguyen.app](https://thiennguyen.app/) hay [GoFundMe](https://www.gofundme.com/) rồi chia sẻ giùm, ai hỏi thì thay mặt họ trả lời thắc mắc. Nhưng sự khác biệt là quỹ này sẽ hỗ trợ người đi vay và người cho vay tốt hơn. Đặc biệt là phải tạo được nhiều động lực ở người cho vay hơn là tình thương thuần tuý. Cơ bản là thay vì nói "bạn cho bạn tui mượn tiền được không", có thể việc nói rằng "quỹ tín dụng vi mô bên tui muốn mời bạn làm nhà đầu tư" sẽ hấp dẫn với họ hơn. 
+Nên để đảm bảo sự bền vững, thậm chí là sự khả thi, **công việc chính của quỹ này không phải là cho vay, mà là hỗ trợ họ vay** bằng cách đứng ra mở lời cũng như đảm bảo họ sẽ trả nợ đúng cam kết. Điều đó khiến cho việc giúp đỡ họ cơ bản không khác gì mở tài khoản trên [Thiennguyen.app](https://thiennguyen.app/) hay [GoFundMe](https://www.gofundme.com/) rồi chia sẻ giùm, ai hỏi thì thay mặt họ trả lời thắc mắc. Nhưng sự khác biệt là quỹ này sẽ hỗ trợ người đi vay và người cho vay tốt hơn. Đặc biệt là phải tạo được nhiều động lực ở người cho vay hơn là tình thương thuần tuý. Cơ bản là thay vì nói "bạn cho bạn tui vay tiền được không", có thể việc nói rằng "quỹ tín dụng vi mô bên tui muốn mời bạn làm nhà đầu tư" sẽ hấp dẫn với họ hơn. 
 
 Bởi vì công việc chính của quỹ không phải là cho vay, mà là hỗ trợ họ vay, nên tốt nhất nhà đầu tư nên đầu tư trực tiếp cho khách hàng, chứ không phải cho quỹ. Nói cách khác, quỹ cần giúp đỡ khách hàng tự thành lập một quỹ cho riêng mình. Nói cách khác, quỹ cần tự nhân bản chính nó.
 
@@ -37,10 +37,10 @@ Phải hoàn thành [bản câu hỏi cho người cần được hỗ trợ tho
 Tốt nhất chỉ huy động từ những người không yêu cầu thời hạn trả nợ và tính lãi một lần, không tính theo chu kỳ. Trong trường hợp cần huy động từ những người như vậy thì cần đảm bảo còn có đủ dự trữ để trả lãi kỳ tiếp theo cho họ. Phần lãi này người vay phải gánh.
 
 ## Công việc
-- Hỗ trợ người cần vay tạo hồ sơ bản thân để tăng sự minh bạch, giải trình. Hướng đến sự tự trị dữ liệu để khách hàng có thể chủ động xây dựng quỹ tín dụng của họ với các mối quan hệ của mình
+- Hỗ trợ người cần vay [tạo hồ sơ bản thân](./B%E1%BA%A3n%20c%C3%A2u%20h%E1%BB%8Fi%20cho%20ng%C6%B0%E1%BB%9Di%20c%E1%BA%A7n%20%C4%91%C6%B0%E1%BB%A3c%20h%E1%BB%97%20tr%E1%BB%A3%20tho%C3%A1t%20n%E1%BB%A3.md) để tăng sự minh bạch, giải trình. Hướng đến sự tự trị dữ liệu để khách hàng có thể chủ động xây dựng quỹ tín dụng của họ với các mối quan hệ của mình
 - Đại diện giải đáp thắc mắc giữa các bên để giảm sự nhức đầu 
-- Hỗ trợ thương lượng với chủ nợ để giảm lãi
-- Xây dựng hệ thống để quản lý chỉ tiêu và xử lý nợ một cách trực quan
+- Hỗ trợ [thương lượng với chủ nợ](./C%C3%B4ng%20vi%E1%BB%87c/Th%C6%B0%C6%A1ng%20l%C6%B0%E1%BB%A3ng%20v%E1%BB%9Bi%20ch%E1%BB%A7%20n%E1%BB%A3.md) để giảm lãi
+- Xây dựng [hệ thống quản lý chi tiêu](../T%E1%BB%B1%20%C4%91%E1%BB%99ng%20ho%C3%A1/h%E1%BB%87%20th%E1%BB%91ng%20qu%E1%BA%A3n%20l%C3%BD%20chi%20ti%C3%AAu.md) một cách trực quan 
 - [Hỗ trợ nâng hạn mức, điểm tín dụng](./T%C3%A0i%20li%E1%BB%87u/C%C3%A1c%20c%C3%A1ch%20th%E1%BB%A9c%20n%C3%A2ng%20h%E1%BA%A1n%20m%E1%BB%A9c%20th%E1%BA%BB%20t%C3%ADn%20d%E1%BB%A5ng.md)
 - Hỗ trợ [tạo sinh kế, thu nhập, dòng tiền](../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/%C3%9D%20t%C6%B0%E1%BB%9Fng%20ki%E1%BA%BFm%20ti%E1%BB%81n/3%20%C3%9D%20t%C6%B0%E1%BB%9Fng/index.md) và [mở rộng mối quan hệ](../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/M%E1%BB%9F%20r%E1%BB%99ng%20m%E1%BB%91i%20quan%20h%E1%BB%87/index.md)
 - [Đứng ra vay giùm, cho mượn tài sản thế chấp](./C%C3%B4ng%20vi%E1%BB%87c/%C4%90%E1%BB%A9ng%20ra%20vay%20gi%C3%B9m,%20cho%20m%C6%B0%E1%BB%A3n%20t%C3%A0i%20s%E1%BA%A3n%20th%E1%BA%BF%20ch%E1%BA%A5p.md). Nếu người vay xù thì quỹ vẫn phải trả cho người cho vay. Hình thức này không khác gì một ngân hàng
