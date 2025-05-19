@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-09-14T23:01
-updated: 2025-05-15T01:01
+updated: 2025-05-19T15:06
 description: Các thông tin để bạn thẩm định việc cho Trí vay
 title: Đỗ Hàng Minh Trí
 ---
@@ -83,7 +83,7 @@ Do mới có thêm đứa con, nên chỉ có 3 lựa chọn:
 ### Lý do nên giúp Trí hơn những người khác?
 ### Quan điểm về sự giải trình và minh bạch
 ### Mức độ bí mật của những thông tin chia sẻ ở đây
-### Trí có sẵn sàng tham gia công việc [xây dựng quỹ tín dụng vi mô](../../Qu%E1%BB%B9%20t%C3%ADn%20d%E1%BB%A5ng%20Qu%E1%BA%A3%20C%E1%BA%A7u.md) không?
+### Trí có sẵn sàng tham gia công việc [xây dựng quỹ tín dụng vi mô](../../Qu%E1%BB%B9%20t%C3%ADn%20d%E1%BB%A5ng%20vi%20m%C3%B4%20Qu%E1%BA%A3%20C%E1%BA%A7u.md) không?
 
 Xem thêm:: [Các lý do cho việc giúp đỡ hoặc không giúp đỡ](../../T%C3%A0i%20li%E1%BB%87u/Ni%E1%BB%81m%20tin/C%C3%A1c%20l%C3%BD%20do%20cho%20vi%E1%BB%87c%20gi%C3%BAp%20%C4%91%E1%BB%A1%20ho%E1%BA%B7c%20kh%C3%B4ng%20gi%C3%BAp%20%C4%91%E1%BB%A1.md)
 
