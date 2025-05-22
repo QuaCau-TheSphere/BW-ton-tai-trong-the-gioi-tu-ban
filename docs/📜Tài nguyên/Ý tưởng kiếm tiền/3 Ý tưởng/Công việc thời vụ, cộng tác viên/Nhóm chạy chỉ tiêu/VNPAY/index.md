@@ -1,8 +1,9 @@
 ---
 share: true
 created: 2025-05-15T13:59
-updated: 2025-05-15T14:01
+updated: 2025-05-19T18:28
 title: Nhóm chạy chỉ tiêu cho nhân viên VNPAY
+alias: Công việc trong VNPAY
 ---
 Tính chất công việc:: [Làm trực tuyến](../../../../1.%20T%C3%ADnh%20ch%E1%BA%A5t%20c%C3%B4ng%20vi%E1%BB%87c/Theo%20t%C3%ADnh%20ch%E1%BA%A5t%20c%C3%B4ng%20vi%E1%BB%87c/L%C3%A0m%20tr%E1%BB%B1c%20tuy%E1%BA%BFn.md), [Cần khả năng ứng biến](../../../../1.%20T%C3%ADnh%20ch%E1%BA%A5t%20c%C3%B4ng%20vi%E1%BB%87c/Theo%20ki%E1%BA%BFn%20th%E1%BB%A9c,%20k%E1%BB%B9%20n%C4%83ng/C%E1%BA%A7n%20kh%E1%BA%A3%20n%C4%83ng%20%E1%BB%A9ng%20bi%E1%BA%BFn.md)
 Hình thức:: [Công việc thời vụ, cộng tác viên](../../index.md)
@@ -12,8 +13,8 @@ Hình thức:: [Công việc thời vụ, cộng tác viên](../../index.md)
 
 | File                                                                                                                                                                                                                     | Số tiền kiếm được | Mô tả công việc |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------- | --------------- |
-| [Làm nhân viên ảo](./L%C3%A0m%20nh%C3%A2n%20vi%C3%AAn%20%E1%BA%A3o.md)                                                                             | 2tr/tháng         | \-              |
 | [Viết hợp đồng, thu thập thông tin khách hàng tiềm năng](./Vi%E1%BA%BFt%20h%E1%BB%A3p%20%C4%91%E1%BB%93ng,%20thu%20th%E1%BA%ADp%20th%C3%B4ng%20tin%20kh%C3%A1ch%20h%C3%A0ng%20ti%E1%BB%81m%20n%C4%83ng.md) | \-                | \-              |
+| [Làm nhân viên ảo](./L%C3%A0m%20nh%C3%A2n%20vi%C3%AAn%20%E1%BA%A3o.md)                                                                             | 2tr/tháng         | \-              |
 | [Đổi tiền, chụp hình biển hiệu, dán mã QR](./%C4%90%E1%BB%95i%20ti%E1%BB%81n,%20ch%E1%BB%A5p%20h%C3%ACnh%20bi%E1%BB%83n%20hi%E1%BB%87u,%20d%C3%A1n%20m%C3%A3%20QR.md)                             | \-                | \-              |
 
 
