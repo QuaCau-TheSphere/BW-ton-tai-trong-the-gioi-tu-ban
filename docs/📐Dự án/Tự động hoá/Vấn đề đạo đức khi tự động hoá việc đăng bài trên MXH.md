@@ -40,3 +40,5 @@ Hay nói cách khác, đây là thứ đỡ tệ nhất khi mà [quỹ tín dụ
 Xây dựng [Giúp nhau thoát nợ](../Gi%C3%BAp%20nhau%20tho%C3%A1t%20n%E1%BB%A3/index.md)
 
 Người dùng có thể sử dụng các công cụ [giảm rác trên mạng xã hội](https://obsidian.quảcầu.cc/📜Tài%20nguyên/Nhu%20cầu%20công%20nghệ/Loại%20bỏ%20phiền%20nhiễu,%20vượt%20rào%20cản/Web/Giảm%20rác%20trên%20mạng%20xã%20hội?utm_source=Vault+B+Tồn+tại+trong+thế+giới+tư+bản+(Dự+án)&utm_medium=Vault&utm_campaign=C1&utm_content=📐Dự+án%2FTự+động+hoá%2FXây+dựng+thương+hiệu+trên+MXH.md&utm_term=), hoặc bỏ Facebook, qua Mastodon luôn. Nhưng họ cũng phải hiểu là việc họ không quan tâm mà lại trách thì cũng là một dạng vô tâm
+
+Xem thêm:: [Vấn đề đạo đức](../Ch%E1%BA%A1y%20ch%E1%BB%89%20ti%C3%AAu/L%C3%A0m%20nh%C3%A2n%20s%E1%BB%B1%20%E1%BA%A3o/V%E1%BA%A5n%20%C4%91%E1%BB%81%20%C4%91%E1%BA%A1o%20%C4%91%E1%BB%A9c.md)
