@@ -1,8 +1,9 @@
 ---
 share: true
 created: 2025-04-21T15:33
+updated: 2025-05-19T18:29
 title: Nhóm chạy chỉ tiêu cho nhân viên GM Mall
-updated: 2025-05-15T14:55
+alias: Công việc trong GM Mall
 ---
 Tính chất công việc:: [Làm trực tuyến](../../../../1.%20T%C3%ADnh%20ch%E1%BA%A5t%20c%C3%B4ng%20vi%E1%BB%87c/Theo%20t%C3%ADnh%20ch%E1%BA%A5t%20c%C3%B4ng%20vi%E1%BB%87c/L%C3%A0m%20tr%E1%BB%B1c%20tuy%E1%BA%BFn.md), [Cần khả năng ứng biến](../../../../1.%20T%C3%ADnh%20ch%E1%BA%A5t%20c%C3%B4ng%20vi%E1%BB%87c/Theo%20ki%E1%BA%BFn%20th%E1%BB%A9c,%20k%E1%BB%B9%20n%C4%83ng/C%E1%BA%A7n%20kh%E1%BA%A3%20n%C4%83ng%20%E1%BB%A9ng%20bi%E1%BA%BFn.md)
 Hình thức:: [Công việc thời vụ, cộng tác viên](../../index.md)
@@ -10,13 +11,14 @@ Hình thức:: [Công việc thời vụ, cộng tác viên](../../index.md)
 > [!important] Nhìn toàn cảnh
 > Công việc này là một phần của [Nhóm chạy chỉ tiêu cho nhân sự](../../../../../../%F0%9F%93%90D%E1%BB%B1%20%C3%A1n/Ch%E1%BA%A1y%20ch%E1%BB%89%20ti%C3%AAu/L%E1%BB%9Di%20m%E1%BB%9Di%20tham%20gia%20nh%C3%B3m%20ch%E1%BA%A1y%20ch%E1%BB%89%20ti%C3%AAu%20cho%20nh%C3%A2n%20s%E1%BB%B1.md). Đọc bài đó để hiểu thêm về mục tiêu dài hạn của dự án cũng như các lợi ích khác của bạn
 
-| File                                                                                                                                             | Số tiền kiếm được                     | Mô tả công việc                                                             |
-| ------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------- | --------------------------------------------------------------------------- |
-| [Gom nhóm](./Gom%20nh%C3%B3m.md)                   | 50k/tài khoản tạo mới                 | Tải app GM Mall, đăng ký, nhập mã giới thiệu, nạp tiền, gom nhóm, rút tiền  |
-| [Quản lý máy](./Qu%E1%BA%A3n%20l%C3%BD%20m%C3%A1y.md)             | 5tr/tháng + quà tặng rất thường xuyên | Quản lý phonefarm gồm 60 - 80 cái điện thoại                                |
-| [Giữ tiền hộ](./Gi%E1%BB%AF%20ti%E1%BB%81n%20h%E1%BB%99.md)             | 60k/stk ngân hàng                     | Chuyển dùm tiền được gửi về tài khoản ngân hàng của bạn sang tài khoản khác |
-| [Nhận hàng bán lại](./Nh%E1%BA%ADn%20h%C3%A0ng%20b%C3%A1n%20l%E1%BA%A1i.md) | Tuỳ vào món hàng được nhận            | Cung cấp địa chỉ để được nhận hàng miễn phí                                 |
-| [Làm nhân viên ảo](./L%C3%A0m%20nh%C3%A2n%20vi%C3%AAn%20%E1%BA%A3o.md)   | Tối thiểu 600k, hoặc 1tr5/tháng       | Họp online hoặc lên văn phòng chơi                                          |
+| File                                                                                                                                               | Số tiền kiếm được                     | Mô tả công việc                                                             |
+| -------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------- | --------------------------------------------------------------------------- |
+| [Giữ tiền hộ](./Gi%E1%BB%AF%20ti%E1%BB%81n%20h%E1%BB%99.md)               | 60k/stk ngân hàng                     | Chuyển dùm tiền được gửi về tài khoản ngân hàng của bạn sang tài khoản khác |
+| [Gom nhóm](./Gom%20nh%C3%B3m.md)                     | 50k/tài khoản tạo mới                 | Tải app GM Mall, đăng ký, nhập mã giới thiệu, nạp tiền, gom nhóm, rút tiền  |
+| [Làm nhân viên ảo](./L%C3%A0m%20nh%C3%A2n%20vi%C3%AAn%20%E1%BA%A3o.md)     | Tối thiểu 600k, hoặc 1tr5/tháng       | Họp online hoặc lên văn phòng chơi                                          |
+| [Nhận hàng bán lại](./Nh%E1%BA%ADn%20h%C3%A0ng%20b%C3%A1n%20l%E1%BA%A1i.md)   | Tuỳ vào món hàng được nhận            | Cung cấp địa chỉ để được nhận hàng miễn phí                                 |
+| [Quản lý máy](./Qu%E1%BA%A3n%20l%C3%BD%20m%C3%A1y.md)               | 5tr/tháng + quà tặng rất thường xuyên | Quản lý phonefarm gồm 60 - 80 cái điện thoại                                |
+| [Làm trưởng nhóm ảo](./L%C3%A0m%20tr%C6%B0%E1%BB%9Fng%20nh%C3%B3m%20%E1%BA%A3o.md) | \-                                    | \-                                                                          |
 
 
 ## Câu hỏi thường gặp

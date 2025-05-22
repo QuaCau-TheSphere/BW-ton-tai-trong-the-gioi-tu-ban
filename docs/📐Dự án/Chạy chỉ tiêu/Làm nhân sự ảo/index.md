@@ -7,7 +7,7 @@ aliases:
   - Danh sách công việc làm nhân sự ảo
   - Làm danh tính khác của nhân sự thật
   - Làm hình nhân thế mạng
-updated: 2025-05-15T15:05
+updated: 2025-05-19T18:30
 title: Làm nhân sự ảo
 ---
 ## Mô tả công việc
@@ -36,7 +36,7 @@ Với Cueball:
 - Có những lúc công ty họp đột xuất hoặc đào tạo dài ngày thì phải sắp xếp thời gian chạy lên được
 - Phải chịu trách nhiệm cho những gì Megan làm. Có thể nói số tiền Cueball được nhận là tiền để Cueball làm hình nhân thế mạng cho Megan. Nhưng thường Cueball không phải lo, vì Cueball vẫn phải là người kiểm duyệt cuối cùng.
 
-Xem thêm:: [Câu hỏi thường gặp cho công việc làm nhân sự ảo](./C%C3%A2u%20h%E1%BB%8Fi%20th%C6%B0%E1%BB%9Dng%20g%E1%BA%B7p.md)
+Xem thêm:: [Câu hỏi thường gặp cho công việc làm nhân sự ảo](./V%E1%BA%A5n%20%C4%91%E1%BB%81%20%C4%91%E1%BA%A1o%20%C4%91%E1%BB%A9c.md)
 Xem thêm:: [Bao nuôi](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Qu%C3%A0%20t%E1%BA%B7ng/Bao%20nu%C3%B4i/index.md)
 
 ## Một số công việc nhân sự ảo
@@ -46,7 +46,7 @@ Xem thêm:: [Bao nuôi](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Qu%C3%A0%20t
 - Sàn thương mại điện tử: [GM Mall](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/%C3%9D%20t%C6%B0%E1%BB%9Fng%20ki%E1%BA%BFm%20ti%E1%BB%81n/3%20%C3%9D%20t%C6%B0%E1%BB%9Fng/C%C3%B4ng%20vi%E1%BB%87c%20th%E1%BB%9Di%20v%E1%BB%A5,%20c%E1%BB%99ng%20t%C3%A1c%20vi%C3%AAn/Nh%C3%B3m%20ch%E1%BA%A1y%20ch%E1%BB%89%20ti%C3%AAu/GM%20Mall/L%C3%A0m%20nh%C3%A2n%20vi%C3%AAn%20%E1%BA%A3o.md)
 
 > [!important] Nhìn toàn cảnh
-> Công việc này là một phần của [Nhóm chạy chỉ tiêu cho nhân sự](../L%E1%BB%9Di%20m%E1%BB%9Di%20tham%20gia%20nh%C3%B3m%20ch%E1%BA%A1y%20ch%E1%BB%89%20ti%C3%AAu%20cho%20nh%C3%A2n%20s%E1%BB%B1.md). Đọc bài đó để hiểu thêm về mục tiêu dài hạn của dự án cũng như các lợi ích khác của bạn
+> Công việc này là một phần của [Nhóm chạy chỉ tiêu cho nhân sự](../L%E1%BB%9Di%20m%E1%BB%9Di%20tham%20gia%20nh%C3%B3m%20ch%E1%BA%A1y%20ch%E1%BB%89%20ti%C3%AAu%20cho%20nh%C3%A2n%20s%E1%BB%B1.md). Đọc bài đó để hiểu thêm về mục tiêu dài hạn của dự án cũng như các lợi ích khác của bạn. Bạn có thể xem thêm [công việc thời vụ, cộng tác viên](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/%C3%9D%20t%C6%B0%E1%BB%9Fng%20ki%E1%BA%BFm%20ti%E1%BB%81n/3%20%C3%9D%20t%C6%B0%E1%BB%9Fng/C%C3%B4ng%20vi%E1%BB%87c%20th%E1%BB%9Di%20v%E1%BB%A5,%20c%E1%BB%99ng%20t%C3%A1c%20vi%C3%AAn/index.md) và [công việc làm online](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/%C3%9D%20t%C6%B0%E1%BB%9Fng%20ki%E1%BA%BFm%20ti%E1%BB%81n/1.%20T%C3%ADnh%20ch%E1%BA%A5t%20c%C3%B4ng%20vi%E1%BB%87c/Theo%20t%C3%ADnh%20ch%E1%BA%A5t%20c%C3%B4ng%20vi%E1%BB%87c/L%C3%A0m%20tr%E1%BB%B1c%20tuy%E1%BA%BFn.md)
 
 Khái niệm:: [Chạy ảo, làm ảo, nhân sự ảo](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Ch%E1%BA%A1y%20%E1%BA%A3o,%20l%C3%A0m%20%E1%BA%A3o,%20nh%C3%A2n%20s%E1%BB%B1%20%E1%BA%A3o.md)
 Yêu cầu đầu vào:: [Mỗi tuần lên công ty một buổi](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/%C3%9D%20t%C6%B0%E1%BB%9Fng%20ki%E1%BA%BFm%20ti%E1%BB%81n/1.%20T%C3%ADnh%20ch%E1%BA%A5t%20c%C3%B4ng%20vi%E1%BB%87c/Theo%20th%E1%BB%9Di%20gian/M%E1%BB%97i%20tu%E1%BA%A7n%20l%C3%AAn%20c%C3%B4ng%20ty%20m%E1%BB%99t%20bu%E1%BB%95i.md), [Sắp xếp theo lịch được cho trước](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/%C3%9D%20t%C6%B0%E1%BB%9Fng%20ki%E1%BA%BFm%20ti%E1%BB%81n/1.%20T%C3%ADnh%20ch%E1%BA%A5t%20c%C3%B4ng%20vi%E1%BB%87c/Theo%20th%E1%BB%9Di%20gian/S%E1%BA%AFp%20x%E1%BA%BFp%20theo%20l%E1%BB%8Bch%20%C4%91%C6%B0%E1%BB%A3c%20cho%20tr%C6%B0%E1%BB%9Bc.md)

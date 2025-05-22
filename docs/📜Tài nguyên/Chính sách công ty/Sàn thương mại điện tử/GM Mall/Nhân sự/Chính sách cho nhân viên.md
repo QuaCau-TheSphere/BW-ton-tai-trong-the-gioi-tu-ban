@@ -15,6 +15,10 @@ Mỗi người có một ngày xét khác nhau. Trưởng nhóm sẽ quyết đ�
 ## Khách hàng hiệu quả
 Xem bài chi tiết:: [Quy định nhóm Zalo và định nghĩa khách hàng tích cực](./Quy%20%C4%91%E1%BB%8Bnh%20nh%C3%B3m%20Zalo%20v%C3%A0%20%C4%91%E1%BB%8Bnh%20ngh%C4%A9a%20kh%C3%A1ch%20h%C3%A0ng%20t%C3%ADch%20c%E1%BB%B1c.md)
 
+Mà lại còn bị dọa:
+1. Cho sa thải nếu ko đủ đơn phúc lợi
+2. Khi sa thải hoặc tự nghỉ thì khóa tk k rút đc
+
 ## Minh hoạ
 Giả sử bạn giới thiệu được một người. Người đó gọi là F1. F1 giới thiệu F2, F2 giới thiệu F3. Bản thân bạn được một nhân viên giới thiệu:
 ```

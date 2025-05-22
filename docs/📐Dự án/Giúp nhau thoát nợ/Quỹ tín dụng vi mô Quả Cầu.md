@@ -2,7 +2,7 @@
 share: true
 created: 2025-04-20T16:47
 alias: Xây dựng quỹ tín dụng vi mô
-updated: 2025-05-19T15:21
+updated: 2025-05-20T16:30
 ---
 ## Ý tưởng
 Khi một người cần vay thì sẽ có 2 nguồn để vay:
@@ -50,14 +50,16 @@ Tốt nhất chỉ huy động từ những người không yêu cầu thời h�
 ### Nhỡ bị xù thì sao?
 Có người bị xù nợ nói rằng họ cho người quen tới 10 năm, đi chùa cùng hàng tuần mà vẫn còn bị xù được. Họ biết được cả nơi sống của con nợ, vào tận nhà còn không đòi được, thì chẳng có lý do gì mà đảm bảo người ta không xù cả.
 
-Nhưng họ đã đồng hành với người đi vay như thế nào? 
+Nhưng người đó đã đồng hành với người đi vay như thế nào? 
 
-Liệu rằng thông tin ghi trong [bản câu hỏi cho người cần được hỗ trợ thoát nợ](./B%E1%BA%A3n%20c%C3%A2u%20h%E1%BB%8Fi%20cho%20ng%C6%B0%E1%BB%9Di%20c%E1%BA%A7n%20%C4%91%C6%B0%E1%BB%A3c%20h%E1%BB%97%20tr%E1%BB%A3%20tho%C3%A1t%20n%E1%BB%A3.md) sẽ giúp quỹ đồng hành được với khách hàng tốt hơn, và đáp ứng được các nhu cầu khác mà không cần phải dùng tới tiền? Công sức để trả lời chúng cũng khá lớn, và buộc khách hàng phải minh bạch, nên xem như ai hoàn thành được nó thì khả năng xù thấp hơn. Nói chung, đừng xem người đi vay là thứ để mình kiếm lợi nhuận, mà hãy là một người bạn với họ. Hãy vẫn tiếp tục giúp đỡ họ, kể cả khi họ không trả tiền.
+Liệu rằng thông tin ghi trong [bản câu hỏi cho người cần được hỗ trợ thoát nợ](./B%E1%BA%A3n%20c%C3%A2u%20h%E1%BB%8Fi%20cho%20ng%C6%B0%E1%BB%9Di%20c%E1%BA%A7n%20%C4%91%C6%B0%E1%BB%A3c%20h%E1%BB%97%20tr%E1%BB%A3%20tho%C3%A1t%20n%E1%BB%A3.md) sẽ giúp quỹ đồng hành được với khách hàng tốt hơn, và đáp ứng được các nhu cầu khác mà không cần phải dùng tới tiền? Công sức để trả lời chúng cũng khá lớn, và buộc khách hàng phải minh bạch, nên xem như ai hoàn thành được nó thì khả năng xù thấp hơn. Ngoài ra, [cho vay theo nhóm bền vững hơn, ít bị quịt hơn](../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/T%E1%BB%95%20ch%E1%BB%A9c%20t%C3%A0i%20ch%C3%ADnh/T%E1%BB%95%20ch%E1%BB%A9c%20t%C3%ADn%20d%E1%BB%A5ng/Cho%20vay%20theo%20nh%C3%B3m%20b%E1%BB%81n%20v%E1%BB%AFng%20h%C6%A1n,%20%C3%ADt%20b%E1%BB%8B%20qu%E1%BB%8Bt%20h%C6%A1n.%20Cho%20vay%20c%C3%A1%20nh%C3%A2n%20nhi%E1%BB%81u%20l%E1%BB%A3i%20nhu%E1%BA%ADn%20h%C6%A1n,%20d%E1%BB%85%20m%E1%BB%9F%20r%E1%BB%99ng%20ph%E1%BA%A1m%20vi%20ho%E1%BA%A1t%20%C4%91%E1%BB%99ng%20h%C6%A1n.md). Có thể gom những người có điểm tín dụng thấp vào một nhóm và cho nhóm này vay.
 
-Ngoài ra, [cho vay theo nhóm bền vững hơn, ít bị quịt hơn](../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/T%E1%BB%95%20ch%E1%BB%A9c%20t%C3%A0i%20ch%C3%ADnh/T%E1%BB%95%20ch%E1%BB%A9c%20t%C3%ADn%20d%E1%BB%A5ng/Cho%20vay%20theo%20nh%C3%B3m%20b%E1%BB%81n%20v%E1%BB%AFng%20h%C6%A1n,%20%C3%ADt%20b%E1%BB%8B%20qu%E1%BB%8Bt%20h%C6%A1n.%20Cho%20vay%20c%C3%A1%20nh%C3%A2n%20nhi%E1%BB%81u%20l%E1%BB%A3i%20nhu%E1%BA%ADn%20h%C6%A1n,%20d%E1%BB%85%20m%E1%BB%9F%20r%E1%BB%99ng%20ph%E1%BA%A1m%20vi%20ho%E1%BA%A1t%20%C4%91%E1%BB%99ng%20h%C6%A1n.md). Có thể gom những người có điểm tín dụng thấp vào một nhóm và cho nhóm này vay.
+Nhưng có lẽ hay hơn cả, là đừng xem người đi vay là thứ để mình kiếm lợi nhuận, mà hãy là một người bạn với họ. Hãy vẫn tiếp tục giúp đỡ họ, kể cả khi họ không trả tiền. Cùng thảo luận với họ về [các ý tưởng kiếm tiền](../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/%C3%9D%20t%C6%B0%E1%BB%9Fng%20ki%E1%BA%BFm%20ti%E1%BB%81n/3%20%C3%9D%20t%C6%B0%E1%BB%9Fng/index.md), giúp họ [chạy chỉ tiêu](../Ch%E1%BA%A1y%20ch%E1%BB%89%20ti%C3%AAu/index.md), [tạo thu nhập thụ động](../T%E1%BA%A1o%20thu%20nh%E1%BA%ADp%20th%E1%BB%A5%20%C4%91%E1%BB%99ng/index.md), [mở rộng mối quan hệ](../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/M%E1%BB%9F%20r%E1%BB%99ng%20m%E1%BB%91i%20quan%20h%E1%BB%87/index.md), [chọn sản phẩm phù hợp](../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Ch%E1%BB%8Dn%20s%E1%BA%A3n%20ph%E1%BA%A9m%20ph%C3%B9%20h%E1%BB%A3p/index.md), [xây dựng công đoàn](../%C4%90%E1%BB%91i%20tho%E1%BA%A1i%20v%E1%BB%9Bi%20t%C6%B0%20b%E1%BA%A3n/X%C3%A2y%20d%E1%BB%B1ng%20c%C3%B4ng%20%C4%91o%C3%A0n.md). Như vậy họ sẽ không thấy mình đang trục lợi họ, mà chỉ muốn nâng đỡ họ. Họ sẽ không có lý do để xù mình.
 
 ### Nếu bị xù thì lấy gì để trả nợ cho người cho quỹ vay?
 Tốt nhất chỉ huy động từ những người không yêu cầu thời hạn trả nợ và tính lãi một lần, không tính theo chu kỳ. Trong trường hợp cần huy động từ những người như vậy thì cần đảm bảo còn có đủ dự trữ để trả lãi kỳ tiếp theo cho họ. 
+
+Có thể tính toán như ngân hàng, sao cho tiền lời vẫn đủ để có thể chấp nhận một số người xù
 
 ## Nơi thảo luận
 ![](https://i.imgur.com/RNcEBe4.png)
