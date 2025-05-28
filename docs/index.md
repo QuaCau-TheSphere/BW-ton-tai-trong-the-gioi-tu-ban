@@ -2,7 +2,7 @@
 share: true
 filename: index
 created: 2023-09-05T16:17
-updated: 2025-04-27T20:48
+updated: 2025-05-26T19:47
 title: Nơi này là nơi nào
 ---
 Tiêu chí lựa chọn:
@@ -11,7 +11,7 @@ Tiêu chí lựa chọn:
 
 Những kiểu nói văn vẻ để trông không quá áp lực hoặc được nhiều quyền lợi
 Thừa nhận là có nhiều cái 
-Tạo Nguồn dữ liệu thông tin cá nhân uy tín, được sự cho phép của, phù hợp với các mong đợi về đạo đức
+Tạo nguồn dữ liệu thông tin cá nhân uy tín, được sự cho phép của, phù hợp với các mong đợi về đạo đức
 
 Có những người đến nơi này còn đang ở trạng thái dằn vặt lương tâm, có những người đã chấp nhận để có thể tồn tại. 
 
@@ -32,7 +32,7 @@ Nền kinh tế vừa đủ
 - Bối cảnh thực tế, áp dụng ở VN:
 	- [Cứ 10 người tìm việc thì có 6 người có bằng đại học, nhưng nhu cầu tuyển dụng chỉ cần có 2](./%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Ki%E1%BA%BFm%20ti%E1%BB%81n/L%C3%A0m%20thu%C3%AA/C%E1%BB%A9%2010%20ng%C6%B0%E1%BB%9Di%20t%C3%ACm%20vi%E1%BB%87c%20th%C3%AC%20c%C3%B3%206%20ng%C6%B0%E1%BB%9Di%20c%C3%B3%20b%E1%BA%B1ng%20%C4%91%E1%BA%A1i%20h%E1%BB%8Dc,%20nh%C6%B0ng%20nhu%20c%E1%BA%A7u%20tuy%E1%BB%83n%20d%E1%BB%A5ng%20ch%E1%BB%89%20c%E1%BA%A7n%20c%C3%B3%202.md)
 	- [6 tháng đầu năm 2024 có hơn 5 ngàn người chết, gần 10 ngàn người bị thương do tai nạn giao thông](./%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/T%E1%BB%95%20ch%E1%BB%A9c%20t%C3%A0i%20ch%C3%ADnh/B%E1%BA%A3o%20hi%E1%BB%83m/Nhu%20c%E1%BA%A7u,%20l%E1%BB%A3i%20%C3%ADch%20c%E1%BB%A7a%20kh%C3%A1ch%20h%C3%A0ng/T%E1%BB%89%20l%E1%BB%87%20tai%20n%E1%BA%A1n/6%20th%C3%A1ng%20%C4%91%E1%BA%A7u%20n%C4%83m%202024%20c%C3%B3%20h%C6%A1n%205%20ng%C3%A0n%20ng%C6%B0%E1%BB%9Di%20ch%E1%BA%BFt,%20g%E1%BA%A7n%2010%20ng%C3%A0n%20ng%C6%B0%E1%BB%9Di%20b%E1%BB%8B%20th%C6%B0%C6%A1ng%20do%20tai%20n%E1%BA%A1n%20giao%20th%C3%B4ng.md)
-	- [An ninh mạng ở Việt Nam rất tệ](./%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Ki%E1%BA%BFm%20ti%E1%BB%81n/L%C3%A0m%20ch%E1%BB%A7/T%C3%A0i%20kho%E1%BA%A3n%20%E1%BA%A3o,%20mua%20b%C3%A1n%20th%C3%B4ng%20tin%20c%C3%A1%20nh%C3%A2n/An%20ninh%20m%E1%BA%A1ng%20%E1%BB%9F%20Vi%E1%BB%87t%20Nam%20r%E1%BA%A5t%20t%E1%BB%87.md)
+	- [An ninh mạng ở Việt Nam rất tệ](./%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Ki%E1%BA%BFm%20ti%E1%BB%81n/Ph%E1%BA%A1m%20t%E1%BB%99i/Mua%20b%C3%A1n%20th%C3%B4ng%20tin%20c%C3%A1%20nh%C3%A2n/An%20ninh%20m%E1%BA%A1ng%20%E1%BB%9F%20Vi%E1%BB%87t%20Nam%20r%E1%BA%A5t%20t%E1%BB%87.md)
 
 ## [📜Tài nguyên](./%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/index.md)
 - Nghiệp vụ, chính sách của một công ty cụ thể
