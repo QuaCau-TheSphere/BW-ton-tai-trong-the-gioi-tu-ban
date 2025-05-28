@@ -7,7 +7,7 @@ aliases:
   - Danh sách công việc làm nhân sự ảo
   - Làm danh tính khác của nhân sự thật
   - Làm hình nhân thế mạng
-updated: 2025-05-19T18:30
+updated: 2025-05-28T13:22
 title: Làm nhân sự ảo
 ---
 ## Mô tả công việc
@@ -22,7 +22,7 @@ Với Megan:
 
 Với Cueball:
 - Được một công việc tốn ít thời gian
-- Toàn bộ quyền lợi của một nhân viên thật: 
+- Được toàn bộ quyền lợi của một nhân viên thật: 
 	- Bảo hiểm xã hội và các phúc lợi khác như du lịch, bảo hiểm nhân thọ, v.v.
 	- Hiểu cách công ty hoạt động và kiến thức ngành nghề. Có thêm thứ để điền vào CV
 	- Các mối quan hệ mới và dữ liệu khách hàng
@@ -36,7 +36,7 @@ Với Cueball:
 - Có những lúc công ty họp đột xuất hoặc đào tạo dài ngày thì phải sắp xếp thời gian chạy lên được
 - Phải chịu trách nhiệm cho những gì Megan làm. Có thể nói số tiền Cueball được nhận là tiền để Cueball làm hình nhân thế mạng cho Megan. Nhưng thường Cueball không phải lo, vì Cueball vẫn phải là người kiểm duyệt cuối cùng.
 
-Xem thêm:: [Câu hỏi thường gặp cho công việc làm nhân sự ảo](./V%E1%BA%A5n%20%C4%91%E1%BB%81%20%C4%91%E1%BA%A1o%20%C4%91%E1%BB%A9c.md)
+Xem thêm:: [Vấn đề đạo đức khi làm ảo](./V%E1%BA%A5n%20%C4%91%E1%BB%81%20%C4%91%E1%BA%A1o%20%C4%91%E1%BB%A9c.md)
 Xem thêm:: [Bao nuôi](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Qu%C3%A0%20t%E1%BA%B7ng/Bao%20nu%C3%B4i/index.md)
 
 ## Một số công việc nhân sự ảo
@@ -53,4 +53,5 @@ Yêu cầu đầu vào:: [Mỗi tuần lên công ty một buổi](../../../%F0%
 Hình thức:: [Vị trí chính thức của một công ty](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/%C3%9D%20t%C6%B0%E1%BB%9Fng%20ki%E1%BA%BFm%20ti%E1%BB%81n/2%20H%C3%ACnh%20th%E1%BB%A9c/V%E1%BB%8B%20tr%C3%AD%20ch%C3%ADnh%20th%E1%BB%A9c%20c%E1%BB%A7a%20m%E1%BB%99t%20c%C3%B4ng%20ty.md), [Công việc thời vụ, cộng tác viên](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/%C3%9D%20t%C6%B0%E1%BB%9Fng%20ki%E1%BA%BFm%20ti%E1%BB%81n/3%20%C3%9D%20t%C6%B0%E1%BB%9Fng/C%C3%B4ng%20vi%E1%BB%87c%20th%E1%BB%9Di%20v%E1%BB%A5,%20c%E1%BB%99ng%20t%C3%A1c%20vi%C3%AAn/index.md)
 
 ## Nơi thảo luận
+[Công việc vô nghĩa, tổ chức vô lý](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/V%C3%AC%20ng%C6%B0%E1%BB%9Di%20y%E1%BA%BFu%20th%E1%BA%BF/V%C3%AC%20ng%C6%B0%E1%BB%9Di%20lao%20%C4%91%E1%BB%99ng/C%C3%B4ng%20vi%E1%BB%87c%20v%C3%B4%20ngh%C4%A9a,%20t%E1%BB%95%20ch%E1%BB%A9c%20v%C3%B4%20l%C3%BD.md)
 ![](https://i.imgur.com/utzUsO2.png)
