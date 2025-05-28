@@ -1,0 +1,17 @@
+---
+share: true
+created: 2024-11-18T13:26
+updated: 2025-05-28T14:12
+title: Tạo thu nhập thụ động đủ để cân bằng với việc trả lãi nợ
+---
+[Thu nhập thụ động có hàm ý đã biết chắc chắn ngày nào mình nhận tiền với bao nhiêu tiền. Dòng tiền thì không](../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Ki%E1%BA%BFm%20ti%E1%BB%81n/T%E1%BB%B1%20%C4%91%E1%BA%A7u%20t%C6%B0/Thu%20nh%E1%BA%ADp%20th%E1%BB%A5%20%C4%91%E1%BB%99ng%20c%C3%B3%20h%C3%A0m%20%C3%BD%20%C4%91%C3%A3%20bi%E1%BA%BFt%20ch%E1%BA%AFc%20ch%E1%BA%AFn%20ng%C3%A0y%20n%C3%A0o%20m%C3%ACnh%20nh%E1%BA%ADn%20ti%E1%BB%81n%20v%E1%BB%9Bi%20bao%20nhi%C3%AAu%20ti%E1%BB%81n.%20D%C3%B2ng%20ti%E1%BB%81n%20th%C3%AC%20kh%C3%B4ng.md)
+
+- [Kiếm tiền trực tuyến (MMO)](../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Ki%E1%BA%BFm%20ti%E1%BB%81n/T%E1%BB%B1%20%C4%91%E1%BA%A7u%20t%C6%B0/Ki%E1%BA%BFm%20ti%E1%BB%81n%20tr%E1%BB%B1c%20tuy%E1%BA%BFn%20(MMO)/index.md)
+- SaaS
+- Cho thuê tài sản: đất, nhà
+- Đầu tư vào cổ phiếu, trái phiếu, quỹ đầu tư
+
+Nếu không có thì chắc chỉ là bào lại tiền của tư bản? Nó quay lại câu chuyện làm ảo: [Làm nhân sự ảo](../Ch%E1%BA%A1y%20ch%E1%BB%89%20ti%C3%AAu/L%C3%A0m%20nh%C3%A2n%20s%E1%BB%B1%20%E1%BA%A3o/index.md), [Tạo kết quả ảo](../Ch%E1%BA%A1y%20ch%E1%BB%89%20ti%C3%AAu/L%C3%A0m%20nh%C3%A2n%20s%E1%BB%B1%20th%E1%BA%ADt/T%E1%BA%A1o%20k%E1%BA%BFt%20qu%E1%BA%A3%20%E1%BA%A3o/index.md)
+
+
+[Đáy xã hội - Rat race: Làm thế nào để thoát ra?](https://bachhoavienvong.substack.com/p/ay-xa-hoi-rat-race-lam-the-nao-e)

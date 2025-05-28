@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-23T17:44
-updated: 2025-05-15T13:16
+updated: 2025-05-28T14:07
 ---
 [Liệu công ty X có đang lừa đảo, rửa tiền không?](../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/T%E1%BB%95%20ch%E1%BB%A9c%20t%C3%A0i%20ch%C3%ADnh/C%C3%B4ng%20ty%20khuy%E1%BA%BFn%20m%C3%A3i%20nhi%E1%BB%81u%20l%C3%A0%20v%C3%AC%20s%E1%BB%91%20ti%E1%BB%81n%20b%E1%BB%8F%20ra%20cho%20m%C3%ACnh%20nh%E1%BB%8F%20h%C6%A1n%20s%E1%BB%91%20ti%E1%BB%81n%20nh%E1%BA%ADn%20%C4%91%C6%B0%E1%BB%A3c.md)
 
@@ -36,3 +36,5 @@ Bạn rất lấy làm tiếc khi đã không trung thực trong lúc xin việc
 Có thể việc này sẽ khiến công ty thấy kỳ lạ, khác biệt, không bị trục lợi.
 [Đọc thêm về nhật ký](%F0%9F%93%90D%E1%BB%B1%20%C3%A1n/Gi%C3%BAp%20nhau%20tho%C3%A1t%20n%E1%BB%A3/Kh%C3%A1ch%20h%C3%A0ng/Nh%E1%BA%ADt%20k%C3%BD/1.md)
 [Đối thoại với doanh nghiệp](../../../%C4%90%E1%BB%91i%20tho%E1%BA%A1i%20v%E1%BB%9Bi%20t%C6%B0%20b%E1%BA%A3n/%C4%90%E1%BB%91i%20tho%E1%BA%A1i%20v%E1%BB%9Bi%20doanh%20nghi%E1%BB%87p.md)
+
+## Làm sao để giảm khả năng bị phát hiện?
