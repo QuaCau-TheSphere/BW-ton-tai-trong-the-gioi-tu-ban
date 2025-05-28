@@ -1,9 +1,9 @@
 ---
 share: true
 created: 2025-03-25T22:31
-updated: 2025-05-19T14:52
 description: "Họp online hoặc lên văn phòng chơi. Số tiền kiếm được: tối thiểu 600k, hoặc 1tr5/tháng"
 title: Làm nhân viên ảo GM Mall
+updated: 2025-05-28T23:17
 ---
 Mô tả công việc:: Họp online hoặc lên văn phòng chơi
 Số tiền kiếm được:: Tối thiểu 600k, hoặc 1tr5/tháng
@@ -24,9 +24,10 @@ Tính chất công việc:: [Cần khả năng ứng biến](../../../../1.%20T%
 
 ### Việc họp
 - Thỉnh thoảng sẽ có những buổi không họp. Ngày nào có họp thì sẽ gửi liên kết Google Meet để bạn tham gia
-- Việc cấp trên trông thấy bạn có đi làm thật là quan trọng. Chính vì như vậy:
-	- Nếu bạn **muốn tắt mic, tắt cam trong buổi họp**: bạn phải chat được và phải lên văn phòng thường xuyên
-	- Nếu bạn **không muốn lên văn phòng thường xuyên**: bạn phải bật mic để trả lời, hoặc bật cam và chat 
+- Việc cấp trên trông thấy bạn có đi làm thật là quan trọng. Nếu vào họp cho có nick thì bọn mình tự làm được không cần thuê bạn làm gì. Chính vì như vậy, khi vào họp bạn phải làm một trong hai điều sau:
+	- Bật mic: khi vào họp thì chào cấp trên, khi được hỏi gì đó thì phải giả vờ quan tâm hỏi lại cho rõ hoặc đồng ý tán thành
+	- Bật cam để cấp trên thấy mặt rồi nhắn là không tiện mở mic. Sau đó tắt cam cũng được
+- Nếu bạn lên văn phòng thường xuyên thì không cần phải họp mỗi sáng. Nếu đi cùng ngày Nhật hoặc Lộc lên họp thì có thể nói chuyện được về
 - Xem [tài liệu cho nhân viên ảo GM Mall](../../../../../../%F0%9F%93%90D%E1%BB%B1%20%C3%A1n/Ch%E1%BA%A1y%20ch%E1%BB%89%20ti%C3%AAu/L%C3%A0m%20nh%C3%A2n%20s%E1%BB%B1%20%E1%BA%A3o/T%C3%A0i%20li%E1%BB%87u%20cho%20t%E1%BB%ABng%20c%C3%B4ng%20ty/T%C3%A0i%20li%E1%BB%87u%20cho%20nh%C3%A2n%20vi%C3%AAn%20%E1%BA%A3o%20GM%20Mall.md) để không bị ú ớ khi bị hỏi
 
 ### Buổi đầu tiên
