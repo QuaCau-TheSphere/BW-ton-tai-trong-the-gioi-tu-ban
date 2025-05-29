@@ -26,7 +26,7 @@ Cứ chấp nhận nó là rác, thì nó vẫn còn hiền hơn so với các [
 Có lẽ đây là quá trình không thể đảo ngược,mình chỉ đang thu lợi trước khi trễ thôi
 
 Những người làm công việc này không phải không biết đây là rác, nhưng giữa một bên là bị công ty ép số, và một bên là gánh nặng mưu sinh thì mình thấy cũng không có giải pháp ngắn hạn nào hơn. Nó là câu chuyện "tôi muốn làm người lương thiện. Ai cho tôi lương thiện". Bạn chỉ trích việc này là xả rác là đúng, nhưng nếu vậy thì cũng hãy thừa thắng xông lên, chỉ trích luôn tư bản bóc lột người lao động cho nhất quán và triệt để, đồng thời cũng hãy cung cấp các công việc sạch sẽ hơn công việc này mà vẫn đảm bảo được các nhu cầu sống của họ.
-Còn không thì chắc gọi là chỉ thấy cây mà không thấy rừng. Việc xả rác này như muối bỏ bể
+Còn không thì chắc gọi là chỉ thấy cây mà không thấy rừng. Việc xả rác này như muối bỏ bể. Giống như là người xả rác nhưng thành thật thì bị chỉ trích, còn người im ru luôn thì không thấy bị nói gì. Nó tạo cảm giác không công bằng cho lắm, nhất là khi chính những người im ru đó đã đẩy họ vào tình trạng này. Điều đó chỉ càng khiến họ muốn dấu mặt hơn mà thôi
 
 Đang mắc một khối lượng nợ lớn và việc đó ảnh hưởng tới con nhỏ
 Có kế hoạch khắc phục hậu quả từ việc này
