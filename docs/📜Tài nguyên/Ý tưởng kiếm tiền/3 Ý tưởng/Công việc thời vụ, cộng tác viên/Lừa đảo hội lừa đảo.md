@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2025-05-10T15:32
+updated: 2025-05-31T13:28
 ---
 Tính chất công việc:: [Cần biết cách ẩn danh](../../1.%20T%C3%ADnh%20ch%E1%BA%A5t%20c%C3%B4ng%20vi%E1%BB%87c/Theo%20ki%E1%BA%BFn%20th%E1%BB%A9c,%20k%E1%BB%B9%20n%C4%83ng/C%E1%BA%A7n%20bi%E1%BA%BFt%20c%C3%A1ch%20%E1%BA%A9n%20danh.md), [Làm trực tuyến](../../1.%20T%C3%ADnh%20ch%E1%BA%A5t%20c%C3%B4ng%20vi%E1%BB%87c/Theo%20t%C3%ADnh%20ch%E1%BA%A5t%20c%C3%B4ng%20vi%E1%BB%87c/L%C3%A0m%20tr%E1%BB%B1c%20tuy%E1%BA%BFn.md)
 Hình thức:: [Công việc thời vụ, cộng tác viên](./index.md)
@@ -15,3 +15,6 @@ Những hình thức lừa đảo trên telegram xưa giờ là không mới. G�
 [Bẫy tuyển dụng online lừa đảo người tìm việc - Kỳ 2: Chiêu trò lừa đảo trên Telegram - Tuổi Trẻ Online](https://tuoitre.vn/bay-tuyen-dung-online-lua-dao-nguoi-tim-viec-ky-2-chieu-tro-lua-dao-tren-telegram-2023083010523942.htm)
 
 [Cảnh giác lừa đảo](../../../C%E1%BA%A3nh%20gi%C3%A1c%20l%E1%BB%ABa%20%C4%91%E1%BA%A3o/index.md)
+
+## Nơi thảo luận
+![Pasted image 20250531132835.png](../../../../assets/attachments/Pasted%20image%2020250531132835.png)

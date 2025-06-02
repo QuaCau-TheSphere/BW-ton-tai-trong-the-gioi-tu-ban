@@ -2,7 +2,7 @@
 share: true
 created: 2025-04-20T16:47
 alias: Xây dựng quỹ tín dụng vi mô
-updated: 2025-05-28T14:03
+updated: 2025-05-31T19:12
 ---
 ## Ý tưởng
 Khi một người cần vay thì sẽ có 2 nguồn để vay:
@@ -60,6 +60,15 @@ Nhưng có lẽ hay hơn cả, là đừng xem người đi vay là thứ để 
 Tốt nhất chỉ huy động từ những người không yêu cầu thời hạn trả nợ và tính lãi một lần, không tính theo chu kỳ. Trong trường hợp cần huy động từ những người như vậy thì cần đảm bảo còn có đủ dự trữ để trả lãi kỳ tiếp theo cho họ. 
 
 Có thể tính toán như ngân hàng, sao cho tiền lời vẫn đủ để có thể chấp nhận một số người xù
+
+anh biết thứ em lo là việc nó đang ko đủ khả năng trả nợ, nhưng thứ anh nghĩ đáng suy nghĩ hơn là làm sao để thiết lập được một cái lưới an sinh xã hội mà ko phải phụ thuộc vào chính phủ
+nó như kiểu trong transitor thì có những lỗ trống được tạo ra do thiếu electron vậy. Cái lỗ trống đó cứ chạy lòng vòng trong đó thì cũng ko ai bị thiệt hại quá nhiều
+
+Việc tìm giùm người  có thể được xem như:
+- Tìm khách hàng gửi cho quỹ
+- Chuyển giao nợ lẫn nhau
+
+Có thấy an toàn để hỏi ko? 
 
 ## Nơi thảo luận
 ![](https://i.imgur.com/RNcEBe4.png)

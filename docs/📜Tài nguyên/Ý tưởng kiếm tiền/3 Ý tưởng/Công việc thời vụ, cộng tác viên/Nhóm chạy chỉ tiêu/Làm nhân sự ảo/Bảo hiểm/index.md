@@ -1,13 +1,13 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2025-05-15T14:03
+updated: 2025-06-02T13:17
 alias: Làm tư vấn viên bảo hiểm ảo
 title: Làm đại lý bảo hiểm ảo
 ---
 Đại lý ảo tức là có đại lý thật khác đẩy doanh số cho bạn, như thể bạn là người tạo ra doanh số đó. Hay nói cách khác thì bạn sẽ làm một danh tính khác của họ. Làm như vậy thì họ sẽ có thêm chỉ tiêu về tuyển dụng mới. Công ty bảo hiểm sẽ trả tiền cho bạn để khuyến khích bạn đi học, và bạn được hưởng toàn bộ quyền lợi như một người làm thật khi doanh số của bạn đạt (vốn là do đại lý thật đẩy cho), như được tặng gói bảo hiểm (không phải bảo hiểm xã hội), vé đi du lịch, v.v.
 
-Bài chi tiết:: [Làm nhân viên ảo là làm gì?](../../../../../../../%F0%9F%93%90D%E1%BB%B1%20%C3%A1n/Ch%E1%BA%A1y%20ch%E1%BB%89%20ti%C3%AAu/L%C3%A0m%20nh%C3%A2n%20s%E1%BB%B1%20%E1%BA%A3o/index.md)
+Bài chi tiết:: [Làm nhân viên ảo là làm gì?](../../../../../../../%F0%9F%93%90D%E1%BB%B1%20%C3%A1n/Ch%E1%BA%A1y%20ch%E1%BB%89%20ti%C3%AAu/Ch%C6%A1i%20ch%C3%ADnh%20s%C3%A1ch/L%C3%A0m%20nh%C3%A2n%20s%E1%BB%B1%20%E1%BA%A3o/index.md)
 
 Đây là một số công ty có đại lý thật muốn tuyển đại lý ảo mà bọn mình biết:
 - [Bảo Việt](./B%E1%BA%A3o%20Vi%E1%BB%87t.md)
