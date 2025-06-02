@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-02-03T12:27
-updated: 2025-05-10T22:13
+updated: 2025-05-30T11:17
 description: "Chuyển dùm tiền được gửi về tài khoản ngân hàng của bạn sang tài khoản khác. Số tiền kiếm được: 60k/stk ngân hàng"
 alias: Nhận tiền hộ
 ---
