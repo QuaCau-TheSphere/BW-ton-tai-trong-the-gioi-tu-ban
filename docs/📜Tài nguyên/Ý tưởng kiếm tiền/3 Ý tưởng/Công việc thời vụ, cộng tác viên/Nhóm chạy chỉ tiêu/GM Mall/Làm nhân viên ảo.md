@@ -3,14 +3,14 @@ share: true
 created: 2025-03-25T22:31
 description: "Họp online hoặc lên văn phòng chơi. Số tiền kiếm được: tối thiểu 600k, hoặc 1tr5/tháng"
 title: Làm nhân viên ảo GM Mall
-updated: 2025-05-28T23:17
+updated: 2025-05-30T11:17
 ---
 Mô tả công việc:: Họp online hoặc lên văn phòng chơi
 Số tiền kiếm được:: Tối thiểu 600k, hoặc 1tr5/tháng
 Tính chất công việc:: [Cần khả năng ứng biến](../../../../1.%20T%C3%ADnh%20ch%E1%BA%A5t%20c%C3%B4ng%20vi%E1%BB%87c/Theo%20ki%E1%BA%BFn%20th%E1%BB%A9c,%20k%E1%BB%B9%20n%C4%83ng/C%E1%BA%A7n%20kh%E1%BA%A3%20n%C4%83ng%20%E1%BB%A9ng%20bi%E1%BA%BFn.md), [Làm trực tuyến](../../../../1.%20T%C3%ADnh%20ch%E1%BA%A5t%20c%C3%B4ng%20vi%E1%BB%87c/Theo%20t%C3%ADnh%20ch%E1%BA%A5t%20c%C3%B4ng%20vi%E1%BB%87c/L%C3%A0m%20tr%E1%BB%B1c%20tuy%E1%BA%BFn.md)
 
 ## Mô tả chi tiết
-Đọc bài chi tiết [Làm nhân viên ảo là làm gì?](../../../../../../%F0%9F%93%90D%E1%BB%B1%20%C3%A1n/Ch%E1%BA%A1y%20ch%E1%BB%89%20ti%C3%AAu/L%C3%A0m%20nh%C3%A2n%20s%E1%BB%B1%20%E1%BA%A3o/index.md) để hiểu về công việc này cũng như các quyền lợi và rủi ro.
+Đọc bài chi tiết [Làm nhân viên ảo là làm gì?](../../../../../../%F0%9F%93%90D%E1%BB%B1%20%C3%A1n/Ch%E1%BA%A1y%20ch%E1%BB%89%20ti%C3%AAu/Ch%C6%A1i%20ch%C3%ADnh%20s%C3%A1ch/L%C3%A0m%20nh%C3%A2n%20s%E1%BB%B1%20%E1%BA%A3o/index.md) để hiểu về công việc này cũng như các quyền lợi và rủi ro.
 
 - Ngày đầu lên văn phòng phỏng vấn xin việc: 250k/2 tiếng
 - 8h30 sáng một số ngày trong tuần họp online: 50k/30 phút
@@ -28,7 +28,7 @@ Tính chất công việc:: [Cần khả năng ứng biến](../../../../1.%20T%
 	- Bật mic: khi vào họp thì chào cấp trên, khi được hỏi gì đó thì phải giả vờ quan tâm hỏi lại cho rõ hoặc đồng ý tán thành
 	- Bật cam để cấp trên thấy mặt rồi nhắn là không tiện mở mic. Sau đó tắt cam cũng được
 - Nếu bạn lên văn phòng thường xuyên thì không cần phải họp mỗi sáng. Nếu đi cùng ngày Nhật hoặc Lộc lên họp thì có thể nói chuyện được về
-- Xem [tài liệu cho nhân viên ảo GM Mall](../../../../../../%F0%9F%93%90D%E1%BB%B1%20%C3%A1n/Ch%E1%BA%A1y%20ch%E1%BB%89%20ti%C3%AAu/L%C3%A0m%20nh%C3%A2n%20s%E1%BB%B1%20%E1%BA%A3o/T%C3%A0i%20li%E1%BB%87u%20cho%20t%E1%BB%ABng%20c%C3%B4ng%20ty/T%C3%A0i%20li%E1%BB%87u%20cho%20nh%C3%A2n%20vi%C3%AAn%20%E1%BA%A3o%20GM%20Mall.md) để không bị ú ớ khi bị hỏi
+- Xem [tài liệu cho nhân viên ảo GM Mall](t%C3%A0i%20li%E1%BB%87u%20cho%20nh%C3%A2n%20vi%C3%AAn%20%E1%BA%A3o%20GM%20Mall.md) để không bị ú ớ khi bị hỏi
 
 ### Buổi đầu tiên
 | Hoạt động                                                                                                                                                 | Thời gian |
