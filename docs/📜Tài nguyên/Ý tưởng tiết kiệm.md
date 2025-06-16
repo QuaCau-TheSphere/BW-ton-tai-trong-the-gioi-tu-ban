@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-09-26T11:02
-updated: 2025-05-11T02:22
+updated: 2025-06-11T21:08
 ---
 ## Tiết kiệm tiền mua đồ ăn
 - Lẻn vào các tiệc cưới, tiệc công ty, có thể đóng hộp đồ ăn thừa 
@@ -14,9 +14,12 @@ updated: 2025-05-11T02:22
 - 3G: Xem coi sđt của bạn có được đăng ký gói cước giá rẻ hay không. Ví dụ như Vinaphone có gói FHAPPY. Gửi 900 để đăng ký [3FHAPPY](https://digishop.vnpt.vn/di-dong/3fhappy/326). Các gói BIG là ai cũng làm được. Đầu 900 là cho gói thuê bao, đầu 888 là cho gói dữ liệu
 - [Vé xem phim, ca nhạc, ăn uống](./Qu%C3%A0%20t%E1%BA%B7ng/Phi%E1%BA%BFu%20gi%E1%BA%A3m%20gi%C3%A1%20(voucher)/V%C3%A9%20xem%20phim,%20ca%20nh%E1%BA%A1c,%20%C4%83n%20u%E1%BB%91ng.md)
 - Dùng ắc quy và pin mặt trời
+- Trọ ở gần bến xe để tiết kiệm tiền xăng. Có thể ở xa hơn nhưng chạy xe đến đó gần
 
-## Ra các thành phố khác để sống
-Bài chi tiết:: [Ra khỏi thành phố sống](../%F0%9F%93%90D%E1%BB%B1%20%C3%A1n/Gi%C3%BAp%20nhau%20tho%C3%A1t%20n%E1%BB%A3/T%C3%A0i%20li%E1%BB%87u/Ni%E1%BB%81m%20tin/Ra%20kh%E1%BB%8Fi%20th%C3%A0nh%20ph%E1%BB%91%20s%E1%BB%91ng.md)
+## Tiết kiệm tiền nhà
+- [Ra khỏi thành phố sống](../%F0%9F%93%90D%E1%BB%B1%20%C3%A1n/Gi%C3%BAp%20nhau%20tho%C3%A1t%20n%E1%BB%A3/T%C3%A0i%20li%E1%BB%87u/Ni%E1%BB%81m%20tin/Ra%20kh%E1%BB%8Fi%20th%C3%A0nh%20ph%E1%BB%91%20s%E1%BB%91ng.md)
+- Ở ngoại ô và gần các bến xe, ga tàu
+- Làm công việc được ngủ tại nơi làm việc 
 
 ## Cộng đồng
 - [Live With A Lower Impact](https://www.reddit.com/r/ZeroWaste)  
