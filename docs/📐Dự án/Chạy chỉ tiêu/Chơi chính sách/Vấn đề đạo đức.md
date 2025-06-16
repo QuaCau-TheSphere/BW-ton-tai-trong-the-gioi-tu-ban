@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2025-06-02T13:33
+updated: 2025-06-16T13:02
 title: Vấn đề đạo đức khi làm ảo
 ---
 ## Tôi thấy việc lừa dối người khác là điều không nên
@@ -12,6 +12,8 @@ Thực ra miễn là số liệu của bạn được làm một cách hữu cơ
 - Hướng đến sự liêm chính: nếu tôi cũng làm giống như họ thì tôi không có tư cách để phê phán họ
 
 Có lẽ đây là một phần trong sự mâu thuẫn giữa hệ quả luận (consequentialism) và đạo nghĩa luận (deontology). Những người theo các trường phái này đã tranh luận nhiều lần nhưng vẫn chưa thể thuyết phục được trường phái kia thấy mình sai. Nếu bạn hướng đến sự liêm chính thì cũng không sao. Nhưng có lẽ bạn cũng sẽ khó khiến cho những người hướng đến sự công bằng thấy họ đang sai.
+
+Xem thêm:: [Lách luật là phạm luật một cách đúng luật](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%C4%90%E1%BA%A1o%20%C4%91%E1%BB%A9c,%20ph%C3%A1p%20lu%E1%BA%ADt.%20Kinh%20t%E1%BA%BF%20ch%C3%ADnh%20tr%E1%BB%8B/Lu%E1%BA%ADt,%20nh%C3%A0%20n%C6%B0%E1%BB%9Bc/L%C3%A1ch%20lu%E1%BA%ADt%20l%C3%A0%20ph%E1%BA%A1m%20lu%E1%BA%ADt%20m%E1%BB%99t%20c%C3%A1ch%20%C4%91%C3%BAng%20lu%E1%BA%ADt.md)
 
 ## Tôi thấy việc lừa dối người chưa làm hại tôi trước là điều không nên
 Quản lý cũng chỉ là người làm công ăn lương chứ không phải là cổ đông, nên về cơ bản họ cũng chịu sự bóc lột của tư bản. Đáng lẽ nạn nhân thì cần đoàn kết với nhau chứ không phải là lừa dối nhau chứ? Mà sự đoàn kết đòi hỏi sự thành thật. Đặc biệt là với các quản lý thể hiện sự quan tâm thực sự với nhân viên của mình. Cảm giác phải lừa dối người thực sự có quan tâm mình rất là khó chịu.
@@ -24,8 +26,12 @@ Chia sẻ rủi ro không đồng đều. Bạn bị phát hiện là chạy kh�
 [Làm kết quả ảo cần giống làm thật để không tạo ra sự mất cân bằng trong hệ thống và để người làm thật không cảm thấy bất công](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Ki%E1%BA%BFm%20ti%E1%BB%81n/L%C3%A0m%20thu%C3%AA/L%C3%A0m%20k%E1%BA%BFt%20qu%E1%BA%A3%20%E1%BA%A3o/L%C3%A0m%20k%E1%BA%BFt%20qu%E1%BA%A3%20%E1%BA%A3o%20c%E1%BA%A7n%20gi%E1%BB%91ng%20l%C3%A0m%20th%E1%BA%ADt%20%C4%91%E1%BB%83%20kh%C3%B4ng%20t%E1%BA%A1o%20ra%20s%E1%BB%B1%20m%E1%BA%A5t%20c%C3%A2n%20b%E1%BA%B1ng%20trong%20h%E1%BB%87%20th%E1%BB%91ng%20v%C3%A0%20%C4%91%E1%BB%83%20ng%C6%B0%E1%BB%9Di%20l%C3%A0m%20th%E1%BA%ADt%20kh%C3%B4ng%20c%E1%BA%A3m%20th%E1%BA%A5y%20b%E1%BA%A5t%20c%C3%B4ng.md)
 
 ## Khi nào thì tôi có thể chấm dứt chuyện phải giả tạo và lợi dụng nhau thế này? 
-Khi lập được công đoàn có tiếng nói, đảm bảo rằng việc họ tham gia không làm họ mất việc. 
+Khi [lập được công đoàn có tiếng nói](../../%C4%90%E1%BB%91i%20tho%E1%BA%A1i%20v%E1%BB%9Bi%20t%C6%B0%20b%E1%BA%A3n/X%C3%A2y%20d%E1%BB%B1ng%20c%C3%B4ng%20%C4%91o%C3%A0n.md), đảm bảo rằng việc họ tham gia không làm họ mất việc. 
 
-Xem thêm:: [Vấn đề đạo đức khi tự động hoá việc đăng bài trên MXH](../../T%E1%BB%B1%20%C4%91%E1%BB%99ng%20ho%C3%A1/V%E1%BA%A5n%20%C4%91%E1%BB%81%20%C4%91%E1%BA%A1o%20%C4%91%E1%BB%A9c%20khi%20t%E1%BB%B1%20%C4%91%E1%BB%99ng%20ho%C3%A1%20vi%E1%BB%87c%20%C4%91%C4%83ng%20b%C3%A0i%20tr%C3%AAn%20MXH.md)
+## Xem thêm
+- [Vấn đề rủi ro](./V%E1%BA%A5n%20%C4%91%E1%BB%81%20r%E1%BB%A7i%20ro.md)
+- [Công việc vô nghĩa, tổ chức vô lý](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%C4%90%E1%BA%A1o%20%C4%91%E1%BB%A9c,%20ph%C3%A1p%20lu%E1%BA%ADt.%20Kinh%20t%E1%BA%BF%20ch%C3%ADnh%20tr%E1%BB%8B/Ch%E1%BB%A7%20ngh%C4%A9a%20t%C6%B0%20b%E1%BA%A3n,%20t%C3%A2n%20t%E1%BB%B1%20do/C%C3%B4ng%20vi%E1%BB%87c%20v%C3%B4%20ngh%C4%A9a,%20t%E1%BB%95%20ch%E1%BB%A9c%20v%C3%B4%20l%C3%BD.md)
+- [Góc nhìn chủ nghĩa xã hội về nhóm chạy chỉ tiêu](../../%C4%90%E1%BB%91i%20tho%E1%BA%A1i%20v%E1%BB%9Bi%20t%C6%B0%20b%E1%BA%A3n/G%C3%B3c%20nh%C3%ACn%20ch%E1%BB%A7%20ngh%C4%A9a%20x%C3%A3%20h%E1%BB%99i%20v%E1%BB%81%20nh%C3%B3m%20ch%E1%BA%A1y%20ch%E1%BB%89%20ti%C3%AAu.md)
+- [Vấn đề đạo đức khi tự động hoá việc đăng bài trên MXH](../../T%E1%BB%B1%20%C4%91%E1%BB%99ng%20ho%C3%A1/V%E1%BA%A5n%20%C4%91%E1%BB%81%20%C4%91%E1%BA%A1o%20%C4%91%E1%BB%A9c%20khi%20t%E1%BB%B1%20%C4%91%E1%BB%99ng%20ho%C3%A1%20vi%E1%BB%87c%20%C4%91%C4%83ng%20b%C3%A0i%20tr%C3%AAn%20MXH.md)
 
-[Công việc vô nghĩa, tổ chức vô lý](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/V%C3%AC%20ng%C6%B0%E1%BB%9Di%20y%E1%BA%BFu%20th%E1%BA%BF/V%C3%AC%20ng%C6%B0%E1%BB%9Di%20lao%20%C4%91%E1%BB%99ng/C%C3%B4ng%20vi%E1%BB%87c%20v%C3%B4%20ngh%C4%A9a,%20t%E1%BB%95%20ch%E1%BB%A9c%20v%C3%B4%20l%C3%BD.md)
+[Công việc vô nghĩa, tổ chức vô lý](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%C4%90%E1%BA%A1o%20%C4%91%E1%BB%A9c,%20ph%C3%A1p%20lu%E1%BA%ADt.%20Kinh%20t%E1%BA%BF%20ch%C3%ADnh%20tr%E1%BB%8B/Ch%E1%BB%A7%20ngh%C4%A9a%20t%C6%B0%20b%E1%BA%A3n,%20t%C3%A2n%20t%E1%BB%B1%20do/C%C3%B4ng%20vi%E1%BB%87c%20v%C3%B4%20ngh%C4%A9a,%20t%E1%BB%95%20ch%E1%BB%A9c%20v%C3%B4%20l%C3%BD.md)

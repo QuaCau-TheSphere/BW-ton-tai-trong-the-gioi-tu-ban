@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-05-03T23:44
-updated: 2025-05-30T11:17
+updated: 2025-06-16T13:16
 description: Cung cấp địa chỉ để được nhận hàng miễn phí
 ---
 Tính chất công việc:: [Không cần độ tập trung cao](../../../../1.%20T%C3%ADnh%20ch%E1%BA%A5t%20c%C3%B4ng%20vi%E1%BB%87c/Theo%20t%C3%ADnh%20ch%E1%BA%A5t%20c%C3%B4ng%20vi%E1%BB%87c/Kh%C3%B4ng%20c%E1%BA%A7n%20%C4%91%E1%BB%99%20t%E1%BA%ADp%20trung%20cao.md), [Làm trực tuyến](../../../../1.%20T%C3%ADnh%20ch%E1%BA%A5t%20c%C3%B4ng%20vi%E1%BB%87c/Theo%20t%C3%ADnh%20ch%E1%BA%A5t%20c%C3%B4ng%20vi%E1%BB%87c/L%C3%A0m%20tr%E1%BB%B1c%20tuy%E1%BA%BFn.md)
@@ -16,8 +16,9 @@ Số người cần tuyển::
 Nhân viên các sàn thương mại điện tử khi hoạt động các tài khoản ảo sẽ thỉnh thoảng được nhận quà tặng mà không được từ chối nhận. Họ không thể điền địa chỉ của mình được vì sẽ bị nghi ngờ gian lận, nên cần những địa chỉ khác nhau để nhận hàng. Thường họ cứ điền đại một địa chỉ bất kỳ rồi bỏ hàng, nhưng việc đó về lâu dài cũng dễ gây nghi ngờ, vì hàng không người nhận sẽ được trả lại người gửi. Nếu bạn chịu ra nhận hàng thì bạn được hàng miễn phí.
 
 ## Thông tin thêm
-- Quà tặng thường là nồi chiên không dầu, quạt cầm tay, cân điện tử, thẻ điện thoại 20k, cáp sạc 3 trong 1, túi xách mini, sữa tắm, v.v. Lâu lâu có cả những thứ mấy triệu.
-- Những bạn ở gần bùng binh, vòng xoay sẽ có lợi vì có thể cung cấp nhiều địa chỉ khác nhau
+- Quà tặng thường là nồi chiên không dầu, quạt cầm tay, cân điện tử, thẻ điện thoại 20k, cáp sạc 3 trong 1, túi xách mini, sữa tắm, kem đánh răng, v.v. Lâu lâu có cả những thứ mấy triệu như đồ chơi Lego trẻ em
+- Những bạn ở gần bùng binh, vòng xoay, chung cư sẽ có lợi vì có thể cung cấp nhiều địa chỉ khác nhau
+- Thường công việc này sẽ kết hợp với công việc [Nghe cuộc gọi xác nhận giao hàng](./Nghe%20cu%E1%BB%99c%20g%E1%BB%8Di%20x%C3%A1c%20nh%E1%BA%ADn%20giao%20h%C3%A0ng.md)
 
 ## Nơi thảo luận
 > [!important] Nhìn toàn cảnh

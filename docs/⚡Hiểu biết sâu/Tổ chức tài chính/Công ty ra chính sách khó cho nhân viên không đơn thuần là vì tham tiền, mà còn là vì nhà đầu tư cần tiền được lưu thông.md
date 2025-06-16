@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-09-27T13:06
-updated: 2025-05-15T13:16
+updated: 2025-06-16T12:54
 ---
 Khái niệm:: [Rửa tiền](../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/R%E1%BB%ADa%20ti%E1%BB%81n.md)
 
@@ -75,4 +75,4 @@ Hỏi biết momo hỏi biết shopee biết tiktok ko hồi mới ra momo giớ
 Ko có gì khó hiểu cả gm mall đang nhiều kol pr cho cái này rồi
 [Cái cần không phải là có tiền, mà là có dòng tiền](../Ki%E1%BA%BFm%20ti%E1%BB%81n/T%E1%BB%B1%20%C4%91%E1%BA%A7u%20t%C6%B0/C%C3%A1i%20c%E1%BA%A7n%20kh%C3%B4ng%20ph%E1%BA%A3i%20l%C3%A0%20c%C3%B3%20ti%E1%BB%81n,%20m%C3%A0%20l%C3%A0%20c%C3%B3%20d%C3%B2ng%20ti%E1%BB%81n.md)
 [Công ty khuyến mãi nhiều là vì số tiền bỏ ra cho mình nhỏ hơn số tiền nhận được](./C%C3%B4ng%20ty%20khuy%E1%BA%BFn%20m%C3%A3i%20nhi%E1%BB%81u%20l%C3%A0%20v%C3%AC%20s%E1%BB%91%20ti%E1%BB%81n%20b%E1%BB%8F%20ra%20cho%20m%C3%ACnh%20nh%E1%BB%8F%20h%C6%A1n%20s%E1%BB%91%20ti%E1%BB%81n%20nh%E1%BA%ADn%20%C4%91%C6%B0%E1%BB%A3c.md)
-[Công ty ra chính sách khó cho nhân viên không đơn thuần là vì tham tiền, mà còn là vì nhà đầu tư cần tiền được lưu thông](C%C3%B4ng%20ty%20ra%20ch%C3%ADnh%20s%C3%A1ch%20kh%C3%B3%20cho%20nh%C3%A2n%20vi%C3%AAn%20kh%C3%B4ng%20%C4%91%C6%A1n%20thu%E1%BA%A7n%20l%C3%A0%20v%C3%AC%20tham%20ti%E1%BB%81n,%20m%C3%A0%20c%C3%B2n%20l%C3%A0%20v%C3%AC%20nh%C3%A0%20%C4%91%E1%BA%A7u%20t%C6%B0%20c%E1%BA%A7n%20ti%E1%BB%81n%20%C4%91%C6%B0%E1%BB%A3c%20l%C6%B0u%20th%C3%B4ng.md)
+[Công ty có thể muốn chạy ảo, nhưng không muốn nhà đầu tư thấy mình chạy ảo](../Ki%E1%BA%BFm%20ti%E1%BB%81n/L%C3%A0m%20thu%C3%AA/L%C3%A0m%20k%E1%BA%BFt%20qu%E1%BA%A3%20%E1%BA%A3o/C%C3%B4ng%20ty%20c%C3%B3%20th%E1%BB%83%20mu%E1%BB%91n%20ch%E1%BA%A1y%20%E1%BA%A3o,%20nh%C6%B0ng%20kh%C3%B4ng%20mu%E1%BB%91n%20nh%C3%A0%20%C4%91%E1%BA%A7u%20t%C6%B0%20th%E1%BA%A5y%20m%C3%ACnh%20ch%E1%BA%A1y%20%E1%BA%A3o.md)

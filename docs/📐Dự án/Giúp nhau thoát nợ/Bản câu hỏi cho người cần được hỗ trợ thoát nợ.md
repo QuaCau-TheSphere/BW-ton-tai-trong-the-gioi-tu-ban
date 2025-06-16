@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2025-05-31T20:56
+updated: 2025-06-11T20:51
 ---
 ## Tình hình chung
 - Tại sao bạn bị nợ? 
@@ -43,6 +43,7 @@ Họ đã thử vay giùm bạn chưa?
 - Đâu là những tiêu chí để bạn có thể kết luận là mình vỡ nợ?
 
 ## Làm việc với người hỗ trợ
+- Bạn cần hỗ trợ những gì?
 - Có vô vàn những người mắc nợ như bạn. Tại sao bạn nên được giúp hơn những người khác?
 - Là người mang nợ, bạn sẽ rất bận để trả nợ. Nhưng việc cho vay đòi hỏi sự tin tưởng, vốn đến từ sự minh bạch và giải trình. Bạn sẽ làm gì để đảm bảo thông tin được thông suốt?
 - Mức độ bí mật của những thông tin bạn chia sẻ ở đây là gì? Ai sẽ là người bạn cảm thấy thoải mái khi họ biết được những gì bạn chia sẻ? Vì sao?
