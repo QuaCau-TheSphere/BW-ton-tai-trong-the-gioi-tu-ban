@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-02-03T12:27
-updated: 2025-05-30T11:17
+updated: 2025-06-16T13:29
 description: "Chuyển dùm tiền được gửi về tài khoản ngân hàng của bạn sang tài khoản khác. Số tiền kiếm được: 60k/stk ngân hàng"
 alias: Nhận tiền hộ
 ---
@@ -13,6 +13,8 @@ Mô tả công việc:: Chuyển dùm tiền được gửi về tài khoản ng
 
 ## Mô tả chi tiết
 Nhân viên các sàn thương mại điện tử được áp đặt chỉ tiêu tạo khách hàng mới mỗi tháng. Các tài khoản khách hàng này cần phải được hoạt động, và sau khi hoạt động thì sẽ có tiền. Họ không thể chuyển tiền tất cả các tài khoản khách này vào tài khoản của mình vì sẽ bị nghi ngờ gian lận, nên cần những tài khoản ngân hàng có tên khác để nhận giùm rồi chuyển lại cho họ.
+
+Bài chi tiết:: [Sao lại cần tài khoản đứng tên của tôi?](../../../../../../%F0%9F%93%90D%E1%BB%B1%20%C3%A1n/Ch%E1%BA%A1y%20ch%E1%BB%89%20ti%C3%AAu/Ch%C6%A1i%20ch%C3%ADnh%20s%C3%A1ch/V%E1%BA%A5n%20%C4%91%E1%BB%81%20r%E1%BB%A7i%20ro.md#Sao%20lại%20cần%20tài%20khoản%20đứng%20tên%20của%20tôi?)
 
 Ngày bắt đầu làm bạn sẽ nhận được tiền chuyển khoản vào tài khoản ngân hàng của bạn. Công việc của bạn chỉ đơn giản là chuyển lại số tiền đó vào tài khoản sau: 19730326507 - TPBANK - LAM THI OANH. 
 
