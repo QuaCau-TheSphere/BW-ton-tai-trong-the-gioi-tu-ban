@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-07-17T21:41
-updated: 2025-05-19T15:06
+updated: 2025-06-13T11:49
 title: Các dịch vụ cho vay
 ---
 Vay ở đây là vay tín chấp, không phải thế chấp.
@@ -65,6 +65,8 @@ Cao nhất là có lợi nhất.
 1. [Ví trả sau](./T%E1%BB%95%20ch%E1%BB%A9c%20t%C3%ADn%20d%E1%BB%A5ng%20phi%20ng%C3%A2n%20h%C3%A0ng/V%C3%AD%20tr%E1%BA%A3%20sau.md), [Mua đồ trả góp rồi bán lại](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/T%E1%BB%95%20ch%E1%BB%A9c%20t%C3%A0i%20ch%C3%ADnh/T%E1%BB%95%20ch%E1%BB%A9c%20t%C3%ADn%20d%E1%BB%A5ng/C%C3%B3%20th%E1%BB%83%20vay%20ti%E1%BB%81n%20b%E1%BA%B1ng%20c%C3%A1ch%20mua%20%C4%91%E1%BB%93%20tr%E1%BA%A3%20g%C3%B3p%20r%E1%BB%93i%20b%C3%A1n%20l%E1%BA%A1i.md): không đòi gì
 2. [Tổ chức tài chính vi mô](./T%E1%BB%95%20ch%E1%BB%A9c%20t%C3%A0i%20ch%C3%ADnh%20vi%20m%C3%B4/index.md), Quỹ tín dụng nhân dân: chỉ đến nhà nhắc nhở
 3. [Công ty tài chính tiêu dùng](./T%E1%BB%95%20ch%E1%BB%A9c%20t%C3%ADn%20d%E1%BB%A5ng%20phi%20ng%C3%A2n%20h%C3%A0ng/C%C3%B4ng%20ty%20t%C3%A0i%20ch%C3%ADnh%20ti%C3%AAu%20d%C3%B9ng/index.md), Ngân hàng (thẻ tín dụng), [App vay nóng](./T%E1%BB%95%20ch%E1%BB%A9c%20t%C3%ADn%20d%E1%BB%A5ng%20phi%20ng%C3%A2n%20h%C3%A0ng/App%20vay%20n%C3%B3ng/index.md): chỉ gọi điện hoặc đến nhà nhắc nhở. Có thể làm dữ ngay cả với người thân, nhưng không được đòi họ trả tiền
+
+momo bảo chứng sẽ đáng tin hơn fe, vì fe ko biết anh là ai, nhưng momo thì có đủ số liệu dòng tiền
 
 ### Các hình thức khác
 Đa phần đều có lãi cao, nếu không trả kịp thì bị làm phiền
