@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-06-13T16:27
+updated: 2025-06-22T19:50
 ---
 [Xây dựng thương hiệu tự động trên MXH](./X%C3%A2y%20d%E1%BB%B1ng%20th%C6%B0%C6%A1ng%20hi%E1%BB%87u%20t%E1%BB%B1%20%C4%91%E1%BB%99ng%20tr%C3%AAn%20MXH.md)
 [Mở rộng mối quan hệ](../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/M%E1%BB%9F%20r%E1%BB%99ng%20m%E1%BB%91i%20quan%20h%E1%BB%87/index.md)
@@ -24,6 +24,9 @@ Những người làm công việc này không phải không biết đây là r�
 Đứng trên quan điểm của thuyết công lợi, khi nào thì nỗi đau của người xả rác lớn hơn nỗi đau của người nhận rác?
 Đang mắc một khối lượng nợ lớn và việc đó ảnh hưởng tới con nhỏ
 Có kế hoạch khắc phục hậu quả từ việc này
+
+Chờ đến lúc ấy thì chết đói
+Đói cho sạch, rách cho thơm. Khi nào thì sự đánh đổi là chấp nhận được? 
 
 Hay nói cách khác, đây là thứ đỡ tệ nhất khi mà [quỹ tín dụng vi mô](../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Ch%E1%BB%8Dn%20s%E1%BA%A3n%20ph%E1%BA%A9m%20ph%C3%B9%20h%E1%BB%A3p/C%C3%A1c%20d%E1%BB%8Bch%20v%E1%BB%A5%20cho%20vay/T%E1%BB%95%20ch%E1%BB%A9c%20t%C3%A0i%20ch%C3%ADnh%20vi%20m%C3%B4/index.md) chưa hoạt động. Thà vậy còn đỡ hơn phạm pháp. Những hoạt động như vậy cũng có thể làm giảm việc họ thấy việc phạm pháp trở thành bình thường.
 
