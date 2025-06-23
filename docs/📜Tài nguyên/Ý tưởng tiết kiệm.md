@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-09-26T11:02
-updated: 2025-06-11T21:08
+updated: 2025-06-22T19:50
 ---
 ## Tiết kiệm tiền mua đồ ăn
 - Lẻn vào các tiệc cưới, tiệc công ty, có thể đóng hộp đồ ăn thừa 
@@ -19,8 +19,13 @@ updated: 2025-06-11T21:08
 ## Tiết kiệm tiền nhà
 - [Ra khỏi thành phố sống](../%F0%9F%93%90D%E1%BB%B1%20%C3%A1n/Gi%C3%BAp%20nhau%20tho%C3%A1t%20n%E1%BB%A3/T%C3%A0i%20li%E1%BB%87u/Ni%E1%BB%81m%20tin/Ra%20kh%E1%BB%8Fi%20th%C3%A0nh%20ph%E1%BB%91%20s%E1%BB%91ng.md)
 - Ở ngoại ô và gần các bến xe, ga tàu
-- Làm công việc được ngủ tại nơi làm việc 
+- Làm công việc được ngủ tại nơi làm việc
+- Vào khu nhà ở xã hội
 
+[Liên minh Quyền Nhà ở Châu Á (ACHR) thăm và làm việc với Hiệp hội các đô thị Việt Nam](https://www.acvn.vn/index.php?route=news/news&news_id=646)
+http://hof.com.vn/
+https://chungcucu.vn/
+Các công ty bất động sản thà bỏ thêm tiền để giải toả hẳn khu tái định cư, vì để ở kế bên thì làm mất giá
 ## Cộng đồng
 - [Live With A Lower Impact](https://www.reddit.com/r/ZeroWaste)  
 - [Frugal Living: Waste Less, Gain More!](https://www.reddit.com/r/Frugal/wiki/index)  
