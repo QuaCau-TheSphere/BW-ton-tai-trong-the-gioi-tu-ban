@@ -1,14 +1,8 @@
 ---
 share: true
 created: 2025-01-14T18:51
-updated: 2025-06-15T15:26
+updated: 2025-06-16T20:30
 ---
-
-| Tài sản                      | Mô tả                                                         |
-| ---------------------------- | ------------------------------------------------------------- |
-| Thẻ tín dụng JCB 5tr         | Cho Trí mượn                                                  |
-| Thẻ tín dụng Vietinbank 10tr | Cho Lộc mượn. Có được là nhờ có sổ 10tr của Lộc dưới tên Nhật |
-| Bảo hiểm Cathay 1  năm       |                                                               |
 
 Dùng chung CIC thì tất cả những người mượn phải kiểm soát lẫn nhau
 Nhờ vả chỉ được ít. 
