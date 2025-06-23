@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-01-29T18:22
-updated: 2025-04-12T16:23
+updated: 2025-06-17T20:48
 title: FE Credit
 ---
 94QĐ-VH.19 09122019
@@ -31,3 +31,7 @@ Nếu chưa phát sinh lãi, phí, phạt thì khi thanh toán sẽ trừ vào g
 
 [Làm nhân viên ảo FE](%F0%9F%93%90D%E1%BB%B1%20%C3%A1n/Gi%C3%BAp%20nhau%20tho%C3%A1t%20n%E1%BB%A3/C%C3%B4ng%20vi%E1%BB%87c/L%C3%A0m%20nh%C3%A2n%20vi%C3%AAn%20%E1%BA%A3o/Thu%20h%E1%BB%93i%20n%E1%BB%A3/FE.md)
 
+Phúc lợi:
+- Thử việc 100% lương, 80% KPI
+- Thử việc được đóng BHXH - BHYT - BHNT 
+- Bảo hiểm chăm sóc sức khoẻ 24/7 Bảo Việt
