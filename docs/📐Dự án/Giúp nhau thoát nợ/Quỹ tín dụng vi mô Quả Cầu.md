@@ -2,7 +2,7 @@
 share: true
 created: 2025-04-20T16:47
 alias: Xây dựng quỹ tín dụng vi mô
-updated: 2025-06-23T23:39
+updated: 2025-06-24T12:31
 ---
 ## Ý tưởng
 Khi một người cần vay thì sẽ có 2 nguồn để vay:
@@ -28,7 +28,7 @@ Có 2 quan điểm về việc này:
 
 Quan điểm đầu sẽ khuyến khích người cần vay tìm tới mình thử vay từ [Các dịch vụ cho vay](../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Ch%E1%BB%8Dn%20s%E1%BA%A3n%20ph%E1%BA%A9m%20ph%C3%B9%20h%E1%BB%A3p/C%C3%A1c%20d%E1%BB%8Bch%20v%E1%BB%A5%20cho%20vay/index.md) chính thức trước, sau đó nếu không được thì mới hỗ trợ. Với quan điểm sau thì quỹ sẽ hỗ trợ ngay luôn, việc tìm đến các dịch vụ kia chỉ là tạm thời trong lúc cấp bách.
 
-### Khách hàng
+### Người cần vay
 Phải hoàn thành [bản câu hỏi cho người cần được hỗ trợ thoát nợ](./B%E1%BA%A3n%20c%C3%A2u%20h%E1%BB%8Fi%20cho%20ng%C6%B0%E1%BB%9Di%20c%E1%BA%A7n%20%C4%91%C6%B0%E1%BB%A3c%20h%E1%BB%97%20tr%E1%BB%A3%20tho%C3%A1t%20n%E1%BB%A3.md). Có thể lúc khẩn cấp thì không có thời gian để làm, nếu tin được thì cứ giúp trước, nhưng sau đó phải làm.
 
 ### Phí, lãi
@@ -53,6 +53,8 @@ Có người bị xù nợ nói rằng họ cho người quen tới 10 năm, đi
 **Nhưng người đó đã đồng hành với người đi vay như thế nào?** 
 
 Liệu rằng thông tin ghi trong [bản câu hỏi cho người cần được hỗ trợ thoát nợ](./B%E1%BA%A3n%20c%C3%A2u%20h%E1%BB%8Fi%20cho%20ng%C6%B0%E1%BB%9Di%20c%E1%BA%A7n%20%C4%91%C6%B0%E1%BB%A3c%20h%E1%BB%97%20tr%E1%BB%A3%20tho%C3%A1t%20n%E1%BB%A3.md) sẽ giúp quỹ đồng hành được với người cần vay tốt hơn, và đáp ứng được các nhu cầu khác mà không cần phải dùng tới tiền? Công sức để trả lời chúng cũng khá lớn, và buộc người cần vay phải minh bạch, nên xem như ai hoàn thành được nó thì khả năng xù thấp hơn? Nhưng có lẽ hay hơn cả, là đừng xem người đi vay là thứ để mình kiếm lợi nhuận, mà hãy là một người bạn với họ. Hãy vẫn tiếp tục giúp đỡ họ, kể cả khi họ không trả tiền. Các công việc được liệt kê ở phần trên sẽ làm họ thấy mình đang không trục lợi họ, mà chỉ muốn nâng đỡ họ. Việc xù mình sẽ làm họ bất lợi hơn.
+
+Chơi với lửa, chơi với dao. Điều đáng sợ mới đáng làm
 
 Có lẽ câu hỏi tốt hơn không phải là "nhỡ bị xù thì sao", mà là "làm sao để hạn chế bị xù", và "phải làm gì để việc xù không gây ảnh hưởng".
 
