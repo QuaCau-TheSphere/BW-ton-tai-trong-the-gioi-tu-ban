@@ -1,8 +1,10 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2025-06-23T23:05
+updated: 2025-06-24T12:35
 ---
+Bạn nghĩ mình cần làm những gì để kiếm được một người có tiền và để họ đồng ý cho bạn vay? 
+
 ## Tình hình chung
 - Tại sao bạn bị nợ? 
 - Tình hình nợ hiện nay:
@@ -38,7 +40,7 @@ updated: 2025-06-23T23:05
 | Cá nhân | Sự hỗ trợ | Giới hạn |
 | ------- | --------- | -------- |
 |         |           |          |
-Họ đã thử vay giùm bạn chưa?
+- Họ đã thử vay giùm bạn chưa? Nếu chưa thì tại sao? Nếu rồi thì như thế nào?
 
 ## Năng lực xoay sở
 - Bạn nghĩ sao về quan điểm [Áp lực tạo kim cương](../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Ni%E1%BB%81m%20tin,%20di%E1%BB%85n%20ng%C3%B4n/Th%C3%A1ch%20th%E1%BB%A9c,%20%C4%91am%20m%C3%AA,%20ph%C3%A1t%20tri%E1%BB%83n%20b%E1%BA%A3n%20th%C3%A2n/%C3%81p%20l%E1%BB%B1c%20t%E1%BA%A1o%20kim%20c%C6%B0%C6%A1ng.md)? Bạn có nghĩa rằng [nếu không có ai giúp đỡ thì bạn sẽ làm được những điều đến chính bạn cũng ngạc nhiên](../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Ni%E1%BB%81m%20tin,%20di%E1%BB%85n%20ng%C3%B4n/Th%C3%A1ch%20th%E1%BB%A9c,%20%C4%91am%20m%C3%AA,%20ph%C3%A1t%20tri%E1%BB%83n%20b%E1%BA%A3n%20th%C3%A2n/Con%20ng%C6%B0%E1%BB%9Di%20th%C6%B0%E1%BB%9Dng%20kh%C3%B4ng%20bi%E1%BA%BFt%20%C4%91%C6%B0%E1%BB%A3c%20n%C4%83ng%20l%E1%BB%B1c%20c%E1%BB%A7a%20m%C3%ACnh.%20Khi%20b%E1%BB%8B%20%C3%A9p%20v%C3%A0o%20%C4%91%C6%B0%E1%BB%9Dng%20c%C3%B9ng%20h%E1%BB%8D%20s%E1%BA%BD%20l%C3%A0m%20%C4%91%C6%B0%E1%BB%A3c%20nh%E1%BB%AFng%20%C4%91i%E1%BB%81u%20%C4%91%E1%BA%BFn%20ch%C3%ADnh%20h%E1%BB%8D%20c%C5%A9ng%20ng%E1%BA%A1c%20nhi%C3%AAn.md)?
@@ -53,10 +55,10 @@ Họ đã thử vay giùm bạn chưa?
 - Có vô vàn những người mắc nợ như bạn. Tại sao bạn nên được giúp hơn những người khác?
 - Là người mang nợ, bạn sẽ rất bận để trả nợ. Nhưng việc cho vay đòi hỏi sự tin tưởng, vốn đến từ sự minh bạch và giải trình. Bạn sẽ làm gì để đảm bảo thông tin được thông suốt?
 - Nếu bạn đã thấy mình đã cố gắng giải thích nhưng bạn vẫn thấy người giúp bạn chưa hiểu được ý bạn thì bạn sẽ làm gì?
-- Người giúp bạn có thể nói chuyện với những 
+- Người giúp bạn có thể nói chuyện với những người giúp khác không?
 - Mức độ bí mật của những thông tin bạn chia sẻ ở đây là gì? Ai sẽ là người bạn cảm thấy thoải mái khi họ biết được những gì bạn chia sẻ? Vì sao?
 	- Với các yêu cầu bạn đưa ra, bạn nghĩ gì về việc nó sẽ tạo khó khăn cho người muốn giúp bạn?
-	- Vì sao bạn không ưu tiên việc tăng tốc độ giúp đỡ cho bạn?
+	- Với lý do bạn đưa ra, bạn thấy rằng nó không thể đánh đổi với việc giúp bạn hiệu quả hơn?
 - Bạn có sẵn sàng tham gia công việc [Giúp nhau thoát nợ](./index.md) để việc hỗ trợ những người mang nợ như bạn dễ dàng hơn không?
 - Việc họ nghĩ là cần hay 
 - Theo bạn đâu là cách để giúp bạn bền vững?
