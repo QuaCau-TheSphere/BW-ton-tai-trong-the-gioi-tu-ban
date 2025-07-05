@@ -1,19 +1,22 @@
 ---
 share: true
 created: 2023-09-05T16:17
+updated: 2025-07-03T00:45
 aliases:
   - Làm nhân viên ảo là làm gì?
   - Làm đại lý ảo là làm gì?
   - Danh sách công việc làm nhân sự ảo
   - Làm danh tính khác của nhân sự thật
   - Làm hình nhân thế mạng
-updated: 2025-06-02T13:21
+  - điểm danh hộ, họp hộ, giữ tiền hộ
 title: Làm nhân sự ảo
 ---
 ## Mô tả công việc
 Nhân sự ảo tức là có nhân sự thật làm giùm. Ví dụ, Cueball và Megan cùng vào làm trong một công ty. Nhưng Megan làm cả phần việc của Cueball. Việc của Cueball chỉ là lên công ty điểm danh chấm công mà thôi. Nói cách khác, Cueball là một danh tính khác của Megan trong công ty. Công ty thấy rằng Cueball lên công ty làm việc chăm chỉ và có kết quả thì sẽ trả lương cho Cueball. Sau đó Cueball đưa lại một phần lương cho Megan. Có thể xem theo một cách khác là Cueball bán việc lại cho Megan.
 
-Bài chi tiết:: [Đối với công ty, nhân sự có cộng tác viên riêng, nhân sự ảo, người đại diện nhóm, bán việc là những cái tên khác nhau cho cùng một thứ](../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/M%C3%B4%20h%C3%ACnh%20nh%C3%A2n%20s%E1%BB%B1/%C4%90%E1%BB%91i%20v%E1%BB%9Bi%20c%C3%B4ng%20ty,%20nh%C3%A2n%20s%E1%BB%B1%20c%C3%B3%20c%E1%BB%99ng%20t%C3%A1c%20vi%C3%AAn%20ri%C3%AAng,%20nh%C3%A2n%20s%E1%BB%B1%20%E1%BA%A3o,%20ng%C6%B0%E1%BB%9Di%20%C4%91%E1%BA%A1i%20di%E1%BB%87n%20nh%C3%B3m,%20b%C3%A1n%20vi%E1%BB%87c%20l%C3%A0%20nh%E1%BB%AFng%20c%C3%A1i%20t%C3%AAn%20kh%C3%A1c%20nhau%20cho%20c%C3%B9ng%20m%E1%BB%99t%20th%E1%BB%A9.md).
+Xem thêm:: [Đối với công ty, nhân sự có cộng tác viên riêng, nhân sự ảo, người đại diện nhóm, bán việc là những cái tên khác nhau cho cùng một thứ](../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/M%C3%B4%20h%C3%ACnh%20nh%C3%A2n%20s%E1%BB%B1/%C4%90%E1%BB%91i%20v%E1%BB%9Bi%20c%C3%B4ng%20ty,%20nh%C3%A2n%20s%E1%BB%B1%20c%C3%B3%20c%E1%BB%99ng%20t%C3%A1c%20vi%C3%AAn%20ri%C3%AAng,%20nh%C3%A2n%20s%E1%BB%B1%20%E1%BA%A3o,%20ng%C6%B0%E1%BB%9Di%20%C4%91%E1%BA%A1i%20di%E1%BB%87n%20nh%C3%B3m,%20b%C3%A1n%20vi%E1%BB%87c%20l%C3%A0%20nh%E1%BB%AFng%20c%C3%A1i%20t%C3%AAn%20kh%C3%A1c%20nhau%20cho%20c%C3%B9ng%20m%E1%BB%99t%20th%E1%BB%A9.md).
+
+Các tên khác cho công việc này: điểm danh hộ, họp hộ, [giữ tiền hộ](../../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/%C3%9D%20t%C6%B0%E1%BB%9Fng%20ki%E1%BA%BFm%20ti%E1%BB%81n/3%20%C3%9D%20t%C6%B0%E1%BB%9Fng/C%C3%B4ng%20vi%E1%BB%87c%20th%E1%BB%9Di%20v%E1%BB%A5,%20c%E1%BB%99ng%20t%C3%A1c%20vi%C3%AAn/Nh%C3%B3m%20ch%E1%BA%A1y%20ch%E1%BB%89%20ti%C3%AAu/GM%20Mall/Gi%E1%BB%AF%20ti%E1%BB%81n%20h%E1%BB%99.md)
 
 ### Lợi ích cho mỗi bên
 Với Megan:
@@ -30,7 +33,7 @@ Với Cueball:
 
 ### Rủi ro cho mỗi bên
 Với Megan: 
-- Phải tin được là Cueball sẽ trả tiền lại cho mình
+- Phải tin được là Cueball sẽ trả tiền lại cho mình. Có nơi sẽ yêu cầu Cueball mở một tài khoản ngân hàng riêng rồi cho mình đăng nhập vào đó. Tuy nhiên cần nhớ là [luật phạt từ 40tr khi cho thuê, mượn tài khoản ngân hàng](../../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Lu%E1%BA%ADt,%20qu%E1%BA%A3n%20l%C3%BD%20nh%C3%A0%20n%C6%B0%E1%BB%9Bc/T%C3%A0i%20ch%C3%ADnh/Ti%E1%BB%81n%20t%E1%BB%87,%20ng%C3%A2n%20h%C3%A0ng/Ph%E1%BA%A1t%20t%E1%BB%AB%2040tr%20khi%20cho%20thu%C3%AA,%20m%C6%B0%E1%BB%A3n%20t%C3%A0i%20kho%E1%BA%A3n%20thanh%20to%C3%A1n.md).
 
 Với Cueball:
 - Có những lúc công ty họp đột xuất hoặc đào tạo dài ngày thì phải sắp xếp thời gian chạy lên được
@@ -53,5 +56,5 @@ Yêu cầu đầu vào:: [Mỗi tuần lên công ty một buổi](../../../../%
 Hình thức:: [Vị trí chính thức của một công ty](../../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/%C3%9D%20t%C6%B0%E1%BB%9Fng%20ki%E1%BA%BFm%20ti%E1%BB%81n/2%20H%C3%ACnh%20th%E1%BB%A9c/V%E1%BB%8B%20tr%C3%AD%20ch%C3%ADnh%20th%E1%BB%A9c%20c%E1%BB%A7a%20m%E1%BB%99t%20c%C3%B4ng%20ty.md), [Công việc thời vụ, cộng tác viên](../../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/%C3%9D%20t%C6%B0%E1%BB%9Fng%20ki%E1%BA%BFm%20ti%E1%BB%81n/3%20%C3%9D%20t%C6%B0%E1%BB%9Fng/C%C3%B4ng%20vi%E1%BB%87c%20th%E1%BB%9Di%20v%E1%BB%A5,%20c%E1%BB%99ng%20t%C3%A1c%20vi%C3%AAn/index.md)
 
 ## Nơi thảo luận
-[Công việc vô nghĩa, tổ chức vô lý](../../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/V%C3%AC%20ng%C6%B0%E1%BB%9Di%20y%E1%BA%BFu%20th%E1%BA%BF/V%C3%AC%20ng%C6%B0%E1%BB%9Di%20lao%20%C4%91%E1%BB%99ng/C%C3%B4ng%20vi%E1%BB%87c%20v%C3%B4%20ngh%C4%A9a,%20t%E1%BB%95%20ch%E1%BB%A9c%20v%C3%B4%20l%C3%BD.md)
+[Công việc vô nghĩa, tổ chức vô lý](../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%C4%90%E1%BA%A1o%20%C4%91%E1%BB%A9c,%20ph%C3%A1p%20lu%E1%BA%ADt.%20Kinh%20t%E1%BA%BF%20ch%C3%ADnh%20tr%E1%BB%8B/Ch%E1%BB%A7%20ngh%C4%A9a%20t%C6%B0%20b%E1%BA%A3n,%20t%C3%A2n%20t%E1%BB%B1%20do/C%C3%B4ng%20vi%E1%BB%87c%20v%C3%B4%20ngh%C4%A9a,%20t%E1%BB%95%20ch%E1%BB%A9c%20v%C3%B4%20l%C3%BD.md)
 ![](https://i.imgur.com/utzUsO2.png)

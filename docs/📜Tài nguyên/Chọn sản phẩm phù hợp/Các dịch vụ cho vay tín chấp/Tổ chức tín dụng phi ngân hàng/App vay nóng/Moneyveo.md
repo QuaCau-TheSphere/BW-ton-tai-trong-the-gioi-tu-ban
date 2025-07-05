@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-07-29T13:31
-updated: 2025-04-14T17:45
+updated: 2025-07-03T16:50
 ---
 Loại dịch vụ:: [App vay nóng](./index.md)
 
