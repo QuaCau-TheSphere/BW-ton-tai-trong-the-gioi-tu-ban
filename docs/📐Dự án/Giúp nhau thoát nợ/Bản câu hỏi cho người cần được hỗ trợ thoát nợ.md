@@ -1,9 +1,10 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2025-06-24T12:35
+updated: 2025-07-03T16:50
 ---
-Bạn nghĩ mình cần làm những gì để kiếm được một người có tiền và để họ đồng ý cho bạn vay? 
+- Theo bạn đâu là cách để giúp bạn bền vững?
+- Bạn nghĩ mình cần làm những gì để kiếm được một người có tiền và để họ đồng ý cho bạn vay? 
 
 ## Tình hình chung
 - Tại sao bạn bị nợ? 
@@ -31,8 +32,8 @@ Bạn nghĩ mình cần làm những gì để kiếm được một người c�
 
 ## Các cách xoay sở bạn đã áp dụng
 - Bạn đã thử tham gia vào [các ý tưởng kiếm tiền](../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/%C3%9D%20t%C6%B0%E1%BB%9Fng%20ki%E1%BA%BFm%20ti%E1%BB%81n/3%20%C3%9D%20t%C6%B0%E1%BB%9Fng/index.md) nào? Độ hiệu quả của chúng thế nào?
-- Bạn nghĩ gì về [các ý tưởng tiết kiệm](../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/%C3%9D%20t%C6%B0%E1%BB%9Fng%20ti%E1%BA%BFt%20ki%E1%BB%87m.md) này?
-- Bạn đã dùng tới [các dịch vụ cho vay](../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Ch%E1%BB%8Dn%20s%E1%BA%A3n%20ph%E1%BA%A9m%20ph%C3%B9%20h%E1%BB%A3p/C%C3%A1c%20d%E1%BB%8Bch%20v%E1%BB%A5%20cho%20vay/index.md) nào? Vì sao chúng không phù hợp với bạn?
+- Bạn nghĩ gì về [các ý tưởng tiết kiệm](../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/S%E1%BB%91ng%20v%E1%BB%ABa%20%C4%91%E1%BB%A7,%20b%E1%BB%81n%20v%E1%BB%AFng/%C3%9D%20t%C6%B0%E1%BB%9Fng%20ti%E1%BA%BFt%20ki%E1%BB%87m.md) này?
+- Bạn đã dùng tới [Các dịch vụ cho vay tín chấp](../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Ch%E1%BB%8Dn%20s%E1%BA%A3n%20ph%E1%BA%A9m%20ph%C3%B9%20h%E1%BB%A3p/C%C3%A1c%20d%E1%BB%8Bch%20v%E1%BB%A5%20cho%20vay%20t%C3%ADn%20ch%E1%BA%A5p/index.md) nào? Vì sao chúng không phù hợp với bạn?
 - Bạn có chấp nhận [xù nợ ngân hàng](./T%C3%A0i%20li%E1%BB%87u/X%C3%B9%20n%E1%BB%A3%20ng%C3%A2n%20h%C3%A0ng.md), [xù nợ vay nóng](./T%C3%A0i%20li%E1%BB%87u/X%C3%B9%20n%E1%BB%A3%20vay%20n%C3%B3ng.md) không? Vì sao?
 - Bạn có chấp nhận [ra khỏi thành phố sống](./T%C3%A0i%20li%E1%BB%87u/Ni%E1%BB%81m%20tin/Ra%20kh%E1%BB%8Fi%20th%C3%A0nh%20ph%E1%BB%91%20s%E1%BB%91ng.md) không? Vì sao?
 - Đã có bao nhiêu người biết tình hình của bạn rồi? Thái độ của họ thế nào? Bạn đã nhận được những sự hỗ trợ nào từ họ?
@@ -53,7 +54,7 @@ Bạn nghĩ mình cần làm những gì để kiếm được một người c�
 ## Làm việc với người hỗ trợ
 - Bạn cần hỗ trợ những gì?
 - Có vô vàn những người mắc nợ như bạn. Tại sao bạn nên được giúp hơn những người khác?
-- Là người mang nợ, bạn sẽ rất bận để trả nợ. Nhưng việc cho vay đòi hỏi sự tin tưởng, vốn đến từ sự minh bạch và giải trình. Bạn sẽ làm gì để đảm bảo thông tin được thông suốt?
+- Là người mang nợ, bạn sẽ rất bận để trả nợ. Nhưng việc cho vay đòi hỏi sự tin tưởng, vốn đến từ sự minh bạch và giải trình. Bạn sẽ làm gì để đảm bảo thông tin được thông suốt, nhất là khi bạn đang cảm thấy mệt mà thấy câu hỏi không giúp gì được cho bạn?
 - Nếu bạn đã thấy mình đã cố gắng giải thích nhưng bạn vẫn thấy người giúp bạn chưa hiểu được ý bạn thì bạn sẽ làm gì?
 - Người giúp bạn có thể nói chuyện với những người giúp khác không?
 - Mức độ bí mật của những thông tin bạn chia sẻ ở đây là gì? Ai sẽ là người bạn cảm thấy thoải mái khi họ biết được những gì bạn chia sẻ? Vì sao?
@@ -61,12 +62,11 @@ Bạn nghĩ mình cần làm những gì để kiếm được một người c�
 	- Với lý do bạn đưa ra, bạn thấy rằng nó không thể đánh đổi với việc giúp bạn hiệu quả hơn?
 - Bạn có sẵn sàng tham gia công việc [Giúp nhau thoát nợ](./index.md) để việc hỗ trợ những người mang nợ như bạn dễ dàng hơn không?
 - Việc họ nghĩ là cần hay 
-- Theo bạn đâu là cách để giúp bạn bền vững?
 - Bạn muốn ai sẽ hỗ trợ bạn?
 
 ## Sự đảm bảo từ những người hỗ trợ
-(Trong mục này thì "tôi" là người hỗ trợ, còn "người này" là người cần thoát nợ)
-- Tôi biết người này như thế nào? 
+(Trong mục này thì "tôi" là người hỗ trợ, còn "người này" là người cần vay)
+- Tôi biết đến người này như thế nào? 
 - Tôi có thể trả nợ giúp người này khi họ mất khả năng trả không? Nếu có thì là bao nhiêu và lúc nào? 
 - Điều gì khiến tôi tin rằng người này sẽ trả được nợ? 
 - Tại sao tôi lại muốn giúp người này hơn những những người khác?
