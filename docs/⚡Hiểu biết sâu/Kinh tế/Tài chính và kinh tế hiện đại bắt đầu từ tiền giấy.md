@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-05-26T19:44
+updated: 2025-06-26T15:54
 ---
 Khái niệm:: 
 - 1600s: Châu Âu thực hiện viễn chinh xâm lược
@@ -25,3 +25,7 @@ Câu hỏi:: có vẻ như chủ nghĩa tư bản ko thể tồn tại nếu ko 
 
 [Tiền mã hoá đã có từ trước, nhưng tới khủng hoảng 2008 thì người ta mới chú ý tới nó](./Ti%E1%BB%81n%20m%C3%A3%20ho%C3%A1%20%C4%91%C3%A3%20c%C3%B3%20t%E1%BB%AB%20tr%C6%B0%E1%BB%9Bc,%20nh%C6%B0ng%20t%E1%BB%9Bi%20kh%E1%BB%A7ng%20ho%E1%BA%A3ng%202008%20th%C3%AC%20ng%C6%B0%E1%BB%9Di%20ta%20m%E1%BB%9Bi%20ch%C3%BA%20%C3%BD%20t%E1%BB%9Bi%20n%C3%B3.md)
 Nguồn:: [Tiền – sự thật về thứ không có thật](../%CE%9E%20Ngu%E1%BB%93n/Ti%E1%BB%81n%20%E2%80%93%20s%E1%BB%B1%20th%E1%BA%ADt%20v%E1%BB%81%20th%E1%BB%A9%20kh%C3%B4ng%20c%C3%B3%20th%E1%BA%ADt.md)
+
+Số tiền mà ngân hàng cho mình vay không phải là thứ do ngân hàng nhà nước in ra, mà chỉ là con số họ có thể đặt tuỳ thích
+Và thú vị là năm 2020 thì FED lại cho phép không cần phải dự trữ gì cả luôn 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uXd2SzsM3SM?si=0pq_cBsFaJPE859y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
