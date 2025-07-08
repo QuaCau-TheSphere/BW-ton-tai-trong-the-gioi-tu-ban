@@ -2,9 +2,9 @@
 share: true
 description: "Số tiền kiếm được: "
 created: 2025-03-27T17:13
-updated: 2025-05-15T15:47
+updated: 2025-07-07T14:38
 ---
-Tính chất công việc:: [Sắp xếp theo lịch được cho trước](../../1.%20T%C3%ADnh%20ch%E1%BA%A5t%20c%C3%B4ng%20vi%E1%BB%87c/Theo%20th%E1%BB%9Di%20gian/S%E1%BA%AFp%20x%E1%BA%BFp%20theo%20l%E1%BB%8Bch%20%C4%91%C6%B0%E1%BB%A3c%20cho%20tr%C6%B0%E1%BB%9Bc.md)
+Tính chất công việc:: [Không phải lúc nào cũng biết lịch trước được](../../%C4%90%E1%BA%B7c%20%C4%91i%E1%BB%83m%20c%C3%B4ng%20vi%E1%BB%87c/Th%E1%BB%9Di%20%C4%91i%E1%BB%83m%20l%C3%A0m%20vi%E1%BB%87c/Kh%C3%B4ng%20ph%E1%BA%A3i%20l%C3%BAc%20n%C3%A0o%20c%C5%A9ng%20bi%E1%BA%BFt%20l%E1%BB%8Bch%20tr%C6%B0%E1%BB%9Bc%20%C4%91%C6%B0%E1%BB%A3c.md)
 Hình thức:: [Công việc thời vụ, cộng tác viên](./index.md)
 
 Mô tả công việc:: 
