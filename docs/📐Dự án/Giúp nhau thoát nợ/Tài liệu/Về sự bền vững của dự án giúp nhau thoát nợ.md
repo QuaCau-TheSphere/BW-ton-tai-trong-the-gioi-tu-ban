@@ -1,8 +1,8 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-06-17T12:56
+updated: 2025-07-08T15:39
 ---
 Những thứ rủi ro cao, nên chỉ có thể là đầu tư mạo hiểm
-[Quỹ tín dụng vi mô Quả Cầu](../Qu%E1%BB%B9%20t%C3%ADn%20d%E1%BB%A5ng%20vi%20m%C3%B4%20Qu%E1%BA%A3%20C%E1%BA%A7u.md)
+[Mạng lưới cho vay chéo](../M%E1%BA%A1ng%20l%C6%B0%E1%BB%9Bi%20cho%20vay%20ch%C3%A9o.md)
 Về cơ bản đây là nhóm xào thẻ lẫn nhau.
