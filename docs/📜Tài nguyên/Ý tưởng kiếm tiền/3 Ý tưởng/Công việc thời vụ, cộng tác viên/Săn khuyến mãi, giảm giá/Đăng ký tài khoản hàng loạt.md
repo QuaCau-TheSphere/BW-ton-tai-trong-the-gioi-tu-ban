@@ -2,26 +2,26 @@
 share: true
 description: "Đăng ký 36 - 150 tài khoản/ngày. Số tiền kiếm được: 50k - 300k/ngày"
 created: 2025-03-27T17:13
-updated: 2025-07-09T13:04
 alias: reg acc
+updated: 2025-07-09T17:58
 ---
 Mô tả công việc:: Đăng ký 36 - 150 tài khoản/ngày
 Số tiền kiếm được:: 50k - 300k/ngày
 Số tiền đầu tư:: 0
 
 ## Mô tả chi tiết
-Bạn sẽ dùng LD Player để đăng ký 150 tài khoản cho một app mỗi ngày, tổng thời gian từ 2 đến 4 tiếng, thời điểm làm tuỳ ý bạn (trừ buổi tối). Các tài nguyên như SĐT, email sẽ được cung cấp đầy đủ. Xong tài khoản nào thì điền thông tin cho tài khoản đó vào một trang tính có sẵn. 
+Bạn sẽ dùng LD Player để đăng ký 150 tài khoản cho một app mỗi ngày, tổng thời gian từ 2 đến 4 tiếng, thời điểm làm tuỳ ý bạn. Các tài nguyên như SĐT, email sẽ được cung cấp đầy đủ. Xong tài khoản nào thì điền thông tin cho tài khoản đó vào một trang tính có sẵn. 
 
-Bảng giá:
+Tiền công sẽ tuỳ thuộc vào lượng tài khoản bạn tạo được trong ngày:
 
-| Số tài khoản tạo được trong ngày | Tiền |
-| -------------------------------- | ---- |
-| 36 (tối thiểu)                   | 50k  |
-| 72                               | 100k |
-| 120                              | 200k |
-| 150                              | 300k |
+| Số lượng       | Tiền công |
+| -------------- | --------- |
+| 36 (tối thiểu) | 50k       |
+| 72             | 100k      |
+| 120            | 200k      |
+| 150            | 300k      |
 
-Trường hợp nếu app sập (không rút tiền về được) thì chỉ được nhận 1/3.
+Do có rủi ro app sập (không rút tiền về được) nên bọn mình cần bạn cùng chia sẻ rủi ro bằng việc chỉ nhận 1/3 số tiền trong trường hợp đó
 
 ## Thông tin thêm
 Số người cần tuyển:: 1-2
@@ -38,4 +38,4 @@ Vào Discord Quả Cầu, kênh "Kiếm tiền nhanh" để thảo luận:
 ![](https://i.imgur.com/PffcLkI.png)
 
 > [!important] Nhìn toàn cảnh
-> Công việc này là một phần của [nhóm chạy chỉ tiêu cho nhân sự](../../../../../%F0%9F%93%90D%E1%BB%B1%20%C3%A1n/Ch%E1%BA%A1y%20ch%E1%BB%89%20ti%C3%AAu/index.md). Bạn có thể làm thêm [các công việc kiếm tiền nhanh](../index.md)
+> Công việc này là một phần của dự án [Giúp nhau kiếm tiền](../../../../../%F0%9F%93%90D%E1%BB%B1%20%C3%A1n/Gi%C3%BAp%20nhau%20ki%E1%BA%BFm%20ti%E1%BB%81n/index.md). Đọc bài đó để hiểu thêm về mục tiêu dài hạn của dự án cũng như các lợi ích khác của bạn. Ngoài ra, bạn cũng có thể tham khảo thêm [các công việc kiếm tiền nhanh](../index.md) khác
