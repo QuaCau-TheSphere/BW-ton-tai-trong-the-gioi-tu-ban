@@ -1,13 +1,13 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2025-05-10T22:13
+updated: 2025-07-09T17:32
 description: Thù lao 250k/4h
 ---
-Tính chất công việc:: [Làm ngoài đường](../../../../1.%20T%C3%ADnh%20ch%E1%BA%A5t%20c%C3%B4ng%20vi%E1%BB%87c/Theo%20t%C3%ADnh%20ch%E1%BA%A5t%20c%C3%B4ng%20vi%E1%BB%87c/L%C3%A0m%20ngo%C3%A0i%20%C4%91%C6%B0%E1%BB%9Dng.md)
+Tính chất công việc:: [Làm ngoài đường](../../../../%C4%90%E1%BA%B7c%20%C4%91i%E1%BB%83m%20c%C3%B4ng%20vi%E1%BB%87c/N%C6%A1i%20l%C3%A0m%20vi%E1%BB%87c/L%C3%A0m%20ngo%C3%A0i%20%C4%91%C6%B0%E1%BB%9Dng.md)
 Hình thức:: [Công việc thời vụ, cộng tác viên](../../index.md)
 
-Cùng với [Làm nhân viên ảo VNPAY](./L%C3%A0m%20nh%C3%A2n%20vi%C3%AAn%20%E1%BA%A3o.md) và [Viết hợp đồng, thu thập thông tin khách hàng tiềm năng](./Vi%E1%BA%BFt%20h%E1%BB%A3p%20%C4%91%E1%BB%93ng,%20thu%20th%E1%BA%ADp%20th%C3%B4ng%20tin%20kh%C3%A1ch%20h%C3%A0ng%20ti%E1%BB%81m%20n%C4%83ng.md), các công việc ở đây là một phần của [nhóm chạy chỉ tiêu (KPI) cho nhân sự](../../../../../../%F0%9F%93%90D%E1%BB%B1%20%C3%A1n/Ch%E1%BA%A1y%20ch%E1%BB%89%20ti%C3%AAu/index.md).
+Cùng với [Làm nhân viên ảo VNPAY](./L%C3%A0m%20nh%C3%A2n%20vi%C3%AAn%20%E1%BA%A3o.md) và [Viết hợp đồng, thu thập thông tin khách hàng tiềm năng](./Vi%E1%BA%BFt%20h%E1%BB%A3p%20%C4%91%E1%BB%93ng,%20thu%20th%E1%BA%ADp%20th%C3%B4ng%20tin%20kh%C3%A1ch%20h%C3%A0ng%20ti%E1%BB%81m%20n%C4%83ng.md), các công việc ở đây là một phần của [nhóm chạy chỉ tiêu (KPI) cho nhân sự](../index.md).
 
 - **Thù lao:** 250k/4h
 
