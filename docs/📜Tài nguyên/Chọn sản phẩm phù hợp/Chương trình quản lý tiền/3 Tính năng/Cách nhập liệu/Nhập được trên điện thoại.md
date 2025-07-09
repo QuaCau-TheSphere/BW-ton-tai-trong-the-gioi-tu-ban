@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2025-04-14T12:51
+updated: 2025-07-09T17:32
 ---
 Đáp ứng yêu cầu:: 
 Đồng thời có thêm tính năng:: [Nhập liệu bằng giọng nói](./Nh%E1%BA%ADp%20li%E1%BB%87u%20b%E1%BA%B1ng%20gi%E1%BB%8Dng%20n%C3%B3i.md)
