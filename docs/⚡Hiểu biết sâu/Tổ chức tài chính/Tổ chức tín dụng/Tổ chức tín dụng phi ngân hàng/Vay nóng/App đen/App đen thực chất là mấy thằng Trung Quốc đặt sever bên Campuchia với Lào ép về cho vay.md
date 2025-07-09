@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-08-23T16:39
-updated: 2025-04-25T16:57
+updated: 2025-07-09T17:32
 ---
 Khái niệm:: [App đen, vay nóng](../../../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Vay,%20n%E1%BB%A3/App%20%C4%91en,%20vay%20n%C3%B3ng.md)
 
