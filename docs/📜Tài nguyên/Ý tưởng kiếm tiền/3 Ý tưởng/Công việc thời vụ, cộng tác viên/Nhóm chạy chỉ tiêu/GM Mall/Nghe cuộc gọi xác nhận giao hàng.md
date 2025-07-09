@@ -2,7 +2,7 @@
 share: true
 description: "Số tiền kiếm được: "
 created: 2025-03-27T17:13
-updated: 2025-06-16T13:08
+updated: 2025-07-09T17:35
 ---
 Tính chất công việc::  
 Hình thức:: 
@@ -20,5 +20,4 @@ Sau 3 ngày sau khi nhận hàng
 ## Nơi thảo luận
 
 > [!important] Nhìn toàn cảnh
-> Công việc này là một phần của [Nhóm chạy chỉ tiêu cho nhân viên GM Mall](./index.md). Đọc bài đó để được giải đáp các thắc mắc như độ an toàn của công việc, cách vận hành nhóm, cách thức tham gia, v.v. Đọc thêm về [Lời mời tham gia nhóm chạy chỉ tiêu cho nhân sự](../../../../../../%F0%9F%93%90D%E1%BB%B1%20%C3%A1n/Ch%E1%BA%A1y%20ch%E1%BB%89%20ti%C3%AAu/L%E1%BB%9Di%20m%E1%BB%9Di%20tham%20gia%20nh%C3%B3m%20ch%E1%BA%A1y%20ch%E1%BB%89%20ti%C3%AAu%20cho%20nh%C3%A2n%20s%E1%BB%B1.md) để hiểu thêm về mục tiêu dài hạn của dự án cũng như các lợi ích khác của bạn
-> 
+> Công việc này là một phần của [Nhóm chạy chỉ tiêu cho nhân viên GM Mall](./index.md), vốn là một phần của dự án [Giúp nhau kiếm tiền](../../../../../../%F0%9F%93%90D%E1%BB%B1%20%C3%A1n/Gi%C3%BAp%20nhau%20ki%E1%BA%BFm%20ti%E1%BB%81n/index.md). Đọc bài đầu tiên để được giải đáp các thắc mắc như độ an toàn của công việc, cách vận hành nhóm, cách thức tham gia, v.v. Đọc bài thứ hai để hiểu thêm về mục tiêu dài hạn của dự án cũng như các lợi ích khác của bạn. Ngoài ra, bạn cũng có thể tham khảo thêm [các công việc kiếm tiền nhanh](../../index.md) khác
