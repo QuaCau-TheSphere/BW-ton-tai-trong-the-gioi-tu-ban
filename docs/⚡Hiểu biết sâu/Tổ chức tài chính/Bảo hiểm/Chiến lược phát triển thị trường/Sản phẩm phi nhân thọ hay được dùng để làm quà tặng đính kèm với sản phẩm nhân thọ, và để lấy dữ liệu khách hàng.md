@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-11-17T21:48
-updated: 2025-05-06T01:32
+updated: 2025-07-09T17:17
 ---
 Khái niệm:: 
 Lý do:: [Những sản phẩm nhỏ không đáng để đại lý chăm sóc](./Nh%E1%BB%AFng%20s%E1%BA%A3n%20ph%E1%BA%A9m%20nh%E1%BB%8F%20kh%C3%B4ng%20%C4%91%C3%A1ng%20%C4%91%E1%BB%83%20%C4%91%E1%BA%A1i%20l%C3%BD%20ch%C4%83m%20s%C3%B3c.md)
