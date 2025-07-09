@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-12-13T19:57
-updated: 2025-05-10T15:24
+updated: 2025-07-09T17:32
 title: Vì người lao động
 ---
 ## Lao động ngoài trời
@@ -18,4 +18,4 @@ https://drive.google.com/drive/folders/1Iqsz_syFov65WWLCCexSj3tSmcMoK2Gu?usp=dri
 [Hành trang di cư | Hanoi](https://www.facebook.com/hanhtrangdicu)
 
 - [Review công ty](./Review%20c%C3%B4ng%20ty.md)
-- [Công việc vô nghĩa, tổ chức vô lý](./C%C3%B4ng%20vi%E1%BB%87c%20v%C3%B4%20ngh%C4%A9a,%20t%E1%BB%95%20ch%E1%BB%A9c%20v%C3%B4%20l%C3%BD.md)
+
