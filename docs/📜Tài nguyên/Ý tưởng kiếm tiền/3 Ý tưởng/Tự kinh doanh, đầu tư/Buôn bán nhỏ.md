@@ -1,11 +1,11 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2025-05-26T20:36
+updated: 2025-07-09T17:32
 ---
-Tính chất công việc:: [Cần có vốn](../../1.%20T%C3%ADnh%20ch%E1%BA%A5t%20c%C3%B4ng%20vi%E1%BB%87c/C%E1%BA%A7n%20c%C3%B3%20v%E1%BB%91n.md)
-Tính chất công việc:: [Không tốn diện tích](../../1.%20T%C3%ADnh%20ch%E1%BA%A5t%20c%C3%B4ng%20vi%E1%BB%87c/Kh%C3%B4ng%20t%E1%BB%91n%20di%E1%BB%87n%20t%C3%ADch.md)
-Hình thức:: [Tự kinh doanh, đầu tư](../../2%20H%C3%ACnh%20th%E1%BB%A9c/T%E1%BB%B1%20kinh%20doanh,%20%C4%91%E1%BA%A7u%20t%C6%B0.md)
+Tính chất công việc:: [Cần có vốn](../../%C4%90%E1%BA%B7c%20%C4%91i%E1%BB%83m%20c%C3%B4ng%20vi%E1%BB%87c/Nguy%C3%AAn%20li%E1%BB%87u,%20ngu%E1%BB%93n%20th%C3%B4ng%20tin/C%E1%BA%A7n%20c%C3%B3%20v%E1%BB%91n.md)
+Tính chất công việc:: [Không tốn diện tích](../../%C4%90%E1%BA%B7c%20%C4%91i%E1%BB%83m%20c%C3%B4ng%20vi%E1%BB%87c/Nguy%C3%AAn%20li%E1%BB%87u,%20ngu%E1%BB%93n%20th%C3%B4ng%20tin/Kh%C3%B4ng%20t%E1%BB%91n%20di%E1%BB%87n%20t%C3%ADch.md)
+Hình thức:: [Tự kinh doanh, đầu tư](../../%C4%90%E1%BA%B7c%20%C4%91i%E1%BB%83m%20c%C3%B4ng%20vi%E1%BB%87c/H%C3%ACnh%20th%E1%BB%A9c%20c%C3%B4ng%20vi%E1%BB%87c/T%E1%BB%B1%20kinh%20doanh,%20%C4%91%E1%BA%A7u%20t%C6%B0.md)
 
 [Chị Em Kinh Doanh Online](https://www.facebook.com/groups/482840957460226)
 [Kho chuyện khởi nghiệp cho cá nhân kinh doanh nhỏ](https://avayha.com/)
