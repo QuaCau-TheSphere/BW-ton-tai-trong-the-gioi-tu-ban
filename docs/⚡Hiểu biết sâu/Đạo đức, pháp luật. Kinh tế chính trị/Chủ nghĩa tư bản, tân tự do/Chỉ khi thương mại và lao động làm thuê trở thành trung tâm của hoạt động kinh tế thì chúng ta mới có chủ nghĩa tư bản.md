@@ -1,5 +1,7 @@
 ---
 share: true
+created: 2025-05-03T23:44
+updated: 2025-07-09T17:17
 ---
 Khái niệm:: [Tư bản](../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/T%C6%B0%20b%E1%BA%A3n.md)
 
