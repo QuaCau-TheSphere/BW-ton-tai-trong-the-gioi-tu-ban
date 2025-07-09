@@ -2,9 +2,9 @@
 share: true
 description: "Tạo 10 nhóm Zalo, mỗi nhóm có 10 tài khoản khác nhau. Số tiền kiếm được: 300k"
 created: 2025-03-27T17:13
-updated: 2025-05-15T16:00
+updated: 2025-07-09T17:32
 ---
-Tính chất công việc:: [Làm trực tuyến](../../../../1.%20T%C3%ADnh%20ch%E1%BA%A5t%20c%C3%B4ng%20vi%E1%BB%87c/Theo%20t%C3%ADnh%20ch%E1%BA%A5t%20c%C3%B4ng%20vi%E1%BB%87c/L%C3%A0m%20tr%E1%BB%B1c%20tuy%E1%BA%BFn.md)
+Tính chất công việc:: [Làm trực tuyến](../../../../%C4%90%E1%BA%B7c%20%C4%91i%E1%BB%83m%20c%C3%B4ng%20vi%E1%BB%87c/N%C6%A1i%20l%C3%A0m%20vi%E1%BB%87c/L%C3%A0m%20tr%E1%BB%B1c%20tuy%E1%BA%BFn.md)
 Hình thức:: 
 
 Mô tả công việc:: Tạo 10 nhóm Zalo, mỗi nhóm có 10 tài khoản khác nhau
@@ -25,4 +25,4 @@ Bạn cần tạo 10 nhóm Zalo, mỗi nhóm có 10 tài khoản khác nhau, đ�
 ## Nơi thảo luận
 
 > [!important] Nhìn toàn cảnh
-> Công việc này là một phần của [Các công việc tìm người](./index.md), vốn là một phần của [Nhóm chạy chỉ tiêu cho nhân sự](../../../../../../%F0%9F%93%90D%E1%BB%B1%20%C3%A1n/Ch%E1%BA%A1y%20ch%E1%BB%89%20ti%C3%AAu/index.md).
+> Công việc này là một phần của [Các công việc tìm người](./index.md), vốn là một phần của dự án [Giúp nhau kiếm tiền](../../../../../../%F0%9F%93%90D%E1%BB%B1%20%C3%A1n/Gi%C3%BAp%20nhau%20ki%E1%BA%BFm%20ti%E1%BB%81n/index.md).
