@@ -4,7 +4,7 @@ created: 2025-04-20T16:47
 alias:
   - Xây dựng quỹ tín dụng vi mô
   - Mạng lưới cho vay chéo
-updated: 2025-07-04T11:39
+updated: 2025-07-09T17:32
 ---
 ## Ý tưởng
 Khi một người cần vay thì sẽ có 2 nguồn để vay:
