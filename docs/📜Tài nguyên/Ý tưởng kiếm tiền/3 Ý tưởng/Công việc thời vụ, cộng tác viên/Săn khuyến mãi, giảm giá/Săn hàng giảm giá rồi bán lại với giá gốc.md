@@ -2,7 +2,7 @@
 share: true
 description: "Số tiền kiếm được: "
 created: 2025-03-27T17:13
-updated: 2025-07-07T14:15
+updated: 2025-07-09T17:52
 ---
 Tính chất công việc::  
 Hình thức:: 
@@ -45,4 +45,4 @@ Tất nhiên ae yên tâm. Mình cần thu rất nhiều mã. Nhưng sẽ ưu ti
 ## Nơi thảo luận
 
 > [!important] Nhìn toàn cảnh
-> Công việc này là một phần của [Nhóm chạy chỉ tiêu cho nhân viên GM Mall](../Nh%C3%B3m%20ch%E1%BA%A1y%20ch%E1%BB%89%20ti%C3%AAu/GM%20Mall/index.md), vốn là một phần của [Nhóm chạy chỉ tiêu cho nhân sự](../../../../../%F0%9F%93%90D%E1%BB%B1%20%C3%A1n/Ch%E1%BA%A1y%20ch%E1%BB%89%20ti%C3%AAu/index.md).
+> Công việc này là một phần của dự án [Giúp nhau kiếm tiền](../../../../../%F0%9F%93%90D%E1%BB%B1%20%C3%A1n/Gi%C3%BAp%20nhau%20ki%E1%BA%BFm%20ti%E1%BB%81n/index.md). Đọc bài đó để hiểu thêm về mục tiêu dài hạn của dự án cũng như các lợi ích khác của bạn. Ngoài ra, bạn cũng có thể tham khảo thêm [các công việc kiếm tiền nhanh](../index.md) khác.

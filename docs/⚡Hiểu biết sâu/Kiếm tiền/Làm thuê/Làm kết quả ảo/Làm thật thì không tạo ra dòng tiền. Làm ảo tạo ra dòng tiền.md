@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-09-30T12:06
-updated: 2025-04-29T15:06
+updated: 2025-07-09T17:32
 ---
 Khái niệm:: [Dòng tiền](../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/D%C3%B2ng%20ti%E1%BB%81n.md), [Chạy ảo, làm ảo, nhân sự ảo](../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Ch%E1%BA%A1y%20%E1%BA%A3o,%20l%C3%A0m%20%E1%BA%A3o,%20nh%C3%A2n%20s%E1%BB%B1%20%E1%BA%A3o.md), [Kiếm tiền trực tuyến (MMO)](../../T%E1%BB%B1%20%C4%91%E1%BA%A7u%20t%C6%B0/Ki%E1%BA%BFm%20ti%E1%BB%81n%20tr%E1%BB%B1c%20tuy%E1%BA%BFn%20(MMO)/index.md)
 [Thu nhập thụ động có hàm ý đã biết chắc chắn ngày nào mình nhận tiền với bao nhiêu tiền. Dòng tiền thì không](../../T%E1%BB%B1%20%C4%91%E1%BA%A7u%20t%C6%B0/Thu%20nh%E1%BA%ADp%20th%E1%BB%A5%20%C4%91%E1%BB%99ng%20c%C3%B3%20h%C3%A0m%20%C3%BD%20%C4%91%C3%A3%20bi%E1%BA%BFt%20ch%E1%BA%AFc%20ch%E1%BA%AFn%20ng%C3%A0y%20n%C3%A0o%20m%C3%ACnh%20nh%E1%BA%ADn%20ti%E1%BB%81n%20v%E1%BB%9Bi%20bao%20nhi%C3%AAu%20ti%E1%BB%81n.%20D%C3%B2ng%20ti%E1%BB%81n%20th%C3%AC%20kh%C3%B4ng.md)

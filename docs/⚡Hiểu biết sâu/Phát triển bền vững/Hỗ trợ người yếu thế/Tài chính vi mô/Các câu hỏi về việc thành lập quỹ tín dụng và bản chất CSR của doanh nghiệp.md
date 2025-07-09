@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2025-04-20T18:22
+updated: 2025-07-09T17:32
 ---
 ## Quỹ tín dụng
 - [Tổ chức Tài chính Vi mô CEP](https://cep.org.vn/ "Tổ chức Tài chính Vi mô CEP") với [Quỹ Tình Thân](https://www.facebook.com/profile.php?id=100077601589557&v=timeline&lst=100038413598261%3A100077601589557%3A1684514892&eav=AfZ-gv2lqyQB0Aq69YPKH02KBMzxO_jh4u9moWoAnA8pDhYcwmMc0rLzR_dOt0o4jOQ&refid=17&paipv=0 "Facebook") khác nhau thế nào?
@@ -20,5 +20,5 @@ Luật pháp chỉ hiểu về kinh doanh, chứ ko phải là phi lợi nhuận
 - Anh nghĩ rằng hữu xạ tự nhiên hương mới là thực chất, là tốt hơn làm truyền thông, nhưng cụ thể là như thế nào? Vì như vụ Thuỷ Tiên gom tiền bão lũ miền Trung thì là hữu xạ tự nhiên hương thật, nhưng có vẻ như điều đó là không bền vững? Trong khi các tổ chức có nhiều tri thức về phát triển cộng đồng hơn thì không được biết đến? Như vậy là hữu xạ tự nhiên hương vẫn là chưa đủ, mà vẫn phải làm truyền thông?
 - Anh cũng đăng fb, đó có gọi là truyền thông ko? Điều gì khiến anh thấy việc truyền thông là có hại cho việc hữu xạ tự nhiên hương?
 
-[Doanh nhân chỉ biết kiếm tiền](Doanh%20nh%C3%A2n%20ch%E1%BB%89%20bi%E1%BA%BFt%20ki%E1%BA%BFm%20ti%E1%BB%81n.md)
+[Doanh nhân chỉ biết kiếm tiền](../../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Ni%E1%BB%81m%20tin,%20di%E1%BB%85n%20ng%C3%B4n/Ti%E1%BB%81n/Gi%C3%A0u,%20ngh%C3%A8o/Doanh%20nh%C3%A2n%20ch%E1%BB%89%20bi%E1%BA%BFt%20ki%E1%BA%BFm%20ti%E1%BB%81n.md)
 Hỏi thêm:: [Phạm Trường Sơn](Ph%E1%BA%A1m%20Tr%C6%B0%E1%BB%9Dng%20S%C6%A1n.md)

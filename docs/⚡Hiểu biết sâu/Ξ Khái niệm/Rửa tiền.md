@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-04-11T18:41
-updated: 2025-04-21T15:11
+updated: 2025-07-09T17:32
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Ajp_hzsLggE?si=CLceq3_KxViRWHp9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 ![Giải thích đại án Trương Mỹ Lan trong 14 phút bằng hoạt hình - YouTube](https://www.youtube.com/watch?v=eXXtXEiJM3c)
@@ -13,4 +13,5 @@ updated: 2025-04-21T15:11
 
 - Trung gian thanh toán: 
     - [Vì các ví điện tử đứng ra bảo lãnh cho người quẹt, nên một giao dịch khi quẹt qua chúng sẽ trở thành một giao dịch mua hàng sạch trong mắt ngân hàng](../T%E1%BB%95%20ch%E1%BB%A9c%20t%C3%A0i%20ch%C3%ADnh/Trung%20gian%20thanh%20to%C3%A1n/V%C3%AC%20c%C3%A1c%20v%C3%AD%20%C4%91i%E1%BB%87n%20t%E1%BB%AD%20%C4%91%E1%BB%A9ng%20ra%20b%E1%BA%A3o%20l%C3%A3nh%20cho%20ng%C6%B0%E1%BB%9Di%20qu%E1%BA%B9t,%20n%C3%AAn%20m%E1%BB%99t%20giao%20d%E1%BB%8Bch%20khi%20qu%E1%BA%B9t%20qua%20ch%C3%BAng%20s%E1%BA%BD%20tr%E1%BB%9F%20th%C3%A0nh%20m%E1%BB%99t%20giao%20d%E1%BB%8Bch%20mua%20h%C3%A0ng%20s%E1%BA%A1ch%20trong%20m%E1%BA%AFt%20ng%C3%A2n%20h%C3%A0ng.md)
+
 

@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-09-14T23:01
-updated: 2025-07-08T15:39
+updated: 2025-07-09T17:32
 description: Các thông tin để bạn thẩm định việc cho Trí vay
 title: Đỗ Hàng Minh Trí
 ---
@@ -39,8 +39,8 @@ App đen:
 ## Các cách xoay sở
 ### Trí đã thử tham gia vào [các ý tưởng kiếm tiền](../../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/%C3%9D%20t%C6%B0%E1%BB%9Fng%20ki%E1%BA%BFm%20ti%E1%BB%81n/3%20%C3%9D%20t%C6%B0%E1%BB%9Fng/index.md) nào? Độ hiệu quả của chúng thế nào?
 Hiện tại đang làm [Đại lý bảo hiểm](../../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/%C3%9D%20t%C6%B0%E1%BB%9Fng%20ki%E1%BA%BFm%20ti%E1%BB%81n/3%20%C3%9D%20t%C6%B0%E1%BB%9Fng/Vi%E1%BB%87c%20ch%C3%ADnh%20th%E1%BB%A9c%20trong%20c%C3%B4ng%20ty/%C4%90%E1%BA%A1i%20l%C3%BD%20b%E1%BA%A3o%20hi%E1%BB%83m.md) cho Cathay. Công việc 
-[Yêu cầu tuyển dụng của Cathay](../../../Ch%E1%BA%A1y%20ch%E1%BB%89%20ti%C3%AAu/L%C3%A0m%20th%E1%BA%ADt/Tuy%E1%BB%83n%20d%E1%BB%A5ng/Y%C3%AAu%20c%E1%BA%A7u%20tuy%E1%BB%83n%20d%E1%BB%A5ng%20c%E1%BB%A7a%20Cathay.md)
-[Giả thiết về nguồn tuyển dụng cho Cathay](../../../Ch%E1%BA%A1y%20ch%E1%BB%89%20ti%C3%AAu/L%C3%A0m%20th%E1%BA%ADt/T%C3%A0i%20li%E1%BB%87u%20kh%C3%A1c/Gi%E1%BA%A3%20thi%E1%BA%BFt/Gi%E1%BA%A3%20thi%E1%BA%BFt%20v%E1%BB%81%20ngu%E1%BB%93n%20tuy%E1%BB%83n%20d%E1%BB%A5ng%20cho%20Cathay.md)
+[Yêu cầu tuyển dụng của Cathay](../../../Gi%C3%BAp%20nhau%20ki%E1%BA%BFm%20ti%E1%BB%81n/Ch%E1%BA%A1y%20ch%E1%BB%89%20ti%C3%AAu%20cho%20nh%C3%A2n%20vi%C3%AAn%20c%C3%B4ng%20ty/L%C3%A0m%20th%E1%BA%ADt/B%E1%BA%A3o%20hi%E1%BB%83m/Tuy%E1%BB%83n%20d%E1%BB%A5ng/Y%C3%AAu%20c%E1%BA%A7u%20tuy%E1%BB%83n%20d%E1%BB%A5ng%20c%E1%BB%A7a%20Cathay.md)
+[Giả thiết về nguồn tuyển dụng cho Cathay](../../../Gi%C3%BAp%20nhau%20ki%E1%BA%BFm%20ti%E1%BB%81n/Ch%E1%BA%A1y%20ch%E1%BB%89%20ti%C3%AAu%20cho%20nh%C3%A2n%20vi%C3%AAn%20c%C3%B4ng%20ty/L%C3%A0m%20th%E1%BA%ADt/B%E1%BA%A3o%20hi%E1%BB%83m/T%C3%A0i%20li%E1%BB%87u%20kh%C3%A1c/Gi%E1%BA%A3%20thi%E1%BA%BFt/Gi%E1%BA%A3%20thi%E1%BA%BFt%20v%E1%BB%81%20ngu%E1%BB%93n%20tuy%E1%BB%83n%20d%E1%BB%A5ng%20cho%20Cathay.md)
 
 Các ý tưởng khác đều có thứ bị mắc kẹt
 ### Trí nghĩ gì về [các ý tưởng tiết kiệm](../../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/S%E1%BB%91ng%20v%E1%BB%ABa%20%C4%91%E1%BB%A7,%20b%E1%BB%81n%20v%E1%BB%AFng/%C3%9D%20t%C6%B0%E1%BB%9Fng%20ti%E1%BA%BFt%20ki%E1%BB%87m.md) này?

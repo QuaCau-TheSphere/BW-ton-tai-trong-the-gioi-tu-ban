@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-07-17T21:41
-updated: 2025-07-08T15:39
+updated: 2025-07-09T17:17
 title: Các dịch vụ cho vay tín chấp
 ---
 ## Từ cá nhân

@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-09-30T23:34
-updated: 2025-05-08T14:27
+updated: 2025-07-09T17:32
 alias: Luật cấm đại lý trích hoa hồng để giảm giá
 ---
 Khái niệm:: [Hoa hồng](../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Hoa%20h%E1%BB%93ng.md), [Giảm giá](../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Gi%E1%BA%A3m%20gi%C3%A1.md)

@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-07-07T00:39
+updated: 2025-07-09T17:32
 title: Chặn rác và vượt qua thiết kế trục lợi
 ---
 ## Thiết kế trục lợi
@@ -19,17 +19,18 @@ title: Chặn rác và vượt qua thiết kế trục lợi
     - [Chặn rác và vượt qua thiết kế trục lợi](index.md)
 
 - Hệ điều hành: 
-    - [Xóa bloatware trên Windows, Android](./H%E1%BB%87%20%C4%91i%E1%BB%81u%20h%C3%A0nh/X%C3%B3a%20bloatware%20tr%C3%AAn%20Windows,%20Android.md)
     - [Chặn quảng cáo trong app Android](./H%E1%BB%87%20%C4%91i%E1%BB%81u%20h%C3%A0nh/Ch%E1%BA%B7n%20qu%E1%BA%A3ng%20c%C3%A1o%20trong%20app%20Android.md)
+    - [Xóa bloatware trên Windows, Android](./H%E1%BB%87%20%C4%91i%E1%BB%81u%20h%C3%A0nh/X%C3%B3a%20bloatware%20tr%C3%AAn%20Windows,%20Android.md)
 
 - Web: 
     - [Chặn quảng cáo trên trình duyệt](./Web/Ch%E1%BA%B7n%20qu%E1%BA%A3ng%20c%C3%A1o%20tr%C3%AAn%20tr%C3%ACnh%20duy%E1%BB%87t.md)
     - [Dùng dịch vụ trả phí giá rẻ](./Web/D%C3%B9ng%20d%E1%BB%8Bch%20v%E1%BB%A5%20tr%E1%BA%A3%20ph%C3%AD%20gi%C3%A1%20r%E1%BA%BB.md)
     - [Giảm rác trên mạng xã hội](./Web/Gi%E1%BA%A3m%20r%C3%A1c%20tr%C3%AAn%20m%E1%BA%A1ng%20x%C3%A3%20h%E1%BB%99i.md)
+    - [Lượng năng lượng cần để bác bỏ mấy thứ nhảm cứt lớn hơn nhiều lần lượng năng lượng cần để tạo ra thứ nhảm cứt](./Web/L%C6%B0%E1%BB%A3ng%20n%C4%83ng%20l%C6%B0%E1%BB%A3ng%20c%E1%BA%A7n%20%C4%91%E1%BB%83%20b%C3%A1c%20b%E1%BB%8F%20m%E1%BA%A5y%20th%E1%BB%A9%20nh%E1%BA%A3m%20c%E1%BB%A9t%20l%E1%BB%9Bn%20h%C6%A1n%20nhi%E1%BB%81u%20l%E1%BA%A7n%20l%C6%B0%E1%BB%A3ng%20n%C4%83ng%20l%C6%B0%E1%BB%A3ng%20c%E1%BA%A7n%20%C4%91%E1%BB%83%20t%E1%BA%A1o%20ra%20th%E1%BB%A9%20nh%E1%BA%A3m%20c%E1%BB%A9t.md)
+    - [Tránh bị nghiện mạng xã hội](./Web/Tr%C3%A1nh%20b%E1%BB%8B%20nghi%E1%BB%87n%20m%E1%BA%A1ng%20x%C3%A3%20h%E1%BB%99i.md)
     - [Loại bỏ popup bằng Idontcareaboutcookies, No Thanks](./Web/Lo%E1%BA%A1i%20b%E1%BB%8F%20popup%20b%E1%BA%B1ng%20Idontcareaboutcookies,%20No%20Thanks.md)
     - [Tập làm hacker](./Web/T%E1%BA%ADp%20l%C3%A0m%20hacker.md)
-    - [Tránh bị nghiện mạng xã hội](./Web/Tr%C3%A1nh%20b%E1%BB%8B%20nghi%E1%BB%87n%20m%E1%BA%A1ng%20x%C3%A3%20h%E1%BB%99i.md)
-    - [Lượng năng lượng cần để bác bỏ mấy thứ nhảm cứt lớn hơn nhiều lần lượng năng lượng cần để tạo ra thứ nhảm cứt](./Web/L%C6%B0%E1%BB%A3ng%20n%C4%83ng%20l%C6%B0%E1%BB%A3ng%20c%E1%BA%A7n%20%C4%91%E1%BB%83%20b%C3%A1c%20b%E1%BB%8F%20m%E1%BA%A5y%20th%E1%BB%A9%20nh%E1%BA%A3m%20c%E1%BB%A9t%20l%E1%BB%9Bn%20h%C6%A1n%20nhi%E1%BB%81u%20l%E1%BA%A7n%20l%C6%B0%E1%BB%A3ng%20n%C4%83ng%20l%C6%B0%E1%BB%A3ng%20c%E1%BA%A7n%20%C4%91%E1%BB%83%20t%E1%BA%A1o%20ra%20th%E1%BB%A9%20nh%E1%BA%A3m%20c%E1%BB%A9t.md)
     - [Đọc những trang thu phí bằng 12ft.io](./Web/%C4%90%E1%BB%8Dc%20nh%E1%BB%AFng%20trang%20thu%20ph%C3%AD%20b%E1%BA%B1ng%2012ft.io.md)
     - [Ẩn kết quả tìm kiếm rác trên Google](./Web/%E1%BA%A8n%20k%E1%BA%BFt%20qu%E1%BA%A3%20t%C3%ACm%20ki%E1%BA%BFm%20r%C3%A1c%20tr%C3%AAn%20Google.md)
+
 

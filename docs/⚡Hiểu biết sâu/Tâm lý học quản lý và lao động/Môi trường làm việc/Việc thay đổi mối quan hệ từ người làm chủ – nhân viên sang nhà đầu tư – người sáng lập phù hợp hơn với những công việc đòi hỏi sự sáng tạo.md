@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2024-07-28T13:04
+updated: 2025-07-09T17:32
 ---
 Khái niệm:: 
 [Quản lý công việc và quản lý kiến thức không thể tách rời nhau](Qu%E1%BA%A3n%20l%C3%BD%20c%C3%B4ng%20vi%E1%BB%87c%20v%C3%A0%20qu%E1%BA%A3n%20l%C3%BD%20ki%E1%BA%BFn%20th%E1%BB%A9c%20kh%C3%B4ng%20th%E1%BB%83%20t%C3%A1ch%20r%E1%BB%9Di%20nhau.md)
@@ -9,4 +9,4 @@ Khái niệm::
 
 Nguồn:: [Paul Graham](Paul%20Graham.md), [What Business Can Learn from Open Source](http://www.paulgraham.com/opensource.html)
 
-Mâu thuẫn với:: [Nhà đầu tư đầu tư vào việc kinh doanh, không phải ý tưởng](Nh%C3%A0%20%C4%91%E1%BA%A7u%20t%C6%B0%20%C4%91%E1%BA%A7u%20t%C6%B0%20v%C3%A0o%20vi%E1%BB%87c%20kinh%20doanh,%20kh%C3%B4ng%20ph%E1%BA%A3i%20%C3%BD%20t%C6%B0%E1%BB%9Fng.md)
+Mâu thuẫn với:: [Nhà đầu tư đầu tư vào việc kinh doanh, không phải ý tưởng](../../Ki%E1%BA%BFm%20ti%E1%BB%81n/T%E1%BB%B1%20%C4%91%E1%BA%A7u%20t%C6%B0/T%E1%BA%A1o%20d%C3%B2ng%20ti%E1%BB%81n/Nh%C3%A0%20%C4%91%E1%BA%A7u%20t%C6%B0%20%C4%91%E1%BA%A7u%20t%C6%B0%20v%C3%A0o%20vi%E1%BB%87c%20kinh%20doanh,%20kh%C3%B4ng%20ph%E1%BA%A3i%20%C3%BD%20t%C6%B0%E1%BB%9Fng.md)

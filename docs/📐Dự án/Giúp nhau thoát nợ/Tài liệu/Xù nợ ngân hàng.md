@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-08-31T13:30
-updated: 2025-04-20T23:23
+updated: 2025-07-09T17:32
 ---
 Khái niệm:: [Nợ xấu](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Vay,%20n%E1%BB%A3/N%E1%BB%A3%20x%E1%BA%A5u.md)
 

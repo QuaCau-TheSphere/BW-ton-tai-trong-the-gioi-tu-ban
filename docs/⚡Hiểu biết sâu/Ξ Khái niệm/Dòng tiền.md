@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-09-30T12:08
-updated: 2025-04-24T17:57
+updated: 2025-07-09T17:32
 ---
 - \-: 
     - [Cái cần không phải là có tiền, mà là có dòng tiền](../Ki%E1%BA%BFm%20ti%E1%BB%81n/T%E1%BB%B1%20%C4%91%E1%BA%A7u%20t%C6%B0/C%C3%A1i%20c%E1%BA%A7n%20kh%C3%B4ng%20ph%E1%BA%A3i%20l%C3%A0%20c%C3%B3%20ti%E1%BB%81n,%20m%C3%A0%20l%C3%A0%20c%C3%B3%20d%C3%B2ng%20ti%E1%BB%81n.md)
@@ -10,4 +10,5 @@ updated: 2025-04-24T17:57
 
 - Làm kết quả ảo: 
     - [Làm thật thì không tạo ra dòng tiền. Làm ảo tạo ra dòng tiền](../Ki%E1%BA%BFm%20ti%E1%BB%81n/L%C3%A0m%20thu%C3%AA/L%C3%A0m%20k%E1%BA%BFt%20qu%E1%BA%A3%20%E1%BA%A3o/L%C3%A0m%20th%E1%BA%ADt%20th%C3%AC%20kh%C3%B4ng%20t%E1%BA%A1o%20ra%20d%C3%B2ng%20ti%E1%BB%81n.%20L%C3%A0m%20%E1%BA%A3o%20t%E1%BA%A1o%20ra%20d%C3%B2ng%20ti%E1%BB%81n.md)
+
 

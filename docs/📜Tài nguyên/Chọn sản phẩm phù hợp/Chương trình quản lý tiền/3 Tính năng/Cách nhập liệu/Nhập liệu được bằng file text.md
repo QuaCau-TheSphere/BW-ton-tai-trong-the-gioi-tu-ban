@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2025-04-14T12:51
+updated: 2025-07-09T17:32
 ---
 Đáp ứng yêu cầu:: 
 Đồng thời có thêm tính năng:: [Nhập được trên máy tính](./Nh%E1%BA%ADp%20%C4%91%C6%B0%E1%BB%A3c%20tr%C3%AAn%20m%C3%A1y%20t%C3%ADnh.md)

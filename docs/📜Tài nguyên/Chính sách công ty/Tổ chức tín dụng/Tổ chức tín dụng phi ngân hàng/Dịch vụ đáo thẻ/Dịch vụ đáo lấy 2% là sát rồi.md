@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-04-15T23:34
-updated: 2025-04-20T18:19
+updated: 2025-07-09T17:32
 ---
 Khái niệm:: [Đáo](../../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Vay,%20n%E1%BB%A3/%C4%90%C3%A1o.md)
 Thực chất khi làm đáo là sự hợp tác của 3 bên:
@@ -9,7 +9,7 @@ Thực chất khi làm đáo là sự hợp tác của 3 bên:
 - Cửa hàng, đăng ký địa điểm kinh doanh
 - Bên đáo thẻ
 
-[Luật cấm rút tiền tại cửa hàng để tránh việc rửa tiền](../../../../Lu%E1%BA%ADt,%20qu%E1%BA%A3n%20l%C3%BD%20nh%C3%A0%20n%C6%B0%E1%BB%9Bc/Ti%E1%BB%81n%20t%E1%BB%87,%20ng%C3%A2n%20h%C3%A0ng/C%E1%BA%A5m%20r%C3%BAt%20ti%E1%BB%81n%20t%E1%BA%A1i%20c%E1%BB%ADa%20h%C3%A0ng%20%C4%91%E1%BB%83%20tr%C3%A1nh%20vi%E1%BB%87c%20r%E1%BB%ADa%20ti%E1%BB%81n.md). Các cửa hàng chỉ dám làm một hai lần một tháng, chứ không dám làm thường xuyên.  Thế nên, bên đáo thẻ phải thuê các cửa hàng thật để làm. Mỗi lần là một địa điểm khác nhau.
+[Luật cấm rút tiền tại cửa hàng để tránh việc rửa tiền](../../../../Lu%E1%BA%ADt,%20qu%E1%BA%A3n%20l%C3%BD%20nh%C3%A0%20n%C6%B0%E1%BB%9Bc/T%C3%A0i%20ch%C3%ADnh/Ti%E1%BB%81n%20t%E1%BB%87,%20ng%C3%A2n%20h%C3%A0ng/C%E1%BA%A5m%20r%C3%BAt%20ti%E1%BB%81n%20t%E1%BA%A1i%20c%E1%BB%ADa%20h%C3%A0ng%20%C4%91%E1%BB%83%20tr%C3%A1nh%20vi%E1%BB%87c%20r%E1%BB%ADa%20ti%E1%BB%81n.md). Các cửa hàng chỉ dám làm một hai lần một tháng, chứ không dám làm thường xuyên.  Thế nên, bên đáo thẻ phải thuê các cửa hàng thật để làm. Mỗi lần là một địa điểm khác nhau.
 
 Các ngân hàng lấy phí POS là 1%. Bên cửa hàng lấy thêm 0.5%. Tới bên đáo là 0.5% nữa. Nên phí 2% là điều dễ hiểu. Những đứa chỉ lấy có 1.x% chỉ có một vài điểm bán. Những đứa này có thể sập bất cứ lúc nào.
 
