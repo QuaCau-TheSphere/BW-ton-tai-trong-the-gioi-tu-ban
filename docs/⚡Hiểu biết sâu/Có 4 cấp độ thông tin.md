@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-01-23T14:28
-updated: 2025-01-23T15:21
+updated: 2025-07-09T17:32
 ---
 Khái niệm:: [Bảo mật](./%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/B%E1%BA%A3o%20m%E1%BA%ADt.md)
 **Điều 4. Phân loại thông tin**
