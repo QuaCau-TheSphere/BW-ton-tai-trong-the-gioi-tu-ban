@@ -1,8 +1,8 @@
 ---
 share: true
 created: 2024-06-22T18:55
-alias: kiếm tiền nhanh, freelance, cộng tác viên, lương liền, bán thời gian, part-time, part time
-updated: 2025-05-30T11:17
+alias: các công việc kiếm tiền nhanh, freelance, các công việc cộng tác viên, lương liền, bán thời gian, part-time, part time
+updated: 2025-07-09T13:01
 title: Công việc thời vụ, cộng tác viên
 ---
 # Các công việc kiếm tiền nhanh
@@ -14,12 +14,12 @@ Bài chi tiết:: [Lời mời tham gia nhóm chạy chỉ tiêu cho nhân sự]
 ###  [Công việc trong GM Mall](./Nh%C3%B3m%20ch%E1%BA%A1y%20ch%E1%BB%89%20ti%C3%AAu/GM%20Mall/index.md)
 | File                                                                                                                                                                           | Số tiền kiếm được                     | Mô tả công việc                                                             |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------- | --------------------------------------------------------------------------- |
-| [Giữ tiền hộ](./Nh%C3%B3m%20ch%E1%BA%A1y%20ch%E1%BB%89%20ti%C3%AAu/GM%20Mall/Gi%E1%BB%AF%20ti%E1%BB%81n%20h%E1%BB%99.md)                                           | 60k/stk ngân hàng                     | Chuyển dùm tiền được gửi về tài khoản ngân hàng của bạn sang tài khoản khác |
+| [Cung cấp địa chỉ nhận hàng](./Nh%C3%B3m%20ch%E1%BA%A1y%20ch%E1%BB%89%20ti%C3%AAu/GM%20Mall/Cung%20c%E1%BA%A5p%20%C4%91%E1%BB%8Ba%20ch%E1%BB%89%20nh%E1%BA%ADn%20h%C3%A0ng.md)             | Tuỳ vào món hàng được nhận            | Cung cấp địa chỉ để được nhận hàng miễn phí                                 |
 | [Gom nhóm](./Nh%C3%B3m%20ch%E1%BA%A1y%20ch%E1%BB%89%20ti%C3%AAu/GM%20Mall/Gom%20nh%C3%B3m.md)                                                 | 50k/tài khoản tạo mới                 | Tải app GM Mall, đăng ký, nhập mã giới thiệu, nạp tiền, gom nhóm, rút tiền  |
+| [Giữ tiền hộ](./Nh%C3%B3m%20ch%E1%BA%A1y%20ch%E1%BB%89%20ti%C3%AAu/GM%20Mall/Gi%E1%BB%AF%20ti%E1%BB%81n%20h%E1%BB%99.md)                                           | 60k/stk ngân hàng                     | Chuyển dùm tiền được gửi về tài khoản ngân hàng của bạn sang tài khoản khác |
 | [Làm nhân viên ảo](./Nh%C3%B3m%20ch%E1%BA%A1y%20ch%E1%BB%89%20ti%C3%AAu/GM%20Mall/L%C3%A0m%20nh%C3%A2n%20vi%C3%AAn%20%E1%BA%A3o.md)                                 | Tối thiểu 600k, hoặc 1tr5/tháng       | Họp online hoặc lên văn phòng chơi                                          |
 | [Làm trưởng nhóm ảo](./Nh%C3%B3m%20ch%E1%BA%A1y%20ch%E1%BB%89%20ti%C3%AAu/GM%20Mall/L%C3%A0m%20tr%C6%B0%E1%BB%9Fng%20nh%C3%B3m%20%E1%BA%A3o.md)                             | \-                                    | \-                                                                          |
 | [Nghe cuộc gọi xác nhận giao hàng](./Nh%C3%B3m%20ch%E1%BA%A1y%20ch%E1%BB%89%20ti%C3%AAu/GM%20Mall/Nghe%20cu%E1%BB%99c%20g%E1%BB%8Di%20x%C3%A1c%20nh%E1%BA%ADn%20giao%20h%C3%A0ng.md) | \-                                    | \-                                                                          |
-| [Nhận hàng bán lại](./Nh%C3%B3m%20ch%E1%BA%A1y%20ch%E1%BB%89%20ti%C3%AAu/GM%20Mall/Nh%E1%BA%ADn%20h%C3%A0ng%20b%C3%A1n%20l%E1%BA%A1i.md)                               | Tuỳ vào món hàng được nhận            | Cung cấp địa chỉ để được nhận hàng miễn phí                                 |
 | [Quản lý máy](./Nh%C3%B3m%20ch%E1%BA%A1y%20ch%E1%BB%89%20ti%C3%AAu/GM%20Mall/Qu%E1%BA%A3n%20l%C3%BD%20m%C3%A1y.md)                                           | 5tr/tháng + quà tặng rất thường xuyên | Quản lý phonefarm gồm 60 - 80 cái điện thoại                                |
 
 
@@ -51,8 +51,11 @@ Bài chi tiết:: [Lời mời tham gia nhóm chạy chỉ tiêu cho nhân sự]
 ## Công việc khác
 - [Chạy sự kiện, guider, chụp ảnh, hướng dẫn viên du lịch](./Ch%E1%BA%A1y%20s%E1%BB%B1%20ki%E1%BB%87n,%20guider,%20ch%E1%BB%A5p%20%E1%BA%A3nh,%20h%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn%20vi%C3%AAn%20du%20l%E1%BB%8Bch.md)
 - [Lừa đảo hội lừa đảo](./L%E1%BB%ABa%20%C4%91%E1%BA%A3o%20h%E1%BB%99i%20l%E1%BB%ABa%20%C4%91%E1%BA%A3o.md)
-- [Săn phiếu giảm giá, airdrop](./S%C4%83n%20phi%E1%BA%BFu%20gi%E1%BA%A3m%20gi%C3%A1,%20airdrop.md)
+- [Săn hàng giảm giá rồi bán lại với giá gốc](./S%C4%83n%20khuy%E1%BA%BFn%20m%C3%A3i,%20gi%E1%BA%A3m%20gi%C3%A1/S%C4%83n%20h%C3%A0ng%20gi%E1%BA%A3m%20gi%C3%A1%20r%E1%BB%93i%20b%C3%A1n%20l%E1%BA%A1i%20v%E1%BB%9Bi%20gi%C3%A1%20g%E1%BB%91c.md)
+- [Săn điểm thưởng cho hoạt động tích cực](./S%C4%83n%20khuy%E1%BA%BFn%20m%C3%A3i,%20gi%E1%BA%A3m%20gi%C3%A1/S%C4%83n%20%C4%91i%E1%BB%83m%20th%C6%B0%E1%BB%9Fng%20cho%20ho%E1%BA%A1t%20%C4%91%E1%BB%99ng%20t%C3%ADch%20c%E1%BB%B1c.md)
+- [Đăng ký tài khoản hàng loạt](./S%C4%83n%20khuy%E1%BA%BFn%20m%C3%A3i,%20gi%E1%BA%A3m%20gi%C3%A1/%C4%90%C4%83ng%20k%C3%BD%20t%C3%A0i%20kho%E1%BA%A3n%20h%C3%A0ng%20lo%E1%BA%A1t.md)
 - [Săn sự kiện cần lấp người khán giả, phỏng vấn cần tìm đáp viên](./S%C4%83n%20s%E1%BB%B1%20ki%E1%BB%87n%20c%E1%BA%A7n%20l%E1%BA%A5p%20ng%C6%B0%E1%BB%9Di%20kh%C3%A1n%20gi%E1%BA%A3,%20ph%E1%BB%8Fng%20v%E1%BA%A5n%20c%E1%BA%A7n%20t%C3%ACm%20%C4%91%C3%A1p%20vi%C3%AAn.md)
+- [Đánh giá độ chính xác và chất lượng truy vấn](./%C4%90%C3%A1nh%20gi%C3%A1%20%C4%91%E1%BB%99%20ch%C3%ADnh%20x%C3%A1c%20v%C3%A0%20ch%E1%BA%A5t%20l%C6%B0%E1%BB%A3ng%20truy%20v%E1%BA%A5n.md)
 
 - Nhập liệu, dán nhãn dữ liệu, BPO
 - Gia sư, dạy tiếng Việt cho người nước ngoài
