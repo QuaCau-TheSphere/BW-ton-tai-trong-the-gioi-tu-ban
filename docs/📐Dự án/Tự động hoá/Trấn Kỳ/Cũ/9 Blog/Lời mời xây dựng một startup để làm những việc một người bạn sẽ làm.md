@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2024-11-18T13:20
+updated: 2025-07-09T17:32
 alias:
   - Một startup làm những việc một người bạn sẽ làm
 ---
@@ -15,7 +15,7 @@ Trong thời gian qua bọn mình đã viết [Trấn Kỳ](https://lậptrình.
 Đây là các công việc luôn cần người tham gia:
 
 - [Lên kế hoạch phát triển](%F0%9F%93%90%20D%E1%BB%B1%20%C3%A1n/Tr%E1%BA%A5n%20K%E1%BB%B3/4%20Th%C3%A0nh%20ph%E1%BA%A9m/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c/K%E1%BA%BF%20ho%E1%BA%A1ch%20ph%C3%A1t%20tri%E1%BB%83n%20Tr%E1%BA%A5n%20K%E1%BB%B3.md){ .md-button .md-button--primary }
-- [Truyền thông](Truy%E1%BB%81n%20th%C3%B4ng.md){ .md-button .md-button--primary }
+- [Truyền thông](../4%20Th%C3%A0nh%20ph%E1%BA%A9m/Truy%E1%BB%81n%20th%C3%B4ng/index.md){ .md-button .md-button--primary }
 - [Tổ chức nhỏ hoặc người cần kỷ luật tài chính](../4%20Th%C3%A0nh%20ph%E1%BA%A9m/Ng%C6%B0%E1%BB%9Di%20d%C3%B9ng/Ng%C6%B0%E1%BB%9Di%20d%C3%B9ng%20c%C3%A1%20nh%C3%A2n/T%E1%BB%95%20ch%E1%BB%A9c%20nh%E1%BB%8F%20ho%E1%BA%B7c%20ng%C6%B0%E1%BB%9Di%20c%E1%BA%A7n%20k%E1%BB%B7%20lu%E1%BA%ADt%20t%C3%A0i%20ch%C3%ADnh.md){ .md-button .md-button--primary }
 - [Xây dựng cộng đồng phát triển Trấn Kỳ](../4%20Th%C3%A0nh%20ph%E1%BA%A9m/K%E1%BA%BF%20ho%E1%BA%A1ch/K%E1%BA%BF%20ho%E1%BA%A1ch%20x%C3%A2y%20d%E1%BB%B1ng%20c%E1%BB%99ng%20%C4%91%E1%BB%93ng%20ph%C3%A1t%20tri%E1%BB%83n%20Tr%E1%BA%A5n%20K%E1%BB%B3.md){ .md-button .md-button--primary }
 - [Tổ chức các buổi hướng dẫn người dùng sử dụng Trấn Kỳ](K%E1%BA%BF%20ho%E1%BA%A1ch%20t%E1%BB%95%20ch%E1%BB%A9c%20c%C3%A1c%20bu%E1%BB%95i%20h%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn%20s%E1%BB%AD%20d%E1%BB%A5ng%20Tr%E1%BA%A5n%20K%E1%BB%B3.md){ .md-button .md-button--primary }
