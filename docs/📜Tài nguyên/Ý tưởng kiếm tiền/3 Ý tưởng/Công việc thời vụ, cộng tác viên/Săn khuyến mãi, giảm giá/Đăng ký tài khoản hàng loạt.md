@@ -3,14 +3,14 @@ share: true
 description: "Đăng ký 36 - 150 tài khoản/ngày. Số tiền kiếm được: 50k - 300k/ngày"
 created: 2025-03-27T17:13
 alias: reg acc
-updated: 2025-07-09T19:34
+updated: 2025-07-09T21:11
 ---
 Mô tả công việc:: Đăng ký 36 - 150 tài khoản/ngày
 Số tiền kiếm được:: 50k - 300k/ngày
 Số tiền đầu tư:: 0
 
 ## Mô tả chi tiết
-Bạn sẽ dùng LD Player để đăng ký 150 tài khoản cho một app mỗi ngày, tổng thời gian từ 2 đến 4 tiếng, thời điểm làm tuỳ ý bạn. Các thông tin để đăng ký như SĐT, email sẽ được cung cấp đầy đủ, bạn không cần phải cung cấp thông tin gì của bạn. Xong tài khoản nào thì điền thông tin cho tài khoản đó vào một trang tính có sẵn. 
+Bạn sẽ dùng LD Player để đăng ký 150 tài khoản cho một app mỗi ngày, tổng thời gian từ 2 đến 4 tiếng, thời điểm làm tuỳ ý bạn. Các thông tin để đăng ký như SĐT, email sẽ được cung cấp đầy đủ, bạn không cần phải cung cấp thông tin gì của bạn. Làm xong cái nào thì ghi chú lại vào bảng kết quả.
 
 Tiền công sẽ được trả theo tuần, và tuỳ thuộc vào lượng tài khoản bạn tạo được trong ngày:
 
