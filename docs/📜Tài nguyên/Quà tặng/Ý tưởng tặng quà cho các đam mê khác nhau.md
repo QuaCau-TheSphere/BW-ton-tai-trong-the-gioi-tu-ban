@@ -1,8 +1,9 @@
 ---
 share: true
 created: 2024-11-08T10:55
-updated: 2025-07-09T17:32
+updated: 2025-07-12T23:59
 ---
+Khái niệm:: [Quà tặng](../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Qu%C3%A0%20t%E1%BA%B7ng.md)
 Chỉ cần biết chỗ là mua. Có những thứ không tốn nhiều tiền. Nhiều khi chỉ là cái sticker mấy ngàn. Cái quan trọng là biết từ khoá
 Sở thích, đam mê
 Không thể cứ mua đại được, vì có thể họ cũng có nhiều rồi. Đó là những cái họ cũng thích, nhưng cũng tặc lưỡi không mua

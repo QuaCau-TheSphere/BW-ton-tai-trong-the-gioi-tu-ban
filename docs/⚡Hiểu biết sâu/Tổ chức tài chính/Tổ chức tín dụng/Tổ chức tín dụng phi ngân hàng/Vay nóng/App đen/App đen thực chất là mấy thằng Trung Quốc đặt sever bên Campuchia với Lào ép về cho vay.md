@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-08-23T16:39
-updated: 2025-07-09T17:32
+updated: 2025-07-12T21:25
 ---
 Khái niệm:: [App đen, vay nóng](../../../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Vay,%20n%E1%BB%A3/App%20%C4%91en,%20vay%20n%C3%B3ng.md)
 
@@ -51,3 +51,4 @@ chứ toàn nuôi béo rồi thịt để lấy thành tích
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JW9AMuUAsRg?si=o93PPSU6qcaHOsXD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 ![Người Việt thoát kiếp 'nô lệ' khi bị lừa sang Campuchia ra sao? - YouTube](https://youtu.be/2oEzo2vFfHg?si=lPnA-EhY9aPsPyXN)
 ![Kế hoạch tẩu thoát khỏi "địa ngục" ở bên kia biên giới \| VTV đặc biệt BẪY - YouTube](https://youtu.be/TisXdOkK6Ac?si=6a3VdDOi6cr1zsjr)
+![Giải thích nền kinh tế Campuchia trong 15 phút - YouTube](https://youtu.be/hl1MdCfct5c?si=r7x63lTfjx9wOjEj)
