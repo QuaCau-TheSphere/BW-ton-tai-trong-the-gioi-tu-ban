@@ -1,25 +1,26 @@
 ---
 share: true
-description: "Đăng ký 36 - 150 tài khoản/ngày. Số tiền kiếm được: 50k - 300k/ngày"
+description: "Đăng ký 30 - 150 tài khoản/ngày. Số tiền kiếm được: 50k - 300k/ngày"
 created: 2025-03-27T17:13
 alias: reg acc
-updated: 2025-07-13T20:10
+updated: 2025-07-13T20:40
 ---
-Mô tả công việc:: Đăng ký 36 - 150 tài khoản/ngày
+Mô tả công việc:: Đăng ký 30 - 150 tài khoản/ngày
 Số tiền kiếm được:: 50k - 300k/ngày
 Số tiền đầu tư:: 0
 
 ## Mô tả chi tiết
-Bạn sẽ dùng LD Player để đăng ký 150 tài khoản cho một app mỗi ngày, tổng thời gian từ 2 đến 4 tiếng, thời điểm làm tuỳ ý bạn. Các thông tin để đăng ký như SĐT, email sẽ được cung cấp đầy đủ, bạn không cần phải cung cấp thông tin gì của bạn. Làm xong cái nào thì ghi chú lại vào bảng kết quả.
+Bạn sẽ dùng LD Player để đăng ký 150 tài khoản cho một app mỗi ngày, tổng thời gian từ 2 đến 4 tiếng, thời điểm làm tuỳ ý bạn. Các thông tin để đăng ký như SĐT, email sẽ được cung cấp đầy đủ, bạn không cần phải cung cấp thông tin gì của bạn. 12 tiếng sau vào lại xác thực SĐT, rồi ghi chú lại vào bảng kết quả.
 
 Tiền công sẽ được ưu tiên trả theo tháng, và tuỳ thuộc vào lượng tài khoản bạn tạo được trong ngày:
 
 | Số lượng       | Tiền công |
 | -------------- | --------- |
-| 36 (tối thiểu) | 50k       |
-| 72             | 100k      |
-| 120            | 200k      |
-| 150            | 300k      |
+| 30 (tối thiểu) | 50k       |
+| 45             | 60k       |
+| 60             | 100k      |
+| 75             | 200k      |
+| 100            | 300k      |
 
 Do có rủi ro app sập (không rút tiền về được) sau 1 tháng, nên bọn mình cần bạn cùng chia sẻ rủi ro bằng việc chỉ nhận 1/3 số tiền trong trường hợp đó.
 
