@@ -2,7 +2,7 @@
 share: true
 description: "Số tiền kiếm được: "
 created: 2025-05-03T16:32
-updated: 2025-07-09T19:16
+updated: 2025-07-16T14:34
 ---
 Tính chất công việc:: 
 Hình thức:: 
@@ -18,4 +18,4 @@ Số người cần tuyển::
 
 
 > [!important] Nhìn toàn cảnh
-> Công việc này là một phần của [Các công việc tìm người](./index.md), vốn là một phần của dự án [Giúp nhau kiếm tiền](../../../../../../%F0%9F%93%90D%E1%BB%B1%20%C3%A1n/Gi%C3%BAp%20nhau%20ki%E1%BA%BFm%20ti%E1%BB%81n/index.md).
+> Công việc này là một phần của [Các công việc tìm người](./index.md), vốn là một phần của dự án [Giúp nhau kiếm tiền](../../../../../%F0%9F%93%90D%E1%BB%B1%20%C3%A1n/Gi%C3%BAp%20nhau%20ki%E1%BA%BFm%20ti%E1%BB%81n/index.md).

@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-09-26T11:02
-updated: 2025-07-09T17:32
+updated: 2025-07-16T15:26
 ---
 ## Tiết kiệm tiền mua đồ ăn
 - Lẻn vào các tiệc cưới, tiệc công ty, có thể đóng hộp đồ ăn thừa 
@@ -24,8 +24,9 @@ Cũng có nhiều người tham gia trong các nhóm này thực ra chỉ để 
 ## Tiết kiệm tiền nhà
 - [Ra khỏi thành phố sống](../../%F0%9F%93%90D%E1%BB%B1%20%C3%A1n/Gi%C3%BAp%20nhau%20tho%C3%A1t%20n%E1%BB%A3/T%C3%A0i%20li%E1%BB%87u/Ni%E1%BB%81m%20tin/Ra%20kh%E1%BB%8Fi%20th%C3%A0nh%20ph%E1%BB%91%20s%E1%BB%91ng.md)
 - Ở ngoại ô và gần các bến xe, ga tàu
-- Làm công việc được ngủ tại nơi làm việc
+- Làm công việc được ngủ tại nơi làm việc: [Di house Đà Lạt \| Đà Lạt \| Facebook](https://www.facebook.com/dihousedalat)
 - Vào khu nhà ở xã hội
+- [Bao nuôi](../Qu%C3%A0%20t%E1%BA%B7ng/Bao%20nu%C3%B4i/index.md)
 [Nhà cửa](./Nh%C3%A0%20c%E1%BB%ADa.md)
 
 [Các công ty bất động sản thà bỏ thêm tiền để giải toả hẳn khu tái định cư, vì để ở kế bên thì làm mất giá](../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/T%E1%BB%95%20ch%E1%BB%A9c%20t%C3%A0i%20ch%C3%ADnh/C%C3%A1c%20c%C3%B4ng%20ty%20b%E1%BA%A5t%20%C4%91%E1%BB%99ng%20s%E1%BA%A3n%20th%C3%A0%20b%E1%BB%8F%20th%C3%AAm%20ti%E1%BB%81n%20%C4%91%E1%BB%83%20gi%E1%BA%A3i%20to%E1%BA%A3%20h%E1%BA%B3n%20khu%20t%C3%A1i%20%C4%91%E1%BB%8Bnh%20c%C6%B0,%20v%C3%AC%20%C4%91%E1%BB%83%20%E1%BB%9F%20k%E1%BA%BF%20b%C3%AAn%20th%C3%AC%20l%C3%A0m%20m%E1%BA%A5t%20gi%C3%A1.md)
