@@ -2,7 +2,7 @@
 share: true
 description: "Đăng ký 30 - 100 tài khoản/ngày. Số tiền kiếm được: 50k - 300k/ngày"
 created: 2025-03-27T17:13
-updated: 2025-07-16T14:32
+updated: 2025-07-18T12:23
 alias:
   - reg acc
   - Công việc lia chuột online, tối đa 300k/ngày, làm chừng 2-4 tiếng/ngày
@@ -24,7 +24,7 @@ Tiền công sẽ được ưu tiên trả theo tháng, và tuỳ thuộc vào l
 | 75             | 200k      |
 | 100            | 300k      |
 
-Do có rủi ro app sập (không rút tiền về được) sau 1 tháng, nên bọn mình cần bạn cùng chia sẻ rủi ro bằng việc chỉ nhận 1/3 số tiền trong trường hợp đó.
+Do có rủi ro không rút tiền về được (app bắt được gian lận hoặc sập) sau 1 tháng, nên bọn mình cần bạn cùng chia sẻ rủi ro bằng việc chỉ nhận 1/3 số tiền trong trường hợp đó.
 
 ## Thông tin thêm
 Số người cần tuyển:: ∞
