@@ -2,7 +2,7 @@
 share: true
 description: "Đăng ký 30 - 100 tài khoản/ngày. Số tiền kiếm được: 50k - 300k/ngày"
 created: 2025-03-27T17:13
-updated: 2025-07-18T12:23
+updated: 2025-07-18T15:37
 alias:
   - reg acc
   - Công việc lia chuột online, tối đa 300k/ngày, làm chừng 2-4 tiếng/ngày
@@ -12,6 +12,8 @@ Số tiền kiếm được:: 50k - 300k/ngày
 Số tiền đầu tư:: 0
 
 ## Mô tả chi tiết
+Một trong những công việc trong [Kiếm tiền trực tuyến (MMO)](../../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Ki%E1%BA%BFm%20ti%E1%BB%81n/T%E1%BB%B1%20%C4%91%E1%BA%A7u%20t%C6%B0/Ki%E1%BA%BFm%20ti%E1%BB%81n%20tr%E1%BB%B1c%20tuy%E1%BA%BFn%20(MMO)/index.md) là săn thưởng từ nền tảng. Mà thưởng cho một tài khoản thì ít. Nên thường mọi người sẽ tạo nhiều tài khoản để được nhiều. Mà tạo nhiều thì không xuể, nên muốn thuê người tạo dùm.
+
 Bạn sẽ dùng LD Player để đăng ký 100 tài khoản cho một app mỗi ngày, tổng thời gian từ 2 đến 4 tiếng, thời điểm làm tuỳ ý bạn. Các thông tin để đăng ký như SĐT, email sẽ được cung cấp đầy đủ, bạn không cần phải cung cấp thông tin gì của bạn. 12 tiếng sau vào lại xác thực SĐT, rồi ghi chú lại vào bảng kết quả.
 
 Tiền công sẽ được ưu tiên trả theo tháng, và tuỳ thuộc vào lượng tài khoản bạn tạo được trong ngày:
