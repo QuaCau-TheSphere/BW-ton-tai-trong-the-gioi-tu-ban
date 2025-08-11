@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-09-27T13:00
-updated: 2025-07-09T17:54
+updated: 2025-08-07T15:25
 title: Giúp nhau kiếm tiền
 ---
 # Lời mời tham gia nhóm giúp nhau kiếm tiền
@@ -13,12 +13,12 @@ Bài chi tiết:: [Một số ý tưởng kiếm tiền](../../%F0%9F%93%9CT%C3%
 
 ### Sự tự quyết về công việc, sự bình đẳng với mọi người, sự minh bạch về thông tin
 - Các quyết định đều hỏi ý kiến bạn
-- Tất cả các câu hỏi đều được chào đón và trả lời. VD: lý do chọn mức thù lao, tình hình cuộc sống của các thành viên, v.v.
+- Tất cả các câu hỏi đều được chào đón và trả lời. Bạn có thể hỏi về lý do chọn mức thù lao, tình hình cuộc sống của các thành viên, v.v một cách thoải mái
 - Các thông tin, kiến thức, tài nguyên sẽ được tổng hợp một cách có hệ thống, được tự động tính toán và trình bày trực quan, không đẩy gánh nặng xử lý sang cho bạn, hạn chế tình trạng ém thông tin, chèn ép, thao túng từ phía các công ty
 
 ### Các tài nguyên
 - Các cách [tạo sinh kế, thu nhập, dòng tiền](../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/%C3%9D%20t%C6%B0%E1%BB%9Fng%20ki%E1%BA%BFm%20ti%E1%BB%81n/3%20%C3%9D%20t%C6%B0%E1%BB%9Fng/index.md)
-- Một [quỹ tín dụng vi mô](../Gi%C3%BAp%20nhau%20tho%C3%A1t%20n%E1%BB%A3/M%E1%BA%A1ng%20l%C6%B0%E1%BB%9Bi%20cho%20vay%20ch%C3%A9o.md) để được vay nhanh với lãi thấp khi không còn vay được từ người thân, bạn bè
+- Một [quỹ tín dụng vi mô](../Gi%C3%BAp%20nhau%20tho%C3%A1t%20n%E1%BB%A3/X%C3%A2y%20d%E1%BB%B1ng%20qu%E1%BB%B9%20t%C3%ADn%20d%E1%BB%A5ng%20vi%20m%C3%B4%20v%C3%A0%20m%E1%BA%A1ng%20l%C6%B0%E1%BB%9Bi%20cho%20vay%20ngang%20h%C3%A0ng.md) để được vay nhanh với lãi thấp khi không còn vay được từ người thân, bạn bè
 - Sự kết nối tới những cộng đồng để [mở rộng mối quan hệ](../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/M%E1%BB%9F%20r%E1%BB%99ng%20m%E1%BB%91i%20quan%20h%E1%BB%87/index.md)
 - [Công đoàn để được bảo vệ quyền lợi trước tư bản](../%C4%90%E1%BB%91i%20tho%E1%BA%A1i%20v%E1%BB%9Bi%20t%C6%B0%20b%E1%BA%A3n/X%C3%A2y%20d%E1%BB%B1ng%20c%C3%B4ng%20%C4%91o%C3%A0n.md) 
 
