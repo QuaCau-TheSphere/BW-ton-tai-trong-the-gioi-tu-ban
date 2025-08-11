@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-04-21T15:33
-updated: 2025-07-09T17:32
+updated: 2025-07-19T00:35
 title: Nhóm chạy chỉ tiêu cho nhân viên GM Mall
 alias: Công việc trong GM Mall
 ---
@@ -14,12 +14,12 @@ Hình thức:: [Công việc thời vụ, cộng tác viên](../../index.md)
 | File                                                                                                                                                                           | Số tiền kiếm được                     | Mô tả công việc                                                             |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------- | --------------------------------------------------------------------------- |
 | [Cung cấp địa chỉ nhận hàng](./Cung%20c%E1%BA%A5p%20%C4%91%E1%BB%8Ba%20ch%E1%BB%89%20nh%E1%BA%ADn%20h%C3%A0ng.md)             | Tuỳ vào món hàng được nhận            | Cung cấp địa chỉ để được nhận hàng miễn phí                                 |
-| [Giữ tiền hộ](./Gi%E1%BB%AF%20ti%E1%BB%81n%20h%E1%BB%99.md)                                           | 60k/stk ngân hàng                     | Chuyển dùm tiền được gửi về tài khoản ngân hàng của bạn sang tài khoản khác |
 | [Gom nhóm](./Gom%20nh%C3%B3m.md)                                                 | 50k/tài khoản tạo mới                 | Tải app GM Mall, đăng ký, nhập mã giới thiệu, nạp tiền, gom nhóm, rút tiền  |
-| [Làm nhân viên ảo](./L%C3%A0m%20nh%C3%A2n%20vi%C3%AAn%20%E1%BA%A3o.md)                                 | Tối thiểu 600k, hoặc 1tr5/tháng       | Họp online hoặc lên văn phòng chơi                                          |
+| [Giữ tiền hộ](./Gi%E1%BB%AF%20ti%E1%BB%81n%20h%E1%BB%99.md)                                           | 60k/stk ngân hàng                     | Chuyển dùm tiền được gửi về tài khoản ngân hàng của bạn sang tài khoản khác |
 | [Làm trưởng nhóm ảo](./L%C3%A0m%20tr%C6%B0%E1%BB%9Fng%20nh%C3%B3m%20%E1%BA%A3o.md)                             | \-                                    | \-                                                                          |
 | [Nghe cuộc gọi xác nhận giao hàng](./Nghe%20cu%E1%BB%99c%20g%E1%BB%8Di%20x%C3%A1c%20nh%E1%BA%ADn%20giao%20h%C3%A0ng.md) | \-                                    | \-                                                                          |
 | [Quản lý máy](./Qu%E1%BA%A3n%20l%C3%BD%20m%C3%A1y.md)                                           | 5tr/tháng + quà tặng rất thường xuyên | Quản lý phonefarm gồm 60 - 80 cái điện thoại                                |
+| [Làm nhân viên ảo](./L%C3%A0m%20nh%C3%A2n%20vi%C3%AAn%20%E1%BA%A3o.md)                                 | Tối thiểu 600k, hoặc 1tr5/tháng       | Họp online hoặc lên văn phòng chơi                                          |
 
 
 ## Câu hỏi thường gặp
@@ -31,7 +31,7 @@ Về chính sách, xem bài chi tiết:: [Chính sách nhân viên GM Mall](../.
 ### Sao kiếm tiền dễ vậy? Nó có phải là lừa đảo, rửa tiền hay đa cấp gì không?
 Công ty có giấy phép kinh doanh số 0318163736 do sở KH & ĐT TP.HCM cấp ngày 14/11/2023, và đã mở 18 văn phòng đại diện ở khắp cả nước với hơn 1000 nhân viên. Nên có vẻ nó an toàn về mặt pháp luật. 
 
-Công ty hiện đang có [phốt](../../../../../Ch%E1%BB%8Dn%20s%E1%BA%A3n%20ph%E1%BA%A9m%20ph%C3%B9%20h%E1%BB%A3p/C%C3%A1c%20d%E1%BB%8Bch%20v%E1%BB%A5%20cho%20vay%20t%C3%ADn%20ch%E1%BA%A5p/T%E1%BB%95%20ch%E1%BB%A9c%20t%C3%A0i%20ch%C3%ADnh%20vi%20m%C3%B4/Ph%E1%BB%91t%20GM.md), nhưng có vẻ là bất khả kháng chứ không phải là cố ý quỵt. Còn có phải là rửa tiền hay không thì chưa thấy có dấu hiệu.
+Công ty hiện đang có [phốt](../../../../../C%E1%BA%A3nh%20gi%C3%A1c%20l%E1%BB%ABa%20%C4%91%E1%BA%A3o/G%E1%BA%B7p%20tr%E1%BB%B1c%20ti%E1%BA%BFp/Ph%E1%BB%91t%20GM.md).
 
 Bài chi tiết:: [Liệu GM Mall có đang lừa đảo, rửa tiền không?](../../../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/T%E1%BB%95%20ch%E1%BB%A9c%20t%C3%A0i%20ch%C3%ADnh/C%C3%B4ng%20ty%20khuy%E1%BA%BFn%20m%C3%A3i%20nhi%E1%BB%81u%20l%C3%A0%20v%C3%AC%20nh%C3%A0%20%C4%91%E1%BA%A7u%20t%C6%B0%20%C4%91%E1%BB%95%20th%C3%AAm%20ti%E1%BB%81n%20v%C3%A0o.md)
 
