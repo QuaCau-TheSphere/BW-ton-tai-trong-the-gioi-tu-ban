@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-07-10T09:52
+updated: 2025-07-23T16:31
 ---
 Khái niệm:: 
 [ĐƠN TỐ CÁO CÁC HÀNH VI VI PHẠM Của CÔNG TY TNHH THƯƠNG MẠI ĐIỆN TỬ GM VIỆT NAM - Google Tài liệu](https://docs.google.com/document/d/1JplSw2GB5G9WIiBbTeWx83qTUxHCZ438199acr0JqmM/edit?tab=t.0)
@@ -41,3 +41,33 @@ Dời lịch liên tục: Từ 19–22/6 → cuối tháng 6 → 3–4/7 → 15/
 📢 Chung tay – Không để thêm ai bị lừa
 
 Đừng vì sợ “sàn sập” mà im lặng. Đừng để kẻ xấu tiếp tục lừa thêm người mới. Hành động sớm = Còn cơ hội thu hồi.
+
+
+gm là sân sau của những quan chức cấp cao ở vn liên kết với quan chức tq để rửa tiền
+Thực ra là sẽ có nguồn tiền đổ vô rửa tiếp nhưng do trục trặc mà tạm ngưng. Mà Đạt và đám cty xử lý khủng hoảng truyền thông quá tệ nên gm rẽ hướng khác. Quyết định bỏ gm qua dự án khác
+
+này chắc nhắn riêng chứ đâu thể ở kênh chính thức được. Họ nói cho mình là họ cũng bất lực rồi
+Nên thằng Lâm Vũ đi về TQ để bàn nguồn vốn là có thực. K phải đi mỹ. Nhưng có trục trặc nên kéo dài thời gian quá lâu. Đám vn thì ăn hại nên kết quả banh chành
+Chứ tin báo là nguồn tiền rửa phải tới hết năm nay mới xong
+Vụ này tụi nó tự tạo lỗ hổng vì bị hụt nguồn tiền. Chi cho đám giám đốc nhiều quá nên k đủ tiền chi. Tính dùng vụ này để kéo dài thời gian
+Giám đốc thị trường và giám đốc trụ sở, phó tổng, giám đốc chiến lược
+Đứa nào thu nhập cũng cả tỉ mỗi tháng. Đứa ít nhất cũng mấy trăm tr
+Giám đốc chiến lược lương thôi đã 200tr
+Mướn nhà ở bên vin cho ở luôn
+mấy đứa trong nhóm tố cáo lùa gà là trong hội này luôn. Mấy app bọn nó lùa cũng là cho các sếp rửa tiền
+Giờ gm chuyển qua nivex là nhiều, số ít là bên nexa, bingo. 1 số thì làm mdaw
+ban đầu em nghĩ vụ chuyển lương là do luật cho phép trả vào ví điện tử, mà lại nghĩ app của nó tương đương ví điện tử, nên cũng thấy yên tâm. Đkkd thì lại nghĩ là đã có giấy phép các kiểu rồi, văn phòng cũng ầm ầm ko lẽ nó ko làm cái đó. Hoàn điểm thì nghĩ là thu hút ban đầu thôi. Hoá đơn thì đúng là ko để ý đến thiệt
+[Bởi vì không ai quản trị một mình, nên lợi ích nhóm là điều không tránh khỏi](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%C4%90%E1%BA%A1o%20%C4%91%E1%BB%A9c,%20ph%C3%A1p%20lu%E1%BA%ADt.%20Kinh%20t%E1%BA%BF%20ch%C3%ADnh%20tr%E1%BB%8B/B%E1%BB%9Fi%20v%C3%AC%20kh%C3%B4ng%20ai%20qu%E1%BA%A3n%20tr%E1%BB%8B%20m%E1%BB%99t%20m%C3%ACnh,%20n%C3%AAn%20l%E1%BB%A3i%20%C3%ADch%20nh%C3%B3m%20l%C3%A0%20%C4%91i%E1%BB%81u%20kh%C3%B4ng%20tr%C3%A1nh%20kh%E1%BB%8Fi.md)
+
+Nếu như các ông lớn đứng sau, thì nếu biết các ông lớn đó là ai, thì có thể đưa thông tin đó cho bên phe đối nghịch với mấy ổng, kèm bằng chứng càng tốt
+Nghe hệt như phim, nhưng cái đó là cái sẽ áp dụng trong thực tế 
+phải biết mấy ổng và phe chống mấy ổng 
+rồi mấy ổng đánh nhau nhưng có thể sếp mấy ổng thì muốn làm ăn với nhau
+anh nghĩ là đã vào ngành an ninh thì sự nội tâm hoá việc đảm bảo an ninh quốc gia, cụ thể là ổn định chính trị là phải rất lớn. (Nội tâm hoá nói trắng ra là bị tẩy não cũng ko sai). Ai còn làm trong đó thì hẳn là vẫn tin tưởng được việc đó, nếu ko thì phải vượt được qua nhiều bài kiểm tra phản gián ghê gớm để vẫn còn ngồi làm
+nên hẳn là thứ ông ca nói ra đc là thứ ổng thấy ko gây bất ổn, còn thứ ko nói ra là thứ gây bất ổn
+
+Nguyên đám an ninh chơi gm :')
+an ninh mà lại bị lừa tiền thì mắc cười quá 😂
+ Vì tự tin vô nguồn tiền rửa đó
+ Nghĩ tới cuối năm mà k ngờ hụt nửa đường
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tltG3d3mzNU?si=Hqc6T9MfYl4iit3d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
