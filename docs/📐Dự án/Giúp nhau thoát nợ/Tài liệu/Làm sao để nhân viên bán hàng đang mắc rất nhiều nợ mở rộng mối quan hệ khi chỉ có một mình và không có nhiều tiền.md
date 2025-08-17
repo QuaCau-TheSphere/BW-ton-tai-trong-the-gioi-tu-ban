@@ -1,7 +1,7 @@
 ---
 share: true
 created: 20o25-03-27T17:13
-updated: 2025-07-09T17:32
+updated: 2025-08-17T09:15
 ---
 [Muốn bán hàng tốt cần có mối quan hệ](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Ki%E1%BA%BFm%20ti%E1%BB%81n/L%C3%A0m%20thu%C3%AA/B%C3%A1n%20h%C3%A0ng/Mu%E1%BB%91n%20b%C3%A1n%20h%C3%A0ng%20t%E1%BB%91t%20c%E1%BA%A7n%20c%C3%B3%20m%E1%BB%91i%20quan%20h%E1%BB%87.md). Đây là các giai đoạn của việc thiết lập mối quan hệ:
 ```mermaid
@@ -40,3 +40,4 @@ Hành trình cá nhân
 | ...đăng lại bài viết hay của người khác?                       |                                    |
 
 [Vấn đề đạo đức khi tự động hoá việc đăng bài trên MXH](../../T%E1%BB%B1%20%C4%91%E1%BB%99ng%20ho%C3%A1/V%E1%BA%A5n%20%C4%91%E1%BB%81%20%C4%91%E1%BA%A1o%20%C4%91%E1%BB%A9c%20khi%20t%E1%BB%B1%20%C4%91%E1%BB%99ng%20ho%C3%A1%20vi%E1%BB%87c%20%C4%91%C4%83ng%20b%C3%A0i%20tr%C3%AAn%20MXH.md)
+[làm quen xã giao](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/M%E1%BB%9F%20r%E1%BB%99ng%20m%E1%BB%91i%20quan%20h%E1%BB%87/index.md)
