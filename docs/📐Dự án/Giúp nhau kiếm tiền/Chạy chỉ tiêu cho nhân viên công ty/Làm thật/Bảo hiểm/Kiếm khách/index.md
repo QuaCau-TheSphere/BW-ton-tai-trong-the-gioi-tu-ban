@@ -22,7 +22,7 @@ Cam kết không khai thác cảm xúc của họ và tạo gánh nặng trong s
 ### Quà tặng khi mua
 - Mạng lưới kết nối nhu cầu
 - Các hệ thống tri thức để bạn có thể biết được thứ mình cần dù không biết chính xác từ khoá của nó
-- Các buổi [Hướng dẫn tìm hiểu các lĩnh vực](../../../../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/%C3%9D%20t%C6%B0%E1%BB%9Fng%20ki%E1%BA%BFm%20ti%E1%BB%81n/3%20%C3%9D%20t%C6%B0%E1%BB%9Fng/C%C3%B4ng%20vi%E1%BB%87c%20th%E1%BB%9Di%20v%E1%BB%A5,%20c%E1%BB%99ng%20t%C3%A1c%20vi%C3%AAn/Nh%C3%B3m%20ch%E1%BA%A1y%20ch%E1%BB%89%20ti%C3%AAu/T%C3%ACm%20ng%C6%B0%E1%BB%9Di/H%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn%20t%C3%ACm%20hi%E1%BB%83u%20c%C3%A1c%20l%C4%A9nh%20v%E1%BB%B1c.md) để đáp ứng nhu cầu công việc và nhu cầu công nghệ, như:
+- Các buổi [Hướng dẫn tìm hiểu các lĩnh vực](../../../../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/%C3%9D%20t%C6%B0%E1%BB%9Fng%20ki%E1%BA%BFm%20ti%E1%BB%81n/%C3%9D%20t%C6%B0%E1%BB%9Fng/C%C3%B4ng%20vi%E1%BB%87c%20th%E1%BB%9Di%20v%E1%BB%A5,%20c%E1%BB%99ng%20t%C3%A1c%20vi%C3%AAn/T%C3%ACm%20ng%C6%B0%E1%BB%9Di/H%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn%20t%C3%ACm%20hi%E1%BB%83u%20c%C3%A1c%20l%C4%A9nh%20v%E1%BB%B1c.md) để đáp ứng nhu cầu công việc và nhu cầu công nghệ, như:
     - Xây dựng hệ thống quản lý kiến thức 
     - Nhập sự kiện tự động và hàng loạt vào Google Calendar
     - Phân loại chi tiêu bằng tiếng Việt tự nhiên để đạt kỷ luật tài chính một cách ít nhức đầu nhất
@@ -30,7 +30,7 @@ Cam kết không khai thác cảm xúc của họ và tạo gánh nặng trong s
 
 Bất cứ ai cũng có thể tham gia: nhân viên, bạn bè, con cái, v.v.
 
-Xem thêm:: [Nhóm chạy chỉ tiêu (KPI) cho nhân viên](../../../../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/%C3%9D%20t%C6%B0%E1%BB%9Fng%20ki%E1%BA%BFm%20ti%E1%BB%81n/3%20%C3%9D%20t%C6%B0%E1%BB%9Fng/C%C3%B4ng%20vi%E1%BB%87c%20th%E1%BB%9Di%20v%E1%BB%A5,%20c%E1%BB%99ng%20t%C3%A1c%20vi%C3%AAn/Nh%C3%B3m%20ch%E1%BA%A1y%20ch%E1%BB%89%20ti%C3%AAu/index.md)
+Xem thêm:: [Nhóm chạy chỉ tiêu (KPI) cho nhân viên](../../../../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/%C3%9D%20t%C6%B0%E1%BB%9Fng%20ki%E1%BA%BFm%20ti%E1%BB%81n/%C3%9D%20t%C6%B0%E1%BB%9Fng/C%C3%B4ng%20vi%E1%BB%87c%20th%E1%BB%9Di%20v%E1%BB%A5,%20c%E1%BB%99ng%20t%C3%A1c%20vi%C3%AAn/Nh%C3%B3m%20ch%E1%BA%A1y%20ch%E1%BB%89%20ti%C3%AAu/index.md)
 
 ## Nơi thảo luận
 ![](https://i.imgur.com/6TJxtif.png)
