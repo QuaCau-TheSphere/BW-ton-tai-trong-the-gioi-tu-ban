@@ -4,7 +4,7 @@ created: 2025-04-20T16:47
 alias:
   - Xây dựng quỹ tín dụng vi mô
   - Mạng lưới cho vay chéo
-updated: 2025-08-07T15:26
+updated: 2025-08-17T09:09
 ---
 ## Ý tưởng
 Khi một người cần vay thì sẽ có 2 nguồn để vay:
@@ -35,7 +35,7 @@ Việc tìm giùm người có thể được xem như:
 
 
 
-Một điều chắc chắn là quỹ sẽ chỉ hoạt động phi chính thức chứ không đăng ký, vì [tổ chức tài chính vi mô chính thức phải có chủ là tổ chức chính trị - xã hội được thành lập hợp pháp, và khách hàng phải được xác nhận là nghèo hoặc từng nghèo](../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Lu%E1%BA%ADt,%20qu%E1%BA%A3n%20l%C3%BD%20nh%C3%A0%20n%C6%B0%E1%BB%9Bc/V%C3%AC%20ng%C6%B0%E1%BB%9Di%20y%E1%BA%BFu%20th%E1%BA%BF/T%C3%A0i%20ch%C3%ADnh%20vi%20m%C3%B4/T%E1%BB%95%20ch%E1%BB%A9c%20t%C3%A0i%20ch%C3%ADnh%20vi%20m%C3%B4%20ch%C3%ADnh%20th%E1%BB%A9c%20ph%E1%BA%A3i%20c%C3%B3%20ch%E1%BB%A7%20l%C3%A0%20t%E1%BB%95%20ch%E1%BB%A9c%20ch%C3%ADnh%20tr%E1%BB%8B%20-%20x%C3%A3%20h%E1%BB%99i%20%C4%91%C6%B0%E1%BB%A3c%20th%C3%A0nh%20l%E1%BA%ADp%20h%E1%BB%A3p%20ph%C3%A1p,%20v%C3%A0%20kh%C3%A1ch%20h%C3%A0ng%20ph%E1%BA%A3i%20%C4%91%C6%B0%E1%BB%A3c%20x%C3%A1c%20nh%E1%BA%ADn%20l%C3%A0%20ngh%C3%A8o%20ho%E1%BA%B7c%20t%E1%BB%ABng%20ngh%C3%A8o.md).
+Một điều chắc chắn là quỹ sẽ chỉ hoạt động phi chính thức chứ không đăng ký, vì [Tổ chức tài chính vi mô chính thức phải có chủ là tổ chức chính trị - xã hội được thành lập hợp pháp, và khách hàng phải được xác nhận là nghèo hoặc từng nghèo](../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/T%C3%ACnh%20h%C3%ACnh%20%E1%BB%9F%20Vi%E1%BB%87t%20Nam/Lu%E1%BA%ADt,%20qu%E1%BA%A3n%20l%C3%BD%20nh%C3%A0%20n%C6%B0%E1%BB%9Bc/V%C3%AC%20ng%C6%B0%E1%BB%9Di%20y%E1%BA%BFu%20th%E1%BA%BF/T%C3%A0i%20ch%C3%ADnh%20vi%20m%C3%B4/T%E1%BB%95%20ch%E1%BB%A9c%20t%C3%A0i%20ch%C3%ADnh%20vi%20m%C3%B4%20ch%C3%ADnh%20th%E1%BB%A9c%20ph%E1%BA%A3i%20c%C3%B3%20ch%E1%BB%A7%20l%C3%A0%20t%E1%BB%95%20ch%E1%BB%A9c%20ch%C3%ADnh%20tr%E1%BB%8B%20-%20x%C3%A3%20h%E1%BB%99i%20%C4%91%C6%B0%E1%BB%A3c%20th%C3%A0nh%20l%E1%BA%ADp%20h%E1%BB%A3p%20ph%C3%A1p,%20v%C3%A0%20kh%C3%A1ch%20h%C3%A0ng%20ph%E1%BA%A3i%20%C4%91%C6%B0%E1%BB%A3c%20x%C3%A1c%20nh%E1%BA%ADn%20l%C3%A0%20ngh%C3%A8o%20ho%E1%BA%B7c%20t%E1%BB%ABng%20ngh%C3%A8o.md).
 
 Tuỳ vào độ đáng tin của người cần vay mà sẽ cho vay theo nhóm hay cho vay cá nhân. [Cho vay theo nhóm bền vững hơn, ít bị quịt hơn. Cho vay cá nhân nhiều lợi nhuận hơn, dễ mở rộng phạm vi hoạt động hơn](../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/T%E1%BB%95%20ch%E1%BB%A9c%20t%C3%A0i%20ch%C3%ADnh/T%E1%BB%95%20ch%E1%BB%A9c%20t%C3%ADn%20d%E1%BB%A5ng/Cho%20vay%20theo%20nh%C3%B3m%20b%E1%BB%81n%20v%E1%BB%AFng%20h%C6%A1n,%20%C3%ADt%20b%E1%BB%8B%20qu%E1%BB%8Bt%20h%C6%A1n.%20Cho%20vay%20c%C3%A1%20nh%C3%A2n%20nhi%E1%BB%81u%20l%E1%BB%A3i%20nhu%E1%BA%ADn%20h%C6%A1n,%20d%E1%BB%85%20m%E1%BB%9F%20r%E1%BB%99ng%20ph%E1%BA%A1m%20vi%20ho%E1%BA%A1t%20%C4%91%E1%BB%99ng%20h%C6%A1n.md).
 
@@ -51,7 +51,7 @@ Quan điểm đầu sẽ khuyến khích người cần vay tìm tới mình th�
 Phải hoàn thành [bản câu hỏi cho người cần được hỗ trợ thoát nợ](./B%E1%BA%A3n%20c%C3%A2u%20h%E1%BB%8Fi%20cho%20ng%C6%B0%E1%BB%9Di%20c%E1%BA%A7n%20%C4%91%C6%B0%E1%BB%A3c%20h%E1%BB%97%20tr%E1%BB%A3%20tho%C3%A1t%20n%E1%BB%A3.md). Có thể lúc khẩn cấp thì không có thời gian để làm, nếu tin được thì cứ giúp trước, nhưng sau đó phải làm.
 
 ### Phí, lãi
-[Nên tăng phí dịch vụ thay vì tăng lãi suất](../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Ch%C3%ADnh%20s%C3%A1ch%20c%C3%B4ng%20ty/T%E1%BB%95%20ch%E1%BB%A9c%20t%C3%ADn%20d%E1%BB%A5ng/T%E1%BB%95%20ch%E1%BB%A9c%20t%C3%A0i%20ch%C3%ADnh%20vi%20m%C3%B4/Khuy%E1%BA%BFn%20ngh%E1%BB%8B%20cho%20c%C3%A1c%20t%E1%BB%95%20ch%E1%BB%A9c%20%E1%BB%9F%20VN.md). Phí này cần phải đủ để đội ngũ duy trì hoạt động.
+[Nên tăng phí dịch vụ thay vì tăng lãi suất](../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/T%C3%ACnh%20h%C3%ACnh%20%E1%BB%9F%20Vi%E1%BB%87t%20Nam/L%C4%A9nh%20v%E1%BB%B1c%20c%E1%BB%A5%20th%E1%BB%83/T%E1%BB%95%20ch%E1%BB%A9c%20t%C3%ADn%20d%E1%BB%A5ng/T%E1%BB%95%20ch%E1%BB%A9c%20t%C3%A0i%20ch%C3%ADnh%20vi%20m%C3%B4/Khuy%E1%BA%BFn%20ngh%E1%BB%8B%20cho%20c%C3%A1c%20t%E1%BB%95%20ch%E1%BB%A9c%20%E1%BB%9F%20VN.md). Phí này cần phải đủ để đội ngũ duy trì hoạt động.
 
 Tốt nhất chỉ huy động từ những người không yêu cầu thời hạn trả nợ và tính lãi một lần, không tính theo chu kỳ. Trong trường hợp cần huy động từ những người như vậy thì cần đảm bảo còn có đủ dự trữ để trả lãi kỳ tiếp theo cho họ. Phần lãi này người vay phải gánh.
 
@@ -60,18 +60,14 @@ Tốt nhất chỉ huy động từ những người không yêu cầu thời h�
 - Đại diện giải đáp thắc mắc giữa các bên để giảm sự nhức đầu 
 - Hỗ trợ [thương lượng với chủ nợ](./C%C3%B4ng%20vi%E1%BB%87c/Th%C6%B0%C6%A1ng%20l%C6%B0%E1%BB%A3ng%20v%E1%BB%9Bi%20ch%E1%BB%A7%20n%E1%BB%A3.md) để giảm lãi
 - Xây dựng [hệ thống quản lý chi tiêu](../T%E1%BB%B1%20%C4%91%E1%BB%99ng%20ho%C3%A1/h%E1%BB%87%20th%E1%BB%91ng%20qu%E1%BA%A3n%20l%C3%BD%20chi%20ti%C3%AAu.md) một cách trực quan 
-- [Hỗ trợ nâng hạn mức, điểm tín dụng](./T%C3%A0i%20li%E1%BB%87u/C%C3%A1c%20c%C3%A1ch%20th%E1%BB%A9c%20n%C3%A2ng%20h%E1%BA%A1n%20m%E1%BB%A9c%20th%E1%BA%BB%20t%C3%ADn%20d%E1%BB%A5ng.md)
-- Hỗ trợ [tạo sinh kế, thu nhập, dòng tiền](../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/%C3%9D%20t%C6%B0%E1%BB%9Fng%20ki%E1%BA%BFm%20ti%E1%BB%81n/3%20%C3%9D%20t%C6%B0%E1%BB%9Fng/index.md) và [mở rộng mối quan hệ](../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/M%E1%BB%9F%20r%E1%BB%99ng%20m%E1%BB%91i%20quan%20h%E1%BB%87/index.md)
+- [Hỗ trợ nâng hạn mức, điểm tín dụng](../M%E1%BA%A1ng%20k%E1%BA%BFt%20n%E1%BB%91i%20nhu%20c%E1%BA%A7u/C%C3%A1c%20c%C3%A1ch%20th%E1%BB%A9c%20n%C3%A2ng%20h%E1%BA%A1n%20m%E1%BB%A9c%20th%E1%BA%BB%20t%C3%ADn%20d%E1%BB%A5ng.md)
+- Hỗ trợ [tạo sinh kế, thu nhập, dòng tiền](../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/%C3%9D%20t%C6%B0%E1%BB%9Fng%20ki%E1%BA%BFm%20ti%E1%BB%81n/%C3%9D%20t%C6%B0%E1%BB%9Fng/index.md) và [mở rộng mối quan hệ](../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/M%E1%BB%9F%20r%E1%BB%99ng%20m%E1%BB%91i%20quan%20h%E1%BB%87/index.md)
 - [Đứng ra vay giùm, cho mượn tài sản thế chấp](./C%C3%B4ng%20vi%E1%BB%87c/%C4%90%E1%BB%A9ng%20ra%20vay%20gi%C3%B9m,%20cho%20m%C6%B0%E1%BB%A3n%20t%C3%A0i%20s%E1%BA%A3n%20th%E1%BA%BF%20ch%E1%BA%A5p.md). Nếu người vay xù thì quỹ vẫn phải trả cho người cho vay. Hình thức này không khác gì một ngân hàng
 - Kết nối người vay và người cho vay. Nếu người vay xù thì quỹ không phải trả cho người cho vay. Hình thức này không khác gì một sàn cho vay ngang hàng
 
 ## FAQ
 ### Nhỡ bị xù thì sao?
-Có người bị xù nợ nói rằng họ cho người quen tới 10 năm, đi chùa cùng hàng tuần mà vẫn còn bị xù được. Họ biết được cả nơi sống của con nợ, vào tận nhà còn không đòi được, thì chẳng có lý do gì mà đảm bảo người ta không xù cả.
-
-**Nhưng người đó đã đồng hành với người đi vay như thế nào?** 
-
-Liệu rằng thông tin ghi trong [bản câu hỏi cho người cần được hỗ trợ thoát nợ](./B%E1%BA%A3n%20c%C3%A2u%20h%E1%BB%8Fi%20cho%20ng%C6%B0%E1%BB%9Di%20c%E1%BA%A7n%20%C4%91%C6%B0%E1%BB%A3c%20h%E1%BB%97%20tr%E1%BB%A3%20tho%C3%A1t%20n%E1%BB%A3.md) sẽ giúp quỹ đồng hành được với người cần vay tốt hơn, và đáp ứng được các nhu cầu khác mà không cần phải dùng tới tiền? Công sức để trả lời chúng cũng khá lớn, và buộc người cần vay phải minh bạch, nên xem như ai hoàn thành được nó thì khả năng xù thấp hơn? Nhưng có lẽ hay hơn cả, là đừng xem người đi vay là thứ để mình kiếm lợi nhuận, mà hãy là một người bạn với họ. Hãy vẫn tiếp tục giúp đỡ họ, kể cả khi họ không trả tiền. Các công việc được liệt kê ở phần trên sẽ làm họ thấy mình đang không trục lợi họ, mà chỉ muốn nâng đỡ họ. Việc xù mình sẽ làm họ bất lợi hơn.
+[Làm sao cho vay mà không bị xù](./T%C3%A0i%20li%E1%BB%87u/L%C3%A0m%20sao%20cho%20vay%20m%C3%A0%20kh%C3%B4ng%20b%E1%BB%8B%20x%C3%B9.md)
 Chơi với lửa, chơi với dao. Điều đáng sợ mới đáng làm
 
 Có lẽ câu hỏi tốt hơn không phải là "nhỡ bị xù thì sao", mà là "làm sao để hạn chế bị xù", và "phải làm gì để việc xù không gây ảnh hưởng".
