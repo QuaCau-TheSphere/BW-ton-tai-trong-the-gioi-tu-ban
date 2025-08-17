@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-22T13:14
-updated: 2025-07-09T17:32
+updated: 2025-08-16T22:04
 ---
 Khái niệm:: [Bán hàng](../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/B%C3%A1n%20h%C3%A0ng.md)
 
@@ -22,6 +22,6 @@ Nói chung, một khi việc bán hàng đã bị áp chỉ tiêu thì không th
 
 Cách tốt nhất để giúp họ là khiến cho các công việc nâng cao nhận thức kia kiếm được nhiều tiền hơn, hoặc khiến cho các công ty chuyển đổi sang mô hình không áp chỉ tiêu, hoặc đáp ứng các nhu cầu của họ mà không cần tới tiền. Việc cố gắng [tạo thêm sự hấp dẫn cho công việc](../../../../%F0%9F%93%90D%E1%BB%B1%20%C3%A1n/M%E1%BA%A1ng%20k%E1%BA%BFt%20n%E1%BB%91i%20nhu%20c%E1%BA%A7u/L%C3%A0m%20sao%20%C4%91%E1%BB%83%20m%E1%BB%99t%20ng%C6%B0%E1%BB%9Di%20th%E1%BA%A5y%20c%C3%B4ng%20vi%E1%BB%87c%20h%E1%BA%A5p%20d%E1%BA%ABn%20h%C6%A1n.md) chỉ là sự thoả hiệp với sự cấp bách, chứ không đả động gì tới lý do chính yếu. Nhưng ý tưởng tốt hơn nữa là làm cho người bán [có tiếng nói về cách họ sản xuất, những gì họ sản xuất và lợi nhuận mà họ tạo ra được sử dụng như thế nào](../../../%C4%90%E1%BA%A1o%20%C4%91%E1%BB%A9c,%20ph%C3%A1p%20lu%E1%BA%ADt.%20Kinh%20t%E1%BA%BF%20ch%C3%ADnh%20tr%E1%BB%8B/Ch%E1%BB%A7%20ngh%C4%A9a%20x%C3%A3%20h%E1%BB%99i/C%C3%A1c%20t%E1%BA%ADp%20%C4%91o%C3%A0n%20l%C3%A0%20h%C3%ACnh%20th%E1%BB%A9c%20c%E1%BB%A7a%20c%C3%A1c%20ch%E1%BA%BF%20%C4%91%E1%BB%99%20%C4%91%E1%BB%99c%20t%C3%A0i%20c%C3%B3%20th%E1%BB%A9%20b%E1%BA%ADc.md). Đi một hồi thì sẽ thành việc thành lập công đoàn, chống chủ nghĩa tư bản, tham gia các phong trào chủ nghĩa xã hội.
 
-Bài chi tiết:: [Nhóm chạy chỉ tiêu cho nhân sự](../../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/%C3%9D%20t%C6%B0%E1%BB%9Fng%20ki%E1%BA%BFm%20ti%E1%BB%81n/3%20%C3%9D%20t%C6%B0%E1%BB%9Fng/C%C3%B4ng%20vi%E1%BB%87c%20th%E1%BB%9Di%20v%E1%BB%A5,%20c%E1%BB%99ng%20t%C3%A1c%20vi%C3%AAn/Nh%C3%B3m%20ch%E1%BA%A1y%20ch%E1%BB%89%20ti%C3%AAu/index.md)
+Bài chi tiết:: [Nhóm chạy chỉ tiêu cho nhân sự](../../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/%C3%9D%20t%C6%B0%E1%BB%9Fng%20ki%E1%BA%BFm%20ti%E1%BB%81n/%C3%9D%20t%C6%B0%E1%BB%9Fng/C%C3%B4ng%20vi%E1%BB%87c%20th%E1%BB%9Di%20v%E1%BB%A5,%20c%E1%BB%99ng%20t%C3%A1c%20vi%C3%AAn/Nh%C3%B3m%20ch%E1%BA%A1y%20ch%E1%BB%89%20ti%C3%AAu/index.md)
 
 [Công việc bán hàng có thu nhập đột biến, không bị trói buộc thời gian và luôn tuyển dụng](./C%C3%B4ng%20vi%E1%BB%87c%20b%C3%A1n%20h%C3%A0ng%20c%C3%B3%20thu%20nh%E1%BA%ADp%20%C4%91%E1%BB%99t%20bi%E1%BA%BFn,%20kh%C3%B4ng%20b%E1%BB%8B%20tr%C3%B3i%20bu%E1%BB%99c%20th%E1%BB%9Di%20gian%20v%C3%A0%20lu%C3%B4n%20tuy%E1%BB%83n%20d%E1%BB%A5ng.md)
