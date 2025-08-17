@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-09-14T23:01
-updated: 2025-08-07T15:25
+updated: 2025-08-17T16:39
 description: Các thông tin để bạn thẩm định việc cho Trí vay
 title: Đỗ Hàng Minh Trí
 ---
@@ -16,7 +16,7 @@ Bài chi tiết:: [Lý do bị nợ](L%C3%BD%20do%20b%E1%BB%8B%20n%E1%BB%A3.md)
 ### Tình hình nợ hiện nay thế nào? Các khoản nợ, lãi và thời hạn trả của chúng, v.v.
 Gom hết tất cả các khoản nợ vào một người cô, lãi vài triệu/tháng. 
 
-Phải [vay nóng](../../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Ch%C3%ADnh%20s%C3%A1ch%20c%C3%B4ng%20ty/T%E1%BB%95%20ch%E1%BB%A9c%20t%C3%ADn%20d%E1%BB%A5ng/T%E1%BB%95%20ch%E1%BB%A9c%20t%C3%ADn%20d%E1%BB%A5ng%20phi%20ng%C3%A2n%20h%C3%A0ng/App%20vay%20n%C3%B3ng/index.md)
+Phải [vay nóng](../../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/T%C3%ACnh%20h%C3%ACnh%20%E1%BB%9F%20Vi%E1%BB%87t%20Nam/L%C4%A9nh%20v%E1%BB%B1c%20c%E1%BB%A5%20th%E1%BB%83/T%E1%BB%95%20ch%E1%BB%A9c%20t%C3%ADn%20d%E1%BB%A5ng/T%E1%BB%95%20ch%E1%BB%A9c%20t%C3%ADn%20d%E1%BB%A5ng%20phi%20ng%C3%A2n%20h%C3%A0ng/App%20vay%20n%C3%B3ng/index.md)
 
 ### Cuộc sống của Trí đã thay đổi thế nào từ lúc có nợ?
 ### Chi phí sinh hoạt của Trí hiện nay như thế nào?
@@ -37,8 +37,8 @@ App đen:
 ### Trí đánh giá mình thuộc loại nghèo nào? Xem chi tiết ở bài [Việt Nam không ai chết đói, chỉ có nghèo đa chiều](../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Ph%C3%A1t%20tri%E1%BB%83n%20b%E1%BB%81n%20v%E1%BB%AFng/H%E1%BB%97%20tr%E1%BB%A3%20ng%C6%B0%E1%BB%9Di%20y%E1%BA%BFu%20th%E1%BA%BF/Ng%C6%B0%E1%BB%9Di%20ngh%C3%A8o/Vi%E1%BB%87t%20Nam%20kh%C3%B4ng%20ai%20ch%E1%BA%BFt%20%C4%91%C3%B3i,%20ch%E1%BB%89%20c%C3%B3%20ngh%C3%A8o%20%C4%91a%20chi%E1%BB%81u.md)
 
 ## Các cách xoay sở
-### Trí đã thử tham gia vào [các ý tưởng kiếm tiền](../../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/%C3%9D%20t%C6%B0%E1%BB%9Fng%20ki%E1%BA%BFm%20ti%E1%BB%81n/3%20%C3%9D%20t%C6%B0%E1%BB%9Fng/index.md) nào? Độ hiệu quả của chúng thế nào?
-Hiện tại đang làm [Đại lý bảo hiểm](../../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/%C3%9D%20t%C6%B0%E1%BB%9Fng%20ki%E1%BA%BFm%20ti%E1%BB%81n/3%20%C3%9D%20t%C6%B0%E1%BB%9Fng/Vi%E1%BB%87c%20ch%C3%ADnh%20th%E1%BB%A9c%20trong%20c%C3%B4ng%20ty/%C4%90%E1%BA%A1i%20l%C3%BD%20b%E1%BA%A3o%20hi%E1%BB%83m.md) cho Cathay. Công việc 
+### Trí đã thử tham gia vào [các ý tưởng kiếm tiền](../../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/%C3%9D%20t%C6%B0%E1%BB%9Fng%20ki%E1%BA%BFm%20ti%E1%BB%81n/%C3%9D%20t%C6%B0%E1%BB%9Fng/index.md) nào? Độ hiệu quả của chúng thế nào?
+Hiện tại đang làm [Đại lý bảo hiểm](../../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/%C3%9D%20t%C6%B0%E1%BB%9Fng%20ki%E1%BA%BFm%20ti%E1%BB%81n/%C3%9D%20t%C6%B0%E1%BB%9Fng/Vi%E1%BB%87c%20ch%C3%ADnh%20th%E1%BB%A9c%20trong%20c%C3%B4ng%20ty/%C4%90%E1%BA%A1i%20l%C3%BD%20b%E1%BA%A3o%20hi%E1%BB%83m.md) cho Cathay. Công việc 
 [Yêu cầu tuyển dụng của Cathay](../../../Gi%C3%BAp%20nhau%20ki%E1%BA%BFm%20ti%E1%BB%81n/Ch%E1%BA%A1y%20ch%E1%BB%89%20ti%C3%AAu%20cho%20nh%C3%A2n%20vi%C3%AAn%20c%C3%B4ng%20ty/L%C3%A0m%20th%E1%BA%ADt/B%E1%BA%A3o%20hi%E1%BB%83m/Tuy%E1%BB%83n%20d%E1%BB%A5ng/Y%C3%AAu%20c%E1%BA%A7u%20tuy%E1%BB%83n%20d%E1%BB%A5ng%20c%E1%BB%A7a%20Cathay.md)
 [Giả thiết về nguồn tuyển dụng cho Cathay](../../../Gi%C3%BAp%20nhau%20ki%E1%BA%BFm%20ti%E1%BB%81n/Ch%E1%BA%A1y%20ch%E1%BB%89%20ti%C3%AAu%20cho%20nh%C3%A2n%20vi%C3%AAn%20c%C3%B4ng%20ty/L%C3%A0m%20th%E1%BA%ADt/B%E1%BA%A3o%20hi%E1%BB%83m/T%C3%A0i%20li%E1%BB%87u%20kh%C3%A1c/Gi%E1%BA%A3%20thi%E1%BA%BFt/Gi%E1%BA%A3%20thi%E1%BA%BFt%20v%E1%BB%81%20ngu%E1%BB%93n%20tuy%E1%BB%83n%20d%E1%BB%A5ng%20cho%20Cathay.md)
 

@@ -10,9 +10,9 @@ Với dịch vụ này, bạn:
 - Không phải trả tiền nhà (đã bao gồm điện, nước, wifi, rác)
 - Được ăn 3 bữa với chế độ dinh dưỡng theo yêu cầu. Đồ ăn sẽ tự động được đem đến, không phải lo nấu ăn gì
 - Có tiền xăng xe, cà phê nếu có công việc cần chạy về TP.HCM
-- [Được đóng bảo hiểm xã hội ngay đầu tháng](../../Ch%C3%ADnh%20s%C3%A1ch%20c%C3%B4ng%20ty/T%E1%BB%95%20ch%E1%BB%A9c%20t%C3%ADn%20d%E1%BB%A5ng/T%E1%BB%95%20ch%E1%BB%A9c%20t%C3%ADn%20d%E1%BB%A5ng%20phi%20ng%C3%A2n%20h%C3%A0ng/C%C3%B4ng%20ty%20t%C3%A0i%20ch%C3%ADnh%20ti%C3%AAu%20d%C3%B9ng/FE%20Credit/Nh%C3%A2n%20s%E1%BB%B1/%C4%90%C3%B3ng%20BHXH%20ngay%20%C4%91%E1%BA%A7u%20th%C3%A1ng.md)
+- [Được đóng bảo hiểm xã hội ngay đầu tháng](../../T%C3%ACnh%20h%C3%ACnh%20%E1%BB%9F%20Vi%E1%BB%87t%20Nam/L%C4%A9nh%20v%E1%BB%B1c%20c%E1%BB%A5%20th%E1%BB%83/T%E1%BB%95%20ch%E1%BB%A9c%20t%C3%ADn%20d%E1%BB%A5ng/T%E1%BB%95%20ch%E1%BB%A9c%20t%C3%ADn%20d%E1%BB%A5ng%20phi%20ng%C3%A2n%20h%C3%A0ng/C%C3%B4ng%20ty%20t%C3%A0i%20ch%C3%ADnh%20ti%C3%AAu%20d%C3%B9ng/FE%20Credit/Nh%C3%A2n%20s%E1%BB%B1/%C4%90%C3%B3ng%20BHXH%20ngay%20%C4%91%E1%BA%A7u%20th%C3%A1ng.md)
 
- Công việc của bạn sẽ là [làm nhân viên ảo FE](../../%C3%9D%20t%C6%B0%E1%BB%9Fng%20ki%E1%BA%BFm%20ti%E1%BB%81n/3%20%C3%9D%20t%C6%B0%E1%BB%9Fng/C%C3%B4ng%20vi%E1%BB%87c%20th%E1%BB%9Di%20v%E1%BB%A5,%20c%E1%BB%99ng%20t%C3%A1c%20vi%C3%AAn/Nh%C3%B3m%20ch%E1%BA%A1y%20ch%E1%BB%89%20ti%C3%AAu/L%C3%A0m%20nh%C3%A2n%20s%E1%BB%B1%20%E1%BA%A3o/FE%20Credit.md), mất chừng 20 phút mỗi ngày. Ngoài thời gian đó thì bạn được làm công việc riêng của bạn. 
+ Công việc của bạn sẽ là [làm nhân viên ảo FE](../../%C3%9D%20t%C6%B0%E1%BB%9Fng%20ki%E1%BA%BFm%20ti%E1%BB%81n/%C3%9D%20t%C6%B0%E1%BB%9Fng/C%C3%B4ng%20vi%E1%BB%87c%20th%E1%BB%9Di%20v%E1%BB%A5,%20c%E1%BB%99ng%20t%C3%A1c%20vi%C3%AAn/Nh%C3%B3m%20ch%E1%BA%A1y%20ch%E1%BB%89%20ti%C3%AAu/L%C3%A0m%20nh%C3%A2n%20s%E1%BB%B1%20%E1%BA%A3o/FE%20Credit.md), mất chừng 20 phút mỗi ngày. Ngoài thời gian đó thì bạn được làm công việc riêng của bạn. 
 
 ## Mô tả nơi ở
 Phòng trọ 15 m², một trệt một lửng. 

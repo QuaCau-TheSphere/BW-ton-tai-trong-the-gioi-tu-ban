@@ -32,7 +32,7 @@ từ chối
 Thịnh từ bỏ quyền quản trị page
 [29-10-2024](29-10-2024.md) 17:19 54 impression, 47 reach, 1 engagement, 0 react
 
-## [Kết nối nhu cầu di chuyển của người khuyết tật](../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/%C3%9D%20t%C6%B0%E1%BB%9Fng%20ki%E1%BA%BFm%20ti%E1%BB%81n/3%20%C3%9D%20t%C6%B0%E1%BB%9Fng/Gia%20c%C3%B4ng%20gi%E1%BA%A3i%20ph%C3%A1p/K%E1%BA%BFt%20n%E1%BB%91i%20nhu%20c%E1%BA%A7u%20di%20chuy%E1%BB%83n%20c%E1%BB%A7a%20ng%C6%B0%E1%BB%9Di%20khuy%E1%BA%BFt%20t%E1%BA%ADt.md)
+## [Kết nối nhu cầu di chuyển của người khuyết tật](../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/%C3%9D%20t%C6%B0%E1%BB%9Fng%20ki%E1%BA%BFm%20ti%E1%BB%81n/%C3%9D%20t%C6%B0%E1%BB%9Fng/Gia%20c%C3%B4ng%20gi%E1%BA%A3i%20ph%C3%A1p/K%E1%BA%BFt%20n%E1%BB%91i%20nhu%20c%E1%BA%A7u%20di%20chuy%E1%BB%83n%20c%E1%BB%A7a%20ng%C6%B0%E1%BB%9Di%20khuy%E1%BA%BFt%20t%E1%BA%ADt.md)
 ### Xóa Rào cản - Vẽ Tương lai 
 [04-11-2024](04-11-2024.md) 16:34 submit
 16:40 approved https://www.facebook.com/groups/kynangvavieclamchonguoikhuyettat/posts/571519068613041
