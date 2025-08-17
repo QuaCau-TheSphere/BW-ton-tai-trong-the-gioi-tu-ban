@@ -1,7 +1,8 @@
 ---
 share: true
 created: 2025-03-28T16:31
-updated: 2025-07-09T17:32
+updated: 2025-08-16T10:13
+title: Tuyển cộng tác viên tìm khách hàng tiềm năng là người hay suy nghĩ đến cảnh tai nạn, ung thư, chết chóc
 ---
 Các cộng tác viên là những người sống trong [các môi trường hay làm ta suy nghĩ đến cảnh tai nạn, ung thư, chết chóc](../../Ki%E1%BA%BFm%20kh%C3%A1ch/Ng%C6%B0%E1%BB%9Di%20hay%20suy%20ngh%C4%A9%20%C4%91%E1%BA%BFn%20c%E1%BA%A3nh%20tai%20n%E1%BA%A1n,%20ung%20th%C6%B0,%20ch%E1%BA%BFt%20ch%C3%B3c/C%C3%A1ch%20%C4%91%E1%BB%83%20g%E1%BA%B7p%20%C4%91%C6%B0%E1%BB%A3c%20nh%E1%BB%AFng%20ng%C6%B0%E1%BB%9Di%20hay%20suy%20ngh%C4%A9%20%C4%91%E1%BA%BFn%20c%E1%BA%A3nh%20tai%20n%E1%BA%A1n,%20ung%20th%C6%B0,%20ch%E1%BA%BFt%20ch%C3%B3c.md). Họ có thể là:
 - Các công nhân, nhân viên của các nhà máy, xí nghiệp có các thiết bị dễ gây tai nạn, hoặc người dân sống xung quanh, hoặc người thân, bạn bè của họ
@@ -35,4 +36,4 @@ Người quan tâm đến điều tốt cho người khác thì xem tiền là x
 [Giả thiết về nguồn tuyển dụng cho Cathay](../../T%C3%A0i%20li%E1%BB%87u%20kh%C3%A1c/Gi%E1%BA%A3%20thi%E1%BA%BFt/Gi%E1%BA%A3%20thi%E1%BA%BFt%20v%E1%BB%81%20ngu%E1%BB%93n%20tuy%E1%BB%83n%20d%E1%BB%A5ng%20cho%20Cathay.md)
 [Tạo nhận thức cho các công ty bảo hiểm nhân thọ về lợi ích khi tương tác với người khuyết tật](../../../../../../M%E1%BA%A1ng%20k%E1%BA%BFt%20n%E1%BB%91i%20nhu%20c%E1%BA%A7u/Ng%C6%B0%E1%BB%9Di%20khuy%E1%BA%BFt%20t%E1%BA%ADt/T%E1%BA%A1o%20nh%E1%BA%ADn%20th%E1%BB%A9c%20cho%20c%C3%A1c%20c%C3%B4ng%20ty%20b%E1%BA%A3o%20hi%E1%BB%83m%20nh%C3%A2n%20th%E1%BB%8D%20v%E1%BB%81%20l%E1%BB%A3i%20%C3%ADch%20khi%20t%C6%B0%C6%A1ng%20t%C3%A1c%20v%E1%BB%9Bi%20ng%C6%B0%E1%BB%9Di%20khuy%E1%BA%BFt%20t%E1%BA%ADt.md)
 [Bản câu hỏi cho người muốn người giới thiệu ngồi cùng với chứ không phải chỉ là giới thiệu](../../../../../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/M%E1%BB%9F%20r%E1%BB%99ng%20m%E1%BB%91i%20quan%20h%E1%BB%87/B%E1%BA%A3n%20c%C3%A2u%20h%E1%BB%8Fi%20cho%20ng%C6%B0%E1%BB%9Di%20mu%E1%BB%91n%20ng%C6%B0%E1%BB%9Di%20gi%E1%BB%9Bi%20thi%E1%BB%87u%20ng%E1%BB%93i%20c%C3%B9ng%20v%E1%BB%9Bi%20ch%E1%BB%A9%20kh%C3%B4ng%20ph%E1%BA%A3i%20ch%E1%BB%89%20l%C3%A0%20gi%E1%BB%9Bi%20thi%E1%BB%87u.md)
-[Cung cấp thông tin liên lạc, làm cầu nối](../../../../../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/%C3%9D%20t%C6%B0%E1%BB%9Fng%20ki%E1%BA%BFm%20ti%E1%BB%81n/3%20%C3%9D%20t%C6%B0%E1%BB%9Fng/C%C3%B4ng%20vi%E1%BB%87c%20th%E1%BB%9Di%20v%E1%BB%A5,%20c%E1%BB%99ng%20t%C3%A1c%20vi%C3%AAn/Nh%C3%B3m%20ch%E1%BA%A1y%20ch%E1%BB%89%20ti%C3%AAu/T%C3%ACm%20ng%C6%B0%E1%BB%9Di/Cung%20c%E1%BA%A5p%20th%C3%B4ng%20tin%20li%C3%AAn%20l%E1%BA%A1c,%20l%C3%A0m%20c%E1%BA%A7u%20n%E1%BB%91i.md)
+[Cung cấp thông tin liên lạc, làm cầu nối](../../../../../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/%C3%9D%20t%C6%B0%E1%BB%9Fng%20ki%E1%BA%BFm%20ti%E1%BB%81n/%C3%9D%20t%C6%B0%E1%BB%9Fng/C%C3%B4ng%20vi%E1%BB%87c%20th%E1%BB%9Di%20v%E1%BB%A5,%20c%E1%BB%99ng%20t%C3%A1c%20vi%C3%AAn/T%C3%ACm%20ng%C6%B0%E1%BB%9Di/Cung%20c%E1%BA%A5p%20th%C3%B4ng%20tin%20li%C3%AAn%20l%E1%BA%A1c,%20l%C3%A0m%20c%E1%BA%A7u%20n%E1%BB%91i.md)
