@@ -66,7 +66,7 @@ Tại sao con số 250 triệu lại được chọn? Vì ở mức này thì kh
 Hay nói cách khác, bạn sẽ được nhận một phần lãi ngay lập tức sau khi mua. (Thực ra là sau 3 tuần đến 1 tháng, nhưng cũng có thể xem là ngay lập tức.)
 
 ### An toàn như ngân hàng
-Sản phẩm bảo hiểm cũng như sản phẩm ngân hàng có mức độ rủi ro có thể xem là 0. Nhưng nếu ngân hàng phá sản ([dù điều đó là không thể](../../../Lu%E1%BA%ADt,%20qu%E1%BA%A3n%20l%C3%BD%20nh%C3%A0%20n%C6%B0%E1%BB%9Bc/T%C3%A0i%20ch%C3%ADnh/Ti%E1%BB%81n%20t%E1%BB%87,%20ng%C3%A2n%20h%C3%A0ng/Ng%C3%A2n%20h%C3%A0ng%20kh%C3%B4ng%20th%E1%BB%83%20n%C3%A0o%20s%E1%BB%A5p,%20v%C3%AC%20n%E1%BA%BFu%20m%E1%BB%99t%20ng%C3%A2n%20h%C3%A0ng%20s%E1%BB%A5p%20th%C3%AC%20n%C3%B3%20l%C3%A0m%20m%E1%BA%A5t%20uy%20t%C3%ADn%20c%E1%BB%A7a%20c%E1%BA%A3%20ng%C3%A0nh.md)), bạn sẽ được trả tối đa là 70 triệu. Còn nếu công ty bảo hiểm phá sản, thì bạn sẽ được trả tối đa là 200 triệu, do một công ty bảo hiểm có hai, ba lớp chuyển nhượng tái bảo hiểm đằng sau.
+Sản phẩm bảo hiểm cũng như sản phẩm ngân hàng có mức độ rủi ro có thể xem là 0. Nhưng nếu ngân hàng phá sản ([dù điều đó là không thể](../../../T%C3%ACnh%20h%C3%ACnh%20%E1%BB%9F%20Vi%E1%BB%87t%20Nam/Lu%E1%BA%ADt,%20qu%E1%BA%A3n%20l%C3%BD%20nh%C3%A0%20n%C6%B0%E1%BB%9Bc/T%C3%A0i%20ch%C3%ADnh/Ti%E1%BB%81n%20t%E1%BB%87,%20ng%C3%A2n%20h%C3%A0ng/Ng%C3%A2n%20h%C3%A0ng%20kh%C3%B4ng%20th%E1%BB%83%20n%C3%A0o%20s%E1%BB%A5p,%20v%C3%AC%20n%E1%BA%BFu%20m%E1%BB%99t%20ng%C3%A2n%20h%C3%A0ng%20s%E1%BB%A5p%20th%C3%AC%20n%C3%B3%20l%C3%A0m%20m%E1%BA%A5t%20uy%20t%C3%ADn%20c%E1%BB%A7a%20c%E1%BA%A3%20ng%C3%A0nh.md)), bạn sẽ được trả tối đa là 70 triệu. Còn nếu công ty bảo hiểm phá sản, thì bạn sẽ được trả tối đa là 200 triệu, do một công ty bảo hiểm có hai, ba lớp chuyển nhượng tái bảo hiểm đằng sau.
 
 
 
@@ -74,7 +74,7 @@ Sản phẩm bảo hiểm cũng như sản phẩm ngân hàng có mức độ r�
 
 
 ### Được xem như một chi phí vận hành cho doanh nghiệp và không bị tính thuế
-Bài chi tiết: [Tại sao doanh nghiệp khi mua bảo hiểm nohân thọ cho nhân viên lại không bị tính vào thuế thu nhập doanh nghiệp?](../../../Lu%E1%BA%ADt,%20qu%E1%BA%A3n%20l%C3%BD%20nh%C3%A0%20n%C6%B0%E1%BB%9Bc/T%C3%A0i%20ch%C3%ADnh/B%E1%BA%A3o%20hi%E1%BB%83m/Doanh%20nghi%E1%BB%87p%20khi%20mua%20b%E1%BA%A3o%20hi%E1%BB%83m%20nh%C3%A2n%20th%E1%BB%8D%20cho%20nh%C3%A2n%20vi%C3%AAn%20l%E1%BA%A1i%20kh%C3%B4ng%20b%E1%BB%8B%20t%C3%ADnh%20v%C3%A0o%20thu%E1%BA%BF%20thu%20nh%E1%BA%ADp%20doanh%20nghi%E1%BB%87p,%20d%C3%B9%20th%E1%BB%B1c%20ra%20lu%E1%BA%ADt%20v%E1%BA%ABn%20c%E1%BA%A5m.md).
+Bài chi tiết: [Tại sao doanh nghiệp khi mua bảo hiểm nohân thọ cho nhân viên lại không bị tính vào thuế thu nhập doanh nghiệp?](../../../T%C3%ACnh%20h%C3%ACnh%20%E1%BB%9F%20Vi%E1%BB%87t%20Nam/Lu%E1%BA%ADt,%20qu%E1%BA%A3n%20l%C3%BD%20nh%C3%A0%20n%C6%B0%E1%BB%9Bc/T%C3%A0i%20ch%C3%ADnh/B%E1%BA%A3o%20hi%E1%BB%83m/Doanh%20nghi%E1%BB%87p%20khi%20mua%20b%E1%BA%A3o%20hi%E1%BB%83m%20nh%C3%A2n%20th%E1%BB%8D%20cho%20nh%C3%A2n%20vi%C3%AAn%20l%E1%BA%A1i%20kh%C3%B4ng%20b%E1%BB%8B%20t%C3%ADnh%20v%C3%A0o%20thu%E1%BA%BF%20thu%20nh%E1%BA%ADp%20doanh%20nghi%E1%BB%87p,%20d%C3%B9%20th%E1%BB%B1c%20ra%20lu%E1%BA%ADt%20v%E1%BA%ABn%20c%E1%BA%A5m.md).
 
 ### Đặc điểm khác
 #### Người nhận tiền sẽ không gặp nhiều phiền phức để làm thủ tục
@@ -114,7 +114,7 @@ Một bạn nhắn: Trường hợp của bác Nguyên Ngọc, hãy liên hệ v
 Cathay vẫn có những sản phẩm nhân thọ không cần đi khám
 
 ### An toàn hơn ngân hàng?
-[dù điều đó là không thể](../../../Lu%E1%BA%ADt,%20qu%E1%BA%A3n%20l%C3%BD%20nh%C3%A0%20n%C6%B0%E1%BB%9Bc/T%C3%A0i%20ch%C3%ADnh/Ti%E1%BB%81n%20t%E1%BB%87,%20ng%C3%A2n%20h%C3%A0ng/Ng%C3%A2n%20h%C3%A0ng%20kh%C3%B4ng%20th%E1%BB%83%20n%C3%A0o%20s%E1%BB%A5p,%20v%C3%AC%20n%E1%BA%BFu%20m%E1%BB%99t%20ng%C3%A2n%20h%C3%A0ng%20s%E1%BB%A5p%20th%C3%AC%20n%C3%B3%20l%C3%A0m%20m%E1%BA%A5t%20uy%20t%C3%ADn%20c%E1%BB%A7a%20c%E1%BA%A3%20ng%C3%A0nh.md)
+[dù điều đó là không thể](../../../T%C3%ACnh%20h%C3%ACnh%20%E1%BB%9F%20Vi%E1%BB%87t%20Nam/Lu%E1%BA%ADt,%20qu%E1%BA%A3n%20l%C3%BD%20nh%C3%A0%20n%C6%B0%E1%BB%9Bc/T%C3%A0i%20ch%C3%ADnh/Ti%E1%BB%81n%20t%E1%BB%87,%20ng%C3%A2n%20h%C3%A0ng/Ng%C3%A2n%20h%C3%A0ng%20kh%C3%B4ng%20th%E1%BB%83%20n%C3%A0o%20s%E1%BB%A5p,%20v%C3%AC%20n%E1%BA%BFu%20m%E1%BB%99t%20ng%C3%A2n%20h%C3%A0ng%20s%E1%BB%A5p%20th%C3%AC%20n%C3%B3%20l%C3%A0m%20m%E1%BA%A5t%20uy%20t%C3%ADn%20c%E1%BB%A7a%20c%E1%BA%A3%20ng%C3%A0nh.md)
 
 Sản phẩm bảo hiểm cũng như sản phẩm ngân hàng có mức độ rủi ro có thể xem là 0. Nhưng nếu ngân hàng phá sản, bạn sẽ được trả tối đa là 70 triệu. Còn nếu công ty bảo hiểm phá sản, thì bạn sẽ được trả tối đa là 200 triệu, do một công ty bảo hiểm có hai, ba lớp chuyển nhượng tái bảo hiểm đằng sau.
 
