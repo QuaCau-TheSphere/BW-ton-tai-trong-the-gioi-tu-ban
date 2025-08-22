@@ -1,8 +1,8 @@
 ---
 share: true
 created: 2025-04-07T15:27
-updated: 2025-07-24T14:50
-alias:
+updated: 2025-08-21T10:38
+aliases:
   - Liệu công ty X có đang lừa đảo, rửa tiền không?
 ---
 ## Sao công ty này lại cho nhiều khuyến mãi quá vậy? Có phải là lừa đảo không?
