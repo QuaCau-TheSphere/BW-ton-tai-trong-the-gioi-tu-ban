@@ -1,8 +1,8 @@
 ---
 share: true
 created: 2025-01-23T09:23
-updated: 2025-07-09T17:32
-alias:
+updated: 2025-08-16T22:05
+aliases:
   - Đối thoại với nhân viên bán hàng
   - Dí số, áp lực doanh số
 ---
