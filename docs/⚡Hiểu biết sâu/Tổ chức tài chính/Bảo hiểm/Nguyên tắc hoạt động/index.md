@@ -1,8 +1,9 @@
 ---
 share: true
 created: 2024-09-06T14:31
-updated: 2025-07-09T17:17
-alias: Nguyên tắc hoạt động của bảo hiểm
+updated: 2025-08-16T22:04
+aliases:
+  - Nguyên tắc hoạt động của bảo hiểm
 title: Nguyên tắc hoạt động
 ---
 Khái niệm:: [Bảo hiểm](../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/B%E1%BA%A3o%20hi%E1%BB%83m.md)
