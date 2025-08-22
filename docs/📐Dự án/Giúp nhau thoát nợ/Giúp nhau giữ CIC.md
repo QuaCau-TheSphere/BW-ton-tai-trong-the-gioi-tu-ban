@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-08-22T17:12
+updated: 2025-08-22T18:28
 ---
 Khi bạn lên các ngân hàng thương mại hoặc công ty tài chính tiêu dùng (sau đây gọi tắt là ngân hàng) để vay tiền, họ sẽ đánh giá mức độ đáng tin của bạn thông qua một chỉ số gọi là *điểm tín dụng*. Nếu bạn có được điểm tín dụng tốt thì bạn sẽ được vay với lãi thấp hơn và hạn mức cao hơn. Một lần trả nợ trễ hạn là điểm tín dụng của bạn sẽ bị đánh xấu cho cả 5 năm tiếp theo, và sẽ không được ngân hàng nào cho vay cả. Điểm này do Trung tâm Tín dụng Quốc gia (CIC) quản lý, nên cũng hay được gọi là điểm CIC. 
 
@@ -17,6 +17,7 @@ Chính vì vậy, mình đề xuất một quỹ tài chính vi mô với sứ m
 
 Số tiền cho vay lấy từ đâu? Từ chính những người định vay ngân hàng thế này. Ai tham gia sớm thì sau này sẽ được ưu tiên cho vay hơn. Lãi vay sẽ được trả một phần cho người quản lý, và một phần để trả tiền cho những ai góp tiền nhưng không cần dùng đến.
 
+## Nhỡ bị xù thì sao?
 Bài chi tiết:: [Làm sao cho vay mà không bị xù](./T%C3%A0i%20li%E1%BB%87u/L%C3%A0m%20sao%20cho%20vay%20m%C3%A0%20kh%C3%B4ng%20b%E1%BB%8B%20x%C3%B9.md)
 
 ## Ví dụ
