@@ -1,8 +1,8 @@
 ---
 share: true
 created: 2025-01-01T12:22
-updated: 2025-07-09T17:32
-alias:
+updated: 2025-08-16T22:05
+aliases:
   - Không có bữa ăn miễn phí
 ---
 [Có vay có trả](./N%E1%BB%A3/C%C3%B3%20vay%20c%C3%B3%20tr%E1%BA%A3.md)
