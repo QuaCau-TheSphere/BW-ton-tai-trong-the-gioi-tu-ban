@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-08-22T17:25
+updated: 2025-08-22T20:44
 ---
 ## [Giúp nhau giữ CIC](../Gi%C3%BAp%20nhau%20tho%C3%A1t%20n%E1%BB%A3/Gi%C3%BAp%20nhau%20gi%E1%BB%AF%20CIC.md)
 ### [r/TroChuyenLinhTinh](https://www.reddit.com/r/TroChuyenLinhTinh/comments/1mrt2jw/comment/n8zxkxd/)
@@ -29,6 +29,7 @@ updated: 2025-08-22T17:25
 ## [Làm sao cho vay mà không bị xù](../Gi%C3%BAp%20nhau%20tho%C3%A1t%20n%E1%BB%A3/T%C3%A0i%20li%E1%BB%87u/L%C3%A0m%20sao%20cho%20vay%20m%C3%A0%20kh%C3%B4ng%20b%E1%BB%8B%20x%C3%B9.md)
 ### Cộng đồng bị nợ xấu tại VN
 [22-08-2025](22-08-2025.md) 16:47 https://www.facebook.com/groups/2005765186571320/my_pending_content
+
 ### Cộng đồng Cố vấn tài chính Việt Nam - Vietnam Wealth Advisors (VWA)
 [22-08-2025](22-08-2025.md) 17:18 submit [Facebook](https://www.facebook.com/groups/1375127312740076/my_pending_content)
 
