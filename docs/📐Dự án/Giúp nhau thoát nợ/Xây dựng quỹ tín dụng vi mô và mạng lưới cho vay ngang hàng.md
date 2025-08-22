@@ -4,7 +4,7 @@ created: 2025-04-20T16:47
 aliases:
   - Xây dựng quỹ tín dụng vi mô
   - Mạng lưới cho vay chéo
-updated: 2025-08-22T15:48
+updated: 2025-08-22T18:25
 ---
 ## Ý tưởng
 Khi một người cần vay thì sẽ có 2 nguồn để vay:
@@ -78,11 +78,6 @@ quỹ phi tập trung
 Ngoài việc yêu cầu phải hoàn thành [tạo hồ sơ bản thân](./B%E1%BA%A3n%20c%C3%A2u%20h%E1%BB%8Fi%20cho%20ng%C6%B0%E1%BB%9Di%20c%E1%BA%A7n%20%C4%91%C6%B0%E1%BB%A3c%20h%E1%BB%97%20tr%E1%BB%A3%20tho%C3%A1t%20n%E1%BB%A3.md) cũng như hỗ trợ họ kiếm tiền, để họ cảm thấy việc xù mình là bất lợi, thì có thể cho vay theo nhóm hơn là cho vay cá nhân. ([Cho vay theo nhóm bền vững hơn, ít bị xù hơn. Cho vay cá nhân nhiều lợi nhuận hơn, dễ mở rộng phạm vi hoạt động hơn](../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/T%E1%BB%95%20ch%E1%BB%A9c%20t%C3%A0i%20ch%C3%ADnh/T%E1%BB%95%20ch%E1%BB%A9c%20t%C3%ADn%20d%E1%BB%A5ng/Cho%20vay%20theo%20nh%C3%B3m%20b%E1%BB%81n%20v%E1%BB%AFng%20h%C6%A1n,%20%C3%ADt%20b%E1%BB%8B%20x%C3%B9%20h%C6%A1n.%20Cho%20vay%20c%C3%A1%20nh%C3%A2n%20nhi%E1%BB%81u%20l%E1%BB%A3i%20nhu%E1%BA%ADn%20h%C6%A1n,%20d%E1%BB%85%20m%E1%BB%9F%20r%E1%BB%99ng%20ph%E1%BA%A1m%20vi%20ho%E1%BA%A1t%20%C4%91%E1%BB%99ng%20h%C6%A1n.md)). Điều này có nghĩa là những người vay phải quản lý tiến trình trả nợ của nhau. Ví dụ, những người đang [nhờ Nhật đứng tên](./Ng%C6%B0%E1%BB%9Di%20th%E1%BB%A5%20h%C6%B0%E1%BB%9Fng/L%C3%BD%20Minh%20Nh%E1%BA%ADt/C%C3%A1c%20kho%E1%BA%A3n%20t%C3%A0i%20s%E1%BA%A3n%20v%C3%A0%20kho%E1%BA%A3n%20n%E1%BB%A3%20Nh%E1%BA%ADt%20%C4%91%E1%BB%A9ng%20t%C3%AAn%20(phi%C3%AAn%20b%E1%BA%A3n%20cho%20b%E1%BA%A1n%20b%C3%A8).md) cần nói chuyện với nhau để có thể đảm bảo rằng Nhật không bị mất uy tín, để còn có thể đứng ra vay tiếp cho nhóm.
 
 đảm bảo thu nhập trong tháng vẫn đủ để trả các khoản tới hạn. Cơ bản là một dạng làm startup với họ
-
-### Phải làm gì để việc xù không gây ảnh hưởng?
-
-Có thấy an toàn để hỏi không? 
-[Việc giúp đỡ nhau vì đạo đức sẽ khiến người ta làm trên phương diện cá nhân thay vì đóng góp vào quỹ chung](../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%C4%90%E1%BA%A1o%20%C4%91%E1%BB%A9c,%20ph%C3%A1p%20lu%E1%BA%ADt.%20Kinh%20t%E1%BA%BF%20ch%C3%ADnh%20tr%E1%BB%8B/Vi%E1%BB%87c%20gi%C3%BAp%20%C4%91%E1%BB%A1%20nhau%20v%C3%AC%20%C4%91%E1%BA%A1o%20%C4%91%E1%BB%A9c%20s%E1%BA%BD%20khi%E1%BA%BFn%20ng%C6%B0%E1%BB%9Di%20ta%20l%C3%A0m%20tr%C3%AAn%20ph%C6%B0%C6%A1ng%20di%E1%BB%87n%20c%C3%A1%20nh%C3%A2n%20thay%20v%C3%AC%20%C4%91%C3%B3ng%20g%C3%B3p%20v%C3%A0o%20qu%E1%BB%B9%20chung.md)
 
 ## Nơi thảo luận
 ![](https://i.imgur.com/RNcEBe4.png)
