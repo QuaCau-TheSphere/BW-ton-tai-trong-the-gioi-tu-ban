@@ -1,14 +1,15 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2025-07-09T17:32
+updated: 2025-08-16T22:05
 description: Điểm giống và khác nhau giữa các chương trình quản lý tiền. Quang cảnh và sơ đồ giữa chúng.
-alias:
+aliases:
   - Điểm giống và khác nhau giữa các chương trình quản lý tiền
   - Quang cảnh giữa các chương trình quản lý tiền
   - Sơ đồ giữa các chương trình quản lý tiền
   - Mối quan hệ giữa các khái niệm
-cssClass: wide-table
+cssclasses:
+  - wide-table
 title: Chương trình quản lý tiền
 ---
 ## Mối quan hệ giữa các khái niệm

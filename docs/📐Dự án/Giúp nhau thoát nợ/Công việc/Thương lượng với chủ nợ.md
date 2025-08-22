@@ -1,11 +1,11 @@
 ---
 share: true
 created: 2023-11-25T15:33
-updated: 2025-07-09T17:32
-alias:
+updated: 2025-08-16T22:05
+aliases:
   - Đi năn nỉ
 ---
-[Nhiều tiền hơn có làm tăng thêm hạnh phúc, nhưng việc có những mối quan hệ chất lượng đem lại nhiều hạnh phúc hơn](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Kinh%20t%E1%BA%BF/Nhi%E1%BB%81u%20ti%E1%BB%81n%20h%C6%A1n%20c%C3%B3%20l%C3%A0m%20t%C4%83ng%20th%C3%AAm%20h%E1%BA%A1nh%20ph%C3%BAc,%20nh%C6%B0ng%20vi%E1%BB%87c%20c%C3%B3%20nh%E1%BB%AFng%20m%E1%BB%91i%20quan%20h%E1%BB%87%20ch%E1%BA%A5t%20l%C6%B0%E1%BB%A3ng%20%C4%91em%20l%E1%BA%A1i%20nhi%E1%BB%81u%20h%E1%BA%A1nh%20ph%C3%BAc%20h%C6%A1n.md). Nếu sự giảm nợ hoặc gia hạn nợ đem cho họ những mối quan hệ chất lượng hơn thì có thể họ sẽ chấp nhận.
+[Nhiều tiền hơn có làm tăng thêm hạnh phúc, nhưng việc có những mối quan hệ chất lượng đem lại nhiều hạnh phúc hơn](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Kinh%20t%E1%BA%BF/Kinh%20t%E1%BA%BF%20h%C3%A0ng%20ho%C3%A1.%20Ti%E1%BB%81n%20t%E1%BB%87/Kinh%20t%E1%BA%BF%20h%E1%BB%8Dc%20t%C3%A2m%20l%C3%BD/Nhi%E1%BB%81u%20ti%E1%BB%81n%20h%C6%A1n%20c%C3%B3%20l%C3%A0m%20t%C4%83ng%20th%C3%AAm%20h%E1%BA%A1nh%20ph%C3%BAc,%20nh%C6%B0ng%20vi%E1%BB%87c%20c%C3%B3%20nh%E1%BB%AFng%20m%E1%BB%91i%20quan%20h%E1%BB%87%20ch%E1%BA%A5t%20l%C6%B0%E1%BB%A3ng%20%C4%91em%20l%E1%BA%A1i%20nhi%E1%BB%81u%20h%E1%BA%A1nh%20ph%C3%BAc%20h%C6%A1n.md). Nếu sự giảm nợ hoặc gia hạn nợ đem cho họ những mối quan hệ chất lượng hơn thì có thể họ sẽ chấp nhận.
 
 Người làm công việc thương lượng với chủ nợ cần thấy việc tiếp cận và xây dựng sự tin tưởng với chủ nợ và những người xung quanh là thú vị. Họ cần thấy việc tìm hiểu những thứ sau là thú vị:
 - Quá khứ của chủ nợ

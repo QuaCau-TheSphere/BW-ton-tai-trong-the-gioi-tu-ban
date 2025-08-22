@@ -1,8 +1,9 @@
 ---
 share: true
 created: 2024-08-22T19:15
-updated: 2025-07-09T17:32
-alias: Nguyễn Hữu Lộc – 0783865410
+updated: 2025-08-16T22:05
+aliases:
+  - Nguyễn Hữu Lộc – 0783865410
 description: "0783865410"
 ---
 SĐT:: 0783865410

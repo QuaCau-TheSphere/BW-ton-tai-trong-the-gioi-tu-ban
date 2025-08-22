@@ -1,8 +1,9 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2025-07-09T17:32
-cssClass: wide-table
+updated: 2025-08-16T22:05
+cssclasses:
+  - wide-table
 ---
 Tên chương trình:: [Chương trình quản lý chi tiêu cá nhân từ Trấn Kỳ](../5%20T%C3%AAn%20ch%C6%B0%C6%A1ng%20tr%C3%ACnh/App%20qu%E1%BA%A3n%20l%C3%BD%20chi%20ti%C3%AAu/Ch%C6%B0%C6%A1ng%20tr%C3%ACnh%20qu%E1%BA%A3n%20l%C3%BD%20chi%20ti%C3%AAu%20c%C3%A1%20nh%C3%A2n%20t%E1%BB%AB%20Tr%E1%BA%A5n%20K%E1%BB%B3.md), [Momo](../5%20T%C3%AAn%20ch%C6%B0%C6%A1ng%20tr%C3%ACnh/App%20qu%E1%BA%A3n%20l%C3%BD%20chi%20ti%C3%AAu/Momo.md), [Misa](../5%20T%C3%AAn%20ch%C6%B0%C6%A1ng%20tr%C3%ACnh/K%E1%BA%BF%20to%C3%A1n/Misa.md), [Trấn Kỳ (quang cảnh thị trường)](../5%20T%C3%AAn%20ch%C6%B0%C6%A1ng%20tr%C3%ACnh/Tr%E1%BA%A5n%20K%E1%BB%B3%20(quang%20c%E1%BA%A3nh%20th%E1%BB%8B%20tr%C6%B0%E1%BB%9Dng).md)
 
