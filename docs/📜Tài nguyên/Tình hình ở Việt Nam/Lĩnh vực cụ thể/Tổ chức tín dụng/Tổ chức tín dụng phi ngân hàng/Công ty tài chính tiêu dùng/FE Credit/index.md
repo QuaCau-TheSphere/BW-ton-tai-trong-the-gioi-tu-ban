@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-01-29T18:22
-updated: 2025-08-17T16:41
+updated: 2025-08-23T10:45
 title: FE Credit
 ---
 94QĐ-VH.19 09122019
@@ -29,9 +29,8 @@ Nếu chưa phát sinh lãi, phí, phạt thì khi thanh toán sẽ trừ vào g
 
 ![Day 2_Sáng _P2 _2.TIẾN TRÌNH LÀM VIỆC VỚI KHÁCH HÀNG + PTP - VS 27.11.2023.pdf](../../../../../../../assets/attachments/Day%202_S%C3%A1ng%20_P2%20_2.TI%E1%BA%BEN%20TR%C3%8CNH%20L%C3%80M%20VI%E1%BB%86C%20V%E1%BB%9AI%20KH%C3%81CH%20H%C3%80NG%20+%20PTP%20-%20VS%2027.11.2023.pdf)
 
-[Làm nhân viên ảo FE](%F0%9F%93%90D%E1%BB%B1%20%C3%A1n/Gi%C3%BAp%20nhau%20tho%C3%A1t%20n%E1%BB%A3/C%C3%B4ng%20vi%E1%BB%87c/L%C3%A0m%20nh%C3%A2n%20vi%C3%AAn%20%E1%BA%A3o/Thu%20h%E1%BB%93i%20n%E1%BB%A3/FE.md)
+[Làm nhân viên ảo FE Credit](../../../../../../%C3%9D%20t%C6%B0%E1%BB%9Fng%20ki%E1%BA%BFm%20ti%E1%BB%81n/%C3%9D%20t%C6%B0%E1%BB%9Fng/C%C3%B4ng%20vi%E1%BB%87c%20th%E1%BB%9Di%20v%E1%BB%A5,%20c%E1%BB%99ng%20t%C3%A1c%20vi%C3%AAn/Nh%C3%B3m%20ch%E1%BA%A1y%20ch%E1%BB%89%20ti%C3%AAu/L%C3%A0m%20nh%C3%A2n%20s%E1%BB%B1%20%E1%BA%A3o/FE%20Credit.md)
 
 Phúc lợi:
 - Thử việc 100% lương, 80% KPI
-- Thử việc được đóng BHXH - BHYT - BHNT 
-- Bảo hiểm chăm sóc sức khoẻ 24/7 Bảo Việt
+- Thử việc được đóng BHXH, BHYT, bảo hiểm nhân thọ và bảo hiểm sức khoẻ của Bảo Việt
