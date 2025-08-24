@@ -1,0 +1,8 @@
+---
+share: true
+created: 2025-03-27T17:13
+updated: 2025-08-21T09:37
+---
+Khái niệm:: 
+[Chi phí giao dịch phát sinh do tính đặc thù tài sản, sự bất định và hành vi cơ hội ](Chi%20ph%C3%AD%20giao%20d%E1%BB%8Bch%20ph%C3%A1t%20sinh%20do%20t%C3%ADnh%20%C4%91%E1%BA%B7c%20th%C3%B9%20t%C3%A0i%20s%E1%BA%A3n,%20s%E1%BB%B1%20b%E1%BA%A5t%20%C4%91%E1%BB%8Bnh%20v%C3%A0%20h%C3%A0nh%20vi%20c%C6%A1%20h%E1%BB%99i.md)
+Nguồn:: https://vhlinh.substack.com/p/kinh-te-hoc-the-che-moi-la-gi
