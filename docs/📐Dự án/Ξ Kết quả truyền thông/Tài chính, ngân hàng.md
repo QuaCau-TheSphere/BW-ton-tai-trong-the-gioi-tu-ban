@@ -1,9 +1,9 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-08-22T20:44
+updated: 2025-08-23T22:06
 ---
-## [Giúp nhau giữ CIC](../Gi%C3%BAp%20nhau%20tho%C3%A1t%20n%E1%BB%A3/Gi%C3%BAp%20nhau%20gi%E1%BB%AF%20CIC.md)
+## [Quỹ giúp nhau giữ tài sản thế chấp](../Gi%C3%BAp%20nhau%20tho%C3%A1t%20n%E1%BB%A3/C%C3%B4ng%20vi%E1%BB%87c/Qu%E1%BB%B9/Qu%E1%BB%B9%20gi%C3%BAp%20nhau%20gi%E1%BB%AF%20t%C3%A0i%20s%E1%BA%A3n%20th%E1%BA%BF%20ch%E1%BA%A5p.md)
 ### [r/TroChuyenLinhTinh](https://www.reddit.com/r/TroChuyenLinhTinh/comments/1mrt2jw/comment/n8zxkxd/)
 [Title Unavailable \| Site Unreachable](https://www.reddit.com/r/TroChuyenLinhTinh/comments/1mrt2jw/comment/n8zxkxd/)
 ### Góc nhìn ngân hàng
@@ -32,6 +32,7 @@ updated: 2025-08-22T20:44
 
 ### Cộng đồng Cố vấn tài chính Việt Nam - Vietnam Wealth Advisors (VWA)
 [22-08-2025](22-08-2025.md) 17:18 submit [Facebook](https://www.facebook.com/groups/1375127312740076/my_pending_content)
+21:15 declined
 
 ### Voz
 [22-08-2025](22-08-2025.md) 17:25 [Title Unavailable \| Site Unreachable](https://voz.vn/t/lam-sao-đe-nguoi-vay-khong-co-đong-luc-xu.1138781%2f)
