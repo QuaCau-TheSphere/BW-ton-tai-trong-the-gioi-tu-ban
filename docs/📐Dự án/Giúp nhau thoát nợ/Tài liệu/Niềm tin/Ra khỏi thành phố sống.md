@@ -1,9 +1,11 @@
 ---
 share: true
 created: 2025-04-04T22:48
-updated: 2025-08-17T09:14
-alias: Các lý do để không về quê
+updated: 2025-08-26T10:40
+aliases:
+  - Các lý do để không về quê
 ---
+[Làng](../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Kinh%20t%E1%BA%BF/Kinh%20t%E1%BA%BF%20thay%20th%E1%BA%BF/L%C3%A0ng.md)
 ## Không kiếm được việc làm, hoặc tỉ lệ lương/chi phí sinh hoạt không tăng lên
 - Ở TP đang có lương 15tr, về quê thì không còn nhiều được như vậy
 
