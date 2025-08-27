@@ -1,13 +1,13 @@
 ---
 share: true
 created: 2025-03-28T16:31
-updated: 2025-08-16T10:13
+updated: 2025-08-26T19:16
 title: Tuyển cộng tác viên tìm khách hàng tiềm năng là người hay suy nghĩ đến cảnh tai nạn, ung thư, chết chóc
 ---
 Các cộng tác viên là những người sống trong [các môi trường hay làm ta suy nghĩ đến cảnh tai nạn, ung thư, chết chóc](../../Ki%E1%BA%BFm%20kh%C3%A1ch/Ng%C6%B0%E1%BB%9Di%20hay%20suy%20ngh%C4%A9%20%C4%91%E1%BA%BFn%20c%E1%BA%A3nh%20tai%20n%E1%BA%A1n,%20ung%20th%C6%B0,%20ch%E1%BA%BFt%20ch%C3%B3c/C%C3%A1ch%20%C4%91%E1%BB%83%20g%E1%BA%B7p%20%C4%91%C6%B0%E1%BB%A3c%20nh%E1%BB%AFng%20ng%C6%B0%E1%BB%9Di%20hay%20suy%20ngh%C4%A9%20%C4%91%E1%BA%BFn%20c%E1%BA%A3nh%20tai%20n%E1%BA%A1n,%20ung%20th%C6%B0,%20ch%E1%BA%BFt%20ch%C3%B3c.md). Họ có thể là:
 - Các công nhân, nhân viên của các nhà máy, xí nghiệp có các thiết bị dễ gây tai nạn, hoặc người dân sống xung quanh, hoặc người thân, bạn bè của họ
 - Những người làm trong các đơn vị chuyên xử lý rủi ro cho bên khác hoặc các khách hàng của họ
-- Nhân viên y tế
+- Nhân viên y tế, nhân viên công tác xã hội
 - Người thân, hàng xóm, bạn bè của người có bị ung thư, tai nạn, chết đột ngột, hoặc người quyên góp từ thiện cho họ
 - Người làm trong nhà tang lễ, nghĩa trang, bệnh viện, chùa, nhà thờ hoặc người thân, hàng xóm, bạn bè của họ
 
