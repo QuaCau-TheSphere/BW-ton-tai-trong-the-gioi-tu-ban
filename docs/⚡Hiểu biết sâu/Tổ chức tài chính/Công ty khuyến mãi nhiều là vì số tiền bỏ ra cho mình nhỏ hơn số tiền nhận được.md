@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-04-07T15:27
-updated: 2025-08-25T10:56
+updated: 2025-08-27T15:04
 aliases:
   - Liệu công ty X có đang lừa đảo, rửa tiền không?
   - App lừa đảo vẫn lên được mấy cái appstore
@@ -13,6 +13,7 @@ Có một niềm tin phổ biến rằng [không có gì là miễn phí thực 
 Nhưng nghĩ kỹ lại thì không phải cứ có giấy tờ hợp pháp thì là không lừa đảo. Có mấy vụ mua bán đất bằng giấy tờ giả các kiểu. Tương tự, các lập luận rằng nó có app trên CH Play và Appstore cũng không thể hiện rằng nó không lừa đảo. App lừa đảo vẫn lên được mấy cái Appstore. Nhưng những vụ đó có vẻ như khác với các công ty này ở chỗ nó không cần tuyển nhiều người. Các công ty mà thực sự mở được nhiều văn phòng như vậy chắc không dại gì làm giấy tờ giả, nên ta có thể bỏ qua trường hợp này.
 [Những trang web giả mạo không chỉ dùng để lừa người dân, mà còn có thể dùng khi cần hạ thấp uy tín công ty thật](../Ki%E1%BA%BFm%20ti%E1%BB%81n/L%E1%BB%ABa%20%C4%91%E1%BA%A3o,%20ph%E1%BA%A1m%20t%E1%BB%99i/Nh%E1%BB%AFng%20trang%20web%20gi%E1%BA%A3%20m%E1%BA%A1o%20kh%C3%B4ng%20ch%E1%BB%89%20d%C3%B9ng%20%C4%91%E1%BB%83%20l%E1%BB%ABa%20ng%C6%B0%E1%BB%9Di%20d%C3%A2n,%20m%C3%A0%20c%C3%B2n%20c%C3%B3%20th%E1%BB%83%20d%C3%B9ng%20khi%20c%E1%BA%A7n%20h%E1%BA%A1%20th%E1%BA%A5p%20uy%20t%C3%ADn%20c%C3%B4ng%20ty%20th%E1%BA%ADt.md)
 
+momo ngày xưa cũng khuyến mãi nhiều
 Vậy nếu là giấy tờ thật, thì tiền đâu mà khuyến mãi như vậy?
 
 ### Từ tham vọng của các nhà đầu tư 
