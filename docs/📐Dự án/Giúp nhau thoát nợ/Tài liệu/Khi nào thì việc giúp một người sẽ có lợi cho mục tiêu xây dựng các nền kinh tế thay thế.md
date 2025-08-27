@@ -2,9 +2,9 @@
 share: true
 created: 2025-03-27T17:13
 title: Khi nào thì việc giúp một người sẽ có lợi cho mục tiêu xây dựng các nền kinh tế thay thế?
-updated: 2025-08-26T10:26
+updated: 2025-08-26T19:17
 ---
-Trên quan điểm chống tư bản, phát triển cộng đồng thì thứ cần tập trung là xây dựng các [P2P](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Kinh%20t%E1%BA%BF/Kinh%20t%E1%BA%BF%20thay%20th%E1%BA%BF/P2P.md). Việc giúp đỡ một vài cá thể thì chỉ là từ thiện và làm xao nhãng mục tiêu lâu dài hơn. Nên nếu ta giúp họ thì phải có thêm những lý do mạnh hơn, hoặc ít nhất là đủ mới để có thể chấp nhận việc xao nhãng để thử nghiệm. Thế nên, câu hỏi không phải là:
+Trên quan điểm chống tư bản, phát triển cộng đồng thì thứ cần tập trung là xây dựng [các nền kinh tế thay thế](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Kinh%20t%E1%BA%BF/C%C3%A1c%20n%E1%BB%81n%20kinh%20t%E1%BA%BF%20thay%20th%E1%BA%BF/index.md). Việc giúp đỡ một vài cá thể thì chỉ là từ thiện và làm xao nhãng mục tiêu lâu dài hơn. Nên nếu ta giúp họ thì phải có thêm những lý do mạnh hơn, hoặc ít nhất là đủ mới để có thể chấp nhận việc xao nhãng để thử nghiệm. Thế nên, câu hỏi không phải là:
 > Tại sao nên giúp người này? 
 
 Mà là:
@@ -26,8 +26,8 @@ Một ví dụ là việc xây dựng hệ thống kết nối nhu cầu. Nó c�
 #### Khi có thêm một chân rết trong thiết chế tư bản
 Chừng nào chúng ta còn thừa nhận là chưa thể độc lập với thiết chế tư bản, chừng đó vẫn phải thừa nhận là có mối quan hệ với những người như vậy là cần thiết. 
 
-Tất cả những vấn đề chính trị, tài chính, kinh tế đều 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/F9II4ubS-uk?si=fWpWyUCUegPvJ8p9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ### Khi nào thì việc giúp một người quan trọng hơn mục tiêu xây dựng các nền kinh tế thay thế? 
 - Khi bạn thấy việc giữ cho họ còn niềm hy vọng đổi đời quan trọng hơn. Nó gần gần với ý hành trình quan trọng hơn điểm đến. 
 
@@ -73,3 +73,14 @@ Nửa cho nửa mượn
 
 Thoả mãn cảm giác trợ giúp
 
+
+
+nhưng luôn thiếu thời gian để tự mình làm. Những người vẫn còn đang cố bám trụ ở thành phố và giữ điểm tín dụng với hy vọng có được cuộc sống tử tế hơn như Lộc cần một người giúp mình nhiệt tình với giá rẻ, và Nhật hiện có vẻ là người duy nhất sẵn sàng làm điều đó. Tuy nhiên, Nhật thì đâu có cần kiếm tiền, cũng không muốn làm thứ ngắn hạn, từ thiện, và cũng có nhiều quan điểm trái ngược, thậm chí cũng tự thừa nhận là ngang ngược. Có những thứ Lộc nhờ Nhật giúp Nhật hăng hái làm, nhưng cũng có những thứ không chịu làm ngay. 
+Đều mong Nhật giúp với lý do điều này sẽ giúp cho nhiều người khác
+
+Lộc biết Nhật muốn giúp nhiều người, muốn kết nối mọi người. Lộc cũng biết Nhật chỉ muốn làm những thứ có ích lợi lâu dài. Nên để thuyết phục Nhật giúp mình một điều gì đó, nhiều khi Lộc phải nói là nó giúp ích cho nhiều người. 
+
+Đã xác định là đi lên mặt trăng thì nên tập trung vào việc đó
+Sáng nói lý tưởng, tối sống 
+Huy động được tiền 
+Hay cùng lắm là mô hình nhà nước phúc lợi thôi, chứ nó vẫn là chủ nghĩa tư bản
