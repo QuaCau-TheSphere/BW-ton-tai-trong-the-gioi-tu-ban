@@ -2,7 +2,7 @@
 created: 2025-01-14T21:00
 share: true
 title: Đề xuất vay nợ của Nguyễn Hữu Lộc
-updated: 2025-08-27T20:08
+updated: 2025-08-29T09:14
 ---
 Lộc có 5 sổ tiết kiệm trong Vietinbank, tổng cộng 165tr, ngày đáo hạn trải dài từ ngày 6 đến ngày 21/8. Các sổ này đều được thế chấp để có thẻ tín dụng 150tr, nhưng việc trả nợ gặp khó khăn. Giờ nếu để cho ngân hàng xiết sổ thì mất luôn 15tr. Nên Lộc muốn vay ngắn hạn để huỷ thẻ tín dụng trước, rồi khi lấy được sổ rồi sẽ trả lại sau. 
 
@@ -43,13 +43,15 @@ Có thể xem đây là khoản công và tiền mà Lộc bỏ ra cho những h
 
 ### Có được một chân rết trong thiết chế tư bản
 Chừng nào chúng ta còn thừa nhận là chưa thể độc lập với thiết chế tư bản, chừng đó vẫn phải thừa nhận là có mối quan hệ với những người như vậy là hữu ích. Dễ nhất là kiếm việc nhẹ lương cao cho mọi người.
-
-[Muốn thoát nghèo cần dòng tiền](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Ki%E1%BA%BFm%20ti%E1%BB%81n/T%E1%BB%B1%20%C4%91%E1%BA%A7u%20t%C6%B0/Mu%E1%BB%91n%20tho%C3%A1t%20ngh%C3%A8o%20c%E1%BA%A7n%20d%C3%B2ng%20ti%E1%BB%81n.md). [Công ty ra chính sách khó cho nhân viên không đơn thuần là vì tham tiền, mà còn là vì nhà đầu tư cần tiền được lưu thông](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/T%E1%BB%95%20ch%E1%BB%A9c%20t%C3%A0i%20ch%C3%ADnh/C%C3%B4ng%20ty%20ra%20ch%C3%ADnh%20s%C3%A1ch%20kh%C3%B3%20cho%20nh%C3%A2n%20vi%C3%AAn%20kh%C3%B4ng%20%C4%91%C6%A1n%20thu%E1%BA%A7n%20l%C3%A0%20v%C3%AC%20tham%20ti%E1%BB%81n,%20m%C3%A0%20c%C3%B2n%20l%C3%A0%20v%C3%AC%20nh%C3%A0%20%C4%91%E1%BA%A7u%20t%C6%B0%20c%E1%BA%A7n%20ti%E1%BB%81n%20%C4%91%C6%B0%E1%BB%A3c%20l%C6%B0u%20th%C3%B4ng.md). [Chính phủ muốn kiểm soát dòng tiền](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Ph%C3%A1t%20tri%E1%BB%83n%20b%E1%BB%81n%20v%E1%BB%AFng/H%E1%BB%97%20tr%E1%BB%A3%20ng%C6%B0%E1%BB%9Di%20y%E1%BA%BFu%20th%E1%BA%BF/Ch%C3%ADnh%20ph%E1%BB%A7%20mu%E1%BB%91n%20ki%E1%BB%83m%20so%C3%A1t%20d%C3%B2ng%20ti%E1%BB%81n.md). Xen ra để thoát nghèo không thể không có hiểu biết về bản đồ dòng tiền. Càng lên được các vị trí cao càng thấy được điều đó rộng hơn, rõ hơn. Có quan hệ gần gũi một người như vậy sẽ hữu ích.
+Xem thêm:: [Điều gì khiến một người không muốn từ bỏ thiết chế tư bản](./%C4%90i%E1%BB%81u%20g%C3%AC%20khi%E1%BA%BFn%20m%E1%BB%99t%20ng%C6%B0%E1%BB%9Di%20kh%C3%B4ng%20mu%E1%BB%91n%20t%E1%BB%AB%20b%E1%BB%8F%20thi%E1%BA%BFt%20ch%E1%BA%BF%20t%C6%B0%20b%E1%BA%A3n.md)
+[Muốn thoát nghèo cần dòng tiền](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Ki%E1%BA%BFm%20ti%E1%BB%81n/T%E1%BB%B1%20%C4%91%E1%BA%A7u%20t%C6%B0/Mu%E1%BB%91n%20tho%C3%A1t%20ngh%C3%A8o%20c%E1%BA%A7n%20d%C3%B2ng%20ti%E1%BB%81n.md). [Công ty ra chính sách khó cho nhân viên không đơn thuần là vì tham tiền, mà còn là vì nhà đầu tư cần tiền được lưu thông, hoặc thậm chí là rửa tiền](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/T%E1%BB%95%20ch%E1%BB%A9c%20t%C3%A0i%20ch%C3%ADnh/C%C3%B4ng%20ty%20ra%20ch%C3%ADnh%20s%C3%A1ch%20kh%C3%B3%20cho%20nh%C3%A2n%20vi%C3%AAn%20kh%C3%B4ng%20%C4%91%C6%A1n%20thu%E1%BA%A7n%20l%C3%A0%20v%C3%AC%20tham%20ti%E1%BB%81n,%20m%C3%A0%20c%C3%B2n%20l%C3%A0%20v%C3%AC%20nh%C3%A0%20%C4%91%E1%BA%A7u%20t%C6%B0%20c%E1%BA%A7n%20ti%E1%BB%81n%20%C4%91%C6%B0%E1%BB%A3c%20l%C6%B0u%20th%C3%B4ng,%20ho%E1%BA%B7c%20th%E1%BA%ADm%20ch%C3%AD%20l%C3%A0%20r%E1%BB%ADa%20ti%E1%BB%81n.md). [Chính phủ muốn kiểm soát dòng tiền](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Ph%C3%A1t%20tri%E1%BB%83n%20b%E1%BB%81n%20v%E1%BB%AFng/H%E1%BB%97%20tr%E1%BB%A3%20ng%C6%B0%E1%BB%9Di%20y%E1%BA%BFu%20th%E1%BA%BF/Ch%C3%ADnh%20ph%E1%BB%A7%20mu%E1%BB%91n%20ki%E1%BB%83m%20so%C3%A1t%20d%C3%B2ng%20ti%E1%BB%81n.md). Xen ra để thoát nghèo không thể không có hiểu biết về bản đồ dòng tiền. Càng lên được các vị trí cao càng thấy được đang có những nhóm lợi ích nào tranh giành quyền lợi. Có quan hệ gần gũi một người có những thông tin như vậy sẽ hữu ích.
 
 Một cách nữa để có dòng tiền là chơi MMO. Do đặc tính của phần mềm là có chi phí biên bằng 0 nên cũng không cần bóc lột thặng dư lao động của một vài người (trừ thằng dev và vài người làm cùng), nên cũng không phải tham gia sâu vào hệ thống tư bản cho lắm. Chỉ cần có kiến thức công nghệ thông tin trong một số mảng nhất định là làm được. 
 
 Những ý ở trên chỉ là tầm nhìn bao quát, chưa nói được hành động cụ thể. Nó chưa phải là SMART, chưa phải là 5W1H. Ai, ở đâu, khi nào, cái gì, bằng cách nào, tại sao, bao nhiêu; những thông tin này Lộc có. 
 
+Tất nhiên, những bài phân tích chuyên sâu về kinh tế, chính sách, thể chế Việt Nam nhan nhản, từ nhà nghiên cứu đến blogger ẩn danh. Thứ Lộc đem đến được là thứ những người bạn xung quanh sử dụng được. 
+[Công việc bán hàng có thu nhập đột biến, không bị trói buộc thời gian và luôn tuyển dụng](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Ki%E1%BA%BFm%20ti%E1%BB%81n/L%C3%A0m%20thu%C3%AA/B%C3%A1n%20h%C3%A0ng/C%C3%B4ng%20vi%E1%BB%87c%20b%C3%A1n%20h%C3%A0ng%20c%C3%B3%20thu%20nh%E1%BA%ADp%20%C4%91%E1%BB%99t%20bi%E1%BA%BFn,%20kh%C3%B4ng%20b%E1%BB%8B%20tr%C3%B3i%20bu%E1%BB%99c%20th%E1%BB%9Di%20gian%20v%C3%A0%20lu%C3%B4n%20tuy%E1%BB%83n%20d%E1%BB%A5ng.md)
 ### Dịp để kiểm tra tính ưu việt của hệ thống thay thế
 Nhật nhận thấy các diễn ngôn tân tự do cũng có xuất hiện ở Lộc. (Nhật cũng tự thấy mình vẫn còn lơ mơ về nó). Ở vị trí bị áp bức mà đã tiếp thu chúng như vậy, liệu rằng khi đã càng dấn sâu hơn vào hệ thống thì sẽ như thế nào? 
 
@@ -59,7 +61,10 @@ Lộc có nhiều ý tưởng kiếm tiền, và cần thuê người làm. Có 
 
 Các mô hình kinh tế thay thế hiện nay mà tôi biết (do VCIL giới thiệu) đều vẫn bảo tồn sự sở hữu tự liệu sản xuất, phương tiện sản xuất. Hay là nếu có được mô hình nhà nước phúc lợi thì cũng là đã tốt rồi? Khi nào tới được đó rồi hãy kỳ vọng tiếp? 
 
+Một người ở trong thiết chế tư bản thì sẽ chân trong chân ngòai thế nào?
 Khi đăng bài vào trong nhóm nạn nhân GM, không thấy phản ứng gì nhiều.
+
+Đang đau khổ bởi nó, nhưng chưa ngờ vực nó. Đưa thông tin đến cho họ thế nào mà không làm họ nhức đầu và trách rằng 
 
 ---
 
