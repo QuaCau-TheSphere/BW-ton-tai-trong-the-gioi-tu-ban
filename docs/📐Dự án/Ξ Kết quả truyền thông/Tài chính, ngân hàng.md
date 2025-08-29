@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-08-27T15:23
+updated: 2025-08-27T20:51
 ---
 ## [Quỹ giúp nhau giữ tài sản thế chấp](../Gi%C3%BAp%20nhau%20tho%C3%A1t%20n%E1%BB%A3/C%C3%B4ng%20vi%E1%BB%87c/Qu%E1%BB%B9/Qu%E1%BB%B9%20gi%C3%BAp%20nhau%20gi%E1%BB%AF%20t%C3%A0i%20s%E1%BA%A3n%20th%E1%BA%BF%20ch%E1%BA%A5p.md)
 ### [r/TroChuyenLinhTinh](https://www.reddit.com/r/TroChuyenLinhTinh/comments/1mrt2jw/comment/n8zxkxd/)
@@ -31,6 +31,9 @@ updated: 2025-08-27T15:23
 
 ### Otofun
 [27-08-2025](27-08-2025.md) 15:22 submit [Chú ý! Xe của bác đã gặp sự cố. \| OTOFUN \| CỘNG ĐỒNG OTO XE MÁY VIỆT NAM](https://www.otofun.net/threads/quy-giup-nhau-giu-tai-san-the-chap.1943559/)
+
+## Trang Le
+[27-08-2025](27-08-2025.md) 20:16
 ## [Làm sao cho vay mà không bị xù](../Gi%C3%BAp%20nhau%20tho%C3%A1t%20n%E1%BB%A3/T%C3%A0i%20li%E1%BB%87u/L%C3%A0m%20sao%20cho%20vay%20m%C3%A0%20kh%C3%B4ng%20b%E1%BB%8B%20x%C3%B9.md)
 ### Cộng đồng bị nợ xấu tại VN
 [22-08-2025](22-08-2025.md) 16:47 https://www.facebook.com/groups/2005765186571320/my_pending_content
