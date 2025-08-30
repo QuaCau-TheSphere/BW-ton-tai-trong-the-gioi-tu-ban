@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2025-08-23T23:42
+updated: 2025-08-30T09:09
 ---
 - **Bắc Á:** bắt gửi pass về mail
 - **Eximbank:** bắt đăng nhập web
@@ -11,3 +11,4 @@ updated: 2025-08-23T23:42
 - **Shinhan, TP, VP:** không ghi rõ tên giao dịch với cửa hàng nào khi quẹt VNPAY
 - TP: chuyển 3 lần cùng lúc là bắt chờ
 - **Vietin:** không cho thay đổi thiết bị giao dịch iPay vào khung giờ 23h-6h 
+- seabank: không mở trên đt dùng devmode
