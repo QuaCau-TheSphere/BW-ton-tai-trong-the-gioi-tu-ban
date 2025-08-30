@@ -2,7 +2,8 @@
 share: true
 created: 2025-03-27T17:13
 updated: 2025-08-17T08:59
-alias: nơi ở miễn phí
+aliases:
+  - nơi ở miễn phí
 ---
 Khái niệm:: 
 ## Quản lý ký túc xá, khu nhà trọ
