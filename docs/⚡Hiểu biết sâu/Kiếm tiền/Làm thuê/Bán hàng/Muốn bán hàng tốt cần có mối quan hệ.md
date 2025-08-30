@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-22T01:37
-updated: 2025-08-16T22:04
+updated: 2025-08-30T08:17
 ---
 Khái niệm:: [Bán hàng](../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/B%C3%A1n%20h%C3%A0ng.md)
 
