@@ -2,8 +2,9 @@
 share: true
 created: 2024-12-22T09:57
 description: Một sổ tiết kiệm không làm chôn tiền cho những việc khác. Không bị tính vào thuế thu nhập doanh nghiệp khi mua cho nhân viên
-alias: Thịnh An Phát
-updated: 2025-07-09T17:32
+aliases:
+  - Thịnh An Phát
+updated: 2025-08-31T17:05
 ---
 ## Mô tả sản phẩm
 Thịnh An Phát của Cathay là sản phẩm bảo hiểm nhân thọ **hỗn hợp ngắn hạn đóng phí một lần**. Nó:
@@ -86,7 +87,7 @@ Tất cả giấy tờ cuối cùng cũng đã xong, nhưng đó là bởi vì N
 #### Tại sao lại có hai mức 3 năm và 5 năm? 
 Vì 5 gần với 6. Thay vì bạn mua gói 5 năm, thì tuy tiền lãi có nhiều hơn một tí, nhưng bạn không quay thêm vòng vốn được. Còn nếu bạn mua hai lần 3 năm, thì bạn được nhận hai lần lãi và khuyến mãi, trong khi thời gian cũng tương đương 5 năm. Cathay muốn bạn thấy rằng việc tái tục là có lợi hơn. Mức 3 năm không chỉ dành cho những ai muốn lấy tiền nhanh, mà còn dành cho những ai muốn lấy tiền nhiều.
 
-Xem thêm:: [Tại sao nên mua bảo hiểm từ Quả Cầu?](../../../Qu%C3%A0%20t%E1%BA%B7ng/B%E1%BA%A3o%20hi%E1%BB%83m/index.md)
+Xem thêm:: [Tại sao nên mua bảo hiểm từ Quả Cầu?](../../../../%F0%9F%93%90D%E1%BB%B1%20%C3%A1n/Gi%C3%BAp%20nhau%20ki%E1%BA%BFm%20ti%E1%BB%81n/Ch%E1%BA%A1y%20ch%E1%BB%89%20ti%C3%AAu%20cho%20nh%C3%A2n%20vi%C3%AAn%20c%C3%B4ng%20ty/L%C3%A0m%20th%E1%BA%ADt/B%E1%BA%A3o%20hi%E1%BB%83m/Ki%E1%BA%BFm%20kh%C3%A1ch/T%E1%BA%A1i%20sao%20n%C3%AAn%20mua%20b%E1%BA%A3o%20hi%E1%BB%83m%20t%E1%BB%AB%20Qu%E1%BA%A3%20C%E1%BA%A7u.md)
 
 ![A16_01_Quy tac va Dieu khoan.pdf](../../../../assets/attachments/A16_01_Quy%20tac%20va%20Dieu%20khoan.pdf)
 ![A16_02_Bieu phi.pdf](../../../../assets/attachments/A16_02_Bieu%20phi.pdf)
