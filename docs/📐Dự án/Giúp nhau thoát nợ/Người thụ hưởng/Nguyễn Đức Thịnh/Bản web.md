@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-08-30T20:45
+updated: 2025-08-30T21:28
 title: Đề xuất vay nợ của Nguyễn Đức Thịnh
 ---
 ## Thông tin chính
@@ -59,6 +59,7 @@ Xếp theo thời hạn trả
 | -------- | ------- | ------------ | --- | ---------------------------------------------------------------------------------------------------- | -------- |
 | Ân       | 320k    | 1/7          | 0   | Sinh hoạt                                                                                            |          |
 | Ba mẹ Ân | 12tr    | 1/2028       | 0   | Tiền cọc chuyển nhà (3tr), Tiền nhà tháng đầu (3tr5), Tiền nợ Momo (4tr), sinh hoạt (tháng 1,2/2025) |          |
+| Ba       | 4tr     | 1/7          | 0   | Sinh hoạt (20/4-30/5)                                                                                |          |
 
 | Khoản nợ             | Số tiền  | Ngày trả định kỳ mỗi tháng | Lý do                                                                                     |
 | -------------------- | ----------------- | -------------------------- | ----------------------------------------------------------------------------------------- |
@@ -136,13 +137,15 @@ Sẽ cân nhắc
 
 
 ---
-Nhật chép lại từ lời Thịnh
+Nhật tổng hợp lại từ lời Thịnh
 
 ### Nhật biết Thịnh như thế nào? 
 Thịnh là một trong những người đầu tiên tham gia Quả Cầu, và sau đó nhanh chóng trở thành đồng sáng lập.
 
 Thịnh đã viết những bài sau về Quả Cầu:
-- 
+- [Vấn đề Quả Cầu](https://doi-thoai.deno.dev/van-de-qua-cau.6b.1)
+- [Truyện Ngụ Ngôn về Người Nhật – Phần Một (chưa chắc có Phần Hai)](https://doi-thoai.deno.dev/truyen-ngu-ngon-ve-nguoi-nhat.6b.1)
+- [Truyện ngụ ngôn về những người mong đợi](https://doi-thoai.deno.dev/truyen-ngu-ngon-ve-nhung-nguoi-mong-doi.6b.1)
 
 ### Nhật có thể trả nợ giúp Thịnh khi Thịnh mất khả năng trả không? Nếu có thì là bao nhiêu và lúc nào? 
 Nhật chưa thấy điểm tín dụng có gì quá giá trị với mình, nên sẵn sàng vay tiếp cho mọi người rồi [Xù nợ ngân hàng](../../T%C3%A0i%20li%E1%BB%87u/X%C3%B9%20n%E1%BB%A3%20ng%C3%A2n%20h%C3%A0ng.md). Xem thêm:: [Các khoản tài sản và khoản nợ Nhật đứng tên (phiên bản cho bạn bè)](../L%C3%BD%20Minh%20Nh%E1%BA%ADt/C%C3%A1c%20kho%E1%BA%A3n%20t%C3%A0i%20s%E1%BA%A3n%20v%C3%A0%20kho%E1%BA%A3n%20n%E1%BB%A3%20Nh%E1%BA%ADt%20%C4%91%E1%BB%A9ng%20t%C3%AAn%20(phi%C3%AAn%20b%E1%BA%A3n%20cho%20b%E1%BA%A1n%20b%C3%A8).md)
