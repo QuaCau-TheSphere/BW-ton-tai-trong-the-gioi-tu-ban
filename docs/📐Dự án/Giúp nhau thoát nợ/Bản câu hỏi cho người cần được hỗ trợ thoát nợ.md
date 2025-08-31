@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2025-08-17T09:09
+updated: 2025-08-31T16:56
 ---
 - Theo bạn đâu là cách để giúp bạn bền vững?
 - Bạn nghĩ mình cần làm những gì để kiếm được một người có tiền và để họ đồng ý cho bạn vay? 
@@ -20,7 +20,7 @@ updated: 2025-08-17T09:09
 | Khoản chi | Số tiền | Ngày chi | 
 | --------- | ------- | -------- |
 |           |         |          |
-- Bạn đánh giá mình thuộc loại nghèo nào? Xem chi tiết ở bài [Việt Nam không ai chết đói, chỉ có nghèo đa chiều](../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Ph%C3%A1t%20tri%E1%BB%83n%20b%E1%BB%81n%20v%E1%BB%AFng/H%E1%BB%97%20tr%E1%BB%A3%20ng%C6%B0%E1%BB%9Di%20y%E1%BA%BFu%20th%E1%BA%BF/Ng%C6%B0%E1%BB%9Di%20ngh%C3%A8o/Vi%E1%BB%87t%20Nam%20kh%C3%B4ng%20ai%20ch%E1%BA%BFt%20%C4%91%C3%B3i,%20ch%E1%BB%89%20c%C3%B3%20ngh%C3%A8o%20%C4%91a%20chi%E1%BB%81u.md)
+- Bạn đánh giá mình thuộc loại nghèo nào? Xem chi tiết ở bài [Việt Nam không ai chết đói, chỉ có nghèo đa chiều](../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Ph%C3%A1t%20tri%E1%BB%83n%20b%E1%BB%81n%20v%E1%BB%AFng/Ng%C6%B0%E1%BB%9Di%20ngh%C3%A8o/Vi%E1%BB%87t%20Nam%20kh%C3%B4ng%20ai%20ch%E1%BA%BFt%20%C4%91%C3%B3i,%20ch%E1%BB%89%20c%C3%B3%20ngh%C3%A8o%20%C4%91a%20chi%E1%BB%81u.md)
 - Bạn có những đề xuất vay nào?
 
 | STT | Số tiền | Ngày trả | Lãi |
@@ -32,7 +32,7 @@ updated: 2025-08-17T09:09
 
 ## Các cách xoay sở bạn đã áp dụng
 - Bạn đã thử tham gia vào [các ý tưởng kiếm tiền](../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/%C3%9D%20t%C6%B0%E1%BB%9Fng%20ki%E1%BA%BFm%20ti%E1%BB%81n/%C3%9D%20t%C6%B0%E1%BB%9Fng/index.md) nào? Độ hiệu quả của chúng thế nào?
-- Bạn nghĩ gì về [các ý tưởng tiết kiệm](../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/S%E1%BB%91ng%20v%E1%BB%ABa%20%C4%91%E1%BB%A7,%20b%E1%BB%81n%20v%E1%BB%AFng/%C3%9D%20t%C6%B0%E1%BB%9Fng%20ti%E1%BA%BFt%20ki%E1%BB%87m.md) này?
+- Bạn nghĩ gì về [các ý tưởng tiết kiệm](../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/S%E1%BB%91ng%20v%E1%BB%ABa%20%C4%91%E1%BB%A7,%20b%E1%BB%81n%20v%E1%BB%AFng,%20ti%E1%BA%BFt%20ki%E1%BB%87m/index.md) này?
 - Bạn đã dùng tới [Các dịch vụ cho vay tín chấp](../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Ch%E1%BB%8Dn%20s%E1%BA%A3n%20ph%E1%BA%A9m%20ph%C3%B9%20h%E1%BB%A3p/C%C3%A1c%20d%E1%BB%8Bch%20v%E1%BB%A5%20cho%20vay%20t%C3%ADn%20ch%E1%BA%A5p/index.md) nào? Vì sao chúng không phù hợp với bạn?
 - Bạn có chấp nhận [xù nợ ngân hàng](./T%C3%A0i%20li%E1%BB%87u/X%C3%B9%20n%E1%BB%A3%20ng%C3%A2n%20h%C3%A0ng.md), [xù nợ vay nóng](./T%C3%A0i%20li%E1%BB%87u/X%C3%B9%20n%E1%BB%A3%20vay%20n%C3%B3ng.md) không? Vì sao?
 	- Vì sao bạn không thể chấp nhận mất cic?
