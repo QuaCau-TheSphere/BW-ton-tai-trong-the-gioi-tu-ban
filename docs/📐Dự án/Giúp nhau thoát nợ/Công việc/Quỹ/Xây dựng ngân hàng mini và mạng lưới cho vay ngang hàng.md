@@ -4,7 +4,7 @@ created: 2025-04-20T16:47
 aliases:
   - Xây dựng quỹ tín dụng vi mô
   - Mạng lưới cho vay chéo
-updated: 2025-08-24T17:12
+updated: 2025-08-31T12:44
 ---
 ## Ý tưởng
 Khi một người cần vay thì sẽ có 2 nguồn để vay:
@@ -59,7 +59,7 @@ Tốt nhất chỉ huy động từ những người không yêu cầu thời h�
 - Hỗ trợ người cần vay [tạo hồ sơ bản thân](../../B%E1%BA%A3n%20c%C3%A2u%20h%E1%BB%8Fi%20cho%20ng%C6%B0%E1%BB%9Di%20c%E1%BA%A7n%20%C4%91%C6%B0%E1%BB%A3c%20h%E1%BB%97%20tr%E1%BB%A3%20tho%C3%A1t%20n%E1%BB%A3.md) để tăng sự minh bạch, giải trình. Hướng đến sự tự trị dữ liệu để người cần vay có thể chủ động xây dựng quỹ tín dụng của họ với các mối quan hệ của mình
 - Đại diện giải đáp thắc mắc giữa các bên để giảm sự nhức đầu 
 - Hỗ trợ [thương lượng với chủ nợ](../Th%C6%B0%C6%A1ng%20l%C6%B0%E1%BB%A3ng%20v%E1%BB%9Bi%20ch%E1%BB%A7%20n%E1%BB%A3.md) để giảm lãi
-- Xây dựng [hệ thống quản lý chi tiêu](../../../T%E1%BB%B1%20%C4%91%E1%BB%99ng%20ho%C3%A1/h%E1%BB%87%20th%E1%BB%91ng%20qu%E1%BA%A3n%20l%C3%BD%20chi%20ti%C3%AAu.md) một cách trực quan 
+- Xây dựng [Hệ thống quản lý chi tiêu](../../../T%E1%BB%B1%20%C4%91%E1%BB%99ng%20ho%C3%A1/H%E1%BB%87%20th%E1%BB%91ng%20qu%E1%BA%A3n%20l%C3%BD%20chi%20ti%C3%AAu.md) một cách trực quan 
 - [Hỗ trợ nâng hạn mức, điểm tín dụng](../../../M%E1%BA%A1ng%20k%E1%BA%BFt%20n%E1%BB%91i%20nhu%20c%E1%BA%A7u/C%C3%A1c%20c%C3%A1ch%20th%E1%BB%A9c%20n%C3%A2ng%20h%E1%BA%A1n%20m%E1%BB%A9c%20th%E1%BA%BB%20t%C3%ADn%20d%E1%BB%A5ng.md)
 - Hỗ trợ [tạo sinh kế, thu nhập, dòng tiền](../../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/%C3%9D%20t%C6%B0%E1%BB%9Fng%20ki%E1%BA%BFm%20ti%E1%BB%81n/%C3%9D%20t%C6%B0%E1%BB%9Fng/index.md) và [mở rộng mối quan hệ](../../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/M%E1%BB%9F%20r%E1%BB%99ng%20m%E1%BB%91i%20quan%20h%E1%BB%87/index.md)
 - [Đứng ra vay giùm, cho mượn tài sản thế chấp](../%C4%90%E1%BB%A9ng%20ra%20vay%20gi%C3%B9m,%20cho%20m%C6%B0%E1%BB%A3n%20t%C3%A0i%20s%E1%BA%A3n%20th%E1%BA%BF%20ch%E1%BA%A5p.md). Nếu người vay xù thì quỹ vẫn phải trả cho người cho vay. Hình thức này không khác gì một ngân hàng
