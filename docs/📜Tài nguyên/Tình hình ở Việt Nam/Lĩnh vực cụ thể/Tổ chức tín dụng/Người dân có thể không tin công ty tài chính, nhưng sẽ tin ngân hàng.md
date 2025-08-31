@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-08-22T21:55
+updated: 2025-08-31T11:40
 ---
 Khái niệm:: 
 Lý do:: [Dễ đánh đồng công ty tài chính do ngân hàng lập ra với app đen](./D%E1%BB%85%20%C4%91%C3%A1nh%20%C4%91%E1%BB%93ng%20c%C3%B4ng%20ty%20t%C3%A0i%20ch%C3%ADnh%20do%20ng%C3%A2n%20h%C3%A0ng%20l%E1%BA%ADp%20ra%20v%E1%BB%9Bi%20app%20%C4%91en.md)
