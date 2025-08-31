@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-10-30T14:21
-updated: 2025-07-09T17:32
+updated: 2025-08-31T17:05
 ---
 ## [Câu hỏi thu thập ý kiến về việc tổ chức các buổi workshop đáp ứng nhu cầu các tổ chức và hỗ trợ kiếm khách hàng tiềm năng cho người bán hàng](../M%E1%BA%A1ng%20k%E1%BA%BFt%20n%E1%BB%91i%20nhu%20c%E1%BA%A7u/C%C3%A2u%20h%E1%BB%8Fi%20thu%20th%E1%BA%ADp%20%C3%BD%20ki%E1%BA%BFn%20v%E1%BB%81%20vi%E1%BB%87c%20t%E1%BB%95%20ch%E1%BB%A9c%20c%C3%A1c%20bu%E1%BB%95i%20workshop%20%C4%91%C3%A1p%20%E1%BB%A9ng%20nhu%20c%E1%BA%A7u%20c%C3%A1c%20t%E1%BB%95%20ch%E1%BB%A9c%20v%C3%A0%20h%E1%BB%97%20tr%E1%BB%A3%20ki%E1%BA%BFm%20kh%C3%A1ch%20h%C3%A0ng%20ti%E1%BB%81m%20n%C4%83ng%20cho%20ng%C6%B0%E1%BB%9Di%20b%C3%A1n%20h%C3%A0ng.md)
 ### SNPO
@@ -26,7 +26,7 @@ từ chối
 ### Profile Quả Cầu
 [02-10-2024](02-10-2024.md) 13:28 https://www.facebook.com/qua.cau.the.sphere/posts/pfbid02XcePPBN8BptmhzMditmCKUtWpz6xzLNtJoQhqhaN8r91uZxaGC1gLm9Ca7s6px7Nl
 
-## [Tại sao nên mua bảo hiểm từ Quả Cầu?](../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Qu%C3%A0%20t%E1%BA%B7ng/B%E1%BA%A3o%20hi%E1%BB%83m/index.md)
+## [Tại sao nên mua bảo hiểm từ Quả Cầu?](../Gi%C3%BAp%20nhau%20ki%E1%BA%BFm%20ti%E1%BB%81n/Ch%E1%BA%A1y%20ch%E1%BB%89%20ti%C3%AAu%20cho%20nh%C3%A2n%20vi%C3%AAn%20c%C3%B4ng%20ty/L%C3%A0m%20th%E1%BA%ADt/B%E1%BA%A3o%20hi%E1%BB%83m/Ki%E1%BA%BFm%20kh%C3%A1ch/T%E1%BA%A1i%20sao%20n%C3%AAn%20mua%20b%E1%BA%A3o%20hi%E1%BB%83m%20t%E1%BB%AB%20Qu%E1%BA%A3%20C%E1%BA%A7u.md)
 ### Page Quả Cầu
 [10-10-2024](10-10-2024.md) https://www.facebook.com/share/p/SiFLni6x3sxLTntJ/
 Thịnh từ bỏ quyền quản trị page
