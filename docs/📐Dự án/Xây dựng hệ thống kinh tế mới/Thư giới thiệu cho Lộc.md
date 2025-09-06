@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-09-06T17:13
+updated: 2025-09-06T19:57
 ---
 Chúng ta ở đây với nhau, nghĩa là đều có mong muốn xây dựng một hợp tác xã. 
 
@@ -53,3 +53,4 @@ Khi đăng bài vào trong nhóm nạn nhân GM, không thấy phản ứng gì 
 
 Đang đau khổ bởi nó, nhưng chưa ngờ vực nó. Đưa thông tin đến cho họ thế nào mà không làm họ nhức đầu và trách rằng 
 
+lập luận thì không phụ thuộc vào người phát ngôn. Nó hợp lý thì ai nói ra cũng đều hợp lý
