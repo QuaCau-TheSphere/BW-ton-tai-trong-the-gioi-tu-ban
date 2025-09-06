@@ -1,9 +1,10 @@
 ---
 share: true
 created: 2025-05-15T13:59
-updated: 2025-08-17T15:15
+updated: 2025-09-06T16:38
 title: Nhóm chạy chỉ tiêu cho nhân viên VNPAY
-alias: Công việc trong VNPAY
+aliases:
+  - Công việc trong VNPAY
 ---
 Tính chất công việc:: [Làm qua mạng](../../../../%C4%90%E1%BA%B7c%20%C4%91i%E1%BB%83m%20c%C3%B4ng%20vi%E1%BB%87c/N%C6%A1i%20l%C3%A0m%20vi%E1%BB%87c/L%C3%A0m%20qua%20m%E1%BA%A1ng.md), [Cần khả năng ứng biến](../../../../%C4%90%E1%BA%B7c%20%C4%91i%E1%BB%83m%20c%C3%B4ng%20vi%E1%BB%87c/Ki%E1%BA%BFn%20th%E1%BB%A9c,%20k%E1%BB%B9%20n%C4%83ng/C%E1%BA%A7n%20kh%E1%BA%A3%20n%C4%83ng%20%E1%BB%A9ng%20bi%E1%BA%BFn.md)
 Hình thức:: [Công việc thời vụ, cộng tác viên](../../index.md)
