@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2025-07-09T17:32
+updated: 2025-09-06T19:59
 ---
 # Điều nhà đầu tư quan tâm
 ## Trấn Kỳ là gì
@@ -101,7 +101,7 @@ Hiện tại nhóm có 1 người làm toàn thời gian ở tất cả các v�
 # Điều muốn nhà đầu tư quan tâm
 ## Trấn Kỳ được sinh ra là để giúp Kendy
 Giúp đỡ Kendy là điều kiện tiên quyết để nhóm xem xét đề nghị đầu tư của bạn. Bạn không cần phải quan tâm đến Kendy, chỉ cần nhóm thấy được đề nghị đầu tư của bạn có lợi nhất cho Kendy thì nhóm sẽ đồng ý.
-[Lý do viết Trấn Kỳ](../../9%20Blog/L%C3%BD%20do%20vi%E1%BA%BFt%20Tr%E1%BA%A5n%20K%E1%BB%B3.md), [Kế hoạch giúp đỡ người đang kiệt quệ vì nợ](K%E1%BA%BF%20ho%E1%BA%A1ch%20gi%C3%BAp%20%C4%91%E1%BB%A1%20ng%C6%B0%E1%BB%9Di%20%C4%91ang%20ki%E1%BB%87t%20qu%E1%BB%87%20v%C3%AC%20n%E1%BB%A3.md)
+[Lý do viết Trấn Kỳ](../../9%20Blog/L%C3%BD%20do%20vi%E1%BA%BFt%20Tr%E1%BA%A5n%20K%E1%BB%B3.md), [Giúp nhau thoát nợ](../../../../../Gi%C3%BAp%20nhau%20tho%C3%A1t%20n%E1%BB%A3/index.md)
 
 ## [Người dùng hài lòng với chất lượng sản phẩm, không phải tốc độ làm ra nó](Ng%C6%B0%E1%BB%9Di%20d%C3%B9ng%20h%C3%A0i%20l%C3%B2ng%20v%E1%BB%9Bi%20ch%E1%BA%A5t%20l%C6%B0%E1%BB%A3ng%20s%E1%BA%A3n%20ph%E1%BA%A9m,%20kh%C3%B4ng%20ph%E1%BA%A3i%20t%E1%BB%91c%20%C4%91%E1%BB%99%20l%C3%A0m%20ra%20n%C3%B3.md) 
 - [Đa số startup không chết vì cạnh tranh với đối thủ, mà vì không có người dùng sản phẩm của mình](%C4%90a%20s%E1%BB%91%20startup%20kh%C3%B4ng%20ch%E1%BA%BFt%20v%C3%AC%20c%E1%BA%A1nh%20tranh%20v%E1%BB%9Bi%20%C4%91%E1%BB%91i%20th%E1%BB%A7,%20m%C3%A0%20v%C3%AC%20kh%C3%B4ng%20c%C3%B3%20ng%C6%B0%E1%BB%9Di%20d%C3%B9ng%20s%E1%BA%A3n%20ph%E1%BA%A9m%20c%E1%BB%A7a%20m%C3%ACnh.md)
@@ -111,7 +111,7 @@ Giúp đỡ Kendy là điều kiện tiên quyết để nhóm xem xét đề ng
 - [Áp lực giết chết sự sáng tạo](../../../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/T%C3%A2m%20l%C3%BD%20h%E1%BB%8Dc%20qu%E1%BA%A3n%20l%C3%BD%20v%C3%A0%20lao%20%C4%91%E1%BB%99ng/%C3%81p%20l%E1%BB%B1c%20gi%E1%BA%BFt%20ch%E1%BA%BFt%20s%E1%BB%B1%20s%C3%A1ng%20t%E1%BA%A1o.md)
 - [When someone's taking time to do something right in the present, they're a perfectionist with no ability to prioritize, whereas when someone took time to do something right in the past, they're a master artisan of great foresight](../../../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/T%C3%A2m%20l%C3%BD%20h%E1%BB%8Dc%20qu%E1%BA%A3n%20l%C3%BD%20v%C3%A0%20lao%20%C4%91%E1%BB%99ng/S%E1%BA%AFp%20x%E1%BA%BFp%20%C4%91%E1%BB%99%20%C6%B0u%20ti%C3%AAn/When%20someone's%20taking%20time%20to%20do%20something%20right%20in%20the%20present,%20they're%20a%20perfectionist%20with%20no%20ability%20to%20prioritize,%20whereas%20when%20someone%20took%20time%20to%20do%20something%20right%20in%20the%20past,%20they're%20a%20master%20artisan%20of%20great%20foresight.md)
 - [Nếu bạn nghĩ rằng bạn có thể hoàn thành đúng kế hoạch, có thể bạn đang ngộ nhận](N%E1%BA%BFu%20b%E1%BA%A1n%20ngh%C4%A9%20r%E1%BA%B1ng%20b%E1%BA%A1n%20c%C3%B3%20th%E1%BB%83%20ho%C3%A0n%20th%C3%A0nh%20%C4%91%C3%BAng%20k%E1%BA%BF%20ho%E1%BA%A1ch,%20c%C3%B3%20th%E1%BB%83%20b%E1%BA%A1n%20%C4%91ang%20ng%E1%BB%99%20nh%E1%BA%ADn.md)
-- [Việc mất tiền làm tâm lý con người bị đau dù có thể nó vô lý](../../../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Kinh%20t%E1%BA%BF/Kinh%20t%E1%BA%BF%20h%C3%A0ng%20ho%C3%A1.%20Ti%E1%BB%81n%20t%E1%BB%87/Kinh%20t%E1%BA%BF%20h%E1%BB%8Dc%20t%C3%A2m%20l%C3%BD/Vi%E1%BB%87c%20m%E1%BA%A5t%20ti%E1%BB%81n%20l%C3%A0m%20t%C3%A2m%20l%C3%BD%20con%20ng%C6%B0%E1%BB%9Di%20b%E1%BB%8B%20%C4%91au%20d%C3%B9%20c%C3%B3%20th%E1%BB%83%20n%C3%B3%20v%C3%B4%20l%C3%BD.md)
+- [Việc mất tiền làm tâm lý con người bị đau dù có thể nó vô lý](../../../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/N%E1%BB%81n%20kinh%20t%E1%BA%BF%20h%C3%A0ng%20ho%C3%A1/Kinh%20t%E1%BA%BF%20h%E1%BB%8Dc%20t%C3%A2m%20l%C3%BD/Vi%E1%BB%87c%20m%E1%BA%A5t%20ti%E1%BB%81n%20l%C3%A0m%20t%C3%A2m%20l%C3%BD%20con%20ng%C6%B0%E1%BB%9Di%20b%E1%BB%8B%20%C4%91au%20d%C3%B9%20c%C3%B3%20th%E1%BB%83%20n%C3%B3%20v%C3%B4%20l%C3%BD.md)
 - [Nỗi ám ảnh với sự hiệu quả có thể đến từ nỗi sợ chết](../../../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/T%C3%A2m%20l%C3%BD%20h%E1%BB%8Dc%20qu%E1%BA%A3n%20l%C3%BD%20v%C3%A0%20lao%20%C4%91%E1%BB%99ng/T%E1%BB%91i%20%C6%B0u%20ho%C3%A1/N%E1%BB%97i%20%C3%A1m%20%E1%BA%A3nh%20v%E1%BB%9Bi%20s%E1%BB%B1%20hi%E1%BB%87u%20qu%E1%BA%A3%20c%C3%B3%20th%E1%BB%83%20%C4%91%E1%BA%BFn%20t%E1%BB%AB%20n%E1%BB%97i%20s%E1%BB%A3%20ch%E1%BA%BFt.md)
 - [Việc thuê ngoài chỉ giải quyết được một lần, trong khi phải thử rất nhiều lần](Vi%E1%BB%87c%20thu%C3%AA%20ngo%C3%A0i%20ch%E1%BB%89%20gi%E1%BA%A3i%20quy%E1%BA%BFt%20%C4%91%C6%B0%E1%BB%A3c%20m%E1%BB%99t%20l%E1%BA%A7n,%20trong%20khi%20ph%E1%BA%A3i%20th%E1%BB%AD%20r%E1%BA%A5t%20nhi%E1%BB%81u%20l%E1%BA%A7n.md)
 ## Sức khoẻ cũng là một loại tài nguyên cần được tối ưu hoá
