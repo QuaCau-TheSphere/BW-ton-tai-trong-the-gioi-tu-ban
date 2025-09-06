@@ -1,0 +1,9 @@
+---
+share: true
+created: 2025-03-27T17:13
+updated: 2025-07-09T17:32
+---
+Khái niệm:: 
+Vị trí giai cấp cũng ảnh hưởng theo một cách ít ai để ý đến**.** Lựa chọn của các chính trị gia không chỉ bị ảnh hưởng bởi nơi họ xuất thân mà còn bởi nơi họ muốn đến sau khi rời chính trường. Một bộ phận lớn các nhà lập pháp sử dụng thời gian tại vị để chuẩn bị bước vào thế giới doanh nghiệp sau khi rời khỏi chính trị. Họ làm cố vấn, vận động hành lang, người trung gian, hoặc tự thành lập doanh nghiệp. [Những mối quan hệ và kiến thức nội bộ trong thời gian làm việc tại chính phủ là vô giá đối với các công ty muốn tiếp cận những người làm chính sách](./Nh%E1%BB%AFng%20m%E1%BB%91i%20quan%20h%E1%BB%87%20v%C3%A0%20ki%E1%BA%BFn%20th%E1%BB%A9c%20n%E1%BB%99i%20b%E1%BB%99%20trong%20th%E1%BB%9Di%20gian%20l%C3%A0m%20vi%E1%BB%87c%20t%E1%BA%A1i%20ch%C3%ADnh%20ph%E1%BB%A7%20l%C3%A0%20v%C3%B4%20gi%C3%A1%20%C4%91%E1%BB%91i%20v%E1%BB%9Bi%20c%C3%A1c%20c%C3%B4ng%20ty%20mu%E1%BB%91n%20ti%E1%BA%BFp%20c%E1%BA%ADn%20nh%E1%BB%AFng%20ng%C6%B0%E1%BB%9Di%20l%C3%A0m%20ch%C3%ADnh%20s%C3%A1ch.md). Vì vậy, một nhiệm kỳ ngắn trong Quốc hội hoặc Nghị viện có thể mang lại lợi ích tài chính khổng lồ về sau. Đường dây kết nối giữa sự nghiệp trong chính phủ và công việc vận động hành lang hấp dẫn đến mức nó có hẳn một tên gọi riêng—“cánh cửa xoay”. Và tại sao điều này lại quan trọng? Bởi nếu một nhà lập pháp có ý định gia nhập giới doanh nghiệp sau khi kết thúc sự nghiệp chính trị, họ sẽ cố gắng dành thời gian tại nhiệm để xây dựng quan hệ với những người có thể là nhà tuyển dụng hoặc đối tác tương lai, và thể hiện rằng mình là người đáng tin cậy—rằng họ có thể được trông cậy làm điều “đúng đắn”. Điều này chỉ làm củng cố thêm xu hướng thiên lệch trong chính sách của họ theo hướng có lợi cho giới tư bản.
+
+Nguồn:: [ABC VỀ CHỦ NGHĨA TƯ BẢN – PHẦN 2: Tư bản và nhà nước – VNYoungMarxist](https://vnmarxist.com/post-2142.html)
