@@ -1,7 +1,9 @@
 ---
 share: true
 created: 2024-09-27T13:00
-updated: 2025-08-23T23:47
+updated: 2025-09-06T16:52
+aliases:
+  - Lời mời tham gia nhóm giúp nhau kiếm tiền
 title: Giúp nhau kiếm tiền
 ---
 # Lời mời tham gia nhóm giúp nhau kiếm tiền
