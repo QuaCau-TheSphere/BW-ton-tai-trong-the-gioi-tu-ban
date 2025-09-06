@@ -2,9 +2,9 @@
 share: true
 created: 2025-03-27T17:13
 title: Khi nào thì việc giúp một người sẽ có lợi cho mục tiêu xây dựng các nền kinh tế thay thế?
-updated: 2025-08-26T19:17
+updated: 2025-09-04T19:52
 ---
-Trên quan điểm chống tư bản, phát triển cộng đồng thì thứ cần tập trung là xây dựng [các nền kinh tế thay thế](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Kinh%20t%E1%BA%BF/C%C3%A1c%20n%E1%BB%81n%20kinh%20t%E1%BA%BF%20thay%20th%E1%BA%BF/index.md). Việc giúp đỡ một vài cá thể thì chỉ là từ thiện và làm xao nhãng mục tiêu lâu dài hơn. Nên nếu ta giúp họ thì phải có thêm những lý do mạnh hơn, hoặc ít nhất là đủ mới để có thể chấp nhận việc xao nhãng để thử nghiệm. Thế nên, câu hỏi không phải là:
+Trên quan điểm chống tư bản, phát triển cộng đồng thì thứ cần tập trung là xây dựng [Các nền kinh tế thay thế](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Ph%C3%A1t%20tri%E1%BB%83n%20b%E1%BB%81n%20v%E1%BB%AFng.%20C%C3%A1c%20n%E1%BB%81n%20kinh%20t%E1%BA%BF%20thay%20th%E1%BA%BF/C%C3%A1c%20n%E1%BB%81n%20kinh%20t%E1%BA%BF%20thay%20th%E1%BA%BF/index.md). Việc giúp đỡ một vài cá thể thì chỉ là từ thiện và làm xao nhãng mục tiêu lâu dài hơn. Nên nếu ta giúp họ thì phải có thêm những lý do mạnh hơn, hoặc ít nhất là đủ mới để có thể chấp nhận việc xao nhãng để thử nghiệm. Thế nên, câu hỏi không phải là:
 > Tại sao nên giúp người này? 
 
 Mà là:
@@ -27,6 +27,22 @@ Một ví dụ là việc xây dựng hệ thống kết nối nhu cầu. Nó c�
 Chừng nào chúng ta còn thừa nhận là chưa thể độc lập với thiết chế tư bản, chừng đó vẫn phải thừa nhận là có mối quan hệ với những người như vậy là cần thiết. 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/F9II4ubS-uk?si=fWpWyUCUegPvJ8p9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+#### Khi có thể được dùng để kiểm tra tính ưu việt của hệ thống
+Việc giúp này không giúp được gì cho hệ thống mới, mà giúp việc gia nhập với người mới. Việc đối thoại
+
+Nhật nhận thấy các diễn ngôn tân tự do cũng có xuất hiện ở mình. (Nhật cũng tự thấy mình vẫn còn lơ mơ về nó). Ở vị trí bị áp bức mà đã tiếp thu chúng như vậy, liệu rằng khi đã càng dấn sâu hơn vào hệ thống thì sẽ như thế nào? 
+
+[Việc có được dòng tiền là cánh cửa để đạt được ước mơ thay đổi cuộc sống](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Ni%E1%BB%81m%20tin,%20di%E1%BB%85n%20ng%C3%B4n/Ti%E1%BB%81n/N%E1%BB%A3/Vi%E1%BB%87c%20c%C3%B3%20%C4%91%C6%B0%E1%BB%A3c%20d%C3%B2ng%20ti%E1%BB%81n%20l%C3%A0%20c%C3%A1nh%20c%E1%BB%ADa%20%C4%91%E1%BB%83%20%C4%91%E1%BA%A1t%20%C4%91%C6%B0%E1%BB%A3c%20%C6%B0%E1%BB%9Bc%20m%C6%A1%20thay%20%C4%91%E1%BB%95i%20cu%E1%BB%99c%20s%E1%BB%91ng.md). Người đang quay cuồng vì tiền thì sẽ tiếp nhận ý tưởng về các nền kinh tế thay thế như thế nào? Nó sẽ trả tiền điện, nước cho gia đình thế nào? Ngăn mấy đứa đòi nợ đến nhà làm phiền ra sao? Chữa trị bệnh ung thư của cha mẹ thế nào? Đem đến cho con mình một nền giáo dục tử tế như thế nào? Hay rốt cuộc nó vẫn là dành cho những nhóm may mắn hơn?
+
+mình có nhiều ý tưởng kiếm tiền, và cần thuê người làm. Có vẻ việc nào mình cũng đều trả công cao hơn thị trường một chút, nên đúng là giúp mình còn giúp được nhiều người khác thật. Nhưng dưới con mắt mác xít thì liệu như vậy là đã ổn không? Nhật đã thử vài lần đề cập việc trả bằng cổ phần chứ không phải là lương thì mình đều có ý né tránh. Đồng ý là khi còn nghèo thì mình thông cảm được, nhưng giả sử như đã thoát nghèo rồi thì có nên tiếp tục kỳ vọng mình trả bằng cổ phần hay không? Hay là tặc lưỡi bảo tư bản thân tả là tốt rồi?
+
+Các mô hình kinh tế thay thế hiện nay mà tôi biết (do VCIL giới thiệu) đều vẫn bảo tồn sự sở hữu tự liệu sản xuất, phương tiện sản xuất. Hay là nếu có được mô hình nhà nước phúc lợi thì cũng là đã tốt rồi? Khi nào tới được đó rồi hãy kỳ vọng tiếp? 
+
+Một người ở trong thiết chế tư bản thì sẽ chân trong chân ngòai thế nào?
+Khi đăng bài vào trong nhóm nạn nhân GM, không thấy phản ứng gì nhiều.
+
+Đang đau khổ bởi nó, nhưng chưa ngờ vực nó. Đưa thông tin đến cho họ thế nào mà không làm họ nhức đầu và trách rằng 
 
 ### Khi nào thì việc giúp một người quan trọng hơn mục tiêu xây dựng các nền kinh tế thay thế? 
 - Khi bạn thấy việc giữ cho họ còn niềm hy vọng đổi đời quan trọng hơn. Nó gần gần với ý hành trình quan trọng hơn điểm đến. 
