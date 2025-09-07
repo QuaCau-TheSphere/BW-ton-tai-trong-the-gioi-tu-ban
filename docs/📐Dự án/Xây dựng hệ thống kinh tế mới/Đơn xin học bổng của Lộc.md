@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-09-06T20:48
+updated: 2025-09-07T08:37
 ---
 
 ## Miêu tả ngắn gọn về bản thân (ví dụ: sở thích, đam mê, nguyện vọng, ước mơ, định hướng...)  *
@@ -36,11 +36,9 @@ Những hoạt động này là cơ sở để Nhật làm những hoạt độn
 Các cuốn sách về tài chính đều nói là [Muốn thoát nghèo cần dòng tiền](../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Ki%E1%BA%BFm%20ti%E1%BB%81n/T%E1%BB%B1%20%C4%91%E1%BA%A7u%20t%C6%B0/Mu%E1%BB%91n%20tho%C3%A1t%20ngh%C3%A8o%20c%E1%BA%A7n%20d%C3%B2ng%20ti%E1%BB%81n.md). Chương trình này nói rằng còn nhiều cách để thoát nghèo hơn là dòng tiền. Mình muốn tận mắt xem liệu sự thoát nghèo mà chương trình nói đến là cái phù hợp với mình không, và liệu một người như mình có thể thực sự không cần cố gắng có được dòng tiền mà vẫn có được nó hay không?
 
 ## Tại sao bạn lại đề xuất mức nhận học bổng như vậy?
-Vì mình giúp chương trình có được những góc nhìn từ một người đang mong muốn thoát nghèo, chứ không phải chỉ là người đã có nền tảng sẵn.
+Vì mình có góc nhìn từ một người đang mong muốn thoát nghèo, chứ không phải chỉ là người đã có nền tảng sẵn.
 
-Mình cũng hy vọng rằng mình có thể giúp mọi người bớt phải tốn thời gian đi làm trong hệ thống tư bản. Nếu không thể làm chánh nghiệp mà phải làm hoại nghiệp, thì ít nhất là cũng làm ít nhất có thể
-
-mình có nhiều ý tưởng kiếm tiền
+VCIL luôn khuyến khích mọi người làm chánh nghiệp, nhưng cũng thừa nhận là chưa thể độc lập với thiết chế tư bản. Nó không chỉ là ở việc vốn vay ở ngân hàng, mà ngay cả các hội viên cũng phải đi làm cho tư bản. Mình có nhiều ý tưởng kiếm tiền và dòng tiền, và hy vọng rằng mình có thể giúp mọi người bớt phải tốn thời gian đi làm trong hệ thống tư bản. Nếu không thể làm chánh nghiệp mà phải làm hoại nghiệp, thì ít nhất là cũng làm ít nhất có thể
 
 [Khi nào thì việc giúp một người sẽ có lợi cho mục tiêu xây dựng các nền kinh tế thay thế?](../Gi%C3%BAp%20nhau%20tho%C3%A1t%20n%E1%BB%A3/T%C3%A0i%20li%E1%BB%87u/Khi%20n%C3%A0o%20th%C3%AC%20vi%E1%BB%87c%20gi%C3%BAp%20m%E1%BB%99t%20ng%C6%B0%E1%BB%9Di%20s%E1%BA%BD%20c%C3%B3%20l%E1%BB%A3i%20cho%20m%E1%BB%A5c%20ti%C3%AAu%20x%C3%A2y%20d%E1%BB%B1ng%20c%C3%A1c%20n%E1%BB%81n%20kinh%20t%E1%BA%BF%20thay%20th%E1%BA%BF.md)
 
