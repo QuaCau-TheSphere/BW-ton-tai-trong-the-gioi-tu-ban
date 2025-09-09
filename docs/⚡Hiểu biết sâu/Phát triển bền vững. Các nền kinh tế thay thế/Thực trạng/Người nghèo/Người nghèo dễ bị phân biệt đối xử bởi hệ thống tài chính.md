@@ -1,9 +1,9 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-09-01T11:02
+updated: 2025-09-09T10:32
 ---
-Khái niệm:: [Người nghèo](../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Ng%C6%B0%E1%BB%9Di%20ngh%C3%A8o.md)
+Khái niệm:: [Nghèo, người nghèo](../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Ngh%C3%A8o,%20ng%C6%B0%E1%BB%9Di%20ngh%C3%A8o.md)
 “Chúng ta có thể là một xã hội không dùng tiền mặt trong tương lai, nhưng ngày nay, vẫn còn rất nhiều người không thể thanh toán theo phương thức kỹ thuật số bởi vì họ không có tài khoản ngân hàng, không có thẻ tín dụng, thẻ ghi nợ hoặc điện thoại thông minh,” Rebell nói. Những người này được gọi là “người không có tài khoản ngân hàng,” có nghĩa là họ không tiếp cận được các sản phẩm ngân hàng với giá cả phải chăng và thay vào đó phải dựa vào các dịch vụ phụ, như thanh toán bằng séc và vay ngày với lãi suất cao.
 
 FDIC ước tính có 8,4 triệu hộ gia đình không có tài khoản ngân hàng ở Hoa Kỳ vào năm 2017. Có 24,2 triệu hộ gia đình ít giao dịch với ngân hàng, có nghĩa là họ có ít nhất một tài khoản ngân hàng, nhưng lại sử dụng các dịch vụ tài chính bên ngoài ngành hoạt động ngân hàng truyền thống.
