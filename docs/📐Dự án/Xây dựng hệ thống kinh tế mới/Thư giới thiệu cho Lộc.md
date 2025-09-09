@@ -1,66 +1,37 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-09-07T08:39
+updated: 2025-09-09T19:36
+description: Khi nào thì cấp học bổng cho người không chủ động đến với mình
 ---
-Xin chào BTC chương trình Hàn Quốc
+Xin chào các bạn VCIL,
 
-Xin tự giới thiệu, mình là Lý Minh Nhật. Mình viết bài viết này để giới thiệu cho bạn Nguyễn Hữu Lộc, với mong muốn được hỗ trợ bạn.
+Minh xin tự giới thiệu, mình là Lý Minh Nhật. Mình viết bài viết này để giới thiệu với VCIL bạn Nguyễn Hữu Lộc, với mong muốn được cho bạn một cơ hội tham gia chương trình với chi phí càng thấp càng tốt.
 
-Chúng ta ở đây với nhau, nghĩa là đều có mong muốn xây dựng một hợp tác xã. 
+Lộc xuất thân từ tầng lớp động nghèo. Cũng như những người đã chứng kiến nhiều sự chật vật từ cái nghèo, Lộc luôn tìm cách để thoát khỏi nó. Lộc muốn có được sự yên tâm về tương lai của mình một cách nhanh nhất.
 
-Một đại diện của VCIL nói rằng chương trình này sẽ ưu tiên những cá nhân chủ động, mong muốn học hỏi và muốn hành động. Nhưng 
+Cũng như những người đã đọc cuốn "Cha giàu cha nghèo" khác, mục tiêu của Lộc là rõ ràng: tạo được dòng tiền, tránh làm công ăn lương. Trong đầu Lộc có nhiều ý tưởng để tạo được dòng tiền, và Lộc cần tập trung tối đa để nắm bắt cơ hội. Đây là một việc hao tốn sự tập trung và tiền bạc. Cho tới khi có được sự đảm bảo về dòng tiền thì khó mà làm Lộc yên tâm chia sẻ những tài nguyên đó cho việc khác. 
 
-Mình có thời gian để nghiên cứu về những hoạt động của VCIL. Bỏ cả tuần chỉ để đọc các tài liệu, từ sáng đến chiều. Việc tái hình dung cần sự thong thả. Mình thì có, Lộc thì không.
+Chương trình phù hợp với những ai đều có mong muốn xây dựng các các mô hình kinh tế thay thế. Lộc cho rằng cần phải được trải nghiệm trực tiếp để hiểu được cả những gì họ không trình bày ra cho mình. Chính vì như vậy nên Lộc muốn đi để chắc ăn rằng đây là thứ mình muốn sống với nó. Chứ Lộc tha thiết gì cái thiết chế tư bản này. Nhưng, vì là người không có được sự xa xỉ cho thất bại, Lộc khó có thể thử làm những thứ mơ hồ dù lợi ích được hứa hẹn là rất lớn. Vì rõ ràng là sau khi về thì dù có bị thuyết phục hoàn toàn đi chăng nữa thì ai cũng vẫn sẽ lại phải tiếp tục tham gia vào thiết chế tư bản này. Và lại phải kiếm dòng tiền. Dù đó là dòng tiền đến từ hoại nghiệp thì cũng vẫn phải thừa nhận là nó là đòn bẩy tốt để làm chánh nghiệp. Nên tính tới tính lui thì trong thời điểm này mình vẫn phải thừa nhận là việc tham gia chương trình là một sự xao nhãng với mục tiêu đạt được sự yên tâm cho sự thong thả một cách nhanh nhất. Việc đọc và duyệt bài viết này cũng đã là một cố gắng của Lộc rồi. 
 
-Lộc chưa hẳn đã tìm hiểu đủ để có mong muốn đó. Với Lộc, hình ảnh khá rõ ràng: ráng kiếm thêm tiền là sẽ thoả mãn. Nên đứng trước các câu hỏi đó, . Mình mà ở trong tình trạng đó thì cũng thấy việc 
+Mình thì luôn có sự thong thả đó. Số lượng tài liệu và bài viết của VCIL không nhỏ, nội việc đọc chúng thôi đã tốn của mình cả tuần, từ sáng đến chiều. Không giống như Lộc, mình đã có sự tin tưởng vào mô hình, đã hành động từ lâu rồi. Có thể còn nhiều điều mình chưa biết, nhưng mình cho rằng chương trình sẽ tạo được tác động lớn hơn cho người còn nhiều sự hoài nghi và phân vân hơn là người đã có hành động. Sự cọ xát ý tưởng, trải nghiệm, niềm tin sẽ mạnh hơn cho cả hai.
 
-Những người đều là hành trình tự giác ngộ bản thân. Thấy vẫn chưa có gì thoả mãn. Còn
+Chính vì như vậy, nên việc tạo cơ hội cho Lộc đi được làm mình thấy hứng thú không kém gì tự bản thân mình đi. Mặc dù mình hiểu rằng việc Lộc tự nộp đơn vẫn thể hiện tốt hơn mong muốn học hỏi và muốn hành động của Lộc, mình thấy việc đó không cần thiết cho mục tiêu xây dựng mô hình kinh tế thay thế. Lộc không có cái xa xỉ của sự thong thả lúc này. Nhưng mình có. Thế nên mình sẵn sàng đại diện cho Lộc làm việc đó. 
 
-Còn với mình, chưa cần biết đến thì mình đã muốn làm rồi. Với người hoài nghi mạnh, thì họ cần đến trực tiếp hơn. Thế nên, dù mình cũng hứng thú tham gia chương trình, nhưng việc giúp cho cho Lộc đi làm mình thấy hứng thú hơn cả điều đó.
+Mình thấy việc làm việc với người được uỷ quyền không làm mất tính chủ động hành động của nhân vật chính. Nói theo kiểu luật sư hay công tác xã hội thì Lộc là [thân chủ](https://luatvandiendich.wordpress.com/2018/08/19/than-chu-nghia-la-gi/) của mình. Mình nghĩ rằng giúp đỡ người có ý định hành động cũng không khác với giúp người thực sự hành động là bao. Hơn nữa, sự hợp lý của lập luận không phụ thuộc vào người phát ngôn, nên ai nói ra không quá quan trọng. 
 
-Chưa tham gia vào nhóm sâu để cảm thấy tự tin là mình đã nghe nhóm đủ, nhưng cảm giác là câu hỏi đó vẫn chưa được để ý đến 
+Với những phân tích như vậy, mình đề xuất cách giúp đỡ Lộc như sau:
+- Cấp học bổng với mức tối đa. Phần chi phí còn lại, *bao gồm* cả phí visa, vé máy bay, ăn sáng và tối tại Seoul và Busan trở thành khoản vay trả trong 3 năm
+- Không đòi hỏi sự chủ động điền đơn từ phía Lộc. Cân nhắc
+- Có thể có các buổi gặp mặt để trao đổi trực tiếp với Lộc
 
-Đối với những người làm cộng đồng. thậm chí việc tìm hiểu lịch sử kinh tế học dòng chính cũng không phải quá cần thiết cho việc xây dựng. Nên sẽ là xao nhãng nhưng nó sẽ cần thiết cho việc trả lời thắc mắc
+Tất nhiên đó là cách lý tưởng, và có thể là đang vượt qua khả năng chịu rủi ro của nhóm. Hơn nữa mình cũng biết là không đi được lần này thì chắc vẫn sẽ còn những đợt khác. Lúc đó cũng có thể đủ sự tập trung và tiền bạc hơn. Nhưng nếu đề xuất trên là ổn thì mình thấy không có lý do gì mà không đi được luôn.
 
-_Mình thấy ở Pháp, các phong trào kinh tế thay thế khá phát triển, điển hình là các mô hình về kinh tế xã hội (social economy), kinh tế đoàn kết (solidarity economy)… nhưng những mô hình này vẫn là thiểu số, cùng lắm là chiếm 5% nền kinh tế. Tại sao? Tại vì người ta muốn kiếm tiền, muốn toà nhà to hơn, muốn nhiều thứ hơn, và lối tư duy này phổ biến ở mọi nơi._
+## Phụ lục
+Để một người có ý định muốn làm một điều gì đó, thì cần phải đáp ứng những điều kiện sau: 
+- Họ có thái độ tích cực với việc làm đó không? 
+- Họ có thấy mọi người xung quanh cũng làm điều đó không? 
+- Họ có nghĩ rằng mình có khả năng đạt được kết quả không? 
 
-
-Chắc hẳn đã gặp nhiều người ngờ vực
-
-Sau khi về thì chắc chắn sẽ lại phải tiếp tục tham gia vào vòng quay tư bản. Lại muốn kiếm dòng tiền. Xem ra với mục tiêu đạt được sự thong thả nhất, thì việc suy nghĩ về các hình thức mới là một sự xao nhãng. 
-
-Như vậy, mình trở thành kẻ làm xao nhãng của cả hai bên. 
-
-
-Những ai đã dành thời gian để làm đơn xin học bổng là người đã có chung niềm tin rồi. Nên có người không phải vậy 
-
-tầng lớp của cộng đồng VCIL.
-Chia sẻ về dự án tạo tác động tích cực lên xã hội hoặc cộng đồng mà bạn đang thực thi hoặc có ý tưởng
-
-Như đã phân tích trong bài [Vấn đề đạo đức khi làm ảo](../Gi%C3%BAp%20nhau%20ki%E1%BA%BFm%20ti%E1%BB%81n/Ch%E1%BA%A1y%20ch%E1%BB%89%20ti%C3%AAu%20cho%20nh%C3%A2n%20vi%C3%AAn%20c%C3%B4ng%20ty/Ch%C6%A1i%20ch%C3%ADnh%20s%C3%A1ch/V%E1%BA%A5n%20%C4%91%E1%BB%81%20%C4%91%E1%BA%A1o%20%C4%91%E1%BB%A9c.md), việc bào tiền tư bản tương đương với việc [Lừa đảo hội lừa đảo](../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/%C3%9D%20t%C6%B0%E1%BB%9Fng%20ki%E1%BA%BFm%20ti%E1%BB%81n/%C3%9D%20t%C6%B0%E1%BB%9Fng/C%C3%B4ng%20vi%E1%BB%87c%20th%E1%BB%9Di%20v%E1%BB%A5,%20c%E1%BB%99ng%20t%C3%A1c%20vi%C3%AAn/L%E1%BB%ABa%20%C4%91%E1%BA%A3o%20h%E1%BB%99i%20l%E1%BB%ABa%20%C4%91%E1%BA%A3o.md). Tuy công việc này và nhóm này có thể xem là [Công việc vô nghĩa, tổ chức vô lý](../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/N%E1%BB%81n%20kinh%20t%E1%BA%BF%20h%C3%A0ng%20ho%C3%A1/Kinh%20t%E1%BA%BF%20ch%C3%ADnh%20tr%E1%BB%8B/Ch%E1%BB%A7%20ngh%C4%A9a%20t%C6%B0%20b%E1%BA%A3n,%20t%C3%A2n%20t%E1%BB%B1%20do/C%C3%B4ng%20vi%E1%BB%87c%20v%C3%B4%20ngh%C4%A9a,%20t%E1%BB%95%20ch%E1%BB%A9c%20v%C3%B4%20l%C3%BD.md), nhưng tìm hiểu sơ về khái niệm đó thì thấy David Graeber nói chủ yếu về những công việc và tổ chức được tư bản chủ động tạo ra, chứ không phải là để phản kháng nó.
-
-[❓Tại sao ILO lại không thúc đẩy các HTX](../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Ph%C3%A1t%20tri%E1%BB%83n%20b%E1%BB%81n%20v%E1%BB%AFng.%20C%C3%A1c%20n%E1%BB%81n%20kinh%20t%E1%BA%BF%20thay%20th%E1%BA%BF/C%C3%A1c%20n%E1%BB%81n%20kinh%20t%E1%BA%BF%20thay%20th%E1%BA%BF/H%E1%BB%A3p%20t%C3%A1c%20x%C3%A3/%E2%9D%93T%E1%BA%A1i%20sao%20ILO%20l%E1%BA%A1i%20kh%C3%B4ng%20th%C3%BAc%20%C4%91%E1%BA%A9y%20c%C3%A1c%20HTX.md)
-
-, và cần thuê người làm. Có vẻ việc nào mình cũng đều trả công cao hơn thị trường một chút, nên đúng là giúp mình còn giúp được nhiều người khác thật. Nhưng dưới con mắt mác xít thì liệu như vậy là đã ổn không? Mình đã thử vài lần đề cập việc trả bằng cổ phần chứ không phải là lương thì Lộc đều có ý né tránh. Đồng ý là khi còn nghèo thì mình thông cảm được, nhưng giả sử như đã thoát nghèo rồi thì có nên tiếp tục kỳ vọng mình trả bằng cổ phần hay không? Hay là tặc lưỡi bảo tư bản thân tả là tốt rồi?
-
-Các mô hình kinh tế thay thế hiện nay mà mình biết (do VCIL giới thiệu) đều vẫn bảo tồn sự sở hữu tự liệu sản xuất, phương tiện sản xuất. Hay là nếu có được mô hình nhà nước phúc lợi thì cũng là đã tốt rồi? Khi nào tới được đó rồi hãy kỳ vọng tiếp? 
-
-Một người ở trong thiết chế tư bản thì sẽ chân trong chân ngòai thế nào?
-Khi đăng bài vào trong nhóm nạn nhân GM, không thấy phản ứng gì nhiều.
-
-Đang đau khổ bởi nó, nhưng chưa ngờ vực nó. Đưa thông tin đến cho họ thế nào mà không làm họ nhức đầu và trách rằng 
-
-lập luận thì không phụ thuộc vào người phát ngôn. Nó hợp lý thì ai nói ra cũng đều hợp lý
-
-
-Theo cách hiểu thông thường, mình chưa phải là một người sáng lập tổ chức nào và cũng chưa \
-.Nhưng theo quan điểm của Quả Cầu, mình chính là một người sáng lập của Quả Cầu.
-một đám mấy chim sáo
-
-
-[Khi nào thì việc giúp một người sẽ có lợi cho mục tiêu xây dựng các nền kinh tế thay thế?](../Gi%C3%BAp%20nhau%20tho%C3%A1t%20n%E1%BB%A3/T%C3%A0i%20li%E1%BB%87u/Khi%20n%C3%A0o%20th%C3%AC%20vi%E1%BB%87c%20gi%C3%BAp%20m%E1%BB%99t%20ng%C6%B0%E1%BB%9Di%20s%E1%BA%BD%20c%C3%B3%20l%E1%BB%A3i%20cho%20m%E1%BB%A5c%20ti%C3%AAu%20x%C3%A2y%20d%E1%BB%B1ng%20c%C3%A1c%20n%E1%BB%81n%20kinh%20t%E1%BA%BF%20thay%20th%E1%BA%BF.md)
-
-Dạ ai muốn đi thì nên tự xin học bổng ạ. Dù sao thì đó cũng chỉ là quan sát từ bên ngoài của anh; mà cho dù có vẻ phù hợp, nhưng nếu không phù hợp nhu cầu của người đó thì cũng không tạo ra giá trị thực sự cho người đi. Chương trình này sẽ ưu tiên những cá nhân chủ động, mong muốn học hỏi và muốn take action. Anh có thể share thông tin chương trình cho bạn anh, nếu quan tâm thì bạn anh có thể chủ động apply. Sau đó nếu phù hợp thì tụi em sẽ interview hoặc trao đổi thêm.
-
-học bổng này không mang tính cạnh tranh hay phụ thuộc nhiều vào background, thành tích của người ứng tuyển, mà dành cho những người có giá trị, tinh thần phù hợp ạ. Vcil cũng ý thức rằng không phải ai cũng có thế mạnh về viết lách, nên nếu cần thiết, sau khi apply thì tụi em sẽ schedule một buổi nói chuyện để hiểu hơn về nhau. Bạn anh có thể hỏi thêm về chương trình, và Vcil cũng sẽ nghe thêm chia sẻ từ ứng viên. Nên là bạn anh vẫn nên là người ứng tuyển ạ. Tụi em có thể cân nhắc hỗ trợ học bổng cả hai nếu phù hợp. Xin thông tin đến anh
+Đây chính là [lý thuyết về hành động có dự tính](https://vi.wikipedia.org/wiki/Lý_thuyết_hành_vi_có_kế_hoạch%23) (theory of planned behavior).
+![Lý thuyết về hành động có dự tính.svg](../../assets/attachments/L%C3%BD%20thuy%E1%BA%BFt%20v%E1%BB%81%20h%C3%A0nh%20%C4%91%E1%BB%99ng%20c%C3%B3%20d%E1%BB%B1%20t%C3%ADnh.svg)
