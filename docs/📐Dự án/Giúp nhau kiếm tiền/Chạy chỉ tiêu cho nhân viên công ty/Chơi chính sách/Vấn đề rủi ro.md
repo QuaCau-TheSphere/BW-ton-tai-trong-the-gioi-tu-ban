@@ -1,7 +1,8 @@
 ---
 share: true
 created: 2025-03-23T17:44
-updated: 2025-08-23T15:47
+updated: 2025-09-07T19:55
+Title: Vấn đề rủi ro khi làm ảo
 ---
 [Liệu công ty X có đang lừa đảo, rửa tiền không?](../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/T%E1%BB%95%20ch%E1%BB%A9c%20t%C3%A0i%20ch%C3%ADnh/C%C3%B4ng%20ty%20khuy%E1%BA%BFn%20m%C3%A3i%20nhi%E1%BB%81u%20l%C3%A0%20v%C3%AC%20s%E1%BB%91%20ti%E1%BB%81n%20b%E1%BB%8F%20ra%20cho%20m%C3%ACnh%20nh%E1%BB%8F%20h%C6%A1n%20s%E1%BB%91%20ti%E1%BB%81n%20nh%E1%BA%ADn%20%C4%91%C6%B0%E1%BB%A3c.md)
 
@@ -19,6 +20,9 @@ Xem thêm:: [Luật phạt từ 40tr khi cho thuê, mượn tài khoản ngân h
 
 [Luật phạt từ 40tr khi cho thuê, mượn tài khoản ngân hàng](../../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/T%C3%ACnh%20h%C3%ACnh%20%E1%BB%9F%20Vi%E1%BB%87t%20Nam/Lu%E1%BA%ADt,%20qu%E1%BA%A3n%20l%C3%BD%20nh%C3%A0%20n%C6%B0%E1%BB%9Bc/T%C3%A0i%20ch%C3%ADnh/Ti%E1%BB%81n%20t%E1%BB%87,%20ng%C3%A2n%20h%C3%A0ng/Ph%E1%BA%A1t%20t%E1%BB%AB%2040tr%20khi%20cho%20thu%C3%AA,%20m%C6%B0%E1%BB%A3n%20t%C3%A0i%20kho%E1%BA%A3n%20thanh%20to%C3%A1n.md). Các công việc dưới đây tuy có cảm giác giống giống như thuê mượn tài khoản ngân hàng, nhưng thật ra không phải vì bạn vẫn giữ đăng nhập tài khoản trên máy bạn chứ không đưa cho ai đăng nhập trên máy của họ cả
 Nếu bạn sợ lừa đảo thì xem [Cảnh giác lừa đảo](../../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/C%E1%BA%A3nh%20gi%C3%A1c%20l%E1%BB%ABa%20%C4%91%E1%BA%A3o/index.md)
+
+Trương mỹ lan để cho người nhà cầm
+
 ## Chuyện gì sẽ xảy ra nếu các bạn bị phát hiện?
 Vì là trung gian thanh toán, nên các ví điện tử đứng ra bảo lãnh cho người quẹt. Chuyển khoản thì còn không biết đang làm gì, chứ dùng trung gian thanh toán thì xác định là mua hàng. Ngân hàng sẽ thấy là sạch, và điểm tín dụng sẽ cao hơn. Hoặc chẳng qua nó nhắm mắt làm ngơ, vì bọn mình chưa đủ lớn để truy tố hay thả lưới. Mà nếu bọn mình làm lớn thì chắc đã không phải nhờ tới các bạn rồi.
 
@@ -45,3 +49,5 @@ Có thể việc này sẽ khiến công ty thấy kỳ lạ, khác biệt, khô
 [Đối thoại với người điều hành doanh nghiệp](../../../%C4%90%E1%BB%91i%20tho%E1%BA%A1i%20v%E1%BB%9Bi%20t%C6%B0%20b%E1%BA%A3n/%C4%90%E1%BB%91i%20tho%E1%BA%A1i%20v%E1%BB%9Bi%20ng%C6%B0%E1%BB%9Di%20%C4%91i%E1%BB%81u%20h%C3%A0nh%20doanh%20nghi%E1%BB%87p.md)
 
 ## Làm sao để giảm khả năng bị phát hiện?
+Tốt nhất là không làm
+[](.md)
