@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-09-27T13:00
-updated: 2025-09-06T16:52
+updated: 2025-09-10T15:40
 aliases:
   - Lời mời tham gia nhóm giúp nhau kiếm tiền
 title: Giúp nhau kiếm tiền
@@ -20,7 +20,7 @@ Bài chi tiết:: [Một số ý tưởng kiếm tiền](../../%F0%9F%93%9CT%C3%
 
 ### Các tài nguyên
 - Các cách [tạo sinh kế, thu nhập, dòng tiền](../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/%C3%9D%20t%C6%B0%E1%BB%9Fng%20ki%E1%BA%BFm%20ti%E1%BB%81n/%C3%9D%20t%C6%B0%E1%BB%9Fng/index.md)
-- Một [quỹ tín dụng vi mô](../Gi%C3%BAp%20nhau%20tho%C3%A1t%20n%E1%BB%A3/C%C3%B4ng%20vi%E1%BB%87c/Qu%E1%BB%B9/X%C3%A2y%20d%E1%BB%B1ng%20ng%C3%A2n%20h%C3%A0ng%20mini%20v%C3%A0%20m%E1%BA%A1ng%20l%C6%B0%E1%BB%9Bi%20cho%20vay%20ngang%20h%C3%A0ng.md) để được vay nhanh với lãi thấp khi không còn vay được từ người thân, bạn bè
+- Một [quỹ tín dụng vi mô](../Gi%C3%BAp%20nhau%20tho%C3%A1t%20n%E1%BB%A3/Qu%E1%BB%B9/Ng%C3%A2n%20h%C3%A0ng%20mini%20v%C3%A0%20m%E1%BA%A1ng%20l%C6%B0%E1%BB%9Bi%20cho%20vay%20ngang%20h%C3%A0ng.md) để được vay nhanh với lãi thấp khi không còn vay được từ người thân, bạn bè
 - Sự kết nối tới những cộng đồng để [mở rộng mối quan hệ](../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/M%E1%BB%9F%20r%E1%BB%99ng%20m%E1%BB%91i%20quan%20h%E1%BB%87/index.md)
 - [Công đoàn để được bảo vệ quyền lợi trước tư bản](../%C4%90%E1%BB%91i%20tho%E1%BA%A1i%20v%E1%BB%9Bi%20t%C6%B0%20b%E1%BA%A3n/X%C3%A2y%20d%E1%BB%B1ng%20c%C3%B4ng%20%C4%91o%C3%A0n.md) 
 
