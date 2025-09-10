@@ -1,8 +1,8 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-09-09T19:36
-description: Khi nào thì cấp học bổng cho người không chủ động đến với mình
+updated: 2025-09-10T09:49
+description: Vì sao lại giúp người không chủ động hành động?
 ---
 Xin chào các bạn VCIL,
 
@@ -10,24 +10,25 @@ Minh xin tự giới thiệu, mình là Lý Minh Nhật. Mình viết bài viế
 
 Lộc xuất thân từ tầng lớp động nghèo. Cũng như những người đã chứng kiến nhiều sự chật vật từ cái nghèo, Lộc luôn tìm cách để thoát khỏi nó. Lộc muốn có được sự yên tâm về tương lai của mình một cách nhanh nhất.
 
-Cũng như những người đã đọc cuốn "Cha giàu cha nghèo" khác, mục tiêu của Lộc là rõ ràng: tạo được dòng tiền, tránh làm công ăn lương. Trong đầu Lộc có nhiều ý tưởng để tạo được dòng tiền, và Lộc cần tập trung tối đa để nắm bắt cơ hội. Đây là một việc hao tốn sự tập trung và tiền bạc. Cho tới khi có được sự đảm bảo về dòng tiền thì khó mà làm Lộc yên tâm chia sẻ những tài nguyên đó cho việc khác. 
+Lộc may mắn có tìm tòi và biết đến những khái niệm về việc tạo dòng tiền. Đây là một việc hao tốn sự tập trung và tiền bạc, nên Lộc cần tập trung tối đa để nắm bắt cơ hội. Cho tới khi có được sự đảm bảo về dòng tiền thì khó mà làm Lộc yên tâm chia sẻ những tài nguyên đó cho việc khác.
 
-Chương trình phù hợp với những ai đều có mong muốn xây dựng các các mô hình kinh tế thay thế. Lộc cho rằng cần phải được trải nghiệm trực tiếp để hiểu được cả những gì họ không trình bày ra cho mình. Chính vì như vậy nên Lộc muốn đi để chắc ăn rằng đây là thứ mình muốn sống với nó. Chứ Lộc tha thiết gì cái thiết chế tư bản này. Nhưng, vì là người không có được sự xa xỉ cho thất bại, Lộc khó có thể thử làm những thứ mơ hồ dù lợi ích được hứa hẹn là rất lớn. Vì rõ ràng là sau khi về thì dù có bị thuyết phục hoàn toàn đi chăng nữa thì ai cũng vẫn sẽ lại phải tiếp tục tham gia vào thiết chế tư bản này. Và lại phải kiếm dòng tiền. Dù đó là dòng tiền đến từ hoại nghiệp thì cũng vẫn phải thừa nhận là nó là đòn bẩy tốt để làm chánh nghiệp. Nên tính tới tính lui thì trong thời điểm này mình vẫn phải thừa nhận là việc tham gia chương trình là một sự xao nhãng với mục tiêu đạt được sự yên tâm cho sự thong thả một cách nhanh nhất. Việc đọc và duyệt bài viết này cũng đã là một cố gắng của Lộc rồi. 
+Chương trình *Vcil Travel School Hàn Quốc* phù hợp với những ai đều có mong muốn xây dựng các các mô hình kinh tế thay thế. Lộc cho rằng cần phải được trải nghiệm trực tiếp để hiểu rõ, đầy đủ, chân thật, thực tế nhất. Nhưng, vì là người không có được sự xa xỉ cho thất bại, Lộc khó có thể thử làm những thứ mơ hồ dù lợi ích được hứa hẹn là rất lớn. Vì rõ ràng là sau khi về thì dù có bị thuyết phục hoàn toàn đi chăng nữa thì ai cũng vẫn sẽ lại phải tiếp tục tham gia vào thiết chế tư bản này. Và lại phải kiếm dòng tiền. Dù đó là dòng tiền đến từ hoại nghiệp thì cũng vẫn phải thừa nhận là nó là đòn bẩy tốt để làm chánh nghiệp. Nên tính tới tính lui thì trong thời điểm này mình vẫn phải thừa nhận là việc tham gia chương trình là một sự xao nhãng với mục tiêu đạt được sự yên tâm cho sự thong thả một cách nhanh nhất. Việc đọc và duyệt bài viết này cũng đã là một cố gắng của Lộc rồi. 
 
-Mình thì luôn có sự thong thả đó. Số lượng tài liệu và bài viết của VCIL không nhỏ, nội việc đọc chúng thôi đã tốn của mình cả tuần, từ sáng đến chiều. Không giống như Lộc, mình đã có sự tin tưởng vào mô hình, đã hành động từ lâu rồi. Có thể còn nhiều điều mình chưa biết, nhưng mình cho rằng chương trình sẽ tạo được tác động lớn hơn cho người còn nhiều sự hoài nghi và phân vân hơn là người đã có hành động. Sự cọ xát ý tưởng, trải nghiệm, niềm tin sẽ mạnh hơn cho cả hai.
+Mình thì luôn có sự thong thả đó. Không giống như Lộc, mình đã dành nhiều thời gian tìm hiểu và hành động từ lâu. Mình cho rằng chương trình sẽ tạo được tác động lớn hơn cho người còn nhiều sự hoài nghi và phân vân hơn là người đã có hành động. Sự cọ xát ý tưởng, trải nghiệm, niềm tin sẽ mạnh hơn cho cả hai.
 
-Chính vì như vậy, nên việc tạo cơ hội cho Lộc đi được làm mình thấy hứng thú không kém gì tự bản thân mình đi. Mặc dù mình hiểu rằng việc Lộc tự nộp đơn vẫn thể hiện tốt hơn mong muốn học hỏi và muốn hành động của Lộc, mình thấy việc đó không cần thiết cho mục tiêu xây dựng mô hình kinh tế thay thế. Lộc không có cái xa xỉ của sự thong thả lúc này. Nhưng mình có. Thế nên mình sẵn sàng đại diện cho Lộc làm việc đó. 
+Chính vì như vậy, nên mình thấy việc tạo cơ hội cho Lộc đi được còn hứng thú hơn việc tự bản thân mình đi. Mặc dù mình hiểu rằng việc Lộc tự nộp đơn vẫn thể hiện tốt hơn mong muốn học hỏi và muốn hành động của Lộc, mình thấy việc đó không cần thiết cho mục tiêu xây dựng mô hình kinh tế thay thế. Lộc không có cái xa xỉ của sự thong thả lúc này. Nhưng mình có. Thế nên mình sẵn sàng đại diện cho Lộc làm việc đó. 
 
-Mình thấy việc làm việc với người được uỷ quyền không làm mất tính chủ động hành động của nhân vật chính. Nói theo kiểu luật sư hay công tác xã hội thì Lộc là [thân chủ](https://luatvandiendich.wordpress.com/2018/08/19/than-chu-nghia-la-gi/) của mình. Mình nghĩ rằng giúp đỡ người có ý định hành động cũng không khác với giúp người thực sự hành động là bao. Hơn nữa, sự hợp lý của lập luận không phụ thuộc vào người phát ngôn, nên ai nói ra không quá quan trọng. 
+Mình thấy việc làm việc với người được uỷ quyền không làm mất tính chủ động hành động của nhân vật chính. Nói theo kiểu luật sư hay công tác xã hội thì Lộc là [thân chủ](https://luatvandiendich.wordpress.com/2018/08/19/than-chu-nghia-la-gi/) của mình. Mình nghĩ rằng giúp đỡ người có ý định hành động cũng không khác với giúp người thực sự hành động là bao. Các câu trả lời đều có sự tham khảo với Lộc. 
 
 Với những phân tích như vậy, mình đề xuất cách giúp đỡ Lộc như sau:
 - Cấp học bổng với mức tối đa. Phần chi phí còn lại, *bao gồm* cả phí visa, vé máy bay, ăn sáng và tối tại Seoul và Busan trở thành khoản vay trả trong 3 năm
-- Không đòi hỏi sự chủ động điền đơn từ phía Lộc. Cân nhắc
+- Không đòi hỏi sự chủ động điền đơn từ phía Lộc. Cho phép Nhật thay mặt điền các loại đơn, mẫu nếu có thể
 - Có thể có các buổi gặp mặt để trao đổi trực tiếp với Lộc
 
 Tất nhiên đó là cách lý tưởng, và có thể là đang vượt qua khả năng chịu rủi ro của nhóm. Hơn nữa mình cũng biết là không đi được lần này thì chắc vẫn sẽ còn những đợt khác. Lúc đó cũng có thể đủ sự tập trung và tiền bạc hơn. Nhưng nếu đề xuất trên là ổn thì mình thấy không có lý do gì mà không đi được luôn.
 
 ## Phụ lục
+### Khi nào thì một người có dự tính hành động?
 Để một người có ý định muốn làm một điều gì đó, thì cần phải đáp ứng những điều kiện sau: 
 - Họ có thái độ tích cực với việc làm đó không? 
 - Họ có thấy mọi người xung quanh cũng làm điều đó không? 
@@ -35,3 +36,28 @@ Tất nhiên đó là cách lý tưởng, và có thể là đang vượt qua kh
 
 Đây chính là [lý thuyết về hành động có dự tính](https://vi.wikipedia.org/wiki/Lý_thuyết_hành_vi_có_kế_hoạch%23) (theory of planned behavior).
 ![Lý thuyết về hành động có dự tính.svg](../../assets/attachments/L%C3%BD%20thuy%E1%BA%BFt%20v%E1%BB%81%20h%C3%A0nh%20%C4%91%E1%BB%99ng%20c%C3%B3%20d%E1%BB%B1%20t%C3%ADnh.svg)
+
+### Tại sao người có nhiều dự tính hành động thì lại đau khổ?
+[TEDxSanJoseCA - Adam Gazzaley, MD, PhD - Brain: Memory and Multitasking - YouTube](https://youtu.be/tiANn5PZ4BI?si=Q4LpGinfogPfr8yU)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tiANn5PZ4BI?si=qH-ENIixsDs4-5fz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+### Những hoạt động mà Lộc và Nhật đã làm cùng nhau
+Đây là những hoạt động của Lộc:
+
+| Hoạt động                                                                        | Thành phẩm                                                                                                                 |
+| -------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
+| Tạo ra [ các công việc "việc nhẹ lương cao"](../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/%C3%9D%20t%C6%B0%E1%BB%9Fng%20ki%E1%BA%BFm%20ti%E1%BB%81n/%C3%9D%20t%C6%B0%E1%BB%9Fng/C%C3%B4ng%20vi%E1%BB%87c%20th%E1%BB%9Di%20v%E1%BB%A5,%20c%E1%BB%99ng%20t%C3%A1c%20vi%C3%AAn/index.md) | Tầm 10 người tham gia                                                                                                      |
+| [Giúp nhau tăng điểm tín dụng](../Gi%C3%BAp%20nhau%20tho%C3%A1t%20n%E1%BB%A3/C%C3%B4ng%20vi%E1%BB%87c/Gi%C3%BAp%20nhau%20t%C4%83ng%20%C4%91i%E1%BB%83m%20t%C3%ADn%20d%E1%BB%A5ng.md)                                                 | Nhật có [điểm tín dụng hạng 2](../Gi%C3%BAp%20nhau%20tho%C3%A1t%20n%E1%BB%A3/Ng%C6%B0%E1%BB%9Di%20th%E1%BB%A5%20h%C6%B0%E1%BB%9Fng/L%C3%BD%20Minh%20Nh%E1%BA%ADt/C%C3%A1c%20kho%E1%BA%A3n%20t%C3%A0i%20s%E1%BA%A3n%20v%C3%A0%20kho%E1%BA%A3n%20n%E1%BB%A3%20Nh%E1%BA%ADt%20%C4%91%E1%BB%A9ng%20t%C3%AAn%20(phi%C3%AAn%20b%E1%BA%A3n%20cho%20ng%C3%A2n%20h%C3%A0ng,%20c%C3%B4ng%20ty%20t%C3%A0i%20ch%C3%ADnh).md) |
+| [Gom tài nguyên làm MMO](../T%E1%BA%A1o%20thu%20nh%E1%BA%ADp%20th%E1%BB%A5%20%C4%91%E1%BB%99ng/Gom%20t%C3%A0i%20nguy%C3%AAn%20l%C3%A0m%20MMO.md)                                                       |                                                                                                                            |
+
+Những hoạt động trên là đầu vào để Nhật làm những hoạt động sau:
+
+| Hoạt động của Nhật                                                                       | Thành phẩm                                                                                                                                |
+| ---------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
+| Xây dựng nhóm [Giúp nhau kiếm tiền](../Gi%C3%BAp%20nhau%20ki%E1%BA%BFm%20ti%E1%BB%81n/index.md)                                                    | Có được nhóm 10 người hoạt động                                                                                                           |
+| Ghi chép nhân học nửa mùa                                                                | [Nhóm GM Mall Biên Hoà](../Gi%C3%BAp%20nhau%20ki%E1%BA%BFm%20ti%E1%BB%81n/Ch%E1%BA%A1y%20ch%E1%BB%89%20ti%C3%AAu%20cho%20nh%C3%A2n%20vi%C3%AAn%20c%C3%B4ng%20ty/Ch%C6%A1i%20ch%C3%ADnh%20s%C3%A1ch/T%C3%A0i%20li%E1%BB%87u%20v%E1%BB%81%20t%E1%BB%ABng%20c%C3%B4ng%20ty/GM%20Mall/Nh%C3%B3m%20Bi%C3%AAn%20Ho%C3%A0.md), [Nhóm FE Bình Dương 1](../Gi%C3%BAp%20nhau%20ki%E1%BA%BFm%20ti%E1%BB%81n/Ch%E1%BA%A1y%20ch%E1%BB%89%20ti%C3%AAu%20cho%20nh%C3%A2n%20vi%C3%AAn%20c%C3%B4ng%20ty/Ch%C6%A1i%20ch%C3%ADnh%20s%C3%A1ch/T%C3%A0i%20li%E1%BB%87u%20v%E1%BB%81%20t%E1%BB%ABng%20c%C3%B4ng%20ty/FE%20Credit/Nh%C3%B3m%20B%C3%ACnh%20D%C6%B0%C6%A1ng%201.md)                                                     |
+| Xây dựng mạng kết nối nhu cầu                                                            | Discord Quả Cầu, [Nhóm Zalo chia sẻ công việc, cơ hội của các nạn nhân của GM Mall](https://zalo.me/g/ojezyd465)                          |
+| Hỗ trợ cho các tổ chức cùng định hướng                                                   | Chia sẻ các bài truyền thông về các hoạt động của các tổ chức phát triển bền vững khác (như Kulavietnam, SocialLife, VCIL) trong các nhóm |
+| [Xây dựng quỹ tín dụng vi mô](../Gi%C3%BAp%20nhau%20tho%C3%A1t%20n%E1%BB%A3/C%C3%B4ng%20vi%E1%BB%87c/Qu%E1%BB%B9/X%C3%A2y%20d%E1%BB%B1ng%20ng%C3%A2n%20h%C3%A0ng%20mini%20v%C3%A0%20m%E1%BA%A1ng%20l%C6%B0%E1%BB%9Bi%20cho%20vay%20ngang%20h%C3%A0ng.md) | [Quỹ giúp nhau giữ tài sản thế chấp](../Gi%C3%BAp%20nhau%20tho%C3%A1t%20n%E1%BB%A3/C%C3%B4ng%20vi%E1%BB%87c/Qu%E1%BB%B9/Qu%E1%BB%B9%20gi%C3%BAp%20nhau%20gi%E1%BB%AF%20t%C3%A0i%20s%E1%BA%A3n%20th%E1%BA%BF%20ch%E1%BA%A5p.md)                                                                                                    |
+| Văn bản hoá các trải nghiệm và hiểu biết sâu                                             | Các ghi chú trong kho *Tồn tại trong thế giới tư bản*                                                                                     |
+| Lập trình                                                                                | Tạo danh bạ khách hàng vay FE Credit từ visit form                                                                                        |
