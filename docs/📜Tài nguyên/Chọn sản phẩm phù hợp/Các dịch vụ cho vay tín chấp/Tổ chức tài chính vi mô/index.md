@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-10-04T13:20
-updated: 2025-09-01T10:57
+updated: 2025-09-10T15:40
 aliases:
   - quỹ tín dụng vi mô
 description: Dịch vụ cho vay vì người yếu thế
@@ -12,7 +12,7 @@ Các quỹ chủ yếu cho người ở thành thị:
 - [Tình Thương](https://tymfund.org.vn/about-us/our-team/)
 - [CEP](./CEP.md)
 - [Tình Thân](./T%C3%ACnh%20Th%C3%A2n.md)
-- [Quả Cầu](../../../../%F0%9F%93%90D%E1%BB%B1%20%C3%A1n/Gi%C3%BAp%20nhau%20tho%C3%A1t%20n%E1%BB%A3/C%C3%B4ng%20vi%E1%BB%87c/Qu%E1%BB%B9/X%C3%A2y%20d%E1%BB%B1ng%20ng%C3%A2n%20h%C3%A0ng%20mini%20v%C3%A0%20m%E1%BA%A1ng%20l%C6%B0%E1%BB%9Bi%20cho%20vay%20ngang%20h%C3%A0ng.md)
+- [Quả Cầu](../../../../%F0%9F%93%90D%E1%BB%B1%20%C3%A1n/Gi%C3%BAp%20nhau%20tho%C3%A1t%20n%E1%BB%A3/Qu%E1%BB%B9/Ng%C3%A2n%20h%C3%A0ng%20mini%20v%C3%A0%20m%E1%BA%A1ng%20l%C6%B0%E1%BB%9Bi%20cho%20vay%20ngang%20h%C3%A0ng.md)
 - [Quỹ Đồng Hành](./Qu%E1%BB%B9%20%C4%90%E1%BB%93ng%20H%C3%A0nh.md)
 
 Đa phần các quỹ khác chủ yếu cho nông thôn hoặc vùng sâu vùng xa, dân tộc thiểu số. Đọc [Danh bạ các tổ chức Tài chính vi mô](https://microfinance.com.vn/du-an-project/danh-ba-cac-to-chuc-tai-chinh-vi-mo/) để xem danh sách đầy đủ.
