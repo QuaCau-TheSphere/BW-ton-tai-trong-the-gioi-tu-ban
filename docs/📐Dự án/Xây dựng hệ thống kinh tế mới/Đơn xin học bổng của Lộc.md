@@ -1,13 +1,16 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-09-08T15:25
+updated: 2025-09-10T09:08
 ---
 
 ## Miêu tả ngắn gọn về bản thân (ví dụ: sở thích, đam mê, nguyện vọng, ước mơ, định hướng...)  *
-Làm ngành tài chính. Mục tiêu trước mắt là có được sự thong thả. Cách thức là kiếm được dòng tiền bền vững
+Tôi là Nguyễn Hữu Lộc, sinh ngày 25/06/1999. Tôi thích chạy bộ, đánh cầu lông và bơi lội. Hiện tôi đang sinh hoạt tại Quả Cầu. Mong muốn của tôi là từng bước xây dựng dòng tiền ổn định, và về lâu dài có thể đóng góp để tạo dựng cộng đồng, xây dựng công viên, khu vui chơi cho mọi người.
 
-Ước mơ là xây dựng một thành phố.
+## Thông tin liên hệ
+- SĐT/Zalo: 0903850094
+- Email: silentassa33in@gmail.com
+- Liên hệ khẩn cấp: 0912214006 (Lý Minh Nhật)
 
 ## Chia sẻ về dự án tạo tác động tích cực lên xã hội hoặc cộng đồng mà bạn đang thực thi hoặc có ý tưởng *
 Đây là những hoạt động của mình:
@@ -33,6 +36,7 @@ Những hoạt động này là cơ sở để Nhật làm những hoạt độn
 ## Tổ chức/ đối tác nào bạn quan tâm muốn gặp gỡ và hình thức hợp tác nào bạn đang mong muốn triển khai? *
 
 ## Bạn mong muốn học được gì thông qua chương trình này? 
+Kiểm nghiệm thực tế để hiểu rõ về hình thức trao đổi/đáp ứng các nhu cầu mà có thể thay thế được thiết chế tư bản 
 Các cuốn sách về tài chính đều nói là [Muốn thoát nghèo cần dòng tiền](../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Ni%E1%BB%81m%20tin,%20di%E1%BB%85n%20ng%C3%B4n/Ti%E1%BB%81n/Gi%C3%A0u,%20ngh%C3%A8o/Mu%E1%BB%91n%20tho%C3%A1t%20ngh%C3%A8o%20c%E1%BA%A7n%20d%C3%B2ng%20ti%E1%BB%81n.md). Chương trình này nói rằng còn nhiều cách để thoát nghèo hơn là dòng tiền. Mình muốn tận mắt xem liệu sự thoát nghèo mà chương trình nói đến là cái phù hợp với mình không, và liệu một người như mình có thể thực sự không cần cố gắng có được dòng tiền mà vẫn có được nó hay không?
 
 ## Tại sao bạn lại đề xuất mức nhận học bổng như vậy?

@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-04-11T18:52
-updated: 2025-08-08T13:56
+updated: 2025-09-10T09:24
 ---
 ## Liên quan đến chuyện tiền bạc
 - [Không chịu mất tín dụng ngân hàng vì sau này khó làm ăn](../../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Ni%E1%BB%81m%20tin,%20di%E1%BB%85n%20ng%C3%B4n/Ti%E1%BB%81n/N%E1%BB%A3/B%E1%BA%B1ng%20m%E1%BB%8Di%20gi%C3%A1%20ph%E1%BA%A3i%20gi%E1%BB%AF%20%C4%91i%E1%BB%83m%20t%C3%ADn%20d%E1%BB%A5ng%20cho%20s%E1%BA%A1ch.md)
@@ -20,3 +20,6 @@ updated: 2025-08-08T13:56
 - Khi hỏi lời khuyên của người khác mà câu trả lời đã từng đem lại trải nghiệm tệ thì phản ứng từ chối sự hợp lý của lời khuyên đó cao
 - Không hỏi
 [Không muốn làm nhức đầu, nhưng lại muốn biết giá trị của việc đặt câu hỏi](./Kh%C3%B4ng%20mu%E1%BB%91n%20l%C3%A0m%20nh%E1%BB%A9c%20%C4%91%E1%BA%A7u,%20nh%C6%B0ng%20l%E1%BA%A1i%20mu%E1%BB%91n%20bi%E1%BA%BFt%20gi%C3%A1%20tr%E1%BB%8B%20c%E1%BB%A7a%20vi%E1%BB%87c%20%C4%91%E1%BA%B7t%20c%C3%A2u%20h%E1%BB%8Fi.md)
+
+
+thấy rằng việc bị moneyveo đe doạ là đẩy mình vào đường cùng
