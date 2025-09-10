@@ -1,6 +1,6 @@
 ---
-created: 2025-01-16T11:36
-updated: 2025-08-23T16:42
+created: 2025-03-27T17:13
+updated: 2025-09-10T09:21
 share: true
 ---
 Người quản lý: Nguyễn Văn Đông
@@ -56,3 +56,7 @@ Tức là vấn đề ổng có thể làm khó dễ nhưng ổng biết là ổ
 [FE Credit](%F0%9F%93%90D%E1%BB%B1%20%C3%A1n/Ch%E1%BA%A1y%20ch%E1%BB%89%20ti%C3%AAu/Ng%C6%B0%E1%BB%9Di%20th%E1%BB%A5%20h%C6%B0%E1%BB%9Fng/B%C3%A1o%20c%C3%A1o/FE%20Credit.md)
 
 Người làm tốt hơn nhưng ko đạt tiêu chí thì được cho nghỉ, còn người biết thể hiện siêng năng nhưng kết quả còn thấp hơn thì được giữ lại 
+
+Khái niệm:: 
+
+Nguồn:: 
