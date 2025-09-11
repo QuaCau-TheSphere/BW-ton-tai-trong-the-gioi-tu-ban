@@ -1,9 +1,9 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-08-16T22:04
+updated: 2025-09-11T17:55
 ---
-Khái niệm:: 
+Khái niệm:: [Đô la](../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/%C4%90%C3%B4%20la.md)
 [Đô la tăng giá làm lạm phát ở các nước khác tăng](./%C4%90%C3%B4%20la%20t%C4%83ng%20gi%C3%A1%20l%C3%A0m%20l%E1%BA%A1m%20ph%C3%A1t%20%E1%BB%9F%20c%C3%A1c%20n%C6%B0%E1%BB%9Bc%20kh%C3%A1c%20t%C4%83ng.md)
 Nguồn:: <iframe width="560" height="315" src="https://www.youtube.com/embed/Zv91-zuaZCo?si=jaDE1JKtyBCi6Unm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

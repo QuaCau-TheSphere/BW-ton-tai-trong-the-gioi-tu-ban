@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-18
-updated: 2025-07-09T17:32
+updated: 2025-09-11T17:08
 published: 2024-12-27
 description: TTCT - Nạn nhân bị bắn chết giữa phố thì không được thương tiếc, trong khi tay súng tình nghi trở thành người hùng trong dân gian. Những phi lý trong vụ sát hại CEO hãng bảo hiểm UnitedHealthcare Brian Thompson vẫn chưa dừng lại.
 tags:
@@ -91,3 +91,6 @@ Sau khi Mangione bị bắt, người ta cũng đào xới hoạt động của 
 Danh sách "Muốn đọc" của Mangione có những tựa sách cơ bản về nhân văn, như Moby Dick - Cá Voi Trắng (Herman Melville), Bẫy 22 (Joseph Heller), hay Bàn về tự do (John Stuart Mill). Nhưng cũng có những cuốn sách mang màu sắc chống hiện đại hóa, như Cắt cơn điện thoại (Catherine Price), Technological Slavery của Ted "Unabomber" Kaczynski (nhà toán học trở thành kẻ đánh bom khủng bố), và The Technological Society của Jacques Ellul - một cuốn sách năm 1964 được Kirkus Reviews mô tả là "một bản hùng ca bi quan về chính trị xã hội và triết học".
 
 Nguồn:: [Luigi Mangione: Chân dung một 'phản anh hùng' hiện đại - Tuổi Trẻ Online](https://cuoituan.tuoitre.vn/luigi-mangione-chan-dung-mot-phan-anh-hung-hien-dai-20241220144632054.htm)
+
+[Một nửa dân số Mỹ có bảo hiểm nhân thọ](../M%E1%BB%99t%20n%E1%BB%ADa%20d%C3%A2n%20s%E1%BB%91%20M%E1%BB%B9%20c%C3%B3%20b%E1%BA%A3o%20hi%E1%BB%83m%20nh%C3%A2n%20th%E1%BB%8D.md)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/71fqRq6aEYw?si=Iy1_L8CDfy8TMmd2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

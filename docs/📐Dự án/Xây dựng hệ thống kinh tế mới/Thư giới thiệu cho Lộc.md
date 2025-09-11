@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-09-11T07:54
+updated: 2025-09-11T14:51
 description: Vì sao lại giúp người không chủ động hành động?
 ---
 Xin chào các bạn VCIL,
@@ -53,7 +53,7 @@ Tất nhiên cách lý tưởng này có thể đang vượt qua khả năng ch�
 | Hoạt động                                                                        | Thành phẩm                                                                                           |
 | -------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
 | Tạo ra [ các công việc "việc nhẹ lương cao"](../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/%C3%9D%20t%C6%B0%E1%BB%9Fng%20ki%E1%BA%BFm%20ti%E1%BB%81n/%C3%9D%20t%C6%B0%E1%BB%9Fng/C%C3%B4ng%20vi%E1%BB%87c%20th%E1%BB%9Di%20v%E1%BB%A5,%20c%E1%BB%99ng%20t%C3%A1c%20vi%C3%AAn/index.md) | Tầm 10 người tham gia                                                                                |
-| [Giúp nhau tăng điểm tín dụng](../Gi%C3%BAp%20nhau%20tho%C3%A1t%20n%E1%BB%A3/C%C3%B4ng%20vi%E1%BB%87c/Gi%C3%BAp%20nhau%20t%C4%83ng%20%C4%91i%E1%BB%83m%20t%C3%ADn%20d%E1%BB%A5ng.md)                                                 | Nhật có [điểm tín dụng hạng 2](../Gi%C3%BAp%20nhau%20tho%C3%A1t%20n%E1%BB%A3/Ng%C6%B0%E1%BB%9Di%20th%E1%BB%A5%20h%C6%B0%E1%BB%9Fng/L%C3%BD%20Minh%20Nh%E1%BA%ADt/C%C3%A1c%20kho%E1%BA%A3n%20t%C3%A0i%20s%E1%BA%A3n%20v%C3%A0%20kho%E1%BA%A3n%20n%E1%BB%A3%20Nh%E1%BA%ADt%20%C4%91%E1%BB%A9ng%20t%C3%AAn%20(phi%C3%AAn%20b%E1%BA%A3n%20cho%20b%E1%BA%A1n%20b%C3%A8).md) |
+| [Bao nuôi](../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Qu%C3%A0%20t%E1%BA%B7ng/Bao%20nu%C3%B4i/index.md), [Giúp nhau tăng điểm tín dụng](../Gi%C3%BAp%20nhau%20tho%C3%A1t%20n%E1%BB%A3/C%C3%B4ng%20vi%E1%BB%87c/Gi%C3%BAp%20nhau%20t%C4%83ng%20%C4%91i%E1%BB%83m%20t%C3%ADn%20d%E1%BB%A5ng.md)                                                 | Nhật có [điểm tín dụng hạng 2](../Gi%C3%BAp%20nhau%20tho%C3%A1t%20n%E1%BB%A3/Ng%C6%B0%E1%BB%9Di%20th%E1%BB%A5%20h%C6%B0%E1%BB%9Fng/L%C3%BD%20Minh%20Nh%E1%BA%ADt/C%C3%A1c%20kho%E1%BA%A3n%20t%C3%A0i%20s%E1%BA%A3n%20v%C3%A0%20kho%E1%BA%A3n%20n%E1%BB%A3%20Nh%E1%BA%ADt%20%C4%91%E1%BB%A9ng%20t%C3%AAn%20(phi%C3%AAn%20b%E1%BA%A3n%20cho%20b%E1%BA%A1n%20b%C3%A8).md) |
 | [Làm MMO](../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Ki%E1%BA%BFm%20ti%E1%BB%81n/T%E1%BB%B1%20%C4%91%E1%BA%A7u%20t%C6%B0/Ki%E1%BA%BFm%20ti%E1%BB%81n%20tr%E1%BB%B1c%20tuy%E1%BA%BFn%20(MMO)/index.md)                                          | [Gom tài nguyên làm MMO](../T%E1%BA%A1o%20thu%20nh%E1%BA%ADp%20th%E1%BB%A5%20%C4%91%E1%BB%99ng/Gom%20t%C3%A0i%20nguy%C3%AAn%20l%C3%A0m%20MMO.md)                                                                           |
 | Đối thoại về cách Nhật tin, chú ý và ghi nhớ                                     | Ý tưởng về một câu chuyện mang tên *Hành trình đến với chữ "à"*                                      |
 
