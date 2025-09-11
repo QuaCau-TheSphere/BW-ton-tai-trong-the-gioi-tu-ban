@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-09-10T11:39
+updated: 2025-09-10T15:40
 ---
 
 ## Miêu tả ngắn gọn về bản thân (ví dụ: sở thích, đam mê, nguyện vọng, ước mơ, định hướng...)  *
@@ -29,7 +29,7 @@ Những hoạt động này là đầu vào để Nhật làm những hoạt đ�
 | Ghi chép nhân học nửa mùa                                                                | [Nhóm Biên Hoà](../Gi%C3%BAp%20nhau%20ki%E1%BA%BFm%20ti%E1%BB%81n/Ch%E1%BA%A1y%20ch%E1%BB%89%20ti%C3%AAu%20cho%20nh%C3%A2n%20vi%C3%AAn%20c%C3%B4ng%20ty/Ch%C6%A1i%20ch%C3%ADnh%20s%C3%A1ch/T%C3%A0i%20li%E1%BB%87u%20v%E1%BB%81%20t%E1%BB%ABng%20c%C3%B4ng%20ty/GM%20Mall/Nh%C3%B3m%20Bi%C3%AAn%20Ho%C3%A0.md)                                                                                                                         |
 | Xây dựng mạng kết nối nhu cầu                                                            | [Nhóm Zalo chia sẻ công việc, cơ hội của các nạn nhân của GM Mall](https://zalo.me/g/ojezyd465)                                           |
 | Hỗ trợ cho các tổ chức cùng định hướng                                                   | Chia sẻ các bài truyền thông về các hoạt động của các tổ chức phát triển bền vững khác (như Kulavietnam, SocialLife, VCIL) trong các nhóm |
-| [Xây dựng quỹ tín dụng vi mô](../Gi%C3%BAp%20nhau%20tho%C3%A1t%20n%E1%BB%A3/C%C3%B4ng%20vi%E1%BB%87c/Qu%E1%BB%B9/X%C3%A2y%20d%E1%BB%B1ng%20ng%C3%A2n%20h%C3%A0ng%20mini%20v%C3%A0%20m%E1%BA%A1ng%20l%C6%B0%E1%BB%9Bi%20cho%20vay%20ngang%20h%C3%A0ng.md) | [Quỹ giúp nhau giữ tài sản thế chấp](../Gi%C3%BAp%20nhau%20tho%C3%A1t%20n%E1%BB%A3/C%C3%B4ng%20vi%E1%BB%87c/Qu%E1%BB%B9/Qu%E1%BB%B9%20gi%C3%BAp%20nhau%20gi%E1%BB%AF%20t%C3%A0i%20s%E1%BA%A3n%20th%E1%BA%BF%20ch%E1%BA%A5p.md)                                                                                                    |
+| [Xây dựng quỹ tín dụng vi mô](../Gi%C3%BAp%20nhau%20tho%C3%A1t%20n%E1%BB%A3/Qu%E1%BB%B9/Ng%C3%A2n%20h%C3%A0ng%20mini%20v%C3%A0%20m%E1%BA%A1ng%20l%C6%B0%E1%BB%9Bi%20cho%20vay%20ngang%20h%C3%A0ng.md) | [Quỹ giúp nhau giữ tài sản thế chấp](../Gi%C3%BAp%20nhau%20tho%C3%A1t%20n%E1%BB%A3/Qu%E1%BB%B9/Qu%E1%BB%B9%20gi%C3%BAp%20nhau%20gi%E1%BB%AF%20t%C3%A0i%20s%E1%BA%A3n%20th%E1%BA%BF%20ch%E1%BA%A5p.md)                                                                                                    |
 | Văn bản hoá các trải nghiệm và hiểu biết sâu                                             | Các ghi chú trong kho B                                                                                                                   |
 | Lập trình                                                                                | Tạo danh bạ khách hàng vay FE Credit từ visit form                                                                                        |
 
