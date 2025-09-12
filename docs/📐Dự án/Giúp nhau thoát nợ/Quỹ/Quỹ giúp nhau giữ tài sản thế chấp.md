@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-09-10T15:38
+updated: 2025-09-12T10:09
 aliases:
   - giúp nhau giữ tài sản thế chấp
 ---
@@ -25,6 +25,5 @@ Nên hình thức này gọi là ngân hàng mini thì hợp hơn?
 Bài chi tiết:: [Làm sao cho vay mà không bị xù](../T%C3%A0i%20li%E1%BB%87u/L%C3%A0m%20sao%20cho%20vay%20m%C3%A0%20kh%C3%B4ng%20b%E1%BB%8B%20x%C3%B9.md), [Xử lý người xù nợ](../T%C3%A0i%20li%E1%BB%87u/X%E1%BB%AD%20l%C3%BD%20ng%C6%B0%E1%BB%9Di%20x%C3%B9%20n%E1%BB%A3.md)
 
 ## Người cần vay
-- [Nguyễn Hữu Lộc](../Ng%C6%B0%E1%BB%9Di%20th%E1%BB%A5%20h%C6%B0%E1%BB%9Fng/Nguy%E1%BB%85n%20H%E1%BB%AFu%20L%E1%BB%99c.md)
 
 ## Nơi thảo luận
