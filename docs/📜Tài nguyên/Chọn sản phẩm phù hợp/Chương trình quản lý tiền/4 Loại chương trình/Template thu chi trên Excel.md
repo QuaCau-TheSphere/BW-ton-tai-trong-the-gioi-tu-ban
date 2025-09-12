@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2025-08-16T22:05
+updated: 2025-09-12T13:48
 cssclasses:
   - wide-table
 ---
@@ -13,4 +13,8 @@ Tên chương trình:: [SaveDi](../5%20T%C3%AAn%20ch%C6%B0%C6%A1ng%20tr%C3%ACnh/
 
 
 Tính năng:
+- [Nhập được trên máy tính](../3%20T%C3%ADnh%20n%C4%83ng/C%C3%A1ch%20nh%E1%BA%ADp%20li%E1%BB%87u/Nh%E1%BA%ADp%20%C4%91%C6%B0%E1%BB%A3c%20tr%C3%AAn%20m%C3%A1y%20t%C3%ADnh.md)
+- [Phân loại bằng tay](../3%20T%C3%ADnh%20n%C4%83ng/C%C3%A1ch%20ph%C3%A2n%20lo%E1%BA%A1i/Ph%C3%A2n%20lo%E1%BA%A1i%20b%E1%BA%B1ng%20tay.md)
+- [Có GUI](../3%20T%C3%ADnh%20n%C4%83ng/Giao%20di%E1%BB%87n/C%C3%B3%20GUI.md)
+- [Thêm được nhiều trường phân loại](../3%20T%C3%ADnh%20n%C4%83ng/S%E1%BB%91%20l%C6%B0%E1%BB%A3ng%20tr%C6%B0%E1%BB%9Dng%20ph%C3%A2n%20lo%E1%BA%A1i/Th%C3%AAm%20%C4%91%C6%B0%E1%BB%A3c%20nhi%E1%BB%81u%20tr%C6%B0%E1%BB%9Dng%20ph%C3%A2n%20lo%E1%BA%A1i.md)
 
