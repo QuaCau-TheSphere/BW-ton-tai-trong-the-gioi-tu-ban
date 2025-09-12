@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2025-08-16T22:05
+updated: 2025-09-12T13:48
 cssclasses:
   - wide-table
 ---
@@ -15,4 +15,8 @@ Tên chương trình:: [Momo](../5%20T%C3%AAn%20ch%C6%B0%C6%A1ng%20tr%C3%ACnh/Ap
 
 
 Tính năng:
+- [Nhập được trên điện thoại](../3%20T%C3%ADnh%20n%C4%83ng/C%C3%A1ch%20nh%E1%BA%ADp%20li%E1%BB%87u/Nh%E1%BA%ADp%20%C4%91%C6%B0%E1%BB%A3c%20tr%C3%AAn%20%C4%91i%E1%BB%87n%20tho%E1%BA%A1i.md)
+- [Phân loại bằng tay](../3%20T%C3%ADnh%20n%C4%83ng/C%C3%A1ch%20ph%C3%A2n%20lo%E1%BA%A1i/Ph%C3%A2n%20lo%E1%BA%A1i%20b%E1%BA%B1ng%20tay.md)
+- [Có GUI](../3%20T%C3%ADnh%20n%C4%83ng/Giao%20di%E1%BB%87n/C%C3%B3%20GUI.md)
+- [Bất cập của các app quản lý tiền hiện có](../B%E1%BA%A5t%20c%E1%BA%ADp%20c%E1%BB%A7a%20c%C3%A1c%20app%20qu%E1%BA%A3n%20l%C3%BD%20ti%E1%BB%81n%20hi%E1%BB%87n%20c%C3%B3.md)
 

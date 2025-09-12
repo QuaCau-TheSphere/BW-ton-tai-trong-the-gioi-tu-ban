@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2025-08-16T22:05
+updated: 2025-09-12T13:48
 cssclasses:
   - wide-table
 ---
@@ -14,6 +14,14 @@ Tên chương trình:: [Misa](../5%20T%C3%AAn%20ch%C6%B0%C6%A1ng%20tr%C3%ACnh/K%
 
 
 Tính năng:
+- [Nhập được trên máy tính](../3%20T%C3%ADnh%20n%C4%83ng/C%C3%A1ch%20nh%E1%BA%ADp%20li%E1%BB%87u/Nh%E1%BA%ADp%20%C4%91%C6%B0%E1%BB%A3c%20tr%C3%AAn%20m%C3%A1y%20t%C3%ADnh.md)
+- [Điều khiển dễ dàng bằng bàn phím](../3%20T%C3%ADnh%20n%C4%83ng/C%C3%A1ch%20nh%E1%BA%ADp%20li%E1%BB%87u/%C4%90i%E1%BB%81u%20khi%E1%BB%83n%20d%E1%BB%85%20d%C3%A0ng%20b%E1%BA%B1ng%20b%C3%A0n%20ph%C3%ADm.md)
+- [Phân loại bằng tay](../3%20T%C3%ADnh%20n%C4%83ng/C%C3%A1ch%20ph%C3%A2n%20lo%E1%BA%A1i/Ph%C3%A2n%20lo%E1%BA%A1i%20b%E1%BA%B1ng%20tay.md)
+- [Có GUI](../3%20T%C3%ADnh%20n%C4%83ng/Giao%20di%E1%BB%87n/C%C3%B3%20GUI.md)
+- [Dùng được trên CLI](../3%20T%C3%ADnh%20n%C4%83ng/Giao%20di%E1%BB%87n/D%C3%B9ng%20%C4%91%C6%B0%E1%BB%A3c%20tr%C3%AAn%20CLI.md)
+- [Dễ dàng thiết lập việc tự động truyền dữ liệu sang các phần mềm khác](../3%20T%C3%ADnh%20n%C4%83ng/Kh%E1%BA%A3%20n%C4%83ng%20t%C3%ADch%20h%E1%BB%A3p/D%E1%BB%85%20d%C3%A0ng%20thi%E1%BA%BFt%20l%E1%BA%ADp%20vi%E1%BB%87c%20t%E1%BB%B1%20%C4%91%E1%BB%99ng%20truy%E1%BB%81n%20d%E1%BB%AF%20li%E1%BB%87u%20sang%20c%C3%A1c%20ph%E1%BA%A7n%20m%E1%BB%81m%20kh%C3%A1c.md)
+- [Thêm được nhiều trường phân loại](../3%20T%C3%ADnh%20n%C4%83ng/S%E1%BB%91%20l%C6%B0%E1%BB%A3ng%20tr%C6%B0%E1%BB%9Dng%20ph%C3%A2n%20lo%E1%BA%A1i/Th%C3%AAm%20%C4%91%C6%B0%E1%BB%A3c%20nhi%E1%BB%81u%20tr%C6%B0%E1%BB%9Dng%20ph%C3%A2n%20lo%E1%BA%A1i.md)
+- [Bất cập của các app quản lý tiền hiện có](../B%E1%BA%A5t%20c%E1%BA%ADp%20c%E1%BB%A7a%20c%C3%A1c%20app%20qu%E1%BA%A3n%20l%C3%BD%20ti%E1%BB%81n%20hi%E1%BB%87n%20c%C3%B3.md)
 
 
 ## Nguyên lý kế toán
