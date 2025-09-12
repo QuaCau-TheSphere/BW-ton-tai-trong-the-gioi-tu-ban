@@ -3,8 +3,8 @@ share: true
 created: 2025-04-20T16:47
 aliases:
   - Xây dựng quỹ tín dụng vi mô
-  - Mạng lưới cho vay chéo
-updated: 2025-08-31T12:44
+  - Mạng lưới cho vay chéo, phi tập trung
+updated: 2025-09-12T13:45
 ---
 ## Ý tưởng
 Khi một người cần vay thì sẽ có 2 nguồn để vay:
@@ -18,13 +18,6 @@ Nên để đảm bảo sự bền vững, thậm chí là sự khả thi, **cô
 Bởi vì công việc chính của quỹ không phải là cho vay, mà là hỗ trợ họ vay, nên tốt nhất nhà đầu tư nên đầu tư trực tiếp cho người cần vay, chứ không phải cho quỹ. Nói cách khác, quỹ cần giúp đỡ người cần vay tự thành lập một quỹ cho riêng mình. Nói cách khác, quỹ cần tự nhân bản chính nó.
 
 ## Mô hình hoạt động
-Thì phải Còn ko thì vay đầu này trả đầu kia. Như mấy đứa xào thẻ vậy. Vay nhiều đầu nhưng thực ra chỉ có một khoản được kéo dài kỳ hạn mà thôi
-
-Nói chung anh hiểu là anh đứng ra gánh thì là ko bền vững. Nhưng thứ anh hướng tới là một hệ thống có thể luân chuyển nợ cho nhau để con nợ có một khoản nợ kỳ hạn dài, để khi chia ra thì thu nhập có thể theo kịp, mặc dù trên thực tế thì có thể thấy đang phải trả nhiều khoản cùng lúc
-
-Ngân hàng hay doanh nghiệp nợ nhau thì cũng thế thôi. Có điều họ có nhân sự để quản lý với đi vay. Thì nhóm như là nhân sự giùm người vay vậy. 
-
-
 Cách hoạt động của ngân hàng hay bảo hiểm khá đơn giản: [phân tán rủi ro, lấy số đông may mắn bù cho số ít xui xẻo](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/T%E1%BB%95%20ch%E1%BB%A9c%20t%C3%A0i%20ch%C3%ADnh/B%E1%BA%A3o%20hi%E1%BB%83m/Lo%E1%BA%A1i%20h%C3%ACnh%20b%E1%BA%A3o%20hi%E1%BB%83m/Nh%C3%A2n%20th%E1%BB%8D/B%E1%BA%A3o%20hi%E1%BB%83m%20nh%C3%A2n%20th%E1%BB%8D%20ho%E1%BA%A1t%20%C4%91%E1%BB%99ng%20b%E1%BA%B1ng%20vi%E1%BB%87c%20ph%C3%A2n%20t%C3%A1n%20r%E1%BB%A7i%20ro,%20l%E1%BA%A5y%20s%E1%BB%91%20%C4%91%C3%B4ng%20may%20m%E1%BA%AFn%20b%C3%B9%20cho%20s%E1%BB%91%20%C3%ADt%20xui%20x%E1%BA%BBo.md). Nó như kiểu trong transistor thì có những lỗ trống được tạo ra do thiếu electron vậy. Cái lỗ trống đó cứ chạy lòng vòng trong đó thì cũng không ai bị thiệt hại quá nhiều. Thực ra đây cũng chính là cách mà những người vay ngân hàng dùng các thẻ tín dụng khác nhau để xử lý, thường hay gọi là "đảo nợ" hoặc "xào thẻ". Về cơ bản vẫn là thu hút được nhiều người gửi tiền tiết kiệm. Cần tính toán làm sao để tiền lời vẫn đủ để có thể chấp nhận một số người xù.
 
 Tương tự với việc nếu những người vay biết nhau thì sẽ làm giảm rủi ro họ xù mình, nếu những người cho vay cũng biết nhau thì sẽ làm tăng khả năng họ tin tưởng mình để cho mình vay được nhiều hơn. 
@@ -66,18 +59,7 @@ Tốt nhất chỉ huy động từ những người không yêu cầu thời h�
 - Kết nối người vay và người cho vay. Nếu người vay xù thì quỹ không phải trả cho người cho vay. Hình thức này không khác gì một sàn cho vay ngang hàng
 
 ## FAQ
-### Nhỡ bị xù thì sao?
 [Làm sao cho vay mà không bị xù](../T%C3%A0i%20li%E1%BB%87u/L%C3%A0m%20sao%20cho%20vay%20m%C3%A0%20kh%C3%B4ng%20b%E1%BB%8B%20x%C3%B9.md)
-Chơi với lửa, chơi với dao. Điều đáng sợ mới đáng làm. Những thứ rủi ro cao, nên chỉ có thể là đầu tư mạo hiểm
-
-Có lẽ câu hỏi tốt hơn không phải là "nhỡ bị xù thì sao", mà là "làm sao để hạn chế bị xù", và "phải làm gì để việc xù không gây ảnh hưởng".
-
-Vay điên đảo rồi 
-quỹ phi tập trung
-### Làm sao để hạn chế bị xù?
-Ngoài việc yêu cầu phải hoàn thành [tạo hồ sơ bản thân](../B%E1%BA%A3n%20c%C3%A2u%20h%E1%BB%8Fi%20cho%20ng%C6%B0%E1%BB%9Di%20c%E1%BA%A7n%20%C4%91%C6%B0%E1%BB%A3c%20h%E1%BB%97%20tr%E1%BB%A3%20tho%C3%A1t%20n%E1%BB%A3.md) cũng như hỗ trợ họ kiếm tiền, để họ cảm thấy việc xù mình là bất lợi, thì có thể cho vay theo nhóm hơn là cho vay cá nhân. ([Cho vay theo nhóm bền vững hơn, ít bị xù hơn. Cho vay cá nhân nhiều lợi nhuận hơn, dễ mở rộng phạm vi hoạt động hơn](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/T%E1%BB%95%20ch%E1%BB%A9c%20t%C3%A0i%20ch%C3%ADnh/T%E1%BB%95%20ch%E1%BB%A9c%20t%C3%ADn%20d%E1%BB%A5ng/Cho%20vay%20theo%20nh%C3%B3m%20b%E1%BB%81n%20v%E1%BB%AFng%20h%C6%A1n,%20%C3%ADt%20b%E1%BB%8B%20x%C3%B9%20h%C6%A1n.%20Cho%20vay%20c%C3%A1%20nh%C3%A2n%20nhi%E1%BB%81u%20l%E1%BB%A3i%20nhu%E1%BA%ADn%20h%C6%A1n,%20d%E1%BB%85%20m%E1%BB%9F%20r%E1%BB%99ng%20ph%E1%BA%A1m%20vi%20ho%E1%BA%A1t%20%C4%91%E1%BB%99ng%20h%C6%A1n.md)). Điều này có nghĩa là những người vay phải quản lý tiến trình trả nợ của nhau. Ví dụ, những người đang [nhờ Nhật đứng tên](../Ng%C6%B0%E1%BB%9Di%20th%E1%BB%A5%20h%C6%B0%E1%BB%9Fng/L%C3%BD%20Minh%20Nh%E1%BA%ADt/C%C3%A1c%20kho%E1%BA%A3n%20t%C3%A0i%20s%E1%BA%A3n%20v%C3%A0%20kho%E1%BA%A3n%20n%E1%BB%A3%20Nh%E1%BA%ADt%20%C4%91%E1%BB%A9ng%20t%C3%AAn%20(phi%C3%AAn%20b%E1%BA%A3n%20cho%20b%E1%BA%A1n%20b%C3%A8).md) cần nói chuyện với nhau để có thể đảm bảo rằng Nhật không bị mất uy tín, để còn có thể đứng ra vay tiếp cho nhóm.
-
-đảm bảo thu nhập trong tháng vẫn đủ để trả các khoản tới hạn. Cơ bản là một dạng làm startup với họ
 
 ## Nơi thảo luận
 ![](https://i.imgur.com/RNcEBe4.png)
