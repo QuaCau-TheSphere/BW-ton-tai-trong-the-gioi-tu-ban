@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-08-31T16:56
+updated: 2025-09-14T20:44
 title: Đề xuất vay nợ của Nguyễn Đức Thịnh
 ---
 ## Thông tin chính
@@ -132,7 +132,7 @@ Người cho em vay có quyền thảo luận với em về những khoản nợ
 
 Những người nhận được đề xuất vay nợ này có thể chia sẻ cho những người họ thấy có thể giúp em mà không cần hỏi em, nhưng chỉ được nói riêng, không được trong nhóm, kể cả khi nhóm đó đều có những người muốn giúp em và không đông. Em không muốn mình là một phần của các phân tích của một nhóm. Họ thảo luận với nhau thì không vấn đề gì, nhưng em nhận tiền của ai thì chỉ biết tới người đó.
 
-#### Bạn có sẵn sàng tham gia vào các công việc [giúp nhau thoát nợ](../../index.md) để việc hỗ trợ người mang nợ dễ dàng hơn không?
+#### Bạn có sẵn sàng tham gia vào các công việc [Giúp nhau thoát nợ](../../Qu%E1%BB%B9/Ng%C3%A2n%20h%C3%A0ng%20mini%20v%C3%A0%20m%E1%BA%A1ng%20l%C6%B0%E1%BB%9Bi%20cho%20vay%20ngang%20h%C3%A0ng.md) để việc hỗ trợ người mang nợ dễ dàng hơn không?
 Sẽ cân nhắc
 
 
