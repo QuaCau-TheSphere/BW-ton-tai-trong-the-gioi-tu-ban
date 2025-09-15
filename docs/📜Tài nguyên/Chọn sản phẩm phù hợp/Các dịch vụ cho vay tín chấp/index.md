@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-07-17T21:41
-updated: 2025-09-10T15:40
+updated: 2025-09-14T20:10
 title: Các dịch vụ cho vay tín chấp
 ---
 ## Từ cá nhân
@@ -73,10 +73,9 @@ Cao nhất là có lợi nhất.
 - Chơi hụi, bóc họ
 
 ## Nơi thảo luận
-![](https://i.imgur.com/OtW4epu.png)
-
+![](https://imagizer.imageshack.com/a/img923/1273/jQAnX6.png)
 
 Kênh telesale và kênh thị trường
-telesale hỏi cho đã cũng phải tự làm trên app
+[Telesale hỏi cho đã cũng phải tự làm trên app](./Telesale%20h%E1%BB%8Fi%20cho%20%C4%91%C3%A3%20c%C5%A9ng%20ph%E1%BA%A3i%20t%E1%BB%B1%20l%C3%A0m%20tr%C3%AAn%20app.md)
 
 [Momo bảo chứng sẽ đáng tin hơn FE, vì FE không biết mình là ai còn Momo thì có đủ số liệu dòng tiền](../../T%C3%ACnh%20h%C3%ACnh%20%E1%BB%9F%20Vi%E1%BB%87t%20Nam/L%C4%A9nh%20v%E1%BB%B1c%20c%E1%BB%A5%20th%E1%BB%83/T%C3%A0i%20ch%C3%ADnh/T%E1%BB%95%20ch%E1%BB%A9c%20t%C3%ADn%20d%E1%BB%A5ng/T%E1%BB%95%20ch%E1%BB%A9c%20t%C3%ADn%20d%E1%BB%A5ng%20phi%20ng%C3%A2n%20h%C3%A0ng/Momo%20b%E1%BA%A3o%20ch%E1%BB%A9ng%20s%E1%BA%BD%20%C4%91%C3%A1ng%20tin%20h%C6%A1n%20FE,%20v%C3%AC%20FE%20kh%C3%B4ng%20bi%E1%BA%BFt%20m%C3%ACnh%20l%C3%A0%20ai%20c%C3%B2n%20Momo%20th%C3%AC%20c%C3%B3%20%C4%91%E1%BB%A7%20s%E1%BB%91%20li%E1%BB%87u%20d%C3%B2ng%20ti%E1%BB%81n.md)

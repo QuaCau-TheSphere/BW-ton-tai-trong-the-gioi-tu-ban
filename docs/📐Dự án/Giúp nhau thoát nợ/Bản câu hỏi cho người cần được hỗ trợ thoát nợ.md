@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2025-08-31T16:56
+updated: 2025-09-14T21:25
 ---
 - Theo bạn đâu là cách để giúp bạn bền vững?
 - Bạn nghĩ mình cần làm những gì để kiếm được một người có tiền và để họ đồng ý cho bạn vay? 
@@ -15,12 +15,13 @@ updated: 2025-08-31T16:56
 |          |         |     |              |       |
 
 - Cuộc sống của bạn đã thay đổi thế nào từ lúc có nợ?
+- Bạn đã làm [báo cáo tài chính](../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Ki%E1%BA%BFm%20ti%E1%BB%81n/T%C3%A0i%20ch%C3%ADnh%20c%C3%A1%20nh%C3%A2n/B%C3%A1o%20c%C3%A1o%20t%C3%A0i%20ch%C3%ADnh%20c%C3%A1%20nh%C3%A2n%20g%E1%BB%93m%20b%E1%BA%A3ng%20thu%20chi%20c%C3%A1%20nh%C3%A2n%20v%C3%A0%20b%E1%BA%A3ng%20c%C3%A2n%20%C4%91%E1%BB%91i%20t%C3%A0i%20s%E1%BA%A3n.md) và [kế hoạch tài chính](../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Ki%E1%BA%BFm%20ti%E1%BB%81n/T%C3%A0i%20ch%C3%ADnh%20c%C3%A1%20nh%C3%A2n/K%E1%BA%BF%20ho%E1%BA%A1ch%20t%C3%A0i%20ch%C3%ADnh%20c%C3%A1%20nh%C3%A2n/index.md) chưa?
 - Chi phí sinh hoạt hàng tháng:
 
 | Khoản chi | Số tiền | Ngày chi | 
 | --------- | ------- | -------- |
 |           |         |          |
-- Bạn đánh giá mình thuộc loại nghèo nào? Xem chi tiết ở bài [Việt Nam không ai chết đói, chỉ có nghèo đa chiều](../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Ph%C3%A1t%20tri%E1%BB%83n%20b%E1%BB%81n%20v%E1%BB%AFng/Ng%C6%B0%E1%BB%9Di%20ngh%C3%A8o/Vi%E1%BB%87t%20Nam%20kh%C3%B4ng%20ai%20ch%E1%BA%BFt%20%C4%91%C3%B3i,%20ch%E1%BB%89%20c%C3%B3%20ngh%C3%A8o%20%C4%91a%20chi%E1%BB%81u.md)
+- Bạn đánh giá mình thuộc loại nghèo nào? Xem chi tiết ở bài [Việt Nam không ai chết đói, chỉ có nghèo đa chiều](../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Ph%C3%A1t%20tri%E1%BB%83n%20b%E1%BB%81n%20v%E1%BB%AFng.%20C%C3%A1c%20n%E1%BB%81n%20kinh%20t%E1%BA%BF%20thay%20th%E1%BA%BF/Th%E1%BB%B1c%20tr%E1%BA%A1ng/Ng%C6%B0%E1%BB%9Di%20ngh%C3%A8o/Vi%E1%BB%87t%20Nam%20kh%C3%B4ng%20ai%20ch%E1%BA%BFt%20%C4%91%C3%B3i,%20ch%E1%BB%89%20c%C3%B3%20ngh%C3%A8o%20%C4%91a%20chi%E1%BB%81u.md)
 - Bạn có những đề xuất vay nào?
 
 | STT | Số tiền | Ngày trả | Lãi |
@@ -61,7 +62,7 @@ updated: 2025-08-31T16:56
 - Mức độ bí mật của những thông tin bạn chia sẻ ở đây là gì? Ai sẽ là người bạn cảm thấy thoải mái khi họ biết được những gì bạn chia sẻ? Vì sao?
 	- Với các yêu cầu bạn đưa ra, bạn nghĩ gì về việc nó sẽ tạo khó khăn cho người muốn giúp bạn?
 	- Với lý do bạn đưa ra, bạn thấy rằng nó không thể đánh đổi với việc giúp bạn hiệu quả hơn?
-- Bạn có sẵn sàng tham gia công việc [Giúp nhau thoát nợ](./index.md) để việc hỗ trợ những người mang nợ như bạn dễ dàng hơn không?
+- Bạn có sẵn sàng tham gia công việc [giúp nhau thoát nợ](./Qu%E1%BB%B9/Ng%C3%A2n%20h%C3%A0ng%20mini%20v%C3%A0%20m%E1%BA%A1ng%20l%C6%B0%E1%BB%9Bi%20cho%20vay%20ngang%20h%C3%A0ng.md) để việc hỗ trợ những người mang nợ như bạn dễ dàng hơn không?
 - Việc họ nghĩ là cần hay 
 - Bạn muốn ai sẽ hỗ trợ bạn?
 
@@ -76,3 +77,6 @@ updated: 2025-08-31T16:56
 ## Xem thêm
 - [Các lý do cho việc giúp đỡ hoặc không giúp đỡ](./T%C3%A0i%20li%E1%BB%87u/Ni%E1%BB%81m%20tin/C%C3%A1c%20l%C3%BD%20do%20cho%20vi%E1%BB%87c%20gi%C3%BAp%20%C4%91%E1%BB%A1%20ho%E1%BA%B7c%20kh%C3%B4ng%20gi%C3%BAp%20%C4%91%E1%BB%A1.md)
 - [Bản câu hỏi cho người muốn gửi tiền tiết kiệm](./B%E1%BA%A3n%20c%C3%A2u%20h%E1%BB%8Fi%20cho%20ng%C6%B0%E1%BB%9Di%20mu%E1%BB%91n%20g%E1%BB%ADi%20ti%E1%BB%81n%20ti%E1%BA%BFt%20ki%E1%BB%87m.md)
+
+## Nơi thảo luận
+![](https://imagizer.imageshack.com/a/img923/1273/jQAnX6.png)

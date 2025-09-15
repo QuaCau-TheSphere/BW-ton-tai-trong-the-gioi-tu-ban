@@ -1,10 +1,11 @@
 ---
 share: true
-created: 2025-04-20T16:47
+created: 2025-03-27T17:13
 aliases:
   - Xây dựng quỹ tín dụng vi mô
   - Mạng lưới cho vay chéo, phi tập trung
-updated: 2025-09-12T13:45
+  - Giúp nhau thoát nợ
+updated: 2025-09-14T20:44
 ---
 ## Ý tưởng
 Khi một người cần vay thì sẽ có 2 nguồn để vay:
@@ -25,8 +26,6 @@ Tương tự với việc nếu những người vay biết nhau thì sẽ làm 
 Việc tìm giùm người có thể được xem như:
 - Tìm người cần vay gửi cho quỹ
 - Chuyển giao nợ lẫn nhau
-
-
 
 Một điều chắc chắn là quỹ sẽ chỉ hoạt động phi chính thức chứ không đăng ký, vì [Tổ chức tài chính vi mô chính thức phải có chủ là tổ chức chính trị - xã hội được thành lập hợp pháp, và khách hàng phải được xác nhận là nghèo hoặc từng nghèo](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/T%C3%ACnh%20h%C3%ACnh%20%E1%BB%9F%20Vi%E1%BB%87t%20Nam/Lu%E1%BA%ADt,%20qu%E1%BA%A3n%20l%C3%BD%20nh%C3%A0%20n%C6%B0%E1%BB%9Bc/T%C3%A0i%20ch%C3%ADnh/T%C3%A0i%20ch%C3%ADnh%20vi%20m%C3%B4/T%E1%BB%95%20ch%E1%BB%A9c%20t%C3%A0i%20ch%C3%ADnh%20vi%20m%C3%B4%20ch%C3%ADnh%20th%E1%BB%A9c%20ph%E1%BA%A3i%20c%C3%B3%20ch%E1%BB%A7%20l%C3%A0%20t%E1%BB%95%20ch%E1%BB%A9c%20ch%C3%ADnh%20tr%E1%BB%8B%20-%20x%C3%A3%20h%E1%BB%99i%20%C4%91%C6%B0%E1%BB%A3c%20th%C3%A0nh%20l%E1%BA%ADp%20h%E1%BB%A3p%20ph%C3%A1p,%20v%C3%A0%20kh%C3%A1ch%20h%C3%A0ng%20ph%E1%BA%A3i%20%C4%91%C6%B0%E1%BB%A3c%20x%C3%A1c%20nh%E1%BA%ADn%20l%C3%A0%20ngh%C3%A8o%20ho%E1%BA%B7c%20t%E1%BB%ABng%20ngh%C3%A8o.md).
 
@@ -63,3 +62,5 @@ Tốt nhất chỉ huy động từ những người không yêu cầu thời h�
 
 ## Nơi thảo luận
 ![](https://i.imgur.com/RNcEBe4.png)
+![](https://imagizer.imageshack.com/a/img923/1273/jQAnX6.png)
+

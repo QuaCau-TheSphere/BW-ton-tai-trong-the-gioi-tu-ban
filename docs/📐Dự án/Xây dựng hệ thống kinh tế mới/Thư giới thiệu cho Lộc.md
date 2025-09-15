@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-09-11T14:51
+updated: 2025-09-15T06:41
 description: Vì sao lại giúp người không chủ động hành động?
 ---
 Xin chào các bạn VCIL,
@@ -32,6 +32,8 @@ Có thể còn nhiều lỗ hổng và mâu thuẫn trong những lập luận n
 - Có thể có các buổi gặp mặt để trao đổi trực tiếp với Lộc
 
 Tất nhiên cách lý tưởng này có thể đang vượt qua khả năng chịu rủi ro của nhóm. Hơn nữa mình cũng biết là không đi được lần này thì chắc vẫn sẽ còn những đợt khác. Lúc đó cũng có thể đủ sự tập trung và tiền bạc hơn. Nhưng nếu đề xuất trên là ổn thì mình chưa tìm được lý do nào để phải chờ tới dịp tiếp theo. 
+
+Các bạn có thể đọc bài [đề xuất vay nợ của Lộc](../Gi%C3%BAp%20nhau%20tho%C3%A1t%20n%E1%BB%A3/Ng%C6%B0%E1%BB%9Di%20th%E1%BB%A5%20h%C6%B0%E1%BB%9Fng/Nguy%E1%BB%85n%20H%E1%BB%AFu%20L%E1%BB%99c/%C4%90%E1%BB%81%20xu%E1%BA%A5t%20vay%20n%E1%BB%A3.md) để biết thêm chi tiết.
 
 ## Phụ lục
 ### Khi nào thì một người có dự tính hành động?

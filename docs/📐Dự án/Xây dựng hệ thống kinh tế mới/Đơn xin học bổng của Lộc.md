@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-09-10T15:40
+updated: 2025-09-14T20:50
 ---
 
 ## Miêu tả ngắn gọn về bản thân (ví dụ: sở thích, đam mê, nguyện vọng, ước mơ, định hướng...)  *

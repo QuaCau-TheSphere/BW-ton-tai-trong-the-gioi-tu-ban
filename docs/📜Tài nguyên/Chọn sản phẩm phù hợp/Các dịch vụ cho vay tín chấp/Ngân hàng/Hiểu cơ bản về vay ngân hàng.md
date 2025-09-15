@@ -1,123 +1,9 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-08-23T16:19
+updated: 2025-09-14T21:01
 ---
-
-
-Tín dụng được dùng nhiều hơn 
-Bộ các tiêu chí đánh giá: tổng tài sản, tổng nguồn vốn
-
-Mức độ uy tín của doanh nghiệp: Doanh nghiệp nhà nước → doanh nghiệp nước ngoài → 
-Lịch sử thu nhập: tăng dần đều (có tiến triển), tăng bất thường (được thưởng cao, thì phải xem là có duy trì hoài được không)
-
-Ưu tiên các nhóm ngành cơ bản, thiết yếu
-
-Vay thẻ tín dụng thì được tích đến cuối kỳ, xong rồi thì lại được vay lại dùng lại. Vay các khoản khác thì mỗi kỳ phải trả, và trả xong hết rồi thì không được vay lại
-Tiền vay dài thì ngân hàng phải tính tiền của mình phải dư trả trong một thời gian rất dài. Còn tín dụng thì chỉ cần tính tiền của mình đủ để trả lãi và 
-
-[Cho vay cá nhân lợi hơn là cho vay doanh nghiệp](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/T%E1%BB%95%20ch%E1%BB%A9c%20t%C3%A0i%20ch%C3%ADnh/T%E1%BB%95%20ch%E1%BB%A9c%20t%C3%ADn%20d%E1%BB%A5ng/Ng%C3%A2n%20h%C3%A0ng,%20%C4%91i%E1%BB%83m%20t%C3%ADn%20d%E1%BB%A5ng/Cho%20vay%20c%C3%A1%20nh%C3%A2n%20l%E1%BB%A3i%20h%C6%A1n%20l%C3%A0%20cho%20vay%20doanh%20nghi%E1%BB%87p.md)
-
-Hồi xưa ngân hàng có một tiêu chí quan trọng để yêu cầu mua bảo hiểm vay là sự phụ thuộc vào 
-
-
----
-
-Tài liệu Workshop: Bây giờ vay tiền, có nên không?
-
-CÂU HỎI LỚN NHẤT LÚC NÀY CỦA BẠN VỀ VAY TIỀN?
-
-## Module Đọc 1: Vay Tín Dụng Là Gì & Tại Sao Cần Cân Nhắc Kỹ?
-
-- Vay tín dụng: Là việc bạn nhận được một khoản tiền từ tổ chức/cá nhân và cam kết hoàn trả cả gốc lẫn lãi theo thỏa thuận.
-- Nền tảng: Hoạt động vay dựa trên niềm tin (uy tín và năng lực trả nợ) của người vay.
-- Tại sao cần cân nhắc kỹ "bây giờ": Bối cảnh kinh tế luôn thay đổi ảnh hưởng đến thu nhập, chi phí và khả năng trả nợ của bạn. Quyết định vay cần dựa trên đánh giá khách quan tình hình hiện tại và dự báo tương lai.
-
-Module 2
-
-## Module Đọc 2: 3 Câu Hỏi Cốt Lõi
-
-Theo bạn 3 câu hỏi cốt lõi từng nhóm cần trả lời là gì?
-
-Hãy xác định 3 câu hỏi ấy
-
-![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcB59_6cljCnOSfH4auDqwJnj5Qc-Fu1DrK6z8w1L_2IqDF6GLyDuLMPHb77jv-OM3A9EmQBkp-pT-SWpcH0jL495t8ACp_q6YvVYkzI1kLcMS7J886jbZO_F6Af0SLVy4bgII1=s800?key=H7TuBy-JP0Q4bra7qhZLQA)
-
-Đây là 3 câu hỏi quan trọng nhất mà bạn cần tự trả lời một cách thành thật trước khi quyết định vay. Ngân hàng cũng sẽ dựa vào đây để đánh giá hồ sơ của bạn.
-
-### 2.1. Mục Đích Vay Tiền Là Gì?
-
-- Quan điểm Ngân hàng: Ngân hàng luôn hỏi mục đích để đánh giá tính khả thi và khả năng thu hồi nợ. Mục đích tạo ra giá trị gia tăng (mua nhà, kinh doanh) thường được đánh giá cao hơn mục đích tiêu dùng không thiết yếu (chi tiêu cá nhân, giải trí).
-- Áp dụng cho các nhóm:
-
-- Nhóm Chưa vay: Mục đích vay của bạn có thực sự cần thiết lúc này không? Có phương án nào khác thay thế không?
-- Nhóm Đang trả nợ & cần vay thêm: Mục đích vay mới có cấp bách và chính đáng không? Nó có giúp cải thiện tình hình tài chính tổng thể hay chỉ làm tăng gánh nặng?
-
-### 2.2. Nguồn Tài Chính Dùng Để Trả Nợ Đến Từ Đâu?
-
-- Quan trọng nhất: Khả năng trả nợ dựa trên nguồn tài chính ổn định của bản thân, không phụ thuộc vào các nguồn không chắc chắn (người thân cho, thu nhập không đều).
-- Cách xác định nguồn trả nợ ổn định:
-
-- Liệt kê các nguồn thu nhập (lương, thưởng, lợi nhuận kinh doanh - phân loại ổn định/bất thường).
-- Liệt kê các khoản chi phí cố định và dự kiến phát sinh (sinh hoạt, gia đình, chi phí khoản vay hiện hữu, chi phí dự phòng).
-- Số tiền còn lại sau khi trừ chi phí là số có thể dùng để trả nợ một cách ổn định.
-
-- Áp dụng cho các nhóm:
-
-- Nhóm Chưa vay: Tính toán kỹ lưỡng thu nhập và chi phí hiện tại để xác định khả năng trả nợ hàng tháng.
-- Nhóm Đang trả nợ: Đánh giá lại nguồn trả nợ hiện tại có còn ổn định như khi vay không? Các chi phí phát sinh có ảnh hưởng nhiều không?
-- Nhóm Đang trả nợ & cần vay thêm: Tính toán lại toàn bộ dòng tiền khi có thêm khoản nợ mới. Nguồn thu nhập hiện tại có đủ gánh cả nợ cũ và nợ mới một cách ổn định không? Cần dự phòng như thế nào?
-
-- Rủi ro: Không trả nợ đúng hạn dẫn đến phí phạt, nợ xấu, phiền toái từ ngân hàng.
-
-### 2.3. Thời Gian Dự Kiến Trả Nợ Là Bao Lâu?
-
-- Các yếu tố: Thời hạn trả nợ (tổng thời gian), kỳ trả nợ (tháng/quý), thời điểm trả nợ trong kỳ (ngày nào trong tháng/quý).
-- Lựa chọn thời hạn vay:
-
-- Không nên ưu tiên thời hạn vay tối đa chỉ vì số tiền gốc hàng tháng nhỏ đi.
-- Vay dài hạn thường đi kèm lãi suất tổng thể cao hơn và phí phạt nếu muốn trả nợ sớm.
-- Chọn thời hạn phù hợp với khả năng trả nợ ổn định của bạn, có tính đến các rủi ro không lường trước (mất việc, kinh doanh khó khăn).
-
-- Lựa chọn kỳ hạn và thời điểm trả nợ:
-
-- Chọn kỳ hạn (tháng/quý) phù hợp với chu kỳ có thu nhập chính của bạn.
-- Chọn thời điểm trả nợ trong kỳ sau thời điểm bạn chắc chắn có thu nhập và đã trừ các chi phí sinh hoạt cơ bản (ví dụ: nhận lương cuối tháng, nên chọn trả nợ giữa tháng sau).
-
-- Áp dụng cho các nhóm:
-
-- Nhóm Chưa vay: Cân nhắc kỹ thời hạn và thời điểm trả nợ phù hợp nhất với dòng tiền cá nhân/doanh nghiệp của mình.
-- Nhóm Đang trả nợ & cần vay thêm: Đánh giá lại liệu thời hạn vay cũ có còn phù hợp không. Khoản vay mới nên có thời hạn và kỳ trả nợ như thế nào để tối ưu hóa dòng tiền chung?
-
-Module 3
-
-## Module Đọc 3: Các Yếu Tố Cần Lưu Ý Khác
-
-### 3.1. Tài Sản Đảm Bảo (Tài Sản Thế Chấp)
-
-- Vai trò: Là sự ràng buộc để ngân hàng yên tâm bạn sẽ tuân thủ hợp đồng, không phải là yếu tố quan trọng nhất (uy tín quan trọng hơn).
-- Tiêu chí Ngân hàng đánh giá: Tính thanh khoản (dễ bán ra tiền), giấy tờ pháp lý đầy đủ, không tranh chấp, giá trị ổn định theo thời gian.
-
-### 3.2. Lãi Suất Vay và Các Loại Phí
-
-- Lãi suất ưu đãi: Chỉ áp dụng ban đầu, thường đi kèm điều khoản ràng buộc.
-- Lãi suất sau ưu đãi: Thường được tính theo công thức (lãi suất cơ sở + biên độ). Cần yêu cầu ngân hàng giải thích rõ ràng cách tính này.
-- Các loại phí: Phí thẩm định, phí quản lý tài khoản, phí trả nợ trước hạn, phí phạt chậm trả... Cần hỏi rõ tất cả các loại phí liên quan.
-
-### 3.3. Rà Soát Thông Tin Sau Khi Vay
-
-- Sau khi ký hợp đồng, bạn cần chủ động liên hệ ngân hàng để rà soát các thông tin như số tiền đã trả, lãi suất hiện tại để đảm bảo mọi thứ chính xác.
-
-Tài liệu chi tiết
-
-nợ sạch . sạch nợ
-
-![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXeV7M4_UwANdLVG4kirvWGlEPLdDCLuZbm0iz9FMfub9crf-oY-3lmIRgz-sF_lHI4F_rl8YCz8_6ZjX0WcZjYU_GUUiLXVA73eTn_CkC8CtR4hHRzdVh43h0-Umyf36yIsWknr=s800?key=H7TuBy-JP0Q4bra7qhZLQA)
-
-Công Thắng, 8/2019
-
-Vay tín dụng là gì?
-
+# Vay tín dụng là gì?
 Có thể hiểu đơn giản vay tín dụng là việc một bên (tổ chức/cá nhân) đáp ứng nhu cầu tài chính của bạn bằng một cách nào đó và bạn phải hoàn trả lại trực tiếp số tiền đã được cho vay kèm theo tiền lãi và phí (nếu có).
 
 Bản thân chữ “tín dụng” đã nói lên nền tảng cơ sở của hoạt động cho vay: dựa trên niềm tin rằng người vay có đủ uy tín và năng lực để trả nợ đúng hạn và đầy đủ. Khái niệm này đúng cả trong trường hợp của hoạt động cầm đồ - hoạt động cho vay dựa chính yếu trên tài sản của người vay.
@@ -128,7 +14,7 @@ Hoạt động vay tín dụng đã có từ rất lâu, các thủ tục giấy
 
 Do đó, để đảm bảo hạn chế tối đa những rắc rối có thể gặp phải khi ra quyết định vay tín dụng - ở đây chúng ta sẽ chỉ bàn về vay NH, bạn cần tham vấn kỹ những thông tin và tự tìm câu trả lời cho những vấn đề sau:
 
-# Mục đích
+## Mục đích
 
 Câu hỏi đầu tiên NH sẽ luôn hỏi bạn là vay để làm gì?
 
@@ -144,7 +30,7 @@ Nhưng nếu bạn vay nợ để chi xài cá nhân, việc này không tạo r
 
 Thứ hai, việc bạn muốn vay tiền để làm gì sẽ cho NH các phương án để đáp ứng nhu cầu tài chính của bạn. Như này, nếu bạn vay mua nhà thì NH sẽ hỗ trợ bạn thanh toán tiền cho bên bán, nếu bạn vay sửa nhà thì NH sẽ giúp bạn trả tiền cho nhân công, mua vật liệu xây dựng… Thế nên, nếu có ý định vay tiền đi cá độ đá banh thì hãy ngưng ảo tưởng đi nhé.
 
-# Nguồn tài chính dùng để trả nợ
+## Nguồn tài chính dùng để trả nợ
 
 Sau khi đã biết được mình cần tiền để làm gì, thì câu hỏi thứ hai bạn cần tự trả lời là mình cần làm gì và làm như thế nào để trả số tiền sẽ vay đó.
 
@@ -174,7 +60,7 @@ NH không phải là gia đình, bạn bè hay người quen của bạn, điề
 
 Một vài rắc rối đơn giản có thể kế đến như: nhân viên NH sẽ liên tục gọi điện “hỏi thăm”, một vài khoản phí phạt nho nhỏ sẽ được cộng thêm vào số tiền phải trả của bạn kỳ này, thư đòi nợ được gửi đến bạn liên tục…Chừng này thứ thôi cũng đủ để bạn xách đít lên mà chạy đi “xoay” tiền để đóng cho NH rồi.
 
-# Thời gian dự kiến trả nợ
+## Thời gian dự kiến trả nợ
 
 Bao gồm thời hạn trả nợ, kỳ trả nợ và thời điểm trả nợ trong kỳ.
 
@@ -205,13 +91,13 @@ Nhưng,
 
 Chỉ với chừng đó câu hỏi đã đủ để bạn phải cân nhắc thật kỹ, vò đầu bứt tóc trước khi có thể tự đưa ra cho bản thân các kết quả phù hợp và từ đó thiết lập cho bạn một hợp đồng vay cụ thể.
 
-# Những lưu ý cơ bản khi đi vay
+## Những lưu ý cơ bản khi đi vay
 
 Tôi sẽ cung cấp một vài nguyên tắc cơ bản (tất nhiên là theo kinh nghiệm bản thân) mà bạn có thể xem xét như sau:
 
-## Xác định thời hạn cần vay
+### Xác định thời hạn cần vay
 
-1. ### Không nên xem thời hạn vay tối đa là tiêu chí ưu tiên SỐ MỘT để xem xét.
+1. #### Không nên xem thời hạn vay tối đa là tiêu chí ưu tiên SỐ MỘT để xem xét.
     
 
 Các NH thường tư vấn cho bạn thời hạn vay dài nhất có thể, vì 02 lý do:
@@ -242,7 +128,7 @@ Như vậy, tính sơ sơ thì bạn cũng đã phải tốn 50 triệu cho cái
 
 Tóm lại, nguyên một khúc nội dung dài thòn mà bạn vừa đọc cũng chỉ để chốt lại vài chữ này: hãy suy nghĩ kỹ trước khi chốt hạ kỳ hạn vay và lựa chọn thời gian vay thực sự phù hợp với bản thân của bạn.
 
-2. ### Bạn cần biết mình phải trả số tiền định kỳ bao nhiêu là phù hợp với khả năng tài chính của bản thân.
+2. #### Bạn cần biết mình phải trả số tiền định kỳ bao nhiêu là phù hợp với khả năng tài chính của bản thân.
     
 
 Cụm từ mấu chốt của nguyên tắc này là “Khả năng tài chính của bản thân”. Nói cho ngắn gọn là có bao nhiêu trả bấy nhiêu, không nên phụ thuộc vào bất kỳ nguồn tài chính nào mà bạn không phải là người chủ động quyết định.
@@ -255,9 +141,9 @@ Việc bạn phụ thuộc vào một nguồn tài chính nào đó (như tiền
 
 Cho nên, xác định nghĩa vụ chi trả phù hợp với năng lực tài chính của bản thân bạn sẽ đảm bảo cho bạn một sự thoải mái tinh thần thật sự trong quá trình vay tín dụng; và bạn có thể dồn hết tâm huyết để sống một cuộc đời trọn vẹn thay vì dồn hết tâm sức vào để cày trả nợ.
 
-## Xác định kỳ trả nợ và thời điểm trả nợ trong kỳ
+### Xác định kỳ trả nợ và thời điểm trả nợ trong kỳ
 
-1. ### Bỏ qua câu tư vấn
+1. #### Bỏ qua câu tư vấn
     
 
 “Bên NH em thường chọn ngày này trong tháng để đặt lịch trả nợ cho khách hàng vay cho đồng bộ, dễ theo dõi và nhắc anh/chị phòng khi quên.”
@@ -270,14 +156,14 @@ Việc bạn chọn đại ngày trả nợ giống như là đi mua giày mà k
 
 Ví dụ: bạn lãnh lương cuối tháng, và phải chi các khoản phát sinh thường nhật từ ngày 02 đến ngày 10 hàng tháng, thì thời điểm bạn nên chọn để trả nợ là ngày 15 hàng tháng. Tất nhiên là trong thực tế bạn có thể chọn ngày 11 nhưng hãy khoan, dự phòng 05 ngày luôn là một sự chuẩn bị cần thiết. Nếu bạn có tiền thì cứ thanh toán trước vài ngày, NH sẽ không hề phiền lòng vì động tác này, miễn sao việc trả nợ diễn ra không quá ngày 15 hàng tháng.
 
-2. ### Không chọn kỳ trả nợ quá sát so với thời điểm nguồn thu nhập phát sinh định kỳ.
+2. #### Không chọn kỳ trả nợ quá sát so với thời điểm nguồn thu nhập phát sinh định kỳ.
     
 
 Nói cho dễ hiểu thì việc này giống như là bạn phải giữ khoảng cách vừa phải với xe chạy trước, không quá gần để tránh việc va chạm cũng như không quá xa vì sẽ gây ách tắc giao thông.
 
 Trong thực tế, việc định kỳ hạn trả nợ sẽ căn cứ vào thời gian mà nguồn thu nhập của bạn phát sinh. Ví dụ, bạn dự kiến trả nợ từ lương lĩnh hàng tháng thì kỳ hạn trả nợ nên là hàng thàng, bạn muốn trả nợ từ nguồn lợi nhuận kinh doanh nhưng định kỳ 03 tháng bạn mới rút tiền ra được thì bạn phải chọn kỳ hạn trả là 03 tháng. Bạn mà chọn kỳ hạn 01 tháng thì thì tức là bạn đang mang gông vào cổ, tự tăng độ khó cho chính mình.
 
-## Chuẩn bị là tài sản đảm bảo (hay tài sản thế chấp).
+### Chuẩn bị là tài sản đảm bảo (hay tài sản thế chấp).
 
 Mình sẽ dùng hình tượng chiếc neo để nói về vấn đề này cho bạn dễ nhận định hơn. Công dụng chính của một chiếc neo là để giữ cho cái mà nó gắn vào (tàu, thuyền, xuồng, xà lan…) không bị trôi quá xa nơi thả neo. Và cũng cùng mục đích đó, tài sản đảm bảo là một sự ràng buộc mà NH muốn dùng nó để đảm bảo rằng bạn sẽ không “vượt rào” khỏi các cam kết trong hợp đồng vay; nói cho nhanh là để bạn không đành đoạn mà bỏ cuộc chơi để NH lại bơ vơ với đống nợ không đòi được.
 
@@ -289,19 +175,19 @@ Như đã nói ở trên, tôi dùng hình tượng chiếc neo để miêu tả
 
 Rồi, giờ chúng ta hãy đi vào thực tế, bạn cần chuẩn bị những gì về tài sản đảm bảo để “hợp nhãn” của NH và được xem xét cho vay? Sau đây lã những tiêu chí cơ bản để NH xem xét là một tài sản có đủ điều kiện nhận thế chấp không:
 
-1. ### Tài sản bạn dự kiến dùng để thế chấp là gì?
+1. #### Tài sản bạn dự kiến dùng để thế chấp là gì?
     
 
 Trả lời được câu hỏi này sẽ giúp bạn nhanh chóng giải quyết các vấn đề bên dưới.
 
 Hiện tại có rất nhiều thứ có thể được dùng làm tài sản thế chấp, không chỉ gói gọn trong bất động sản như xưa. Ví dụ: quyền khai thác mỏ, quyền đòi nợ, hàng hóa, phương tiện vận tải, máy móc thiết bị… và bạn phải xác định được là mình đang có cái gì có thể đem thế chấp được chứ không phải là liệt kê ra một danh sách dài đằng đẵng cho NH chọn. Lý do: NH chắc chắn sẽ chọn tài sản đáp ứng tốt nhất yêu cầu của mình để đảm bảo cho khoản vay của bạn dù cho tài sản đó lớn hơn khoản vay nhiều, và bạn thì không chắc là sau này mình còn phát sinh khoản vay nào nữa không, cho nên hãy đưa những tài sản phù hợp với khoản vay của mình để thế chấp, đừng lãng phí.
 
-2. ### Tài sản này phải có tính thanh khoản càng cao càng tốt, có nghĩa là có thể đem quy đổi ra thanh tiền càng dễ và càng nhanh thì càng tốt.
+2. #### Tài sản này phải có tính thanh khoản càng cao càng tốt, có nghĩa là có thể đem quy đổi ra thanh tiền càng dễ và càng nhanh thì càng tốt.
     
 
 Ví dụ: bạn thế chấp một cái nhà thì NH sẽ khoái hơn là bạn thế chấp một khu trang trại, vì lý do đơn giản nhà thì dễ bán hơn là cái khu trang trại to vật vã kia.
 
-3. ### Tài sản có giấy tờ hợp pháp hợp lệ, không bị tranh chấp, chủ sở hữu ít và uy tín. Những nội dung này thường đi liền với nhau nên tôi gom vào một ý.
+3. #### Tài sản có giấy tờ hợp pháp hợp lệ, không bị tranh chấp, chủ sở hữu ít và uy tín. Những nội dung này thường đi liền với nhau nên tôi gom vào một ý.
     
 
 Ví dụ: Bạn thế chấp một căn nhà thì NH sẽ phải rà soát toàn bộ thông tin liên quan đến căn nhà đó, cơ bản là những thông tin sau:
@@ -312,7 +198,7 @@ Ví dụ: Bạn thế chấp một căn nhà thì NH sẽ phải rà soát toàn
 
 Tài sản nào càng rõ ràng thông tin, không bị ai dòm ngó thì sẽ càng an toàn đối với NH.
 
-4. ### Giá trị của tài sản thế chấp có ổn định hay không?
+4. #### Giá trị của tài sản thế chấp có ổn định hay không?
     
 
 Điểm này đặc biệt quan trọng, đối với NH và cả đối với bạn. Bởi vì, nếu tài sản của bạn vì lý do nào đó (khách quan/chủ quan) mà bị giảm giá trị dưới mức yêu cầu tối thiểu, thì NH sẽ ngay lập tức yêu cầu bạn làm một trong những điều sau:
@@ -331,13 +217,13 @@ Các hợp đồng vay luôn có những điều khoản cho bạn biết rằng
 
 Đáng lẽ điều này tôi sẽ nói ở trên nhưng vì tầm quan trọng lớn lao và dai dẳng của nó nên tôi sẽ dời nó sang mục này.
 
-## Lãi suất vay
+### Lãi suất vay
 
 Lãi suất vay cũng giống như giá cả một sản phẩm dịch vụ mà bạn muốn sở hữu, tuy nhiên để đánh giá lãi suất cho vay cao hay thấp thì khá là khó nhằn cho những ai lần đầu tiên đi vay NH.
 
 Vậy thì, chúng ta sẽ xem xét những điểm cơ bản sau để giúp bạn tự xác định được mức lãi suất vay nào là hấp dẫn nhé:
 
-1. ### Lãi suất ưu đãi thời gian vay đầu tiên
+1. #### Lãi suất ưu đãi thời gian vay đầu tiên
     
 
 Đây chính là món khai vị ngon nhất mà tất cả NH đều chào mời, nhưng nó có thật sự hấp dẫn như bạn nghĩ?
@@ -346,7 +232,7 @@ Vậy thì, chúng ta sẽ xem xét những điểm cơ bản sau để giúp b�
 
 Lãi suất ưu đãi ban đầu càng tốt, thì đồng nghĩa là các điều khoản ràng buộc cũng sẽ càng nhiều, và đây chính là cái bạn cần phải tìm hiểu kỹ để khi vạn bất đắc dĩ phải trả nợ sớm thì cũng không phải thốt lên “ngạc nhiên chưa?”
 
-2. ### Lãi suất vay sau thời gian ưu đãi
+2. #### Lãi suất vay sau thời gian ưu đãi
     
 
 Đây mới là cái bạn sẽ gặm nhấm trong suốt thời gian còn lại sau khi ăn món khai vị hấp dẫn ở trên. Và lãi suất này thì NH lại thường không viết rõ ràng như lãi suất ưu đãi mà lại thể hiện bằng công thức.
@@ -359,7 +245,7 @@ Tin tôi đi, lúc đó bạn sẽ nghĩ là mình đang đọc nhật ký của
 
 Cách giải quyết? Quăng hết cái đống đó đi, chụp ngay nhân viên tư vấn NH và yêu cầu ngồi giải thích cho bạn nghe, chừng nào bạn hiểu và tự tính được xem lãi suất mình vay là bao nhiêu thì hãy buông tha.
 
-3. ### Các loại phí có liên quan
+3. #### Các loại phí có liên quan
     
 
 Tùy theo từng NH mà sẽ có các loại phí khác nhau, điều này bạn nên đọc và hỏi kỹ ở nhân viên tư vấn, tránh để phát sinh các sự việc đáng tiếc khi bạn phải đóng những khoản phí lớn trong quá trình vay.
@@ -367,3 +253,5 @@ Tùy theo từng NH mà sẽ có các loại phí khác nhau, điều này bạn
 Cuối cùng, sau khi đã nắm kha khá thông tin, tự biết mình biết ta thì bạn hãy cứ tự tin mà ra NH làm hợp đồng vay.
 
 Và hãy nhớ kỹ, sau khi vay vẫn cứ liên hệ với NH để tự rà soát các thông tin liên quan đến hợp đồng vay của mình như số tiền đã trả (qua việc yêu cầu cung cấp sao kê tài khoản), lãi suất vay hiện tại… để đảm bảo rằng mọi thứ vẫn đang được vận hành một cách ổn định.
+
+Nguồn:: Công Thắng, 8/2019

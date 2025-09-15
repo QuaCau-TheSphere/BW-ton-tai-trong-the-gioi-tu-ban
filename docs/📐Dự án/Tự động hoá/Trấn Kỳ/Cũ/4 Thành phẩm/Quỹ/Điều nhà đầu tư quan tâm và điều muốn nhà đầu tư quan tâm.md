@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2025-09-06T19:59
+updated: 2025-09-14T20:43
 ---
 # Điều nhà đầu tư quan tâm
 ## Trấn Kỳ là gì
@@ -101,7 +101,7 @@ Hiện tại nhóm có 1 người làm toàn thời gian ở tất cả các v�
 # Điều muốn nhà đầu tư quan tâm
 ## Trấn Kỳ được sinh ra là để giúp Kendy
 Giúp đỡ Kendy là điều kiện tiên quyết để nhóm xem xét đề nghị đầu tư của bạn. Bạn không cần phải quan tâm đến Kendy, chỉ cần nhóm thấy được đề nghị đầu tư của bạn có lợi nhất cho Kendy thì nhóm sẽ đồng ý.
-[Lý do viết Trấn Kỳ](../../9%20Blog/L%C3%BD%20do%20vi%E1%BA%BFt%20Tr%E1%BA%A5n%20K%E1%BB%B3.md), [Giúp nhau thoát nợ](../../../../../Gi%C3%BAp%20nhau%20tho%C3%A1t%20n%E1%BB%A3/index.md)
+[Lý do viết Trấn Kỳ](../../9%20Blog/L%C3%BD%20do%20vi%E1%BA%BFt%20Tr%E1%BA%A5n%20K%E1%BB%B3.md), [Ngân hàng mini và mạng lưới cho vay ngang hàng](../../../../../Gi%C3%BAp%20nhau%20tho%C3%A1t%20n%E1%BB%A3/Qu%E1%BB%B9/Ng%C3%A2n%20h%C3%A0ng%20mini%20v%C3%A0%20m%E1%BA%A1ng%20l%C6%B0%E1%BB%9Bi%20cho%20vay%20ngang%20h%C3%A0ng.md)
 
 ## [Người dùng hài lòng với chất lượng sản phẩm, không phải tốc độ làm ra nó](Ng%C6%B0%E1%BB%9Di%20d%C3%B9ng%20h%C3%A0i%20l%C3%B2ng%20v%E1%BB%9Bi%20ch%E1%BA%A5t%20l%C6%B0%E1%BB%A3ng%20s%E1%BA%A3n%20ph%E1%BA%A9m,%20kh%C3%B4ng%20ph%E1%BA%A3i%20t%E1%BB%91c%20%C4%91%E1%BB%99%20l%C3%A0m%20ra%20n%C3%B3.md) 
 - [Đa số startup không chết vì cạnh tranh với đối thủ, mà vì không có người dùng sản phẩm của mình](%C4%90a%20s%E1%BB%91%20startup%20kh%C3%B4ng%20ch%E1%BA%BFt%20v%C3%AC%20c%E1%BA%A1nh%20tranh%20v%E1%BB%9Bi%20%C4%91%E1%BB%91i%20th%E1%BB%A7,%20m%C3%A0%20v%C3%AC%20kh%C3%B4ng%20c%C3%B3%20ng%C6%B0%E1%BB%9Di%20d%C3%B9ng%20s%E1%BA%A3n%20ph%E1%BA%A9m%20c%E1%BB%A7a%20m%C3%ACnh.md)
