@@ -2,7 +2,7 @@
 created: 2025-01-14T21:00
 share: true
 title: Đề xuất vay nợ của Nguyễn Hữu Lộc
-updated: 2025-09-12T10:13
+updated: 2025-09-14T20:50
 ---
 Lộc muốn vay **20tr** để tham gia chương trình [Vcil Travel School 2025 tại Hàn Quốc](https://www.vciltravelschool.com/vi/event-details-registration/vcil-travel-school-south-korea-iii-nov-2025-from-miracle-development-to-sustainable-alternatives), cam kết sau **3 năm** trả lại với lãi **3%**, sẽ ký các giấy tờ cần thiết để đảm bảo không lừa đảo. **Nhật sẽ đứng ra bảo lãnh.** Ngày **5/10** là tới kỳ đóng tiền, nếu không huy động đủ 20tr thì sẽ hoàn trả lại số tiền đã huy động được. 
 
