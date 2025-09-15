@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-09-12T10:09
+updated: 2025-09-14T20:08
 aliases:
   - giúp nhau giữ tài sản thế chấp
 ---
@@ -27,3 +27,5 @@ Bài chi tiết:: [Làm sao cho vay mà không bị xù](../T%C3%A0i%20li%E1%BB%
 ## Người cần vay
 
 ## Nơi thảo luận
+![](https://i.imgur.com/RNcEBe4.png)
+![](https://imagizer.imageshack.com/a/img923/1273/jQAnX6.png)
