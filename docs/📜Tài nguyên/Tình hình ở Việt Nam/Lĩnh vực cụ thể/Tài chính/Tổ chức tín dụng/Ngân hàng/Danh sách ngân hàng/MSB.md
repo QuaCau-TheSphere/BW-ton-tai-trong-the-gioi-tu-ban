@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-08-31T11:15
-updated: 2025-09-03T21:05
+updated: 2025-09-14T18:39
 ---
 Tên thương hiệu:: MSB
 Phân loại:: [Thương mại Cổ phần](Th%C6%B0%C6%A1ng%20m%E1%BA%A1i%20C%E1%BB%95%20ph%E1%BA%A7n.md)
@@ -11,3 +11,5 @@ SWIFT:: MCOBVNVX
 Website:: [msb.com.vn](msb.com.vn)
 Ngày thành lập:: 12/07/1991
 Vốn điều lệ (tỷ đồng):: 26,000.00
+
+Nút chia sẻ ảnh bị hư
