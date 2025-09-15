@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-12-04T11:08
-updated: 2025-08-26T19:28
+updated: 2025-09-14T20:09
 aliases:
   - Các lý do khiến cho một người khó mở lời hỏi mượn tiền người xung quanh
 ---
@@ -36,3 +36,6 @@ aliases:
 
 Xem thêm:: [Các lý do cho việc giúp đỡ hoặc không giúp đỡ](./Ni%E1%BB%81m%20tin/C%C3%A1c%20l%C3%BD%20do%20cho%20vi%E1%BB%87c%20gi%C3%BAp%20%C4%91%E1%BB%A1%20ho%E1%BA%B7c%20kh%C3%B4ng%20gi%C3%BAp%20%C4%91%E1%BB%A1.md)
 [Làm sao cho vay mà không bị xù](./L%C3%A0m%20sao%20cho%20vay%20m%C3%A0%20kh%C3%B4ng%20b%E1%BB%8B%20x%C3%B9.md), [Xử lý người xù nợ](./X%E1%BB%AD%20l%C3%BD%20ng%C6%B0%E1%BB%9Di%20x%C3%B9%20n%E1%BB%A3.md)
+
+## Nơi thảo luận
+![](https://imagizer.imageshack.com/a/img923/1273/jQAnX6.png)
