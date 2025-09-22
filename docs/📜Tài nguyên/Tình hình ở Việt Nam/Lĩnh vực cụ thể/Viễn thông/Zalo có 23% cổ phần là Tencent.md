@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-08-17T16:41
+updated: 2025-09-18T10:51
 ---
 Khái niệm:: 
 Có thể những cổ đông khác cũng do Tencent nắm
@@ -22,3 +22,5 @@ Tenacious Bulldog và Prosperous Prince Enterprises là hai công ty thuộc quy
 Ngoài Tencent, các cổ đông nước ngoài khác của VNG Limited gồm có GIC, sở hữu 15,2 triệu cổ phiếu thông qua Gamvest Pte với quyền biểu quyết 5,4%, và Ant Group, nắm 7,77 triệu cổ phiếu thông qua Ant International Technologies, chiếm 2,8% quyền biểu quyết. Quỹ đầu tư Temasek, thông qua Seletar Investments, sở hữu 9,4 triệu cổ phiếu, tương đương 3,4% quyền biểu quyết.
 
 Trích từ:: [Hé lộ các ông lớn đứng sau VNG - “cha đẻ” của Zalo \| Thương gia - Thông tin cập nhật, quan điểm độc lập](https://thuonggiaonline.vn/he-lo-bong-dang-cac-ong-lon-dung-sau-vng-cha-de-cua-zalo-post554625.html)
+
+Không bị chặn ở TQ, có thể quét QR TQ để trả bằng tiền Việt
