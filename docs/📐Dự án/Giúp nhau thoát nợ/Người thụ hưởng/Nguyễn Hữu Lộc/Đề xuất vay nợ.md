@@ -2,7 +2,7 @@
 created: 2025-01-14T21:00
 share: true
 title: Đề xuất vay nợ của Nguyễn Hữu Lộc
-updated: 2025-09-14T20:50
+updated: 2025-09-15T09:00
 ---
 Lộc muốn vay **20tr** để tham gia chương trình [Vcil Travel School 2025 tại Hàn Quốc](https://www.vciltravelschool.com/vi/event-details-registration/vcil-travel-school-south-korea-iii-nov-2025-from-miracle-development-to-sustainable-alternatives), cam kết sau **3 năm** trả lại với lãi **3%**, sẽ ký các giấy tờ cần thiết để đảm bảo không lừa đảo. **Nhật sẽ đứng ra bảo lãnh.** Ngày **5/10** là tới kỳ đóng tiền, nếu không huy động đủ 20tr thì sẽ hoàn trả lại số tiền đã huy động được. 
 
@@ -65,4 +65,5 @@ Trong những người xét ra là đã tiếp xúc sâu với Nhật, thì Lộ
 
 Cứ giả sử là Lộc muốn xù và chấp nhận đánh mất mối quan hệ với Nhật, thì Lộc sẽ mất một người sẵn sàng hỗ trợ không đòi tiền cũng như điểm tín dụng tốt của Nhật.
 
+Đi guốc trong bụng
 Xem thêm:: [Các lý do cho việc giúp đỡ hoặc không giúp đỡ](../../T%C3%A0i%20li%E1%BB%87u/Ni%E1%BB%81m%20tin/C%C3%A1c%20l%C3%BD%20do%20cho%20vi%E1%BB%87c%20gi%C3%BAp%20%C4%91%E1%BB%A1%20ho%E1%BA%B7c%20kh%C3%B4ng%20gi%C3%BAp%20%C4%91%E1%BB%A1.md), [Các khó khăn của người cần vay và lý do từ chối cho vay](../../T%C3%A0i%20li%E1%BB%87u/C%C3%A1c%20kh%C3%B3%20kh%C4%83n%20c%E1%BB%A7a%20ng%C6%B0%E1%BB%9Di%20c%E1%BA%A7n%20vay%20v%C3%A0%20l%C3%BD%20do%20t%E1%BB%AB%20ch%E1%BB%91i%20cho%20vay.md)
