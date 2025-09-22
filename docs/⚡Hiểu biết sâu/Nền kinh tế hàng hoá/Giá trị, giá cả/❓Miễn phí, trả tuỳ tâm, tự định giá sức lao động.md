@@ -1,10 +1,11 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2025-09-03T10:04
+updated: 2025-09-21T22:17
 ---
 [Khi nào thì chiến lược định giá "trả tuỳ tâm" đạt được sự bền vững?](M%C3%B4%20h%C3%ACnh%20kinh%20doanh%20c%E1%BB%A7a%20c%C3%A1c%20bu%E1%BB%95i%20%C4%91%C3%A1p%20%E1%BB%A9ng%20nhu%20c%E1%BA%A7u%20h%E1%BB%8Dc%20c%C3%A1ch%20s%E1%BB%AD%20d%E1%BB%A5ng%20c%C3%B4ng%20c%E1%BB%A5%20v%C3%A0%20t%C6%B0%20duy%20l%E1%BA%ADp%20tr%C3%ACnh.md)
-# Miễn phí
+Khái niệm:: [Giá trị](../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Gi%C3%A1%20tr%E1%BB%8B.md), [Giá cả](../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Gi%C3%A1%20c%E1%BA%A3.md)
+## Miễn phí
 Phản đối:
 - Cho miễn phí thì chỉ là tò mò
 - Không trả tiền chưa chắc là hài lòng
@@ -15,9 +16,9 @@ Phản đối:
 - [Khuyến khích họ sử dụng để có thêm phản hồi](S%E1%BB%B1%20mi%E1%BB%85n%20ph%C3%AD%20ch%E1%BB%89%20c%C3%B3%20%C3%ADch%20khi%20ta%20c%E1%BA%A7n%20ph%E1%BA%A3n%20h%E1%BB%93i%20c%E1%BB%A7a%20ng%C6%B0%E1%BB%9Di%20d%C3%B9ng,%20ho%E1%BA%B7c%20khi%20n%E1%BB%81n%20t%E1%BA%A3ng%20c%E1%BB%A7a%20ta%20c%E1%BA%A7n%20hi%E1%BB%87u%20%E1%BB%A9ng%20m%E1%BA%A1ng.md)
 - [Tạo thêm hiệu ứng mạng](S%E1%BB%B1%20mi%E1%BB%85n%20ph%C3%AD%20ch%E1%BB%89%20c%C3%B3%20%C3%ADch%20khi%20ta%20c%E1%BA%A7n%20ph%E1%BA%A3n%20h%E1%BB%93i%20c%E1%BB%A7a%20ng%C6%B0%E1%BB%9Di%20d%C3%B9ng,%20ho%E1%BA%B7c%20khi%20n%E1%BB%81n%20t%E1%BA%A3ng%20c%E1%BB%A7a%20ta%20c%E1%BA%A7n%20hi%E1%BB%87u%20%E1%BB%A9ng%20m%E1%BA%A1ng.md)
 
-# Miễn phí nhưng phải nói lý do vì sao thấy cần miễn phí
+## Miễn phí nhưng phải nói lý do vì sao thấy cần miễn phí
 
-# Trả tuỳ tâm
+## Trả tuỳ tâm
 Phản đối:
 - Khách hàng nhìn vào giá để đánh giá chất lượng
 
@@ -46,7 +47,7 @@ Phiên bản
 - 50% donate to charity 
 - Cho mượn nợ
 - Làm phụ để hỗ trợ
-# Tự định giá sức lao động của mình
+## Tự định giá sức lao động của mình
 Phản đối:
 - [Việc giúp đỡ người đã giúp mình không đủ khẩn cấp hoặc nhiều cảm hứng bằng việc giải quyết vấn đề tiếp theo, hoặc đủ cảm hứng bằng việc cải tiến giải pháp hiện có](../../T%C3%A2m%20l%C3%BD%20h%E1%BB%8Dc%20qu%E1%BA%A3n%20l%C3%BD%20v%C3%A0%20lao%20%C4%91%E1%BB%99ng/Gi%C3%BAp%20%C4%91%E1%BB%A1%20nhau/Vi%E1%BB%87c%20gi%C3%BAp%20%C4%91%E1%BB%A1%20ng%C6%B0%E1%BB%9Di%20%C4%91%C3%A3%20gi%C3%BAp%20m%C3%ACnh%20kh%C3%B4ng%20%C4%91%E1%BB%A7%20kh%E1%BA%A9n%20c%E1%BA%A5p%20ho%E1%BA%B7c%20nhi%E1%BB%81u%20c%E1%BA%A3m%20h%E1%BB%A9ng%20b%E1%BA%B1ng%20vi%E1%BB%87c%20gi%E1%BA%A3i%20quy%E1%BA%BFt%20v%E1%BA%A5n%20%C4%91%E1%BB%81%20ti%E1%BA%BFp%20theo,%20ho%E1%BA%B7c%20%C4%91%E1%BB%A7%20c%E1%BA%A3m%20h%E1%BB%A9ng%20b%E1%BA%B1ng%20vi%E1%BB%87c%20c%E1%BA%A3i%20ti%E1%BA%BFn%20gi%E1%BA%A3i%20ph%C3%A1p%20hi%E1%BB%87n%20c%C3%B3.md)
 - [Phản hồi và sự giúp đỡ trả lại là những thứ xa xỉ với người được giúp](../../T%C3%A2m%20l%C3%BD%20h%E1%BB%8Dc%20qu%E1%BA%A3n%20l%C3%BD%20v%C3%A0%20lao%20%C4%91%E1%BB%99ng/Gi%C3%BAp%20%C4%91%E1%BB%A1%20nhau/Ph%E1%BA%A3n%20h%E1%BB%93i%20v%C3%A0%20s%E1%BB%B1%20gi%C3%BAp%20%C4%91%E1%BB%A1%20tr%E1%BA%A3%20l%E1%BA%A1i%20l%C3%A0%20nh%E1%BB%AFng%20th%E1%BB%A9%20xa%20x%E1%BB%89%20v%E1%BB%9Bi%20ng%C6%B0%E1%BB%9Di%20%C4%91%C6%B0%E1%BB%A3c%20gi%C3%BAp.md)
@@ -79,3 +80,5 @@ Ownership on their labour would increase their *intrinsic motivation* to volunte
 
 [Chinese Restaurant Adopts "Pay What You Want" Policy, Loses ,000 in a Week](https://www.odditycentral.com/news/chinese-restaurant-adopts-pay-what-you-want-policy-loses-15000-in-a-week.html)
 [microeconomics - What stops the pay-what-you-want pricing strategy from being more popular? - Economics Stack Exchange](https://economics.stackexchange.com/q/57273/45941)
+
+[❓Sự khác biệt giữa từ thiện, kinh tế quà tặng, trả cho người sau, làm việc vừa sức, dựa vào cộng đồng, ưu tiên việc khẩn cấp, giúp người không tự giúp mình được là gì](../../Ph%C3%A1t%20tri%E1%BB%83n%20b%E1%BB%81n%20v%E1%BB%AFng.%20C%C3%A1c%20n%E1%BB%81n%20kinh%20t%E1%BA%BF%20thay%20th%E1%BA%BF/%C4%90%C3%B4%20th%E1%BB%8B%20b%E1%BB%81n%20v%E1%BB%AFng/T%E1%BB%AB%20thi%E1%BB%87n,%20vi%E1%BB%87n%20tr%E1%BB%A3/%E2%9D%93S%E1%BB%B1%20kh%C3%A1c%20bi%E1%BB%87t%20gi%E1%BB%AFa%20t%E1%BB%AB%20thi%E1%BB%87n,%20kinh%20t%E1%BA%BF%20qu%C3%A0%20t%E1%BA%B7ng,%20tr%E1%BA%A3%20cho%20ng%C6%B0%E1%BB%9Di%20sau,%20l%C3%A0m%20vi%E1%BB%87c%20v%E1%BB%ABa%20s%E1%BB%A9c,%20d%E1%BB%B1a%20v%C3%A0o%20c%E1%BB%99ng%20%C4%91%E1%BB%93ng,%20%C6%B0u%20ti%C3%AAn%20vi%E1%BB%87c%20kh%E1%BA%A9n%20c%E1%BA%A5p,%20gi%C3%BAp%20ng%C6%B0%E1%BB%9Di%20kh%C3%B4ng%20t%E1%BB%B1%20gi%C3%BAp%20m%C3%ACnh%20%C4%91%C6%B0%E1%BB%A3c%20l%C3%A0%20g%C3%AC.md)
