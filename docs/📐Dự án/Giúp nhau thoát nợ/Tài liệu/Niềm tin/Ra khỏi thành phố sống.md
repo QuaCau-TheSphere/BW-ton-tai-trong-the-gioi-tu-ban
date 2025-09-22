@@ -1,11 +1,11 @@
 ---
 share: true
 created: 2025-04-04T22:48
-updated: 2025-09-14T15:01
+updated: 2025-09-17T08:58
 aliases:
   - Các lý do để không về quê
 ---
-[Phát triển cộng đồng làng quê, nông thôn mới](../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Ph%C3%A1t%20tri%E1%BB%83n%20b%E1%BB%81n%20v%E1%BB%AFng.%20C%C3%A1c%20n%E1%BB%81n%20kinh%20t%E1%BA%BF%20thay%20th%E1%BA%BF/C%C3%A1c%20n%E1%BB%81n%20kinh%20t%E1%BA%BF%20thay%20th%E1%BA%BF/Ph%C3%A1t%20tri%E1%BB%83n%20c%E1%BB%99ng%20%C4%91%E1%BB%93ng%20l%C3%A0ng%20qu%C3%AA,%20n%C3%B4ng%20th%C3%B4n%20m%E1%BB%9Bi.md)
+[❓Các câu hỏi cho mô hình cộng đồng làng](../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Ph%C3%A1t%20tri%E1%BB%83n%20b%E1%BB%81n%20v%E1%BB%AFng.%20C%C3%A1c%20n%E1%BB%81n%20kinh%20t%E1%BA%BF%20thay%20th%E1%BA%BF/C%C3%A1c%20n%E1%BB%81n%20kinh%20t%E1%BA%BF%20thay%20th%E1%BA%BF/C%E1%BB%99ng%20%C4%91%E1%BB%93ng%20l%C3%A0ng/%E2%9D%93C%C3%A1c%20c%C3%A2u%20h%E1%BB%8Fi%20cho%20m%C3%B4%20h%C3%ACnh%20c%E1%BB%99ng%20%C4%91%E1%BB%93ng%20l%C3%A0ng.md)
 ## Không kiếm được việc làm, hoặc tỉ lệ lương/chi phí sinh hoạt không tăng lên
 - Ở TP đang có lương 15tr, đi ra nơi khác sống thì không kiếm được chỗ nào cho như vậy
 
