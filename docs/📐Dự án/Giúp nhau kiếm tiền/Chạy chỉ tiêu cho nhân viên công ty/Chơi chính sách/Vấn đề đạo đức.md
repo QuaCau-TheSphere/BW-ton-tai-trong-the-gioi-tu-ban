@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2025-09-07T19:48
+updated: 2025-09-20T16:21
 title: Vấn đề đạo đức khi làm ảo
 ---
 ## Tôi thấy việc lừa dối người khác là điều không nên
@@ -13,8 +13,8 @@ Thực ra miễn là số liệu của bạn được làm một cách hữu cơ
 
 Có lẽ đây là một phần trong sự mâu thuẫn giữa hệ quả luận (consequentialism) và đạo nghĩa luận (deontology). Những người theo các trường phái này đã tranh luận nhiều lần nhưng vẫn chưa thể thuyết phục được trường phái kia thấy mình sai. Nếu bạn hướng đến sự liêm chính thì cũng không sao. Nhưng có lẽ bạn cũng sẽ khó khiến cho những người hướng đến sự công bằng thấy họ đang sai.
 
-Điều này cũng giống như việc [Lừa đảo hội lừa đảo](../../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/%C3%9D%20t%C6%B0%E1%BB%9Fng%20ki%E1%BA%BFm%20ti%E1%BB%81n/%C3%9D%20t%C6%B0%E1%BB%9Fng/C%C3%B4ng%20vi%E1%BB%87c%20th%E1%BB%9Di%20v%E1%BB%A5,%20c%E1%BB%99ng%20t%C3%A1c%20vi%C3%AAn/L%E1%BB%ABa%20%C4%91%E1%BA%A3o%20h%E1%BB%99i%20l%E1%BB%ABa%20%C4%91%E1%BA%A3o.md) vậy. Hai cái sai không làm nên cái đúng, 
-Trục lợi bọn trục lợi
+Điều này cũng giống như việc [Lừa đảo hội lừa đảo](../../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/%C3%9D%20t%C6%B0%E1%BB%9Fng%20ki%E1%BA%BFm%20ti%E1%BB%81n/%C3%9D%20t%C6%B0%E1%BB%9Fng/C%C3%B4ng%20vi%E1%BB%87c%20th%E1%BB%9Di%20v%E1%BB%A5,%20c%E1%BB%99ng%20t%C3%A1c%20vi%C3%AAn/L%E1%BB%ABa%20%C4%91%E1%BA%A3o%20h%E1%BB%99i%20l%E1%BB%ABa%20%C4%91%E1%BA%A3o.md) vậy. Hai cái sai không làm nên cái đúng, nhưng nó cũng bớt tệ hơn :-?
+
 Xem thêm:: [Lách luật là phạm luật một cách đúng luật](../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%C4%90%E1%BA%A1o%20%C4%91%E1%BB%A9c,%20ph%C3%A1p%20lu%E1%BA%ADt/Lu%E1%BA%ADt,%20nh%C3%A0%20n%C6%B0%E1%BB%9Bc/L%C3%A1ch%20lu%E1%BA%ADt%20l%C3%A0%20ph%E1%BA%A1m%20lu%E1%BA%ADt%20m%E1%BB%99t%20c%C3%A1ch%20%C4%91%C3%BAng%20lu%E1%BA%ADt.md)
 
 ## Tôi thấy việc lừa dối người chưa làm hại tôi trước là điều không nên
