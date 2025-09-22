@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-04-15T23:34
-updated: 2025-09-03T21:05
+updated: 2025-09-16T09:11
 ---
 Khái niệm:: [Đáo](../../../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Vay,%20n%E1%BB%A3/%C4%90%C3%A1o.md)
 Thực chất khi làm đáo là sự hợp tác của 3 bên:
