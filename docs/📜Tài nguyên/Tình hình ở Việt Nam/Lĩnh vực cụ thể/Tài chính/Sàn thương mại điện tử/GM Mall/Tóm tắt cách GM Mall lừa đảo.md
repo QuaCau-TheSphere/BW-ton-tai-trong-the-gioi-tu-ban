@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-08-21T18:12
+updated: 2025-09-20T16:41
 ---
 ## 1. Giai đoạn tạo niềm tin ban đầu (trước tháng 6/2025)
 Chiêu thức "đa cấp trá hình":
@@ -32,3 +32,6 @@ Dời lịch liên tục: Từ 19–22/6 → cuối tháng 6 → 3–4/7 → 15/
 Xem thêm:: [GM Mall là sân sau của những quan chức rửa tiền](./GM%20Mall%20l%C3%A0%20s%C3%A2n%20sau%20c%E1%BB%A7a%20nh%E1%BB%AFng%20quan%20ch%E1%BB%A9c%20r%E1%BB%ADa%20ti%E1%BB%81n.md)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tltG3d3mzNU?si=Hqc6T9MfYl4iit3d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+[2 công ty đa cấp có dấu hiệu trái phép bị chuyển hồ sơ sang công an \| Báo Dân trí](https://dantri.com.vn/kinh-doanh/2-cong-ty-da-cap-co-dau-hieu-trai-phep-bi-chuyen-ho-so-sang-cong-an-20250917140435284.htm)
