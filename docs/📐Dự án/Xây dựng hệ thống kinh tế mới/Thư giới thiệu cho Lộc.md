@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-09-15T06:41
+updated: 2025-09-16T10:30
 description: Vì sao lại giúp người không chủ động hành động?
 ---
 Xin chào các bạn VCIL,
@@ -12,7 +12,7 @@ Lộc xuất thân từ tầng lớp động nghèo. Cũng như những người
 
 Lộc may mắn có tìm tòi và biết đến những khái niệm về việc tạo dòng tiền. Đây là một việc hao tốn sự tập trung và tiền bạc, nên Lộc cần tập trung tối đa để nắm bắt cơ hội. Cho tới khi có được sự đảm bảo về dòng tiền thì khó mà làm Lộc yên tâm chia sẻ những tài nguyên đó cho việc khác.
 
-Chương trình *Vcil Travel School Hàn Quốc* phù hợp với những ai đều có mong muốn xây dựng các các mô hình kinh tế thay thế. Lộc cho rằng cần phải được trải nghiệm trực tiếp để hiểu rõ, đầy đủ, chân thật, thực tế nhất. Nhưng vì là người không có được sự xa xỉ cho thất bại, Lộc khó có thể thử làm những thứ mơ hồ dù lợi ích được hứa hẹn là rất lớn. Vì rõ ràng là sau khi về thì dù có bị thuyết phục hoàn toàn đi chăng nữa thì ai cũng vẫn sẽ lại phải tiếp tục tham gia vào thiết chế tư bản này. Và lại phải kiếm dòng tiền. Dù đó là dòng tiền đến từ hoại nghiệp thì cũng vẫn phải thừa nhận là nó là đòn bẩy tốt để làm chánh nghiệp. Nên tính tới tính lui thì trong thời điểm này mình vẫn phải thừa nhận là việc tham gia chương trình là một sự xao nhãng với mục tiêu đạt được sự yên tâm cho sự thong thả một cách nhanh nhất. Việc đọc và duyệt bài viết này cũng đã là một cố gắng của Lộc rồi. 
+Chương trình *Vcil Travel School Hàn Quốc* phù hợp với những ai đều có mong muốn xây dựng các các mô hình kinh tế thay thế. Lộc cho rằng cần phải được trải nghiệm trực tiếp để hiểu rõ, đầy đủ, chân thật, thực tế nhất. Nhưng vì là người không có được sự xa xỉ cho thất bại, Lộc khó có thể thử làm những thứ mơ hồ dù lợi ích được hứa hẹn là rất lớn. Vì rõ ràng là sau khi về thì dù có bị thuyết phục hoàn toàn đi chăng nữa thì ai cũng vẫn sẽ lại phải tiếp tục tham gia vào thiết chế tư bản này. Và lại phải kiếm dòng tiền. Dù đó là [❓Dòng tiền đến từ hoại nghiệp cho ta đòn bẩy tốt để làm sinh nghiệp](../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Ph%C3%A1t%20tri%E1%BB%83n%20b%E1%BB%81n%20v%E1%BB%AFng.%20C%C3%A1c%20n%E1%BB%81n%20kinh%20t%E1%BA%BF%20thay%20th%E1%BA%BF/%E2%9D%93D%C3%B2ng%20ti%E1%BB%81n%20%C4%91%E1%BA%BFn%20t%E1%BB%AB%20ho%E1%BA%A1i%20nghi%E1%BB%87p%20cho%20ta%20%C4%91%C3%B2n%20b%E1%BA%A9y%20t%E1%BB%91t%20%C4%91%E1%BB%83%20l%C3%A0m%20sinh%20nghi%E1%BB%87p.md). Nên tính tới tính lui thì trong thời điểm này mình vẫn phải thừa nhận là việc tham gia chương trình là một sự xao nhãng với mục tiêu đạt được sự yên tâm cho sự thong thả một cách nhanh nhất. Việc đọc và duyệt bài viết này cũng đã là một cố gắng của Lộc rồi. 
 
 Mình thì luôn có sự thong thả đó. Không giống như Lộc, mình đã dành nhiều thời gian tìm hiểu và hành động từ lâu. Mình cho rằng chương trình sẽ tạo được tác động lớn hơn cho người còn nhiều sự hoài nghi và phân vân hơn là người đã có hành động. Sự cọ xát ý tưởng, trải nghiệm, niềm tin sẽ mạnh hơn cho cả hai.
 
@@ -27,13 +27,12 @@ Tóm lại, đây là những lập luận của mình:
 - Việc dồn sự tập trung và tiền bạc vào việc xây dựng dòng tiền vẫn hữu ích cho việc xây dựng mô hình kinh tế thay thế
 
 Có thể còn nhiều lỗ hổng và mâu thuẫn trong những lập luận này. Mình cũng chưa xác lập niềm tin mạnh mẽ vào chúng. Có thể mình sẽ thay đổi thêm. (Nói cách khác đây là một [tài liệu sống](https://en.wikipedia.org/wiki/Living_document), liên tục được cập nhật). Còn trong thời gian này, nếu chúng được chấp nhận, mình đề xuất cách lý tưởng để giúp đỡ Lộc như sau:
-- Cấp học bổng với mức tối đa. Phần chi phí còn lại, *bao gồm* cả phí visa, vé máy bay, ăn sáng và tối tại Seoul và Busan trở thành khoản vay trả trong 3 năm
+- Cấp học bổng với mức tối đa. Phần chi phí còn lại, *bao gồm* cả phí visa, vé máy bay, ăn sáng và tối tại Seoul và Busan trở thành khoản vay trả trong 3 năm. Đọc bài [đề xuất vay nợ của Lộc](../Gi%C3%BAp%20nhau%20tho%C3%A1t%20n%E1%BB%A3/Ng%C6%B0%E1%BB%9Di%20th%E1%BB%A5%20h%C6%B0%E1%BB%9Fng/Nguy%E1%BB%85n%20H%E1%BB%AFu%20L%E1%BB%99c/%C4%90%E1%BB%81%20xu%E1%BA%A5t%20vay%20n%E1%BB%A3.md) để biết thêm chi tiết
 - Không đòi hỏi sự chủ động điền đơn từ phía Lộc. Cho phép Nhật thay mặt điền các loại đơn, mẫu nếu có thể
 - Có thể có các buổi gặp mặt để trao đổi trực tiếp với Lộc
 
-Tất nhiên cách lý tưởng này có thể đang vượt qua khả năng chịu rủi ro của nhóm. Hơn nữa mình cũng biết là không đi được lần này thì chắc vẫn sẽ còn những đợt khác. Lúc đó cũng có thể đủ sự tập trung và tiền bạc hơn. Nhưng nếu đề xuất trên là ổn thì mình chưa tìm được lý do nào để phải chờ tới dịp tiếp theo. 
 
-Các bạn có thể đọc bài [đề xuất vay nợ của Lộc](../Gi%C3%BAp%20nhau%20tho%C3%A1t%20n%E1%BB%A3/Ng%C6%B0%E1%BB%9Di%20th%E1%BB%A5%20h%C6%B0%E1%BB%9Fng/Nguy%E1%BB%85n%20H%E1%BB%AFu%20L%E1%BB%99c/%C4%90%E1%BB%81%20xu%E1%BA%A5t%20vay%20n%E1%BB%A3.md) để biết thêm chi tiết.
+Tất nhiên cách lý tưởng này có thể đang vượt qua khả năng chịu rủi ro của nhóm. Hơn nữa mình cũng biết là không đi được lần này thì chắc vẫn sẽ còn những đợt khác. Lúc đó cũng có thể đủ sự tập trung và tiền bạc hơn. Nhưng nếu đề xuất trên là ổn thì mình chưa tìm được lý do nào để phải chờ tới dịp tiếp theo. 
 
 ## Phụ lục
 ### Khi nào thì một người có dự tính hành động?
