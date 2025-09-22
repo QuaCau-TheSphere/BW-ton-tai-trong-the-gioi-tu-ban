@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-09-03T10:03
+updated: 2025-09-21T22:13
 aliases:
   - tài sản vô hình
 ---
@@ -10,3 +10,4 @@ Tài sản vô hình là một tài sản không có hình thái vật chất (k
 Nguồn:: [Tài sản vô hình – Wikipedia tiếng Việt](https://vi.wikipedia.org/wiki/T%C3%A0i_s%E1%BA%A3n_v%C3%B4_h%C3%ACnh)
 
 [Ngân hàng không chấp nhận thế chấp tài sản vô hình](../../T%E1%BB%95%20ch%E1%BB%A9c%20t%C3%A0i%20ch%C3%ADnh/T%E1%BB%95%20ch%E1%BB%A9c%20t%C3%ADn%20d%E1%BB%A5ng/Ng%C3%A2n%20h%C3%A0ng,%20%C4%91i%E1%BB%83m%20t%C3%ADn%20d%E1%BB%A5ng/Ng%C3%A2n%20h%C3%A0ng%20kh%C3%B4ng%20ch%E1%BA%A5p%20nh%E1%BA%ADn%20th%E1%BA%BF%20ch%E1%BA%A5p%20t%C3%A0i%20s%E1%BA%A3n%20v%C3%B4%20h%C3%ACnh.md)
+[❓Tài sản vô hình và hàng hoá vô hình là giống nhau](./%E2%9D%93T%C3%A0i%20s%E1%BA%A3n%20v%C3%B4%20h%C3%ACnh%20v%C3%A0%20h%C3%A0ng%20ho%C3%A1%20v%C3%B4%20h%C3%ACnh%20l%C3%A0%20gi%E1%BB%91ng%20nhau.md)

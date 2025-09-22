@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-08-31T11:15
-updated: 2025-09-03T21:05
+updated: 2025-09-15T08:15
 ---
 Tên thương hiệu:: SeABank
 Phân loại:: [Thương mại Cổ phần](Th%C6%B0%C6%A1ng%20m%E1%BA%A1i%20C%E1%BB%95%20ph%E1%BA%A7n.md)
@@ -13,4 +13,5 @@ Ngày thành lập:: 24/03/1994
 Vốn điều lệ (tỷ đồng):: 28,450.00
 
 ## Ghi chú về app
-Không chịu mở trên điện thoại bật chế độ nhà phát triển
+- Không chịu mở trên điện thoại bật chế độ nhà phát triển
+- Sau khi giao dịch một ngày mới lên sao kê

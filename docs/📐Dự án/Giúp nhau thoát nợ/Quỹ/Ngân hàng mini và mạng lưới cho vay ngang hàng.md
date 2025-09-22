@@ -5,7 +5,7 @@ aliases:
   - Xây dựng quỹ tín dụng vi mô
   - Mạng lưới cho vay chéo, phi tập trung
   - Giúp nhau thoát nợ
-updated: 2025-09-14T20:44
+updated: 2025-09-17T12:15
 ---
 ## Ý tưởng
 Khi một người cần vay thì sẽ có 2 nguồn để vay:
@@ -64,3 +64,5 @@ Tốt nhất chỉ huy động từ những người không yêu cầu thời h�
 ![](https://i.imgur.com/RNcEBe4.png)
 ![](https://imagizer.imageshack.com/a/img923/1273/jQAnX6.png)
 
+
+[Nộp đề xuất dự án Quỹ Sáng kiến Hợp Vcil](https://docs.google.com/forms/d/e/1FAIpQLSegF7LV2ju-lamJb4sKs5DU0osy1hJIxcBqwiJqohzmG9ZafA/viewform)

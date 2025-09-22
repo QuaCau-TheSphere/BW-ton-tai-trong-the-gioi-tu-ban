@@ -1,11 +1,11 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2025-08-25T14:38
+updated: 2025-09-18T21:11
 ---
 Người ta thường cho là tiền tệ được phát minh để bù đắp cho những yếu kém của đổi chác. Những công trình khảo cổ và sử học hoàn toàn phủ nhận trình tự này.  
   
-[Đổi chác được dùng đối với những người không cùng cộng đồng kinh tế. Trong khi đó, giao dịch thông thường nhất, giữa những người sống trong cùng một cộng đồng, thì dựa trên việc nhận nợ.](./Nh%E1%BB%AFng%20ng%C6%B0%E1%BB%9Di%20kh%C3%B4ng%20c%C3%B9ng%20c%E1%BB%99ng%20%C4%91%E1%BB%93ng%20kinh%20t%E1%BA%BF%20th%C3%AC%20%C4%91%E1%BB%95i%20ch%C3%A1c.%20Nh%E1%BB%AFng%20ng%C6%B0%E1%BB%9Di%20s%E1%BB%91ng%20trong%20c%C3%B9ng%20m%E1%BB%99t%20c%E1%BB%99ng%20%C4%91%E1%BB%93ng%20th%C3%AC%20nh%E1%BA%ADn%20n%E1%BB%A3.md)  
+[Đổi chác được dùng đối với những người không cùng cộng đồng kinh tế. Trong khi đó, giao dịch thông thường nhất, giữa những người sống trong cùng một cộng đồng, thì dựa trên việc nhận nợ.](../Nh%E1%BB%AFng%20ng%C6%B0%E1%BB%9Di%20kh%C3%B4ng%20c%C3%B9ng%20c%E1%BB%99ng%20%C4%91%E1%BB%93ng%20kinh%20t%E1%BA%BF%20th%C3%AC%20%C4%91%E1%BB%95i%20ch%C3%A1c.%20Nh%E1%BB%AFng%20ng%C6%B0%E1%BB%9Di%20s%E1%BB%91ng%20trong%20c%C3%B9ng%20m%E1%BB%99t%20c%E1%BB%99ng%20%C4%91%E1%BB%93ng%20th%C3%AC%20nh%E1%BA%ADn%20n%E1%BB%A3.md)  
 Nợ đã hiện hữu từ trước khi con người phát minh ra tiền bạc. Các phiến đất sét mang chữ viết xưa nhất của loài người trong vùng Mésopotamie, chính là những « chứng nợ », có thể được sử dụng để trao đổi như một loại tiền. Xã hội, trên phương diện kinh tế, là một hệ thống nợ nần, ràng buộc mọi con người với nhau.  
   
 Nhà vua, chủ của xã hội, "sở hữu" xã hội, in hình ảnh, biểu tượng, của mình trên các đồng tiền "chứng nợ" ấy, để cho mọi người ý thức rằng họ đều mang nợ ông ta ("nợ nước, ơn vua" !). (1)  

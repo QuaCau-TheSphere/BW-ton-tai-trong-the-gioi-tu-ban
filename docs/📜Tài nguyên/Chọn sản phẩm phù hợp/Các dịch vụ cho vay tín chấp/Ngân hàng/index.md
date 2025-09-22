@@ -2,6 +2,7 @@
 share: true
 created: 2025-03-27T17:13
 updated: 2025-09-14T21:01
+title: Ngân hàng
 ---
 # Vay tín dụng là gì?
 Có thể hiểu đơn giản vay tín dụng là việc một bên (tổ chức/cá nhân) đáp ứng nhu cầu tài chính của bạn bằng một cách nào đó và bạn phải hoàn trả lại trực tiếp số tiền đã được cho vay kèm theo tiền lãi và phí (nếu có).
