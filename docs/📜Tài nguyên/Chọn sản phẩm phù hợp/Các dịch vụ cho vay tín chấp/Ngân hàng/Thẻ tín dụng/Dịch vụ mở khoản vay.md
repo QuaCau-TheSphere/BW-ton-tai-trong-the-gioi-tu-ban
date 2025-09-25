@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-09-17T15:50
+updated: 2025-09-22T15:10
 ---
 Quy định mở khoản vay yêu cầu BHXH, thu nhập cá nhân, sao kê lương, công ty đang làm, địa chỉ, SĐT liên hệ người thân, và hên xui đậu rớt. Để giải quyết việc này, các bên làm dịch vụ sẽ bùa số liệu và thông đồng/hối lộ người duyệt vay trong ngân hàng. Vì là số liệu bùa nên hạn mức khoản vay muốn cao bao nhiêu cũng được, nhưng họ cũng không dám làm cao để tránh việc khách xù luôn khiến cho nhân viên kinh doanh bị ngân hàng phạt.
 
@@ -15,12 +15,12 @@ Quy định mở khoản vay yêu cầu BHXH, thu nhập cá nhân, sao kê lư�
 - Miễn phí rút lần đầu
 - Thẻ hạn mức thấp không lấy phí luôn
 
-[OCB](../../../../T%C3%ACnh%20h%C3%ACnh%20%E1%BB%9F%20Vi%E1%BB%87t%20Nam/L%C4%A9nh%20v%E1%BB%B1c%20c%E1%BB%A5%20th%E1%BB%83/T%C3%A0i%20ch%C3%ADnh/T%E1%BB%95%20ch%E1%BB%A9c%20t%C3%ADn%20d%E1%BB%A5ng/Ng%C3%A2n%20h%C3%A0ng/Danh%20s%C3%A1ch%20ng%C3%A2n%20h%C3%A0ng/OCB.md), [SeAbank](../../../../T%C3%ACnh%20h%C3%ACnh%20%E1%BB%9F%20Vi%E1%BB%87t%20Nam/L%C4%A9nh%20v%E1%BB%B1c%20c%E1%BB%A5%20th%E1%BB%83/T%C3%A0i%20ch%C3%ADnh/T%E1%BB%95%20ch%E1%BB%A9c%20t%C3%ADn%20d%E1%BB%A5ng/Ng%C3%A2n%20h%C3%A0ng/Danh%20s%C3%A1ch%20ng%C3%A2n%20h%C3%A0ng/SeABank.md)
+[OCB](../../../../T%C3%ACnh%20h%C3%ACnh%20%E1%BB%9F%20Vi%E1%BB%87t%20Nam/Ng%C3%A0nh%20ngh%E1%BB%81%20c%E1%BB%A5%20th%E1%BB%83/T%C3%A0i%20ch%C3%ADnh/T%E1%BB%95%20ch%E1%BB%A9c%20t%C3%ADn%20d%E1%BB%A5ng/Ng%C3%A2n%20h%C3%A0ng/Danh%20s%C3%A1ch%20ng%C3%A2n%20h%C3%A0ng/OCB.md), [SeABank](../../../../T%C3%ACnh%20h%C3%ACnh%20%E1%BB%9F%20Vi%E1%BB%87t%20Nam/Ng%C3%A0nh%20ngh%E1%BB%81%20c%E1%BB%A5%20th%E1%BB%83/T%C3%A0i%20ch%C3%ADnh/T%E1%BB%95%20ch%E1%BB%A9c%20t%C3%ADn%20d%E1%BB%A5ng/Ng%C3%A2n%20h%C3%A0ng/Danh%20s%C3%A1ch%20ng%C3%A2n%20h%C3%A0ng/SeABank.md)
 - Địa chỉ: 2/113 Nguyễn Gia Thiều, Q3
 - SĐT: 0972228410
 
 ### Nơi 2
-[OCB](../../../../T%C3%ACnh%20h%C3%ACnh%20%E1%BB%9F%20Vi%E1%BB%87t%20Nam/L%C4%A9nh%20v%E1%BB%B1c%20c%E1%BB%A5%20th%E1%BB%83/T%C3%A0i%20ch%C3%ADnh/T%E1%BB%95%20ch%E1%BB%A9c%20t%C3%ADn%20d%E1%BB%A5ng/Ng%C3%A2n%20h%C3%A0ng/Danh%20s%C3%A1ch%20ng%C3%A2n%20h%C3%A0ng/OCB.md) 10%. Trên 50tr là 8%. Tối thiểu 30tr
+[OCB](../../../../T%C3%ACnh%20h%C3%ACnh%20%E1%BB%9F%20Vi%E1%BB%87t%20Nam/Ng%C3%A0nh%20ngh%E1%BB%81%20c%E1%BB%A5%20th%E1%BB%83/T%C3%A0i%20ch%C3%ADnh/T%E1%BB%95%20ch%E1%BB%A9c%20t%C3%ADn%20d%E1%BB%A5ng/Ng%C3%A2n%20h%C3%A0ng/Danh%20s%C3%A1ch%20ng%C3%A2n%20h%C3%A0ng/OCB.md) 10%. Trên 50tr là 8%. Tối thiểu 30tr
 
 SĐT: 0903850094
 
