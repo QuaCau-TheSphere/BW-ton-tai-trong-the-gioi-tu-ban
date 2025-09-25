@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-09-26T11:02
-updated: 2025-08-31T17:10
+updated: 2025-09-22T14:05
 aliases:
   - Ý tưởng tiết kiệm
 title: Sống vừa đủ, bền vững, tiết kiệm
@@ -18,4 +18,5 @@ Các cộng đồng về sống vừa đủ:
 Các thông tin khác:
 
 
-Xem thêm:: [Nền kinh tế vừa đủ](../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Kinh%20t%E1%BA%BF/C%C3%A1c%20n%E1%BB%81n%20kinh%20t%E1%BA%BF%20thay%20th%E1%BA%BF/N%E1%BB%81n%20kinh%20t%E1%BA%BF%20v%E1%BB%ABa%20%C4%91%E1%BB%A7/index.md)
+Xem thêm:: [Nền kinh tế vừa đủ](../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Ph%C3%A1t%20tri%E1%BB%83n%20b%E1%BB%81n%20v%E1%BB%AFng.%20C%C3%A1c%20n%E1%BB%81n%20kinh%20t%E1%BA%BF%20thay%20th%E1%BA%BF/C%C3%A1c%20n%E1%BB%81n%20kinh%20t%E1%BA%BF%20thay%20th%E1%BA%BF/N%E1%BB%81n%20kinh%20t%E1%BA%BF%20v%E1%BB%ABa%20%C4%91%E1%BB%A7/index.md)
+![[Public] Cẩm nang Hội viên Vcil 1.0.pdf](../../assets/attachments/Public.md)
