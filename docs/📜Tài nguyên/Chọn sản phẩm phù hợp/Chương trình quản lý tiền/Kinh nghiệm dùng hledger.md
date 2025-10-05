@@ -1,0 +1,44 @@
+---
+share: true
+created: 2025-03-27T17:13
+updated: 2025-10-05T16:23
+---
+[Danh mục tài khoản của Lý Minh Nhật](../../../%F0%9F%93%90D%E1%BB%B1%20%C3%A1n/Gi%C3%BAp%20nhau%20tho%C3%A1t%20n%E1%BB%A3/Qu%E1%BB%B9/Danh%20m%E1%BB%A5c%20t%C3%A0i%20kho%E1%BA%A3n.md)
+
+| Trường được dùng | Thông tin                       | Cách phân loại            |
+| ---------------- | ------------------------------- | ------------------------- |
+| Mô tả            | Tên cửa hàng \| Tên món hàng    |                           |
+| Tài khoản        | Nơi lưu trữ tiền, Loại sản phẩm | Theo ngành nghề, sản phẩm |
+| Tag              | Tên sự kiện                     | Theo nhu cầu              |
+| Chú thích        |                                 |                           |
+
+Giao dịch, sự kiện, thanh toán
+
+- Một sự kiện có thể có nhiều giao dịch một món đồ, có thể trải dài nhiều ngày, nhiều tài khoản
+- Một mục đích có thể có nhiều
+- Giao dịch có thể có nhiều món hàng (đi chợ)
+
+LSP:
+- Đổi alias ở tất cả mọi nơi 
+- Đổi tên account ở tất cả mọi nơi 
+- Khai báo account và alias mới ngay trong posting
+
+Dùng alias trong posting thì sau này đổi danh mục cũng tiện, nhưng phải khai báo 2 lần ở account và alias. Lúc dùng app thì dễ dùng dạng đầy đủ hơn, đặc biệt là khi nó là mới
+
+|                              | Dạng đầy đủ    | Alias        |
+| ---------------------------- | -------------- | ------------ |
+| CLI                          | ❌             | ✔            |
+| Dùng trên app                | ✔              | ✔            |
+| Dùng nhiều danh mục cùng lúc | ❌             | ✔            |
+| Khai báo một lần             | ✔              | ❌           |
+|                              | Nói nhóm chung | Nói món hàng |
+
+
+include thì dùng app không gợi ý?
+
+Tài khoản có thể được phân loại theo người sở hữu, nơi lưu tiền, mục đích sử dụng. Chỉ có thể assertion ở nơi lưu tiền
+
+## Xem số tiền chuyển vào
+```
+hledger reg --related "" 
+```
