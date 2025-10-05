@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-09-21T22:17
+updated: 2025-10-04T08:29
 ---
 Khái niệm:: [Quà tặng](../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Qu%C3%A0%20t%E1%BA%B7ng.md), [Từ thiện](../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/T%E1%BB%AB%20thi%E1%BB%87n.md)
 [Tặng quà](../../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/M%E1%BB%9F%20r%E1%BB%99ng%20m%E1%BB%91i%20quan%20h%E1%BB%87/T%E1%BA%B7ng%20qu%C3%A0.md) [Ý tưởng tặng quà cho các đam mê khác nhau](../../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Qu%C3%A0%20t%E1%BA%B7ng/%C3%9D%20t%C6%B0%E1%BB%9Fng%20t%E1%BA%B7ng%20qu%C3%A0%20cho%20c%C3%A1c%20%C4%91am%20m%C3%AA%20kh%C3%A1c%20nhau.md)
@@ -16,3 +16,5 @@ Y học, CTXH là việc giúp người không thể tự giúp mình
 Những người khuyết tật sẽ 
 Trẻ em nghèo, [Người khuyết tật](../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Ng%C6%B0%E1%BB%9Di%20khuy%E1%BA%BFt%20t%E1%BA%ADt.md) sẽ tạo thành cộng đồng hỗ trợ lẫn nhau thế nào?
 [❓Miễn phí, trả tuỳ tâm, tự định giá sức lao động](../../../N%E1%BB%81n%20kinh%20t%E1%BA%BF%20h%C3%A0ng%20ho%C3%A1/Gi%C3%A1%20tr%E1%BB%8B,%20gi%C3%A1%20c%E1%BA%A3/%E2%9D%93Mi%E1%BB%85n%20ph%C3%AD,%20tr%E1%BA%A3%20tu%E1%BB%B3%20t%C3%A2m,%20t%E1%BB%B1%20%C4%91%E1%BB%8Bnh%20gi%C3%A1%20s%E1%BB%A9c%20lao%20%C4%91%E1%BB%99ng.md)
+Đợi đến lúc có được thì chết hết
+Mua đồ bán hàng từ thiện, thì là họ đang muốn tự đứng trên đôi chân của mình chứ có muốn lệ thuộc ai đâu

@@ -1,8 +1,9 @@
 ---
 share: true
 created: 2025-04-20T22:56
-updated: 2025-08-22T17:14
+updated: 2025-09-25T11:29
 ---
+Khái niệm:: [Máy cà thẻ](../../../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/M%C3%A1y%20c%C3%A0%20th%E1%BA%BB.md)
 Nguồn:: [ĐHMT](../../../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Ngu%E1%BB%93n/%C4%90HMT.md)
 
 Nhưng đáo thẻ nào thì máy cũng bị theo dõi hết mà? Còn phí thì cứ đẩy cho khách hàng thôi? 
