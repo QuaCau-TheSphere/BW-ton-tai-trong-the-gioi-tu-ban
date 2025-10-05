@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2025-09-17T11:09
+updated: 2025-10-05T10:21
 ---
 - Theo bạn đâu là cách để giúp bạn bền vững?
 - Bạn nghĩ mình cần làm những gì để kiếm được một người có tiền và để họ đồng ý cho bạn vay? 
@@ -15,7 +15,7 @@ updated: 2025-09-17T11:09
 |          |         |     |              |       |
 
 - Cuộc sống của bạn đã thay đổi thế nào từ lúc có nợ?
-- Bạn đã làm [báo cáo tài chính](../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Ki%E1%BA%BFm%20ti%E1%BB%81n/T%C3%A0i%20ch%C3%ADnh%20c%C3%A1%20nh%C3%A2n/B%C3%A1o%20c%C3%A1o%20t%C3%A0i%20ch%C3%ADnh%20c%C3%A1%20nh%C3%A2n%20g%E1%BB%93m%20b%E1%BA%A3n%20thu%20chi%20c%C3%A1%20nh%C3%A2n%20v%C3%A0%20b%E1%BA%A3n%20c%C3%A2n%20%C4%91%E1%BB%91i%20t%C3%A0i%20s%E1%BA%A3n.md) và [kế hoạch tài chính](../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Ki%E1%BA%BFm%20ti%E1%BB%81n/T%C3%A0i%20ch%C3%ADnh%20c%C3%A1%20nh%C3%A2n/K%E1%BA%BF%20ho%E1%BA%A1ch%20t%C3%A0i%20ch%C3%ADnh%20c%C3%A1%20nh%C3%A2n/index.md) chưa?
+- Bạn đã làm [báo cáo tài chính](../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/N%E1%BB%81n%20kinh%20t%E1%BA%BF%20h%C3%A0ng%20ho%C3%A1/K%E1%BA%BF%20to%C3%A1n/B%C3%A1o%20c%C3%A1o%20t%C3%A0i%20ch%C3%ADnh%20c%C3%A1%20nh%C3%A2n%20g%E1%BB%93m%20b%E1%BA%A3n%20thu%20chi%20c%C3%A1%20nh%C3%A2n%20v%C3%A0%20b%E1%BA%A3n%20c%C3%A2n%20%C4%91%E1%BB%91i%20t%C3%A0i%20s%E1%BA%A3n.md) và [kế hoạch tài chính](../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/N%E1%BB%81n%20kinh%20t%E1%BA%BF%20h%C3%A0ng%20ho%C3%A1/K%E1%BA%BF%20to%C3%A1n/K%E1%BA%BF%20ho%E1%BA%A1ch%20t%C3%A0i%20ch%C3%ADnh/index.md) chưa?
 - Chi phí sinh hoạt hàng tháng:
 
 | Khoản chi | Số tiền | Ngày chi | 
