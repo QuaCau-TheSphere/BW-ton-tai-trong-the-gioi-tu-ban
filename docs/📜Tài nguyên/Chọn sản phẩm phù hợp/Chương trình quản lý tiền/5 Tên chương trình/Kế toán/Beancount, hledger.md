@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-10-04T09:15
+updated: 2025-10-07T11:08
 ---
 Tính năng:: [Nhập liệu được bằng file text](../../3%20T%C3%ADnh%20n%C4%83ng/C%C3%A1ch%20nh%E1%BA%ADp%20li%E1%BB%87u/Nh%E1%BA%ADp%20li%E1%BB%87u%20%C4%91%C6%B0%E1%BB%A3c%20b%E1%BA%B1ng%20file%20text.md)
 Tính năng:: [Nhập được trên máy tính](../../3%20T%C3%ADnh%20n%C4%83ng/C%C3%A1ch%20nh%E1%BA%ADp%20li%E1%BB%87u/Nh%E1%BA%ADp%20%C4%91%C6%B0%E1%BB%A3c%20tr%C3%AAn%20m%C3%A1y%20t%C3%ADnh.md)
@@ -20,6 +20,8 @@ Loại chương trình: [Chương trình kế toán](../../4%20Lo%E1%BA%A1i%20ch
 
 Demo: [Income Statement - Example Beancount file](https://fava.pythonanywhere.com/example-beancount-file/income_statement/)
 https://beancount.github.io/docs/a_comparison_of_beancount_and_ledger_hledger.html
+
+[GitHub - riceissa/beanslate](https://github.com/riceissa/beanslate)
 
 Vì phần chi tiêu cá nhân ko có tác dụng đối với mục đích kê khai thuế ở Mỹ, nên m nói mục đích của dev beancount có vẻ ko phải để theo dõi chi tiêu. b đọc các ví dụ minh họa cách sử dụng của beancount sẽ thấy đa phần là để theo dõi danh mục đầu tư cá nhân, ghi nhận lãi lỗ, nhằm mục đích kê khai thuế thu nhập cá nhân hàng năm của Mỹ. Không như Vietnam thì thuế thu nhập từ đầu tư cá nhân đã được thu hộ tại nguồn là các cty chứng khoán rồi Nhưng m thấy beancount vẫn làm tốt việc theo dõi chi tiêu ở mức tiểu khoản rất tốt. Nếu kiên nhẫn nhập đúng và đủ.
 
@@ -226,6 +228,6 @@ hledger là một lựa chọn mạnh mẽ cho:
 - **Những người tìm kiếm Sự Độc lập Dữ liệu:** Các cá nhân và doanh nghiệp nhỏ muốn **hoàn toàn sở hữu và kiểm soát** dữ liệu tài chính của mình, không bị phụ thuộc vào các dịch vụ phần mềm trả phí hoặc dịch vụ đám mây.
     
 - **Người yêu thích Tối giản (Minimalism):** Những người muốn một giải pháp kế toán không cần cơ sở dữ liệu cồng kềnh, không cần cài đặt phức tạp, và có thể hoạt động hiệu quả trên mọi hệ điều hành (Linux, macOS, Windows).
-    
 
 hledger không chỉ là một chương trình; đó là một triết lý về **tính minh bạch, kiểm soát, và hiệu quả** trong quản lý tiền bạc cá nhân và kinh doanh. Bằng cách viết ra các giao dịch, người dùng không chỉ ghi lại mà còn thực sự **hiểu và chủ động** trong việc quản lý tài chính của mình.
+

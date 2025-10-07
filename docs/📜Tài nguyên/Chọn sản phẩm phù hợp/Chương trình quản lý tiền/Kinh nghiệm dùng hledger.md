@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-10-05T16:23
+updated: 2025-10-06T15:13
 ---
 [Danh mục tài khoản của Lý Minh Nhật](../../../%F0%9F%93%90D%E1%BB%B1%20%C3%A1n/Gi%C3%BAp%20nhau%20tho%C3%A1t%20n%E1%BB%A3/Qu%E1%BB%B9/Danh%20m%E1%BB%A5c%20t%C3%A0i%20kho%E1%BA%A3n.md)
 
@@ -17,6 +17,8 @@ Giao dịch, sự kiện, thanh toán
 - Một sự kiện có thể có nhiều giao dịch một món đồ, có thể trải dài nhiều ngày, nhiều tài khoản
 - Một mục đích có thể có nhiều
 - Giao dịch có thể có nhiều món hàng (đi chợ)
+
+Transaction thì liệt kê từng món đồ cũng tiện. Nhưng vì posting là sự biến đổi của tài khoản, nên cũng không nên làm vậy 
 
 LSP:
 - Đổi alias ở tất cả mọi nơi 

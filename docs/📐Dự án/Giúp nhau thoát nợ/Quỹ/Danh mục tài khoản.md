@@ -1,11 +1,12 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-10-05T18:34
+updated: 2025-10-06T15:10
 title: Danh mục tài khoản của quỹ
 cssClasses: wide-table
 aliases:
   - Lý Minh Nhật
+  - Xây dựng ontology
 ---
 Nhật là người nắm giữ tiền và trực tiếp chi tiêu cho các nhu cầu của Nhật. Một trong các nhu cầu đó là giúp mọi người và lập quỹ chung. Các giao dịch có sự có mặt của Nhật sẽ phải được xem dưới góc độ nào đây?
 - **Chi phí cho cuộc sống của Nhật là của Nhật**: Phân biệt thu nhập, chi tiêu cho mọi người. 
