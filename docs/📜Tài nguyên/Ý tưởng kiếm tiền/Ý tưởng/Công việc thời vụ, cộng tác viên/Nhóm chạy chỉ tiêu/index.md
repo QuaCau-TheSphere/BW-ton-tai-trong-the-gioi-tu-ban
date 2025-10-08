@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-10-29T19:32
-updated: 2025-08-23T15:40
+updated: 2025-10-08T10:05
 aliases:
   - Công việc của nhóm giúp nhau kiếm tiền
   - kiếm tiền
@@ -37,3 +37,7 @@ Nhóm có thể được gọi là "nhóm chạy chỉ tiêu (KPI)", "nhóm thu�
 - [Làm nhân viên ảo FE Credit](./L%C3%A0m%20nh%C3%A2n%20s%E1%BB%B1%20%E1%BA%A3o/FE%20Credit.md)
 
 Xem thêm:: [Công việc thời vụ, cộng tác viên](../index.md)
+
+## Nơi thảo luận
+Vào Discord Quả Cầu, kênh "Kiếm tiền nhanh" để thảo luận:
+![](https://i.imgur.com/PffcLkI.png)
