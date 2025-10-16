@@ -29,3 +29,5 @@ Trẻ em nghèo, [Người khuyết tật](../../../%CE%9E%20Kh%C3%A1i%20ni%E1%B
 [❓Miễn phí, trả tuỳ tâm, tự định giá sức lao động](../../../N%E1%BB%81n%20kinh%20t%E1%BA%BF%20h%C3%A0ng%20ho%C3%A1/Gi%C3%A1%20tr%E1%BB%8B,%20gi%C3%A1%20c%E1%BA%A3/%E2%9D%93Mi%E1%BB%85n%20ph%C3%AD,%20tr%E1%BA%A3%20tu%E1%BB%B3%20t%C3%A2m,%20t%E1%BB%B1%20%C4%91%E1%BB%8Bnh%20gi%C3%A1%20s%E1%BB%A9c%20lao%20%C4%91%E1%BB%99ng.md)
 Đợi đến lúc có được thì chết hết
 Mua đồ bán hàng từ thiện, thì là họ đang muốn tự đứng trên đôi chân của mình chứ có muốn lệ thuộc ai đâu
+
+Wikipedia

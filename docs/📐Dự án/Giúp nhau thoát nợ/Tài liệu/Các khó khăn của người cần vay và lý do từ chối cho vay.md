@@ -23,6 +23,7 @@ aliases:
 ### Lý do về tiền
 - Không có đủ tiền. [Lo cho thân mình còn chưa xong thì lo cho ai](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Ni%E1%BB%81m%20tin,%20di%E1%BB%85n%20ng%C3%B4n/C%C3%A1%20nh%C3%A2n/Lo%20cho%20th%C3%A2n%20m%C3%ACnh%20c%C3%B2n%20ch%C6%B0a%20xong%20th%C3%AC%20lo%20cho%20ai.md)
 - Không muốn bị ảnh hưởng đến kế hoạch chi tiêu quá nhiều
+- Đang phải lo cho người khác
 
 ### Lý do về sự an toàn
 - Không tiếp xúc đủ nhiều để có thể có sự tin tưởng
