@@ -1,9 +1,11 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-09-22T15:10
+updated: 2025-10-15T20:18
 ---
 Quy định mở khoản vay yêu cầu BHXH, thu nhập cá nhân, sao kê lương, công ty đang làm, địa chỉ, SĐT liên hệ người thân, và hên xui đậu rớt. Để giải quyết việc này, các bên làm dịch vụ sẽ bùa số liệu và thông đồng/hối lộ người duyệt vay trong ngân hàng. Vì là số liệu bùa nên hạn mức khoản vay muốn cao bao nhiêu cũng được, nhưng họ cũng không dám làm cao để tránh việc khách xù luôn khiến cho nhân viên kinh doanh bị ngân hàng phạt.
+
+Tên gọi khác: làm giấy tờ
 
 [Các khoản tài sản và khoản nợ Nhật đứng tên (phiên bản cho bạn bè)](../../../../../%F0%9F%93%90D%E1%BB%B1%20%C3%A1n/Gi%C3%BAp%20nhau%20tho%C3%A1t%20n%E1%BB%A3/Ng%C6%B0%E1%BB%9Di%20th%E1%BB%A5%20h%C6%B0%E1%BB%9Fng/L%C3%BD%20Minh%20Nh%E1%BA%ADt/C%C3%A1c%20kho%E1%BA%A3n%20t%C3%A0i%20s%E1%BA%A3n%20v%C3%A0%20kho%E1%BA%A3n%20n%E1%BB%A3%20Nh%E1%BA%ADt%20%C4%91%E1%BB%A9ng%20t%C3%AAn%20(phi%C3%AAn%20b%E1%BA%A3n%20cho%20b%E1%BA%A1n%20b%C3%A8).md)
 [tay trái qua tay phải](tay%20tr%C3%A1i%20qua%20tay%20ph%E1%BA%A3i.md)
