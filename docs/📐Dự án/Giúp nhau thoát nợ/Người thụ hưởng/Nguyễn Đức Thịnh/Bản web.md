@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-09-19T18:17
+updated: 2025-10-09T16:29
 title: Đề xuất vay nợ của Nguyễn Đức Thịnh
 ---
 ## Thông tin chính
@@ -98,7 +98,7 @@ Em không có sức lực, thời gian và đầu óc để nghĩ đến chúng.
 Không muốn xù nào hết vì không muốn ảnh hưởng tới tín dụng, kể cả momo.
 
 #### Bạn có chấp nhận [ra khỏi thành phố sống](../../T%C3%A0i%20li%E1%BB%87u/Ni%E1%BB%81m%20tin/Ra%20kh%E1%BB%8Fi%20th%C3%A0nh%20ph%E1%BB%91%20s%E1%BB%91ng.md) không? Vì sao?
-Em có nhiều mối quan hệ ở đây, và muốn xây dựng sự nghiệp trong ngành dịch vụ, nên không muốn ra khỏi thành phố. Việc sống ở các thành phố khác như Biên Hoà không làm giảm chi phí sống đáng kể.
+Em có nhiều mối quan hệ ở đây, và muốn xây dựng sự nghiệp trong ngành dịch vụ, nên không muốn ra khỏi thành phố. Việc sống ở các thành phố khác như Biên Hoà không làm giảm chi phí sống đáng kể. Ở Đà Nẵng tuy có ngành dịch vụ phát triển, các nhà hàng khách sạn hoặc khu du lịch chắc cũng có ký túc xá nhưng mức sống không đủ để trả nợ.
 
 ### Năng lực xoay sở
 #### Bạn nghĩ sao về quan điểm [áp lực tạo kim cương](../../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Ni%E1%BB%81m%20tin,%20di%E1%BB%85n%20ng%C3%B4n/Th%C3%A1ch%20th%E1%BB%A9c,%20%C4%91am%20m%C3%AA,%20ph%C3%A1t%20tri%E1%BB%83n%20b%E1%BA%A3n%20th%C3%A2n/%C3%81p%20l%E1%BB%B1c%20t%E1%BA%A1o%20kim%20c%C6%B0%C6%A1ng.md)? Bạn có nghĩa rằng nếu không có ai giúp đỡ thì bạn sẽ làm được những điều đến chính bạn cũng ngạc nhiên?
