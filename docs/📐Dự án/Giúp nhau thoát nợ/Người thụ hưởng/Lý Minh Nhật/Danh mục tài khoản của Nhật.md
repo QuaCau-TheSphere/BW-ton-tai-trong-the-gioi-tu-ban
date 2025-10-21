@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-10-13T09:22
+updated: 2025-10-21T17:01
 ---
 Khái niệm:: 
 Nhật là người nắm giữ tiền và trực tiếp chi tiêu cho các nhu cầu của Nhật. Một trong các nhu cầu đó là giúp mọi người và lập quỹ chung. Các giao dịch có sự có mặt của Nhật sẽ phải được xem dưới góc độ nào đây?
@@ -58,7 +58,9 @@ Nhưng nếu đó là ngân hàng thì có. Vì lúc này tài khoản không ph
 - Giúp:[Tên cá nhân]
 
 ## Tài khoản
-Chi phí, thu nhập hiểu theo nghĩa là tiền trao cháo múc; một khi đã đưa tiền thì không còn quan tâm đến nhau nữa. Việc mua bán với các quỹ 
+Chi phí, thu nhập là dành cho những giao dịch kiểu tiền trao cháo múc: [không có nhu cầu biết tới các mối quan hệ xã hội đằng sau nó](../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/N%E1%BB%81n%20kinh%20t%E1%BA%BF%20h%C3%A0ng%20ho%C3%A1/H%C3%A0ng%20h%C3%B3a%20khi%E1%BA%BFn%20ta%20kh%C3%B4ng%20th%E1%BA%A5y%20c%C3%A1c%20m%E1%BB%91i%20quan%20h%E1%BB%87%20x%C3%A3%20h%E1%BB%99i%20%C4%91%E1%BA%B1ng%20sau%20n%C3%B3.md). Nói cách khác là chỉ dùng cho những thứ đã trở thành hàng hóa. 
+
+Những giao dịch mà ta muốn tham gia vào các mối quan hệ đằng sau, ví dụ như với các quỹ vi mô, thì chỉ xem là việc chuyển tiền giữa các tài khoản, không tính là chi phí hay thu nhập. 
 
 ### Chi phí
 - Giao thông
