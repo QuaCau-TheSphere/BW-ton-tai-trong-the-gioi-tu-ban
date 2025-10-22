@@ -3,7 +3,7 @@ share: true
 created: 2024-07-29T13:31
 updated: 2025-07-09T17:32
 ---
-Loại dịch vụ:: [App vay nóng](./index.md)
+Loại dịch vụ:: [App vay nóng](%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Ch%E1%BB%8Dn%20s%E1%BA%A3n%20ph%E1%BA%A9m%20ph%C3%B9%20h%E1%BB%A3p/C%C3%A1c%20d%E1%BB%8Bch%20v%E1%BB%A5%20cho%20vay%20t%C3%ADn%20ch%E1%BA%A5p/T%E1%BB%95%20ch%E1%BB%A9c%20t%C3%ADn%20d%E1%BB%A5ng%20phi%20ng%C3%A2n%20h%C3%A0ng/App%20vay%20n%C3%B3ng/App%20vay%20n%C3%B3ng.md)
 
 ```yaml
 Lần 1:
