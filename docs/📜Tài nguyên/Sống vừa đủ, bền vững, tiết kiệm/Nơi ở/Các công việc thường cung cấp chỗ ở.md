@@ -1,10 +1,13 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-10-20T15:14
 aliases:
   - nơi ở miễn phí
+updated: 2025-10-22T08:57
 ---
+Lên chùa tu
+## Bảo vệ ca đêm
+## Nông trại
 Xem thêm:: [Ý tưởng tiết kiệm tiền nhà](./%C3%9D%20t%C6%B0%E1%BB%9Fng%20ti%E1%BA%BFt%20ki%E1%BB%87m%20ti%E1%BB%81n%20nh%C3%A0.md)
 ## Bảo vệ
 
@@ -17,13 +20,13 @@ Các resort, khách sạn 5 sao đều cung cấp ký túc xá cho nhân viên. 
 
 [Di house Đà Lạt \| Đà Lạt \| Facebook](https://www.facebook.com/dihousedalat)
 
-## F&B (nhà hàng, cafe)       
+## F&B (nhà hàng, cafe)
 Lao động phổ thông, sinh viên
 
-## Công trường / nhà máy      
+## Công trường/nhà máy
 Lao động tỉnh, kỹ thuật viên
 
-## Tàu du lịch / vùng xa      
+## Tàu du lịch/vùng xa
 Thích môi trường quốc tế, thích di chuyển
 
 ## [Bao nuôi](../../Qu%C3%A0%20t%E1%BA%B7ng/Bao%20nu%C3%B4i/index.md)
