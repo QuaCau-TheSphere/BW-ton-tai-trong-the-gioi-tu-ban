@@ -15,7 +15,7 @@ updated: 2025-10-05T10:21
 |          |         |     |              |       |
 
 - Cuộc sống của bạn đã thay đổi thế nào từ lúc có nợ?
-- Bạn đã làm [báo cáo tài chính](../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/N%E1%BB%81n%20kinh%20t%E1%BA%BF%20h%C3%A0ng%20ho%C3%A1/K%E1%BA%BF%20to%C3%A1n/B%C3%A1o%20c%C3%A1o%20t%C3%A0i%20ch%C3%ADnh%20c%C3%A1%20nh%C3%A2n%20g%E1%BB%93m%20b%E1%BA%A3n%20thu%20chi%20c%C3%A1%20nh%C3%A2n%20v%C3%A0%20b%E1%BA%A3n%20c%C3%A2n%20%C4%91%E1%BB%91i%20t%C3%A0i%20s%E1%BA%A3n.md) và [kế hoạch tài chính](../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/N%E1%BB%81n%20kinh%20t%E1%BA%BF%20h%C3%A0ng%20ho%C3%A1/K%E1%BA%BF%20to%C3%A1n/K%E1%BA%BF%20ho%E1%BA%A1ch%20t%C3%A0i%20ch%C3%ADnh/index.md) chưa?
+- Bạn đã làm [báo cáo tài chính](../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Ng%C3%A0nh%20ngh%E1%BB%81%20c%E1%BB%A5%20th%E1%BB%83/K%E1%BA%BF%20to%C3%A1n/B%C3%A1o%20c%C3%A1o/B%C3%A1o%20c%C3%A1o%20t%C3%A0i%20ch%C3%ADnh%20c%C3%A1%20nh%C3%A2n%20g%E1%BB%93m%20b%E1%BA%A3n%20thu%20chi%20c%C3%A1%20nh%C3%A2n%20v%C3%A0%20b%E1%BA%A3n%20c%C3%A2n%20%C4%91%E1%BB%91i%20t%C3%A0i%20s%E1%BA%A3n.md) và [kế hoạch tài chính](../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/N%E1%BB%81n%20kinh%20t%E1%BA%BF%20h%C3%A0ng%20ho%C3%A1/K%E1%BA%BF%20ho%E1%BA%A1ch%20t%C3%A0i%20ch%C3%ADnh/index.md) chưa?
 - Chi phí sinh hoạt hàng tháng:
 
 | Khoản chi | Số tiền | Ngày chi | 
@@ -34,7 +34,7 @@ updated: 2025-10-05T10:21
 ## Các cách xoay sở bạn đã áp dụng
 - Bạn đã thử tham gia vào [các ý tưởng kiếm tiền](../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/%C3%9D%20t%C6%B0%E1%BB%9Fng%20ki%E1%BA%BFm%20ti%E1%BB%81n/%C3%9D%20t%C6%B0%E1%BB%9Fng/index.md) nào? Độ hiệu quả của chúng thế nào?
 - Bạn nghĩ gì về [các ý tưởng tiết kiệm](../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/S%E1%BB%91ng%20v%E1%BB%ABa%20%C4%91%E1%BB%A7,%20b%E1%BB%81n%20v%E1%BB%AFng,%20ti%E1%BA%BFt%20ki%E1%BB%87m/index.md) này?
-- Bạn đã dùng tới [Các dịch vụ cho vay tín chấp](../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Ch%E1%BB%8Dn%20s%E1%BA%A3n%20ph%E1%BA%A9m%20ph%C3%B9%20h%E1%BB%A3p/C%C3%A1c%20d%E1%BB%8Bch%20v%E1%BB%A5%20cho%20vay%20t%C3%ADn%20ch%E1%BA%A5p/index.md) nào? Vì sao chúng không phù hợp với bạn?
+- Bạn đã dùng tới [Vay tín chấp](../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Ch%E1%BB%8Dn%20s%E1%BA%A3n%20ph%E1%BA%A9m%20ph%C3%B9%20h%E1%BB%A3p/Vay%20t%C3%ADn%20ch%E1%BA%A5p/index.md) nào? Vì sao chúng không phù hợp với bạn?
 - Bạn có chấp nhận [xù nợ ngân hàng](./T%C3%A0i%20li%E1%BB%87u/X%C3%B9%20n%E1%BB%A3%20ng%C3%A2n%20h%C3%A0ng.md), [xù nợ vay nóng](./T%C3%A0i%20li%E1%BB%87u/X%C3%B9%20n%E1%BB%A3%20vay%20n%C3%B3ng.md) không? Vì sao?
 	- Vì sao bạn không thể chấp nhận mất cic?
 - Bạn có chấp nhận [ra khỏi thành phố sống](./T%C3%A0i%20li%E1%BB%87u/Ni%E1%BB%81m%20tin/Ra%20kh%E1%BB%8Fi%20th%C3%A0nh%20ph%E1%BB%91%20s%E1%BB%91ng.md) không? Vì sao?

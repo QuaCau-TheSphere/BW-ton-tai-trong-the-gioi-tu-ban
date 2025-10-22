@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-10-08T10:57
+updated: 2025-10-21T20:10
 ---
 Khái niệm:: [Quà tặng](../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Qu%C3%A0%20t%E1%BA%B7ng.md), [Từ thiện](../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/T%E1%BB%AB%20thi%E1%BB%87n.md)
 

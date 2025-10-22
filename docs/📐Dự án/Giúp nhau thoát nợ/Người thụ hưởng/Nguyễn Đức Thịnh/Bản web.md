@@ -91,7 +91,7 @@ Em không có sức lực, thời gian và đầu óc để nghĩ đến chúng
 #### Bạn nghĩ gì về [các ý tưởng tiết kiệm](../../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/S%E1%BB%91ng%20v%E1%BB%ABa%20%C4%91%E1%BB%A7,%20b%E1%BB%81n%20v%E1%BB%AFng,%20ti%E1%BA%BFt%20ki%E1%BB%87m/index.md) này?
 Em không có sức lực, thời gian và đầu óc để nghĩ đến chúng
 
-#### Bạn đã dùng tới [các dịch vụ cho vay](../../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Ch%E1%BB%8Dn%20s%E1%BA%A3n%20ph%E1%BA%A9m%20ph%C3%B9%20h%E1%BB%A3p/C%C3%A1c%20d%E1%BB%8Bch%20v%E1%BB%A5%20cho%20vay%20t%C3%ADn%20ch%E1%BA%A5p/index.md) nào? Vì sao chúng không phù hợp với bạn?
+#### Bạn đã dùng tới [các dịch vụ cho vay](../../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Ch%E1%BB%8Dn%20s%E1%BA%A3n%20ph%E1%BA%A9m%20ph%C3%B9%20h%E1%BB%A3p/Vay%20t%C3%ADn%20ch%E1%BA%A5p/index.md) nào? Vì sao chúng không phù hợp với bạn?
 Em không có sức lực, thời gian và đầu óc để nghĩ đến chúng. Hơn nữa em muốn cắt nợ nên không muốn dùng thẻ tín dụng.
 
 #### Bạn có chấp nhận [xù nợ ngân hàng](../../T%C3%A0i%20li%E1%BB%87u/X%C3%B9%20n%E1%BB%A3%20ng%C3%A2n%20h%C3%A0ng.md) không? Vì sao?

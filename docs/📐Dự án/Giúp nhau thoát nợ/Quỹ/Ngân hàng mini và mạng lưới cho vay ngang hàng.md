@@ -11,7 +11,7 @@ updated: 2025-10-09T16:18
 ## Ý tưởng
 Khi một người cần vay thì sẽ có 2 nguồn để vay:
 - Mượn từ bạn bè, người thân
-- Từ [Các dịch vụ cho vay tín chấp](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Ch%E1%BB%8Dn%20s%E1%BA%A3n%20ph%E1%BA%A9m%20ph%C3%B9%20h%E1%BB%A3p/C%C3%A1c%20d%E1%BB%8Bch%20v%E1%BB%A5%20cho%20vay%20t%C3%ADn%20ch%E1%BA%A5p/index.md), dù đó là dịch vụ chính thức hay phi chính thức
+- Từ [Vay tín chấp](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Ch%E1%BB%8Dn%20s%E1%BA%A3n%20ph%E1%BA%A9m%20ph%C3%B9%20h%E1%BB%A3p/Vay%20t%C3%ADn%20ch%E1%BA%A5p/index.md), dù đó là dịch vụ chính thức hay phi chính thức
 
 Nhưng mượn từ bạn bè, người thân thì [khó mở lời](../T%C3%A0i%20li%E1%BB%87u/C%C3%A1c%20kh%C3%B3%20kh%C4%83n%20c%E1%BB%A7a%20ng%C6%B0%E1%BB%9Di%20c%E1%BA%A7n%20vay%20v%C3%A0%20l%C3%BD%20do%20t%E1%BB%AB%20ch%E1%BB%91i%20cho%20vay.md), mà nếu đã mở lời thì cũng có [vô số lý do để họ không cho mượn](../T%C3%A0i%20li%E1%BB%87u/Ni%E1%BB%81m%20tin/C%C3%A1c%20l%C3%BD%20do%20cho%20vi%E1%BB%87c%20gi%C3%BAp%20%C4%91%E1%BB%A1%20ho%E1%BA%B7c%20kh%C3%B4ng%20gi%C3%BAp%20%C4%91%E1%BB%A1.md). Còn đi vay dịch vụ thì có thể không đủ điều kiện để vay được số tiền cần thiết, hoặc lãi quá cao. Và kể cả có vay được thì số tiền vay được cũng có thể không đủ để xử lý vấn đề. Nhưng gốc rễ của tất cả những chuyện này vẫn là họ cần mượn rất nhiều tiền. Tức là nếu cho những người này vay tiền thì gần như là chỉ một, hai lần là đã hết sạch quỹ. 
 
@@ -38,7 +38,7 @@ Có 2 quan điểm về việc này:
 - [Người vững vàng là người không cần phụ thuộc vào người khác](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Ni%E1%BB%81m%20tin,%20di%E1%BB%85n%20ng%C3%B4n/Gi%C3%BAp%20%C4%91%E1%BB%A1/Ng%C6%B0%E1%BB%9Di%20v%E1%BB%AFng%20v%C3%A0ng%20l%C3%A0%20ng%C6%B0%E1%BB%9Di%20kh%C3%B4ng%20c%E1%BA%A7n%20ph%E1%BB%A5%20thu%E1%BB%99c%20v%C3%A0o%20ng%C6%B0%E1%BB%9Di%20kh%C3%A1c.md)
 - Việc phải dùng các dịch vụ tư bản phải chịu lãi cao hơn, cũng như tiếp tay cho sự bóc lột
 
-Quan điểm đầu sẽ khuyến khích người cần vay tìm tới [Các dịch vụ cho vay tín chấp](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Ch%E1%BB%8Dn%20s%E1%BA%A3n%20ph%E1%BA%A9m%20ph%C3%B9%20h%E1%BB%A3p/C%C3%A1c%20d%E1%BB%8Bch%20v%E1%BB%A5%20cho%20vay%20t%C3%ADn%20ch%E1%BA%A5p/index.md) chính thức trước, nếu bị từ chối hết mới hỗ trợ. Nó cũng sẽ thiên về làm các hoạt động nâng điểm tín dụng. Với quan điểm sau thì quỹ sẽ hỗ trợ ngay luôn, việc tìm đến các dịch vụ kia chỉ là tạm thời trong lúc cấp bách.
+Quan điểm đầu sẽ khuyến khích người cần vay tìm tới [Vay tín chấp](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Ch%E1%BB%8Dn%20s%E1%BA%A3n%20ph%E1%BA%A9m%20ph%C3%B9%20h%E1%BB%A3p/Vay%20t%C3%ADn%20ch%E1%BA%A5p/index.md) chính thức trước, nếu bị từ chối hết mới hỗ trợ. Nó cũng sẽ thiên về làm các hoạt động nâng điểm tín dụng. Với quan điểm sau thì quỹ sẽ hỗ trợ ngay luôn, việc tìm đến các dịch vụ kia chỉ là tạm thời trong lúc cấp bách.
 
 ### Yêu cầu với người vay
 Phải hoàn thành [bản câu hỏi cho người cần được hỗ trợ thoát nợ](../B%E1%BA%A3n%20c%C3%A2u%20h%E1%BB%8Fi%20cho%20ng%C6%B0%E1%BB%9Di%20c%E1%BA%A7n%20%C4%91%C6%B0%E1%BB%A3c%20h%E1%BB%97%20tr%E1%BB%A3%20tho%C3%A1t%20n%E1%BB%A3.md). Có thể lúc khẩn cấp thì không có thời gian để làm, nếu tin được thì cứ giải ngân/hỏi vay giùm trước, nhưng phải bắt họ làm sau đó.

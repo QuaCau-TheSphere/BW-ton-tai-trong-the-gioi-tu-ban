@@ -10,7 +10,7 @@ Khi vay thế chấp ngân hàng thì ngân hàng thường định giá tài s�
 Trước mắt, để thử nghiệm, quỹ sẽ giới hạn đối tượng phục vụ là những người đang vay thẻ tín dụng bằng hình thức thế chấp tài sản. Sau khi được vay thì họ sẽ phải dùng số tiền đó để đi huỷ thẻ. 40 ngày sổ sẽ được mở khoá, và họ sẽ phải trả lại tiền vay. Lãi vay sẽ được trả một phần cho người quản lý, và một phần để trả tiền cho những ai góp tiền nhưng không cần dùng đến.
 
 ## Khác biệt với hình thức hụi thông thường
-Gọi quỹ này là một [dây hụi](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Ch%E1%BB%8Dn%20s%E1%BA%A3n%20ph%E1%BA%A9m%20ph%C3%B9%20h%E1%BB%A3p/C%C3%A1c%20d%E1%BB%8Bch%20v%E1%BB%A5%20cho%20vay%20t%C3%ADn%20ch%E1%BA%A5p/T%E1%BB%95%20ch%E1%BB%A9c%20t%C3%A0i%20ch%C3%ADnh%20vi%20m%C3%B4/D%C3%A2y%20h%E1%BB%A5i.md) cũng được, nhưng nó có những điểm khác biệt với các dây hụi thông thường như sau:
+Gọi quỹ này là một [Dây hụi](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Ch%E1%BB%8Dn%20s%E1%BA%A3n%20ph%E1%BA%A9m%20ph%C3%B9%20h%E1%BB%A3p/Vay%20t%C3%ADn%20ch%E1%BA%A5p/T%E1%BB%95%20ch%E1%BB%A9c%20t%C3%A0i%20ch%C3%ADnh%20vi%20m%C3%B4/D%C3%A2y%20h%E1%BB%A5i.md) cũng được, nhưng nó có những điểm khác biệt với các dây hụi thông thường như sau:
 
 | Tiêu chí                                   | Các dây hụi thông thường           | Quỹ giúp nhau giữ tài sản thế chấp    |
 | ------------------------------------------ | ---------------------------------- | ------------------------------------- |
