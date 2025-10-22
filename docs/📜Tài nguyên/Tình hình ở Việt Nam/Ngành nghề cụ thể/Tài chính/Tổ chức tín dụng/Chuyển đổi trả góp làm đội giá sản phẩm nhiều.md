@@ -6,7 +6,7 @@ updated: 2025-09-22T10:58
 Khái niệm:: [Trả góp](../../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Tr%E1%BA%A3%20g%C3%B3p.md)
 Lý do:: [Luật chỉ quy định về lãi, chứ phí thì không đả động gì](../../../Lu%E1%BA%ADt,%20qu%E1%BA%A3n%20l%C3%BD%20nh%C3%A0%20n%C6%B0%E1%BB%9Bc/T%C3%A0i%20ch%C3%ADnh/Ti%E1%BB%81n%20t%E1%BB%87,%20ng%C3%A2n%20h%C3%A0ng/Lu%E1%BA%ADt%20ch%E1%BB%89%20quy%20%C4%91%E1%BB%8Bnh%20v%E1%BB%81%20l%C3%A3i,%20ch%E1%BB%A9%20ph%C3%AD%20th%C3%AC%20kh%C3%B4ng%20%C4%91%E1%BA%A3%20%C4%91%E1%BB%99ng%20g%C3%AC.md)
 
-[Các dịch vụ cho vay tín chấp](../../../../Ch%E1%BB%8Dn%20s%E1%BA%A3n%20ph%E1%BA%A9m%20ph%C3%B9%20h%E1%BB%A3p/C%C3%A1c%20d%E1%BB%8Bch%20v%E1%BB%A5%20cho%20vay%20t%C3%ADn%20ch%E1%BA%A5p/index.md)
+[Vay tín chấp](../../../../Ch%E1%BB%8Dn%20s%E1%BA%A3n%20ph%E1%BA%A9m%20ph%C3%B9%20h%E1%BB%A3p/Vay%20t%C3%ADn%20ch%E1%BA%A5p/index.md)
 [xây dựng quỹ tín dụng vi mô](../../../../../%F0%9F%93%90D%E1%BB%B1%20%C3%A1n/Gi%C3%BAp%20nhau%20tho%C3%A1t%20n%E1%BB%A3/Qu%E1%BB%B9/Ng%C3%A2n%20h%C3%A0ng%20mini%20v%C3%A0%20m%E1%BA%A1ng%20l%C6%B0%E1%BB%9Bi%20cho%20vay%20ngang%20h%C3%A0ng.md)
 [Có thể vay tiền bằng cách mua đồ trả góp rồi bán lại](../../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Ng%C3%A0nh%20ngh%E1%BB%81%20c%E1%BB%A5%20th%E1%BB%83/T%C3%A0i%20ch%C3%ADnh/T%C3%ADn%20d%E1%BB%A5ng/C%C3%B3%20th%E1%BB%83%20vay%20ti%E1%BB%81n%20b%E1%BA%B1ng%20c%C3%A1ch%20mua%20%C4%91%E1%BB%93%20tr%E1%BA%A3%20g%C3%B3p%20r%E1%BB%93i%20b%C3%A1n%20l%E1%BA%A1i.md)
 
