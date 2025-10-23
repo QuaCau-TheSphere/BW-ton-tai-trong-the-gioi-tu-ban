@@ -2,8 +2,8 @@
 share: true
 created: 2025-03-27T17:13
 aliases:
-  - nơi ở miễn phí
-updated: 2025-10-22T08:57
+  - nơi ở giá rẻ hoặc miễn phí
+updated: 2025-10-23T15:11
 ---
 Lên chùa tu
 ## Bảo vệ ca đêm
