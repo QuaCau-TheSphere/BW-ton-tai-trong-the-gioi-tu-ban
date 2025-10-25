@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-10-15T14:08
+updated: 2025-10-24T16:17
 cssClasses: wide-table
 aliases:
   - Xây dựng ontology
@@ -79,6 +79,25 @@ a2-->b-->c2
 | Nơi lưu tiền của người cho vay | L    | ☹️Số tiền mình còn đang nợ họ   | Mình đã trả nợ đầy đủ      | Mình trả thừa                 |
 | Thẻ tín dụng                   | L    | ☹️Số tiền mình còn nợ ngân hàng | Không có nợ                | Ít khi xảy ra                 |
 
+Khi cho mượn, thì tài khoản là tính tổng, xem như là rút từ đó đưa cho họ. 
+Khi họ chuyển vào mà không ghi lại nơi nhận ở đâu thì không phải dạng ảo nữa
+
+| ---------------- | ---   |
+| ---------------- | ----- |
+| Chuyển tiền giùm | 0     |
+| Vay giùm         | Âm    |
+| Trả giùm         | Dương | 
+```
+2025-07-14 Cửa cuốn thông minh | Rút tiền seabank
+    Nơi lưu tiền:Thẻ:SeABank Nhật      -4500 kđ
+    Chi tiêu:Tài chính:Thẻ:Phí rút:SeABank Nhật  90
+    (Giúp:Thịnh)  -4410
+    Cá nhân:Thịnh                 4410 kđ
+
+2025-07-14 | Phí đáo tháng 8
+    Cá nhân:Thịnh:VĐT:Momo       -550 kđ
+    Giúp:Thịnh  550
+```
 ## Khi người vay trả tiền/đóng phí
 ```mermaid
 flowchart LR
