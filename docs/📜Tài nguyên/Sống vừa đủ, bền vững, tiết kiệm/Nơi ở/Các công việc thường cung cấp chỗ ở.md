@@ -3,12 +3,12 @@ share: true
 created: 2025-03-27T17:13
 aliases:
   - nơi ở giá rẻ hoặc miễn phí
-updated: 2025-10-23T15:11
+updated: 2025-10-26T17:39
 ---
 Lên chùa tu
 ## Bảo vệ ca đêm
 ## Nông trại
-Xem thêm:: [Ý tưởng tiết kiệm tiền nhà](./%C3%9D%20t%C6%B0%E1%BB%9Fng%20ti%E1%BA%BFt%20ki%E1%BB%87m%20ti%E1%BB%81n%20nh%C3%A0.md)
+Xem thêm:: [Ý tưởng tìm nhà ở giá rẻ](./%C3%9D%20t%C6%B0%E1%BB%9Fng%20t%C3%ACm%20nh%C3%A0%20%E1%BB%9F%20gi%C3%A1%20r%E1%BA%BB.md)
 ## Bảo vệ
 
 ## Quản lý ký túc xá, khu nhà trọ
