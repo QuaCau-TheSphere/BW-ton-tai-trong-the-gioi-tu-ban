@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-09-16T08:29
+updated: 2025-10-26T16:56
 ---
 Khái niệm:: 
 Nói chung là nhiều người có nhu cầu
@@ -9,16 +9,16 @@ Nhưng mỗi cá nhân thì không làm nên trò trống gì
 Cá nhân anh cũng vậy
 Nhưng tổ chức thì có thể được
 Chỉ cần không phải tổ chức những buổi thảo luận phổng đạn hay phim phổng đạn là được
-Ooker — Yesterday at 1:17 PM
+
 Phải nghĩ thêm gì?
 Đi ăn chung cũng kết nối đc các kiểu rồi
-Lamb — Yesterday at 1:45 PM
+
 Ít người
 Như cathay thì đông quá
-Ooker — Yesterday at 1:46 PM
+
 Thì ăn ít người thôi?
 Bàn 6 người?
-Lamb — Yesterday at 1:47 PM
+
 Mục đích của việc đi ăn nó nhanh
 Ăn xong rồi về
 Nó khác với 1 buổi thảo luận sau khi xem phim
