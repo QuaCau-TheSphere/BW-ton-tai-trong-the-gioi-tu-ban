@@ -1,14 +1,16 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-10-27T07:09
+updated: 2025-10-27T12:11
 aliases:
   - Xây dựng hợp tác xã nhà ở, quỹ nhà ở vi mô
-description: Khái niệm, phân loại, nguồn lực và các phân tích khác
+  - intentional community
+description: Khái niệm, phân loại, nguồn lực, hướng dẫn ghé thăm, dự án xây dựng một cộng đồng như vậy, và các phản ví dụ
 title: Cộng đồng có chủ đích
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PfAsblgWXtg?si=HRFiWadJ1c9AS0pC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-[Cộng đồng có chủ đích được hình thành khi một nhóm người quyết định đủ gần nhau để thực hành một lối sống chung và để đạt được mục đích chung](./C%E1%BB%99ng%20%C4%91%E1%BB%93ng%20c%C3%B3%20ch%E1%BB%A7%20%C4%91%C3%ADch%20%C4%91%C6%B0%E1%BB%A3c%20h%C3%ACnh%20th%C3%A0nh%20khi%20m%E1%BB%99t%20nh%C3%B3m%20ng%C6%B0%E1%BB%9Di%20quy%E1%BA%BFt%20%C4%91%E1%BB%8Bnh%20%C4%91%E1%BB%A7%20g%E1%BA%A7n%20nhau%20%C4%91%E1%BB%83%20th%E1%BB%B1c%20h%C3%A0nh%20m%E1%BB%99t%20l%E1%BB%91i%20s%E1%BB%91ng%20chung%20v%C3%A0%20%C4%91%E1%BB%83%20%C4%91%E1%BA%A1t%20%C4%91%C6%B0%E1%BB%A3c%20m%E1%BB%A5c%20%C4%91%C3%ADch%20chung.md). Đây là một số mục đích cơ bản mà cộng đồng nào cũng có:
+
+[Cộng đồng có chủ đích được hình thành khi một nhóm người quyết định sống đủ gần nhau để thực hành một lối sống chung và để đạt được mục đích chung](./C%E1%BB%99ng%20%C4%91%E1%BB%93ng%20c%C3%B3%20ch%E1%BB%A7%20%C4%91%C3%ADch%20%C4%91%C6%B0%E1%BB%A3c%20h%C3%ACnh%20th%C3%A0nh%20khi%20m%E1%BB%99t%20nh%C3%B3m%20ng%C6%B0%E1%BB%9Di%20quy%E1%BA%BFt%20%C4%91%E1%BB%8Bnh%20s%E1%BB%91ng%20%C4%91%E1%BB%A7%20g%E1%BA%A7n%20nhau%20%C4%91%E1%BB%83%20th%E1%BB%B1c%20h%C3%A0nh%20m%E1%BB%99t%20l%E1%BB%91i%20s%E1%BB%91ng%20chung%20v%C3%A0%20%C4%91%E1%BB%83%20%C4%91%E1%BA%A1t%20%C4%91%C6%B0%E1%BB%A3c%20m%E1%BB%A5c%20%C4%91%C3%ADch%20chung.md). Đây là một số mục đích cơ bản mà cộng đồng nào cũng có:
 - Tiết kiệm chi phí sinh hoạt
 - Có thêm các mối quan hệ thân mật
 - Thử nghiệm các cách tổ chức xã hội phi chủ lưu
@@ -48,7 +50,7 @@ Mặc dù về nguyên tắc cộng đồng có chủ đích hoàn toàn có th�
 ![The BIGGEST INTENTIONAL COMMUNITIES in the World \| ECO VILLAGES that you will want to Visit - YouTube](https://youtu.be/XsEzyeyMfgw?si=v49RePmP5CktB6pB)
 
 ### Tham quan các cộng đồng có chủ đích bên ngoài đô thị
-Nhiều cộng đồng có chủ đích chấp nhận dón khách du lịch như là một cách để có thêm thu nhập. Các trang như [Intentional Communities Directory](https://www.ic.org/directory/) hoặc [Ecovillage Tours](https://www.ecovillagetours.com/) có danh sách các cộng đồng có chủ đích bên ngoài đô thị ở nước ngoài. Hoặc lên [r/intentionalcommunity](https://www.reddit.com/r/intentionalcommunity/) hỏi thử xem.
+Nhiều cộng đồng có chủ đích chấp nhận đón khách du lịch như là một cách để có thêm thu nhập. Các trang như [Intentional Communities Directory](https://www.ic.org/directory/) hoặc [Ecovillage Tours](https://www.ecovillagetours.com/) có danh sách các cộng đồng có chủ đích bên ngoài đô thị ở nước ngoài. Hoặc lên [r/intentionalcommunity](https://www.reddit.com/r/intentionalcommunity/) hỏi thử xem.
 
 ![How to Find the Intentional Community for You - YouTube](https://www.youtube.com/live/wda3MxMqlpQ?si=H-OPSPi8Bo6eK_eu)
 ![The Biggest Challenges of Intentional Communities - YouTube](https://youtu.be/i6kuy20F2nU?si=oWyY0FNXZSLwOtrC)
@@ -79,6 +81,6 @@ Một nhóm người chia sẻ một lối sống chung cũng chưa đủ để 
 - Các tổ dân phố hoặc chung cư điển hình không phải là cộng đồng có chủ đích, do việc quyết định ai đến ai đi thuộc về người mua nhà và bán nhà 
 - Các trại lính hoặc trường nội trú không phải là cộng đồng có chủ đích, do việc quyết định ai đến ai đi cũng như việc thưởng phạt thuộc về người quản lý 
 
-Các dự án khởi nghiệp, đoàn diễn lưu động, đoàn thám hiểm, trại nghiên cứu có nhiều nét giống cộng đồng có chủ đích hơn. Vì [ở các công việc có khả năng thành công không cao thì các thành viên thường chia sẻ một lối sống chung và có tiếng nói với nhau hơn](../../Ki%E1%BA%BFm%20ti%E1%BB%81n/L%C3%A0m%20thu%C3%AA/An%20to%C3%A0n,%20r%E1%BB%A7i%20ro/C%C3%B4ng%20vi%E1%BB%87c%20nhi%E1%BB%81u%20r%E1%BB%A7i%20ro%20th%C3%AC%20t%E1%BB%95%20ch%E1%BB%A9c%20th%C6%B0%E1%BB%9Dng%20ngang%20h%C3%A0ng.%20C%C3%B4ng%20vi%E1%BB%87c%20nhi%E1%BB%81u%20an%20to%C3%A0n%20th%C3%AC%20t%E1%BB%95%20ch%E1%BB%A9c%20th%C6%B0%E1%BB%9Dng%20ph%C3%A2n%20c%E1%BA%A5p.md). Vì người lãnh đạo chỉ là thiểu số, nên nếu những người còn lại không đồng ý với người lãnh đạo thì họ có thể chọn ra một người mới mà người cũ không làm được gì. Tuy nhiên có thể người cũ đã được chỉ định bởi một thiết chế bên ngoài nào đó, và họ phải chịu phản ứng của thiết chế đó cho quyết định của mình. Họ có sự tự trị khá cao, nhưng không phải là luôn luôn.
+Các dự án khởi nghiệp, đoàn diễn lưu động, đoàn thám hiểm, trại nghiên cứu có nhiều nét giống cộng đồng có chủ đích hơn. Vì [ở các công việc có nhiều thách thức thì các thành viên thường chia sẻ một lối sống chung và có tiếng nói với nhau hơn](../../Ki%E1%BA%BFm%20ti%E1%BB%81n/L%C3%A0m%20thu%C3%AA/An%20to%C3%A0n,%20r%E1%BB%A7i%20ro/C%C3%B4ng%20vi%E1%BB%87c%20nhi%E1%BB%81u%20r%E1%BB%A7i%20ro%20th%C3%AC%20t%E1%BB%95%20ch%E1%BB%A9c%20th%C6%B0%E1%BB%9Dng%20ngang%20h%C3%A0ng.%20C%C3%B4ng%20vi%E1%BB%87c%20nhi%E1%BB%81u%20an%20to%C3%A0n%20th%C3%AC%20t%E1%BB%95%20ch%E1%BB%A9c%20th%C6%B0%E1%BB%9Dng%20ph%C3%A2n%20c%E1%BA%A5p.md). Vì người lãnh đạo chỉ là thiểu số, nên nếu những người còn lại không đồng ý với người lãnh đạo thì họ có thể chọn ra một người mới mà người cũ không làm được gì. Tuy nhiên có thể người cũ đã được chỉ định bởi một thiết chế bên ngoài nào đó, và họ phải chịu phản ứng của thiết chế đó cho quyết định của mình. Họ có sự tự trị khá cao, nhưng không chắc là luôn luôn.
 
 [Băng hải tặc mũ rơm](https://youtu.be/5SzMEPJBHzE?si=JLWCE2EXcnLzz40o) thì luôn luôn có sự tự trị đó, nên đây chính là một cộng đồng có chủ đích. 
