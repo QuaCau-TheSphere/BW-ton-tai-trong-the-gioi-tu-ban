@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-09-27T13:00
-updated: 2025-09-15T21:36
+updated: 2025-10-27T09:42
 aliases:
   - Lời mời tham gia nhóm giúp nhau kiếm tiền
 title: Giúp nhau kiếm tiền
@@ -24,6 +24,7 @@ Bài chi tiết:: [Một số ý tưởng kiếm tiền](../../%F0%9F%93%9CT%C3%
 - Sự kết nối tới những cộng đồng để [mở rộng mối quan hệ](../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/M%E1%BB%9F%20r%E1%BB%99ng%20m%E1%BB%91i%20quan%20h%E1%BB%87/index.md)
 - [Công đoàn để được bảo vệ quyền lợi trước tư bản](../%C4%90%E1%BB%91i%20tho%E1%BA%A1i%20v%E1%BB%9Bi%20t%C6%B0%20b%E1%BA%A3n/X%C3%A2y%20d%E1%BB%B1ng%20c%C3%B4ng%20%C4%91o%C3%A0n.md) 
 - Giới thiệu các công việc sinh nghiệp
+- [Cộng đồng có chủ đích](../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Ph%C3%A1t%20tri%E1%BB%83n%20b%E1%BB%81n%20v%E1%BB%AFng.%20C%C3%A1c%20n%E1%BB%81n%20kinh%20t%E1%BA%BF%20thay%20th%E1%BA%BF/C%E1%BB%99ng%20%C4%91%E1%BB%93ng%20c%C3%B3%20ch%E1%BB%A7%20%C4%91%C3%ADch/index.md)
 Xem thêm:: [Góc nhìn chủ nghĩa xã hội về nhóm chạy chỉ tiêu](../%C4%90%E1%BB%91i%20tho%E1%BA%A1i%20v%E1%BB%9Bi%20t%C6%B0%20b%E1%BA%A3n/G%C3%B3c%20nh%C3%ACn%20ch%E1%BB%A7%20ngh%C4%A9a%20x%C3%A3%20h%E1%BB%99i%20v%E1%BB%81%20nh%C3%B3m%20ch%E1%BA%A1y%20ch%E1%BB%89%20ti%C3%AAu.md)
 
 ## Các công việc để phát triển nhóm 
