@@ -1,10 +1,10 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-10-26T18:55
+updated: 2025-10-27T07:09
 aliases:
   - Xây dựng hợp tác xã nhà ở, quỹ nhà ở vi mô
-description: Nó là gì? Và ở Việt Nam có những cộng đồng có chủ đích nào không?
+description: Khái niệm, phân loại, nguồn lực và các phân tích khác
 title: Cộng đồng có chủ đích
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PfAsblgWXtg?si=HRFiWadJ1c9AS0pC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -79,6 +79,6 @@ Một nhóm người chia sẻ một lối sống chung cũng chưa đủ để 
 - Các tổ dân phố hoặc chung cư điển hình không phải là cộng đồng có chủ đích, do việc quyết định ai đến ai đi thuộc về người mua nhà và bán nhà 
 - Các trại lính hoặc trường nội trú không phải là cộng đồng có chủ đích, do việc quyết định ai đến ai đi cũng như việc thưởng phạt thuộc về người quản lý 
 
-Các dự án khởi nghiệp, đoàn diễn lưu động, đoàn thám hiểm, trại nghiên cứu có nhiều nét giống cộng đồng có chủ đích hơn. Vì [ở các công việc có khả năng thành công không cao thì các thành viên thường chia sẻ một lối sống chung và có tiếng nói với nhau hơn](../../Ki%E1%BA%BFm%20ti%E1%BB%81n/L%C3%A0m%20thu%C3%AA/An%20to%C3%A0n,%20r%E1%BB%A7i%20ro/C%C3%B4ng%20vi%E1%BB%87c%20nhi%E1%BB%81u%20r%E1%BB%A7i%20ro%20th%C3%AC%20t%E1%BB%95%20ch%E1%BB%A9c%20th%C6%B0%E1%BB%9Dng%20ngang%20h%C3%A0ng.%20C%C3%B4ng%20vi%E1%BB%87c%20nhi%E1%BB%81u%20an%20to%C3%A0n%20th%C3%AC%20t%E1%BB%95%20ch%E1%BB%A9c%20th%C6%B0%E1%BB%9Dng%20ph%C3%A2n%20c%E1%BA%A5p.md). Vì người lãnh đạo chỉ là thiểu số, nên nếu những người còn lại không đồng ý với người lãnh đạo thì họ có thể chọn ra một người mới mà người cũ không làm được gì. Tuy nhiên lãnh đạo đó có thể đã được chỉ định bởi một định chế bên ngoài nào đó, và họ phải chịu phản ứng của định chế đó cho quyết định của mình. Họ phải chịu trách nhiệm cho một thứ không phải là chính họ.
+Các dự án khởi nghiệp, đoàn diễn lưu động, đoàn thám hiểm, trại nghiên cứu có nhiều nét giống cộng đồng có chủ đích hơn. Vì [ở các công việc có khả năng thành công không cao thì các thành viên thường chia sẻ một lối sống chung và có tiếng nói với nhau hơn](../../Ki%E1%BA%BFm%20ti%E1%BB%81n/L%C3%A0m%20thu%C3%AA/An%20to%C3%A0n,%20r%E1%BB%A7i%20ro/C%C3%B4ng%20vi%E1%BB%87c%20nhi%E1%BB%81u%20r%E1%BB%A7i%20ro%20th%C3%AC%20t%E1%BB%95%20ch%E1%BB%A9c%20th%C6%B0%E1%BB%9Dng%20ngang%20h%C3%A0ng.%20C%C3%B4ng%20vi%E1%BB%87c%20nhi%E1%BB%81u%20an%20to%C3%A0n%20th%C3%AC%20t%E1%BB%95%20ch%E1%BB%A9c%20th%C6%B0%E1%BB%9Dng%20ph%C3%A2n%20c%E1%BA%A5p.md). Vì người lãnh đạo chỉ là thiểu số, nên nếu những người còn lại không đồng ý với người lãnh đạo thì họ có thể chọn ra một người mới mà người cũ không làm được gì. Tuy nhiên có thể người cũ đã được chỉ định bởi một thiết chế bên ngoài nào đó, và họ phải chịu phản ứng của thiết chế đó cho quyết định của mình. Họ có sự tự trị khá cao, nhưng không phải là luôn luôn.
 
-[Băng hải tặc mũ rơm](https://youtu.be/5SzMEPJBHzE?si=JLWCE2EXcnLzz40o) thì không như vậy, nên đó chính là một cộng đồng có chủ đích. 
+[Băng hải tặc mũ rơm](https://youtu.be/5SzMEPJBHzE?si=JLWCE2EXcnLzz40o) thì luôn luôn có sự tự trị đó, nên đây chính là một cộng đồng có chủ đích. 
