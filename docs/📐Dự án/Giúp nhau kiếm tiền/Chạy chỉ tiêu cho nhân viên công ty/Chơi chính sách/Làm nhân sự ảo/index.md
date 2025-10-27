@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2025-10-08T10:13
+updated: 2025-10-27T09:40
 aliases:
   - Làm nhân viên ảo là làm gì?
   - Làm đại lý ảo là làm gì?
@@ -14,7 +14,7 @@ title: Làm nhân sự ảo
 ## Mô tả công việc
 Nhân sự ảo là những người có nhân sự thật làm giùm. Ví dụ, Cueball và Megan cùng vào làm trong một công ty. Nhưng Megan làm cả phần việc của Cueball. Việc của Cueball chỉ là lên công ty điểm danh chấm công mà thôi. Nói cách khác, Cueball là một danh tính khác của Megan trong công ty. Công ty thấy rằng Cueball lên công ty làm việc chăm chỉ và có kết quả thì sẽ trả lương cho Cueball. Sau đó Cueball đưa lại một phần lương cho Megan. Có thể xem theo một cách khác là Cueball bán việc lại cho Megan.
 
-Xem thêm:: [Đối với công ty, nhân sự có cộng tác viên riêng, nhân sự ảo, người đại diện nhóm, bán việc là những cái tên khác nhau cho cùng một thứ](../../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/M%C3%B4%20h%C3%ACnh%20nh%C3%A2n%20s%E1%BB%B1/%C4%90%E1%BB%91i%20v%E1%BB%9Bi%20c%C3%B4ng%20ty,%20nh%C3%A2n%20s%E1%BB%B1%20c%C3%B3%20c%E1%BB%99ng%20t%C3%A1c%20vi%C3%AAn%20ri%C3%AAng,%20nh%C3%A2n%20s%E1%BB%B1%20%E1%BA%A3o,%20ng%C6%B0%E1%BB%9Di%20%C4%91%E1%BA%A1i%20di%E1%BB%87n%20nh%C3%B3m,%20b%C3%A1n%20vi%E1%BB%87c%20l%C3%A0%20nh%E1%BB%AFng%20c%C3%A1i%20t%C3%AAn%20kh%C3%A1c%20nhau%20cho%20c%C3%B9ng%20m%E1%BB%99t%20th%E1%BB%A9.md).
+Xem thêm:: [Đối với công ty, nhân sự có cộng tác viên riêng, nhân sự ảo, người đại diện nhóm cung cấp dịch vụ, bán việc là những cái tên khác nhau cho cùng một thứ](../../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/M%C3%B4%20h%C3%ACnh%20nh%C3%A2n%20s%E1%BB%B1/%C4%90%E1%BB%91i%20v%E1%BB%9Bi%20c%C3%B4ng%20ty,%20nh%C3%A2n%20s%E1%BB%B1%20c%C3%B3%20c%E1%BB%99ng%20t%C3%A1c%20vi%C3%AAn%20ri%C3%AAng,%20nh%C3%A2n%20s%E1%BB%B1%20%E1%BA%A3o,%20ng%C6%B0%E1%BB%9Di%20%C4%91%E1%BA%A1i%20di%E1%BB%87n%20nh%C3%B3m%20cung%20c%E1%BA%A5p%20d%E1%BB%8Bch%20v%E1%BB%A5,%20b%C3%A1n%20vi%E1%BB%87c%20l%C3%A0%20nh%E1%BB%AFng%20c%C3%A1i%20t%C3%AAn%20kh%C3%A1c%20nhau%20cho%20c%C3%B9ng%20m%E1%BB%99t%20th%E1%BB%A9.md).
 
 Các tên khác cho công việc này: điểm danh hộ, họp hộ, [giữ tiền hộ](../../../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/%C3%9D%20t%C6%B0%E1%BB%9Fng%20ki%E1%BA%BFm%20ti%E1%BB%81n/%C3%9D%20t%C6%B0%E1%BB%9Fng/C%C3%B4ng%20vi%E1%BB%87c%20th%E1%BB%9Di%20v%E1%BB%A5,%20c%E1%BB%99ng%20t%C3%A1c%20vi%C3%AAn/Nh%C3%B3m%20ch%E1%BA%A1y%20ch%E1%BB%89%20ti%C3%AAu/S%C3%A0n%20th%C6%B0%C6%A1ng%20m%E1%BA%A1i%20%C4%91i%E1%BB%87n%20t%E1%BB%AD/Gi%E1%BB%AF%20ti%E1%BB%81n%20h%E1%BB%99.md)
 
