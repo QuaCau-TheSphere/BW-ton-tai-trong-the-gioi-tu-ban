@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-10-21T20:10
+updated: 2025-10-28T08:48
 ---
 Khái niệm:: [Quà tặng](../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Qu%C3%A0%20t%E1%BA%B7ng.md), [Từ thiện](../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/T%E1%BB%AB%20thi%E1%BB%87n.md)
 
@@ -31,3 +31,4 @@ Trẻ em nghèo, [Người khuyết tật](../../../%CE%9E%20Kh%C3%A1i%20ni%E1%B
 Mua đồ bán hàng từ thiện, thì là họ đang muốn tự đứng trên đôi chân của mình chứ có muốn lệ thuộc ai đâu
 
 Wikipedia
+Du lịch bụi, đi tơi đâu xin tiền tới đấy 
