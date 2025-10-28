@@ -1,18 +1,16 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-10-26T17:10
+updated: 2025-10-28T10:08
 ---
 [Các làng sinh thái do Việt Nam xây dựng là để đáp ứng nhu cầu xóa đói giảm nghèo, giảm bớt sự chênh lệnh giàu nghèo giữa thành thị và nông thôn](../T%C3%ACnh%20h%C3%ACnh%20%E1%BB%9F%20Vi%E1%BB%87t%20Nam/Lu%E1%BA%ADt,%20qu%E1%BA%A3n%20l%C3%BD%20nh%C3%A0%20n%C6%B0%E1%BB%9Bc/C%C3%A1c%20l%C3%A0ng%20sinh%20th%C3%A1i%20do%20Vi%E1%BB%87t%20Nam%20x%C3%A2y%20d%E1%BB%B1ng%20l%C3%A0%20%C4%91%E1%BB%83%20%C4%91%C3%A1p%20%E1%BB%A9ng%20nhu%20c%E1%BA%A7u%20x%C3%B3a%20%C4%91%C3%B3i%20gi%E1%BA%A3m%20ngh%C3%A8o,%20gi%E1%BA%A3m%20b%E1%BB%9Bt%20s%E1%BB%B1%20ch%C3%AAnh%20l%E1%BB%87nh%20gi%C3%A0u%20ngh%C3%A8o%20gi%E1%BB%AFa%20th%C3%A0nh%20th%E1%BB%8B%20v%C3%A0%20n%C3%B4ng%20th%C3%B4n.md)
 [Cộng đồng có chủ đích](../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Ph%C3%A1t%20tri%E1%BB%83n%20b%E1%BB%81n%20v%E1%BB%AFng.%20C%C3%A1c%20n%E1%BB%81n%20kinh%20t%E1%BA%BF%20thay%20th%E1%BA%BF/C%E1%BB%99ng%20%C4%91%E1%BB%93ng%20c%C3%B3%20ch%E1%BB%A7%20%C4%91%C3%ADch/index.md)
 
 ## Các tổ chức 
 ### Xanh Shop
-Họ thực hành nông nghiệp sinh thái. Để hiểu được các triết lý của phong trào này có thể đọc cuốn*Cuộc cách mạng một-cọng-rơm* được họ tổ chức dịch Việt.
+Đây là nhóm thực hành nông nghiệp sinh thái và dịch các sách về phong trào này. Nổi tiếng nhất là cuốn*Cuộc cách mạng một-cọng-rơm*. Trên website [XanhShop.com](https://www.xanhshop.com/) có liệt kê các vườn rừng ở Việt Nam.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/41bqwlq3I_4?si=8Ob6sZJv8VrmMZzy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-Trên website [XanhShop.com](https://www.xanhshop.com/) có liệt kê các vườn rừng ở Việt Nam.
 
 ### Kulavietnam
 Đây là nhóm nghiên cứu nhân học. Họ quan tâm đến việc thấy được các biểu tượng văn hóa, các mạng lưới xã hội cũng như cách các thiết chế quyền lực đang vận hành. Ngoài ra họ cũng xây dựng các mô hình tài chính giúp người nông dân có thể tự chủ được tốt hơn ([AMAP](../../%F0%9F%93%90D%E1%BB%B1%20%C3%A1n/X%C3%A2y%20d%E1%BB%B1ng%20h%E1%BB%87%20th%E1%BB%91ng%20kinh%20t%E1%BA%BF%20m%E1%BB%9Bi/AMAP.md)).
@@ -22,9 +20,12 @@ Một số bài viết của họ liên quan đến nông nghiệp:
 - [Chứng chỉ hữu cơ đang giết ước mơ nông hộ](https://www.facebook.com/share/p/1BUgAMmkzS/)
 
 ### VCIL
-Sứ mệnh của VCIL có vẻ thiên về kết nối nguồn lực cộng đồng, xóa bỏ [tư duy khan hiếm](./t%C6%B0%20duy%20khan%20hi%E1%BA%BFm.md) hơn là tập trung vào nông nghiệp sinh thái. Nhưng vì các [cộng đồng có chủ đích](../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Ph%C3%A1t%20tri%E1%BB%83n%20b%E1%BB%81n%20v%E1%BB%AFng.%20C%C3%A1c%20n%E1%BB%81n%20kinh%20t%E1%BA%BF%20thay%20th%E1%BA%BF/C%E1%BB%99ng%20%C4%91%E1%BB%93ng%20c%C3%B3%20ch%E1%BB%A7%20%C4%91%C3%ADch/index.md) là một mô hình để đạt được mục tiêu đó, và vì nhiều cộng đồng có chủ đích là các làng sinh thái, nên họ cũng có nhiều kết nối tới các làng sinh thái trong và ngoài nước, và tổ chức các tua du lịch học tập cộng đồng.
+Sứ mệnh của VCIL có vẻ thiên về kết nối nguồn lực cộng đồng, xóa bỏ [tư duy khan hiếm](./t%C6%B0%20duy%20khan%20hi%E1%BA%BFm.md), xây dựng các mô hình kinh tế và tài chính thay thế hơn là tập trung vào nông nghiệp sinh thái. Nhưng vì các [cộng đồng có chủ đích](../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Ph%C3%A1t%20tri%E1%BB%83n%20b%E1%BB%81n%20v%E1%BB%AFng.%20C%C3%A1c%20n%E1%BB%81n%20kinh%20t%E1%BA%BF%20thay%20th%E1%BA%BF/C%E1%BB%99ng%20%C4%91%E1%BB%93ng%20c%C3%B3%20ch%E1%BB%A7%20%C4%91%C3%ADch/index.md) là một mô hình để đạt được mục tiêu đó, và vì nhiều cộng đồng có chủ đích là các làng sinh thái, nên họ cũng có nhiều kết nối tới các làng sinh thái trong và ngoài nước, và tổ chức các tua du lịch học tập cộng đồng.
 
-Hiện tại họ có chương trình đi Ấn Độ ghé thăm hai cộng đồng Ladakh và Auroville, và Hàn Quốc ghé thăm Jungto Society và Bargn Nuri. Ở Việt Nam thì có tới các cộng đồng Hòa Bắc (Đà Nẵng), Cẩm Kim (Hội An), Sa Huỳnh (Quảng Ngãi).
+Hiện tại họ có chương trình ghé thăm các cộng đồng ở Ấn Độ, Hàn Quốc, Thái Lan. Ở Việt Nam thì có tới các cộng đồng Hòa Bắc (Đà Nẵng), Cẩm Kim (Hội An), Sa Huỳnh (Quảng Ngãi).
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8CqjWrQ_EG0?si=CGf1RSHBYihSz4Mm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 - [Vcil Travel School](https://www.vciltravelschool.com/)
 - [XomTour - Conscious Travel, Local Impact \| Da Nang \| Facebook](https://www.facebook.com/XomTour/)
  
