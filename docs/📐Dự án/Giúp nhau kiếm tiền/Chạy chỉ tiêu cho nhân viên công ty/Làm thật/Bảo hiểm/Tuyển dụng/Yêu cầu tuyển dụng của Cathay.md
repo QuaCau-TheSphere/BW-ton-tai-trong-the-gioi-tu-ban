@@ -12,7 +12,7 @@ Tuyển người thực sự muốn làm vẫn tốt hơn tuyển ảo. Nếu mu
 - Nhận thu nhập sau một tháng
 
 ### Đòi hỏi của công việc
-- [Muốn bán hàng tốt cần có mối quan hệ](../../../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Ki%E1%BA%BFm%20ti%E1%BB%81n/L%C3%A0m%20thu%C3%AA/B%C3%A1n%20h%C3%A0ng/Mu%E1%BB%91n%20b%C3%A1n%20h%C3%A0ng%20t%E1%BB%91t%20c%E1%BA%A7n%20c%C3%B3%20m%E1%BB%91i%20quan%20h%E1%BB%87.md)
+- [Muốn bán hàng tốt cần có mối quan hệ](../../../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/H%C3%ACnh%20th%E1%BB%A9c%20ki%E1%BA%BFm%20ti%E1%BB%81n/L%C3%A0m%20thu%C3%AA/B%C3%A1n%20h%C3%A0ng/Mu%E1%BB%91n%20b%C3%A1n%20h%C3%A0ng%20t%E1%BB%91t%20c%E1%BA%A7n%20c%C3%B3%20m%E1%BB%91i%20quan%20h%E1%BB%87.md)
 
 ## Tập người có thể chấp nhận làm công việc này
 Bài chi tiết:: [Giả thiết về nguồn tuyển dụng cho Cathay](../T%C3%A0i%20li%E1%BB%87u%20kh%C3%A1c/Gi%E1%BA%A3%20thi%E1%BA%BFt/Gi%E1%BA%A3%20thi%E1%BA%BFt%20v%E1%BB%81%20ngu%E1%BB%93n%20tuy%E1%BB%83n%20d%E1%BB%A5ng%20cho%20Cathay.md)
