@@ -1,13 +1,13 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-10-21T17:01
+updated: 2025-10-29T10:42
 ---
 Khái niệm:: 
 Nhật là người nắm giữ tiền và trực tiếp chi tiêu cho các nhu cầu của Nhật. Một trong các nhu cầu đó là giúp mọi người và lập quỹ chung. Các giao dịch có sự có mặt của Nhật sẽ phải được xem dưới góc độ nào đây?
-- **Chi phí cho cuộc sống của Nhật là của Nhật**: Phân biệt thu nhập, chi tiêu cho mọi người. 
-- **Chi phí cho cuộc sống của Nhật là một phần chi phí của mạng lưới các cá nhân**: Tất cả các nơi lưu tiền của mọi người đều được xem là tài sản. Chỉ là sự chuyển tiền giữa các tài khoản với nhau, dù đó là giữa nhiều người. Bán hàng thì cũng thế
-- **Chi phí cho cuộc sống của Nhật là một phần chi phí của quỹ**: Chỉ những người mình xem là trong quỹ thì mới là tài sản
+- **Chi phí cho cuộc sống của Nhật là của Nhật (egocentricism)**: Phân biệt thu nhập, chi tiêu cho mọi người. 
+- **Chi phí cho cuộc sống của Nhật là một phần chi phí của mạng lưới các cá nhân (networkcentricism)**: Tất cả các nơi lưu tiền của mọi người đều được xem là tài sản. Chỉ là sự chuyển tiền giữa các tài khoản với nhau, dù đó là giữa nhiều người. Bán hàng thì cũng thế
+- **Chi phí cho cuộc sống của Nhật là một phần chi phí của quỹ (fundcentricism)**: Chỉ những người mình xem là trong quỹ thì mới là tài sản
 Nếu xem Nhật giúp quỹ, thì Nhật âm tiền, quỹ dương. Nếu xem Nhật với quỹ là một, thì việc ghi nhận là Nhật chuyển tiền vào gây hiểu nhầm
 
 [Danh mục tài khoản và ý nghĩa bảng cân đối của quỹ](../../Qu%E1%BB%B9/Danh%20m%E1%BB%A5c%20t%C3%A0i%20kho%E1%BA%A3n%20v%C3%A0%20%C3%BD%20ngh%C4%A9a%20b%E1%BA%A3ng%20c%C3%A2n%20%C4%91%E1%BB%91i%20c%E1%BB%A7a%20qu%E1%BB%B9.md)
