@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-11-01T10:50
+updated: 2025-11-01T17:15
 aliases:
   - đồng cư, hợp tác xã nhà ở, quỹ nhà ở vi mô
   - làng sinh thái, công xã
@@ -45,8 +45,8 @@ Bạn có thể làm thử [Community Type Quiz](https://communityfinders.com/qu
 
 ## Cộng đồng có chủ đích bên ngoài đô thị
 Mặc dù về nguyên tắc cộng đồng có chủ đích hoàn toàn có thể tồn tại bên trong đô thị, nhưng khi nhắc đến nó nhiều người thường hay nghĩ đến các mô hình đồng cư bên ngoài đô thị như làng sinh thái. Thói quen suy nghĩ này cũng có thể hiểu được, và nó cũng được củng cố bởi việc đa số các thảo luận và tài nguyên về nó cũng chỉ tập trung vào các cộng đồng đồng cư bên ngoài đô thị. Lý do có lẽ là vì:
-- Trong đô thị, giá bất động sản quá cao khiến cho khó ai có khả năng sở hữu được cả một tòa nhà hoặc một khu nhà để làm cộng đồng. Thường chỉ có các công ty bất động sản mới đủ khả năng, mà những công ty này ít khi có động lực để làm phi lợi nhuận, nhất là khi thiếu sự khuyến khích của nhà nước. Các trường hợp đang hoạt động chủ yếu là di sản từ thời các công đoàn hoạt động sôi nổi ở châu Âu. Điều đó khiến cho các mô hình sống cùng nhau, đồng cư hoặc hợp tác xã nhà ở trong đô thị ít được nhắc tới. Còn mô hình sống chung nhà thì lại quá phổ biến rồi nên chắc cũng không có gì đặc biệt để nói tới
-- Ở ngoài đô thị thì giá đất rẻ nên không cần phải xây nhà cao tầng, nên cũng chỉ có đồng cư. Ngoài ra các mục tiêu như thực hành sinh thái, thực hành tâm linh, nuôi con, dưỡng già cũng đạt được hiệu quả hơn hoặc chỉ có thể đạt được ở ngoài đô thị. Nên các cộng đồng ở ngoài đô thị có lẽ là hình thức phong phú nhất của cộng đồng có chủ đích, và có lẽ nhu cầu dùng tới khái niệm đó cũng xuất phát từ đây
+- Trong đô thị, giá bất động sản quá cao khiến cho khó ai có khả năng sở hữu được cả một tòa nhà nhiều tầng hoặc một khu nhà để làm cộng đồng. Thường chỉ có các công ty bất động sản mới đủ khả năng, mà những công ty này ít khi có động lực để làm phi lợi nhuận, nhất là khi thiếu sự khuyến khích của nhà nước. Các trường hợp đang hoạt động chủ yếu là di sản từ thời các công đoàn hoạt động sôi nổi ở châu Âu. Điều đó khiến cho các mô hình sống cùng nhau, đồng cư hoặc hợp tác xã nhà ở trong đô thị ít được nhắc tới. Còn mô hình sống chung nhà thì lại quá phổ biến rồi nên chắc cũng không có gì đặc biệt để nói tới
+- Ở ngoài đô thị thì giá đất rẻ nên không cần phải xây nhà cao tầng, nên cũng chỉ có đồng cư. Các mục tiêu như thực hành sinh thái, thực hành tâm linh, nuôi con, dưỡng già cũng đạt được hiệu quả hơn hoặc chỉ có thể đạt được ở ngoài đô thị. Nên các cộng đồng ở ngoài đô thị có lẽ là hình thức phong phú nhất của cộng đồng có chủ đích, và có lẽ nhu cầu dùng tới khái niệm đó cũng xuất phát từ đây
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XsEzyeyMfgw?si=v49RePmP5CktB6pB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

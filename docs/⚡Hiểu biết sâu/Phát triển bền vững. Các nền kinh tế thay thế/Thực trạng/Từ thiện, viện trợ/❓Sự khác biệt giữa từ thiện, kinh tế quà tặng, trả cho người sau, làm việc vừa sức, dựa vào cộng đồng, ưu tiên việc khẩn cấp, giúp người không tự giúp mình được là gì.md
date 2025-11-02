@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-10-28T08:48
+updated: 2025-11-02T12:02
 ---
 Khái niệm:: [Quà tặng](../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Qu%C3%A0%20t%E1%BA%B7ng.md), [Từ thiện](../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/T%E1%BB%AB%20thi%E1%BB%87n.md)
 
@@ -32,3 +32,9 @@ Mua đồ bán hàng từ thiện, thì là họ đang muốn tự đứng trên
 
 Wikipedia
 Du lịch bụi, đi tơi đâu xin tiền tới đấy 
+
+[Quỹ học bổng khuyến học Vật lý Lý thuyết \| Vật Lý Lý Thuyết](https://phys.hcmus.edu.vn/vat-ly-ly-thuyet/quy-hoc-bong-khuyen-hoc-vat-ly-ly-thuyet.html)
+
+- Song song với việc cho tiền tui nghĩ là nên có thêm các buổi ngoại khóa về tài chính cá nhân, để sinh viên có mục tiêu tài chính rõ ràng hơn và hiểu thêm về các sản phẩm tài chính hữu ích. Mục tiêu của quỹ không nên dừng lại ở mức cấp tiền cho sinh viên, mà nên làm sao để sinh viên không cần tới mình (cho cần câu chứ không cho con cá). Việc này cũng tránh được tình trạng ỷ lại, không muốn thoát nghèo để còn được nhận trợ cấp tiếp
+
+- Nhìn theo hướng tăng tính tự lực của sinh viên thì tui biết có quỹ Đồng Hành của nhóm Kulavietnam không làm từ thiện mà chỉ cho vay lại với lãi suất hợp lý và xây dựng thói quen tiết kiệm. Mô hình của bên này là học từ mô hình VSLA cho nông dân vay làm ăn. Trường mình cũng có người vay từ quỹ này, bên khoa cũng mấy người biết. Tui cũng có chơi với bên này, và cũng có tham gia thảo luận với đội ngũ làm web cho nó. [https://docs.google.com/document/u/0/d/1A5eW3CkKm55YSxaODh50mr_DDLG0ssM9DTOt3emef5I/mobilebasic](https://docs.google.com/document/u/0/d/1A5eW3CkKm55YSxaODh50mr_DDLG0ssM9DTOt3emef5I/mobilebasic)

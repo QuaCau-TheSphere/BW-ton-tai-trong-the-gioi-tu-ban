@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-11-10T17:09
-updated: 2025-09-22T09:52
+updated: 2025-11-01T15:30
 ---
 OPP là viết tắt của opportunity presentation 
 
