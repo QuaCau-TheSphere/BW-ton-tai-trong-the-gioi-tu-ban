@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-05-05T23:08
-updated: 2025-09-09T16:52
+updated: 2025-11-02T11:25
 aliases:
   - Kula
 ---
@@ -37,7 +37,7 @@ Với người chưa tham gia bao giờ:
 
 Nếu đã có tham gia đóng tiền rồi thì có ưu tiên hơn
 
-Nguồn:: [Hướng dẫn về Quỹ Đồng Hành](https://docs.google.com/document/u/0/d/1A5eW3CkKm55YSxaODh50mr_DDLG0ssM9DTOt3emef5I/mobilebasic "https://docs.google.com/document/u/0/d/1A5eW3CkKm55YSxaODh50mr_DDLG0ssM9DTOt3emef5I/mobilebasic")
+Nguồn:: [Hướng dẫn về Quỹ Đồng Hành](https://docs.google.com/document/u/0/d/1A5eW3CkKm55YSxaODh50mr_DDLG0ssM9DTOt3emef5I/mobilebasic)
 
 2007tmc@gmail.com
 Việc quỹ kulavietnam cán mốc 100 triệu. Nó chứng minh điều gì:
