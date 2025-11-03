@@ -1,19 +1,19 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-11-02T12:02
+updated: 2025-11-03T19:25
 ---
 Khái niệm:: [Quà tặng](../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Qu%C3%A0%20t%E1%BA%B7ng.md), [Từ thiện](../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/T%E1%BB%AB%20thi%E1%BB%87n.md)
 
-| Hình thức                          | Ví dụ                    |
-| ---------------------------------- | ------------------------ |
-| từ thiện                           | Bo tiền cho phục vụ      |
-| kinh tế quà tặng                   |                          |
-| trả cho người sau                  |                          |
-| làm việc vừa sức                   |                          |
-| dựa vào cộng đồng                  | 100 BHXH                 |
-| ưu tiên việc khẩn cấp              |                          |
-| Giúp người không tự giúp mình được | Người khuyết tật, trẻ em |
+| Hình thức                          | Ví dụ                    | Đặc điểm                  |
+| ---------------------------------- | ------------------------ | ------------------------- |
+| Từ thiện                           | Bo tiền cho phục vụ      | Có thể nhận thứ không cần |
+| Kinh tế quà tặng                   |                          | Có thể nhận thứ không cần |
+| Trả cho người sau                  |                          |                           |
+| Làm việc vừa sức                   |                          |                           |
+| Dựa vào cộng đồng                  | 100 BHXH                 |                           |
+| Ưu tiên việc khẩn cấp              |                          |                           |
+| Giúp người không tự giúp mình được | Người khuyết tật, trẻ em |                           |
 
 [Tặng quà](../../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/M%E1%BB%9F%20r%E1%BB%99ng%20m%E1%BB%91i%20quan%20h%E1%BB%87/T%E1%BA%B7ng%20qu%C3%A0.md) [Ý tưởng tặng quà cho các đam mê khác nhau](../../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Qu%C3%A0%20t%E1%BA%B7ng/%C3%9D%20t%C6%B0%E1%BB%9Fng%20t%E1%BA%B7ng%20qu%C3%A0%20cho%20c%C3%A1c%20%C4%91am%20m%C3%AA%20kh%C3%A1c%20nhau.md)
 Nếu chưa phân biệt được rõ ràng, thì kể cả khi thừa nhận là việc làm từ thiện là gây hại, thì cũng không có cơ sở để lên án người làm từ thiện được? 
