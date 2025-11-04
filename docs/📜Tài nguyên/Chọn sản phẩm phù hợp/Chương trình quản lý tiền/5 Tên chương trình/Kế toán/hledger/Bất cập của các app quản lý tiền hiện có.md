@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2025-10-03T10:41
+updated: 2025-11-03T20:47
 ---
 chưa kể với các giao dịch đặc biệt như bản thân e, 1 debt multi transaction, 1 debt tạo multi debt tạo multi payment,…. nó ko thể dùng app đơn giản để làm đc.
 odoo ko link project với task management đc?
@@ -92,5 +92,5 @@ nó tự save mà hả?
 
 ý là nhiều filter khác nhau ấy
 
-[Chương trình ghi chép thu chi cá nhân](./4%20Lo%E1%BA%A1i%20ch%C6%B0%C6%A1ng%20tr%C3%ACnh/Ch%C6%B0%C6%A1ng%20tr%C3%ACnh%20ghi%20ch%C3%A9p%20thu%20chi%20c%C3%A1%20nh%C3%A2n.md)
-[Chương trình kế toán](./4%20Lo%E1%BA%A1i%20ch%C6%B0%C6%A1ng%20tr%C3%ACnh/Ch%C6%B0%C6%A1ng%20tr%C3%ACnh%20k%E1%BA%BF%20to%C3%A1n.md)
+[Chương trình ghi chép thu chi cá nhân](../../../4%20Lo%E1%BA%A1i%20ch%C6%B0%C6%A1ng%20tr%C3%ACnh/Ch%C6%B0%C6%A1ng%20tr%C3%ACnh%20ghi%20ch%C3%A9p%20thu%20chi%20c%C3%A1%20nh%C3%A2n.md)
+[Chương trình kế toán](../../../4%20Lo%E1%BA%A1i%20ch%C6%B0%C6%A1ng%20tr%C3%ACnh/Ch%C6%B0%C6%A1ng%20tr%C3%ACnh%20k%E1%BA%BF%20to%C3%A1n.md)
