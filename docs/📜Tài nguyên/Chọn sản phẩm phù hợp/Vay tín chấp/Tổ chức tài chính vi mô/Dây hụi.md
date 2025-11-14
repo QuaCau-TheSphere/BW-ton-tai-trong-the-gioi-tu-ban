@@ -4,7 +4,7 @@ created: 2025-03-27T17:13
 updated: 2025-08-24T16:26
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XVPYTogAS74?si=2fZ67dJAGJCxXW2l" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-![Chơi hụi là sao? Chơi sao có lãi? Không bị giựt hụi? \[DLDBTT\] - YouTube](https://youtu.be/-ZGyV92dhAk?si=aLUqQZZ3Rhxd7ezb)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-ZGyV92dhAk?si=aLUqQZZ3Rhxd7ezb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 [Sao “vỡ hụi" hoài mà người ta cứ “chơi hụi" hoài vậy? \| VTVMoney - YouTube](https://youtu.be/DZb8rJdYEm4?si=LZHryt1Cg9T1mlDf)
 
 làm bấp bênh mới chơi hụi được
