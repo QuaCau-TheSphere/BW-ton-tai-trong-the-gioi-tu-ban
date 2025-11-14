@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-09-12T13:45
+updated: 2025-11-14T20:45
 ---
 Về việc xù thì quỹ sẽ cư xử văn minh, không thuê ai đòi nợ cả. Một đứa xù thì cả lũ phải chịu. Để điều này xảy ra thì cần giải quyết được hai vấn đề:
 - Làm sao để người vay không có động lực xù?
@@ -34,6 +34,7 @@ Câu trả lời đơn giản là không cho vay lớn để giảm thiểu tác
 Điều này cũng giải quyết vấn đề chính quyền lo lắng về một hệ thống có dòng tiền lớn nằm ngoài tầm kiểm soát. Vì đơn giản là dòng tiền này không lớn.
 
 Xem thêm:: [Xử lý người xù nợ](./X%E1%BB%AD%20l%C3%BD%20ng%C6%B0%E1%BB%9Di%20x%C3%B9%20n%E1%BB%A3.md)
+Xem thêm:: [Cảnh giác lừa đảo](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/C%E1%BA%A3nh%20gi%C3%A1c%20l%E1%BB%ABa%20%C4%91%E1%BA%A3o/index.md)
 
 ---
 
