@@ -3,13 +3,18 @@ share: true
 created: 2025-03-27T17:13
 Aliases:
   - Lý do
-updated: 2025-09-05T10:49
+updated: 2025-11-14T15:38
 ---
 Khái niệm:: 
 Khi có một nhà nước phúc lợi như Bắc Âu
 
-Nó sẽ trả tiền điện, nước cho gia đình thế nào? Ngăn mấy đứa đòi nợ đến nhà làm phiền ra sao? Chữa trị bệnh ung thư cho cha mẹ thế nào? Đem đến cho con mình một nền giáo dục tử tế như thế nào? Hay rốt cuộc nó vẫn là dành cho những nhóm may mắn hơn?
+Trách nhiệm gia đình
+Tự mâu thuẫn với chính mình
+Muốn tận dụng nguồn lực của Nhật, nhưng lại không thấy Nhật tin cậy
+đâu phải là không có [Cộng đồng có chủ đích](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Ph%C3%A1t%20tri%E1%BB%83n%20b%E1%BB%81n%20v%E1%BB%AFng.%20C%C3%A1c%20n%E1%BB%81n%20kinh%20t%E1%BA%BF%20thay%20th%E1%BA%BF/C%E1%BB%99ng%20%C4%91%E1%BB%93ng%20c%C3%B3%20ch%E1%BB%A7%20%C4%91%C3%ADch/index.md). Nó đã có rồi?
 
+Nó sẽ trả tiền điện, nước cho gia đình thế nào? Ngăn mấy đứa đòi nợ đến nhà làm phiền ra sao? Chữa trị bệnh ung thư cho cha mẹ thế nào? Đem đến cho con mình một nền giáo dục tử tế như thế nào? Hay rốt cuộc nó vẫn là dành cho những nhóm may mắn hơn?
+[Tư duy khan hiếm](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/S%E1%BB%91ng%20v%E1%BB%ABa%20%C4%91%E1%BB%A7,%20b%E1%BB%81n%20v%E1%BB%AFng,%20ti%E1%BA%BFt%20ki%E1%BB%87m/T%C6%B0%20duy%20khan%20hi%E1%BA%BFm.md)
 - [❓Các mô hình kinh tế thay thế hiện nay hiện có thể ứng dụng ở nông thôn chứ không ở đô thị được](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Ph%C3%A1t%20tri%E1%BB%83n%20b%E1%BB%81n%20v%E1%BB%AFng.%20C%C3%A1c%20n%E1%BB%81n%20kinh%20t%E1%BA%BF%20thay%20th%E1%BA%BF/C%C3%A1c%20n%E1%BB%81n%20kinh%20t%E1%BA%BF%20thay%20th%E1%BA%BF/%E2%9D%93C%C3%A1c%20m%C3%B4%20h%C3%ACnh%20kinh%20t%E1%BA%BF%20thay%20th%E1%BA%BF%20hi%E1%BB%87n%20nay%20hi%E1%BB%87n%20c%C3%B3%20th%E1%BB%83%20%E1%BB%A9ng%20d%E1%BB%A5ng%20%E1%BB%9F%20n%C3%B4ng%20th%C3%B4n%20ch%E1%BB%A9%20kh%C3%B4ng%20%E1%BB%9F%20%C4%91%C3%B4%20th%E1%BB%8B%20%C4%91%C6%B0%E1%BB%A3c.md). Không có sản phẩm đa dạng mà một đô thị có khả năng cung cấp
 - Khi cần các sản phẩm chỉ có thể làm ở quy mô công nghiệp
 - Khi không có cách để trao đổi nhu cầu với người muốn sản xuất lương thực và muốn trao đổi với thứ mà mình muốn làm
@@ -21,3 +26,4 @@ Nó sẽ trả tiền điện, nước cho gia đình thế nào? Ngăn mấy đ
 em nghĩ không cần phải độc lập với tư bản đâu ạ, vì căn bản tư bản vẫn tạo ra những cái có giá trị, chứ không phải cái gì thuộc về tư bản cũng xấu, nên không cod kiểu là nghỉ chơi với nó hoàn toàn. Ví dụ như Degrowth họ hông against chuyện phát triển kinh tế. Mà nó đề xuất các nước "giàu, phát triển" dừng tăng trưởng lại, giảm bớt tiêu dùng và sản xuất những thứ không cần thiết, và shift sang tập trung vào ưu tiên những thứ liên quan đến những gì phục vụ phúc lợi con người, ví dụ như y tế, nghệ thuật, văn hoá,... còn các nước "nghèo" thì vẫn cần phát triển kinh tế, xây dựng và phát triển cơ sở hạ tầng nền tảng - những thứ cần thiết cho hạnh phúc con người. 
 
 Để shift sang một new economy thì không đơn thuần chỉ là biết về nó là đủ, nó cần sự chuyển hoá bên trong (worldview, value), và cần sự nuôi dưỡng và mọi người cần unlearn những cái được dạy ở trường. Ví dụ người ta được dạy phải maximize profit, hay cái narrative về chủ nghĩa cá nhân và các thiết kế xã hội thúc đẩy sự cạnh tranh... thì ngừoi ta quen và tin vào cái đó rồi. Biết về những cái alternative khác thì người hông tin. Thậm chí được immerse vào môi trường mới nhưng họ vẫn giữ khư khư cái cũ thì họ cũng sẽ tự out thôi.
+
