@@ -14,7 +14,7 @@ Lịch sử thu nhập: tăng dần đều (có tiến triển), tăng bất th�
 Vay thẻ tín dụng thì được tích đến cuối kỳ, xong rồi thì lại được vay lại dùng lại. Vay các khoản khác thì mỗi kỳ phải trả, và trả xong hết rồi thì không được vay lại
 Tiền vay dài thì ngân hàng phải tính tiền của mình phải dư trả trong một thời gian rất dài. Còn tín dụng thì chỉ cần tính tiền của mình đủ để trả lãi và 
 
-[Cho vay cá nhân lợi hơn là cho vay doanh nghiệp](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/T%E1%BB%95%20ch%E1%BB%A9c%20t%C3%A0i%20ch%C3%ADnh/T%E1%BB%95%20ch%E1%BB%A9c%20t%C3%ADn%20d%E1%BB%A5ng/Ng%C3%A2n%20h%C3%A0ng,%20%C4%91i%E1%BB%83m%20t%C3%ADn%20d%E1%BB%A5ng/Cho%20vay%20c%C3%A1%20nh%C3%A2n%20l%E1%BB%A3i%20h%C6%A1n%20l%C3%A0%20cho%20vay%20doanh%20nghi%E1%BB%87p.md)
+[Cho vay cá nhân lợi hơn là cho vay doanh nghiệp](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Ng%C3%A0nh%20ngh%E1%BB%81%20c%E1%BB%A5%20th%E1%BB%83/T%C3%A0i%20ch%C3%ADnh/T%C3%ADn%20d%E1%BB%A5ng/D%E1%BB%B1a%20tr%C3%AAn%20%C4%91i%E1%BB%83m%20t%C3%ADn%20d%E1%BB%A5ng/Ng%C3%A2n%20h%C3%A0ng/Cho%20vay%20c%C3%A1%20nh%C3%A2n%20l%E1%BB%A3i%20h%C6%A1n%20l%C3%A0%20cho%20vay%20doanh%20nghi%E1%BB%87p.md)
 
 Hồi xưa ngân hàng có một tiêu chí quan trọng để yêu cầu mua bảo hiểm vay là sự phụ thuộc vào 
 
