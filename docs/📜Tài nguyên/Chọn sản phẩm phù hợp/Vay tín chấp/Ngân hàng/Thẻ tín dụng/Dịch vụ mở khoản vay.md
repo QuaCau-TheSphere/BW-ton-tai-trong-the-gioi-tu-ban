@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-11-03T19:32
+updated: 2025-11-11T11:37
 ---
 Quy định mở khoản vay yêu cầu BHXH, thu nhập cá nhân, sao kê lương, công ty đang làm, địa chỉ, SĐT liên hệ người thân, và hên xui đậu rớt. Để giải quyết việc này, các bên làm dịch vụ sẽ bùa số liệu và thông đồng/hối lộ người duyệt vay trong ngân hàng. Vì là số liệu bùa nên hạn mức khoản vay muốn cao bao nhiêu cũng được, nhưng họ cũng không dám làm cao để tránh việc khách xù luôn khiến cho nhân viên kinh doanh bị ngân hàng phạt.
 

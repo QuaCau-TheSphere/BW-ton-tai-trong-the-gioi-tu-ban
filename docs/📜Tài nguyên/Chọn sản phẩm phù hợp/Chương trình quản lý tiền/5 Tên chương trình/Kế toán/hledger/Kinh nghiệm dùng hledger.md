@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-11-03T20:47
+updated: 2025-11-11T11:29
 ---
 [Danh mục tài khoản và ý nghĩa bảng cân đối của quỹ](../../../../../../%F0%9F%93%90D%E1%BB%B1%20%C3%A1n/Gi%C3%BAp%20nhau%20tho%C3%A1t%20n%E1%BB%A3/Qu%E1%BB%B9/Danh%20m%E1%BB%A5c%20t%C3%A0i%20kho%E1%BA%A3n%20v%C3%A0%20%C3%BD%20ngh%C4%A9a%20b%E1%BA%A3ng%20c%C3%A2n%20%C4%91%E1%BB%91i%20c%E1%BB%A7a%20qu%E1%BB%B9.md)
 
@@ -65,10 +65,27 @@ $ hledger bal -N -t --no-elide expenses --pivot tertiary
 
 ```
 
-## Thêm
+## Thêm tài khoản chưa khai báo
 ```
 hledger accounts --directive --undeclared >> $env:LEDGER_FILE
 ```
 [hledger workflow 2025 - Joyful Systems](https://joyful.com/hledger+workflow+2025)
 
 [areg dùng để đối chiếu tài khoản thật, còn reg là để kiểm tra thu chi](./areg%20d%C3%B9ng%20%C4%91%E1%BB%83%20%C4%91%E1%BB%91i%20chi%E1%BA%BFu%20t%C3%A0i%20kho%E1%BA%A3n%20th%E1%BA%ADt,%20c%C3%B2n%20reg%20l%C3%A0%20%C4%91%E1%BB%83%20ki%E1%BB%83m%20tra%20thu%20chi.md)
+
+[What are some gotchas with piping hledger print into another hledger command?](https://hledger.org/faq.html#what-are-some-gotchas-with-piping-hledger-print-into-another-hledger-command-)
+
+my wallet has multiple commodities, and is opened with this transaction:
+```
+2025-06-01 | Bắt đầu Thịnh
+    A:TKTT                  -4000
+    A:TKTT                   -2040
+    A:TKTT                   -500
+    Nơi lưu tiền:Tiền mặt:Bóp Nhật      -0.5 chỉ
+    (Giúp:Thịnh)                        -6540
+    (Giúp:Thịnh)                        -0.5 chỉ  
+    A                        6540
+    A:Tiền mặt               0.5 chỉ
+```
+hledger areg bóp not:cur:chỉ not:cur:usd
+. When I want to select 

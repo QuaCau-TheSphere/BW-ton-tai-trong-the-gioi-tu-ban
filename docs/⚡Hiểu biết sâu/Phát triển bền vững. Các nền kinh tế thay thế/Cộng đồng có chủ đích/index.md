@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-11-04T12:02
+updated: 2025-11-07T11:09
 aliases:
   - đồng cư, hợp tác xã nhà ở, quỹ nhà ở vi mô
   - làng sinh thái, công xã
@@ -37,6 +37,8 @@ Nếu tất cả thu nhập của thành viên đều đóng góp vào quỹ chu
 (Ở châu Âu có rất nhiều công xã và làng sinh thái được lập ra vào những năm 60, 70 từ phong trào hippie.)
 
 Bạn có thể làm thử [Community Type Quiz](https://communityfinders.com/quiz/?utm_source=kiếmtiền.quảcầu.cc) để xem mình phù hợp với loại cộng đồng nào.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/D-IZVlgnTFc?si=m4WerDQPRy2Qq4d8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GlgGxhzkwoE?si=S85MwXHP5diiJ9zv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

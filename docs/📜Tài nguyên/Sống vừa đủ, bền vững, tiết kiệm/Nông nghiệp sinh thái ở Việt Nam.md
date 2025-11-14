@@ -1,7 +1,9 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-11-04T09:48
+updated: 2025-11-14T15:37
+aliases:
+  - làng sinh thái ở Việt Nam
 ---
 [Cộng đồng có chủ đích](../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Ph%C3%A1t%20tri%E1%BB%83n%20b%E1%BB%81n%20v%E1%BB%AFng.%20C%C3%A1c%20n%E1%BB%81n%20kinh%20t%E1%BA%BF%20thay%20th%E1%BA%BF/C%E1%BB%99ng%20%C4%91%E1%BB%93ng%20c%C3%B3%20ch%E1%BB%A7%20%C4%91%C3%ADch/index.md)
 [Làm muối tính ra dễ hơn làm nông](../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Ng%C3%A0nh%20ngh%E1%BB%81%20c%E1%BB%A5%20th%E1%BB%83/N%C3%B4ng%20nghi%E1%BB%87p/L%C3%A0m%20mu%E1%BB%91i%20t%C3%ADnh%20ra%20d%E1%BB%85%20h%C6%A1n%20l%C3%A0m%20n%C3%B4ng.md)
@@ -22,7 +24,7 @@ Một số bài viết của họ liên quan đến nông nghiệp:
 - [Chứng chỉ hữu cơ đang giết ước mơ nông hộ](https://www.facebook.com/share/p/1BUgAMmkzS/)
 
 ### VCIL
-Sứ mệnh của VCIL có vẻ thiên về kết nối nguồn lực cộng đồng, xóa bỏ [tư duy khan hiếm](./t%C6%B0%20duy%20khan%20hi%E1%BA%BFm.md), xây dựng các mô hình kinh tế và tài chính thay thế hơn là tập trung vào nông nghiệp sinh thái. Nhưng vì các [cộng đồng có chủ đích](../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Ph%C3%A1t%20tri%E1%BB%83n%20b%E1%BB%81n%20v%E1%BB%AFng.%20C%C3%A1c%20n%E1%BB%81n%20kinh%20t%E1%BA%BF%20thay%20th%E1%BA%BF/C%E1%BB%99ng%20%C4%91%E1%BB%93ng%20c%C3%B3%20ch%E1%BB%A7%20%C4%91%C3%ADch/index.md) là một mô hình để đạt được mục tiêu đó, và vì nhiều cộng đồng có chủ đích là các làng sinh thái, nên họ cũng có nhiều kết nối tới các làng sinh thái trong và ngoài nước. Họ có các chương trình du lịch học tập cộng đồng ở Ấn Độ, Hàn Quốc, Thái Lan. Ở Việt Nam thì có tới các cộng đồng Hòa Bắc (Đà Nẵng), Cẩm Kim (Hội An), Sa Huỳnh (Quảng Ngãi).
+Sứ mệnh của VCIL có vẻ thiên về kết nối nguồn lực cộng đồng, xóa bỏ [Tư duy khan hiếm](./T%C6%B0%20duy%20khan%20hi%E1%BA%BFm.md), xây dựng các mô hình kinh tế và tài chính thay thế hơn là tập trung vào nông nghiệp sinh thái. Nhưng vì các [cộng đồng có chủ đích](../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Ph%C3%A1t%20tri%E1%BB%83n%20b%E1%BB%81n%20v%E1%BB%AFng.%20C%C3%A1c%20n%E1%BB%81n%20kinh%20t%E1%BA%BF%20thay%20th%E1%BA%BF/C%E1%BB%99ng%20%C4%91%E1%BB%93ng%20c%C3%B3%20ch%E1%BB%A7%20%C4%91%C3%ADch/index.md) là một mô hình để đạt được mục tiêu đó, và vì nhiều cộng đồng có chủ đích là các làng sinh thái, nên họ cũng có nhiều kết nối tới các làng sinh thái trong và ngoài nước. Họ có các chương trình du lịch học tập cộng đồng ở Ấn Độ, Hàn Quốc, Thái Lan. Ở Việt Nam thì có tới các cộng đồng Hòa Bắc (Đà Nẵng), Cẩm Kim (Hội An), Sa Huỳnh (Quảng Ngãi).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8CqjWrQ_EG0?si=CGf1RSHBYihSz4Mm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

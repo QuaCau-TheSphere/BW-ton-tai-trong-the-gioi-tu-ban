@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-08-31T11:15
-updated: 2025-09-03T21:05
+updated: 2025-11-14T11:45
 ---
 Tên thương hiệu:: OCB
 Phân loại:: [Thương mại Cổ phần](Th%C6%B0%C6%A1ng%20m%E1%BA%A1i%20C%E1%BB%95%20ph%E1%BA%A7n.md)
@@ -11,3 +11,6 @@ SWIFT:: ORCOVNVX
 Website:: [ocb.com.vn](ocb.com.vn)
 Ngày thành lập:: 10/06/1996
 Vốn điều lệ (tỷ đồng):: 24,658.00
+
+## Thẻ tín dụng
+- Không in hết số thẻ và CVV ở ngoài thẻ

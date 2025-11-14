@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-11-01T09:41
+updated: 2025-11-13T14:48
 ---
 Khái niệm:: 
 Họ có thể vào được tài khoản ngân hàng của mình, chỉ cần mặt trước căn cước công dân của cộng với số điện thoại của mình. 
@@ -38,6 +38,5 @@ Chính chủ đang ở đấy
 A giải thích xem lý do nào hợp lý nhất?
 Công nghệ cgi quá mạnh
 Mà nếu vậy thì là cái Giả thiết deep fake tạo bank ngày xưa là hợp lý. Lúc đó em cứ bảo bọn nó ko cần
-Nguồn:: 
 
 [Fake cam, KYC](../../L%C3%A0m%20thu%C3%AA/L%C3%A0m%20k%E1%BA%BFt%20qu%E1%BA%A3%20%E1%BA%A3o/Fake%20cam,%20KYC.md)
