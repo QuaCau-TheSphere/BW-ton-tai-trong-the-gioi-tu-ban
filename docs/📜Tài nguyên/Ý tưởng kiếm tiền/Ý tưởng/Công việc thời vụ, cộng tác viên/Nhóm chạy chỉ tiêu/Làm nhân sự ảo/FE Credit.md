@@ -11,7 +11,7 @@ Nếu bạn làm ở [Nhóm Bình Dương 1](../../../../../../%F0%9F%93%90D%E1%
 
 ## Mô tả công việc
 ### Chuẩn bị
-- Mở tài khoản ngân hàng [VPBank](../../../../../T%C3%A0i%20nguy%C3%AAn%20ch%E1%BA%A1y%20%E1%BA%A3o/Ng%C3%A2n%20h%C3%A0ng/VPBank.md): 5 phút 
+- Mở tài khoản ngân hàng [VPBank](../../../../../T%C3%ACnh%20h%C3%ACnh%20%E1%BB%9F%20Vi%E1%BB%87t%20Nam/Ng%C3%A0nh%20ngh%E1%BB%81%20c%E1%BB%A5%20th%E1%BB%83/T%C3%A0i%20ch%C3%ADnh/T%E1%BB%95%20ch%E1%BB%A9c%20t%C3%ADn%20d%E1%BB%A5ng/Ng%C3%A2n%20h%C3%A0ng/Danh%20s%C3%A1ch%20ng%C3%A2n%20h%C3%A0ng/VPBank.md): 5 phút 
 - Đi phỏng vấn: 30 phút
 - Học online: 2 ngày
 - Hướng dẫn trực tiếp: 1 tiếng
@@ -35,5 +35,5 @@ Chấm công bằng việc chụp ảnh mặt mình tại 13 điểm bất kỳ 
 [Hướng dẫn dùng phần mềm iCollect](../../../../../../%F0%9F%93%90D%E1%BB%B1%20%C3%A1n/Gi%C3%BAp%20nhau%20ki%E1%BA%BFm%20ti%E1%BB%81n/Ch%E1%BA%A1y%20ch%E1%BB%89%20ti%C3%AAu%20cho%20nh%C3%A2n%20vi%C3%AAn%20c%C3%B4ng%20ty/Ch%C6%A1i%20ch%C3%ADnh%20s%C3%A1ch/T%C3%A0i%20li%E1%BB%87u%20v%E1%BB%81%20t%E1%BB%ABng%20c%C3%B4ng%20ty/FE%20Credit/H%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn%20d%C3%B9ng%20ph%E1%BA%A7n%20m%E1%BB%81m%20iCollect.md)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/14crhMjiRB8?si=iqAN3308UuYyXXpy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-![Onboard FC khóa 81 ngày 17 - YouTube](https://youtu.be/9EmrwLa7dDk?si=D7I1YlEsGmumpTGb)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9EmrwLa7dDk?si=D7I1YlEsGmumpTGb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

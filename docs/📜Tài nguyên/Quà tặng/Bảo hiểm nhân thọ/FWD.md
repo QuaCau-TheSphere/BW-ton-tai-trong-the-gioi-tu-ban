@@ -54,6 +54,6 @@ Kênh bảo hiểm:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vRmmNxQ5hFg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Ngân hàng phân phối:
-![FWD x Vietcombank - Vững tin sống đầy 2020 - YouTube](https://youtu.be/JtOSw8uegVI)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JtOSw8uegVI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ![Hợp đồng FWD (đầy đủ).pdf](../../../assets/attachments/H%E1%BB%A3p%20%C4%91%E1%BB%93ng%20FWD%20(%C4%91%E1%BA%A7y%20%C4%91%E1%BB%A7).pdf)

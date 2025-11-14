@@ -5,7 +5,7 @@ updated: 2025-10-20T12:50
 aliases:
   - Các lý do để không về quê
 ---
-[❓Các câu hỏi cho mô hình cộng đồng làng sinh thái](../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Ph%C3%A1t%20tri%E1%BB%83n%20b%E1%BB%81n%20v%E1%BB%AFng.%20C%C3%A1c%20n%E1%BB%81n%20kinh%20t%E1%BA%BF%20thay%20th%E1%BA%BF/C%E1%BB%99ng%20%C4%91%E1%BB%93ng%20c%C3%B3%20ch%E1%BB%A7%20%C3%BD/L%C3%A0ng%20sinh%20th%C3%A1i/%E2%9D%93C%C3%A1c%20c%C3%A2u%20h%E1%BB%8Fi%20cho%20m%C3%B4%20h%C3%ACnh%20c%E1%BB%99ng%20%C4%91%E1%BB%93ng%20l%C3%A0ng%20sinh%20th%C3%A1i.md)
+[❓Các câu hỏi cho mô hình cộng đồng làng sinh thái](../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Ph%C3%A1t%20tri%E1%BB%83n%20b%E1%BB%81n%20v%E1%BB%AFng.%20C%C3%A1c%20n%E1%BB%81n%20kinh%20t%E1%BA%BF%20thay%20th%E1%BA%BF/C%E1%BB%99ng%20%C4%91%E1%BB%93ng%20c%C3%B3%20ch%E1%BB%A7%20%C4%91%C3%ADch/C%E1%BB%99ng%20%C4%91%E1%BB%93ng%20ngo%C3%A0i%20%C4%91%C3%B4%20th%E1%BB%8B/L%C3%A0ng%20sinh%20th%C3%A1i/%E2%9D%93C%C3%A1c%20c%C3%A2u%20h%E1%BB%8Fi%20cho%20m%C3%B4%20h%C3%ACnh%20c%E1%BB%99ng%20%C4%91%E1%BB%93ng%20l%C3%A0ng%20sinh%20th%C3%A1i.md)
 ## Không kiếm được việc làm, hoặc tỉ lệ lương/chi phí sinh hoạt không tăng lên
 - Ở TP đang có lương 15tr, đi ra nơi khác sống thì không kiếm được chỗ nào cho như vậy
 

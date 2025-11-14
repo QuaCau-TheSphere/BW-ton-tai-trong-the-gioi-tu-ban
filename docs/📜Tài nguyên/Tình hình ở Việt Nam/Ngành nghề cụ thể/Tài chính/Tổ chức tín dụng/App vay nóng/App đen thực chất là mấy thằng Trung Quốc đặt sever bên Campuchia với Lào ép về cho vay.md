@@ -50,6 +50,6 @@ chứ toàn nuôi béo rồi thịt để lấy thành tích
 
 [Tao từng làm việc cho một công ty đào lửa bên Campuchia](https://www.reddit.com/r/TroChuyenLinhTinh/comments/1mjedr1/tao_từng_làm_việc_cho_một_công_ty_đào_lửa_bên%2f)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JW9AMuUAsRg?si=o93PPSU6qcaHOsXD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-![Người Việt thoát kiếp 'nô lệ' khi bị lừa sang Campuchia ra sao? - YouTube](https://youtu.be/2oEzo2vFfHg?si=lPnA-EhY9aPsPyXN)
-![Kế hoạch tẩu thoát khỏi "địa ngục" ở bên kia biên giới \| VTV đặc biệt BẪY - YouTube](https://youtu.be/TisXdOkK6Ac?si=6a3VdDOi6cr1zsjr)
-![Giải thích nền kinh tế Campuchia trong 15 phút - YouTube](https://youtu.be/hl1MdCfct5c?si=r7x63lTfjx9wOjEj)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2oEzo2vFfHg?si=lPnA-EhY9aPsPyXN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TisXdOkK6Ac?si=6a3VdDOi6cr1zsjr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hl1MdCfct5c?si=r7x63lTfjx9wOjEj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

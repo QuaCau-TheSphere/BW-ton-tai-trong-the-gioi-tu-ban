@@ -14,7 +14,7 @@ Khu vực chính thức gồm:
 - Ngân hàng Nông nghiệp và Phát triển nông thôn 
 - Các tổ chức tài chính vi mô được cấp phép (đến nay có 4 cái)
 
-[Tất cả các tổ chức tài chính vi mô được cấp phép đều liên hệ với các tổ chức chính trị xã hội](../../../L%C4%A9nh%20v%E1%BB%B1c%20c%E1%BB%A5%20th%E1%BB%83/T%C3%A0i%20ch%C3%ADnh/T%E1%BB%95%20ch%E1%BB%A9c%20t%C3%ADn%20d%E1%BB%A5ng/T%E1%BB%95%20ch%E1%BB%A9c%20t%C3%A0i%20ch%C3%ADnh%20vi%20m%C3%B4/T%E1%BA%A5t%20c%E1%BA%A3%20c%C3%A1c%20t%E1%BB%95%20ch%E1%BB%A9c%20t%C3%A0i%20ch%C3%ADnh%20vi%20m%C3%B4%20%C4%91%C6%B0%E1%BB%A3c%20c%E1%BA%A5p%20ph%C3%A9p%20%C4%91%E1%BB%81u%20li%C3%AAn%20h%E1%BB%87%20v%E1%BB%9Bi%20c%C3%A1c%20t%E1%BB%95%20ch%E1%BB%A9c%20ch%C3%ADnh%20tr%E1%BB%8B%20x%C3%A3%20h%E1%BB%99i.md). Những nơi này được phép huy động tiền gửi tiết kiệm tự nguyện.
+[Tất cả các tổ chức tài chính vi mô được cấp phép đều liên hệ với các tổ chức chính trị xã hội](../../../Ng%C3%A0nh%20ngh%E1%BB%81%20c%E1%BB%A5%20th%E1%BB%83/T%C3%A0i%20ch%C3%ADnh/T%E1%BB%95%20ch%E1%BB%A9c%20t%C3%ADn%20d%E1%BB%A5ng/T%E1%BB%95%20ch%E1%BB%A9c%20t%C3%A0i%20ch%C3%ADnh%20vi%20m%C3%B4/T%E1%BA%A5t%20c%E1%BA%A3%20c%C3%A1c%20t%E1%BB%95%20ch%E1%BB%A9c%20t%C3%A0i%20ch%C3%ADnh%20vi%20m%C3%B4%20%C4%91%C6%B0%E1%BB%A3c%20c%E1%BA%A5p%20ph%C3%A9p%20%C4%91%E1%BB%81u%20li%C3%AAn%20h%E1%BB%87%20v%E1%BB%9Bi%20c%C3%A1c%20t%E1%BB%95%20ch%E1%BB%A9c%20ch%C3%ADnh%20tr%E1%BB%8B%20x%C3%A3%20h%E1%BB%99i.md). Những nơi này được phép huy động tiền gửi tiết kiệm tự nguyện.
 
 Khu vực bán chính thức gồm:
 - Các tổ chức phi chính phủ trong và ngoài nước 

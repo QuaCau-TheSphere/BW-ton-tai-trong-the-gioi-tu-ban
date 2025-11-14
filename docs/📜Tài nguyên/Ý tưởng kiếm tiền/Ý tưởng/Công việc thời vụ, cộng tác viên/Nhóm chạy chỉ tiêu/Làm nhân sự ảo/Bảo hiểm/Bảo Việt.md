@@ -17,7 +17,7 @@ Số tiền kiếm được:: Sinh từ năm 2001 trở đi thì được 900k, 
 - Một bài thi thử đạt từ 34 điểm sẽ được thưởng thêm 20k. Tối đa thưởng 200k.
 - Buổi tốt nghiệp sẽ ăn trưa ở nhà hàng và tặng một áo mưa hoặc ly
 
-Xem thêm:: [Đại lý](../../../../../../T%C3%ACnh%20h%C3%ACnh%20%E1%BB%9F%20Vi%E1%BB%87t%20Nam/L%C4%A9nh%20v%E1%BB%B1c%20c%E1%BB%A5%20th%E1%BB%83/B%E1%BA%A3o%20hi%E1%BB%83m/Nh%C3%A2n%20s%E1%BB%B1/B%E1%BA%A3o%20Vi%E1%BB%87t/%C4%90%E1%BA%A1i%20l%C3%BD.md)
+Xem thêm:: [Đại lý](../../../../../../T%C3%ACnh%20h%C3%ACnh%20%E1%BB%9F%20Vi%E1%BB%87t%20Nam/Ng%C3%A0nh%20ngh%E1%BB%81%20c%E1%BB%A5%20th%E1%BB%83/T%C3%A0i%20ch%C3%ADnh/B%E1%BA%A3o%20hi%E1%BB%83m/Nh%C3%A2n%20s%E1%BB%B1/B%E1%BA%A3o%20Vi%E1%BB%87t/%C4%90%E1%BA%A1i%20l%C3%BD.md)
 ![Lịch đào tạo Bảo Việt.png](../../../../../../../assets/attachments/L%E1%BB%8Bch%20%C4%91%C3%A0o%20t%E1%BA%A1o%20B%E1%BA%A3o%20Vi%E1%BB%87t.png)
 
 Số tiền đầu tư:: 

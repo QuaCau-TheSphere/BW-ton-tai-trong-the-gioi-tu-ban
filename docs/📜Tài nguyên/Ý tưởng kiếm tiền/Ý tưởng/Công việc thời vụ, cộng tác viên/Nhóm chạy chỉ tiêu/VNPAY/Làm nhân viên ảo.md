@@ -25,7 +25,7 @@ Có thể dùng Fake GPS để ở nơi khác vẫn tới vị trí chấm công
 - Trả lời tin nhắn: vài phút 
 - Họp nhóm trên công ty: 3 tiếng 
 
-Mỗi sáng t2, t5 các [ASM, RSM](../../../../../T%C3%ACnh%20h%C3%ACnh%20%E1%BB%9F%20Vi%E1%BB%87t%20Nam/L%C4%A9nh%20v%E1%BB%B1c%20c%E1%BB%A5%20th%E1%BB%83/Trung%20gian%20thanh%20to%C3%A1n/Smartpay/ASM,%20RSM/index.md) họp. Lịch họp nhóm thì tuỳ nhóm, thường là chiều t2 hoặc sáng t3
+Mỗi sáng t2, t5 các [ASM, RSM](../../../../../T%C3%ACnh%20h%C3%ACnh%20%E1%BB%9F%20Vi%E1%BB%87t%20Nam/Ng%C3%A0nh%20ngh%E1%BB%81%20c%E1%BB%A5%20th%E1%BB%83/T%C3%A0i%20ch%C3%ADnh/Trung%20gian%20thanh%20to%C3%A1n/Smartpay/ASM,%20RSM/index.md) họp. Lịch họp nhóm thì tuỳ nhóm, thường là chiều t2 hoặc sáng t3
 ## Liên kết
 [\[VNNG\] Sales Checklist - Google Trang tính](https://docs.google.com/spreadsheets/d/1OYAC1TGoBtUZNt3wjc3KM8yjTNNV-xdlX0TcDIz7BgM/edit#gid=906803463 "[VNNG] Sales Checklist - Google Trang tính")
 [\[MNA - HCM9\] Tracking BD 2024](https://lookerstudio.google.com/u/0/reporting/69e85f7b-a4cd-4667-92c5-bdc5a866d9a7/page/p_vesr063xed "[MNA - HCM9] Tracking BD 2024")

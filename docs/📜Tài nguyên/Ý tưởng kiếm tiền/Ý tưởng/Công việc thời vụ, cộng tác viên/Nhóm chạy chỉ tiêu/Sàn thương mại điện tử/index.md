@@ -12,13 +12,13 @@ aliases:
 
 | File                                                                                                                                                                                        | Số tiền kiếm được                     | Mô tả công việc                                                             |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------- | --------------------------------------------------------------------------- |
-| [Giữ tiền hộ](./Gi%E1%BB%AF%20ti%E1%BB%81n%20h%E1%BB%99.md)                                           | 60k/stk ngân hàng                     | Chuyển dùm tiền được gửi về tài khoản ngân hàng của bạn sang tài khoản khác |
-| [Gom nhóm](./Gom%20nh%C3%B3m.md)                                                 | 50k/tài khoản tạo mới                 | Tải app GM Mall, đăng ký, nhập mã giới thiệu, nạp tiền, gom nhóm, rút tiền  |
-| [Làm nhân viên ảo](./L%C3%A0m%20nh%C3%A2n%20vi%C3%AAn%20%E1%BA%A3o.md)                                 | Tối thiểu 600k, hoặc 1tr5/tháng       | Họp online hoặc lên văn phòng chơi                                          |
 | [Cung cấp địa chỉ nhận hàng](./Cung%20c%E1%BA%A5p%20%C4%91%E1%BB%8Ba%20ch%E1%BB%89%20nh%E1%BA%ADn%20h%C3%A0ng.md)             | Tuỳ vào món hàng được nhận            | Cung cấp địa chỉ để được nhận hàng miễn phí                                 |
-| [Quản lý máy](./Qu%E1%BA%A3n%20l%C3%BD%20m%C3%A1y.md)                                           | 5tr/tháng + quà tặng rất thường xuyên | Quản lý phonefarm gồm 60 - 80 cái điện thoại                                |
+| [Gom nhóm](./Gom%20nh%C3%B3m.md)                                                 | 50k/tài khoản tạo mới                 | Tải app GM Mall, đăng ký, nhập mã giới thiệu, nạp tiền, gom nhóm, rút tiền  |
+| [Giữ tiền hộ](./Gi%E1%BB%AF%20ti%E1%BB%81n%20h%E1%BB%99.md)                                           | 60k/stk ngân hàng                     | Chuyển dùm tiền được gửi về tài khoản ngân hàng của bạn sang tài khoản khác |
+| [Làm nhân viên ảo](./L%C3%A0m%20nh%C3%A2n%20vi%C3%AAn%20%E1%BA%A3o.md)                                 | Tối thiểu 600k, hoặc 1tr5/tháng       | Họp online hoặc lên văn phòng chơi                                          |
 | [Làm trưởng nhóm ảo](./L%C3%A0m%20tr%C6%B0%E1%BB%9Fng%20nh%C3%B3m%20%E1%BA%A3o.md)                             | \-                                    | \-                                                                          |
 | [Nghe cuộc gọi xác nhận giao hàng](./Nghe%20cu%E1%BB%99c%20g%E1%BB%8Di%20x%C3%A1c%20nh%E1%BA%ADn%20giao%20h%C3%A0ng.md) | \-                                    | \-                                                                          |
+| [Quản lý máy](./Qu%E1%BA%A3n%20l%C3%BD%20m%C3%A1y.md)                                           | 5tr/tháng + quà tặng rất thường xuyên | Quản lý phonefarm gồm 60 - 80 cái điện thoại                                |
 
 
 ## Câu hỏi thường gặp
