@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-11-13T16:53
+updated: 2025-11-14T19:18
 title: Enspiral
 ---
 Khái niệm:: 
@@ -11,6 +11,7 @@ Khái niệm::
 [Sổ tay](https://handbook.enspiral.com)
 
 Có 4 cấp độ phản hồi đề xuất: đồng ý, phiếu trắng, phản đối, và chặn
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SIlBobGS-Q8?si=r2_O12fXAKLJXj4d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 | position | meaning                                                                                            |
 | -------- | -------------------------------------------------------------------------------------------------- |
