@@ -2,7 +2,8 @@
 share: true
 created: 2024-09-30T23:34
 updated: 2025-08-17T16:41
-alias: Luật cấm đại lý trích hoa hồng để giảm giá
+aliases:
+  - Luật cấm đại lý trích hoa hồng để giảm giá
 ---
 Khái niệm:: [Hoa hồng](../../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Hoa%20h%E1%BB%93ng.md), [Giảm giá](../../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Gi%E1%BA%A3m%20gi%C3%A1.md)
 - Cấm đại lý trích hoa hồng để giảm giá: Có lẽ là để chống bán phá giá?
@@ -11,4 +12,4 @@ Khái niệm:: [Hoa hồng](../../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%
 Nguồn:: [Thông tư 67/2023/TT-BTC hướng dẫn Luật Kinh doanh bảo hiểm Nghị định 46/2023/NĐ-CP mới nhất](https://thuvienphapluat.vn/van-ban/Bao-hiem/Thong-tu-67-2023-TT-BTC-huong-dan-Luat-Kinh-doanh-bao-hiem-Nghi-dinh-46-2023-ND-CP-548480.aspx)
 [mof.gov.vn/webcenter/portal/cqlgsbh/pages\_r/l/chi-tiet-tin-cuc-quan-ly-giam-sat-bao-hiem?dDocName=MOFUCM203826](https://mof.gov.vn/webcenter/portal/cqlgsbh/pages_r/l/chi-tiet-tin-cuc-quan-ly-giam-sat-bao-hiem?dDocName=MOFUCM203826)
 
-[Nếu cắt hoa hồng cho khách nhưng khách huỷ hợp đồng thì đại lý mất tiền](../../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/T%E1%BB%95%20ch%E1%BB%A9c%20t%C3%A0i%20ch%C3%ADnh/B%E1%BA%A3o%20hi%E1%BB%83m/C%C3%B4ng%20ty,%20%C4%91%E1%BA%A1i%20l%C3%BD,%20h%E1%BB%A3p%20%C4%91%E1%BB%93ng/Th%C6%B0%E1%BB%9Fng,%20hoa%20h%E1%BB%93ng/N%E1%BA%BFu%20c%E1%BA%AFt%20hoa%20h%E1%BB%93ng%20cho%20kh%C3%A1ch%20nh%C6%B0ng%20kh%C3%A1ch%20hu%E1%BB%B7%20h%E1%BB%A3p%20%C4%91%E1%BB%93ng%20th%C3%AC%20%C4%91%E1%BA%A1i%20l%C3%BD%20m%E1%BA%A5t%20ti%E1%BB%81n.md)
+[Nếu cắt hoa hồng cho khách nhưng khách huỷ hợp đồng thì đại lý mất tiền](../../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Ng%C3%A0nh%20ngh%E1%BB%81%20c%E1%BB%A5%20th%E1%BB%83/T%C3%A0i%20ch%C3%ADnh/B%E1%BA%A3o%20hi%E1%BB%83m/C%C3%B4ng%20ty,%20%C4%91%E1%BA%A1i%20l%C3%BD,%20h%E1%BB%A3p%20%C4%91%E1%BB%93ng/Th%C6%B0%E1%BB%9Fng,%20hoa%20h%E1%BB%93ng/N%E1%BA%BFu%20c%E1%BA%AFt%20hoa%20h%E1%BB%93ng%20cho%20kh%C3%A1ch%20nh%C6%B0ng%20kh%C3%A1ch%20hu%E1%BB%B7%20h%E1%BB%A3p%20%C4%91%E1%BB%93ng%20th%C3%AC%20%C4%91%E1%BA%A1i%20l%C3%BD%20m%E1%BA%A5t%20ti%E1%BB%81n.md)
