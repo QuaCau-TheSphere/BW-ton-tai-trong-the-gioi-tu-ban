@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-11-14T18:06
+updated: 2025-11-14T18:45
 aliases:
   - Xây dựng quỹ tín dụng vi mô
   - Mạng lưới cho vay chéo, phi tập trung
@@ -9,7 +9,7 @@ aliases:
   - Quỹ Quả Cầu
 ---
 ## Ý tưởng
-Khi một người cần vay thì sẽ có 2 nguồn để vay:
+Khi một người cần vay gấp thì sẽ có 2 nguồn để vay:
 - Mượn từ bạn bè, người thân
 - Từ các dịch vụ [vay tín chấp](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Ch%E1%BB%8Dn%20s%E1%BA%A3n%20ph%E1%BA%A9m%20ph%C3%B9%20h%E1%BB%A3p/Vay%20t%C3%ADn%20ch%E1%BA%A5p/index.md), bất kể đó là vì lợi nhuận hay phi lợi nhuận
 
@@ -17,9 +17,11 @@ Nhưng mượn từ bạn bè, người thân thì [khó mở lời](../T%C3%A0i
 
 Đây là một số trường hợp dẫn đến tình trạng này:
 - Có sự cố đột xuất (bị lừa đảo, công ty phá sản, gặp tai nạn, cần chuyển nhà, v.v.)
-- Là nạn nhân của chủ nghĩa tiêu dùng, nhất là khi cuộc sống gặp khó khăn 
 - Cần huy động vốn để kinh doanh, đầu tư, nhất là để thoát khỏi cuộc đua chuột
-- Kinh doanh, đầu tư bị lỗ, nhưng vẫn muốn giữ điểm tín dụng của mình cho sạch
+- Bị ngập nợ vì:
+	- Là nạn nhân của chủ nghĩa tiêu dùng, nhất là khi cuộc sống gặp khó khăn 
+	- Kinh doanh, đầu tư bị lỗ, nhưng vẫn muốn giữ điểm tín dụng của mình cho sạch
+- Muốn giúp một người bạn gặp phải những chuyện trên, hoặc ủng hộ cho một dự án có ý nghĩa
 
 Tức là nếu cho những người này vay tiền thì gần như là chỉ một, hai lần là đã hết sạch quỹ. Nên để đảm bảo sự bền vững, thậm chí là sự khả thi, **công việc chính của quỹ này không phải là cho vay, mà là hỗ trợ họ vay** bằng cách đứng ra mở lời cũng như đảm bảo họ sẽ trả nợ đúng cam kết. Điều đó khiến cho việc giúp đỡ họ cơ bản không khác gì mở tài khoản trên [Thiennguyen.app](https://thiennguyen.app/) hay [GoFundMe](https://www.gofundme.com/) rồi chia sẻ giùm, ai hỏi thì thay mặt họ trả lời thắc mắc. Nhưng sự khác biệt là quỹ này sẽ hỗ trợ người đi vay và người cho vay tốt hơn. Đặc biệt là phải tạo được nhiều động lực ở người cho vay hơn là tình thương thuần tuý. Cơ bản là thay vì nói "bạn cho bạn tui vay tiền được không", có thể việc nói rằng "quỹ tín dụng vi mô bên tui muốn mời bạn gửi tiết kiệm/mua trái phiếu/làm nhà đầu tư" sẽ hấp dẫn với họ hơn. 
 
