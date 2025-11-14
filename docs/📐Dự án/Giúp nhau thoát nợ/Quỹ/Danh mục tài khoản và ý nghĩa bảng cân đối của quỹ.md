@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-10-30T16:53
+updated: 2025-11-11T12:31
 cssClasses: wide-table
 aliases:
   - Xây dựng ontology
@@ -46,7 +46,7 @@ Danh mục các khoản tiền liên quan tới thẻ:
 | Tiền ăn uống, cà phê, đi lại | Nơi lưu tiền của người giúp | Dịch vụ   | Không định kỳ |
 | Phí thường niên              | Thẻ                         | Ngân hàng | Hàng năm      |
 | Lãi                          | Thẻ                         | Ngân hàng | Không định kỳ |
-| Thanh toán tối thiểu         | Nơi lưu tiền của người giúp | Ngân hàng | Hàng tháng    |
+| Thanh toán                   | Nơi lưu tiền của người giúp | Ngân hàng | Hàng tháng    |
 | Phí đóng thẻ                 | Nơi lưu tiền của người giúp | Ngân hàng | Một lần       |
 
 |                  | Nơi nhận                    | Bên chi   | Chu kỳ nhận   |
@@ -60,14 +60,24 @@ Những cái ở trên thì người vay phải tự bỏ, nên không khác gì
 
 Thẻ là tài sản của quỹ cho cá nhân mượn dùng. Thế nên các loại chi phí nên do người mượn trả, tuy nhiên khi lập danh mục thì nên nằm trong quỹ, không phải của người vay. (Nếu người vay phải bỏ ra phí mở thẻ, thì quỹ chỉ được thu hồi khi trả lại phí này). Phí mở thẻ, phí đáo rút không phải là phí chính thức của ngân hàng, còn phí thường niên, lãi là phí chính thức và bị trừ thẳng, nên không nên để các phí này là tài khoản con của tài khoản thẻ. Nó lại được trả bởi người vay, nên để là một phần của người vay thì cũng tiện.
 
+`Thanh toán tối thiểu` để trong nơi lưu tiền chứ không phải là chi phí
+
 ### Tài khoản giúp người vay
 ```
+2025-08-12 Biết | Đáo SeABank Nhật
+    Nơi lưu tiền:Thẻ:SeABank Nhật                  29810 kđ
+    Nơi lưu tiền:Thẻ:SeABank Nhật                 -29809 kđ
+    Thu nhập:Tài chính:Chênh lệch khi đáo             -1 kđ
+    Chi tiêu:Tài chính:Thẻ:Phí đáo:SeABank Nhật      596 kđ
+    Nơi lưu tiền                                    -596 kđ
+    (Giúp:Thịnh)                                    -595 kđ
+
 2025-08-29 | Rút tiền mẹ lần 2
-    Cá nhân:Mẹ:Thẻ:HSBC           -22134
-    Chi tiêu:Tài chính:Thẻ:Phí rút:HSBC mẹ  332
-    Nơi lưu tiền:TKTT:TPBank              21140
-    (Giúp:Lộc)                   -30001
-    Chi tiêu:Không rõ nguồn gốc   338
+    Cá nhân:Mẹ:Thẻ:HSBC                           -22134 kđ
+    Chi tiêu:Tài chính:Thẻ:Phí rút:HSBC mẹ           332 kđ
+    Nơi lưu tiền:TKTT:TPBank                       21140 kđ
+    (Giúp:Lộc)                                    -30001 kđ
+    Chi tiêu:Không rõ nguồn gốc                      338 kđ
 ```
 Dấu của giao dịch:
 - Âm:
@@ -77,7 +87,7 @@ Dấu của giao dịch:
 - 0:
 	- Mình trả nợ giùm (nợ của họ với người khác thành nợ của họ với mình)
 	- Mình chuyển tiền giùm, và mục đích của việc chuyển không phải là để trả nợ. VD: [Nhận tiền hộ](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/%C3%9D%20t%C6%B0%E1%BB%9Fng%20ki%E1%BA%BFm%20ti%E1%BB%81n/%C3%9D%20t%C6%B0%E1%BB%9Fng/C%C3%B4ng%20vi%E1%BB%87c%20th%E1%BB%9Di%20v%E1%BB%A5,%20c%E1%BB%99ng%20t%C3%A1c%20vi%C3%AAn/Nh%C3%B3m%20ch%E1%BA%A1y%20ch%E1%BB%89%20ti%C3%AAu/S%C3%A0n%20th%C6%B0%C6%A1ng%20m%E1%BA%A1i%20%C4%91i%E1%BB%87n%20t%E1%BB%AD/Gi%E1%BB%AF%20ti%E1%BB%81n%20h%E1%BB%99.md)
-	- Chi phí cho việc giúp và họ trả tại chỗ
+	- Chi phí cho việc giúp (VD: cà phê, đáo) và họ trả tại chỗ 
 - Dương:
 	- Tiền ủng hộ của mọi người
 	- Lãi sổ tiết kiệm
@@ -85,7 +95,10 @@ Dấu của giao dịch:
 	- Chi phí cho việc giúp khi họ trả
 	- Tiền trả nợ của họ
 
-[Âm hay dương trong giao dịch là tiền ra hay tiền vào. Âm dương trong cân đối là tiền nợ hay tiền có](../Ng%C6%B0%E1%BB%9Di%20th%E1%BB%A5%20h%C6%B0%E1%BB%9Fng/L%C3%BD%20Minh%20Nh%E1%BA%ADt/%C3%82m%20hay%20d%C6%B0%C6%A1ng%20trong%20giao%20d%E1%BB%8Bch%20l%C3%A0%20ti%E1%BB%81n%20ra%20hay%20ti%E1%BB%81n%20v%C3%A0o.%20%C3%82m%20d%C6%B0%C6%A1ng%20trong%20c%C3%A2n%20%C4%91%E1%BB%91i%20l%C3%A0%20ti%E1%BB%81n%20n%E1%BB%A3%20hay%20ti%E1%BB%81n%20c%C3%B3.md). [Số âm hay dương có ý nghĩa khác nhau tuỳ vào góc nhìn chuyển tiền hay người thực hiện giao dịch](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Ng%C3%A0nh%20ngh%E1%BB%81%20c%E1%BB%A5%20th%E1%BB%83/K%E1%BA%BF%20to%C3%A1n/B%E1%BA%A3n%20ch%E1%BA%A5t%20to%C3%A1n%20h%E1%BB%8Dc,%20h%E1%BB%87%20th%E1%BB%91ng%20th%C3%B4ng%20tin/S%E1%BB%91%20%C3%A2m%20hay%20d%C6%B0%C6%A1ng%20c%C3%B3%20%C3%BD%20ngh%C4%A9a%20kh%C3%A1c%20nhau%20tu%E1%BB%B3%20v%C3%A0o%20g%C3%B3c%20nh%C3%ACn%20chuy%E1%BB%83n%20ti%E1%BB%81n%20hay%20ng%C6%B0%E1%BB%9Di%20th%E1%BB%B1c%20hi%E1%BB%87n%20giao%20d%E1%BB%8Bch.md)
+Cơ bản là đồng nhất với dấu giao dịch của thẻ cho họ mượn.
+
+
+[Âm hay dương trong giao dịch là tiền ra hay tiền vào. Âm dương trong cân đối là tiền nợ hay tiền có](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Ng%C3%A0nh%20ngh%E1%BB%81%20c%E1%BB%A5%20th%E1%BB%83/K%E1%BA%BF%20to%C3%A1n/B%C3%A1o%20c%C3%A1o/%C3%82m%20hay%20d%C6%B0%C6%A1ng%20trong%20giao%20d%E1%BB%8Bch%20l%C3%A0%20ti%E1%BB%81n%20ra%20hay%20ti%E1%BB%81n%20v%C3%A0o.%20%C3%82m%20d%C6%B0%C6%A1ng%20trong%20c%C3%A2n%20%C4%91%E1%BB%91i%20l%C3%A0%20ti%E1%BB%81n%20n%E1%BB%A3%20hay%20ti%E1%BB%81n%20c%C3%B3.md). [Số âm hay dương có ý nghĩa khác nhau tuỳ vào góc nhìn chuyển tiền hay người thực hiện giao dịch](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Ng%C3%A0nh%20ngh%E1%BB%81%20c%E1%BB%A5%20th%E1%BB%83/K%E1%BA%BF%20to%C3%A1n/B%E1%BA%A3n%20ch%E1%BA%A5t%20to%C3%A1n%20h%E1%BB%8Dc,%20h%E1%BB%87%20th%E1%BB%91ng%20th%C3%B4ng%20tin/S%E1%BB%91%20%C3%A2m%20hay%20d%C6%B0%C6%A1ng%20c%C3%B3%20%C3%BD%20ngh%C4%A9a%20kh%C3%A1c%20nhau%20tu%E1%BB%B3%20v%C3%A0o%20g%C3%B3c%20nh%C3%ACn%20chuy%E1%BB%83n%20ti%E1%BB%81n%20hay%20ng%C6%B0%E1%BB%9Di%20th%E1%BB%B1c%20hi%E1%BB%87n%20giao%20d%E1%BB%8Bch.md)
 
 ## Mô hình biểu diễn dữ liệu (ontology)
 ### Mô hình 1: Ghi người cho vay chuyển qua người vay thông qua quỹ giúp người vay
@@ -221,7 +234,7 @@ a2-->c1-->c2
     Cá nhân:Cường:VĐT:Momo                 -250 kđ
 ```
 ## Xem thêm
-[Kinh nghiệm dùng hledger](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Ch%E1%BB%8Dn%20s%E1%BA%A3n%20ph%E1%BA%A9m%20ph%C3%B9%20h%E1%BB%A3p/Ch%C6%B0%C6%A1ng%20tr%C3%ACnh%20qu%E1%BA%A3n%20l%C3%BD%20ti%E1%BB%81n/Kinh%20nghi%E1%BB%87m%20d%C3%B9ng%20hledger.md)
+[Kinh nghiệm dùng hledger](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Ch%E1%BB%8Dn%20s%E1%BA%A3n%20ph%E1%BA%A9m%20ph%C3%B9%20h%E1%BB%A3p/Ch%C6%B0%C6%A1ng%20tr%C3%ACnh%20qu%E1%BA%A3n%20l%C3%BD%20ti%E1%BB%81n/5%20T%C3%AAn%20ch%C6%B0%C6%A1ng%20tr%C3%ACnh/K%E1%BA%BF%20to%C3%A1n/hledger/Kinh%20nghi%E1%BB%87m%20d%C3%B9ng%20hledger.md)
 
 
 
