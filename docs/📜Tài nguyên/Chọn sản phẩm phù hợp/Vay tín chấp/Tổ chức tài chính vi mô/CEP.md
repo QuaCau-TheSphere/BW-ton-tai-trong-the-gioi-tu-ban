@@ -28,7 +28,7 @@ Nếu không phải là thành viên công đoàn:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/watch?v=6DSN40IRjYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-![Fetching Title#e2zg](https://www.youtube.com/watch?v=cSImIy8wKkc)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/watch?v=cSImIy8wKkc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 [Trợ vốn giúp người nghèo: Những món tiền nhỏ đẩy lùi nạn cho vay nặng lãi - Tuổi Trẻ Online](https://tuoitre.vn/tro-von-giup-nguoi-ngheo-nhung-mon-tien-nho-day-lui-nan-cho-vay-nang-lai-20220612094859913.htm)
 
 ![Pasted image 20240620101103.png](../../../../assets/attachments/Pasted%20image%2020240620101103.png)
