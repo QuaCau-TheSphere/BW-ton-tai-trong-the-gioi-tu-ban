@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2025-10-05T10:21
+updated: 2025-11-22T15:05
 ---
 - Theo bạn đâu là cách để giúp bạn bền vững?
 - Bạn nghĩ mình cần làm những gì để kiếm được một người có tiền và để họ đồng ý cho bạn vay? 
@@ -10,12 +10,26 @@ updated: 2025-10-05T10:21
 - Tại sao bạn bị nợ? 
 - Tình hình nợ hiện nay:
 
+|                     | Momo VTS  | Momo Vay Nhanh | Shopee VTD 1 | Shopee VTD 2 | Shopee VTD 3 | Shopee trả sau                                                           |
+| ------------------- | --------- | -------------- | ------------ | ------------ | ------------ | ------------------------------------------------------------------------ |
+| Tổng số tiền đã vay |           | 32tr           | 6tr          | 2tr          | 2tr          | Chưa có thời gian cộng vì tính theo từng đơn hàng, mà đặt nhiều đơn hàng |
+| Tổng đã trả         |           |                |              |              |              |                                                                          |
+| Tổng còn phải trả   |           |                |              |              |              |                                                                          |
+| Tất toán            | Ko có     | 45.418.310     | Ko có        | Ko có        | Ko có        | Ko có                                                                    |
+| 12                  | 1.349.969 | 3.156.000      | 1.197.903    | 399.301      | 399.301      | 938.894                                                                  |
+| 1                   | 0         | nt             | nt           | nt           | nt           | nt                                                                       |
+| 2                   | 0         | nt             | nt           | nt           | nt           | 790.906                                                                  |
+| 3                   | 0         | nt             | 0            | nt           | nt           | 548.084                                                                  |
+| 4                   | 0         | nt             | 0            | 0            | nt           | 548.075                                                                  |
+| Tháng cuối          | 12/2025   | 12/2027: nt    | 2/2026       | 3/2026       | 4/2026       | 5: 318.143, 6: 223.359, 7 → 11: 147.624,                                 |
+
+
 | Khoản nợ | Số tiền | Lãi | Thời hạn trả | Lý do |
 | -------- | ------- | --- | ------------ | ----- |
 |          |         |     |              |       |
 
 - Cuộc sống của bạn đã thay đổi thế nào từ lúc có nợ?
-- Bạn đã làm [báo cáo tài chính](../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Ng%C3%A0nh%20ngh%E1%BB%81%20c%E1%BB%A5%20th%E1%BB%83/K%E1%BA%BF%20to%C3%A1n/B%C3%A1o%20c%C3%A1o/B%C3%A1o%20c%C3%A1o%20t%C3%A0i%20ch%C3%ADnh%20c%C3%A1%20nh%C3%A2n%20g%E1%BB%93m%20b%E1%BA%A3n%20thu%20chi%20c%C3%A1%20nh%C3%A2n%20v%C3%A0%20b%E1%BA%A3n%20c%C3%A2n%20%C4%91%E1%BB%91i%20t%C3%A0i%20s%E1%BA%A3n.md) và [kế hoạch tài chính](../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/N%E1%BB%81n%20kinh%20t%E1%BA%BF%20h%C3%A0ng%20ho%C3%A1/K%E1%BA%BF%20ho%E1%BA%A1ch%20t%C3%A0i%20ch%C3%ADnh/index.md) chưa?
+- Bạn đã làm [báo cáo tài chính](../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Ng%C3%A0nh%20ngh%E1%BB%81%20c%E1%BB%A5%20th%E1%BB%83/T%C3%A0i%20ch%C3%ADnh/K%E1%BA%BF%20to%C3%A1n/B%C3%A1o%20c%C3%A1o/B%C3%A1o%20c%C3%A1o%20t%C3%A0i%20ch%C3%ADnh%20c%C3%A1%20nh%C3%A2n%20g%E1%BB%93m%20b%E1%BA%A3n%20thu%20chi%20c%C3%A1%20nh%C3%A2n%20v%C3%A0%20b%E1%BA%A3n%20c%C3%A2n%20%C4%91%E1%BB%91i%20t%C3%A0i%20s%E1%BA%A3n.md) và [kế hoạch tài chính](../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/N%E1%BB%81n%20kinh%20t%E1%BA%BF%20h%C3%A0ng%20ho%C3%A1/K%E1%BA%BF%20ho%E1%BA%A1ch%20t%C3%A0i%20ch%C3%ADnh/index.md) chưa?
 - Chi phí sinh hoạt hàng tháng:
 
 | Khoản chi | Số tiền | Ngày chi | 
@@ -37,6 +51,7 @@ updated: 2025-10-05T10:21
 - Bạn đã dùng tới [Vay tín chấp](../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Ch%E1%BB%8Dn%20s%E1%BA%A3n%20ph%E1%BA%A9m%20ph%C3%B9%20h%E1%BB%A3p/Vay%20t%C3%ADn%20ch%E1%BA%A5p/index.md) nào? Vì sao chúng không phù hợp với bạn?
 - Bạn có chấp nhận [xù nợ ngân hàng](./T%C3%A0i%20li%E1%BB%87u/X%C3%B9%20n%E1%BB%A3%20ng%C3%A2n%20h%C3%A0ng.md), [xù nợ vay nóng](./T%C3%A0i%20li%E1%BB%87u/X%C3%B9%20n%E1%BB%A3%20vay%20n%C3%B3ng.md) không? Vì sao?
 	- Vì sao bạn không thể chấp nhận mất cic?
+	- Mức độ căng thẳng thế nào sẽ khiến bạn chấp nhận
 - Bạn có chấp nhận [ra khỏi thành phố sống](./T%C3%A0i%20li%E1%BB%87u/Ni%E1%BB%81m%20tin/Ra%20kh%E1%BB%8Fi%20th%C3%A0nh%20ph%E1%BB%91%20s%E1%BB%91ng.md) không? Vì sao?
 - Đã có bao nhiêu người biết tình hình của bạn rồi? Thái độ của họ thế nào? Bạn đã nhận được những sự hỗ trợ nào từ họ?
 
