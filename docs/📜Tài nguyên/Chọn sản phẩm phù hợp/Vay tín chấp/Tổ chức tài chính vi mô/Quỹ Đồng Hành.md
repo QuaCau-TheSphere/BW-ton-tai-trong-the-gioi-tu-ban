@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-05-05T23:08
-updated: 2025-11-05T19:33
+updated: 2025-11-16T16:50
 aliases:
   - Kula
 ---
@@ -68,8 +68,6 @@ Câu hỏi:
 [kulavietnam - MÔ HÌNH QUỸ ĐỒNG HÀNH CỦA KULAVIETNAM VẬN...](https://www.facebook.com/share/p/1GbSNn291Z/)
 
 Sẽ có nhiều bạn hiểu lầm đây giống mô hình đóng hụi hay đóng họ. Mô hình Quỹ khác hoàn toàn. Vì đóng hụi hay đóng họ là vòng quay đến lượt bạn thì bạn mới được vay. Chúng tôi giống dạng "ngân hàng mini" khi bạn tham gia quỹ sẵn sàng cho vay mà không cần đến lượt.
-
-Chơi hụi phải chờ đến lượt mình mới được vay
 
 
 Tại vì cái sự đúng mục đích đó là phải do bên đó xét
