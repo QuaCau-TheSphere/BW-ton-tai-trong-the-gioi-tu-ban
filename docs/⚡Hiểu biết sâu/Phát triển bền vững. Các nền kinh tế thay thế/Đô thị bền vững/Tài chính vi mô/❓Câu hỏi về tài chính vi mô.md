@@ -1,13 +1,13 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-11-24T10:16
+updated: 2025-11-25T16:13
 ---
 ## [Giúp đỡ sẽ tạo ra sự lệ thuộc](../../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Ni%E1%BB%81m%20tin,%20di%E1%BB%85n%20ng%C3%B4n/Gi%C3%BAp%20%C4%91%E1%BB%A1/Gi%C3%BAp%20%C4%91%E1%BB%A1%20s%E1%BA%BD%20t%E1%BA%A1o%20ra%20s%E1%BB%B1%20l%E1%BB%87%20thu%E1%BB%99c.md)
 Sinh viên thì tập trung học. Nghệ sĩ, nhà nghiên cứu ko phải lúc nào cũng làm thứ mà cộng đồng thấy có giá trị
 
 kỹ năng sống + âm tiền
-[❓Sự khác biệt giữa từ thiện, kinh tế quà tặng, trả cho người sau, làm việc vừa sức, dựa vào cộng đồng, ưu tiên việc khẩn cấp, giúp người không tự giúp mình được, thu nhập cơ bản vô điều kiện là gì](../../Th%E1%BB%B1c%20tr%E1%BA%A1ng/T%E1%BB%AB%20thi%E1%BB%87n,%20vi%E1%BB%87n%20tr%E1%BB%A3/%E2%9D%93S%E1%BB%B1%20kh%C3%A1c%20bi%E1%BB%87t%20gi%E1%BB%AFa%20t%E1%BB%AB%20thi%E1%BB%87n,%20kinh%20t%E1%BA%BF%20qu%C3%A0%20t%E1%BA%B7ng,%20tr%E1%BA%A3%20cho%20ng%C6%B0%E1%BB%9Di%20sau,%20l%C3%A0m%20vi%E1%BB%87c%20v%E1%BB%ABa%20s%E1%BB%A9c,%20d%E1%BB%B1a%20v%C3%A0o%20c%E1%BB%99ng%20%C4%91%E1%BB%93ng,%20%C6%B0u%20ti%C3%AAn%20vi%E1%BB%87c%20kh%E1%BA%A9n%20c%E1%BA%A5p,%20gi%C3%BAp%20ng%C6%B0%E1%BB%9Di%20kh%C3%B4ng%20t%E1%BB%B1%20gi%C3%BAp%20m%C3%ACnh%20%C4%91%C6%B0%E1%BB%A3c,%20thu%20nh%E1%BA%ADp%20c%C6%A1%20b%E1%BA%A3n%20v%C3%B4%20%C4%91i%E1%BB%81u%20ki%E1%BB%87n%20l%C3%A0%20g%C3%AC.md)
+[Từ thiện và những thứ có vẻ giống như nó](../../Th%E1%BB%B1c%20tr%E1%BA%A1ng/T%E1%BB%AB%20thi%E1%BB%87n,%20vi%E1%BB%87n%20tr%E1%BB%A3/T%E1%BB%AB%20thi%E1%BB%87n%20v%C3%A0%20nh%E1%BB%AFng%20th%E1%BB%A9%20c%C3%B3%20v%E1%BA%BB%20gi%E1%BB%91ng%20nh%C6%B0%20n%C3%B3.md)
 
 ## [Quỹ Đồng Hành](../../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Ch%E1%BB%8Dn%20s%E1%BA%A3n%20ph%E1%BA%A9m%20ph%C3%B9%20h%E1%BB%A3p/Vay%20t%C3%ADn%20ch%E1%BA%A5p/T%E1%BB%95%20ch%E1%BB%A9c%20t%C3%A0i%20ch%C3%ADnh%20vi%20m%C3%B4/Qu%E1%BB%B9%20%C4%90%E1%BB%93ng%20H%C3%A0nh.md)
 - thấy ai được vay là do em quyết định
