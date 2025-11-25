@@ -2,11 +2,15 @@
 share: true
 created: 2025-03-27T17:13
 Aliases:
-  - Lý do
-updated: 2025-11-14T15:38
+  - Lý do, tại sao, lý do
+updated: 2025-11-19T13:04
 ---
 Khái niệm:: 
 Khi có một nhà nước phúc lợi như Bắc Âu
+Việc được ở lại trong hệ thống tư bản tín dụng đáng để đánh đổi bao nhiêu stress, khi về mặt đạo đức mình đã hoàn thành nghĩa vụ trả nợ rồi, và phần còn lại chỉ là sự bóc lột?
+Lý do cho một người vay là một lý do đạo đức, và
+
+  
 
 Trách nhiệm gia đình
 Tự mâu thuẫn với chính mình

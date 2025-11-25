@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-11-14T19:18
+updated: 2025-11-21T16:24
 title: Enspiral
 ---
 Khái niệm:: 
@@ -33,3 +33,13 @@ A decision to block should not be taken lightly, but if you feel strongly about 
 - Simply vetoing a decision is not considered a responsible use of consensus blocking - you must be prepared to work collaboratively to try and reach a resolution, make time for conversations, and to help others understand the issue.
 - Blocks should only be used in cases where the blocker genuinely believes there is a significant risk of harm to the network, or that the proposal contravenes the fundamental values of Enspiral.
 Nguồn:: 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/79OhyzQVQp0?si=IrU0yKh7HeASmzYp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[Newcomers - Enspiral Handbook](https://handbook.enspiral.com/guides/newcomers.html):
+- Join because you think this might be a place where you fit, not because you need Enspiral to do, be or deliver something specific.
+- Similarly, an Enspiral retreat may embrace one set of values (vegetarian meals) and ignore another (minimising carbon footprint)
+- So whilst Enspiral is ‘purpose-agnostic’, there will be boundaries, and those boundaries have not been defined. The work of doing so will likely happen only as the need arises, which can be seen as either efficient prioritisation of capacity or perpetuating a lack of clarity. Or anything in between.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/watch?v=Ej-4HlAHB0M&list=PLH4jIJHXyh2Gq6mgD4MwJ8Q4VLhK2DZEp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+Câu chuyện về một người sống riêng và bị đốt nhà:[Enspiral Story Dojo #01 — The House Builds You \| by Enspiral Story Dojo \| Enspiral Tales \| Medium](https://medium.com/enspiral-tales/enspiral-story-dojo-01-the-house-builds-you-f73b64a75ede)
