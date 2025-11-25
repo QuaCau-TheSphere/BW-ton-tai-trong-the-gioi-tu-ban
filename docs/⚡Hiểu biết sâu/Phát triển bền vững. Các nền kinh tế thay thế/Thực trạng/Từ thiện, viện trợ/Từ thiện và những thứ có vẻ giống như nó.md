@@ -1,7 +1,9 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-11-25T08:05
+updated: 2025-11-25T16:12
+aliases:
+  - Sự khác biệt giữa từ thiện, kinh tế quà tặng, trả cho người sau, làm việc vừa sức, dựa vào cộng đồng, ưu tiên việc khẩn cấp, giúp người không tự giúp mình được, thu nhập cơ bản vô điều kiện
 ---
 Khái niệm:: [Quà tặng](../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Qu%C3%A0%20t%E1%BA%B7ng.md), [Từ thiện](../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/T%E1%BB%AB%20thi%E1%BB%87n.md)
 
