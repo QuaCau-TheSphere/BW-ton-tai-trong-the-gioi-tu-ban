@@ -1,14 +1,11 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-10-09T16:29
+updated: 2025-11-23T09:58
 title: Đề xuất vay nợ của Nguyễn Đức Thịnh
 ---
 ## Thông tin chính
-- Số tiền vay: tối ưu thì là 10tr, còn không thì được bao nhiêu tốt bấy nhiêu
-- Hạn chót cần tiền: 10/9
-- Ngày trả: sang năm
-- Lý do: do làm chưa đủ ngày nên lương tháng này em chỉ được 4tr, trong khi em đang cần tháng này 9-10tr để xử lý hết nợ Momo + Shopee, trước khi tháng sau tập trung trả nợ bạn. (Tháng sau làm đủ ngày thì lương sẽ gấp đôi.) 
+[Hồ sơ vay nợ của Nguyễn Đức Thịnh - Google Trang tính](https://docs.google.com/sprThuốc eadsheets/d/1E2aHvDHg9rRPPBcJN_ufgF94y88HnJrjSAJyDMa6SnA/edit?usp=drivesdk) 
 
 ### Thông tin liên lạc
 - Zalo: 0918368652
@@ -28,31 +25,66 @@ Tháng 9/2024 em làm trong một nhà hàng. Lương không đủ nhưng em v�
 
 Tháng 2/2025 em làm việc ở một xưởng kim loại, nhưng vì bệnh và không đủ sức khoẻ để đáp ứng nên tiền công ở xưởng không đủ. Lại tiếp tục mượn tiếp từ tháng 2 đến tháng 4. Do xưởng thường xuyên trễ lương nên đầu tháng 5 em nghỉ để tìm việc khác.
 
-Từ tháng 6 thì em làm ở một nhà hàng với mức lương đủ để trả dần dần, nhưng không chịu nổi áp lực và phải nghỉ sau một tháng. 
+Tháng 6 em làm ở một nhà hàng với mức lương đủ để trả dần dần, nhưng không chịu nổi áp lực và phải nghỉ sau một tháng. 
 
-Tháng 9 cô kêu sẽ lên Bảo Lộc đột ngột. Mấy ngày nữa trả nhà. Vay FE trả hết mọi người,  chấp nhận nợ xấu
+Tháng 7 lên Đà Lạt kiếm việc, 1 tuần sau về, mất 12tr cho sinh hoạt, di chuyển, thuê phòng.
 
-#### Tình hình nợ hiện nay
-Xếp theo thời hạn trả 
+Tháng 8 làm cho MVillage, ca đêm. Nghỉ vì mức lương và khối lượng công việc không tương xứng
+
+Tháng 9 cô em lên Bảo Lộc đột ngột nên em phải đi thuê riêng. Cuối tháng 9 em làm cho một công ty cờ bạc (không phải lừa đảo, thị trường Philippines) được 1 tháng được 17tr rồi nghỉ vì công an đánh sập một công ty khác (có chủ của công ty này là bạn bè của sếp của công ty đang làm).
+
+Tháng 11 tìm được việc làm nhưng tháng 12 mới bắt đầu làm. Nơi làm: ÊMM Hotel (Pasteur), lương: 10tr/tháng, thời gian làm: 22:00 – 6:00. Sẽ tìm thêm việc sáng để trả nợ.
+
+### Tình trạng sức khỏe
+Mất ngủ và luốn trong trạng thái căng thẳng vì tìm việc liên tục.
+
+Tháng 9, 10, 11 năm ngoái em đã cảm thấy cuộc sống mình như địa ngục, nhưng vẫn cố gắng sống: ở sleepbox, chuyển nhà liên tục. Lúc lên Đà Lạt khi thấy không có đường để sống và quay về, em đã lên kế hoạch tự sát vào tháng 2 – cái mốc để em vẫn duy trì sự cố gắng của mình trong hiện tại.
+
+### Tình hình gia đình
+Gia đình không hỗ trợ được vì không có tiền:
+- Ba: đang làm ở xưởng may ở Bình Chánh để nuôi em trai học lớp 10
+- Mẹ: nghỉ hưu sớm ở nhà trông em
+
+Công việc đủ tiền chỉ có ở khu trung tâm
+#### Tình hình nợ hiện nay (cập nhật 21/11/2025)
 ##### Nợ tín dụng
+|                     | Momo VTS  | Momo Vay Nhanh | Shopee VTD 1 | Shopee VTD 2 | Shopee VTD 3 | Shopee trả sau                                                           |
+| ------------------- | --------- | -------------- | ------------ | ------------ | ------------ | ------------------------------------------------------------------------ |
+| Tổng số tiền đã vay |           | 32tr           | 6tr          | 2tr          | 2tr          | Chưa có thời gian cộng vì tính theo từng đơn hàng, mà đặt nhiều đơn hàng |
+| Tổng đã trả         |           |                |              |              |              |                                                                          |
+| Tổng còn phải trả   |           |                |              |              |              |                                                                          |
+| Tất toán            | Ko có     | 45.418.310     | Ko có        | Ko có        | Ko có        | Ko có                                                                    |
+| 12                  | 1.349.969 | 3.156.000      | 1.197.903    | 399.301      | 399.301      | 938.894                                                                  |
+| 1                   | 0         | nt             | nt           | nt           | nt           | nt                                                                       |
+| 2                   | 0         | nt             | nt           | nt           | nt           | 790.906                                                                  |
+| 3                   | 0         | nt             | 0            | nt           | nt           | 548.084                                                                  |
+| 4                   | 0         | nt             | 0            | 0            | nt           | 548.075                                                                  |
+| Tháng cuối          | 12/2025   | 12/2027: nt    | 2/2026       | 3/2026       | 4/2026       | 5: 318.143, 6: 223.359, 7 → 11: 147.624,                                 |
 
-| Khoản nợ                                                                                                | Số tiền mỗi tháng | Ngày trả định kỳ mỗi tháng | Lý do                                                                                     |
-| ------------------------------------------------------------------------------------------------------- | ----------------- | -------------------------- | ----------------------------------------------------------------------------------------- |
-| Momo Vay nhanh                                                                                          | 3tr157k           |                            | Sinh hoạt                                                                                 |
-| Momo Ví trả sau                                                                                         | 999.425 đ         | 10                         | Sinh hoạt                                                                                 |
-| Shopee vay tiêu dùng                                                                                    | 1.197.903 đ       | 11                         | Đồ sinh hoạt trong nhà như khung treo quần áo, kệ giày, thảm, móc, quạt, quần áo, dây sạc | 
-| [SeaBank GRB Elite](https://www.seabank.com.vn/ca-nhan/the/the-tin-dung-quoc-te/the-tin-dung-brg-elite) | 600k              |                            | Cắt các khoản lãi trước đó                                                                |
+|                     | Kredivo    | FE             | HD Visa        | HD tín dụng | Thẻ SeaBank Nhật | OCB Thịnh |
+| ------------------- | ---------- | -------------- | -------------- | ----------- | ---------------- | --------- |
+| Tổng số tiền đã vay | 8tr        | 34.887.000     | 19tr           | 5tr         | 30               | 7tr       |
+| Tồng đã trả         |            | 1.658.120 x 2  | 1.473.000      |             |                  |           |
+| Tổng còn phải trả   |            | 1.658.120 x 34 | 1.473.000 x 17 |             |                  |           |
+| Tất toán            | 8.559.985  | Đợi tới kỳ     | Đợi tới kỳ     | 5tr         | 29.888.918       | 6.950.000 |
+| 12                  | 1.218.199  | 1.658.120      |                | 5tr         |                  |           |
+| 1                   | nt         | nt             |                |             |                  |           |
+| 2                   | nt         | nt             |                |             |                  |           |
+| 3                   | nt         | nt             |                |             |                  |           |
+| Tháng cuối          | 6/2026: nt | 10/2028        | 4/2027         |             |                  |           |
+
+- Tổng các khoảng có thể tất toán: 90.817.218
 
 ##### Nợ bạn bè, người thân
-| Khoản nợ    | Số tiền                      | Thời hạn trả | Lãi | Lý do      |
-| ----------- | ---------------------------- | ------------ | --- | ---------- |
-| Mẹ Tuyên    | 3tr                          | 10/2026      | 0   | Sinh hoạt  |
-| Trí         | 300k                         | 0            | 0   | Sinh hoạt  |
-| Đồng        | 2tr5                         | 0            | 0   | Sinh hoạt  |
-| Bố mẹ Tuyên | 4tr                          | 0            | 0   | Sinh hoạt  |
-| Tuyên       | 8tr                          | 0            | 0   | Mua đt mới |
-| Nhật        | 4740k + 1495k + nửa chỉ vàng | 0            | 0   | Sinh hoạt  |
-| Mẹ Ân       | 8tr                          |              |     |            |
+| Khoản nợ | Số tiền                               | Thời hạn trả | Lãi | Lý do                   |
+| -------- | ------------------------------------- | ------------ | --- | ----------------------- |
+| Nhật     | 700k + 1495k + 1300k + nửa chỉ + boya | ∞            | 0   | Sinh hoạt               |
+| Trí      | 300k                                  | ∞            | 0   | Sinh hoạt               |
+| Đồng     | 2500k                                 | ∞            | 0   | Sinh hoạt               |
+| Linh     | 1tr                                   | 12/2025      | 0   | Sinh hoạt               |
+| Mẹ Ân    | 8tr                                   | 10/2026      | 0   | Sinh hoạt               |
+| Mẹ Tuyên | 6tr                                   | 10/2026      | 0   | Sinh hoạt               |
+| Tuyên    | 8tr                                   | 10/2026      | 0   | Đt chết cần mua cái mới |
 
 #### Đã xong
 
@@ -65,13 +97,17 @@ Xếp theo thời hạn trả
 | Ba mẹ Ân | 12tr    | 1/2028       | 0   | Tiền cọc chuyển nhà (3tr), Tiền nhà tháng đầu (3tr5), Tiền nợ Momo (4tr), sinh hoạt (tháng 1,2/2025) |           |
 | Ba       | 4tr     | 1/7          | 0   | Sinh hoạt (20/4-30/5)                                                                                |           |
 
-| Khoản nợ             | Số tiền  | Ngày trả định kỳ mỗi tháng | Lý do                                                                                     |
-| -------------------- | ----------------- | -------------------------- | ----------------------------------------------------------------------------------------- |
-| Momo                 | 5.155.647 đ       | 15/6                       | Sinh hoạt                                                                                 |
-| ShopeePay            | 4tr5              | 10                         | Sinh hoạt                                                                                 |
-| Shopee vay tiêu dùng | 8.239.216 đ       | 1                          | Đồ sinh hoạt trong nhà như khung treo quần áo, kệ giày, thảm, móc, quạt, quần áo, dây sạc |
-
 #### Cuộc sống của bạn đã thay đổi thế nào từ lúc có nợ?
+Chi phí sinh hoạt em thì hỗn loạn lắm, tối thiểu em cần 5tr mỗi tháng để xoay sở ổn (nhịn ăn cách tuần) cho các tháng đi làm, nhưng mà em cũng cần nhiều hơn để sống như một con người và giúp gia đình.
+
+Em thấy cơ bản em đã lâm vào tình cảnh mình không có ai giúp đỡ rồi, nên nếu họ giúp thì sẽ giúp em làm một công dân bình thường có cơ hội quay lại làm việc.
+
+Em có nhiều dự định để làm về mảng nghệ thuật, em cần tinh thần ổn để có thể hoàn thành các đầu sách mình đang viết, nhưng mà tạm hoãn lại vì mưu sinh
+
+Em có ước mơ trả hết nợ để có cuộc sống yên bình hơn. Em không có ước mơ kiểu kinh doanh đổi đời hay gì, chỉ muốn làm người tốt, có thể tham gia hỗ trợ những bạn bè xung quanh và những người em quan tâm
+
+Em cảm ơn vì đã quan tâm tới vấn đề này của em.
+
 Trở thành địa ngục
 
 #### Chi phí sinh hoạt hàng tháng
