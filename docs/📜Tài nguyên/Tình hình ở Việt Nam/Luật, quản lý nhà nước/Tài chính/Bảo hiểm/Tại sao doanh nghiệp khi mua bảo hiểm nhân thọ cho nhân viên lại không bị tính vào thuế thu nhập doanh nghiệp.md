@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-12-23T15:09
-updated: 2025-08-17T16:41
+updated: 2025-12-06T17:41
 title: Tại sao doanh nghiệp khi mua bảo hiểm nhân thọ cho nhân viên lại không bị tính vào thuế thu nhập doanh nghiệp?
 description: Thâm cung bí sử của Thịnh An Phát
 ---
@@ -14,7 +14,7 @@ Các công ty có nhiều cách để trốn thuế. Chẳng hạn, để tận 
 
 Hãy quay lại cách một công ty bảo hiểm được thành lập. Để mở bán một sản phẩm bảo hiểm, họ cần kí quỹ một khoảng tiền trước cho nhà nước, để nếu như công ty phá sản thì nhà nước sẽ đứng ra chi trả cho khách hàng. Tuỳ theo mức đóng mà công ty sẽ được bán bao nhiêu sản phẩm. Giả sử để được bán 50 hợp đồng Thịnh An Phát, Cathay phải cống nạp quỹ này 100 tỷ. **Số tiền này có thể xem như một phần thuế đóng trước của bên mua sản phẩm này.** Nên việc này giống như đi mua một tín chỉ carbon vậy: bạn nghĩ là bạn thoát khỏi việc phải đóng thuế, nhưng thực ra là do Cathay đã phải đóng một phần tiền tương đương với thuế của bạn rồi.
 
-[Quyết định 07/QĐ-TTg 2023 Chiến lược phát triển thị trường bảo hiểm Việt Nam 2030](https://thuvienphapluat.vn/van-ban/Bao-hiem/Quyet-dinh-07-QD-TTg-2023-Chien-luoc-phat-trien-thi-truong-bao-hiem-Viet-Nam-2030-549116.aspx "Quyết định 07/QĐ-TTg 2023 Chiến lược phát triển thị trường bảo hiểm Việt Nam 2030") đặt chỉ tiêu đến năm 2025 có 15% dân số tham gia bảo hiểm nhân thọ, đến năm 2030 có 18% dân số tham gia. Tức là vẫn còn thấp. Đến như [Mỹ với 50% dân số đã mua bảo hiểm mà vẫn còn bị xem là thấp](../../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/T%E1%BB%95%20ch%E1%BB%A9c%20t%C3%A0i%20ch%C3%ADnh/B%E1%BA%A3o%20hi%E1%BB%83m/M%E1%BB%99t%20n%E1%BB%ADa%20d%C3%A2n%20s%E1%BB%91%20M%E1%BB%B9%20c%C3%B3%20b%E1%BA%A3o%20hi%E1%BB%83m%20nh%C3%A2n%20th%E1%BB%8D.md). Trong bối cảnh cần tìm những cách thức để bảo hiểm y tế, bảo hiểm xã hội không bị quá tải, nhà nước cần sự hợp sức từ các công ty bảo hiểm. Và một trong những cách đó là khuyến khích các công ty mua bảo hiểm nhân thọ cho nhân viên.
+[Quyết định 07/QĐ-TTg 2023 Chiến lược phát triển thị trường bảo hiểm Việt Nam 2030](https://thuvienphapluat.vn/van-ban/Bao-hiem/Quyet-dinh-07-QD-TTg-2023-Chien-luoc-phat-trien-thi-truong-bao-hiem-Viet-Nam-2030-549116.aspx "Quyết định 07/QĐ-TTg 2023 Chiến lược phát triển thị trường bảo hiểm Việt Nam 2030") đặt chỉ tiêu đến năm 2025 có 15% dân số tham gia bảo hiểm nhân thọ, đến năm 2030 có 18% dân số tham gia. Tức là vẫn còn thấp. Đến như [Mỹ với 50% dân số đã mua bảo hiểm mà vẫn còn bị xem là thấp](../../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Ng%C3%A0nh%20ngh%E1%BB%81%20c%E1%BB%A5%20th%E1%BB%83/T%C3%A0i%20ch%C3%ADnh/B%E1%BA%A3o%20hi%E1%BB%83m/M%E1%BB%99t%20n%E1%BB%ADa%20d%C3%A2n%20s%E1%BB%91%20M%E1%BB%B9%20c%C3%B3%20b%E1%BA%A3o%20hi%E1%BB%83m%20nh%C3%A2n%20th%E1%BB%8D.md). Trong bối cảnh cần tìm những cách thức để bảo hiểm y tế, bảo hiểm xã hội không bị quá tải, nhà nước cần sự hợp sức từ các công ty bảo hiểm. Và một trong những cách đó là khuyến khích các công ty mua bảo hiểm nhân thọ cho nhân viên.
 
 Cần nhớ rằng sản phẩm này được bán một cách đường hoàng, đúng luật chứ không phải là bán chui. Có doanh nghiệp mua một lần 16 cái hợp đồng như vậy. Tháng vừa qua Cathay về rất nhiều hợp đồng này dù chưa tới chương trình tặng vàng, vì nhiều công ty cần tất toán thuế cuối năm, chứ mấy chỉ vàng khuyến mãi chẳng đáng là bao. Và tại sao chương trình khuyến mãi lại chạy đến hết tháng 2? Vì tháng 3 là hạn chót để doanh nghiệp quyết toán thuế. 
 
@@ -66,7 +66,7 @@ ngân hàng tư cũng nhiều mà Tư cũng incharged bởi công thôi Cơ bả
 [Gửi tiền vào bảo hiểm tuy ít lãi hơn nhưng có thể rút ra dùng tạm lúc nào cũng được. Gửi vào ngân hàng nhiều lãi hơn nhưng bị khoá](G%E1%BB%ADi%20ti%E1%BB%81n%20v%C3%A0o%20b%E1%BA%A3o%20hi%E1%BB%83m%20tuy%20%C3%ADt%20l%C3%A3i%20h%C6%A1n%20nh%C6%B0ng%20c%C3%B3%20th%E1%BB%83%20r%C3%BAt%20ra%20d%C3%B9ng%20t%E1%BA%A1m%20l%C3%BAc%20n%C3%A0o%20c%C5%A9ng%20%C4%91%C6%B0%E1%BB%A3c.%20G%E1%BB%ADi%20v%C3%A0o%20ng%C3%A2n%20h%C3%A0ng%20nhi%E1%BB%81u%20l%C3%A3i%20h%C6%A1n%20nh%C6%B0ng%20b%E1%BB%8B%20kho%C3%A1.md)
 
 
-[Giá trị hoàn lại chỉ bắt đầu có vào năm thứ 3](../../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/T%E1%BB%95%20ch%E1%BB%A9c%20t%C3%A0i%20ch%C3%ADnh/B%E1%BA%A3o%20hi%E1%BB%83m/Nguy%C3%AAn%20t%E1%BA%AFc%20ho%E1%BA%A1t%20%C4%91%E1%BB%99ng/Gi%C3%A1%20tr%E1%BB%8B%20ho%C3%A0n%20l%E1%BA%A1i%20ch%E1%BB%89%20b%E1%BA%AFt%20%C4%91%E1%BA%A7u%20c%C3%B3%20v%C3%A0o%20n%C4%83m%20th%E1%BB%A9%203.md)
+[Giá trị hoàn lại chỉ bắt đầu có vào năm thứ 3](../../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Ng%C3%A0nh%20ngh%E1%BB%81%20c%E1%BB%A5%20th%E1%BB%83/T%C3%A0i%20ch%C3%ADnh/B%E1%BA%A3o%20hi%E1%BB%83m/Nguy%C3%AAn%20t%E1%BA%AFc%20ho%E1%BA%A1t%20%C4%91%E1%BB%99ng/Gi%C3%A1%20tr%E1%BB%8B%20ho%C3%A0n%20l%E1%BA%A1i%20ch%E1%BB%89%20b%E1%BA%AFt%20%C4%91%E1%BA%A7u%20c%C3%B3%20v%C3%A0o%20n%C4%83m%20th%E1%BB%A9%203.md)
 
 [Cathay Life - Chi tiết sản phẩm](https://www.cathaylife.com.vn/cathay/product-A16.html)
 
