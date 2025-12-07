@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-11-24T13:59
+updated: 2025-12-06T17:41
 aliases:
   - Xây dựng quỹ tín dụng vi mô
   - Mạng lưới cho vay chéo, phi tập trung
