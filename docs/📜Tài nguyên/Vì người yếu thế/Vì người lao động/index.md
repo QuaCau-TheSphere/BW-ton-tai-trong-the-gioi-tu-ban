@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-12-13T19:57
-updated: 2025-08-23T20:44
+updated: 2025-12-06T17:41
 title: Vì người lao động
 ---
 ## Lao động ngoài trời
