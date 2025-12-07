@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-11-24T10:16
+updated: 2025-12-06T17:41
 ---
 - Bất động sản: 
     - [Nếu là đất nhà nước thì phải theo quy hoạch của nhà nước](../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/T%C3%ACnh%20h%C3%ACnh%20%E1%BB%9F%20Vi%E1%BB%87t%20Nam/Ng%C3%A0nh%20ngh%E1%BB%81%20c%E1%BB%A5%20th%E1%BB%83/B%E1%BA%A5t%20%C4%91%E1%BB%99ng%20s%E1%BA%A3n/N%E1%BA%BFu%20l%C3%A0%20%C4%91%E1%BA%A5t%20nh%C3%A0%20n%C6%B0%E1%BB%9Bc%20th%C3%AC%20ph%E1%BA%A3i%20theo%20quy%20ho%E1%BA%A1ch%20c%E1%BB%A7a%20nh%C3%A0%20n%C6%B0%E1%BB%9Bc.md)
