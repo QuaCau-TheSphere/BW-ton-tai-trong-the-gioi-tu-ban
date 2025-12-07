@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-04-21T10:50
-updated: 2025-10-27T10:27
+updated: 2025-12-06T17:41
 title: Phiếu giảm giá (voucher)
 ---
 Khái niệm:: 
