@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-09-17T11:13
-updated: 2025-08-31T17:04
+updated: 2025-12-06T17:41
 aliases:
   - bán bảo hiểm
   - thu hút khách hàng
@@ -24,7 +24,7 @@ Cam kết không khai thác cảm xúc của họ và tạo gánh nặng trong s
 ### Quà tặng khi mua
 - Mạng lưới kết nối nhu cầu
 - Các hệ thống tri thức để bạn có thể biết được thứ mình cần dù không biết chính xác từ khoá của nó
-- Các buổi [Hướng dẫn tìm hiểu các lĩnh vực](../../../../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/%C3%9D%20t%C6%B0%E1%BB%9Fng%20ki%E1%BA%BFm%20ti%E1%BB%81n/%C3%9D%20t%C6%B0%E1%BB%9Fng/C%C3%B4ng%20vi%E1%BB%87c%20th%E1%BB%9Di%20v%E1%BB%A5,%20c%E1%BB%99ng%20t%C3%A1c%20vi%C3%AAn/T%C3%ACm%20ng%C6%B0%E1%BB%9Di/H%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn%20t%C3%ACm%20hi%E1%BB%83u%20c%C3%A1c%20l%C4%A9nh%20v%E1%BB%B1c.md) để đáp ứng nhu cầu công việc và nhu cầu công nghệ, như:
+- Các buổi [Tổ chức các buổi thuyết trình](../../../../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/%C3%9D%20t%C6%B0%E1%BB%9Fng%20ki%E1%BA%BFm%20ti%E1%BB%81n/%C3%9D%20t%C6%B0%E1%BB%9Fng/C%C3%B4ng%20vi%E1%BB%87c%20th%E1%BB%9Di%20v%E1%BB%A5,%20c%E1%BB%99ng%20t%C3%A1c%20vi%C3%AAn/T%C3%ACm%20ng%C6%B0%E1%BB%9Di/T%E1%BB%95%20ch%E1%BB%A9c%20c%C3%A1c%20bu%E1%BB%95i%20thuy%E1%BA%BFt%20tr%C3%ACnh.md) để đáp ứng nhu cầu công việc và nhu cầu công nghệ, như:
     - Xây dựng hệ thống quản lý kiến thức 
     - Nhập sự kiện tự động và hàng loạt vào Google Calendar
     - Phân loại chi tiêu bằng tiếng Việt tự nhiên để đạt kỷ luật tài chính một cách ít nhức đầu nhất
