@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-08-31T16:22
-updated: 2025-10-21T17:43
+updated: 2025-12-06T17:41
 ---
 - [Ra khỏi thành phố sống](../../../%F0%9F%93%90D%E1%BB%B1%20%C3%A1n/Gi%C3%BAp%20nhau%20tho%C3%A1t%20n%E1%BB%A3/T%C3%A0i%20li%E1%BB%87u/Ni%E1%BB%81m%20tin/Ra%20kh%E1%BB%8Fi%20th%C3%A0nh%20ph%E1%BB%91%20s%E1%BB%91ng.md)
 - Ở ngoại ô và gần các bến xe, ga tàu
