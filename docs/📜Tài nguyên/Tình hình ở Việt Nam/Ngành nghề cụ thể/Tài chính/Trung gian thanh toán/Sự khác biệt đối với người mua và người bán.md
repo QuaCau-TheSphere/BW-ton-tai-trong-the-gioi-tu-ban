@@ -20,7 +20,7 @@ Momo có nhiều ưu đãi, khuyến mãi, dịch vụ hơn:
 - Từ thiện
 - Phân loại thu chi
 - Giáo dục tài chính
-- Ví trả sau ([Thẻ tín dụng và ví trả sau đều là các hình thức cấp tín dụng](../../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Ng%C3%A0nh%20ngh%E1%BB%81%20c%E1%BB%A5%20th%E1%BB%83/T%C3%A0i%20ch%C3%ADnh/T%C3%ADn%20d%E1%BB%A5ng/Ng%C3%A2n%20h%C3%A0ng,%20%C4%91i%E1%BB%83m%20t%C3%ADn%20d%E1%BB%A5ng/%C4%90i%E1%BB%83m%20t%C3%ADn%20d%E1%BB%A5ng/Th%E1%BA%BB%20t%C3%ADn%20d%E1%BB%A5ng%20v%C3%A0%20v%C3%AD%20tr%E1%BA%A3%20sau%20%C4%91%E1%BB%81u%20l%C3%A0%20c%C3%A1c%20h%C3%ACnh%20th%E1%BB%A9c%20c%E1%BA%A5p%20t%C3%ADn%20d%E1%BB%A5ng.md)) 
+- Ví trả sau ([Thẻ tín dụng và ví trả sau đều là các hình thức cấp tín dụng](../../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Ng%C3%A0nh%20ngh%E1%BB%81%20c%E1%BB%A5%20th%E1%BB%83/T%C3%A0i%20ch%C3%ADnh/Vay%20n%E1%BB%A3/T%C3%ADn%20ch%E1%BA%A5p/%C4%90i%E1%BB%83m%20t%C3%ADn%20d%E1%BB%A5ng/Th%E1%BA%BB%20t%C3%ADn%20d%E1%BB%A5ng%20v%C3%A0%20v%C3%AD%20tr%E1%BA%A3%20sau%20%C4%91%E1%BB%81u%20l%C3%A0%20c%C3%A1c%20h%C3%ACnh%20th%E1%BB%A9c%20c%E1%BA%A5p%20t%C3%ADn%20d%E1%BB%A5ng.md)) 
 
 nhưng chính vì momo tiện lợi như vậy nên nếu xét trên phương diện phản đối chủ nghĩa tiêu thụ thì nó cũng tệ hơn. Cạm bẫy vay nhanh, mua trước trả sau khá là nhiều
 
