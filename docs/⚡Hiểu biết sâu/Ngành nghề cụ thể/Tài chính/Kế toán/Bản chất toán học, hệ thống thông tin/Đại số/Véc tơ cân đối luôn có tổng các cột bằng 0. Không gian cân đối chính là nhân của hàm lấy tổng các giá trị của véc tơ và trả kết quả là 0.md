@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-11-24T10:16
+updated: 2025-12-06T17:41
 ---
 Khái niệm:: 
 Hàm $$σ: R^n → R$$ là hàm từ mô đun tự do $R^n$ vào miền được sắp $R$. $$σ(\textbf{v}) = \sum^n_{i=1}v_i$$
