@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-11-09T12:38
-updated: 2025-09-21T09:17
+updated: 2025-12-06T17:41
 ---
 Khái niệm:: [Người khuyết tật](../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Ng%C6%B0%E1%BB%9Di%20khuy%E1%BA%BFt%20t%E1%BA%ADt.md)
 Kết quả điều tra VDS 2023 cho thấy tỷ lệ người khuyết tật tham gia lực lượng lao động, tỷ lệ người khuyết tật trong độ tuổi lao động đang làm việc trong nền kinh tế thấp hơn rất nhiều so với tỷ lệ chung. Đồng thời có sự chênh lệch lớn giữa người khuyết tật và người không khuyết tật trong việc tham gia lực lượng lao động và người khuyết tật trong độ tuổi lao động đang làm việc; các tỷ lệ này có độ chênh lệch lớn hơn năm 2016. Cũng có sự khác biệt lớn của 2 tỷ lệ này theo độ tuổi và theo khuyết tật về chức năng, cụ thể như sau:
