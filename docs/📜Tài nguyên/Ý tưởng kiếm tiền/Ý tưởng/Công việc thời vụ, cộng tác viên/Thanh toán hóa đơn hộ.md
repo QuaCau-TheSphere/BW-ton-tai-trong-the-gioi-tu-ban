@@ -2,7 +2,7 @@
 share: true
 description: "Số tiền kiếm được: "
 created: 2025-03-27T17:13
-updated: 2025-10-07T16:50
+updated: 2025-12-06T17:41
 ---
 Mô tả công việc:: 
 Số tiền kiếm được:: 150-250 k/ngày
@@ -35,9 +35,9 @@ Hình thức công việc::
 Kiến thức, kỹ năng::
 Nguyên liệu, nguồn thông tin::
 Nơi làm việc:: [Làm qua mạng](../../%C4%90%E1%BA%B7c%20%C4%91i%E1%BB%83m%20c%C3%B4ng%20vi%E1%BB%87c/N%C6%A1i%20l%C3%A0m%20vi%E1%BB%87c/L%C3%A0m%20qua%20m%E1%BA%A1ng.md)
-Thời điểm làm việc::
+Thời gian làm việc::
 Yêu cầu công nghệ::
-Thời gian trả tiền:: [Trả theo ngày](../../%C4%90%E1%BA%B7c%20%C4%91i%E1%BB%83m%20c%C3%B4ng%20vi%E1%BB%87c/Th%E1%BB%9Di%20%C4%91i%E1%BB%83m%20tr%E1%BA%A3%20ti%E1%BB%81n/Tr%E1%BA%A3%20theo%20ng%C3%A0y.md)
+Thời điểm trả tiền:: [Trả theo ngày](../../%C4%90%E1%BA%B7c%20%C4%91i%E1%BB%83m%20c%C3%B4ng%20vi%E1%BB%87c/Th%E1%BB%9Di%20%C4%91i%E1%BB%83m%20tr%E1%BA%A3%20ti%E1%BB%81n/Tr%E1%BA%A3%20theo%20ng%C3%A0y.md)
 Đặc điểm khác::
 
 ## Nơi thảo luận
