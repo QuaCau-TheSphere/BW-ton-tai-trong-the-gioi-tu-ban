@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-04-09T00:11
-updated: 2025-11-01T10:41
+updated: 2025-12-06T17:41
 ---
 [Cảnh giác lừa đảo](../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/C%E1%BA%A3nh%20gi%C3%A1c%20l%E1%BB%ABa%20%C4%91%E1%BA%A3o/index.md)
 - \-: 
@@ -13,7 +13,7 @@ updated: 2025-11-01T10:41
     - [Lừa đảo hội lừa đảo](../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/%C3%9D%20t%C6%B0%E1%BB%9Fng%20ki%E1%BA%BFm%20ti%E1%BB%81n/%C3%9D%20t%C6%B0%E1%BB%9Fng/C%C3%B4ng%20vi%E1%BB%87c%20th%E1%BB%9Di%20v%E1%BB%A5,%20c%E1%BB%99ng%20t%C3%A1c%20vi%C3%AAn/L%E1%BB%ABa%20%C4%91%E1%BA%A3o%20h%E1%BB%99i%20l%E1%BB%ABa%20%C4%91%E1%BA%A3o.md)
 
 - Làm kết quả ảo: 
-    - [Việc dung dưỡng cho mình gian lận sẽ làm cho mình không dám tố cáo công ty lừa đảo](../H%C3%ACnh%20th%E1%BB%A9c%20ki%E1%BA%BFm%20ti%E1%BB%81n/L%C3%A0m%20thu%C3%AA/L%C3%A0m%20k%E1%BA%BFt%20qu%E1%BA%A3%20%E1%BA%A3o/Vi%E1%BB%87c%20dung%20d%C6%B0%E1%BB%A1ng%20cho%20m%C3%ACnh%20gian%20l%E1%BA%ADn%20s%E1%BA%BD%20l%C3%A0m%20cho%20m%C3%ACnh%20kh%C3%B4ng%20d%C3%A1m%20t%E1%BB%91%20c%C3%A1o%20c%C3%B4ng%20ty%20l%E1%BB%ABa%20%C4%91%E1%BA%A3o.md)
+    - [Việc công ty dung dưỡng cho mình gian lận sẽ làm cho mình không dám tố cáo công ty lừa đảo](../H%C3%ACnh%20th%E1%BB%A9c%20ki%E1%BA%BFm%20ti%E1%BB%81n/L%C3%A0m%20thu%C3%AA/L%C3%A0m%20k%E1%BA%BFt%20qu%E1%BA%A3%20%E1%BA%A3o/Vi%E1%BB%87c%20c%C3%B4ng%20ty%20dung%20d%C6%B0%E1%BB%A1ng%20cho%20m%C3%ACnh%20gian%20l%E1%BA%ADn%20s%E1%BA%BD%20l%C3%A0m%20cho%20m%C3%ACnh%20kh%C3%B4ng%20d%C3%A1m%20t%E1%BB%91%20c%C3%A1o%20c%C3%B4ng%20ty%20l%E1%BB%ABa%20%C4%91%E1%BA%A3o.md)
 
 - Rửa tiền, trốn thuế: 
     - [Không phải công ty dám rửa tiền nào cũng lừa đảo nhân viên và khách hàng](../H%C3%ACnh%20th%E1%BB%A9c%20ki%E1%BA%BFm%20ti%E1%BB%81n/Thi%E1%BA%BFu%20li%C3%AAm%20ch%C3%ADnh/R%E1%BB%ADa%20ti%E1%BB%81n,%20tr%E1%BB%91n%20thu%E1%BA%BF/Kh%C3%B4ng%20ph%E1%BA%A3i%20c%C3%B4ng%20ty%20d%C3%A1m%20r%E1%BB%ADa%20ti%E1%BB%81n%20n%C3%A0o%20c%C5%A9ng%20l%E1%BB%ABa%20%C4%91%E1%BA%A3o%20nh%C3%A2n%20vi%C3%AAn%20v%C3%A0%20kh%C3%A1ch%20h%C3%A0ng.md)
