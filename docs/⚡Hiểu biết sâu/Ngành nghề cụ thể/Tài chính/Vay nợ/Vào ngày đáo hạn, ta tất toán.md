@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-12-27T14:40
-updated: 2025-11-24T10:16
+updated: 2025-12-06T17:41
 ---
 Khái niệm:: 
 Đáo hạn là ngày, tất toán là hành động
