@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-04-14T14:39
-updated: 2025-09-11T09:46
+updated: 2025-12-06T17:41
 title: Tài chính vi mô
 ---
 Khái niệm:: 
