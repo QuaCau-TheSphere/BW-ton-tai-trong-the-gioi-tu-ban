@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-10-12T14:37
-updated: 2025-07-09T17:32
+updated: 2025-12-06T17:41
 ---
 Khái niệm:: 
 [Có nỗ lực mới có đền đáp](./C%C3%B3%20n%E1%BB%97%20l%E1%BB%B1c%20m%E1%BB%9Bi%20c%C3%B3%20%C4%91%E1%BB%81n%20%C4%91%C3%A1p.md)
