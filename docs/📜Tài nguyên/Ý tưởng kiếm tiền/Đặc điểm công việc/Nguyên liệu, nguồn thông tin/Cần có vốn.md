@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-09-15T15:50
-updated: 2025-07-09T17:32
+updated: 2025-12-06T17:41
 ---
 - [Kinh doanh online](../../%C3%9D%20t%C6%B0%E1%BB%9Fng/T%E1%BB%B1%20kinh%20doanh,%20%C4%91%E1%BA%A7u%20t%C6%B0/Kinh%20doanh%20online.md)
 - [Cho vay lấy lãi](../../%C3%9D%20t%C6%B0%E1%BB%9Fng/T%E1%BB%B1%20kinh%20doanh,%20%C4%91%E1%BA%A7u%20t%C6%B0/Cho%20vay%20l%E1%BA%A5y%20l%C3%A3i.md)

@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-04-15T23:34
-updated: 2025-09-16T09:11
+updated: 2025-12-06T17:41
 ---
 Khái niệm:: [Đáo](../../../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Vay,%20n%E1%BB%A3/%C4%90%C3%A1o.md)
 Thực chất khi làm đáo là sự hợp tác của 3 bên:
@@ -19,5 +19,5 @@ Các ngân hàng lấy phí POS là 1%. Bên cửa hàng lấy thêm 0.5%. Tới
 
 Phải rải rác với các điểm bán và chia phần trăm. Phải đủ doanh số. Giống khoán. Phải charge đủ 3 tỉ
 Một điểm bán thu cả ngàn tỉ
-
 Nguồn:: [ĐHMT](../../../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Ngu%E1%BB%93n/%C4%90HMT.md)
+[Dùng thẻ tín dụng cho mã ngành xăng dầu thường không được hoàn vì dễ khai khống](./D%C3%B9ng%20th%E1%BA%BB%20t%C3%ADn%20d%E1%BB%A5ng%20cho%20m%C3%A3%20ng%C3%A0nh%20x%C4%83ng%20d%E1%BA%A7u%20th%C6%B0%E1%BB%9Dng%20kh%C3%B4ng%20%C4%91%C6%B0%E1%BB%A3c%20ho%C3%A0n%20v%C3%AC%20d%E1%BB%85%20khai%20kh%E1%BB%91ng.md)

@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-10-05T14:45
-updated: 2025-07-09T17:32
+updated: 2025-12-06T17:41
 ---
 [Kế hoạch bán bảo hiểm cho cá nhân](../../Ki%E1%BA%BFm%20kh%C3%A1ch/K%E1%BA%BF%20ho%E1%BA%A1ch%20b%C3%A1n%20b%E1%BA%A3o%20hi%E1%BB%83m%20cho%20c%C3%A1%20nh%C3%A2n.md)
 [Cách để gặp được những người hay suy nghĩ đến cảnh tai nạn, ung thư, chết chóc](../../Ki%E1%BA%BFm%20kh%C3%A1ch/Ng%C6%B0%E1%BB%9Di%20hay%20suy%20ngh%C4%A9%20%C4%91%E1%BA%BFn%20c%E1%BA%A3nh%20tai%20n%E1%BA%A1n,%20ung%20th%C6%B0,%20ch%E1%BA%BFt%20ch%C3%B3c/C%C3%A1ch%20%C4%91%E1%BB%83%20g%E1%BA%B7p%20%C4%91%C6%B0%E1%BB%A3c%20nh%E1%BB%AFng%20ng%C6%B0%E1%BB%9Di%20hay%20suy%20ngh%C4%A9%20%C4%91%E1%BA%BFn%20c%E1%BA%A3nh%20tai%20n%E1%BA%A1n,%20ung%20th%C6%B0,%20ch%E1%BA%BFt%20ch%C3%B3c.md)

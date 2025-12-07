@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-05-26T14:51
-updated: 2025-07-09T17:32
+updated: 2025-12-06T17:41
 ---
 Khái niệm:: [Cạnh tranh](../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/C%E1%BA%A1nh%20tranh.md), [Tiền](../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Ti%E1%BB%81n.md)
 

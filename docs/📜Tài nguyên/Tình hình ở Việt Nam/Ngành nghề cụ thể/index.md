@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-12-24T22:02
-updated: 2025-08-21T12:36
+updated: 2025-12-06T17:41
 title: Ngành nghề cụ thể
 ---
 

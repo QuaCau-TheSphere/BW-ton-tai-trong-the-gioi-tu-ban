@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-09-14T21:17
-updated: 2025-11-20T15:06
+updated: 2025-12-06T17:41
 aliases:
   - Giảm thiệt hại khi quyết định xù nợ vay nóng
 ---

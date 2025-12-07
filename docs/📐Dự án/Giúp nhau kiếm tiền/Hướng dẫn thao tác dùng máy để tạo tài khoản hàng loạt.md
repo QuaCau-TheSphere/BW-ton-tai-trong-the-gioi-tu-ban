@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-07-16T18:52
+updated: 2025-12-06T17:41
 ---
 Mô tả công việc:: [Đăng ký tài khoản hàng loạt](../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/%C3%9D%20t%C6%B0%E1%BB%9Fng%20ki%E1%BA%BFm%20ti%E1%BB%81n/%C3%9D%20t%C6%B0%E1%BB%9Fng/C%C3%B4ng%20vi%E1%BB%87c%20th%E1%BB%9Di%20v%E1%BB%A5,%20c%E1%BB%99ng%20t%C3%A1c%20vi%C3%AAn/S%C4%83n%20khuy%E1%BA%BFn%20m%C3%A3i,%20gi%E1%BA%A3m%20gi%C3%A1/%C4%90%C4%83ng%20k%C3%BD%20t%C3%A0i%20kho%E1%BA%A3n%20h%C3%A0ng%20lo%E1%BA%A1t.md)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Nzs6cyP5rpE?si=hWqdKw5rXRy6R_0H" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

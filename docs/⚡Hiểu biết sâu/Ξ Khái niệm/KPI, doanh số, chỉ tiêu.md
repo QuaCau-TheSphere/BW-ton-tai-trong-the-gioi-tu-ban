@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-04-29T10:55
-updated: 2025-07-09T17:32
+updated: 2025-12-06T17:41
 ---
 - \-: 
     - [KPI không giảm vào những tháng có ngày nghỉ lễ](../M%C3%B4%20h%C3%ACnh%20nh%C3%A2n%20s%E1%BB%B1/%C4%90%E1%BA%A1i%20l%C3%BD,%20l%C6%B0%C6%A1ng%20kho%C3%A1n,%20KPI/KPI%20kh%C3%B4ng%20gi%E1%BA%A3m%20v%C3%A0o%20nh%E1%BB%AFng%20th%C3%A1ng%20c%C3%B3%20ng%C3%A0y%20ngh%E1%BB%89%20l%E1%BB%85.md)

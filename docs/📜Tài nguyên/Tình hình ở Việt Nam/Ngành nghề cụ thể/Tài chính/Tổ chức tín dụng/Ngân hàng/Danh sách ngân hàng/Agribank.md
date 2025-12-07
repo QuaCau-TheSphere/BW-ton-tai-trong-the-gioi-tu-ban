@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-08-31T11:15
-updated: 2025-09-03T21:05
+updated: 2025-12-06T17:41
 ---
 Tên thương hiệu:: Agribank
 Phân loại:: [Thương mại Nhà nước](Th%C6%B0%C6%A1ng%20m%E1%BA%A1i%20Nh%C3%A0%20n%C6%B0%E1%BB%9Bc.md)

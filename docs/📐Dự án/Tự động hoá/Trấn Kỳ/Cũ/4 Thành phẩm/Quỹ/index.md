@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2025-08-16T22:05
+updated: 2025-12-06T17:41
 aliases:
   - Kế hoạch gây quỹ
   - Kêu gọi đầu tư
@@ -29,7 +29,7 @@ Nếu chỉ xem cộng đồng như là sân sau của công ty, để có thể
 
 Mô hình tương tự như [Y Combinator](Y%20Combinator.md), Docker, Deno, WordPress 
 
-Xem thêm:: [Việc có được khách hàng mới có thể tốn kém hơn từ 5 đến 25 lần so với việc giữ chân một khách hàng hiện có](../../../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Ki%E1%BA%BFm%20ti%E1%BB%81n/T%E1%BB%B1%20%C4%91%E1%BA%A7u%20t%C6%B0/Vi%E1%BB%87c%20c%C3%B3%20%C4%91%C6%B0%E1%BB%A3c%20kh%C3%A1ch%20h%C3%A0ng%20m%E1%BB%9Bi%20c%C3%B3%20th%E1%BB%83%20t%E1%BB%91n%20k%C3%A9m%20h%C6%A1n%20t%E1%BB%AB%205%20%C4%91%E1%BA%BFn%2025%20l%E1%BA%A7n%20so%20v%E1%BB%9Bi%20vi%E1%BB%87c%20gi%E1%BB%AF%20ch%C3%A2n%20m%E1%BB%99t%20kh%C3%A1ch%20h%C3%A0ng%20hi%E1%BB%87n%20c%C3%B3.md)
+Xem thêm:: [Việc có được khách hàng mới có thể tốn kém hơn từ 5 đến 25 lần so với việc giữ chân một khách hàng hiện có](../../../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/H%C3%ACnh%20th%E1%BB%A9c%20ki%E1%BA%BFm%20ti%E1%BB%81n/T%E1%BB%B1%20%C4%91%E1%BA%A7u%20t%C6%B0/Vi%E1%BB%87c%20c%C3%B3%20%C4%91%C6%B0%E1%BB%A3c%20kh%C3%A1ch%20h%C3%A0ng%20m%E1%BB%9Bi%20c%C3%B3%20th%E1%BB%83%20t%E1%BB%91n%20k%C3%A9m%20h%C6%A1n%20t%E1%BB%AB%205%20%C4%91%E1%BA%BFn%2025%20l%E1%BA%A7n%20so%20v%E1%BB%9Bi%20vi%E1%BB%87c%20gi%E1%BB%AF%20ch%C3%A2n%20m%E1%BB%99t%20kh%C3%A1ch%20h%C3%A0ng%20hi%E1%BB%87n%20c%C3%B3.md)
 
 [Kế hoạch xây dựng cộng đồng phát triển Trấn Kỳ](../K%E1%BA%BF%20ho%E1%BA%A1ch/K%E1%BA%BF%20ho%E1%BA%A1ch%20x%C3%A2y%20d%E1%BB%B1ng%20c%E1%BB%99ng%20%C4%91%E1%BB%93ng%20ph%C3%A1t%20tri%E1%BB%83n%20Tr%E1%BA%A5n%20K%E1%BB%B3.md)
 [Kế hoạch xây dựng đội ngũ](../%C4%90%E1%BB%99i%20ng%C5%A9/K%E1%BA%BF%20ho%E1%BA%A1ch%20x%C3%A2y%20d%E1%BB%B1ng%20%C4%91%E1%BB%99i%20ng%C5%A9.md)

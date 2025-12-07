@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-11-24T10:16
+updated: 2025-12-06T17:41
 ---
 Khái niệm:: 
 chú sẽ nói gì với những người đã có trải nghiệm làm nông dân và thấy nó cơ cực, trong khi vẫn còn đang là nguồn thu nhập chính của những người khác? Liệu về làm nông có trở thành một rủi ro lớn của họ không?

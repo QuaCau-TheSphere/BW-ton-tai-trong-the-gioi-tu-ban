@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-05-26T14:51
-updated: 2025-10-08T10:50
+updated: 2025-12-06T17:41
 ---
 Khái niệm:: [GDP](../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/GDP.md)
 [VN ký các hiệp định thương mại đầu tiên vào năm 1995](./VN%20k%C3%BD%20c%C3%A1c%20hi%E1%BB%87p%20%C4%91%E1%BB%8Bnh%20th%C6%B0%C6%A1ng%20m%E1%BA%A1i%20%C4%91%E1%BA%A7u%20ti%C3%AAn%20v%C3%A0o%20n%C4%83m%201995.md)

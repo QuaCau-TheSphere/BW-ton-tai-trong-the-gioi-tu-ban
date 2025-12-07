@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-11-24T10:16
+updated: 2025-12-06T17:41
 ---
 Khái niệm:: [Thanh toán không tiền mặt](../../../../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Thanh%20to%C3%A1n%20kh%C3%B4ng%20ti%E1%BB%81n%20m%E1%BA%B7t.md)
 

@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2025-10-27T09:40
+updated: 2025-12-06T17:41
 ---
 Khái niệm:: [Chạy ảo, làm ảo, nhân sự ảo](../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Ch%E1%BA%A1y%20%E1%BA%A3o,%20l%C3%A0m%20%E1%BA%A3o,%20nh%C3%A2n%20s%E1%BB%B1%20%E1%BA%A3o.md)
 

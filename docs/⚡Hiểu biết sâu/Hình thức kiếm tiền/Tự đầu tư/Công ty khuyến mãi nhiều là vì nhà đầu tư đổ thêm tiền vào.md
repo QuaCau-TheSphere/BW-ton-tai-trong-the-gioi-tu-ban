@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-04-07T15:27
-updated: 2025-10-08T10:38
+updated: 2025-12-06T17:41
 aliases:
   - Liệu công ty X có đang lừa đảo, rửa tiền không?
 ---
@@ -22,7 +22,7 @@ Ngoài ra, khi có dữ liệu người dùng.
 ### Từ đầu tư làm ăn khác
 Ngoài ra công ty cũng có thể ăn tiền trong khoảng thời gian chờ tiền rút về. Như VNPAY là 12 tiếng, còn GM Mall là tới 3 ngày. Khoảng thời gian đó đủ để các công ty có thể đem đi đầu tư kiếm lời hoặc cho vay ngắn ngày rồi. 
 
-[Ngân hàng cấp tín dụng bằng việc nhìn số tiền trong tài khoản vào cuối ngày](../../Ng%C3%A0nh%20ngh%E1%BB%81%20c%E1%BB%A5%20th%E1%BB%83/T%C3%A0i%20ch%C3%ADnh/T%C3%ADn%20d%E1%BB%A5ng/D%E1%BB%B1a%20tr%C3%AAn%20%C4%91i%E1%BB%83m%20t%C3%ADn%20d%E1%BB%A5ng/Ng%C3%A2n%20h%C3%A0ng/Ng%C3%A2n%20h%C3%A0ng%20c%E1%BA%A5p%20t%C3%ADn%20d%E1%BB%A5ng%20b%E1%BA%B1ng%20vi%E1%BB%87c%20nh%C3%ACn%20s%E1%BB%91%20ti%E1%BB%81n%20trong%20t%C3%A0i%20kho%E1%BA%A3n%20v%C3%A0o%20cu%E1%BB%91i%20ng%C3%A0y.md). Mỗi tối ngân hàng thấy tiền vẫn có ở đó là cấp hạn mức rồi, có khi còn vay lại của nó.
+[Ngân hàng cấp tín dụng bằng việc nhìn số tiền trong tài khoản vào cuối ngày](../../Ng%C3%A0nh%20ngh%E1%BB%81%20c%E1%BB%A5%20th%E1%BB%83/T%C3%A0i%20ch%C3%ADnh/Vay%20n%E1%BB%A3/T%C3%ADn%20ch%E1%BA%A5p/D%E1%BB%B1a%20tr%C3%AAn%20%C4%91i%E1%BB%83m%20t%C3%ADn%20d%E1%BB%A5ng/Ng%C3%A2n%20h%C3%A0ng/Ng%C3%A2n%20h%C3%A0ng%20c%E1%BA%A5p%20t%C3%ADn%20d%E1%BB%A5ng%20b%E1%BA%B1ng%20vi%E1%BB%87c%20nh%C3%ACn%20s%E1%BB%91%20ti%E1%BB%81n%20trong%20t%C3%A0i%20kho%E1%BA%A3n%20v%C3%A0o%20cu%E1%BB%91i%20ng%C3%A0y.md). Mỗi tối ngân hàng thấy tiền vẫn có ở đó là cấp hạn mức rồi, có khi còn vay lại của nó.
 
 Nhiều người từ momo qua. Nhẵn mặt với nhau
 

@@ -1,17 +1,18 @@
 ---
 share: true
 created: 2025-04-07T15:27
+updated: 2025-12-06T17:41
 aliases:
   - Liệu công ty X có đang lừa đảo, rửa tiền không?
   - App lừa đảo vẫn lên được mấy cái appstore
-  - Người ta có thể làm giấy tờ giả
-updated: 2025-10-08T10:38
 ---
 ## Sao công ty này lại cho nhiều khuyến mãi quá vậy? Có phải là lừa đảo không?
 Có một niềm tin phổ biến rằng [không có gì là miễn phí thực sự cả](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Ni%E1%BB%81m%20tin,%20di%E1%BB%85n%20ng%C3%B4n/Ti%E1%BB%81n/Kh%C3%B4ng%20c%C3%B3%20g%C3%AC%20l%C3%A0%20mi%E1%BB%85n%20ph%C3%AD%20th%E1%BB%B1c%20s%E1%BB%B1%20c%E1%BA%A3.md). Nên nếu mà có ai cho mình nhiều tiền như vậy thì chắc là lừa đảo. Khi đối diện với các hoài nghi như vậy, các công ty thường lập luận rằng họ có giấy phép kinh doanh hợp pháp, và có hàng chục văn phòng đại diện toàn quốc với hàng ngàn nhân viên. Khách hàng nghi ngờ thì cứ mời lên trụ sở công ty để kiểm chứng. Thậm chí cứ việc đi tố cáo công an thoải mái. "Tôi biết cái công ty này đang lừa đảo nè. Hãy bắt bọn chúng đi".
 
 Nhưng nghĩ kỹ lại thì không phải cứ có giấy tờ hợp pháp thì là không lừa đảo. Có mấy vụ mua bán đất bằng giấy tờ giả các kiểu. Tương tự, các lập luận rằng nó có app trên CH Play và Appstore cũng không đảm bảo rằng nó không lừa đảo. App lừa đảo vẫn lên được mấy cái Appstore. Nhưng những vụ đó có vẻ như khác với các công ty này ở chỗ nó không cần tuyển nhiều người. Các công ty mà thực sự mở được nhiều văn phòng như vậy chắc không dại gì làm giấy tờ giả, nên ta có thể bỏ qua trường hợp này.
 [Những trang web giả mạo không chỉ dùng để lừa người dân, mà còn có thể dùng khi cần hạ thấp uy tín công ty thật](../Thi%E1%BA%BFu%20li%C3%AAm%20ch%C3%ADnh/Gi%E1%BA%A3%20m%E1%BA%A1o,%20l%E1%BB%ABa%20%C4%91%E1%BA%A3o/Nh%E1%BB%AFng%20trang%20web%20gi%E1%BA%A3%20m%E1%BA%A1o%20kh%C3%B4ng%20ch%E1%BB%89%20d%C3%B9ng%20%C4%91%E1%BB%83%20l%E1%BB%ABa%20ng%C6%B0%E1%BB%9Di%20d%C3%A2n,%20m%C3%A0%20c%C3%B2n%20c%C3%B3%20th%E1%BB%83%20d%C3%B9ng%20khi%20c%E1%BA%A7n%20h%E1%BA%A1%20th%E1%BA%A5p%20uy%20t%C3%ADn%20c%C3%B4ng%20ty%20th%E1%BA%ADt.md)
+[Văn bản đóng mộc cũng có thể bị làm giả](../Thi%E1%BA%BFu%20li%C3%AAm%20ch%C3%ADnh/Gi%E1%BA%A3%20m%E1%BA%A1o,%20l%E1%BB%ABa%20%C4%91%E1%BA%A3o/%C4%90i%E1%BB%81u%20c%E1%BA%A7n%20%C4%91%E1%BB%83%20%C3%BD/V%C4%83n%20b%E1%BA%A3n%20%C4%91%C3%B3ng%20m%E1%BB%99c%20c%C5%A9ng%20c%C3%B3%20th%E1%BB%83%20b%E1%BB%8B%20l%C3%A0m%20gi%E1%BA%A3.md)
+[Việc công ty có dấu mộc, thuê văn phòng khắp cả nước, đăng ký pháp lý, làm việc với cơ quan nhà nước có uy tín không có nghĩa là không có khả năng lừa đảo](../Thi%E1%BA%BFu%20li%C3%AAm%20ch%C3%ADnh/Gi%E1%BA%A3%20m%E1%BA%A1o,%20l%E1%BB%ABa%20%C4%91%E1%BA%A3o/%C4%90i%E1%BB%81u%20c%E1%BA%A7n%20%C4%91%E1%BB%83%20%C3%BD/C%C3%B4ng%20ty/Vi%E1%BB%87c%20c%C3%B4ng%20ty%20c%C3%B3%20d%E1%BA%A5u%20m%E1%BB%99c,%20thu%C3%AA%20v%C4%83n%20ph%C3%B2ng%20kh%E1%BA%AFp%20c%E1%BA%A3%20n%C6%B0%E1%BB%9Bc,%20%C4%91%C4%83ng%20k%C3%BD%20ph%C3%A1p%20l%C3%BD,%20l%C3%A0m%20vi%E1%BB%87c%20v%E1%BB%9Bi%20c%C6%A1%20quan%20nh%C3%A0%20n%C6%B0%E1%BB%9Bc%20c%C3%B3%20uy%20t%C3%ADn%20kh%C3%B4ng%20c%C3%B3%20ngh%C4%A9a%20l%C3%A0%20kh%C3%B4ng%20c%C3%B3%20kh%E1%BA%A3%20n%C4%83ng%20l%E1%BB%ABa%20%C4%91%E1%BA%A3o.md)
 
 momo ngày xưa cũng khuyến mãi nhiều
 Vậy nếu là giấy tờ thật, thì tiền đâu mà khuyến mãi như vậy?
@@ -25,7 +26,7 @@ Ngoài ra, khi có dữ liệu người dùng.
 ### Từ đầu tư tiền ngắn hạn
 Ngoài ra công ty cũng có thể ăn tiền trong khoảng thời gian chờ tiền rút về. Như VNPAY là 12 tiếng, còn GM Mall là tới 3 ngày. Khoảng thời gian đó đủ để các công ty có thể đem đi đầu tư kiếm lời hoặc cho vay ngắn ngày rồi. 
 
-[Ngân hàng cấp tín dụng bằng việc nhìn số tiền trong tài khoản vào cuối ngày](../../Ng%C3%A0nh%20ngh%E1%BB%81%20c%E1%BB%A5%20th%E1%BB%83/T%C3%A0i%20ch%C3%ADnh/T%C3%ADn%20d%E1%BB%A5ng/D%E1%BB%B1a%20tr%C3%AAn%20%C4%91i%E1%BB%83m%20t%C3%ADn%20d%E1%BB%A5ng/Ng%C3%A2n%20h%C3%A0ng/Ng%C3%A2n%20h%C3%A0ng%20c%E1%BA%A5p%20t%C3%ADn%20d%E1%BB%A5ng%20b%E1%BA%B1ng%20vi%E1%BB%87c%20nh%C3%ACn%20s%E1%BB%91%20ti%E1%BB%81n%20trong%20t%C3%A0i%20kho%E1%BA%A3n%20v%C3%A0o%20cu%E1%BB%91i%20ng%C3%A0y.md). Mỗi tối ngân hàng thấy tiền vẫn có ở đó là cấp hạn mức rồi, có khi còn vay lại của nó.
+[Ngân hàng cấp tín dụng bằng việc nhìn số tiền trong tài khoản vào cuối ngày](../../Ng%C3%A0nh%20ngh%E1%BB%81%20c%E1%BB%A5%20th%E1%BB%83/T%C3%A0i%20ch%C3%ADnh/Vay%20n%E1%BB%A3/T%C3%ADn%20ch%E1%BA%A5p/D%E1%BB%B1a%20tr%C3%AAn%20%C4%91i%E1%BB%83m%20t%C3%ADn%20d%E1%BB%A5ng/Ng%C3%A2n%20h%C3%A0ng/Ng%C3%A2n%20h%C3%A0ng%20c%E1%BA%A5p%20t%C3%ADn%20d%E1%BB%A5ng%20b%E1%BA%B1ng%20vi%E1%BB%87c%20nh%C3%ACn%20s%E1%BB%91%20ti%E1%BB%81n%20trong%20t%C3%A0i%20kho%E1%BA%A3n%20v%C3%A0o%20cu%E1%BB%91i%20ng%C3%A0y.md). Mỗi tối ngân hàng thấy tiền vẫn có ở đó là cấp hạn mức rồi, có khi còn vay lại của nó.
 
 Xem thêm:: [Công ty ra chính sách khó cho nhân viên không đơn thuần là vì tham tiền, mà còn là vì nhà đầu tư cần tiền được lưu thông, hoặc thậm chí là rửa tiền](../Thi%E1%BA%BFu%20li%C3%AAm%20ch%C3%ADnh/R%E1%BB%ADa%20ti%E1%BB%81n,%20tr%E1%BB%91n%20thu%E1%BA%BF/C%C3%B4ng%20ty%20ra%20ch%C3%ADnh%20s%C3%A1ch%20kh%C3%B3%20cho%20nh%C3%A2n%20vi%C3%AAn%20kh%C3%B4ng%20%C4%91%C6%A1n%20thu%E1%BA%A7n%20l%C3%A0%20v%C3%AC%20tham%20ti%E1%BB%81n,%20m%C3%A0%20c%C3%B2n%20l%C3%A0%20v%C3%AC%20nh%C3%A0%20%C4%91%E1%BA%A7u%20t%C6%B0%20c%E1%BA%A7n%20ti%E1%BB%81n%20%C4%91%C6%B0%E1%BB%A3c%20l%C6%B0u%20th%C3%B4ng,%20ho%E1%BA%B7c%20th%E1%BA%ADm%20ch%C3%AD%20l%C3%A0%20r%E1%BB%ADa%20ti%E1%BB%81n.md)
 

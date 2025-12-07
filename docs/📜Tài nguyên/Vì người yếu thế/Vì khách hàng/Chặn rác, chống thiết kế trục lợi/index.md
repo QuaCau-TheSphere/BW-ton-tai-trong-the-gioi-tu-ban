@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-11-01T11:02
+updated: 2025-12-06T17:41
 title: Chặn rác, chống thiết kế trục lợi
 ---
 Khái niệm:: [Trục lợi](../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Tr%E1%BB%A5c%20l%E1%BB%A3i.md), [Khai thác điểm yếu con người](../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Khai%20th%C3%A1c%20%C4%91i%E1%BB%83m%20y%E1%BA%BFu%20con%20ng%C6%B0%E1%BB%9Di.md)
@@ -25,9 +25,9 @@ Khái niệm:: [Trục lợi](../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%2
 
 - Web: 
     - [Chặn quảng cáo trên trình duyệt](./Web/Ch%E1%BA%B7n%20qu%E1%BA%A3ng%20c%C3%A1o%20tr%C3%AAn%20tr%C3%ACnh%20duy%E1%BB%87t.md)
-    - [Giảm rác trên mạng xã hội](./Web/Gi%E1%BA%A3m%20r%C3%A1c%20tr%C3%AAn%20m%E1%BA%A1ng%20x%C3%A3%20h%E1%BB%99i.md)
-    - [Tránh bị nghiện mạng xã hội](./Web/Tr%C3%A1nh%20b%E1%BB%8B%20nghi%E1%BB%87n%20m%E1%BA%A1ng%20x%C3%A3%20h%E1%BB%99i.md)
     - [Loại bỏ popup bằng Idontcareaboutcookies, No Thanks](./Web/Lo%E1%BA%A1i%20b%E1%BB%8F%20popup%20b%E1%BA%B1ng%20Idontcareaboutcookies,%20No%20Thanks.md)
+    - [Tránh bị nghiện mạng xã hội](./Web/Tr%C3%A1nh%20b%E1%BB%8B%20nghi%E1%BB%87n%20m%E1%BA%A1ng%20x%C3%A3%20h%E1%BB%99i.md)
+    - [Giảm rác trên mạng xã hội](./Web/Gi%E1%BA%A3m%20r%C3%A1c%20tr%C3%AAn%20m%E1%BA%A1ng%20x%C3%A3%20h%E1%BB%99i.md)
     - [Ẩn kết quả tìm kiếm rác trên Google](./Web/%E1%BA%A8n%20k%E1%BA%BFt%20qu%E1%BA%A3%20t%C3%ACm%20ki%E1%BA%BFm%20r%C3%A1c%20tr%C3%AAn%20Google.md)
 
 

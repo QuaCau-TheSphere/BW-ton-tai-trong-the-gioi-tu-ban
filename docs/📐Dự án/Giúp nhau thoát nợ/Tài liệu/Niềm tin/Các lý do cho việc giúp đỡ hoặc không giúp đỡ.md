@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-11-02T00:57
-updated: 2025-08-17T09:14
+updated: 2025-12-06T17:41
 aliases:
   - được và mất
   - cân nhắc lợi hại

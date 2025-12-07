@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2025-09-12T13:48
+updated: 2025-12-06T17:41
 ---
 Tính năng:: [Nhập được trên điện thoại](../../3%20T%C3%ADnh%20n%C4%83ng/C%C3%A1ch%20nh%E1%BA%ADp%20li%E1%BB%87u/Nh%E1%BA%ADp%20%C4%91%C6%B0%E1%BB%A3c%20tr%C3%AAn%20%C4%91i%E1%BB%87n%20tho%E1%BA%A1i.md)
 Tính năng:: [Phân loại bằng tay](../../3%20T%C3%ADnh%20n%C4%83ng/C%C3%A1ch%20ph%C3%A2n%20lo%E1%BA%A1i/Ph%C3%A2n%20lo%E1%BA%A1i%20b%E1%BA%B1ng%20tay.md)
@@ -14,7 +14,7 @@ Tính năng:: [Trả tiền để làm phân loại](../../3%20T%C3%ADnh%20n%C4%
 Tính năng:: [Tự động lấy thông tin giao dịch ngay lúc quẹt mã](../../3%20T%C3%ADnh%20n%C4%83ng/C%C3%A1ch%20nh%E1%BA%ADp%20li%E1%BB%87u/T%E1%BB%B1%20%C4%91%E1%BB%99ng%20l%E1%BA%A5y%20th%C3%B4ng%20tin%20giao%20d%E1%BB%8Bch%20ngay%20l%C3%BAc%20qu%E1%BA%B9t%20m%C3%A3.md)
 Tính năng:: [Tích hợp được với ngân hàng](../../3%20T%C3%ADnh%20n%C4%83ng/Kh%E1%BA%A3%20n%C4%83ng%20t%C3%ADch%20h%E1%BB%A3p/T%C3%ADch%20h%E1%BB%A3p%20%C4%91%C6%B0%E1%BB%A3c%20v%E1%BB%9Bi%20ng%C3%A2n%20h%C3%A0ng.md)
 
-Loại chương trình: [Chương trình phân loại dữ liệu tự động](../../4%20Lo%E1%BA%A1i%20ch%C6%B0%C6%A1ng%20tr%C3%ACnh/Ch%C6%B0%C6%A1ng%20tr%C3%ACnh%20ph%C3%A2n%20lo%E1%BA%A1i%20d%E1%BB%AF%20li%E1%BB%87u%20t%E1%BB%B1%20%C4%91%E1%BB%99ng.md),[Chương trình ghi chép thu chi cá nhân](../../4%20Lo%E1%BA%A1i%20ch%C6%B0%C6%A1ng%20tr%C3%ACnh/Ch%C6%B0%C6%A1ng%20tr%C3%ACnh%20ghi%20ch%C3%A9p%20thu%20chi%20c%C3%A1%20nh%C3%A2n.md)
+Loại chương trình: [Chương trình ghi chép thu chi cá nhân](../../4%20Lo%E1%BA%A1i%20ch%C6%B0%C6%A1ng%20tr%C3%ACnh/Ch%C6%B0%C6%A1ng%20tr%C3%ACnh%20ghi%20ch%C3%A9p%20thu%20chi%20c%C3%A1%20nh%C3%A2n.md),[Chương trình phân loại dữ liệu tự động](../../4%20Lo%E1%BA%A1i%20ch%C6%B0%C6%A1ng%20tr%C3%ACnh/Ch%C6%B0%C6%A1ng%20tr%C3%ACnh%20ph%C3%A2n%20lo%E1%BA%A1i%20d%E1%BB%AF%20li%E1%BB%87u%20t%E1%BB%B1%20%C4%91%E1%BB%99ng.md)
 
 
 Tất cả người dùng tham gia làm nhiệm vụ **phân loại các giao dịch “chưa phân loại”**, chắc chắn sẽ nhận được quà ăn uống siêu xịn, cùng cơ hội trúng đậm tiền mặt 10K và giải thưởng đặc biệt mỗi tuần:

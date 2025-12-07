@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-05-03T23:44
-updated: 2025-07-09T17:32
+updated: 2025-12-06T17:41
 ---
 - \-: 
     - [Các trường học chính thống thường không tạo ra không gian để chất vấn hay thảo luận về các vấn đề của tư bản](../Ph%C3%A1t%20tri%E1%BB%83n%20b%E1%BB%81n%20v%E1%BB%AFng.%20C%C3%A1c%20n%E1%BB%81n%20kinh%20t%E1%BA%BF%20thay%20th%E1%BA%BF/Th%E1%BB%B1c%20tr%E1%BA%A1ng/C%C3%A1c%20tr%C6%B0%E1%BB%9Dng%20h%E1%BB%8Dc%20ch%C3%ADnh%20th%E1%BB%91ng%20th%C6%B0%E1%BB%9Dng%20kh%C3%B4ng%20t%E1%BA%A1o%20ra%20kh%C3%B4ng%20gian%20%C4%91%E1%BB%83%20ch%E1%BA%A5t%20v%E1%BA%A5n%20hay%20th%E1%BA%A3o%20lu%E1%BA%ADn%20v%E1%BB%81%20c%C3%A1c%20v%E1%BA%A5n%20%C4%91%E1%BB%81%20c%E1%BB%A7a%20t%C6%B0%20b%E1%BA%A3n.md)

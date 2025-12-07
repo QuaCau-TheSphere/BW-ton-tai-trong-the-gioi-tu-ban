@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2025-10-08T11:08
+updated: 2025-12-06T17:41
 ---
 Tính chất công việc:: [Cần có vốn](../../%C4%90%E1%BA%B7c%20%C4%91i%E1%BB%83m%20c%C3%B4ng%20vi%E1%BB%87c/Nguy%C3%AAn%20li%E1%BB%87u,%20ngu%E1%BB%93n%20th%C3%B4ng%20tin/C%E1%BA%A7n%20c%C3%B3%20v%E1%BB%91n.md)
 Tính chất công việc:: [Không tốn diện tích](../../%C4%90%E1%BA%B7c%20%C4%91i%E1%BB%83m%20c%C3%B4ng%20vi%E1%BB%87c/Nguy%C3%AAn%20li%E1%BB%87u,%20ngu%E1%BB%93n%20th%C3%B4ng%20tin/Kh%C3%B4ng%20t%E1%BB%91n%20di%E1%BB%87n%20t%C3%ADch.md)

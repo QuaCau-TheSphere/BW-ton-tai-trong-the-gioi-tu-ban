@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-01-23T14:36
-updated: 2025-09-03T21:05
+updated: 2025-12-06T17:41
 ---
 Khái niệm:: 
 Các câu hỏi của bài nhân sự sẽ thay đổi nên không sợ lộ đề, còn của bên đào tạo thì không. 

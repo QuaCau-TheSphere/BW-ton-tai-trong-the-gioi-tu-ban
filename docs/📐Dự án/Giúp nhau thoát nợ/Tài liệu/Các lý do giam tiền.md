@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-11-12T09:30
+updated: 2025-12-06T17:41
 ---
 Khái niệm:: [Lừa đảo](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/L%E1%BB%ABa%20%C4%91%E1%BA%A3o.md)
 Đang tìm cách câu kéo dài thời gian để mình rút tiền được nên viện đủ lý do, ngu nhất là ko nhất quán,

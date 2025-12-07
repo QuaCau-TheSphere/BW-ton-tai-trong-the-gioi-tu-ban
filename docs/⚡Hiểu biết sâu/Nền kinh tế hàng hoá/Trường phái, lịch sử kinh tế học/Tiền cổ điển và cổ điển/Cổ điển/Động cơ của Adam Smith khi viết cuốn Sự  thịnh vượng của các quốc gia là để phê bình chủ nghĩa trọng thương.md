@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-10-11T10:37
+updated: 2025-12-06T17:41
 ---
 Khái niệm:: 
 [Chủ nghĩa trọng thương đặt nền móng cho nhận thức rằng kinh tế và chính trị không tách rời](../Tr%E1%BB%8Dng%20th%C6%B0%C6%A1ng/Ch%E1%BB%A7%20ngh%C4%A9a%20tr%E1%BB%8Dng%20th%C6%B0%C6%A1ng%20%C4%91%E1%BA%B7t%20n%E1%BB%81n%20m%C3%B3ng%20cho%20nh%E1%BA%ADn%20th%E1%BB%A9c%20r%E1%BA%B1ng%20kinh%20t%E1%BA%BF%20v%C3%A0%20ch%C3%ADnh%20tr%E1%BB%8B%20kh%C3%B4ng%20t%C3%A1ch%20r%E1%BB%9Di.md)

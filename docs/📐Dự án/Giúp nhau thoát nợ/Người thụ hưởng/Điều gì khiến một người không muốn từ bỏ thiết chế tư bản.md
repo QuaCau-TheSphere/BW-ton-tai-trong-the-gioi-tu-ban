@@ -3,7 +3,7 @@ share: true
 created: 2025-03-27T17:13
 Aliases:
   - Lý do, tại sao, lý do
-updated: 2025-11-19T13:04
+updated: 2025-12-06T17:41
 ---
 Khái niệm:: 
 Khi có một nhà nước phúc lợi như Bắc Âu

@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2025-09-03T21:05
+updated: 2025-12-06T17:41
 title: ASM, RSM
 ---
 ASM là viết tắt của *area sale manager*, nghĩa là *quản lý bán hàng khu vực*.

@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-04-12T16:52
-updated: 2025-11-24T10:16
+updated: 2025-12-06T17:41
 ---
 Khái niệm:: 
 - Thông đồng với người vay lập hồ sơ giả

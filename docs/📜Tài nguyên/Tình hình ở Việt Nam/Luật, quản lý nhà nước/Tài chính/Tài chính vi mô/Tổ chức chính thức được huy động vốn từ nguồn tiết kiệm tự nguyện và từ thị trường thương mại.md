@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-04-13T21:15
-updated: 2025-09-01T10:57
+updated: 2025-12-06T17:41
 ---
 Khái niệm:: [Tài chính vi mô](../../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/T%C3%A0i%20ch%C3%ADnh%20vi%20m%C3%B4.md)
 Các tài liệu cho thấy các TCTCVM được cấp phép có cơ hội được huy động vốn từ nguồn tiết kiệm tự nguyện của người dân và huy động thêm vốn từ thị trường thương mại. Điều này giúp các TCTCVM tự chủ về tài chính và giúp các tổ chức này có thể hoạt động bền vững. Trong khi đó các TCTCVM chưa chuyển đổi chỉ có thể huy động vốn từ các khoản tiết kiệm bắt buộc của khách hàng vay và luôn phải hoạt động dựa vào các khoản tài trợ hoặc trợ cấp. Các TCTCVM phụ thuộc vào tài trợ sẽ không thể hoạt động bền vững và phá sản. Do đó, loại hình tổ chức cũng có ảnh hưởng lớn đến những đóng góp của TCTCVM cho việc thúc đẩy dự phát triển của TCTD

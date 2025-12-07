@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-09-14T21:01
+updated: 2025-12-06T17:41
 title: Ngân hàng
 ---
 # Vay tín dụng là gì?

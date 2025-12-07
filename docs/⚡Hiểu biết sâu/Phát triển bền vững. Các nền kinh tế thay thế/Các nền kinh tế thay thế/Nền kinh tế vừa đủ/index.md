@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-09-06T21:44
+updated: 2025-12-06T16:04
 title: Nền kinh tế vừa đủ
 ---
 Khái niệm:: 

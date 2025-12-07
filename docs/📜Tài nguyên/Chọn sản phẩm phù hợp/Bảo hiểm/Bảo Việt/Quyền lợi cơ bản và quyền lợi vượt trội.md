@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-11-12T10:41
-updated: 2025-07-09T17:32
+updated: 2025-12-06T17:41
 ---
 Khi chết, số tiền bảo hiểm gia tăng và giá trị tài khoản hợp đồng
 - Cơ bản: cái nào lớn hơn sẽ trả, phù hợp cho đầu tư tiết kiệm

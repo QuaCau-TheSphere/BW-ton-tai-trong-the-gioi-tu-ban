@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-10-26T21:33
-updated: 2025-07-09T17:32
+updated: 2025-12-06T17:41
 ---
 Khái niệm:: 
 Việc bán hàng chỉ là trong 3 tháng đầu, sau đó thì chỉ cần duy trì 

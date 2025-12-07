@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-10-02T14:17
-updated: 2025-08-16T22:05
+updated: 2025-12-06T17:41
 aliases:
   - Kế hoạch nghiên cứu người dùng
 title: Nghiên cứu người dùng
