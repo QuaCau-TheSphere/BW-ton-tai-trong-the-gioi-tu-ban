@@ -3,7 +3,7 @@ share: true
 created: 2025-03-27T17:13
 Aliases:
   - săn giá rẻ, khuyến mãi, giảm giá
-updated: 2025-11-26T17:08
+updated: 2025-12-06T17:41
 ---
 # Làm sao để tìm được thông tin giảm giá tốt nhất? 
 ## Khác gì với mấy trang săn giá rẻ? 
