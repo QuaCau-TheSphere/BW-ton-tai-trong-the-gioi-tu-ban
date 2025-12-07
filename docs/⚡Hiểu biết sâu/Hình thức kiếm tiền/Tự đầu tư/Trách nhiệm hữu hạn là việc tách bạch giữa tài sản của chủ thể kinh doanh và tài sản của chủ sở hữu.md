@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-11-12T11:57
+updated: 2025-12-06T17:41
 ---
 Khái niệm:: 
 Chế độ trách nhiệm hữu hạn được áp dụng khi có sự tách bạch rõ ràng giữa tài sản của chủ thể kinh doanh và tài sản của chủ sở hữu (giữa tài sản đầu tư vào kinh doanh với tài sản khác không đầu tư vào kinh doanh).
