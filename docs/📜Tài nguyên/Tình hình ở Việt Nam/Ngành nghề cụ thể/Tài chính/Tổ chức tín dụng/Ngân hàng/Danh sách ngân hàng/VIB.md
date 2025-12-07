@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-08-31T11:15
-updated: 2025-09-03T21:05
+updated: 2025-12-06T17:41
 ---
 Tên thương hiệu:: VIB
 Phân loại:: [Thương mại Cổ phần](Th%C6%B0%C6%A1ng%20m%E1%BA%A1i%20C%E1%BB%95%20ph%E1%BA%A7n.md)
@@ -14,3 +14,7 @@ Vốn điều lệ (tỷ đồng):: 29,791.00
 
 Không cần KYC để đăng nhập 
 Không tạo đc nhiều số tài khoản 
+
+Ở trung tâm thẻ thì dễ hơn
+Sang thẻ đc 130% thẻ cũ
+Chỉ được 1 công ty tài chính
