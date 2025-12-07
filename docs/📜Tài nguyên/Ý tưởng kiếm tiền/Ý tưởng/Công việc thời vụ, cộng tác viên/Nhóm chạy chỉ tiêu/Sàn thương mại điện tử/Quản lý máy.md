@@ -2,7 +2,7 @@
 share: true
 description: "Quản lý phonefarm gồm 60 - 80 cái điện thoại. Số tiền kiếm được: 5 tr/tháng"
 created: 2025-04-04T14:21
-updated: 2025-08-23T15:54
+updated: 2025-12-06T17:41
 ---
 Số tiền kiếm được:: 5tr/tháng + quà tặng rất thường xuyên
 Mô tả công việc:: Quản lý phonefarm gồm 60 - 80 cái điện thoại 
