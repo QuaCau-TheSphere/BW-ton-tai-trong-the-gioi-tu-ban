@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-06-27T22:05
-updated: 2025-07-24T14:52
+updated: 2025-12-06T17:41
 ---
 Khái niệm:: [Rửa tiền](../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/R%E1%BB%ADa%20ti%E1%BB%81n.md)
 Vì là trung gian thanh toán, nên các ví điện tử đứng ra bảo lãnh cho người quẹt. Chuyển khoản thì còn không biết đang làm gì, chứ dùng trung gian thanh toán thì xác định là mua hàng. Ngân hàng sẽ thấy là sạch, và điểm tín dụng sẽ cao hơn. 
