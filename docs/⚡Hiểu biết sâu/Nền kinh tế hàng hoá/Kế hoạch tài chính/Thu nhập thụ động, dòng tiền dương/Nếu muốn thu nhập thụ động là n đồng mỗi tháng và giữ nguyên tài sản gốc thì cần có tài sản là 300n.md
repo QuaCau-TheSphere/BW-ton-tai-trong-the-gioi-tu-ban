@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-10-10T13:55
+updated: 2025-12-06T17:41
 ---
 Khái niệm:: [Thu nhập](../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Thu%20nh%E1%BA%ADp.md)
 Số tiền cần để đạt tự do tài chính phụ thuộc vào mức chi phí sinh hoạt mong muốn và tỷ suất sinh lời bền vững từ tài sản. Có hai cách tiếp cận phổ biến:
