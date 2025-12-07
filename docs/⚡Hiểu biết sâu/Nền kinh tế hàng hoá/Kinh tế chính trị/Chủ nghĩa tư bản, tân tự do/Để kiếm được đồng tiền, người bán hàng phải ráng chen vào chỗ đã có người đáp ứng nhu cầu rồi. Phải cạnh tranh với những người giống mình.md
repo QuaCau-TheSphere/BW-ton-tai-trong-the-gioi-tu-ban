@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-04-05T15:15
-updated: 2025-08-16T22:04
+updated: 2025-12-06T17:41
 ---
 Khái niệm:: [Bán hàng](../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/B%C3%A1n%20h%C3%A0ng.md), [Cạnh tranh](../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/C%E1%BA%A1nh%20tranh.md), [Kiếm tiền](../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Ki%E1%BA%BFm%20ti%E1%BB%81n.md)
 
