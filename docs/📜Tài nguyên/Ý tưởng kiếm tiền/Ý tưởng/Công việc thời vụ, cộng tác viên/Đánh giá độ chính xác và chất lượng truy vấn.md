@@ -2,7 +2,7 @@
 share: true
 description: "Số tiền kiếm được: 70k/h"
 created: 2025-03-27T17:13
-updated: 2025-10-14T11:17
+updated: 2025-12-06T17:41
 ---
 Mô tả công việc:: Đánh giá độ chính xác và chất lượng các truy vấn (queries) của người dùng internet 
 Số tiền kiếm được:: 70k/h
@@ -40,9 +40,9 @@ Hình thức công việc::
 Kiến thức, kỹ năng:: [Biết tiếng Anh](../../%C4%90%E1%BA%B7c%20%C4%91i%E1%BB%83m%20c%C3%B4ng%20vi%E1%BB%87c/Ki%E1%BA%BFn%20th%E1%BB%A9c,%20k%E1%BB%B9%20n%C4%83ng/Bi%E1%BA%BFt%20ti%E1%BA%BFng%20Anh.md)
 Nguyên liệu, nguồn thông tin::
 Nơi làm việc:: [Làm qua mạng](../../%C4%90%E1%BA%B7c%20%C4%91i%E1%BB%83m%20c%C3%B4ng%20vi%E1%BB%87c/N%C6%A1i%20l%C3%A0m%20vi%E1%BB%87c/L%C3%A0m%20qua%20m%E1%BA%A1ng.md)
-Thời điểm làm việc::
+Thời gian làm việc::
 Yêu cầu công nghệ::
-Thời gian trả tiền::
+Thời điểm trả tiền::
 Đặc điểm khác::
 
 ## Nơi thảo luận
