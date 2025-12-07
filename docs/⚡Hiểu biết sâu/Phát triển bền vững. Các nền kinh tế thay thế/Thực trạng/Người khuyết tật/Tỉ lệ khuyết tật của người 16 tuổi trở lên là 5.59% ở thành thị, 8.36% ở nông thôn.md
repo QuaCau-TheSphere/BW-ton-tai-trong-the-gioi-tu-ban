@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-11-09T13:36
-updated: 2025-09-21T09:17
+updated: 2025-12-06T17:41
 ---
 Khái niệm:: [Người khuyết tật](../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Ng%C6%B0%E1%BB%9Di%20khuy%E1%BA%BFt%20t%E1%BA%ADt.md)
 **Hình 1. Tỷ lệ khuyết tật của người từ 2 tuổi trở lên và 16 tuổi trở lên** **chia theo khu vực thành thị, nông thôn và vùng năm 2023**
