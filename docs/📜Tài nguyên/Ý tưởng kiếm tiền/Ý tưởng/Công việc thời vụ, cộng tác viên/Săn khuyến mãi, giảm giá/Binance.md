@@ -2,7 +2,7 @@
 share: true
 description: "Số tiền kiếm được: "
 created: 2025-03-27T17:13
-updated: 2025-11-04T11:29
+updated: 2025-12-06T17:41
 ---
 Mô tả công việc:: 
 Số tiền kiếm được:: 
@@ -38,7 +38,7 @@ Nguyên liệu, nguồn thông tin::
 Nơi làm việc::
 Thời gian làm việc::
 Yêu cầu công nghệ::
-Thời gian trả tiền::
+Thời điểm trả tiền::
 Đặc điểm khác::
 
 ## Nơi thảo luận
