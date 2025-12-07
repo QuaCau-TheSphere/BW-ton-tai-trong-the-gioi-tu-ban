@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-08-25T10:54
+updated: 2025-12-06T17:41
 ---
 Khái niệm:: [Rửa tiền](../../../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/R%E1%BB%ADa%20ti%E1%BB%81n.md)
 GM Mall là sân sau của những quan chức cấp cao ở Việt Nam liên kết với quan chức Trung Quốc để rửa tiền. Thực ra là sẽ có nguồn tiền đổ vô rửa tiếp nhưng do trục trặc mà tạm ngưng. Mà Đạt và đám công ty xử lý khủng hoảng truyền thông quá tệ nên GM Mall rẽ hướng khác. Quyết định bỏ GM Mall qua dự án khác. Nên khi Lâm Vũ nói là đi gặp các nhà đầu tư thì cũng có có ý đúng, chỉ là nó đi về Trung Quốc để bàn nguồn vốn, chứ không phải là đi Mỹ để bàn việc sát nhập với công ty mẹ như lời nó nói. Nhưng do có trục trặc nên kéo dài thời gian quá lâu, còn đám Việt Nam thì ăn hại nên kết quả banh chành. Chứ tin báo là nguồn tiền rửa phải tới hết năm nay mới xong.
