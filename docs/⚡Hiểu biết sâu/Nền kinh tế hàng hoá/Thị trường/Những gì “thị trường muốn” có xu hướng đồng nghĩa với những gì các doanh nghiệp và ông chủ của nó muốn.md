@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-11-26T11:25
-updated: 2025-09-01T11:09
+updated: 2025-12-06T17:41
 ---
 Khái niệm:: [Thị trường](../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Th%E1%BB%8B%20tr%C6%B0%E1%BB%9Dng.md)
 Nguồn:: [PHÂN TÍCH KINH TẾ: Chủ nghĩa tân tự do – Hệ tư tuởng nằm ở cội nguồn của tất cả các vấn đề của chúng ta](http://www.phantichkinhte123.com/2018/08/chu-nghia-tan-tu-do-he-tu-tuong-nam-o.html)
