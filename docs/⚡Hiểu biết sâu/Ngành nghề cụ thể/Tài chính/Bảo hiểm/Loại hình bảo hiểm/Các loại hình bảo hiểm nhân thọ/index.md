@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-09-06T15:35
-updated: 2025-09-22T22:05
+updated: 2025-12-06T17:41
 title: Các loại hình bảo hiểm nhân thọ
 ---
 | Loại hình                   | Mô tả                                                                                                                                           | Người quan tâm                                             | Bảo vệ | Tiết kiệm | Đầu tư |
