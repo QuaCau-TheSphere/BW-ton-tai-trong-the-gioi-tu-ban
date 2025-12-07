@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-11-11T18:32
+updated: 2025-12-06T17:41
 ---
 Khái niệm:: [Tư bản](../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/T%C6%B0%20b%E1%BA%A3n.md)
 Hôm nay, một người em trong nhóm chia sẻ với tôi là bạn ấy thấy một bài viết trên mạng xã hội với luận điểm: "Chủ nghĩa tư bản lợi dụng các phong trào xã hội (môi trường, giới,...)".
