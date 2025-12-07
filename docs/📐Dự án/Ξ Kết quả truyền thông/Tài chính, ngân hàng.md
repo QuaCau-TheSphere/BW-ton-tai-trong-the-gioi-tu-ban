@@ -1,9 +1,9 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-08-27T20:51
+updated: 2025-12-06T17:41
 ---
-## [Quỹ giúp nhau giữ tài sản thế chấp](../Gi%C3%BAp%20nhau%20tho%C3%A1t%20n%E1%BB%A3/C%C3%B4ng%20vi%E1%BB%87c/Qu%E1%BB%B9/Qu%E1%BB%B9%20gi%C3%BAp%20nhau%20gi%E1%BB%AF%20t%C3%A0i%20s%E1%BA%A3n%20th%E1%BA%BF%20ch%E1%BA%A5p.md)
+## [Quỹ giúp nhau giữ tài sản thế chấp](../Gi%C3%BAp%20nhau%20tho%C3%A1t%20n%E1%BB%A3/Qu%E1%BB%B9/Qu%E1%BB%B9%20gi%C3%BAp%20nhau%20gi%E1%BB%AF%20t%C3%A0i%20s%E1%BA%A3n%20th%E1%BA%BF%20ch%E1%BA%A5p.md)
 ### [r/TroChuyenLinhTinh](https://www.reddit.com/r/TroChuyenLinhTinh/comments/1mrt2jw/comment/n8zxkxd/)
 [16-08-2025](16-08-2025.md) 18:53 [Title Unavailable \| Site Unreachable](https://www.reddit.com/r/TroChuyenLinhTinh/comments/1mrt2jw/comment/n8zxkxd/)
 ### Góc nhìn ngân hàng
@@ -45,6 +45,6 @@ updated: 2025-08-27T20:51
 ### Voz
 [22-08-2025](22-08-2025.md) 17:25 [Title Unavailable \| Site Unreachable](https://voz.vn/t/lam-sao-đe-nguoi-vay-khong-co-đong-luc-xu.1138781%2f)
 
-## [Nếu bạn là người đang đứng tên cho người khác vay, điều gì khiến bạn không lo](../Gi%C3%BAp%20nhau%20tho%C3%A1t%20n%E1%BB%A3/C%C3%B4ng%20vi%E1%BB%87c/Ph%E1%BB%8Fng%20v%E1%BA%A5n/N%E1%BA%BFu%20b%E1%BA%A1n%20l%C3%A0%20ng%C6%B0%E1%BB%9Di%20%C4%91ang%20%C4%91%E1%BB%A9ng%20t%C3%AAn%20cho%20ng%C6%B0%E1%BB%9Di%20kh%C3%A1c%20vay,%20%C4%91i%E1%BB%81u%20g%C3%AC%20khi%E1%BA%BFn%20b%E1%BA%A1n%20kh%C3%B4ng%20lo.md)
+## [Nếu bạn là người đang đứng tên cho người khác vay, điều gì khiến bạn không lo](../Gi%C3%BAp%20nhau%20tho%C3%A1t%20n%E1%BB%A3/T%C3%A0i%20li%E1%BB%87u/Ph%E1%BB%8Fng%20v%E1%BA%A5n/N%E1%BA%BFu%20b%E1%BA%A1n%20l%C3%A0%20ng%C6%B0%E1%BB%9Di%20%C4%91ang%20%C4%91%E1%BB%A9ng%20t%C3%AAn%20cho%20ng%C6%B0%E1%BB%9Di%20kh%C3%A1c%20vay,%20%C4%91i%E1%BB%81u%20g%C3%AC%20khi%E1%BA%BFn%20b%E1%BA%A1n%20kh%C3%B4ng%20lo.md)
 ### r/vozforums 
 [27-08-2025](27-08-2025.md) 14:31 [Reddit - The heart of the internet](https://www.reddit.com/r/vozforums/comments/1n1ak86/có_ai_ở_đây_cho_bạn_vay_tiền_hoặc_đứng_tên_vay/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
