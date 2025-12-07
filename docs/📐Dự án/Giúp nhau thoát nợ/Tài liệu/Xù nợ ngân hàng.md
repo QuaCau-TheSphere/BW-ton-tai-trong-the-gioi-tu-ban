@@ -4,7 +4,7 @@ created: 2025-03-27T17:13
 description: Chuyện gì sẽ xảy ra khi bị liệt là nợ xấu?
 aliases:
   - Chuyện gì sẽ xảy ra khi bị liệt là nợ xấu?
-updated: 2025-09-22T15:05
+updated: 2025-12-06T17:41
 ---
 Khái niệm:: [Nợ xấu](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Vay,%20n%E1%BB%A3/N%E1%BB%A3%20x%E1%BA%A5u.md)
 Đã chấp nhận để ngân hàng xuống kiếm gia đình mình chưa
