@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-04-12T13:41
-updated: 2025-08-17T16:41
+updated: 2025-12-06T17:41
 ---
 Khái niệm:: 
 Điều đó khiến cho việc ko thể gọi để xác minh chủ tài khoản ngân hàng có thực hiện giao dịch hay không, mà phải gặp tận mặt để hỏi. Tuy nhiên, vì cũng không bắt phải điền tạm trú, nên cách duy nhất để gặp mặt họ là thông qua công an.
