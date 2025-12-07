@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-08-22T19:14
+updated: 2025-12-06T17:41
 ---
 Khái niệm:: [Tư bản](../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/T%C6%B0%20b%E1%BA%A3n.md)
 Các tư tưởng này vốn chiếm lĩnh ngành khoa học xã hội và nhân văn từ thập niên 1980
