@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-09-01T11:02
+updated: 2025-12-06T17:41
 ---
 Khái niệm:: [Thương lượng tập thể](../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Th%C6%B0%C6%A1ng%20l%C6%B0%E1%BB%A3ng%20t%E1%BA%ADp%20th%E1%BB%83.md)
 
