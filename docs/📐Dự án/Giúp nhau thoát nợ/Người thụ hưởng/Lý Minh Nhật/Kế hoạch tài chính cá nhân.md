@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-10-12T17:03
+updated: 2025-12-06T17:41
 title: Kế hoạch tài chính cá nhân của Lý Minh Nhật
 ---
 [Danh mục tài khoản của Nhật](./Danh%20m%E1%BB%A5c%20t%C3%A0i%20kho%E1%BA%A3n%20c%E1%BB%A7a%20Nh%E1%BA%ADt.md)
