@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-22T21:46
-updated: 2025-07-09T17:32
+updated: 2025-12-06T17:41
 ---
 - \-: 
     - [❓Hệ thống thông tin cần dễ hiểu cho cả những người không rành công nghệ](../M%C3%B4%20h%C3%ACnh%20nh%C3%A2n%20s%E1%BB%B1/%E2%9D%93H%E1%BB%87%20th%E1%BB%91ng%20th%C3%B4ng%20tin%20c%E1%BA%A7n%20d%E1%BB%85%20hi%E1%BB%83u%20cho%20c%E1%BA%A3%20nh%E1%BB%AFng%20ng%C6%B0%E1%BB%9Di%20kh%C3%B4ng%20r%C3%A0nh%20c%C3%B4ng%20ngh%E1%BB%87.md)
