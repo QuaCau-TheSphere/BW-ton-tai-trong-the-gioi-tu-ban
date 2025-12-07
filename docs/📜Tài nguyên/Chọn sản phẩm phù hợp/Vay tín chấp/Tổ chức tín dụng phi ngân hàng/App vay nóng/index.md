@@ -2,7 +2,7 @@
 share: true
 created: 2024-08-13T17:19
 description: không cần điểm tín dụng
-updated: 2025-08-16T10:08
+updated: 2025-12-06T17:41
 title: App vay nóng
 ---
 Khái niệm:: [App đen, vay nóng](../../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Vay,%20n%E1%BB%A3/App%20%C4%91en,%20vay%20n%C3%B3ng.md)
