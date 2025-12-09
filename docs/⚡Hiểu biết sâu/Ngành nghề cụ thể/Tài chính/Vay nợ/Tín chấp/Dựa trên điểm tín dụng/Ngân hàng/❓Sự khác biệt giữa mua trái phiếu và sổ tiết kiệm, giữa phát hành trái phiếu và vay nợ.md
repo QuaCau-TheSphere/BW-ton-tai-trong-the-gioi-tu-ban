@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-12-06T17:41
+updated: 2025-12-08T22:13
 ---
 Khái niệm:: 
 ```mermaid
@@ -64,3 +64,7 @@ Ta chia làm **hai phần**:
 ---
 
 Nếu bạn muốn, mình có thể vẽ sơ đồ quan hệ giữa 4 khái niệm này (`mua trái phiếu ↔ phát hành trái phiếu` và `gửi tiết kiệm ↔ vay nợ`) để bạn nhìn trực quan hơn — bạn muốn mình làm sơ đồ đó không?
+
+Khái niệm:: 
+
+Nguồn:: 
