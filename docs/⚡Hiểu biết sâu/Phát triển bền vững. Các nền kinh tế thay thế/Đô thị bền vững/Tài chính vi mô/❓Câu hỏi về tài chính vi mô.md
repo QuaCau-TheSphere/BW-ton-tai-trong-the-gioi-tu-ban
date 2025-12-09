@@ -3,7 +3,7 @@ share: true
 created: 2025-03-27T17:13
 aliases:
   - thịnh kula
-updated: 2025-12-06T17:41
+updated: 2025-12-08T22:46
 ---
 ## [Giúp đỡ sẽ tạo ra sự lệ thuộc](../../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Ni%E1%BB%81m%20tin,%20di%E1%BB%85n%20ng%C3%B4n/Gi%C3%BAp%20%C4%91%E1%BB%A1/Gi%C3%BAp%20%C4%91%E1%BB%A1%20s%E1%BA%BD%20t%E1%BA%A1o%20ra%20s%E1%BB%B1%20l%E1%BB%87%20thu%E1%BB%99c.md)
 Sinh viên thì tập trung học. Nghệ sĩ, nhà nghiên cứu ko phải lúc nào cũng làm thứ mà cộng đồng thấy có giá trị
@@ -17,7 +17,7 @@ kỹ năng sống + âm tiền: R&D + chuyên môn hóa?
 - Hệ thống quản trị là Google Sheet. Vấn đề là việc nhập từ sao kê ngân hàng mất công, để mấy tuần mới nhập một lần
 - Có bảo lãnh rồi vẫn cần hộ khẩu để làm đúng quy trình
 
-## [Giúp nhau thoát nợ](../../../../%F0%9F%93%90D%E1%BB%B1%20%C3%A1n/Gi%C3%BAp%20nhau%20tho%C3%A1t%20n%E1%BB%A3/Qu%E1%BB%B9/Ng%C3%A2n%20h%C3%A0ng%20mini%20v%C3%A0%20m%E1%BA%A1ng%20l%C6%B0%E1%BB%9Bi%20cho%20vay%20ngang%20h%C3%A0ng.md)
+## [Giúp nhau thoát nợ](../../../../%F0%9F%93%90D%E1%BB%B1%20%C3%A1n/Gi%C3%BAp%20nhau%20tho%C3%A1t%20n%E1%BB%A3/Qu%E1%BB%B9/Qu%E1%BB%B9%20t%C3%ADn%20d%E1%BB%A5ng%20vi%20m%C3%B4%20Qu%E1%BA%A3%20C%E1%BA%A7u.md)
 - Giúp người kế bên
 Việc được ở lại trong hệ thống tư bản tín dụng đáng để đánh đổi bao nhiêu stress, khi về mặt đạo đức mình đã hoàn thành nghĩa vụ trả nợ rồi, và phần còn lại chỉ là sự bóc lột?
 
