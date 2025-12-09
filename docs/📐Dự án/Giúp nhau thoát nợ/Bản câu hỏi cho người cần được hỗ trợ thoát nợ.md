@@ -1,32 +1,33 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2025-12-08T22:46
+updated: 2025-12-09T15:40
 ---
-- Theo bạn đâu là cách để giúp bạn bền vững?
-- Bạn nghĩ mình cần làm những gì để kiếm được một người có tiền và để họ đồng ý cho bạn vay? 
 
 ## Tình hình chung
 - Tại sao bạn bị nợ? 
 - Tình hình nợ hiện nay:
 
-|                     | Momo VTS  | Momo Vay Nhanh | Shopee VTD 1 | Shopee VTD 2 | Shopee VTD 3 | Shopee trả sau                                                           |
-| ------------------- | --------- | -------------- | ------------ | ------------ | ------------ | ------------------------------------------------------------------------ |
-| Tổng số tiền đã vay |           | 32tr           | 6tr          | 2tr          | 2tr          | Chưa có thời gian cộng vì tính theo từng đơn hàng, mà đặt nhiều đơn hàng |
-| Tổng đã trả         |           |                |              |              |              |                                                                          |
-| Tổng còn phải trả   |           |                |              |              |              |                                                                          |
-| Tất toán            | Ko có     | 45.418.310     | Ko có        | Ko có        | Ko có        | Ko có                                                                    |
-| 12                  | 1.349.969 | 3.156.000      | 1.197.903    | 399.301      | 399.301      | 938.894                                                                  |
-| 1                   | 0         | nt             | nt           | nt           | nt           | nt                                                                       |
-| 2                   | 0         | nt             | nt           | nt           | nt           | 790.906                                                                  |
-| 3                   | 0         | nt             | 0            | nt           | nt           | 548.084                                                                  |
-| 4                   | 0         | nt             | 0            | 0            | nt           | 548.075                                                                  |
-| Tháng cuối          | 12/2025   | 12/2027: nt    | 2/2026       | 3/2026       | 4/2026       | 5: 318.143, 6: 223.359, 7 → 11: 147.624,                                 |
+|                     | Tổng | Khoản vay 1 | Khoản vay 2 | Khoản vay 3 | ... |
+| ------------------- | ---- | ----------- | ----------- | ----------- | --- |
+| Lý do vay           |      |             |             |             |     |
+| Gốc vay             |      |             |             |             |     |
+| Số tiền thực nhận   |      |             |             |             |     |
+| Lãi suất            |      |             |             |             |     |
+| Lãi suất theo tháng |      |             |             |             |     |
+| Tổng phải trả       |      |             |             |             |     |
+| Tổng đã trả         |      |             |             |             |     |
+| Tổng còn phải trả   |      |             |             |             |     |
+| Tất toán (nếu có)   |      |             |             |             |     |
+|                     |      |             |             |             |     |
+| 2026-01             |      |             |             |             |     |
+| 2026-02             |      |             |             |             |     |
+| 2026-03             |      |             |             |             |     |
+| ...                 |      |             |             |             |     |
 
-
-| Khoản nợ | Số tiền | Lãi | Thời hạn trả | Lý do |
-| -------- | ------- | --- | ------------ | ----- |
-|          |         |     |              |       |
+$$\text{Số tiền thực nhận} = \text{Gốc vay} - \text{Chi phí vay}$$
+$$\text{Lãi suất} = \frac{\text{Tổng phải trả} - \text{Số tiền thực nhận}}{\text{Số tiền thực nhận}} $$
+$$\text{Lãi suất theo tháng} = \frac{\text{Lãi suất}}{\text{Số tháng phải trả}} $$
 
 - Cuộc sống của bạn đã thay đổi thế nào từ lúc có nợ?
 - Bạn đã làm [báo cáo tài chính](../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Ng%C3%A0nh%20ngh%E1%BB%81%20c%E1%BB%A5%20th%E1%BB%83/T%C3%A0i%20ch%C3%ADnh/K%E1%BA%BF%20to%C3%A1n/B%C3%A1o%20c%C3%A1o/B%C3%A1o%20c%C3%A1o%20t%C3%A0i%20ch%C3%ADnh%20c%C3%A1%20nh%C3%A2n%20g%E1%BB%93m%20b%E1%BA%A3n%20thu%20chi%20c%C3%A1%20nh%C3%A2n%20v%C3%A0%20b%E1%BA%A3n%20c%C3%A2n%20%C4%91%E1%BB%91i%20t%C3%A0i%20s%E1%BA%A3n.md) và [kế hoạch tài chính](../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/N%E1%BB%81n%20kinh%20t%E1%BA%BF%20h%C3%A0ng%20ho%C3%A1/K%E1%BA%BF%20ho%E1%BA%A1ch%20t%C3%A0i%20ch%C3%ADnh/index.md) chưa?
@@ -50,14 +51,16 @@ updated: 2025-12-08T22:46
 - Bạn nghĩ gì về [các ý tưởng tiết kiệm](../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/S%E1%BB%91ng%20v%E1%BB%ABa%20%C4%91%E1%BB%A7,%20b%E1%BB%81n%20v%E1%BB%AFng,%20ti%E1%BA%BFt%20ki%E1%BB%87m/index.md) này?
 - Bạn đã dùng tới [Vay tín chấp](../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Ch%E1%BB%8Dn%20s%E1%BA%A3n%20ph%E1%BA%A9m%20ph%C3%B9%20h%E1%BB%A3p/Vay%20t%C3%ADn%20ch%E1%BA%A5p/index.md) nào? Vì sao chúng không phù hợp với bạn?
 - Bạn có chấp nhận [xù nợ ngân hàng](./T%C3%A0i%20li%E1%BB%87u/X%C3%B9%20n%E1%BB%A3%20ng%C3%A2n%20h%C3%A0ng.md), [xù nợ vay nóng](./T%C3%A0i%20li%E1%BB%87u/X%C3%B9%20n%E1%BB%A3%20vay%20n%C3%B3ng.md) không? Vì sao?
-	- Vì sao bạn không thể chấp nhận mất cic?
-	- Mức độ căng thẳng thế nào sẽ khiến bạn chấp nhận
+	- Vì sao bạn không thể chấp nhận mất điểm tín dụng?
+	- Giả sử như bạn chấp nhận mất, thì lý do đó có thể là gì?
 - Bạn có chấp nhận [ra khỏi thành phố sống](./T%C3%A0i%20li%E1%BB%87u/Ni%E1%BB%81m%20tin/Ra%20kh%E1%BB%8Fi%20th%C3%A0nh%20ph%E1%BB%91%20s%E1%BB%91ng.md) không? Vì sao?
-- Đã có bao nhiêu người biết tình hình của bạn rồi? Thái độ của họ thế nào? Bạn đã nhận được những sự hỗ trợ nào từ họ?
+- Đã có bao nhiêu người biết tình hình của bạn rồi? Thái độ của họ thế nào? 
+- Bạn đã nhận được những sự hỗ trợ nào?
 
 | Cá nhân | Sự hỗ trợ | Giới hạn |
 | ------- | --------- | -------- |
 |         |           |          |
+
 - Họ đã thử vay giùm bạn chưa? Nếu chưa thì tại sao? Nếu rồi thì như thế nào?
 
 ## Năng lực xoay sở
@@ -70,15 +73,15 @@ updated: 2025-12-08T22:46
 
 ## Làm việc với người hỗ trợ
 - Bạn cần hỗ trợ những gì?
+- Theo bạn đâu là cách để giúp bạn bền vững?
 - Có vô vàn những người mắc nợ như bạn. Tại sao bạn nên được giúp hơn những người khác?
 - Là người mang nợ, bạn sẽ rất bận để trả nợ. Nhưng việc cho vay đòi hỏi sự tin tưởng, vốn đến từ sự minh bạch và giải trình. Bạn sẽ làm gì để đảm bảo thông tin được thông suốt, nhất là khi bạn đang cảm thấy mệt mà thấy câu hỏi không giúp gì được cho bạn?
+- Bạn nghĩ mình cần làm những gì để kiếm được một người có tiền và để họ đồng ý cho bạn vay? 
 - Nếu bạn đã thấy mình đã cố gắng giải thích nhưng bạn vẫn thấy người giúp bạn chưa hiểu được ý bạn thì bạn sẽ làm gì?
 - Người giúp bạn có thể nói chuyện với những người giúp khác không?
 - Mức độ bí mật của những thông tin bạn chia sẻ ở đây là gì? Ai sẽ là người bạn cảm thấy thoải mái khi họ biết được những gì bạn chia sẻ? Vì sao?
 	- Với các yêu cầu bạn đưa ra, bạn nghĩ gì về việc nó sẽ tạo khó khăn cho người muốn giúp bạn?
-	- Với lý do bạn đưa ra, bạn thấy rằng nó không thể đánh đổi với việc giúp bạn hiệu quả hơn?
-- Bạn có sẵn sàng tham gia công việc [giúp nhau thoát nợ](./Qu%E1%BB%B9/Qu%E1%BB%B9%20t%C3%ADn%20d%E1%BB%A5ng%20vi%20m%C3%B4%20Qu%E1%BA%A3%20C%E1%BA%A7u.md) để việc hỗ trợ những người mang nợ như bạn dễ dàng hơn không?
-- Việc họ nghĩ là cần hay 
+	- Có phải bạn thấy rằng các lý do bạn đưa ra quan trọng hơn việc giúp bạn hiệu quả hơn đúng không? Vì sao?
 - Bạn muốn ai sẽ hỗ trợ bạn?
 
 ## Sự đảm bảo từ những người hỗ trợ
@@ -91,7 +94,7 @@ updated: 2025-12-08T22:46
 
 ## Xem thêm
 - [Các lý do cho việc giúp đỡ hoặc không giúp đỡ](./T%C3%A0i%20li%E1%BB%87u/Ni%E1%BB%81m%20tin/C%C3%A1c%20l%C3%BD%20do%20cho%20vi%E1%BB%87c%20gi%C3%BAp%20%C4%91%E1%BB%A1%20ho%E1%BA%B7c%20kh%C3%B4ng%20gi%C3%BAp%20%C4%91%E1%BB%A1.md)
-- [Bản câu hỏi cho người muốn gửi tiền tiết kiệm](./B%E1%BA%A3n%20c%C3%A2u%20h%E1%BB%8Fi%20cho%20ng%C6%B0%E1%BB%9Di%20mu%E1%BB%91n%20g%E1%BB%ADi%20ti%E1%BB%81n%20ti%E1%BA%BFt%20ki%E1%BB%87m.md)
+- [Bản câu hỏi cho người muốn tham gia góp quỹ](./B%E1%BA%A3n%20c%C3%A2u%20h%E1%BB%8Fi%20cho%20ng%C6%B0%E1%BB%9Di%20mu%E1%BB%91n%20tham%20gia%20g%C3%B3p%20qu%E1%BB%B9.md)
 
 ## Nơi thảo luận
 ![](https://imagizer.imageshack.com/a/img923/1273/jQAnX6.png)

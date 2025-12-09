@@ -1,8 +1,9 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-12-08T22:44
+updated: 2025-12-09T14:58
 ---
+Khi có một người nhận đứng ra giúp
 
 Đây là một số trường hợp dẫn đến tình trạng này:
 - Có sự cố đột xuất (bị lừa đảo, công ty nợ lương rồi phá sản, gặp tai nạn, cần chuyển nhà, v.v.)
