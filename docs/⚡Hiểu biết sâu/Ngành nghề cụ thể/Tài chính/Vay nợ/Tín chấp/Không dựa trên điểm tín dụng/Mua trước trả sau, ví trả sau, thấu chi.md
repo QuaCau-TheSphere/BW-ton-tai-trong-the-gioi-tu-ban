@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-12-06T17:41
+updated: 2025-12-09T11:35
 ---
 Khái niệm:: [Mua trước trả sau](../../../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Mua%20tr%C6%B0%E1%BB%9Bc%20tr%E1%BA%A3%20sau.md)
 [Thấu chi tính lãi ngày và chỉ được miễn lãi 1 ngày. Nợ thẻ tín dụng được miễn lãi 45 ngày](../../../../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/T%C3%ACnh%20h%C3%ACnh%20%E1%BB%9F%20Vi%E1%BB%87t%20Nam/Ng%C3%A0nh%20ngh%E1%BB%81%20c%E1%BB%A5%20th%E1%BB%83/T%C3%A0i%20ch%C3%ADnh/T%E1%BB%95%20ch%E1%BB%A9c%20t%C3%ADn%20d%E1%BB%A5ng/Ng%C3%A2n%20h%C3%A0ng/C%C3%A1ch%20l%C3%A0m%20vi%E1%BB%87c/Th%E1%BA%A5u%20chi%20t%C3%ADnh%20l%C3%A3i%20ng%C3%A0y%20v%C3%A0%20ch%E1%BB%89%20%C4%91%C6%B0%E1%BB%A3c%20mi%E1%BB%85n%20l%C3%A3i%201%20ng%C3%A0y.%20N%E1%BB%A3%20th%E1%BA%BB%20t%C3%ADn%20d%E1%BB%A5ng%20%C4%91%C6%B0%E1%BB%A3c%20mi%E1%BB%85n%20l%C3%A3i%2045%20ng%C3%A0y.md)

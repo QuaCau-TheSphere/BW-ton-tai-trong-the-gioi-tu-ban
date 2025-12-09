@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-01-13T16:35
-updated: 2025-09-03T21:05
+updated: 2025-12-09T11:17
 ---
 Khái niệm:: 
 Sứ mệnh của Nhân viên Xử Lý Tín Dụng Tại Thực Địa: KHÔNG ĐÒI NỢ

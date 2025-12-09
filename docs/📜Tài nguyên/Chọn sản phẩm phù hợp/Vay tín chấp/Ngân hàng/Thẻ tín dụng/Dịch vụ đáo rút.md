@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-12-07T18:56
+updated: 2025-12-08T22:46
 aliases:
   - Lê Ngọc Biết
 ---
@@ -14,7 +14,13 @@ Xem thêm:: [Dịch vụ mở khoản vay](./D%E1%BB%8Bch%20v%E1%BB%A5%20m%E1%BB
 
 Nhân viên đáo nói là có gì hỏi anh chủ.
 
-[Ngân hàng mini và mạng lưới cho vay ngang hàng](../../../../../%F0%9F%93%90D%E1%BB%B1%20%C3%A1n/Gi%C3%BAp%20nhau%20tho%C3%A1t%20n%E1%BB%A3/Qu%E1%BB%B9/Ng%C3%A2n%20h%C3%A0ng%20mini%20v%C3%A0%20m%E1%BA%A1ng%20l%C6%B0%E1%BB%9Bi%20cho%20vay%20ngang%20h%C3%A0ng.md), để bền vững hơn, ít lệ thuộc vào thẻ hơn
+[Quỹ tín dụng vi mô Quả Cầu](../../../../../%F0%9F%93%90D%E1%BB%B1%20%C3%A1n/Gi%C3%BAp%20nhau%20tho%C3%A1t%20n%E1%BB%A3/Qu%E1%BB%B9/Qu%E1%BB%B9%20t%C3%ADn%20d%E1%BB%A5ng%20vi%20m%C3%B4%20Qu%E1%BA%A3%20C%E1%BA%A7u.md), để bền vững hơn, ít lệ thuộc vào thẻ hơn
+
+| Tên cơ sở    | Địa chỉ                 | Phí rút | Phí đáo | Ưu đãi   |
+| ------------ | ----------------------- | ------- | ------- | -------- |
+|              | 297 Ngô Gia Tự          | 1.6     | 1.6     |          |
+| Lê Ngọc Biết | 26 Nguyễn Tất Thành, Q4 | 1.5     | 2       | Freeship |
+| VNC Credit   |                         | 1.5     | 1.5     |          |
 
 ## Đánh giá một số dịch vụ rút đáo 
 ### Lê Ngọc Biết
@@ -23,6 +29,10 @@ Nhân viên đáo nói là có gì hỏi anh chủ.
 - Giới thiệu 1 khách giảm 0.05% trọn đời
 - Freeship toàn HCM
 - POS ngành gas
+- Chỉ giảm được tối đa 1.5%. Khi giới thiệu thêm người nữa thì gọi điện ò í e.
+- Không gọi điện được khi đã được giảm tới 1.5%. Không có khách nào thấp hơn nữa.
+
+Nhân viên dùng nick của Biết, nhưng khi hỏi về chính sách thì lại nói có gì hỏi trực tiếp Biết chứ tụi em không biết
 
 Ví dụ: ngồi nhậu 10 người, kêu bên này tới cà mỗi người 100k thôi là được giảm 0.5% còn phí đáo 1.5% trọn đời
 
@@ -33,11 +43,6 @@ SĐT: 0909 205 202
 
 [Khi vảy cá nở hoa: Hành trình biến phế phẩm thành nghệ thuật sống động ](https://plo.vn/khi-vay-ca-no-hoa-hanh-trinh-bien-phe-pham-thanh-nghe-thuat-song-dong-post843432.html)
 [Hoa vảy cá VAVA \| Facebook](https://www.facebook.com/hoavayca?comment_id=Y29tbWVudDo0NTgwMzA2Njk2NDE1NjhfNTY0MTY2NjkyNjk4ODk1&locale=vi_VN)
-Không gọi điện được khi đã được giảm tới 1.5%. Không có khách nào thấp hơn nữa.
-Nhân viên dùng nick của Biết, nhưng khi hỏi về 
-
-- 297 ngô gia tự, phí 1.6
-- VNC: lên page hỏi giá. Tao tbif đc 1.5
 
 ### Nhận xét
 #### Giúp nhau giảm giá phí đáo rút
@@ -47,37 +52,6 @@ Nếu rút dưới 10 triệu lần đầu tiên giới thiệu mình thì mình
 
 Xem thêm:: [Các khoản tài sản và khoản nợ Nhật đứng tên (phiên bản cho bạn bè)](../../../../../%F0%9F%93%90D%E1%BB%B1%20%C3%A1n/Gi%C3%BAp%20nhau%20tho%C3%A1t%20n%E1%BB%A3/Ng%C6%B0%E1%BB%9Di%20th%E1%BB%A5%20h%C6%B0%E1%BB%9Fng/L%C3%BD%20Minh%20Nh%E1%BA%ADt/C%C3%A1c%20kho%E1%BA%A3n%20t%C3%A0i%20s%E1%BA%A3n%20v%C3%A0%20kho%E1%BA%A3n%20n%E1%BB%A3%20Nh%E1%BA%ADt%20%C4%91%E1%BB%A9ng%20t%C3%AAn%20(phi%C3%AAn%20b%E1%BA%A3n%20cho%20b%E1%BA%A1n%20b%C3%A8).md)
 [Tìm nguồn đáo giá rẻ](../../../../../%F0%9F%93%90D%E1%BB%B1%20%C3%A1n/Gi%C3%BAp%20nhau%20tho%C3%A1t%20n%E1%BB%A3/C%C3%B4ng%20vi%E1%BB%87c/T%C3%ACm%20ngu%E1%BB%93n%20%C4%91%C3%A1o%20gi%C3%A1%20r%E1%BA%BB.md)
-
-#### Cách bên này tạo dòng tiền
-Nhiều người mắc nợ càng ngày càng cao một phần vì không gánh nổi phí đáo rút cao ngất ngưởng. Nhưng bên này làm giá rất tốt, ưu đãi rất cao, nhiệt tình với khách. Nếu giới thiệu được 20 người thì thậm chí bạn có thể tạo ra được dòng tiền luôn. Các bên khác không chịu chạy xa, và chắc là cũng không chịu cà có mỗi 100k. Tức là bên này rất muốn khách tới cà.
-
-Có những giả thiết về mô hình kinh doanh của họ:
-- Họ chạy KPI mở thẻ, mở POS
-- Họ muốn tiếp cận được thông tin chủ thẻ cho mục đích khác
-
-### Họ chạy KPI mở thẻ, mở POS
-Nhân viên bán hàng của các ngân hàng và các công ty trung gian thanh toán được áp chỉ tiêu cà thẻ cho mỗi máy POS được mở mới.
-cho toàn bộ ngân hàng + các kênh như POS vnpay, kbank và các máy bên khác. Việc có thể liên kết kiểu như vậy là không đơn giản.
-Là vì nó quá ít
-Nó đâu có work kiểu đó
-Nó work khi nếu đó là máy POS mà nó làm ra, chứ máy POS bên khác làm thì KPI sao tính cho nó
-Pos thì cam kết đổi mới
-Mỗi lần quẹt là 1 POS mới
-Chứ không quẹt POS cũ
-
-Nếu nó làm hệ thống thì hệ thống đó rất lớn, liên kết với nhau rất chặt chẽ. Mà khi như vậy thì nguồn khách duy trì để nuôi cái hệ thống lớn đó đâu có ít. Chỉ tính riêng vnpay thôi thì 1 POS ít nhất 20 lần quẹt/tháng = 20 người khác nhau/tháng
-10 POS là phải 200 người k đc trùng nhau cái gì mỗi tháng?
-Và KPI tối thiểu
-Để 1 nhân viên có thể tiếp tục hoạt động từ tháng 4 trở đi
-Là 35 điểm chấp nhận thanh toán/người
-Vnpay là muốn cạnh tranh với momo thì cần càng nhiều người mới càng tốt. Còn bọn ngân hàng thì chắc đâu cần?
-Giờ chắc gì vnpay đã giữ chỉ tiêu đó?
-Đúng rồi
-Có thể nó đã tăng lên
-Ban đầu mới ra KPI có 6/ng mà, từ từ lên 12, 15, 35
-
-### Họ tiếp cận được thông tin chủ thẻ cho mục đích khác
-Dường như đã có cách để [Chỉ cần ảnh mặt trước CCCD và SĐT của một người là có thể truy cập được vào tài khoản ngân hàng của họ](../../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/H%C3%ACnh%20th%E1%BB%A9c%20ki%E1%BA%BFm%20ti%E1%BB%81n/Thi%E1%BA%BFu%20li%C3%AAm%20ch%C3%ADnh/Gi%E1%BA%A3%20m%E1%BA%A1o,%20l%E1%BB%ABa%20%C4%91%E1%BA%A3o/%C4%90i%E1%BB%81u%20c%E1%BA%A7n%20%C4%91%E1%BB%83%20%C3%BD/Ch%E1%BB%89%20c%E1%BA%A7n%20%E1%BA%A3nh%20m%E1%BA%B7t%20tr%C6%B0%E1%BB%9Bc%20CCCD%20v%C3%A0%20S%C4%90T%20c%E1%BB%A7a%20m%E1%BB%99t%20ng%C6%B0%E1%BB%9Di%20l%C3%A0%20c%C3%B3%20th%E1%BB%83%20truy%20c%E1%BA%ADp%20%C4%91%C6%B0%E1%BB%A3c%20v%C3%A0o%20t%C3%A0i%20kho%E1%BA%A3n%20ng%C3%A2n%20h%C3%A0ng%20c%E1%BB%A7a%20h%E1%BB%8D.md). Giả sử bên này cũng nắm được cách để deepfake để vượt qua KYC, thì với những thông tin mà họ nắm, hoàn toàn họ rút hết tiền của mình, nếu muốn. Nhưng nếu vậy thì không bền, nên khả năng là họ không làm vậy.
 
 ## Nơi thảo luận
 ![](https://imagizer.imageshack.com/a/img923/1273/jQAnX6.png)

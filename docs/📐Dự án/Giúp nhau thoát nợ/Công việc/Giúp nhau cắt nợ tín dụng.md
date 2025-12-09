@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-12-06T17:41
+updated: 2025-12-08T22:46
 ---
 Khi bạn lên các ngân hàng thương mại hoặc công ty tài chính tiêu dùng (sau đây gọi tắt là ngân hàng) để vay tiền, họ sẽ đánh giá mức độ đáng tin của bạn thông qua một chỉ số gọi là *điểm tín dụng*. Nếu bạn có được điểm tín dụng tốt thì bạn sẽ được vay với lãi thấp hơn và hạn mức cao hơn. Một lần trả nợ trễ hạn là điểm tín dụng của bạn sẽ bị đánh xấu cho cả 5 năm tiếp theo, và sẽ không được ngân hàng nào cho vay cả. Điểm này do Trung tâm Tín dụng Quốc gia (CIC) quản lý, nên cũng hay được gọi là điểm CIC. 
 
@@ -15,7 +15,7 @@ Hệ thống ngân hàng và điểm tín dụng này là hệ thống phục v�
 
 Chính vì vậy, mình đề xuất một quỹ tài chính vi mô với sứ mệnh giúp họ cắt các khoản lãi lớn. Đọc chi tiết ở các bài sau:
 - [Quỹ giúp nhau giữ tài sản thế chấp](../Qu%E1%BB%B9/Qu%E1%BB%B9%20gi%C3%BAp%20nhau%20gi%E1%BB%AF%20t%C3%A0i%20s%E1%BA%A3n%20th%E1%BA%BF%20ch%E1%BA%A5p.md)
-- [Ngân hàng mini và mạng lưới cho vay ngang hàng](../Qu%E1%BB%B9/Ng%C3%A2n%20h%C3%A0ng%20mini%20v%C3%A0%20m%E1%BA%A1ng%20l%C6%B0%E1%BB%9Bi%20cho%20vay%20ngang%20h%C3%A0ng.md)
+- [Quỹ tín dụng vi mô Quả Cầu](../Qu%E1%BB%B9/Qu%E1%BB%B9%20t%C3%ADn%20d%E1%BB%A5ng%20vi%20m%C3%B4%20Qu%E1%BA%A3%20C%E1%BA%A7u.md)
 
 [Xù nợ ngân hàng](../T%C3%A0i%20li%E1%BB%87u/X%C3%B9%20n%E1%BB%A3%20ng%C3%A2n%20h%C3%A0ng.md)
 

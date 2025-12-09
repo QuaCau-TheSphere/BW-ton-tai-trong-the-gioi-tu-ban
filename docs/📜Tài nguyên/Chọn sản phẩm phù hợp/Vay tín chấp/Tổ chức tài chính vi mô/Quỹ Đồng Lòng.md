@@ -1,9 +1,11 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-12-06T17:41
+updated: 2025-12-08T21:56
 ---
 Khái niệm:: 
+[mô hình quỹ.pptx - Google Trang trình bày](https://docs.google.com/presentation/d/e/2PACX-1vTqOCxrJ2rjQTXce6PbJZToZU19q5gZMLS3uG7nNZO_ezX-aEppACCuSyC2ml-n-g/pub?start=false&loop=false&delayms=10000#slide=id.p1)
+
 THE LOCAL COMMUNITY FUND MODEL
 mô hình quỹ cộng đồng tại các địa phương dễ bị tổn thương xây dựng trên nền tảng quỹ chi hội
 

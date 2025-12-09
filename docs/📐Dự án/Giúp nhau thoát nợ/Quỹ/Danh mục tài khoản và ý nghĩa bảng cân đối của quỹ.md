@@ -1,12 +1,12 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-12-06T17:41
+updated: 2025-12-08T22:46
 cssClasses: wide-table
 aliases:
   - Xây dựng ontology
 ---
-Đây là danh mục tài khoản và ý nghĩa bảng cân đối của [Ngân hàng mini và mạng lưới cho vay ngang hàng](./Ng%C3%A2n%20h%C3%A0ng%20mini%20v%C3%A0%20m%E1%BA%A1ng%20l%C6%B0%E1%BB%9Bi%20cho%20vay%20ngang%20h%C3%A0ng.md). Yêu cầu của hệ thống là phù hợp cho người muốn giúp đỡ nhưng chỉ có một mình. Ban đầu hệ thống cũng đơn giản, nhưng sau đó phức tạp lên, đặc biệt khi bạn đứng tên dùm và cho nhiều người mượn.
+Đây là danh mục tài khoản và ý nghĩa bảng cân đối của [Quỹ tín dụng vi mô Quả Cầu](./Qu%E1%BB%B9%20t%C3%ADn%20d%E1%BB%A5ng%20vi%20m%C3%B4%20Qu%E1%BA%A3%20C%E1%BA%A7u.md). Yêu cầu của hệ thống là phù hợp cho người muốn giúp đỡ nhưng chỉ có một mình. Ban đầu hệ thống cũng đơn giản, nhưng sau đó phức tạp lên, đặc biệt khi bạn đứng tên dùm và cho nhiều người mượn.
 đứng tên sổ tiết kiệm dùm, đi đáo dùm
 
 Nên hệ thống cần phù hợp cho hệ thống có sự chuyển đổi qua nhiều giai đoạn. PTA. Khi tra bên này bên kia thì cần plaintext

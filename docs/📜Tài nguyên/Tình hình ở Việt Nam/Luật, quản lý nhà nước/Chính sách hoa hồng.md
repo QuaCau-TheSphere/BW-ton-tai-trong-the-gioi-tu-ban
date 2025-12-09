@@ -1,10 +1,10 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-12-06T17:41
+updated: 2025-12-08T11:03
 ---
 Khái niệm:: 
-[Tại sao nên mua bảo hiểm từ Quả Cầu?](../../Gi%E1%BB%9Bi%20thi%E1%BB%87u%20d%E1%BB%8Bch%20v%E1%BB%A5/T%E1%BA%A1i%20sao%20n%C3%AAn%20mua%20b%E1%BA%A3o%20hi%E1%BB%83m%20t%E1%BB%AB%20Qu%E1%BA%A3%20C%E1%BA%A7u.md)
+[Tại sao nên mua bảo hiểm từ Quả Cầu?](../../Gi%E1%BB%9Bi%20thi%E1%BB%87u%20d%E1%BB%8Bch%20v%E1%BB%A5/B%E1%BA%A3o%20hi%E1%BB%83m.md)
 Không vì lợi nhuận không có nghĩa là không có lợi ích
 
 Đo lường không phải bằng tiền, mà bằng sự kết nối, thảo luận

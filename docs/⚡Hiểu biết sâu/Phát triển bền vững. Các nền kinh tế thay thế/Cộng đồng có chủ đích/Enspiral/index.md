@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-12-06T16:04
+updated: 2025-12-08T11:47
 title: Enspiral
 ---
 Khái niệm:: 
@@ -10,8 +10,10 @@ Khái niệm::
 
 [Sổ tay](https://handbook.enspiral.com)
 
-Có 4 cấp độ phản hồi đề xuất: đồng ý, phiếu trắng, phản đối, và chặn
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SIlBobGS-Q8?si=r2_O12fXAKLJXj4d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## Ra quyết định
+Có 4 cấp độ phản hồi đề xuất: đồng ý, phiếu trắng, phản đối, và chặn
 
 | position | meaning                                                                                            |
 | -------- | -------------------------------------------------------------------------------------------------- |
@@ -20,7 +22,7 @@ Có 4 cấp độ phản hồi đề xuất: đồng ý, phiếu trắng, phản
 | NO       | You think there might be a better alternative, but you’re willing to go with the group’s decision. |
 | BLOCK    | You’ve got serious objections and you’ll be extremely unhappy if this proposal goes ahead.         |
 
-## [Blocking](https://handbook.enspiral.com/agreements/decisions.html#blocking)
+### [Blocking](https://handbook.enspiral.com/agreements/decisions.html#blocking)
 
 **At Enspiral, a single block is sufficient to stop a proposal proceeding in most cases. This places a considerable responsibility on someone blocking to deeply consider their choice, and on everyone involved to respect the right to block and to work toward a resolution.**
 
@@ -32,7 +34,9 @@ A decision to block should not be taken lightly, but if you feel strongly about 
 - You are not required to propose an alternative solution to raise a block, but you must articulate the nature of your block clearly so the group can understand the concern and work toward a resolution.
 - Simply vetoing a decision is not considered a responsible use of consensus blocking - you must be prepared to work collaboratively to try and reach a resolution, make time for conversations, and to help others understand the issue.
 - Blocks should only be used in cases where the blocker genuinely believes there is a significant risk of harm to the network, or that the proposal contravenes the fundamental values of Enspiral.
-Nguồn:: 
+
+Nguồn:: [Decisions Agreement - Enspiral Handbook](https://handbook.enspiral.com/agreements/decisions.html)
+
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/79OhyzQVQp0?si=IrU0yKh7HeASmzYp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 [Newcomers - Enspiral Handbook](https://handbook.enspiral.com/guides/newcomers.html):
@@ -42,4 +46,4 @@ Nguồn::
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/watch?v=Ej-4HlAHB0M&list=PLH4jIJHXyh2Gq6mgD4MwJ8Q4VLhK2DZEp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-Câu chuyện về một người sống riêng và bị đốt nhà:[Enspiral Story Dojo #01 — The House Builds You \| by Enspiral Story Dojo \| Enspiral Tales \| Medium](https://medium.com/enspiral-tales/enspiral-story-dojo-01-the-house-builds-you-f73b64a75ede)
+Câu chuyện về một người sống riêng và bị đốt nhà: [Enspiral Story Dojo #01 — The House Builds You \| by Enspiral Story Dojo \| Enspiral Tales \| Medium](https://medium.com/enspiral-tales/enspiral-story-dojo-01-the-house-builds-you-f73b64a75ede)
