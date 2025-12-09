@@ -2,7 +2,7 @@
 share: true
 description: "Số tiền kiếm được: "
 created: 2025-04-30T11:50
-updated: 2025-12-06T17:41
+updated: 2025-12-09T11:21
 ---
 Trước đây từng mua 15% của Công ty Cổ phần Chứng khoán Dầu khí và Eximbank 
 
