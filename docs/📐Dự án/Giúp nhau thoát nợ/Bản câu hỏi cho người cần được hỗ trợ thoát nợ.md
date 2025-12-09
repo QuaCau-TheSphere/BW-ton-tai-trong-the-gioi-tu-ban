@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2025-12-06T17:41
+updated: 2025-12-08T22:46
 ---
 - Theo bạn đâu là cách để giúp bạn bền vững?
 - Bạn nghĩ mình cần làm những gì để kiếm được một người có tiền và để họ đồng ý cho bạn vay? 
@@ -77,7 +77,7 @@ updated: 2025-12-06T17:41
 - Mức độ bí mật của những thông tin bạn chia sẻ ở đây là gì? Ai sẽ là người bạn cảm thấy thoải mái khi họ biết được những gì bạn chia sẻ? Vì sao?
 	- Với các yêu cầu bạn đưa ra, bạn nghĩ gì về việc nó sẽ tạo khó khăn cho người muốn giúp bạn?
 	- Với lý do bạn đưa ra, bạn thấy rằng nó không thể đánh đổi với việc giúp bạn hiệu quả hơn?
-- Bạn có sẵn sàng tham gia công việc [giúp nhau thoát nợ](./Qu%E1%BB%B9/Ng%C3%A2n%20h%C3%A0ng%20mini%20v%C3%A0%20m%E1%BA%A1ng%20l%C6%B0%E1%BB%9Bi%20cho%20vay%20ngang%20h%C3%A0ng.md) để việc hỗ trợ những người mang nợ như bạn dễ dàng hơn không?
+- Bạn có sẵn sàng tham gia công việc [giúp nhau thoát nợ](./Qu%E1%BB%B9/Qu%E1%BB%B9%20t%C3%ADn%20d%E1%BB%A5ng%20vi%20m%C3%B4%20Qu%E1%BA%A3%20C%E1%BA%A7u.md) để việc hỗ trợ những người mang nợ như bạn dễ dàng hơn không?
 - Việc họ nghĩ là cần hay 
 - Bạn muốn ai sẽ hỗ trợ bạn?
 
