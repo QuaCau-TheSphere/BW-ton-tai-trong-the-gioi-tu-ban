@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-12-06T17:41
+updated: 2025-12-09T17:21
 ---
 ## 1. Giai đoạn tạo niềm tin ban đầu (trước tháng 6/2025)
 Chiêu thức "đa cấp trá hình":

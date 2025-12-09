@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-12-06T17:41
+updated: 2025-12-09T17:12
 ---
 Tín dụng được dùng nhiều hơn 
 Bộ các tiêu chí đánh giá: tổng tài sản, tổng nguồn vốn
@@ -11,7 +11,7 @@ Lịch sử thu nhập: tăng dần đều (có tiến triển), tăng bất th�
 
 Ưu tiên các nhóm ngành cơ bản, thiết yếu
 
-Vay thẻ tín dụng thì được tích đến cuối kỳ, xong rồi thì lại được vay lại dùng lại. Vay các khoản khác thì mỗi kỳ phải trả, và trả xong hết rồi thì không được vay lại
+[Vay thẻ tín dụng thì được tích đến cuối kỳ, xong rồi thì lại được vay lại dùng lại. Vay bằng hình thức khác thì mỗi kỳ phải trả, và  khi trả xong hết rồi thì không được vay lại](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Ng%C3%A0nh%20ngh%E1%BB%81%20c%E1%BB%A5%20th%E1%BB%83/T%C3%A0i%20ch%C3%ADnh/Vay%20n%E1%BB%A3/Vay%20th%E1%BA%BB%20t%C3%ADn%20d%E1%BB%A5ng%20th%C3%AC%20%C4%91%C6%B0%E1%BB%A3c%20t%C3%ADch%20%C4%91%E1%BA%BFn%20cu%E1%BB%91i%20k%E1%BB%B3,%20xong%20r%E1%BB%93i%20th%C3%AC%20l%E1%BA%A1i%20%C4%91%C6%B0%E1%BB%A3c%20vay%20l%E1%BA%A1i%20d%C3%B9ng%20l%E1%BA%A1i.%20Vay%20b%E1%BA%B1ng%20h%C3%ACnh%20th%E1%BB%A9c%20kh%C3%A1c%20th%C3%AC%20m%E1%BB%97i%20k%E1%BB%B3%20ph%E1%BA%A3i%20tr%E1%BA%A3,%20v%C3%A0%20%20khi%20tr%E1%BA%A3%20xong%20h%E1%BA%BFt%20r%E1%BB%93i%20th%C3%AC%20kh%C3%B4ng%20%C4%91%C6%B0%E1%BB%A3c%20vay%20l%E1%BA%A1i.md)
 Tiền vay dài thì ngân hàng phải tính tiền của mình phải dư trả trong một thời gian rất dài. Còn tín dụng thì chỉ cần tính tiền của mình đủ để trả lãi và 
 
 [Cho vay cá nhân lợi hơn là cho vay doanh nghiệp](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Ng%C3%A0nh%20ngh%E1%BB%81%20c%E1%BB%A5%20th%E1%BB%83/T%C3%A0i%20ch%C3%ADnh/Vay%20n%E1%BB%A3/T%C3%ADn%20ch%E1%BA%A5p/D%E1%BB%B1a%20tr%C3%AAn%20%C4%91i%E1%BB%83m%20t%C3%ADn%20d%E1%BB%A5ng/Ng%C3%A2n%20h%C3%A0ng/Cho%20vay%20c%C3%A1%20nh%C3%A2n%20l%E1%BB%A3i%20h%C6%A1n%20l%C3%A0%20cho%20vay%20doanh%20nghi%E1%BB%87p.md)

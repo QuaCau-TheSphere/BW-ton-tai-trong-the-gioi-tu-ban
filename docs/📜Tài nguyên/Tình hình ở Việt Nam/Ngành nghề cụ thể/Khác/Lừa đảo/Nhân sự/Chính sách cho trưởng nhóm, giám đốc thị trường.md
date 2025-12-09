@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-05-08T22:53
-updated: 2025-12-06T17:41
+updated: 2025-12-09T17:21
 ---
 |                   | Trưởng nhóm                                                 | Giám đốc thị trường                                                             |
 | ----------------- | ----------------------------------------------------------- | ------------------------------------------------------------------------------- |
@@ -22,6 +22,6 @@ updated: 2025-12-06T17:41
 | Hoa hồng quản lý    | ❌         | ❌              | ❌                   | 50% tổng hoa hồng thị trường tất cả các cấp dưới | 50% tổng hoa hồng thị trường tất cả các cấp dưới |
 
 Nhân viên không được tuyển người mới. Chỉ có giám đốc thị trường mới được tuyển
-[Nhân sự khi thăng tiến sẽ làm hụt chỉ tiêu nhân sự của quản lý](../../../../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/M%C3%B4%20h%C3%ACnh%20nh%C3%A2n%20s%E1%BB%B1/%C4%90%E1%BA%A1i%20l%C3%BD,%20l%C6%B0%C6%A1ng%20kho%C3%A1n,%20KPI/Nh%C3%A2n%20s%E1%BB%B1%20khi%20th%C4%83ng%20ti%E1%BA%BFn%20s%E1%BA%BD%20l%C3%A0m%20h%E1%BB%A5t%20ch%E1%BB%89%20ti%C3%AAu%20nh%C3%A2n%20s%E1%BB%B1%20c%E1%BB%A7a%20qu%E1%BA%A3n%20l%C3%BD.md)
+[Nhân sự khi thăng tiến sẽ làm hụt chỉ tiêu nhân sự của quản lý](../../../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/M%C3%B4%20h%C3%ACnh%20nh%C3%A2n%20s%E1%BB%B1/%C4%90%E1%BA%A1i%20l%C3%BD,%20l%C6%B0%C6%A1ng%20kho%C3%A1n,%20KPI/Nh%C3%A2n%20s%E1%BB%B1%20khi%20th%C4%83ng%20ti%E1%BA%BFn%20s%E1%BA%BD%20l%C3%A0m%20h%E1%BB%A5t%20ch%E1%BB%89%20ti%C3%AAu%20nh%C3%A2n%20s%E1%BB%B1%20c%E1%BB%A7a%20qu%E1%BA%A3n%20l%C3%BD.md)
 
 trưởng nhóm thì  phải gom nhóm 500k, nhưng 200k là có thể xin 

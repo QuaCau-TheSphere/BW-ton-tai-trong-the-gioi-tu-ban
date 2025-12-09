@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-04-14T17:18
-updated: 2025-12-06T17:41
+updated: 2025-12-09T16:35
 title: Tổ chức tín dụng
 ---
 Khái niệm:: 
@@ -20,3 +20,5 @@ Tính đến ngày 31/12/2017, hệ thống tổ chức tín dụng có:
 Tính đến cuối năm 2017, mạng lưới các ngân hàng thương mại có 9.787 chi nhánh và văn phòng giao dịch, tương đương với 14,2 điểm giao dịch trên 100.000 người trưởng thành và 29,5 điểm giao dịch trên 1.000 km25 .
 
 Nguồn:: [Ảnh hưởng của các tổ chức tài chính vi mô đối với tài chính toàn diện.pdf](../../../../../assets/attachments/%E1%BA%A2nh%20h%C6%B0%E1%BB%9Fng%20c%E1%BB%A7a%20c%C3%A1c%20t%E1%BB%95%20ch%E1%BB%A9c%20t%C3%A0i%20ch%C3%ADnh%20vi%20m%C3%B4%20%C4%91%E1%BB%91i%20v%E1%BB%9Bi%20t%C3%A0i%20ch%C3%ADnh%20to%C3%A0n%20di%E1%BB%87n.pdf)
+
+[Tình hình xử lý nợ xấu ngân hàng](https://tienphong.vn/tinh-hinh-xu-ly-no-xau-ngan-hang-post1716381.tpo?gidzl=vl8GFa-d9tFbv1W_Jh0YTkNi73rJjtSbgkaSE0gpTd2gxaXk0h8a8gde7pi2i25nehjERpUORGvxJAmlSW)
