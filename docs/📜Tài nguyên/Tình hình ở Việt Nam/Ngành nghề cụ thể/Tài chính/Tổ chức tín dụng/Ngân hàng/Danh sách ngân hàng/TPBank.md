@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-12-06T17:41
+updated: 2025-12-09T11:36
 ---
 Tên thương hiệu:: TPBank
 Phân loại:: [Thương mại Cổ phần](Th%C6%B0%C6%A1ng%20m%E1%BA%A1i%20C%E1%BB%95%20ph%E1%BA%A7n.md)
@@ -12,10 +12,12 @@ Website:: [tpbank.vn](tpbank.vn)
 Ngày thành lập:: 05/05/2008
 Vốn điều lệ (tỷ đồng):: 26,420.00
 
-[TPBank cấp tiền cho ví trả sau Momo](../../../Trung%20gian%20thanh%20to%C3%A1n/Momo/TPBank%20c%E1%BA%A5p%20ti%E1%BB%81n%20cho%20v%C3%AD%20tr%E1%BA%A3%20sau%20Momo.md)
-Nếu vay tín dụng bằng bhnt thì cần người mua cũng là người được bh, tối thiểu 20tr/năm và đủ 12 tháng
+## Con
+Livebank
+[Dùng Momo Ví trả sau thực chất là vay của TPBank](../../../Trung%20gian%20thanh%20to%C3%A1n/Momo/D%C3%B9ng%20Momo%20V%C3%AD%20tr%E1%BA%A3%20sau%20th%E1%BB%B1c%20ch%E1%BA%A5t%20l%C3%A0%20vay%20c%E1%BB%A7a%20TPBank.md)
 
-Nếu vay tín dụng bằng bhnt thì cần người mua cũng là người được bh, tối thiểu 20
+## Thẻ tín dụng
+Nếu vay tín dụng bằng bảo hiểm nhân thọ thì cần người mua cũng là người được bảo hiểm, tối thiểu 20tr/năm và đủ 12 tháng
 
 ## Ghi chú về app
-- Chuyển 3 lần cùng lúc là bắt chờ
+- Chuyển tiền 3 lần cùng lúc là bắt chờ
