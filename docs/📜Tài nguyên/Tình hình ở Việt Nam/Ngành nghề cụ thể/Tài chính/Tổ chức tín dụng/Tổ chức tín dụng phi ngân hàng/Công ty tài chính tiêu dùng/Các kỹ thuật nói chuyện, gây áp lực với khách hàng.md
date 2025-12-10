@@ -1,10 +1,14 @@
 ---
 share: true
 created: 2025-01-13T16:35
-updated: 2025-12-09T17:03
+updated: 2025-12-10T11:28
 ---
 Đây là những điều nhân viên FE sẽ nói khi gặp chất vấn:
 Một cách nào đó nhân viên cũng tin như vậy
+
+[PTP là hứa trả](./Thu%E1%BA%ADt%20ng%E1%BB%AF.md). Khi PTP gãy tức là hứa trả mà không chịu trả
+![Phân tích, làm rõ, cô lập, phản hồi.png](../../../../../../../assets/attachments/Ph%C3%A2n%20t%C3%ADch,%20l%C3%A0m%20r%C3%B5,%20c%C3%B4%20l%E1%BA%ADp,%20ph%E1%BA%A3n%20h%E1%BB%93i.png)
+![Tháp áp lực, tháp huy động, tháp người thân.png](../../../../../../../assets/attachments/Th%C3%A1p%20%C3%A1p%20l%E1%BB%B1c,%20th%C3%A1p%20huy%20%C4%91%E1%BB%99ng,%20th%C3%A1p%20ng%C6%B0%E1%BB%9Di%20th%C3%A2n.png)
 
 ## Không đòi nợ 
 Trong tài liệu cho nhân viên có ghi rõ:

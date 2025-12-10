@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-12-08T18:15
+updated: 2025-12-09T22:21
 aliases:
   - Sự khác biệt giữa từ thiện, kinh tế quà tặng, trả cho người sau, làm việc vừa sức, dựa vào cộng đồng, gọi vốn cộng đồng, ưu tiên việc khẩn cấp, giúp người không tự giúp mình được, thu nhập cơ bản vô điều kiện
   - Các hình thức kiếm vốn
@@ -16,7 +16,7 @@ Khái niệm:: [Quà tặng](../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Qu%C3%A0
 | Gây quỹ tài trợ                                                                                               | [The Green Dots](https://thegreendots.vn/)                                                                                                                                         | [Các quỹ dự án tốn tiền cho nhân sự, làm cho nhiều dự án nhỏ tốn thời gian và đa phần các thời gian đó bị phí](../C%C3%A1c%20qu%E1%BB%B9%20d%E1%BB%B1%20%C3%A1n%20t%E1%BB%91n%20ti%E1%BB%81n%20cho%20nh%C3%A2n%20s%E1%BB%B1,%20l%C3%A0m%20cho%20nhi%E1%BB%81u%20d%E1%BB%B1%20%C3%A1n%20nh%E1%BB%8F%20t%E1%BB%91n%20th%E1%BB%9Di%20gian%20v%C3%A0%20%C4%91a%20ph%E1%BA%A7n%20c%C3%A1c%20th%E1%BB%9Di%20gian%20%C4%91%C3%B3%20b%E1%BB%8B%20ph%C3%AD.md)                                            |
 | Gọi vốn cộng đồng                                                                                             | 100 BHXH, [Đặt sách "CROWD TRƯỚC FUND SAU" - Đuốc Mồi](https://duocmoi.vn/), Wikipedia                                                                                             |                                                                                                                                                             |
 | [Thu nhập cơ bản vô điều kiện](../../%C4%90%C3%B4%20th%E1%BB%8B%20b%E1%BB%81n%20v%E1%BB%AFng/Thu%20nh%E1%BA%ADp%20c%C6%A1%20b%E1%BA%A3n%20v%C3%B4%20%C4%91i%E1%BB%81u%20ki%E1%BB%87n%20kh%C3%B4ng%20b%E1%BA%B1ng%20%C4%91%C3%A1p%20%E1%BB%A9ng%20nhu%20c%E1%BA%A7u%20c%C6%A1%20b%E1%BA%A3n%20v%C3%B4%20%C4%91i%E1%BB%81u%20ki%E1%BB%87n.md) |                                                                                                                                                                                    |                                                                                                                                                             |
-| Quỹ cộng đồng                                                                                                 |                                                                                                                                                                                    | Hành động dựa trên thống kê                                                                                                                                 |
+| Quỹ cộng đồng                                                                                                 |                                                                                                                                                                                    | Hành động dựa trên thống kê, thay đổi cấu trúc hệ thống, tiếp cận dựa trên quyền                                                                            |
 
 Họ cần gì thì làm đúng điều đó
 Hành động dựa trên thống kê

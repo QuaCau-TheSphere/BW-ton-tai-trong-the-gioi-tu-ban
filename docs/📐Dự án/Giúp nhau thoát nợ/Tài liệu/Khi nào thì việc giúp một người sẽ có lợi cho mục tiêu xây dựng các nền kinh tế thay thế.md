@@ -2,7 +2,7 @@
 share: true
 created: 2025-03-27T17:13
 title: Khi nào thì việc giúp một người sẽ có lợi cho mục tiêu xây dựng các nền kinh tế thay thế?
-updated: 2025-12-06T17:41
+updated: 2025-12-10T09:26
 ---
 Trên quan điểm chống tư bản, phát triển cộng đồng thì thứ cần tập trung là xây dựng [Các nền kinh tế thay thế](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Ph%C3%A1t%20tri%E1%BB%83n%20b%E1%BB%81n%20v%E1%BB%AFng.%20C%C3%A1c%20n%E1%BB%81n%20kinh%20t%E1%BA%BF%20thay%20th%E1%BA%BF/C%C3%A1c%20n%E1%BB%81n%20kinh%20t%E1%BA%BF%20thay%20th%E1%BA%BF/index.md). Việc giúp đỡ một vài cá thể thì chỉ là từ thiện và làm xao nhãng mục tiêu lâu dài hơn. Nên nếu ta giúp họ thì phải có thêm những lý do mạnh hơn, hoặc ít nhất là đủ mới để có thể chấp nhận việc xao nhãng để thử nghiệm. Thế nên, câu hỏi không phải là:
 > Tại sao nên giúp người này? 
@@ -68,7 +68,7 @@ Mỗi người có một trải nghiệm khác nhau, việc ép như vậy là s
 Cũng phải thừa nhận là hiện tại chỉ có những người may mắn mới đủ khả năng để tham gia vào các hình thức kinh tế thay thế đó
 
 Có thể là nghèo, nhưng vẫn may mắn ko phải chứng kiến tổn thương nhiều
-[Muốn thoát nghèo cần dòng tiền](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Ni%E1%BB%81m%20tin,%20di%E1%BB%85n%20ng%C3%B4n/Ti%E1%BB%81n/Gi%C3%A0u,%20ngh%C3%A8o/Mu%E1%BB%91n%20tho%C3%A1t%20ngh%C3%A8o%20c%E1%BA%A7n%20d%C3%B2ng%20ti%E1%BB%81n.md)
+[Muốn thoát nghèo cần dòng tiền, chứ không phải là làm công ăn lương](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Ni%E1%BB%81m%20tin,%20di%E1%BB%85n%20ng%C3%B4n/Ti%E1%BB%81n/Gi%C3%A0u,%20ngh%C3%A8o/Mu%E1%BB%91n%20tho%C3%A1t%20ngh%C3%A8o%20c%E1%BA%A7n%20d%C3%B2ng%20ti%E1%BB%81n,%20ch%E1%BB%A9%20kh%C3%B4ng%20ph%E1%BA%A3i%20l%C3%A0%20l%C3%A0m%20c%C3%B4ng%20%C4%83n%20l%C6%B0%C6%A1ng.md)
 Đôi mắt vừa đầy tình cảm mà cũng vừa lạnh. 
 Chịu đau khổ nhiều và luôn quay sang chỉ trích đặc quyền. Nhưng nó còn ko phải là Vấn đề tư duy người nghèo làm họ ko thoát đc
 Xem việc sống đơn giản, vừa đủ là nghèo khó

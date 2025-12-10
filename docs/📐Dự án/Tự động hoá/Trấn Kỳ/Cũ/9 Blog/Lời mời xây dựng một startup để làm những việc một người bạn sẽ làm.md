@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2025-12-06T17:41
+updated: 2025-12-09T22:02
 aliases:
   - Một startup làm những việc một người bạn sẽ làm
 ---
