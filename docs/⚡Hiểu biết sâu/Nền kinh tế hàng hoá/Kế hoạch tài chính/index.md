@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-12-06T17:41
+updated: 2025-12-10T16:57
 title: Kế hoạch tài chính
 ---
 | Chỉ số tài chính                                 | Ý nghĩa                                                                 | Cách tính                                                                           | Kết quả |
