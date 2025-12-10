@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-12-09T12:14
+updated: 2025-12-10T09:42
 aliases:
   - nhờ Nhật đứng tên
 ---
@@ -22,12 +22,12 @@ aliases:
 
 ### Ngân hàng và công ty tài chính
 
-| Khoản vay                                                                                               | Người vay | Hạn mức | Tiền đáo hàng tháng | Thời hạn trả |
-| ------------------------------------------------------------------------------------------------------- | --------- | ------- | ------------------- | ------------ |
-| Vietcombank JCB                                                                                         | Trí       | 5tr     |                     |              |
-| [SeaBank GRB Elite](https://www.seabank.com.vn/ca-nhan/the/the-tin-dung-quoc-te/the-tin-dung-brg-elite) | Thịnh     | 30tr    | 600k                |              |
-| Momo ví trả sau                                                                                         | Lộc       | 3tr     | 30k                 |              |
-| [OCB Lifestyle](https://www.ocb.com.vn/vi/ca-nhan/the/the-tin-dung/ocb-mastercard-lifestyle)            | Lộc       | 6tr     |                     |              |
+| Khoản vay                                                                                               | Người vay | Hạn mức | Tiền đáo hàng tháng | Ngày đáo hàng tháng |
+| ------------------------------------------------------------------------------------------------------- | --------- | ------- | ------------------- | ------------------- |
+| Vietcombank JCB                                                                                         | Trí       | 5tr     |                     |                     |
+| [SeaBank GRB Elite](https://www.seabank.com.vn/ca-nhan/the/the-tin-dung-quoc-te/the-tin-dung-brg-elite) | Thịnh     | 30tr    | 600k                | 15                  |
+| Momo ví trả sau                                                                                         | Lộc       | 3tr     | 30k                 |                     |
+| [OCB Lifestyle](https://www.ocb.com.vn/vi/ca-nhan/the/the-tin-dung/ocb-mastercard-lifestyle)            | Lộc       | 6tr     |                     |                     |
 
 Lộc chọn Vietinbank vì [nó là một trong bốn ngân hàng lớn ở Việt Nam, có vốn nhà nước trên 50%](../../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/T%C3%ACnh%20h%C3%ACnh%20%E1%BB%9F%20Vi%E1%BB%87t%20Nam/Ng%C3%A0nh%20ngh%E1%BB%81%20c%E1%BB%A5%20th%E1%BB%83/T%C3%A0i%20ch%C3%ADnh/T%E1%BB%95%20ch%E1%BB%A9c%20t%C3%ADn%20d%E1%BB%A5ng/Ng%C3%A2n%20h%C3%A0ng/Ng%C3%A2n%20h%C3%A0ng%20c%E1%BB%A5%20th%E1%BB%83/Vietcombank,%20VietinBank,%20Agribank,%20v%C3%A0%20BIDV%20l%C3%A0%20c%C3%A1c%20ng%C3%A2n%20h%C3%A0ng%20c%C3%B3%20v%E1%BB%91n%20nh%C3%A0%20n%C6%B0%E1%BB%9Bc%20tr%C3%AAn%2050%25.md). [Nếu vay được từ 4 ngân hàng lớn thì dễ được các ngân hàng khác cho vay hơn](../../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/T%C3%ACnh%20h%C3%ACnh%20%E1%BB%9F%20Vi%E1%BB%87t%20Nam/Ng%C3%A0nh%20ngh%E1%BB%81%20c%E1%BB%A5%20th%E1%BB%83/T%C3%A0i%20ch%C3%ADnh/T%E1%BB%95%20ch%E1%BB%A9c%20t%C3%ADn%20d%E1%BB%A5ng/Ng%C3%A2n%20h%C3%A0ng/Ng%C3%A2n%20h%C3%A0ng%20c%E1%BB%A5%20th%E1%BB%83/N%E1%BA%BFu%20vay%20%C4%91%C6%B0%E1%BB%A3c%20t%E1%BB%AB%204%20ng%C3%A2n%20h%C3%A0ng%20l%E1%BB%9Bn%20th%C3%AC%20d%E1%BB%85%20%C4%91%C6%B0%E1%BB%A3c%20c%C3%A1c%20ng%C3%A2n%20h%C3%A0ng%20kh%C3%A1c%20cho%20vay%20h%C6%A1n.md)
 
