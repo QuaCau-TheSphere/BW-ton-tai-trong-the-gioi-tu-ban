@@ -1,11 +1,11 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-12-09T19:28
+updated: 2025-12-10T17:01
 ---
 ## Tình hình chung
 ### Tại sao bạn bị nợ? 
-### Tình hình nợ hiện nay:
+### Tình hình nợ hiện nay
 
 |                     | Tổng | Khoản vay 1 | Khoản vay 2 | Khoản vay 3 | ... |
 | ------------------- | ---- | ----------- | ----------- | ----------- | --- |
@@ -26,7 +26,7 @@ updated: 2025-12-09T19:28
 
 ### Cuộc sống của bạn đã thay đổi thế nào từ lúc có nợ?
 ### Bạn đã làm [báo cáo tài chính](../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Ng%C3%A0nh%20ngh%E1%BB%81%20c%E1%BB%A5%20th%E1%BB%83/T%C3%A0i%20ch%C3%ADnh/K%E1%BA%BF%20to%C3%A1n/B%C3%A1o%20c%C3%A1o/B%C3%A1o%20c%C3%A1o%20t%C3%A0i%20ch%C3%ADnh%20c%C3%A1%20nh%C3%A2n%20g%E1%BB%93m%20b%E1%BA%A3n%20thu%20chi%20c%C3%A1%20nh%C3%A2n%20v%C3%A0%20b%E1%BA%A3n%20c%C3%A2n%20%C4%91%E1%BB%91i%20t%C3%A0i%20s%E1%BA%A3n.md) và [kế hoạch tài chính](../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/N%E1%BB%81n%20kinh%20t%E1%BA%BF%20h%C3%A0ng%20ho%C3%A1/K%E1%BA%BF%20ho%E1%BA%A1ch%20t%C3%A0i%20ch%C3%ADnh/index.md) chưa?
-### Chi phí sinh hoạt hàng tháng:
+### Chi phí sinh hoạt hàng tháng
 
 | Khoản chi | Số tiền | Ngày chi | 
 | --------- | ------- | -------- |
@@ -78,3 +78,6 @@ updated: 2025-12-09T19:28
 #### Với các yêu cầu bạn đưa ra, bạn nghĩ gì về việc nó sẽ tạo khó khăn cho người muốn giúp bạn?
 #### Có phải bạn thấy rằng các lý do bạn đưa ra quan trọng hơn việc giúp bạn hiệu quả hơn đúng không? Vì sao?
 ### Bạn muốn ai sẽ hỗ trợ bạn?
+### Bạn thấy việc ghép nhóm vay cho bạn có những khó khăn gì không?
+
+[Bản câu hỏi cho người cần được hỗ trợ thoát nợ](./B%E1%BA%A3n%20c%C3%A2u%20h%E1%BB%8Fi%20cho%20ng%C6%B0%E1%BB%9Di%20c%E1%BA%A7n%20%C4%91%C6%B0%E1%BB%A3c%20h%E1%BB%97%20tr%E1%BB%A3%20tho%C3%A1t%20n%E1%BB%A3.md)

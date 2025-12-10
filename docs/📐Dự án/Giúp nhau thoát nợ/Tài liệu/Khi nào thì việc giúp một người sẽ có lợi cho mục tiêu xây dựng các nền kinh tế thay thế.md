@@ -2,7 +2,7 @@
 share: true
 created: 2025-03-27T17:13
 title: Khi nào thì việc giúp một người sẽ có lợi cho mục tiêu xây dựng các nền kinh tế thay thế?
-updated: 2025-12-10T09:26
+updated: 2025-12-10T16:35
 ---
 Trên quan điểm chống tư bản, phát triển cộng đồng thì thứ cần tập trung là xây dựng [Các nền kinh tế thay thế](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Ph%C3%A1t%20tri%E1%BB%83n%20b%E1%BB%81n%20v%E1%BB%AFng.%20C%C3%A1c%20n%E1%BB%81n%20kinh%20t%E1%BA%BF%20thay%20th%E1%BA%BF/C%C3%A1c%20n%E1%BB%81n%20kinh%20t%E1%BA%BF%20thay%20th%E1%BA%BF/index.md). Việc giúp đỡ một vài cá thể thì chỉ là từ thiện và làm xao nhãng mục tiêu lâu dài hơn. Nên nếu ta giúp họ thì phải có thêm những lý do mạnh hơn, hoặc ít nhất là đủ mới để có thể chấp nhận việc xao nhãng để thử nghiệm. Thế nên, câu hỏi không phải là:
 > Tại sao nên giúp người này? 
@@ -14,6 +14,7 @@ Và:
 > Khi nào thì việc giúp một người là đáng để theo đuổi hơn việc xây dựng các nền kinh tế thay thế? 
 
 ### Khi nào thì việc giúp một người sẽ có lợi cho mục tiêu xây dựng các nền kinh tế thay thế? 
+[Điều gì khiến một người không muốn từ bỏ thiết chế tư bản](../Ng%C6%B0%E1%BB%9Di%20th%E1%BB%A5%20h%C6%B0%E1%BB%9Fng/%C4%90i%E1%BB%81u%20g%C3%AC%20khi%E1%BA%BFn%20m%E1%BB%99t%20ng%C6%B0%E1%BB%9Di%20kh%C3%B4ng%20mu%E1%BB%91n%20t%E1%BB%AB%20b%E1%BB%8F%20thi%E1%BA%BFt%20ch%E1%BA%BF%20t%C6%B0%20b%E1%BA%A3n.md)
 - Khi có thể huy động tư bản để làm bàn đạp xây dựng hệ thống mới
 - Khi có thêm một chân rết trong thiết chế tư bản
 - Khi có thể được dùng để kiểm tra tính ưu việt của hệ thống
@@ -22,7 +23,6 @@ Và:
 Một ví dụ là việc xây dựng hệ thống kết nối nhu cầu. Nó cố gắng làm giảm chi phí nắm bắt thông tin và giao dịch xuống. Mà vì bất cứ hình thức kinh tế nào đều hướng tới việc tối ưu hoá nguồn lực, tài nguyên, nên bất cứ hoạt động nào liên quan tới việc này, dù mục tiêu là để phục vụ cho một hình thức kinh tế cụ thể nào đó, đều có lợi cho tất cả các hình thức kinh tế còn lại.
 
 Đó có thể là cơ hội việc làm cho nhiều người khác, các mối quan hệ và kiến thức trong ngành, v.v. Những thông tin này đều được văn bản hóa để tạo thành kho tri thức cộng đồng. 
-
 #### Khi có thêm một chân rết trong thiết chế tư bản
 Chừng nào chúng ta còn thừa nhận là chưa thể độc lập với thiết chế tư bản, chừng đó vẫn phải thừa nhận là có mối quan hệ với những người như vậy là cần thiết. 
 

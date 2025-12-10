@@ -1,38 +1,48 @@
 ---
 share: true
 created: 2025-03-27T17:13
-Aliases:
+aliases:
   - săn giá rẻ, khuyến mãi, giảm giá
-updated: 2025-12-06T17:41
+updated: 2025-12-10T17:05
 ---
 # Làm sao để tìm được thông tin giảm giá tốt nhất? 
 ## Khác gì với mấy trang săn giá rẻ? 
+[Trang chủ - Vé máy bay trực tuyến giá rẻ](https://sanvere.com/)
 [TheBank - Chuyên gia tài chính của bạn](https://thebank.vn)
-Những thông tin không dễ để biết. Không phải vì nó nội bộ. Không được index. Giảm giá phim từ ngân hàng, ví điện tử
+Những thông tin không dễ để biết. Không phải vì nó nội bộ. Không được chỉ mục trên Google. Giảm giá phim từ ngân hàng, ví điện tử
 
 Điều gì khiến nhân viên ngân hàng không đăng lên các nhóm xem phim? Có được thông tin tức thời về các nhu cầu khác nhau. Phim thì chỉ là nhóm phim, muốn đồ ăn thì phải qua nhóm đồ ăn. Tức là vẫn phải chịu khó săn. Còn cái này là như một cổng thông tin, hỏi và được trả lời. 
 
-## Làm sao để không gây ra cạnh tranh giữa những người cùng lợi ích?
-[Chính sách hoa hồng](../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/T%C3%ACnh%20h%C3%ACnh%20%E1%BB%9F%20Vi%E1%BB%87t%20Nam/Lu%E1%BA%ADt,%20qu%E1%BA%A3n%20l%C3%BD%20nh%C3%A0%20n%C6%B0%E1%BB%9Bc/Ch%C3%ADnh%20s%C3%A1ch%20hoa%20h%E1%BB%93ng.md)
-Lý do tham gia vì đã đc giúp, hoặc vì đạt kpi. Nếu là cái sau thì sẽ gặp tình trạng cạnh tranh. Vì chính bản thân kpi là mang tính cạnh tranh. Phải có cơ chế phân phối lợi ích. Hoa hồng phải được chia đều
-Nếu không làm được điều này, thì tình trạng ém thông tin sẽ diễn ra, và lúc đó thì ko khác gì mấy nhóm fb, đăng nhu cầu rồi bên bán nhắn ib
+## Điều gì khiến họ có động lực để chia sẻ vào?
+- Kiếm tiền cho bản thân (đạt KPI)?
+- Đáp lại một lợi ích đã được nhận trước đó?
 
-Cạnh tranh giữa các nhân viên có thể được loại bỏ bằng việc nhóm nhận một đầu, còn sau đó chọn ngẫu nhiên một người, hoặc họ phải chia đều. Nhưng nói chung thì càng qua nhiều người thì nhân viên càng lỗ.
+Một số tiêu chí cho việc tham gia như là họ là ai, ở đâu, nhà cửa như thế nào, background, công việc, định hướng mục tiêu, có những khả năng gì, liệt kê nhiều nhất.  Có thể thậm chí họ không có background gì, không có định hướng mục tiêu công việc gì cả thì vẫn có thể xét duyệt tham gia cộng đồng dựa vào những tiêu chí khác. Một buổi trò chuyện mỏng thôi cũng được, cách sáu tháng hoặc một năm thì thẩm định lại
+
+## Làm sao để không gây ra cạnh tranh giữa những người cùng lợi ích?
+Giả sử A và B đều là thành viên của nhóm và đều có cùng lợi ích khi có thành viên tham gia một cơ hội. Việc đó sẽ xảy ra tình trạng cạnh tranh giữa A và B. Thường đó là các KPI tuyển dụng. Nếu không có cơ chế phân phối lợi ích thì tình trạng ém thông tin sẽ diễn ra, và lúc đó thì không khác gì mấy nhóm Facebook, đăng nhu cầu rồi khi có người hỏi thì bên bán kêu nhắn riêng.
+
+Cạnh tranh giữa các nhân viên có thể được loại bỏ bằng việc nhóm nhận một đầu, còn sau đó chọn ngẫu nhiên một người, hoặc họ phải chia đều. Nhưng nói chung thì càng qua nhiều người thì lợi ích càng bị chia nhỏ.
+
+[Chính sách hoa hồng](../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/T%C3%ACnh%20h%C3%ACnh%20%E1%BB%9F%20Vi%E1%BB%87t%20Nam/Lu%E1%BA%ADt,%20qu%E1%BA%A3n%20l%C3%BD%20nh%C3%A0%20n%C6%B0%E1%BB%9Bc/Ch%C3%ADnh%20s%C3%A1ch%20hoa%20h%E1%BB%93ng.md)
 
 ## Nằm trong những mô hình nào?
-Các công ty tội gì không muốn. Đã có Urbox, Golder Spoon rồi. Điểm hơn là đa dạng nguồn
+ Các công ty tội gì không muốn. Đã có Urbox, Golder Spoon rồi. Điểm hơn là đa dạng nguồn
+
 
 Bắt đầu từ việc tạo nhóm từ chính những người xung quanh. 
-liên minh các insider. Một dạng hợp tác xã
+liên minh các insider. Một dạng hợp tác xã. Nó 
+[Nhóm giúp nhau kiếm tiền](../Gi%C3%BAp%20nhau%20ki%E1%BA%BFm%20ti%E1%BB%81n/index.md)
 [Xây dựng công đoàn](../%C4%90%E1%BB%91i%20tho%E1%BA%A1i%20v%E1%BB%9Bi%20t%C6%B0%20b%E1%BA%A3n/X%C3%A2y%20d%E1%BB%B1ng%20c%C3%B4ng%20%C4%91o%C3%A0n.md)
 Có động lực để chia sẻ vào
 Nhóm những sale ở các ngành khác nhau cùng chia sẻ
 
-
-Nhóm tư vấn
+Với người nhận, nó không khác gì một nhóm giới thiệu việc làm. tư vấn kiếm tiền
 Không phải sản phẩm nào cũng có thể được đánh giá bởi một tiêu chí. Bởi vì nó nhiều chức năng và ưu đãi khác nhau.
 [review bảo hiểm](review%20b%E1%BA%A3o%20hi%E1%BB%83m.md)
-bản đồ tri thức cộng đồng 
+
+[Bản đồ tri thức cộng đồng ](https://obsidian.quảcầu.cc/📜Tài%20nguyên/Nhu%20cầu%20công%20việc/Viết%20và%20chia%20sẻ%20tri%20thức/Chia%20sẻ%20kho%20tri%20thức%20của%20mình%20cho%20mọi%20người?utm_source=Vault+B+Tồn+tại+trong+thế+giới+tư+bản+(Dự+án)&utm_medium=Vault&utm_campaign=C1&utm_content=📐Dự+án%2FMạng+kết+nối+nhu+cầu%2FXây+dựng+hợp+tác+xã+nhân+viên.md&utm_term=)
+
 
 ## Những mô hình khác cũng đáp ứng nhu cầu người dùng tốt hơn
 Không thực sự đáp ứng những nhu cầu thiết yếu, chỉ đáp ứng những thứ giải trí, những thứ không khó để có
@@ -55,11 +65,6 @@ Chỉ những nhân viên bán hàng không nghĩ rằng mình có thể thay đ
 Cộng sinh, ký sinh
 Dòng vốn
 Cộng sản là tư bản sinh thái
-Điều gì khiến họ có động lực để chia sẻ vào?
-- Kiếm tiền cho bản thân (đạt KPI)?
-- Đáp lại một lợi ích đã được nhận trước đó?
-
-Nếu là kiếm tiền thì sẽ gặp tình trạng cạnh tranh. Vì chính bản thân kpi là mang tính cạnh tranh. Phải có cơ chế phân phối lợi ích
 
 Công xã là việc bị đánh thuế 100%
 Doanh nghiệp xã hội

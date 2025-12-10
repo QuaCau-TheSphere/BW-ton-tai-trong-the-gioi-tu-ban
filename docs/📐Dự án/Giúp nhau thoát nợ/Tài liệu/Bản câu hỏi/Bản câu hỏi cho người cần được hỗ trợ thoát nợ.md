@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2025-12-09T19:37
+updated: 2025-12-10T17:01
 ---
 ## Tình hình chung
 - Tại sao bạn bị nợ? 
@@ -82,11 +82,13 @@ $$\text{Lãi suất theo tháng} = \frac{\text{Lãi suất}}{\text{Số tháng p
 	- Với các yêu cầu bạn đưa ra, bạn nghĩ gì về việc nó sẽ tạo khó khăn cho người muốn giúp bạn?
 	- Có phải bạn thấy rằng các lý do bạn đưa ra quan trọng hơn việc giúp bạn hiệu quả hơn đúng không? Vì sao?
 - Bạn muốn ai sẽ hỗ trợ bạn?
+- Bạn thấy việc ghép nhóm vay cho bạn có những khó khăn gì không?
 
 ## Xem thêm
 - [Các lý do cho việc giúp đỡ hoặc không giúp đỡ](../Ni%E1%BB%81m%20tin/C%C3%A1c%20l%C3%BD%20do%20cho%20vi%E1%BB%87c%20gi%C3%BAp%20%C4%91%E1%BB%A1%20ho%E1%BA%B7c%20kh%C3%B4ng%20gi%C3%BAp%20%C4%91%E1%BB%A1.md)
 - [Bản câu hỏi cho người muốn tham gia góp quỹ](./B%E1%BA%A3n%20c%C3%A2u%20h%E1%BB%8Fi%20cho%20ng%C6%B0%E1%BB%9Di%20mu%E1%BB%91n%20tham%20gia%20g%C3%B3p%20qu%E1%BB%B9.md)
 - [Bản câu hỏi cho người tham khảo, người hỗ trợ, người bảo lãnh](./B%E1%BA%A3n%20c%C3%A2u%20h%E1%BB%8Fi%20cho%20ng%C6%B0%E1%BB%9Di%20tham%20kh%E1%BA%A3o,%20ng%C6%B0%E1%BB%9Di%20h%E1%BB%97%20tr%E1%BB%A3,%20ng%C6%B0%E1%BB%9Di%20b%E1%BA%A3o%20l%C3%A3nh.md)
+- [Template câu hỏi cho người cần được hỗ trợ thoát nợ](./Template%20c%C3%A2u%20h%E1%BB%8Fi%20cho%20ng%C6%B0%E1%BB%9Di%20c%E1%BA%A7n%20%C4%91%C6%B0%E1%BB%A3c%20h%E1%BB%97%20tr%E1%BB%A3%20tho%C3%A1t%20n%E1%BB%A3.md)
 
 ## Nơi thảo luận
 ![](https://imagizer.imageshack.com/a/img923/1273/jQAnX6.png)
