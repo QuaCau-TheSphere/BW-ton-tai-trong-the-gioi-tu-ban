@@ -2,32 +2,18 @@
 created: 2025-01-14T21:00
 share: true
 title: Đề xuất vay nợ của Nguyễn Hữu Lộc
-updated: 2025-12-10T11:53
+updated: 2025-12-10T17:02
 ---
 ## Tình hình chung
-### Tại sao bạn bị nợ? 
-### Tình hình nợ hiện nay:
+### Tại sao bạn bị nợ?
+Thấy mình cầm đằng chuôi của GM nên nhảy vào. Ai ngờ nó cao tay hơn mình. [Tóm tắt cách GM Mall lừa đảo](../../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/T%C3%ACnh%20h%C3%ACnh%20%E1%BB%9F%20Vi%E1%BB%87t%20Nam/Ng%C3%A0nh%20ngh%E1%BB%81%20c%E1%BB%A5%20th%E1%BB%83/Kh%C3%A1c/L%E1%BB%ABa%20%C4%91%E1%BA%A3o/T%C3%B3m%20t%E1%BA%AFt%20c%C3%A1ch%20GM%20Mall%20l%E1%BB%ABa%20%C4%91%E1%BA%A3o.md)
 
-|                     | Tổng | Khoản vay 1 | Khoản vay 2 | Khoản vay 3 | ... |
-| ------------------- | ---- | ----------- | ----------- | ----------- | --- |
-| Lý do vay           |      |             |             |             |     |
-| Gốc vay             |      |             |             |             |     |
-| Số tiền thực nhận   |      |             |             |             |     |
-| Lãi suất            |      |             |             |             |     |
-| Lãi suất theo tháng |      |             |             |             |     |
-| Tổng phải trả       |      |             |             |             |     |
-| Tổng đã trả         |      |             |             |             |     |
-| Tổng còn phải trả   |      |             |             |             |     |
-| Tất toán (nếu có)   |      |             |             |             |     |
-|                     |      |             |             |             |     |
-| 2026-01             |      |             |             |             |     |
-| 2026-02             |      |             |             |             |     |
-| 2026-03             |      |             |             |             |     |
-| ...                 |      |             |             |             |     |
+### Tình hình nợ hiện nay
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQMG2iTQb_TY5ZhQ-tT9DUv4yL2JVF21Vi7tq_wcZA5yIEj5mwcoRUljr1U_nScoZveK9j8fSfU_ZiF/pubhtml?gid=1957114031&amp;single=true&amp;widget=true&amp;headers=false" width="100%" height="500"  ></iframe>
 
 ### Cuộc sống của bạn đã thay đổi thế nào từ lúc có nợ?
 ### Bạn đã làm [báo cáo tài chính](../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Ng%C3%A0nh%20ngh%E1%BB%81%20c%E1%BB%A5%20th%E1%BB%83/T%C3%A0i%20ch%C3%ADnh/K%E1%BA%BF%20to%C3%A1n/B%C3%A1o%20c%C3%A1o/B%C3%A1o%20c%C3%A1o%20t%C3%A0i%20ch%C3%ADnh%20c%C3%A1%20nh%C3%A2n%20g%E1%BB%93m%20b%E1%BA%A3n%20thu%20chi%20c%C3%A1%20nh%C3%A2n%20v%C3%A0%20b%E1%BA%A3n%20c%C3%A2n%20%C4%91%E1%BB%91i%20t%C3%A0i%20s%E1%BA%A3n.md) và [kế hoạch tài chính](../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/N%E1%BB%81n%20kinh%20t%E1%BA%BF%20h%C3%A0ng%20ho%C3%A1/K%E1%BA%BF%20ho%E1%BA%A1ch%20t%C3%A0i%20ch%C3%ADnh/index.md) chưa?
-### Chi phí sinh hoạt hàng tháng:
+### Chi phí sinh hoạt hàng tháng
 
 | Khoản chi | Số tiền | Ngày chi | 
 | --------- | ------- | -------- |
@@ -71,28 +57,6 @@ updated: 2025-12-10T11:53
 ### Bạn cần hỗ trợ những gì?
 ### Theo bạn đâu là cách để giúp bạn bền vững?
 ### Có vô vàn những người mắc nợ như bạn. Tại sao bạn nên được giúp hơn những người khác?
-### Là người mang nợ, bạn sẽ rất bận để trả nợ. Nhưng việc cho vay đòi hỏi sự tin tưởng, vốn đến từ sự minh bạch và giải trình. Bạn sẽ làm gì để đảm bảo thông tin được thông suốt, nhất là khi bạn đang cảm thấy mệt mà thấy câu hỏi không giúp gì được cho bạn?
-### Bạn nghĩ mình cần làm những gì để kiếm được một người có tiền và để họ đồng ý cho bạn vay? 
-### Nếu bạn đã thấy mình đã cố gắng giải thích nhưng bạn vẫn thấy người giúp bạn chưa hiểu được ý bạn thì bạn sẽ làm gì?
-### Người giúp bạn có thể nói chuyện với những người giúp khác không?
-### Mức độ bí mật của những thông tin bạn chia sẻ ở đây là gì? Ai sẽ là người bạn cảm thấy thoải mái khi họ biết được những gì bạn chia sẻ? Vì sao?
-#### Với các yêu cầu bạn đưa ra, bạn nghĩ gì về việc nó sẽ tạo khó khăn cho người muốn giúp bạn?
-#### Có phải bạn thấy rằng các lý do bạn đưa ra quan trọng hơn việc giúp bạn hiệu quả hơn đúng không? Vì sao?
-### Bạn muốn ai sẽ hỗ trợ bạn?
-
-
-
-
-Lộc muốn vay **20tr** để tham gia chương trình [Vcil Travel School 2025 tại Hàn Quốc](https://www.vciltravelschool.com/vi/event-details-registration/vcil-travel-school-south-korea-iii-nov-2025-from-miracle-development-to-sustainable-alternatives), cam kết sau **3 năm** trả lại với lãi **3%**, sẽ ký các giấy tờ cần thiết để đảm bảo không lừa đảo. **Nhật sẽ đứng ra bảo lãnh.** Ngày **5/10** là tới kỳ đóng tiền, nếu không huy động đủ 20tr thì sẽ hoàn trả lại số tiền đã huy động được. 
-
-## Tại sao nên giúp Lộc? 
-- Khi có thể huy động tư bản để làm bàn đạp xây dựng hệ thống mới
-- Khi có thêm một chân rết trong thiết chế tư bản
-- Khi có thể được dùng để kiểm tra tính ưu việt của hệ thống
-
-Bài chi tiết:: [Khi nào thì việc giúp một người sẽ có lợi cho mục tiêu xây dựng các nền kinh tế thay thế?](../../T%C3%A0i%20li%E1%BB%87u/Khi%20n%C3%A0o%20th%C3%AC%20vi%E1%BB%87c%20gi%C3%BAp%20m%E1%BB%99t%20ng%C6%B0%E1%BB%9Di%20s%E1%BA%BD%20c%C3%B3%20l%E1%BB%A3i%20cho%20m%E1%BB%A5c%20ti%C3%AAu%20x%C3%A2y%20d%E1%BB%B1ng%20c%C3%A1c%20n%E1%BB%81n%20kinh%20t%E1%BA%BF%20thay%20th%E1%BA%BF.md)
-
-### Làm bàn đạp xây dựng hệ thống mới
 Đây là những hoạt động của Lộc:
 
 | Hoạt động                                                                        | Thành phẩm                                                                                           |
@@ -114,35 +78,29 @@ Những hoạt động trên là đầu vào để Nhật làm những hoạt đ
 | [Xây dựng hệ thống tri thức cộng đồng](https://doi-thoai.deno.dev/of.6c.1)                                     | Các ghi chú trong kho [Tồn tại trong thế giới tư bản](../../../../index.md)                                                                                   |
 | Lập trình                                                                                                      | Tạo danh bạ khách hàng vay FE Credit từ visit form                                                                                                            |
 
-### Có được một chân rết trong thiết chế tư bản
 Chừng nào chúng ta còn thừa nhận là chưa thể độc lập với thiết chế tư bản, chừng đó vẫn phải thừa nhận là có mối quan hệ với những người như vậy là hữu ích. Dễ nhất là kiếm việc nhẹ lương cao cho mọi người.
 
-Xem thêm:: [Điều gì khiến một người không muốn từ bỏ thiết chế tư bản](../%C4%90i%E1%BB%81u%20g%C3%AC%20khi%E1%BA%BFn%20m%E1%BB%99t%20ng%C6%B0%E1%BB%9Di%20kh%C3%B4ng%20mu%E1%BB%91n%20t%E1%BB%AB%20b%E1%BB%8F%20thi%E1%BA%BFt%20ch%E1%BA%BF%20t%C6%B0%20b%E1%BA%A3n.md)
+Xem thêm
+- [Điều gì khiến một người không muốn từ bỏ thiết chế tư bản?](../%C4%90i%E1%BB%81u%20g%C3%AC%20khi%E1%BA%BFn%20m%E1%BB%99t%20ng%C6%B0%E1%BB%9Di%20kh%C3%B4ng%20mu%E1%BB%91n%20t%E1%BB%AB%20b%E1%BB%8F%20thi%E1%BA%BFt%20ch%E1%BA%BF%20t%C6%B0%20b%E1%BA%A3n.md)
+- [Khi nào thì việc giúp một người sẽ có lợi cho mục tiêu xây dựng các nền kinh tế thay thế?](../../T%C3%A0i%20li%E1%BB%87u/Khi%20n%C3%A0o%20th%C3%AC%20vi%E1%BB%87c%20gi%C3%BAp%20m%E1%BB%99t%20ng%C6%B0%E1%BB%9Di%20s%E1%BA%BD%20c%C3%B3%20l%E1%BB%A3i%20cho%20m%E1%BB%A5c%20ti%C3%AAu%20x%C3%A2y%20d%E1%BB%B1ng%20c%C3%A1c%20n%E1%BB%81n%20kinh%20t%E1%BA%BF%20thay%20th%E1%BA%BF.md)
 
-[Muốn thoát nghèo cần dòng tiền, chứ không phải là làm công ăn lương](../../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Ni%E1%BB%81m%20tin,%20di%E1%BB%85n%20ng%C3%B4n/Ti%E1%BB%81n/Gi%C3%A0u,%20ngh%C3%A8o/Mu%E1%BB%91n%20tho%C3%A1t%20ngh%C3%A8o%20c%E1%BA%A7n%20d%C3%B2ng%20ti%E1%BB%81n,%20ch%E1%BB%A9%20kh%C3%B4ng%20ph%E1%BA%A3i%20l%C3%A0%20l%C3%A0m%20c%C3%B4ng%20%C4%83n%20l%C6%B0%C6%A1ng.md). [Công ty ra chính sách khó cho nhân viên không đơn thuần là vì tham tiền, mà còn là vì nhà đầu tư cần tiền được lưu thông, hoặc thậm chí là rửa tiền](../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/H%C3%ACnh%20th%E1%BB%A9c%20ki%E1%BA%BFm%20ti%E1%BB%81n/Thi%E1%BA%BFu%20li%C3%AAm%20ch%C3%ADnh/R%E1%BB%ADa%20ti%E1%BB%81n,%20tr%E1%BB%91n%20thu%E1%BA%BF/C%C3%B4ng%20ty%20ra%20ch%C3%ADnh%20s%C3%A1ch%20kh%C3%B3%20cho%20nh%C3%A2n%20vi%C3%AAn%20kh%C3%B4ng%20%C4%91%C6%A1n%20thu%E1%BA%A7n%20l%C3%A0%20v%C3%AC%20tham%20ti%E1%BB%81n,%20m%C3%A0%20c%C3%B2n%20l%C3%A0%20v%C3%AC%20nh%C3%A0%20%C4%91%E1%BA%A7u%20t%C6%B0%20c%E1%BA%A7n%20ti%E1%BB%81n%20%C4%91%C6%B0%E1%BB%A3c%20l%C6%B0u%20th%C3%B4ng,%20ho%E1%BA%B7c%20th%E1%BA%ADm%20ch%C3%AD%20l%C3%A0%20r%E1%BB%ADa%20ti%E1%BB%81n.md). [Chính phủ muốn kiểm soát dòng tiền](../../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/T%C3%ACnh%20h%C3%ACnh%20%E1%BB%9F%20Vi%E1%BB%87t%20Nam/Lu%E1%BA%ADt,%20qu%E1%BA%A3n%20l%C3%BD%20nh%C3%A0%20n%C6%B0%E1%BB%9Bc/T%C3%A0i%20ch%C3%ADnh/Ch%C3%ADnh%20ph%E1%BB%A7%20mu%E1%BB%91n%20ki%E1%BB%83m%20so%C3%A1t%20d%C3%B2ng%20ti%E1%BB%81n.md). Xen ra để thoát nghèo không thể không có hiểu biết về bản đồ dòng tiền. Càng lên được các vị trí cao càng thấy được đang có những nhóm lợi ích nào tranh giành quyền lợi. Có quan hệ gần gũi một người có những thông tin như vậy sẽ hữu ích.
+### Là người mang nợ, bạn sẽ rất bận để trả nợ. Nhưng việc cho vay đòi hỏi sự tin tưởng, vốn đến từ sự minh bạch và giải trình. Bạn sẽ làm gì để đảm bảo thông tin được thông suốt, nhất là khi bạn đang cảm thấy mệt mà thấy câu hỏi không giúp gì được cho bạn?
+### Bạn nghĩ mình cần làm những gì để kiếm được một người có tiền và để họ đồng ý cho bạn vay? 
+### Nếu bạn đã thấy mình đã cố gắng giải thích nhưng bạn vẫn thấy người giúp bạn chưa hiểu được ý bạn thì bạn sẽ làm gì?
+### Người giúp bạn có thể nói chuyện với những người giúp khác không?
+### Mức độ bí mật của những thông tin bạn chia sẻ ở đây là gì? Ai sẽ là người bạn cảm thấy thoải mái khi họ biết được những gì bạn chia sẻ? Vì sao?
+#### Với các yêu cầu bạn đưa ra, bạn nghĩ gì về việc nó sẽ tạo khó khăn cho người muốn giúp bạn?
+#### Có phải bạn thấy rằng các lý do bạn đưa ra quan trọng hơn việc giúp bạn hiệu quả hơn đúng không? Vì sao?
+### Bạn muốn ai sẽ hỗ trợ bạn?
+### Bạn thấy việc ghép nhóm vay cho bạn có những khó khăn gì không?
 
-Một cách nữa để có dòng tiền là [chơi MMO](../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Ng%C3%A0nh%20ngh%E1%BB%81%20c%E1%BB%A5%20th%E1%BB%83/Ki%E1%BA%BFm%20ti%E1%BB%81n%20tr%E1%BB%B1c%20tuy%E1%BA%BFn%20(MMO)/index.md). Do đặc tính của phần mềm là có chi phí biên bằng 0 nên cũng không cần bóc lột thặng dư lao động của một vài người (trừ thằng dev và vài người làm cùng), nên cũng không phải tham gia sâu vào hệ thống tư bản cho lắm. Chỉ cần có kiến thức công nghệ thông tin trong một số mảng nhất định là làm được. 
 
-Những ý ở trên chỉ là tầm nhìn bao quát, chưa nói được hành động cụ thể. Nó chưa phải là SMART, chưa phải là 5W1H. Ai, ở đâu, khi nào, cái gì, bằng cách nào, tại sao, bao nhiêu; những thông tin này Lộc có. 
 
-Tất nhiên, những bài phân tích chuyên sâu về kinh tế, chính sách, thể chế Việt Nam nhan nhản, từ nhà nghiên cứu đến blogger ẩn danh. Thứ Lộc đem đến được là thứ những người bạn xung quanh sử dụng được. 
 
-### Dịp để kiểm tra tính ưu việt của hệ thống thay thế
-Nhật nhận thấy các diễn ngôn tân tự do cũng có xuất hiện ở Lộc. (Nhật cũng tự thấy mình vẫn còn lơ mơ về nó). Ở vị trí bị áp bức mà đã tiếp thu chúng như vậy, liệu rằng khi đã càng dấn sâu hơn vào hệ thống thì sẽ như thế nào? 
-
-[Việc có được dòng tiền là cánh cửa để đạt được ước mơ thay đổi cuộc sống](../../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Ni%E1%BB%81m%20tin,%20di%E1%BB%85n%20ng%C3%B4n/Ti%E1%BB%81n/N%E1%BB%A3/Vi%E1%BB%87c%20c%C3%B3%20%C4%91%C6%B0%E1%BB%A3c%20d%C3%B2ng%20ti%E1%BB%81n%20l%C3%A0%20c%C3%A1nh%20c%E1%BB%ADa%20%C4%91%E1%BB%83%20%C4%91%E1%BA%A1t%20%C4%91%C6%B0%E1%BB%A3c%20%C6%B0%E1%BB%9Bc%20m%C6%A1%20thay%20%C4%91%E1%BB%95i%20cu%E1%BB%99c%20s%E1%BB%91ng.md). Người đang quay cuồng vì tiền thì sẽ tiếp nhận ý tưởng về các nền kinh tế thay thế như thế nào? Nó sẽ trả tiền điện, nước cho gia đình thế nào? Ngăn mấy đứa đòi nợ đến nhà làm phiền ra sao? Chữa trị bệnh ung thư của cha mẹ thế nào? Đem đến cho con mình một nền giáo dục tử tế như thế nào? Hay rốt cuộc nó vẫn là dành cho những nhóm may mắn hơn?
-
-Lộc có nhiều ý tưởng kiếm tiền, và cần thuê người làm. Có vẻ việc nào Lộc cũng đều trả công cao hơn thị trường một chút, nên đúng là giúp Lộc còn giúp được nhiều người khác thật. Nhưng dưới con mắt mác xít thì liệu như vậy là đã ổn không? Nhật đã thử vài lần đề cập việc trả bằng cổ phần chứ không phải là lương thì Lộc đều có ý né tránh. Đồng ý là khi còn nghèo thì mình thông cảm được, nhưng giả sử như đã thoát nghèo rồi thì có nên tiếp tục kỳ vọng Lộc trả bằng cổ phần hay không? Hay là tặc lưỡi bảo tư bản thân tả là tốt rồi?
-
-Các mô hình kinh tế thay thế hiện nay mà tôi biết (do VCIL giới thiệu) đều vẫn bảo tồn sự sở hữu tự liệu sản xuất, phương tiện sản xuất. Hay là nếu có được mô hình nhà nước phúc lợi thì cũng là đã tốt rồi? Khi nào tới được đó rồi hãy kỳ vọng tiếp? 
-
-Một người ở trong thiết chế tư bản thì sẽ chân trong chân ngoài thế nào?
-Khi đăng bài vào trong nhóm nạn nhân GM, không thấy phản ứng gì nhiều.
 
 ## Nhận xét của Nhật
 Trong những người xét ra là đã tiếp xúc sâu với Nhật, thì Lộc là một trong hai người Nhật thấy là có sự kiên nhẫn với Nhật lớn. Nhật cảm kích vì điều đó.
 
 Cứ giả sử là Lộc muốn xù và chấp nhận đánh mất mối quan hệ với Nhật, thì Lộc sẽ mất một người sẵn sàng hỗ trợ không đòi tiền cũng như điểm tín dụng tốt của Nhật.
 
-Đi guốc trong bụng
 Xem thêm:: [Các lý do cho việc giúp đỡ hoặc không giúp đỡ](../../T%C3%A0i%20li%E1%BB%87u/Ni%E1%BB%81m%20tin/C%C3%A1c%20l%C3%BD%20do%20cho%20vi%E1%BB%87c%20gi%C3%BAp%20%C4%91%E1%BB%A1%20ho%E1%BA%B7c%20kh%C3%B4ng%20gi%C3%BAp%20%C4%91%E1%BB%A1.md), [Các khó khăn của người cần vay và lý do từ chối cho vay](../../T%C3%A0i%20li%E1%BB%87u/C%C3%A1c%20kh%C3%B3%20kh%C4%83n%20c%E1%BB%A7a%20ng%C6%B0%E1%BB%9Di%20c%E1%BA%A7n%20vay%20v%C3%A0%20l%C3%BD%20do%20t%E1%BB%AB%20ch%E1%BB%91i%20cho%20vay.md)
