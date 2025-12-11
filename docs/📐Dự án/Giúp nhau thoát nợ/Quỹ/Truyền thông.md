@@ -1,9 +1,10 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-12-09T22:34
+updated: 2025-12-11T17:49
 ---
 LỜI MỜI THAM GIA QUỸ TÍN DỤNG VI MÔ
+Bạn có một người bạn
 Khi một người cần vay gấp thì sẽ có 2 nguồn để vay:
 - Mượn từ bạn bè, người thân
 - Từ các dịch vụ [vay tín chấp](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Ch%E1%BB%8Dn%20s%E1%BA%A3n%20ph%E1%BA%A9m%20ph%C3%B9%20h%E1%BB%A3p/Vay%20t%C3%ADn%20ch%E1%BA%A5p/index.md), bất kể đó là vì lợi nhuận hay phi lợi nhuận

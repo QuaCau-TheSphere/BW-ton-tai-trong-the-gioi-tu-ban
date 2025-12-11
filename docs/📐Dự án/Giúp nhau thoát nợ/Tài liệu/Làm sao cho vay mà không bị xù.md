@@ -1,8 +1,9 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-12-10T09:26
+updated: 2025-12-11T17:50
 ---
+Sự tin tưởng vào con người trong đô thị Việt Nam đang ở mức thấp, vì không ai kiểm soát được 
 Về việc xù thì quỹ sẽ cư xử văn minh, không thuê ai đòi nợ cả. Một đứa xù thì cả lũ phải chịu. Để điều này xảy ra thì cần giải quyết được hai vấn đề:
 - Làm sao để người vay không có động lực xù?
 - Trong trường hợp họ vẫn xù thì làm sao để hạn chế ảnh hưởng?
@@ -18,11 +19,13 @@ Số tiền trong quỹ này sẽ được luân phiên giúp trả nợ cho nha
 
 Phép vua thua lệ làng. Khi mà một cộng đồng như vậy được xuất hiện,  thì họ sẽ còn an tâm cho vay hơn là bắt người vay ghi giấy nợ, vì họ có sự tin tưởng lớn là người vay sẽ gạt phăng cái suy nghĩ xù nợ ngay khi nó vừa mới hiện ra. Việc xây dựng một cộng đồng như vậy có thể bắt đầu từ những buổi gặp mặt, ăn uống chung. Lâu dài hơn là xây dựng các mạng lưới kết nối nhu cầu, các hình thái kinh tế thay thế.
 
+Không dám xù cả làng
+
 Tóm lại, có những lý do sau để không xù:
 - Có ít nhất một buổi nói chuyện với người vay và một người bạn của họ. Nếu có thể đến nhà nói chuyện với người thân thì càng tốt
 - Có ký giấy vay nợ, trong đó đồng ý việc sẽ đưa thông tin lên mạng nếu không trả nợ
 - Thấy mình thực sự tử tế thì cũng sẽ tìm cách trả lại
-- Trước khi vay thì đã có tâm lý đằng nào cũng mất sổ rồi
+- Trước khi vay thì đã có tâm lý đằng nào cũng mất tài sản thế chấp rồi
 - Còn chỗ để được giúp đỡ vào lần sau
 - Cơ hội tìm kiếm dòng tiền
 - Ảnh hưởng tới người mình không thể cắt đứt mối quan hệ
