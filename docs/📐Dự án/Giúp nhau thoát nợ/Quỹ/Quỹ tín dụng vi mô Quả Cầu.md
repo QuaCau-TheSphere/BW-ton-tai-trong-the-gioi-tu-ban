@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-12-11T18:11
+updated: 2025-12-11T19:46
 aliases:
   - Xây dựng quỹ tín dụng vi mô
   - Giúp nhau thoát nợ
@@ -14,17 +14,17 @@ Khi một người cần vay nhiều thì sẽ có 2 nguồn để vay:
 - Từ các dịch vụ cho [vay tín chấp](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Ch%E1%BB%8Dn%20s%E1%BA%A3n%20ph%E1%BA%A9m%20ph%C3%B9%20h%E1%BB%A3p/Vay%20t%C3%ADn%20ch%E1%BA%A5p/index.md), bất kể đó là vì lợi nhuận hay phi lợi nhuận
 
 Nhưng:
-- Vay từ bạn bè, người thân thì [khó mở lời](../T%C3%A0i%20li%E1%BB%87u/C%C3%A1c%20kh%C3%B3%20kh%C4%83n%20c%E1%BB%A7a%20ng%C6%B0%E1%BB%9Di%20c%E1%BA%A7n%20vay%20v%C3%A0%20l%C3%BD%20do%20t%E1%BB%AB%20ch%E1%BB%91i%20cho%20vay.md), mà nếu đã mở lời thì cũng có [vô số lý do để họ từ chối](../T%C3%A0i%20li%E1%BB%87u/Ni%E1%BB%81m%20tin/C%C3%A1c%20l%C3%BD%20do%20cho%20vi%E1%BB%87c%20gi%C3%BAp%20%C4%91%E1%BB%A1%20ho%E1%BA%B7c%20kh%C3%B4ng%20gi%C3%BAp%20%C4%91%E1%BB%A1.md). Có những người dù có tiền và cũng quan tâm bạn bè nhưng vẫn quan niệm rằng [không cho vay thì mất bạn. Cho vay rồi còn mất nhanh hơn](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Ni%E1%BB%81m%20tin,%20di%E1%BB%85n%20ng%C3%B4n/Ti%E1%BB%81n/Vay,%20n%E1%BB%A3/Kh%C3%B4ng%20cho%20vay%20th%C3%AC%20m%E1%BA%A5t%20b%E1%BA%A1n.%20Cho%20vay%20r%E1%BB%93i%20c%C3%B2n%20m%E1%BA%A5t%20nhanh%20h%C6%A1n.md)
+- Vay từ bạn bè, người thân thì [khó mở lời](../T%C3%A0i%20li%E1%BB%87u/C%C3%A1c%20kh%C3%B3%20kh%C4%83n%20c%E1%BB%A7a%20ng%C6%B0%E1%BB%9Di%20c%E1%BA%A7n%20vay%20v%C3%A0%20l%C3%BD%20do%20t%E1%BB%AB%20ch%E1%BB%91i%20cho%20vay.md), mà nếu đã mở lời thì cũng có [vô số lý do để họ từ chối](../T%C3%A0i%20li%E1%BB%87u/Ni%E1%BB%81m%20tin/C%C3%A1c%20l%C3%BD%20do%20cho%20vi%E1%BB%87c%20gi%C3%BAp%20%C4%91%E1%BB%A1%20ho%E1%BA%B7c%20kh%C3%B4ng%20gi%C3%BAp%20%C4%91%E1%BB%A1.md). Có những người dù có tiền và cũng quan tâm bạn bè nhưng vẫn quan niệm rằng "[Không cho vay thì mất bạn. Cho vay rồi còn mất nhanh hơn](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Ni%E1%BB%81m%20tin,%20di%E1%BB%85n%20ng%C3%B4n/Ti%E1%BB%81n/Vay,%20n%E1%BB%A3/Kh%C3%B4ng%20cho%20vay%20th%C3%AC%20m%E1%BA%A5t%20b%E1%BA%A1n.%20Cho%20vay%20r%E1%BB%93i%20c%C3%B2n%20m%E1%BA%A5t%20nhanh%20h%C6%A1n.md)"
 - Vay dịch vụ thì có thể không đủ điều kiện để được vay, hoặc lãi quá cao, hoặc hạn mức không đủ để xử lý vấn đề
 
-Góp gió thành bão; giải pháp cho chuyện này là nhiều người cùng tham gia hỗ trợ họ. Nó không khác gì mở tài khoản trên [Thiennguyen.app](https://thiennguyen.app/) hay [GoFundMe](https://www.gofundme.com/) rồi vận động mọi người tham gia, chia sẻ. Nhưng khả năng cao là những người tin họ thì không đủ tiền, nên cần huy động từ những người lạ. Mà những người này thì chưa đủ quan tâm cũng như sự tin tưởng đối với họ, dù họ có thể cũng đã quan tâm đến việc làm việc tốt một cách bền vững. Giải pháp cho tình trạng này là thành lập một quỹ vi mô với mục đích cho những người này vay với lãi suất thấp, phục vụ cho nhu cầu giúp đỡ nhau hơn là kiếm tiền.
+Góp gió thành bão; giải pháp cho chuyện này là nhiều người cùng tham gia hỗ trợ họ. Nó không khác gì mở tài khoản trên [Thiennguyen.app](https://thiennguyen.app/) hay [GoFundMe](https://www.gofundme.com/) rồi vận động mọi người tham gia, chia sẻ. Nhưng điều đó chưa hẳn là đủ sức thuyết phục với người lạ, những người khả năng cao là chưa đủ quan tâm cũng như sự tin tưởng, dù họ có thể cũng đã quan tâm đến việc làm việc tốt một cách bền vững. Dù [sự giúp đỡ người khác làm con người cảm thấy cuộc sống có ý nghĩa](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/T%C3%A2m%20l%C3%BD%20h%E1%BB%8Dc%20qu%E1%BA%A3n%20l%C3%BD%20v%C3%A0%20lao%20%C4%91%E1%BB%99ng/Gi%C3%BAp%20%C4%91%E1%BB%A1%20nhau/S%E1%BB%B1%20gi%C3%BAp%20%C4%91%E1%BB%A1%20ng%C6%B0%E1%BB%9Di%20kh%C3%A1c%20l%C3%A0m%20con%20ng%C6%B0%E1%BB%9Di%20c%E1%BA%A3m%20th%E1%BA%A5y%20cu%E1%BB%99c%20s%E1%BB%91ng%20c%C3%B3%20%C3%BD%20ngh%C4%A9a.md), [việc mất tiền vẫn làm cho tâm lý của họ bị đau](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/N%E1%BB%81n%20kinh%20t%E1%BA%BF%20h%C3%A0ng%20ho%C3%A1/Kinh%20t%E1%BA%BF%20h%E1%BB%8Dc%20t%C3%A2m%20l%C3%BD/Vi%E1%BB%87c%20m%E1%BA%A5t%20ti%E1%BB%81n%20l%C3%A0m%20t%C3%A2m%20l%C3%BD%20con%20ng%C6%B0%E1%BB%9Di%20b%E1%BB%8B%20%C4%91au%20d%C3%B9%20c%C3%B3%20th%E1%BB%83%20n%C3%B3%20v%C3%B4%20l%C3%BD.md). Nếu có thể giúp họ giải quyết một nhu cầu khác cụ thể hơn thì khả năng họ tham gia sẽ cao hơn. 
 
-Nếu bạn mong muốn giúp đỡ bạn bè mình những lúc họ khó khăn một cách bền vững, thì bạn có thể cân nhắc tham gia quỹ.
+Một trong những giải pháp cho tình trạng này là thành lập một quỹ vi mô với mục đích giúp đỡ nhau hơn là kiếm tiền, nhưng vẫn đem lại lợi ích hợp lý cho người cho vay. Nếu bạn mong muốn giúp đỡ bạn bè mình những lúc họ khó khăn một cách bền vững, bạn có thể cân nhắc tham gia quỹ.
 
 ## Mô hình hoạt động
 Mọi thành viên của quỹ sẽ được tham gia vào mọi quyết định của quỹ. Cách thức ra quyết định sẽ theo hướng dẫn trong [Sổ tay Enspiral](https://handbook.enspiral.com/agreements/decisions.html).
 
- [Thông tin người giữ quỹ](./Th%C3%B4ng%20tin%20ng%C6%B0%E1%BB%9Di%20gi%E1%BB%AF%20qu%E1%BB%B9.md)
+Xem thêm:: [Thông tin người giữ quỹ](./Th%C3%B4ng%20tin%20ng%C6%B0%E1%BB%9Di%20gi%E1%BB%AF%20qu%E1%BB%B9.md)
 
 ### Người đóng góp
 Người đóng góp sẽ cùng với các thành viên quỹ thảo luận cách thức tham gia của mình, có thể dưới hình thức mua cổ phiếu hoặc trái phiếu. Đơn giản nhất là như việc gửi tiết kiệm trong ngân hàng. VD:
@@ -36,12 +36,14 @@ Người đóng góp sẽ cùng với các thành viên quỹ thảo luận các
 | Tương tự gửi tiết kiệm              | 10%/năm  | 1 tháng/3 tháng/6 tháng/1 năm           |
 | Tương tự cho vay tín dụng           | 2%/tháng | Hàng tháng                              |
 
+Hoặc họ có thể được nhận thêm lợi ích bằng việc được đáp ứng các nhu cầu khác. Ví dụ như được [giới thiệu dịch vụ](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Gi%E1%BB%9Bi%20thi%E1%BB%87u%20d%E1%BB%8Bch%20v%E1%BB%A5/index.md) của họ, hoặc được hỗ trợ xây dựng hệ thống tự động hóa.
+
 Xem thêm:: [Bản câu hỏi cho người muốn tham gia góp quỹ](../T%C3%A0i%20li%E1%BB%87u/B%E1%BA%A3n%20c%C3%A2u%20h%E1%BB%8Fi/B%E1%BA%A3n%20c%C3%A2u%20h%E1%BB%8Fi%20cho%20ng%C6%B0%E1%BB%9Di%20mu%E1%BB%91n%20tham%20gia%20g%C3%B3p%20qu%E1%BB%B9.md)
 
 ### Người vay
 Sự tin tưởng là cái nền tảng quan trọng nhất để cho vay. Không có sự tin tưởng thì rủi ro cao, từ đó dẫn đến khó vay hoặc lãi cao. Việc trả lời [bản câu hỏi cho người cần được hỗ trợ thoát nợ](../T%C3%A0i%20li%E1%BB%87u/B%E1%BA%A3n%20c%C3%A2u%20h%E1%BB%8Fi/B%E1%BA%A3n%20c%C3%A2u%20h%E1%BB%8Fi%20cho%20ng%C6%B0%E1%BB%9Di%20c%E1%BA%A7n%20%C4%91%C6%B0%E1%BB%A3c%20h%E1%BB%97%20tr%E1%BB%A3%20tho%C3%A1t%20n%E1%BB%A3.md) sẽ giúp họ có sự tin tưởng cao hơn.
 
-Để đảm bảo việc khả năng trả nợ cũng như thúc đẩy việc xây dựng cộng đồng và nhân rộng mô hình, những người vay sẽ được khuyến khích [vay theo nhóm hơn là vay cá nhân](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Ng%C3%A0nh%20ngh%E1%BB%81%20c%E1%BB%A5%20th%E1%BB%83/T%C3%A0i%20ch%C3%ADnh/Vay%20n%E1%BB%A3/Cho%20vay%20theo%20nh%C3%B3m%20b%E1%BB%81n%20v%E1%BB%AFng%20h%C6%A1n,%20%C3%ADt%20b%E1%BB%8B%20x%C3%B9%20h%C6%A1n.%20Cho%20vay%20c%C3%A1%20nh%C3%A2n%20nhi%E1%BB%81u%20l%E1%BB%A3i%20nhu%E1%BA%ADn%20h%C6%A1n,%20d%E1%BB%85%20m%E1%BB%9F%20r%E1%BB%99ng%20ph%E1%BA%A1m%20vi%20ho%E1%BA%A1t%20%C4%91%E1%BB%99ng%20h%C6%A1n.md). Nếu một người trong nhóm xù, những người còn lại sẽ phải gánh. Người bảo lãnh cũng sẽ cùng nhóm với người vay. Lúc này có thể hiểu là người vay không vay quỹ, mà là vay của từng người trong nhóm.
+Để đảm bảo việc khả năng trả nợ cũng như thúc đẩy việc xây dựng cộng đồng và nhân rộng mô hình, những người vay sẽ được khuyến khích [vay theo nhóm hơn là vay cá nhân](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Ng%C3%A0nh%20ngh%E1%BB%81%20c%E1%BB%A5%20th%E1%BB%83/T%C3%A0i%20ch%C3%ADnh/Vay%20n%E1%BB%A3/Cho%20vay%20theo%20nh%C3%B3m%20b%E1%BB%81n%20v%E1%BB%AFng%20h%C6%A1n,%20%C3%ADt%20b%E1%BB%8B%20x%C3%B9%20h%C6%A1n.%20Cho%20vay%20c%C3%A1%20nh%C3%A2n%20nhi%E1%BB%81u%20l%E1%BB%A3i%20nhu%E1%BA%ADn%20h%C6%A1n,%20d%E1%BB%85%20m%E1%BB%9F%20r%E1%BB%99ng%20ph%E1%BA%A1m%20vi%20ho%E1%BA%A1t%20%C4%91%E1%BB%99ng%20h%C6%A1n.md). Nếu một người trong nhóm xù, những người còn lại sẽ phải gánh. Người bảo lãnh cũng sẽ cùng nhóm với người vay. Lúc này có thể hiểu là người vay không vay quỹ, mà là vay của từng người trong nhóm. Nhóm càng gắn bó với nhau càng đáng tin để cho vay hơn.
 
 Trong công tác xã hội thì đây được gọi là các nhóm đồng đẳng. Nhóm này cơ bản là một quỹ con của quỹ, chờ đợi một ngày đạt được sự đa dạng nguồn thu để có thể tách ra độc lập.
 
