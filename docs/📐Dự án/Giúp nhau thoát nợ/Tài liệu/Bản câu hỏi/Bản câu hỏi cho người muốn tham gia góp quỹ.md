@@ -1,25 +1,26 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2025-12-11T19:07
+updated: 2025-12-12T11:36
 ---
-- Mục tiêu bạn muốn tham gia?
-	- [ ] Kiếm lãi
-	- [ ] Giúp đỡ
-	- [ ] Khác:
-- Số tiền gửi:
+Mục tiêu bạn muốn tham gia?
+- [ ] Kiếm lãi
+- [ ] Giúp đỡ
+- [ ] Khác:
+
+Bạn muốn đóng góp của mình ở dạng nào?
+- [ ] Cổ phiếu
+- [ ] Trái phiếu
+- [ ] Ủng hộ
+
+Trường hợp là trái phiếu:
+- Số tiền cho vay:
 - Mức lãi:
 - Kỳ hạn trả:
 
-Bạn cho phép người vay sử dụng với mục đích gì?
-- [ ] Nhu cầu cơ bản: sức khỏe, thực phẩm, xăng xe, con cái, nhà cửa
-- [ ] Kinh doanh
-- [ ] Trả nợ thế chấp
-- [ ] Trả nợ tín chấp
-- [ ] Học tập
-- [ ] Giải tỏa căng thẳng
-
 Bạn còn những nhu cầu nào khác cần đáp ứng?
+
+Bạn có muốn trở thành thành viên quỹ không? Tại sao?
 
 Bạn có muốn ẩn danh không? Tại sao?
 
