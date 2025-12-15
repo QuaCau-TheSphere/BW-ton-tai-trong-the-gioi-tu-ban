@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2025-12-11T15:28
+updated: 2025-12-15T12:29
 ---
 ## Tình hình chung
 - Tại sao bạn bị nợ? 
@@ -35,13 +35,13 @@ $$\text{Lãi suất theo tháng} = \frac{\text{Lãi suất}}{\text{Số tháng p
 | Khoản chi | Số tiền | Ngày chi | 
 | --------- | ------- | -------- |
 |           |         |          |
-- Bạn đánh giá mình thuộc loại nghèo nào? Xem chi tiết ở bài [Việt Nam không ai chết đói, chỉ có nghèo đa chiều](../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Ph%C3%A1t%20tri%E1%BB%83n%20b%E1%BB%81n%20v%E1%BB%AFng.%20C%C3%A1c%20n%E1%BB%81n%20kinh%20t%E1%BA%BF%20thay%20th%E1%BA%BF/Th%E1%BB%B1c%20tr%E1%BA%A1ng/Ng%C6%B0%E1%BB%9Di%20ngh%C3%A8o/Vi%E1%BB%87t%20Nam%20kh%C3%B4ng%20ai%20ch%E1%BA%BFt%20%C4%91%C3%B3i,%20ch%E1%BB%89%20c%C3%B3%20ngh%C3%A8o%20%C4%91a%20chi%E1%BB%81u.md)
-- Bạn có những đề xuất vay nào?
+- Bạn đánh giá mình thuộc loại nghèo nào? Xem chi tiết ở bài [Việt Nam không ai chết đói, chỉ có nghèo đa chiều](../../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/T%C3%ACnh%20h%C3%ACnh%20%E1%BB%9F%20Vi%E1%BB%87t%20Nam/Kinh%20t%E1%BA%BF%20v%C4%A9%20m%C3%B4/Hi%E1%BB%87n%20tr%E1%BA%A1ng/Vi%E1%BB%87t%20Nam%20kh%C3%B4ng%20ai%20ch%E1%BA%BFt%20%C4%91%C3%B3i,%20ch%E1%BB%89%20c%C3%B3%20ngh%C3%A8o%20%C4%91a%20chi%E1%BB%81u.md)
+- Bạn muốn dựa theo đề xuất cho vay của người cho vay, hay muốn tự có đề xuất vay riêng?
 
-| STT | Số tiền | Ngày trả | Lãi |
-| --- | ------- | -------- | --- |
-| 1   |         |          | 0   |
-|     |         |          |     |
+| Ưu tiên | Số tiền | Ngày trả | Lãi | Phạt khi trả chậm |
+| ------- | ------- | -------- | --- | ----------------- |
+| 1       |         |          | 0   | 0                 |
+|         |         |          |     |                   |
 - Chuyện gì sẽ xảy ra nếu bạn không nhận được sự giúp đỡ?
 - Ngoài tiền ra bạn còn cần những hỗ trợ nào khác?
 
