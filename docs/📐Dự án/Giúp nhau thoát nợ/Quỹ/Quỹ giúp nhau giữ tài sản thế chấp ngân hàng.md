@@ -1,14 +1,14 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-12-10T11:04
+updated: 2025-12-15T14:40
 ---
 Khi vay thế chấp ngân hàng thì ngân hàng thường định giá tài sản thấp hơn giá trị thị trường. Đã thế chỉ được vay tối đa 80% mức định giá đó. Nhưng nếu mất khả năng trả nợ và phải bị cấn tài sản thì mất hết luôn.
 
 Trước mắt, để thử nghiệm, quỹ sẽ giới hạn đối tượng phục vụ là những người đang vay thẻ tín dụng bằng hình thức thế chấp tài sản. Sau khi được vay thì họ sẽ phải dùng số tiền đó để đi huỷ thẻ. 40 ngày sổ sẽ được mở khoá, và họ sẽ phải trả lại tiền vay. Lãi vay sẽ được trả một phần cho người quản lý, và một phần để trả tiền cho những ai góp tiền nhưng không cần dùng đến.
 
 ## Khác biệt với hình thức hụi thông thường
-Gọi quỹ này là một [Dây hụi](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Ch%E1%BB%8Dn%20s%E1%BA%A3n%20ph%E1%BA%A9m%20ph%C3%B9%20h%E1%BB%A3p/Vay%20t%C3%ADn%20ch%E1%BA%A5p/T%E1%BB%95%20ch%E1%BB%A9c%20t%C3%A0i%20ch%C3%ADnh%20vi%20m%C3%B4/D%C3%A2y%20h%E1%BB%A5i.md) cũng được, nhưng nó có những điểm khác biệt với các dây hụi thông thường như sau:
+Gọi quỹ này là một [Chơi hụi](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Ph%C3%A1t%20tri%E1%BB%83n%20b%E1%BB%81n%20v%E1%BB%AFng.%20C%C3%A1c%20n%E1%BB%81n%20kinh%20t%E1%BA%BF%20thay%20th%E1%BA%BF/T%C3%A0i%20ch%C3%ADnh%20vi%20m%C3%B4,%20t%C3%A0i%20ch%C3%ADnh%20thay%20th%E1%BA%BF/Ch%C6%A1i%20h%E1%BB%A5i/index.md) cũng được, nhưng nó có những điểm khác biệt với các dây hụi thông thường như sau:
 
 | Tiêu chí                                   | Các dây hụi thông thường           | Quỹ giúp nhau giữ tài sản thế chấp    |
 | ------------------------------------------ | ---------------------------------- | ------------------------------------- |
