@@ -1,11 +1,8 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-12-13T11:04
+updated: 2025-12-13T18:13
 ---
-Khái niệm:: 
-[mô hình quỹ.pptx - Google Trang trình bày](https://docs.google.com/presentation/d/e/2PACX-1vTqOCxrJ2rjQTXce6PbJZToZU19q5gZMLS3uG7nNZO_ezX-aEppACCuSyC2ml-n-g/pub?start=false&loop=false&delayms=10000#slide=id.p1)
-
 THE LOCAL COMMUNITY FUND MODEL
 mô hình quỹ cộng đồng tại các địa phương dễ bị tổn thương xây dựng trên nền tảng quỹ chi hội
 
@@ -99,63 +96,4 @@ Việc đảm bảo chân quỹ là trách nhiệm của chủ tịch hội và 
 3. Đánh giá về khả năng quản trị của ban điều hành các quỹ?
 4. Sự định hướng và hiệu quả của các chương trình cộng đồng được tài trợ và phát triển bởi dòng tiền từ các quỹ cộng đồng địa phương?
 
-Về quỹ Đồng Lòng và mô hình quỹ cộng đồng:
-Quỹ cộng đồng được xây dựng trên 3 nền tảng chính: nguồn lực của chính cộng đồng, vì mục tiêu của cộng đồng và được điều hành bởi cộng đồng. Hệ thống các quỹ cộng đồng phổ biến rộng trên cả nước sẽ góp phần quan trọng vào công tác hỗ trợ phát triển bền vững, vốn là mục tiêu cuối cùng cho sự ra đời và hoạt động của các quỹ này. 
-
-
-
-
-Các thể dạng quỹ cộng đồng đang được triển khai.
-QUỸ MỤC TIÊU
-Định dạng: các cộng đồng có chung một mục tiêu tập hợp đóng góp nguồn lực để cùng thực hiện mục tiêu một cách có chiến lược.
-Đại diện: quỹ Đồng Lòng, các quỹ từ thiện/phục vụ mục tiêu phát triển của các cộng đồng/hội nhóm, ý tưởng “Quỹ Nông Nghiệp Bền Vững”.
-
-    Điểm cộng:
-
-_ Do quan tâm nên khả năng là nền tảng kiến thức và kinh nghiệm, kết nối tốt.
-_ Phạm vi hoạt động rộng (địa lý)
-_ Dòng vốn mạnh và tính chủ động cao
-_ Mình đánh giá các quỹ này có thể trở thành nền tảng để xây dựng các quỹ cộng đồng khác.
-
-    Điểm trừ:
-
-_ Do hoạt động rộng nên chi phí cao
-_ Khó kiểm soát, khó hỗ trợ phi tài chính cho các đơn vị ko gần về mặt địa lý
-_ Ngay từ đầu đã “chung một mục tiêu” thì rất dễ biased/thiên hẳn về một vài mảng hoạt động nhất định.
-_ Cũng vì chung mục tiêu nên sẽ có thể bị ảnh hưởng bởi lợi ích của một vài cá nhân.
-QUỸ ĐỊA PHƯƠNG
-Định dạng: các cộng đồng tại một địa phương địa lý chung tay đóng góp nguồn lực để xây dựng cộng đồng địa phương phát triển bền vững.
-Đại diện: quỹ hỗ trợ nông dân các xã, quỹ cấp làng/xã. Cái này dễ hình dung nhất.
-
-    Điểm cộng:
-
-_ Chi phí quản lý, hoạt động… rất thấp, gần ko đáng kể (thậm chí tận dụng được nguồn lực tình nguyện sẵn có)
-_ Rất dễ kiểm soát bởi bởi ban quản lý và cộng đồng địa phương
-_ Các chương trình/mảng hoạt động của họ có thể rất đa dạng trong nhiều lĩnh vực.
-_ Tính cộng đồng cao nhất (gần như bất kì thành viên/donor nào cũng biết nhau). Dễ hình dung nhất. (Đây là mô hình đang triển khai mạnh nhất.)
-
-    Điểm trừ:
-
-_ Phạm vi địa lý nhỏ nên ảnh hưởng rất giới hạn
-_ Khó huy động nguồn lực ngoài địa phương
-_ Chất lượng chương trình và quản lý phụ thuộc hoàn toàn vào kiến thức ban quản lý/người địa phương.
-_ Các địa phương khó khăn vì thế sẽ cần hỗ trợ bên ngoài cả về vốn và kiến thức.
-QUỸ DANH TÍNH
-Định dạng: các thành viên các nhóm có chung một danh tính/ở chung trong một cộng đồng riêng biệt tập hợp nguồn lực cho sự phát triển của nhóm danh tính đó.
-Đại diện: quỹ Người Mông Cùng Tiến, các quỹ cựu sinh viên các trường, ý tưởng “quỹ Phật Tử Thiện Tâm”.
-Nhìn chung đây là một thể dạng rất giống với thể dạng quỹ mục tiêu. Chúng chia sẻ phần lớn các tính chất hay dở. Tuy nhiên do ko được định dạng bằng “mục tiêu” nên khả năng cao sẽ:
-_ Ít bias/thiên vị về một mảng hoạt động nhất định (so với quỹ mục tiêu)
-_ Ít bị lợi ích điều khiển hơn
-_ Chỉ đứng sau quỹ địa phương về tính cộng đồng.
-_ Tuy nhiên “danh tính” làm một thứ khó định nghĩa rõ ràng. (Nhiều bạn Kinh vẫn thích đóng góp cho quỹ người Mông) và cộng đồng riêng biệt thì có thể khó tiếp cận. Mình đánh giá đây có thể vừa là cộng vừa là trừ.
-
-Đây là biểu đồ về sự phát triển về kích cỡ (size) và sự chuyên nghiệp quản lý, cũng như tính pháp lý của mô hình tài chính tự quản hỗ trợ.
-Dưới đây là một số sự đột phá trong mô hình quỹ địa phương. Mô hình là sự thay đổi về tư duy bản chất của tài chính tự quản hỗ trợ.
-
-    Sau chỉ khoảng 3 năm phát triển, tuy vẫn hoạt động như VSLA/quỹ chi hội, tổng quỹ lại tương đương mức SACCO/quỹ tín dụng nhân dân. Cách nhau khoảng 30x.
-    Do được ra đời vì mục tiêu phát triển cộng đồng, mô hình quỹ địa phương được kết hợp phần "tài sản công" - chính là phần tiền đối ứng của các nhà tài trợ để kích vốn chi hội nhảy vọt. Số tiền này sẽ được cộng đồng quản lý và sử dụng vì lợi ích của chính cộng đồng, trong những hạng mục giáo dục, môi trường, văn hóa, y tế...
-    Thay đổi về tư duy trong việc xây dựng cộng đồng - khi có sẵn dòng vốn để phát triển các chương trình cộng đồng/vì lợi ích chung của tập thể, các hoạt động xã hội sẽ phát triển và được định hướng tốt hơn rất nhiều. Ngắn gọn thì địa phương sẽ tổ chức và chỉ đạo các ct của NGO.
-    Quy định về sử dụng linh hoạt tài sản công tại các chi hội trong cùng một hệ thống quỹ cộng đồng. Các chi hội có thể bàn thảo và đi tới thỏa thuận về những trường hợp đc phép vay chéo chi hội, và mức tối đa mà các chi hội sẽ cho vay chéo. Ví dụ dễ hiểu là khi 1 chi hội/bản/làng trong 1 hệ thống qcđ xã có 5 bản bị ảnh hưởng nặng bởi thiên tai, 4 chi hội còn lại sẽ phải huy động 50% tổng phần vốn thuộc "tài sản công" để cho chi hội kia vay khắc phục. Cái cơ chế này cam đoan là chưa hề có trong lịch sử!
-[Quỹ Đồng Lòng](https://www.facebook.com/groups/995497007838132/permalink/1788622961858862/)
-
-![564033466\_10100162206061043\_9047883655130572092\_n.jpg](https://scontent.fsgn12-1.fna.fbcdn.net/v/t39.30808-6/564033466_10100162206061043_9047883655130572092_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeF4O9SqXdO7YvSRg1i04kLXqdPISs4XlkKp08hKzheWQqT4LqDZtku5r_amFBJPrm8ZSL8uXWv_oUikgGEQQdu8&_nc_ohc=5qeM5C_08vwQ7kNvwFRJhMK&_nc_oc=AdnT4QMR5_IeK0wcL_Xi-LLdpBLjWXsrT-qZK3c6DLdpFPX0IdTOQqjMja3TdlFR5hSw95ao_JGUumcmOidi5-ob&_nc_zt=23&_nc_ht=scontent.fsgn12-1.fna&_nc_gid=Xok63oZeTeHIQ_bTIm0wng&oh=00_AfkaG8py_wDHX9HVe62JsA-kQNdc5G-XMwJ2VdFDIsKEKw&oe=6942A892)
+[mô hình quỹ.pptx - Google Trang trình bày](https://docs.google.com/presentation/d/e/2PACX-1vTqOCxrJ2rjQTXce6PbJZToZU19q5gZMLS3uG7nNZO_ezX-aEppACCuSyC2ml-n-g/pub?start=false&loop=false&delayms=10000)

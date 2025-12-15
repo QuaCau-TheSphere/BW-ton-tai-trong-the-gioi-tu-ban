@@ -1,8 +1,6 @@
 ---
 share: true
 created: 2024-10-20T19:04
-updated: 2025-12-06T17:41
+updated: 2025-12-15T15:24
 ---
-Khái niệm:: 
-
-Nguồn:: 
+![Hieu ngheo thoat ngheo - Abhijit V Banerjee - Esther - Duflo.pdf](../../assets/attachments/Hieu%20ngheo%20thoat%20ngheo%20-%20Abhijit%20V%20Banerjee%20-%20Esther%20-%20Duflo.pdf)

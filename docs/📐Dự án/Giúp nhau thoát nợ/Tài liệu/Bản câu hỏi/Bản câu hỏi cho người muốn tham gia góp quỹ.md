@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2025-12-12T11:36
+updated: 2025-12-15T12:29
 ---
 Mục tiêu bạn muốn tham gia?
 - [ ] Kiếm lãi
@@ -17,6 +17,7 @@ Trường hợp là trái phiếu:
 - Số tiền cho vay:
 - Mức lãi:
 - Kỳ hạn trả:
+- Phạt khi trả chậm:
 
 Bạn còn những nhu cầu nào khác cần đáp ứng?
 

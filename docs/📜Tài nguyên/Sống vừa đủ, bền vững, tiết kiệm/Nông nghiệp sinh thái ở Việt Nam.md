@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-12-06T17:41
+updated: 2025-12-15T16:32
 aliases:
   - làng sinh thái ở Việt Nam
 ---
@@ -17,7 +17,7 @@ aliases:
 Bạn có thể tham gia nhóm Facebook [CUỘC CÁCH MẠNG MỘT-CỌNG-RƠM](https://www.facebook.com/groups/381947618639212)
 
 ### Kulavietnam
-Đây là nhóm nghiên cứu nhân học. Họ quan tâm đến việc thấy được các biểu tượng văn hóa, các mạng lưới xã hội cũng như cách các thiết chế quyền lực đang vận hành. Ngoài ra họ cũng xây dựng các mô hình tài chính giúp người nông dân có thể tự chủ được tốt hơn (VD: [VSLA](../../%F0%9F%93%90D%E1%BB%B1%20%C3%A1n/X%C3%A2y%20d%E1%BB%B1ng%20h%E1%BB%87%20th%E1%BB%91ng%20kinh%20t%E1%BA%BF%20m%E1%BB%9Bi/VSLA.md), [AMAP](../../%F0%9F%93%90D%E1%BB%B1%20%C3%A1n/X%C3%A2y%20d%E1%BB%B1ng%20h%E1%BB%87%20th%E1%BB%91ng%20kinh%20t%E1%BA%BF%20m%E1%BB%9Bi/AMAP.md)).
+Đây là nhóm nghiên cứu nhân học. Họ quan tâm đến việc thấy được các biểu tượng văn hóa, các mạng lưới xã hội cũng như cách các thiết chế quyền lực đang vận hành. Ngoài ra họ cũng xây dựng các mô hình tài chính giúp người nông dân có thể tự chủ được tốt hơn (VD: [VSLA](../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Ph%C3%A1t%20tri%E1%BB%83n%20b%E1%BB%81n%20v%E1%BB%AFng.%20C%C3%A1c%20n%E1%BB%81n%20kinh%20t%E1%BA%BF%20thay%20th%E1%BA%BF/T%C3%A0i%20ch%C3%ADnh%20vi%20m%C3%B4,%20t%C3%A0i%20ch%C3%ADnh%20thay%20th%E1%BA%BF/Qu%E1%BB%B9%20c%E1%BB%99ng%20%C4%91%E1%BB%93ng/VSLA/index.md), [AMAP](../../%F0%9F%93%90D%E1%BB%B1%20%C3%A1n/X%C3%A2y%20d%E1%BB%B1ng%20h%E1%BB%87%20th%E1%BB%91ng%20kinh%20t%E1%BA%BF%20m%E1%BB%9Bi/AMAP.md)).
 
 Một số bài viết của họ liên quan đến nông nghiệp:
 - [Phải chăng đã đến lúc chống lại khái niệm nông nghiệp hữu cơ?](https://www.facebook.com/share/p/1HArAcqthY/)
@@ -47,4 +47,4 @@ Người thực hành nông nghiệp sinh thái cho rằng không thể có tăn
 
 [Trong suốt hơn nửa thế kỷ, phần lớn các giải Nobel Kinh tế đều tôn vinh những học giả củng cố mô hình tăng trưởng kinh tế](../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/N%E1%BB%81n%20kinh%20t%E1%BA%BF%20h%C3%A0ng%20ho%C3%A1/Nh%C3%A2n%20h%E1%BB%8Dc/Trong%20su%E1%BB%91t%20h%C6%A1n%20n%E1%BB%ADa%20th%E1%BA%BF%20k%E1%BB%B7,%20ph%E1%BA%A7n%20l%E1%BB%9Bn%20c%C3%A1c%20gi%E1%BA%A3i%20Nobel%20Kinh%20t%E1%BA%BF%20%C4%91%E1%BB%81u%20t%C3%B4n%20vinh%20nh%E1%BB%AFng%20h%E1%BB%8Dc%20gi%E1%BA%A3%20c%E1%BB%A7ng%20c%E1%BB%91%20m%C3%B4%20h%C3%ACnh%20t%C4%83ng%20tr%C6%B0%E1%BB%9Fng%20kinh%20t%E1%BA%BF.md)
 
-Khái niệm:: [Nông nghiệp sinh thái](../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/N%C3%B4ng%20nghi%E1%BB%87p%20sinh%20th%C3%A1i.md)
+Khái niệm:: [Nông nghiệp, nông thôn](../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/N%C3%B4ng%20nghi%E1%BB%87p,%20n%C3%B4ng%20th%C3%B4n.md)
