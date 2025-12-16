@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-12-08T22:46
+updated: 2025-12-16T10:27
 aliases:
   - Lê Ngọc Biết
 ---
@@ -18,21 +18,18 @@ Nhân viên đáo nói là có gì hỏi anh chủ.
 
 | Tên cơ sở    | Địa chỉ                 | Phí rút | Phí đáo | Ưu đãi   |
 | ------------ | ----------------------- | ------- | ------- | -------- |
-|              | 297 Ngô Gia Tự          | 1.6     | 1.6     |          |
-| Lê Ngọc Biết | 26 Nguyễn Tất Thành, Q4 | 1.5     | 2       | Freeship |
 | VNC Credit   |                         | 1.5     | 1.5     |          |
+|              | 297 Ngô Gia Tự          | 1.6     | 1.6     |          |
+Các ngày 4, 5, 10, 15 là ngày cao điểm. Ra có khi phải chờ lâu 
 
 ## Đánh giá một số dịch vụ rút đáo 
-### Lê Ngọc Biết
+### Lê Ngọc Biết (đã nghỉ)
+#### Chính sách
 - Phí rút 1.8% đáo 2%. Momo thì rút 3%, không đáo
 - Khách đến lần đầu được giảm 0.3%
 - Giới thiệu 1 khách giảm 0.05% trọn đời
 - Freeship toàn HCM
 - POS ngành gas
-- Chỉ giảm được tối đa 1.5%. Khi giới thiệu thêm người nữa thì gọi điện ò í e.
-- Không gọi điện được khi đã được giảm tới 1.5%. Không có khách nào thấp hơn nữa.
-
-Nhân viên dùng nick của Biết, nhưng khi hỏi về chính sách thì lại nói có gì hỏi trực tiếp Biết chứ tụi em không biết
 
 Ví dụ: ngồi nhậu 10 người, kêu bên này tới cà mỗi người 100k thôi là được giảm 0.5% còn phí đáo 1.5% trọn đời
 
@@ -42,7 +39,16 @@ SĐT: 0909 205 202
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zh7tNBPx-XQ?si=eniDiqNs9O3I_8pD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 [Khi vảy cá nở hoa: Hành trình biến phế phẩm thành nghệ thuật sống động ](https://plo.vn/khi-vay-ca-no-hoa-hanh-trinh-bien-phe-pham-thanh-nghe-thuat-song-dong-post843432.html)
+
 [Hoa vảy cá VAVA \| Facebook](https://www.facebook.com/hoavayca?comment_id=Y29tbWVudDo0NTgwMzA2Njk2NDE1NjhfNTY0MTY2NjkyNjk4ODk1&locale=vi_VN)
+
+### Quan sát
+- Chỉ giảm được tối đa 1.5%. Khi giới thiệu thêm người nữa thì gọi điện ò í e.
+- Không gọi điện được khi đã được giảm tới 1.5%. Không có khách nào thấp hơn nữa.
+
+Nhân viên dùng nick của Biết, nhưng khi hỏi về chính sách thì lại nói có gì hỏi trực tiếp Biết chứ tụi em không biết
+
+Sau chuồn luôn
 
 ### Nhận xét
 #### Giúp nhau giảm giá phí đáo rút
