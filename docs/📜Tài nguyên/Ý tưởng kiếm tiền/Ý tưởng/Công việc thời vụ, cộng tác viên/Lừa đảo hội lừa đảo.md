@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2025-12-06T17:41
+updated: 2025-12-16T17:23
 aliases:
   - Trục lợi bọn trục lợi
 ---
@@ -24,7 +24,7 @@ Với khách hàng US/UK thì tụi nó mồi tới 50-70$ mỗi lần. Và than
 ### Vấn đề đạo đức
 Đây là số tiền mà họ đi lừa người khác để có được. Có hợp lẽ nếu mình sử dụng số tiền đó để giúp người khác? Về mặt luật pháp thì chắc vẫn còn cần thêm bằng chứng để có thể nói là mình không rửa tiền, nhưng ở đây chỉ bàn về đạo đức.
 
-Xem thêm:: [Vấn đề đạo đức khi làm ảo](../../../../%F0%9F%93%90D%E1%BB%B1%20%C3%A1n/Gi%C3%BAp%20nhau%20ki%E1%BA%BFm%20ti%E1%BB%81n/Ch%E1%BA%A1y%20ch%E1%BB%89%20ti%C3%AAu%20cho%20nh%C3%A2n%20vi%C3%AAn%20c%C3%B4ng%20ty/Ch%C6%A1i%20ch%C3%ADnh%20s%C3%A1ch/V%E1%BA%A5n%20%C4%91%E1%BB%81%20%C4%91%E1%BA%A1o%20%C4%91%E1%BB%A9c.md)
+Xem thêm:: [Vấn đề đạo đức khi làm ảo](../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%C4%90%E1%BA%A1o%20%C4%91%E1%BB%A9c,%20ph%C3%A1p%20lu%E1%BA%ADt/Trung%20th%E1%BB%B1c/V%E1%BA%A5n%20%C4%91%E1%BB%81%20%C4%91%E1%BA%A1o%20%C4%91%E1%BB%A9c%20trong%20vi%E1%BB%87c%20l%E1%BB%ABa%20d%E1%BB%91i%20t%C6%B0%20b%E1%BA%A3n.md)
 
 Số tiền đầu tư:: 
 Số tiền đặt cọc:: 
@@ -43,4 +43,4 @@ Thời điểm trả tiền::
 ![Pasted image 20250531132835.png](../../../../assets/attachments/Pasted%20image%2020250531132835.png)
 
 
-Khái niệm:: [Lừa đảo](../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/L%E1%BB%ABa%20%C4%91%E1%BA%A3o.md)
+Khái niệm:: [Lừa đảo](../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Ki%E1%BA%BFm%20ti%E1%BB%81n/Kh%C3%B4ng%20li%C3%AAm%20ch%C3%ADnh/L%E1%BB%ABa%20%C4%91%E1%BA%A3o.md)
