@@ -2,7 +2,7 @@
 share: true
 created: 2025-03-27T17:13
 description: Chuyện gì sẽ xảy ra khi bị liệt là nợ xấu?
-updated: 2025-12-15T16:47
+updated: 2025-12-16T10:10
 aliases:
   - Chuyện gì sẽ xảy ra khi bị liệt là nợ xấu?
   - Lý do không muốn bị mất điểm tín dụng
@@ -29,7 +29,7 @@ Nhà nghiên cứu trong video này đến một ngôi làng và hỏi một ng�
 Hơn nữa, việc mất điểm tín dụng khác với việc không vay được ngân hàng. Các [Dịch vụ mở khoản vay](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Ch%E1%BB%8Dn%20s%E1%BA%A3n%20ph%E1%BA%A9m%20ph%C3%B9%20h%E1%BB%A3p/Vay%20t%C3%ADn%20ch%E1%BA%A5p/Ng%C3%A2n%20h%C3%A0ng/Th%E1%BA%BB%20t%C3%ADn%20d%E1%BB%A5ng/D%E1%BB%8Bch%20v%E1%BB%A5%20m%E1%BB%9F%20kho%E1%BA%A3n%20vay.md) vẫn làm được cho khách hàng nợ xấu. Ngay chính cả Nhật dù có điểm tín dụng đạt mức cấp 2 vẫn phải qua dịch vụ mới vay được, chứ tự làm thì cũng không được. Nếu có điểm cũng không chắc vay được, mà mất điểm thì cũng vẫn vay được, thì có điểm để làm gì?
 
 ### Lý do 2: Không muốn người thân bị làm phiền
-[Các kỹ thuật nói chuyện, gây áp lực với khách hàng](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/T%C3%ACnh%20h%C3%ACnh%20%E1%BB%9F%20Vi%E1%BB%87t%20Nam/Ng%C3%A0nh%20ngh%E1%BB%81%20c%E1%BB%A5%20th%E1%BB%83/T%C3%A0i%20ch%C3%ADnh/T%E1%BB%95%20ch%E1%BB%A9c%20t%C3%ADn%20d%E1%BB%A5ng/T%E1%BB%95%20ch%E1%BB%A9c%20t%C3%ADn%20d%E1%BB%A5ng%20phi%20ng%C3%A2n%20h%C3%A0ng/C%C3%B4ng%20ty%20t%C3%A0i%20ch%C3%ADnh%20ti%C3%AAu%20d%C3%B9ng/C%C3%A1c%20k%E1%BB%B9%20thu%E1%BA%ADt%20n%C3%B3i%20chuy%E1%BB%87n,%20g%C3%A2y%20%C3%A1p%20l%E1%BB%B1c%20v%E1%BB%9Bi%20kh%C3%A1ch%20h%C3%A0ng.md)
+[Các kỹ thuật gây áp lực với khách hàng của nhân viên đòi nợ, và cách phản hồi chúng](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/T%C3%ACnh%20h%C3%ACnh%20%E1%BB%9F%20Vi%E1%BB%87t%20Nam/Ng%C3%A0nh%20ngh%E1%BB%81%20c%E1%BB%A5%20th%E1%BB%83/T%C3%A0i%20ch%C3%ADnh/T%E1%BB%95%20ch%E1%BB%A9c%20t%C3%ADn%20d%E1%BB%A5ng/T%E1%BB%95%20ch%E1%BB%A9c%20t%C3%ADn%20d%E1%BB%A5ng%20phi%20ng%C3%A2n%20h%C3%A0ng/C%C3%B4ng%20ty%20t%C3%A0i%20ch%C3%ADnh%20ti%C3%AAu%20d%C3%B9ng/C%C3%A1c%20k%E1%BB%B9%20thu%E1%BA%ADt%20g%C3%A2y%20%C3%A1p%20l%E1%BB%B1c%20v%E1%BB%9Bi%20kh%C3%A1ch%20h%C3%A0ng%20c%E1%BB%A7a%20nh%C3%A2n%20vi%C3%AAn%20%C4%91%C3%B2i%20n%E1%BB%A3,%20v%C3%A0%20c%C3%A1ch%20ph%E1%BA%A3n%20h%E1%BB%93i%20ch%C3%BAng.md)
 
 - Ảnh hưởng công việc thế nào khi cả nhà đi làm suốt?
 - [Xấu hổ với người xung quanh khi bị ngân hàng xuống tác động](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Ng%C3%A0nh%20ngh%E1%BB%81%20c%E1%BB%A5%20th%E1%BB%83/T%C3%A0i%20ch%C3%ADnh/Vay%20n%E1%BB%A3/T%C3%ADn%20ch%E1%BA%A5p/D%E1%BB%B1a%20tr%C3%AAn%20%C4%91i%E1%BB%83m%20t%C3%ADn%20d%E1%BB%A5ng/C%C3%B4ng%20ty%20t%C3%A0i%20ch%C3%ADnh%20ti%C3%AAu%20d%C3%B9ng/Nh%C3%A2n%20vi%C3%AAn%20thu%20h%E1%BB%93i%20n%E1%BB%A3%20c%E1%BB%A7a%20c%C3%B4ng%20ty%20t%C3%A0i%20ch%C3%ADnh%20g%E1%BA%B7p%20kh%C3%B3%20kh%C4%83n%20%C4%91%E1%BB%83%20thuy%E1%BA%BFt%20ph%E1%BB%A5c%20h%C3%A0ng%20x%C3%B3m,%20gia%20%C4%91%C3%ACnh%20t%C3%A1c%20%C4%91%E1%BB%99ng%20kh%C3%A1ch%20h%C6%A1n%20ng%C3%A2n%20h%C3%A0ng.md)?
