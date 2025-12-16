@@ -1,8 +1,8 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-12-06T17:41
+updated: 2025-12-16T15:48
 ---
 Khái niệm:: 
 
-Nguồn:: 
+Nguồn:: [Nam Nguyen - Đầu tiên phải nói là những chỉ số về văn... \| Facebook](https://www.facebook.com/share/p/1L8GLF4iqE/)

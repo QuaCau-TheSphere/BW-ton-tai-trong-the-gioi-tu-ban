@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-12-06T17:41
+updated: 2025-12-16T11:53
 ---
 Khái niệm:: 
 ## Di dân
@@ -25,7 +25,7 @@ Các quỹ khẩn cấp, quỹ chìm có còn cần thiết lập không?
 ## Tại sao phải tới khi có luật HTX tiêu dùng thì mọi thứ mới phát triển
 Có luật thì sự tin tưởng tăng lên, và pháp nhân doanh nghiệp cũng đòi hỏi cách quản lý khác với pháp nhân HTX 
 ## Chế độ độc tài có can thiệp vào chuyện này không?
-[Hàn Quốc có luật riêng cho hợp tác xã tiêu dùng](../../C%C3%A1c%20n%E1%BB%81n%20kinh%20t%E1%BA%BF%20thay%20th%E1%BA%BF/H%E1%BB%A3p%20t%C3%A1c%20x%C3%A3/HTX%20c%E1%BB%A5%20th%E1%BB%83/H%C3%A0n%20Qu%E1%BB%91c%20c%C3%B3%20lu%E1%BA%ADt%20ri%C3%AAng%20cho%20h%E1%BB%A3p%20t%C3%A1c%20x%C3%A3%20ti%C3%AAu%20d%C3%B9ng.md)
+[Hàn Quốc có luật riêng cho hợp tác xã tiêu dùng](../../Kinh%20t%E1%BA%BF%20thay%20th%E1%BA%BF/H%E1%BB%A3p%20t%C3%A1c%20x%C3%A3/HTX%20c%E1%BB%A5%20th%E1%BB%83/H%C3%A0n%20Qu%E1%BB%91c%20c%C3%B3%20lu%E1%BA%ADt%20ri%C3%AAng%20cho%20h%E1%BB%A3p%20t%C3%A1c%20x%C3%A3%20ti%C3%AAu%20d%C3%B9ng.md)
 ![Pasted image 20250825200301.png](../../../../assets/attachments/Pasted%20image%2020250825200301.png)
 ![](https://imagizer.imageshack.com/a/img924/473/kz2aWY.png)
 

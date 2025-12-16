@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-12-16T10:27
+updated: 2025-12-16T11:28
 aliases:
   - Lê Ngọc Biết
 ---
@@ -13,6 +13,7 @@ Các nơi rút thẻ ngại khách rút ví trả sau vì [Ở ví trả sau, th
 Xem thêm:: [Dịch vụ mở khoản vay](./D%E1%BB%8Bch%20v%E1%BB%A5%20m%E1%BB%9F%20kho%E1%BA%A3n%20vay.md)
 
 Nhân viên đáo nói là có gì hỏi anh chủ.
+Một phần lý do nhiều người gãy nợ một phần vì phí đáo rút cao.
 
 [Quỹ tín dụng vi mô Quả Cầu](../../../../../%F0%9F%93%90D%E1%BB%B1%20%C3%A1n/Gi%C3%BAp%20nhau%20tho%C3%A1t%20n%E1%BB%A3/Qu%E1%BB%B9/Qu%E1%BB%B9%20t%C3%ADn%20d%E1%BB%A5ng%20vi%20m%C3%B4%20Qu%E1%BA%A3%20C%E1%BA%A7u.md), để bền vững hơn, ít lệ thuộc vào thẻ hơn
 
@@ -23,8 +24,9 @@ Nhân viên đáo nói là có gì hỏi anh chủ.
 Các ngày 4, 5, 10, 15 là ngày cao điểm. Ra có khi phải chờ lâu 
 
 ## Đánh giá một số dịch vụ rút đáo 
-### Lê Ngọc Biết (đã nghỉ)
-#### Chính sách
+## Nghi ngờ lừa đảo
+### Lê Ngọc Biết
+#### Chính sách ban đầu
 - Phí rút 1.8% đáo 2%. Momo thì rút 3%, không đáo
 - Khách đến lần đầu được giảm 0.3%
 - Giới thiệu 1 khách giảm 0.05% trọn đời
@@ -48,16 +50,7 @@ SĐT: 0909 205 202
 
 Nhân viên dùng nick của Biết, nhưng khi hỏi về chính sách thì lại nói có gì hỏi trực tiếp Biết chứ tụi em không biết
 
-Sau chuồn luôn
-
-### Nhận xét
-#### Giúp nhau giảm giá phí đáo rút
-Lần đầu tiên đi đáo rút bên này bạn có thể nói với họ là do mình giới thiệu (Nhật, 0979437321). Nếu không nói thì bạn cũng không bị mất ưu đãi giảm giá 0.3% cho lần đầu rút. Tuy nhiên nếu nói là do mình giới thiệu thì những lần rút sau bạn có thể đưa thẻ cho mình rút giùm và hưởng phí rút thấp của mình. Đây là một phần của dự án [Đứng ra vay giùm, cho mượn tài sản thế chấp](../../../../../%F0%9F%93%90D%E1%BB%B1%20%C3%A1n/Gi%C3%BAp%20nhau%20tho%C3%A1t%20n%E1%BB%A3/C%C3%B4ng%20vi%E1%BB%87c/%C4%90%E1%BB%A9ng%20ra%20vay%20gi%C3%B9m,%20cho%20m%C6%B0%E1%BB%A3n%20t%C3%A0i%20s%E1%BA%A3n%20th%E1%BA%BF%20ch%E1%BA%A5p.md).
-
-Nếu rút dưới 10 triệu lần đầu tiên giới thiệu mình thì mình sẽ hỗ trợ cho rút miễn phí luôn.
-
-Xem thêm:: [Các khoản tài sản và khoản nợ Nhật đứng tên (phiên bản cho bạn bè)](../../../../../%F0%9F%93%90D%E1%BB%B1%20%C3%A1n/Gi%C3%BAp%20nhau%20tho%C3%A1t%20n%E1%BB%A3/Ng%C6%B0%E1%BB%9Di%20th%E1%BB%A5%20h%C6%B0%E1%BB%9Fng/L%C3%BD%20Minh%20Nh%E1%BA%ADt/C%C3%A1c%20kho%E1%BA%A3n%20t%C3%A0i%20s%E1%BA%A3n%20v%C3%A0%20kho%E1%BA%A3n%20n%E1%BB%A3%20Nh%E1%BA%ADt%20%C4%91%E1%BB%A9ng%20t%C3%AAn%20(phi%C3%AAn%20b%E1%BA%A3n%20cho%20b%E1%BA%A1n%20b%C3%A8).md)
-[Tìm nguồn đáo giá rẻ](../../../../../%F0%9F%93%90D%E1%BB%B1%20%C3%A1n/Gi%C3%BAp%20nhau%20tho%C3%A1t%20n%E1%BB%A3/C%C3%B4ng%20vi%E1%BB%87c/T%C3%ACm%20ngu%E1%BB%93n%20%C4%91%C3%A1o%20gi%C3%A1%20r%E1%BA%BB.md)
+Tới tháng 12/2025 thì ko còn thuê ở Q4 nữa. Nhắn cho Bảo thì chỉ dẫn tới tiệm khác
 
 ## Nơi thảo luận
 ![](https://imagizer.imageshack.com/a/img923/1273/jQAnX6.png)

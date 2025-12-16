@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-12-13T11:27
+updated: 2025-12-16T17:41
 ---
 # Giúp nhau thoát nợ
 Khi một người cần vay nhiều thì sẽ có 2 nguồn để vay:
@@ -45,8 +45,14 @@ Bài chi tiết dưới bình luận sẽ cung cấp thông tin về người gi
 [11-12-2025](11-12-2025.md) 20:55 Views 194, Reach 101, Interactions 7: 5 like, 1 wow, 1 share
 Thêm ảnh
 [12-12-2025](12-12-2025.md) 11:16 Views 203, Reach 103, Interactions 7: 5 like, 1 wow, 1 share
-làm story
+làm story page
 [13-12-2025](13-12-2025.md) 10:30: story 0. 
 Views 240, Reach 103, Interactions 9: 5 like, 1 wow, 3 share
-share
-## zalo nhóm công việc mở
+share trên fb Quả Cầu
+[16-12-2025](16-12-2025.md) 16:14 Views 478 Reach 253 Interactions 11
+làm story profile
+17:28 story: 1 love 8 view
+
+
+## Zalo nhóm công việc mở
+0 react
