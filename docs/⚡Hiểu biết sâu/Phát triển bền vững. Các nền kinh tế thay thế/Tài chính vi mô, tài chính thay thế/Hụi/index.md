@@ -1,10 +1,11 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-12-15T14:40
+updated: 2025-12-17T10:30
 aliases:
   - dây hụi
-title: Chơi hụi
+  - chơi hụi
+title: Hụi
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XVPYTogAS74?si=2fZ67dJAGJCxXW2l" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-ZGyV92dhAk?si=aLUqQZZ3Rhxd7ezb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

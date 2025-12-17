@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-12-06T16:04
+updated: 2025-12-17T08:06
 aliases:
   - đồng cư, hợp tác xã nhà ở, quỹ nhà ở vi mô
   - làng sinh thái, công xã
@@ -58,7 +58,7 @@ Cộng đồng [Enspiral](https://www.enspiral.com/) ở New Zealand xây dựng
 [Like start-ups, most intentional communities fail – why? \| Aeon Essays](https://aeon.co/essays/like-start-ups-most-intentional-communities-fail-why)
 
 ### Tham quan các cộng đồng có chủ đích bên ngoài đô thị
-Nhiều cộng đồng có chủ đích chấp nhận đón khách du lịch như là một cách để có thêm thu nhập. Các trang như [Intentional Communities Directory](https://www.ic.org/directory/) hoặc [Ecovillage Tours](https://www.ecovillagetours.com/) có danh sách các cộng đồng có chủ đích bên ngoài đô thị ở nước ngoài. Hoặc lên [r/intentionalcommunity](https://www.reddit.com/r/intentionalcommunity/) hỏi thử xem.
+[Nhiều cộng đồng có chủ đích chấp nhận đón khách du lịch như là một cách để có thêm thu nhập](./C%E1%BB%99ng%20%C4%91%E1%BB%93ng%20ngo%C3%A0i%20%C4%91%C3%B4%20th%E1%BB%8B/Doanh%20thu%20ch%C3%ADnh%20c%E1%BB%A7a%20c%C3%A1c%20c%E1%BB%99ng%20%C4%91%E1%BB%93ng%20c%C3%B3%20ch%E1%BB%A7%20%C4%91%C3%ADch%20th%C6%B0%E1%BB%9Dng%20l%C3%A0%20t%E1%BB%AB%20du%20l%E1%BB%8Bch,%20gi%C3%A1o%20d%E1%BB%A5c,%20%C4%91%E1%BB%93%20th%E1%BB%A7%20c%C3%B4ng,%20n%C3%B4ng%20s%E1%BA%A3n.md). Các trang như [Intentional Communities Directory](https://www.ic.org/directory/) hoặc [Ecovillage Tours](https://www.ecovillagetours.com/) có danh sách các cộng đồng có chủ đích bên ngoài đô thị ở nước ngoài. Hoặc lên [r/intentionalcommunity](https://www.reddit.com/r/intentionalcommunity/) hỏi thử xem.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/live/wda3MxMqlpQ?si=H-OPSPi8Bo6eK_eu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/i6kuy20F2nU?si=oWyY0FNXZSLwOtrC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -68,7 +68,9 @@ Nhiều cộng đồng có chủ đích chấp nhận đón khách du lịch nh�
 
 - [Community Founders Circle](https://programs.communityfinders.com/founders)
 
-Về các cộng đồng có chủ đích ở Việt Nam thì đọc bài chi tiết này: [Nông nghiệp sinh thái ở Việt Nam](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/S%E1%BB%91ng%20v%E1%BB%ABa%20%C4%91%E1%BB%A7,%20b%E1%BB%81n%20v%E1%BB%AFng,%20ti%E1%BA%BFt%20ki%E1%BB%87m/N%C3%B4ng%20nghi%E1%BB%87p%20sinh%20th%C3%A1i%20%E1%BB%9F%20Vi%E1%BB%87t%20Nam.md)
+Về các cộng đồng có chủ đích ở Việt Nam thì đọc bài chi tiết này: [Nông nghiệp sinh thái ở Việt Nam](N%C3%B4ng%20nghi%E1%BB%87p%20sinh%20th%C3%A1i%20%E1%BB%9F%20Vi%E1%BB%87t%20Nam.md)
+
+Xem thêm:: [❓Các câu hỏi về cộng đồng có chủ đích bên ngoài đô thị](./C%E1%BB%99ng%20%C4%91%E1%BB%93ng%20ngo%C3%A0i%20%C4%91%C3%B4%20th%E1%BB%8B/%E2%9D%93C%C3%A1c%20c%C3%A2u%20h%E1%BB%8Fi%20v%E1%BB%81%20c%E1%BB%99ng%20%C4%91%E1%BB%93ng%20c%C3%B3%20ch%E1%BB%A7%20%C4%91%C3%ADch%20b%C3%AAn%20ngo%C3%A0i%20%C4%91%C3%B4%20th%E1%BB%8B.md)
 
 ## Xây dựng cộng đồng có chủ đích ở đô thị
 Ý tưởng xây dựng cộng đồng sống chung nhà:
@@ -92,3 +94,4 @@ Không phải cứ đến sống chung và gắn bó với nhau là trở thành
 Các đoàn diễn lưu động, đoàn thám hiểm, trại nghiên cứu, toán quân du kích có nhiều nét giống cộng đồng có chủ đích hơn, khi họ phải sống chung với nhau, chia sẻ một lối sống chung và có tiếng nói với nhau. [Công việc nhiều rủi ro thì tổ chức thường ngang hàng. Công việc nhiều an toàn thì tổ chức thường phân cấp](../../H%C3%ACnh%20th%E1%BB%A9c%20ki%E1%BA%BFm%20ti%E1%BB%81n/L%C3%A0m%20thu%C3%AA/An%20to%C3%A0n,%20r%E1%BB%A7i%20ro/C%C3%B4ng%20vi%E1%BB%87c%20nhi%E1%BB%81u%20r%E1%BB%A7i%20ro%20th%C3%AC%20t%E1%BB%95%20ch%E1%BB%A9c%20th%C6%B0%E1%BB%9Dng%20ngang%20h%C3%A0ng.%20C%C3%B4ng%20vi%E1%BB%87c%20nhi%E1%BB%81u%20an%20to%C3%A0n%20th%C3%AC%20t%E1%BB%95%20ch%E1%BB%A9c%20th%C6%B0%E1%BB%9Dng%20ph%C3%A2n%20c%E1%BA%A5p.md). Ở những nhóm này, nếu các thành viên không đồng ý với người lãnh đạo thì họ có thể chọn ra một người mới mà người cũ không làm được gì, vì người lãnh đạo chỉ là thiểu số. Tuy nhiên có thể người cũ đã được chỉ định bởi một thiết chế bên ngoài nào đó, và họ phải chịu phản ứng của thiết chế đó cho quyết định của mình. Họ có những lúc có được sự tự trị, nhưng không chắc là luôn luôn.
 
 Nếu họ chỉ phải chịu trách nhiệm cho những quyết định của mình, giống như [băng hải tặc mũ rơm](https://youtu.be/5SzMEPJBHzE?si=JLWCE2EXcnLzz40o), thì có thể xem họ là cộng đồng có chủ đích. Điểm khác biệt duy nhất với các cộng đồng có chủ đích điển hình là ở điểm kết thúc của nó. Các mục tiêu như sống gần nhau, giảm chi phí sinh hoạt, nuôi con, dưỡng già, kết nối tâm linh có thể nói là không bao giờ hoàn thành. Các cộng đồng như này tồn tại vì các thành viên muốn có một cộng đồng như này tồn tại. Còn với các sứ mệnh như nghiên cứu học thuật, thực hành nghệ thuật, v.v., khi hoàn thành thì cộng đồng có thể tan rã, hoặc cần phải tìm thêm mục tiêu khác.
+
