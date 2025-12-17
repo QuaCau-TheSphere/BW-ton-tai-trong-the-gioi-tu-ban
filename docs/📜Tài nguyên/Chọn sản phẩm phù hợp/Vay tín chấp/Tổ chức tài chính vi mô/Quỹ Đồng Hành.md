@@ -1,14 +1,14 @@
 ---
 share: true
 created: 2025-05-05T23:08
-updated: 2025-12-13T15:02
+updated: 2025-12-17T10:27
 aliases:
   - Kula
 ---
 Khái niệm:: 
 Chỉ cho vay vào tuần thứ tư để đơn giản hoá việc cho vay
 
-[VSLA đặc biệt phù hợp với những người muốn kết hợp giữa việc tiết kiệm có kỷ luật và tạo tác động xã hội tích cực trong cộng đồng](../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Ph%C3%A1t%20tri%E1%BB%83n%20b%E1%BB%81n%20v%E1%BB%AFng.%20C%C3%A1c%20n%E1%BB%81n%20kinh%20t%E1%BA%BF%20thay%20th%E1%BA%BF/T%C3%A0i%20ch%C3%ADnh%20vi%20m%C3%B4,%20t%C3%A0i%20ch%C3%ADnh%20thay%20th%E1%BA%BF/Qu%E1%BB%B9%20chi%20h%E1%BB%99i/VSLA%20%C4%91%E1%BA%B7c%20bi%E1%BB%87t%20ph%C3%B9%20h%E1%BB%A3p%20v%E1%BB%9Bi%20nh%E1%BB%AFng%20ng%C6%B0%E1%BB%9Di%20mu%E1%BB%91n%20k%E1%BA%BFt%20h%E1%BB%A3p%20gi%E1%BB%AFa%20vi%E1%BB%87c%20ti%E1%BA%BFt%20ki%E1%BB%87m%20c%C3%B3%20k%E1%BB%B7%20lu%E1%BA%ADt%20v%C3%A0%20t%E1%BA%A1o%20t%C3%A1c%20%C4%91%E1%BB%99ng%20x%C3%A3%20h%E1%BB%99i%20t%C3%ADch%20c%E1%BB%B1c%20trong%20c%E1%BB%99ng%20%C4%91%E1%BB%93ng.md)
+[VSLA đặc biệt phù hợp với những người muốn kết hợp giữa việc tiết kiệm có kỷ luật và tạo tác động xã hội tích cực trong cộng đồng](../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Ph%C3%A1t%20tri%E1%BB%83n%20b%E1%BB%81n%20v%E1%BB%AFng.%20C%C3%A1c%20n%E1%BB%81n%20kinh%20t%E1%BA%BF%20thay%20th%E1%BA%BF/T%C3%A0i%20ch%C3%ADnh%20vi%20m%C3%B4,%20t%C3%A0i%20ch%C3%ADnh%20thay%20th%E1%BA%BF/Qu%E1%BB%B9%20c%E1%BB%99ng%20%C4%91%E1%BB%93ng/VSLA/VSLA%20%C4%91%E1%BA%B7c%20bi%E1%BB%87t%20ph%C3%B9%20h%E1%BB%A3p%20v%E1%BB%9Bi%20nh%E1%BB%AFng%20ng%C6%B0%E1%BB%9Di%20mu%E1%BB%91n%20k%E1%BA%BFt%20h%E1%BB%A3p%20gi%E1%BB%AFa%20vi%E1%BB%87c%20ti%E1%BA%BFt%20ki%E1%BB%87m%20c%C3%B3%20k%E1%BB%B7%20lu%E1%BA%ADt%20v%C3%A0%20t%E1%BA%A1o%20t%C3%A1c%20%C4%91%E1%BB%99ng%20x%C3%A3%20h%E1%BB%99i%20t%C3%ADch%20c%E1%BB%B1c%20trong%20c%E1%BB%99ng%20%C4%91%E1%BB%93ng.md)
 
 
 Cho kinh doanh hoặc đi học. Không cho để trả nợ hoặc sinh hoạt
@@ -78,3 +78,11 @@ Anh nghĩ là đúng mục đích nhưng bên cula có xét đó là đúng mụ
 Mấy cái đó nó đâu có rõ ràng
 Không có giấy trắng mực đen không có cái gì chính xác chỉ qua cảm nhận cảm quan cá nhân
 Mà hai bên lại lệch nhau
+
+Có cục 50tr là Đồng Lòng tặng kula. Kula góp vô quỹ Đồng Hành. Lợi nhuận từ khoản này sẽ quay về trả chi phí hđ cho kula.
+
+Sang năm 26 nếu ĐH phát triển các quỹ địa phương khác thì anh sẽ hỗ trợ khoảng 100tr để đối ứng tài trợ cho họ.
+
+Tất cả đối tác xây dựng cộng đồng đều đc tặng tiền đều đặn hàng năm áh.
+
+Thịnh nó từ chối tài trợ. Nên anh coi như name kula là recipient của khoản lãi tại Đồng Hành của ĐL.
