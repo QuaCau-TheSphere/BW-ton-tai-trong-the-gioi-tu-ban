@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2025-12-15T12:29
+updated: 2025-12-19T11:32
 ---
 ## Tình hình chung
 - Tại sao bạn bị nợ? 
