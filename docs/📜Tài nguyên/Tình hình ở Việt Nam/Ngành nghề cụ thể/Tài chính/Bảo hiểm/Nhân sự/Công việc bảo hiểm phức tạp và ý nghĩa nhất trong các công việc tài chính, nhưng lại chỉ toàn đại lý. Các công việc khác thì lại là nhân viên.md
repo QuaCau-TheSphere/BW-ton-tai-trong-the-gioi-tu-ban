@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-04-05T00:25
-updated: 2025-12-06T17:41
+updated: 2025-12-19T11:32
 ---
 Khái niệm:: 
 [Đại lý ở Bảo Việt chỉ là cộng tác viên, nhưng ở Cathay là nhân viên tập sự](./%C4%90%E1%BA%A1i%20l%C3%BD%20%E1%BB%9F%20B%E1%BA%A3o%20Vi%E1%BB%87t%20ch%E1%BB%89%20l%C3%A0%20c%E1%BB%99ng%20t%C3%A1c%20vi%C3%AAn,%20nh%C6%B0ng%20%E1%BB%9F%20Cathay%20l%C3%A0%20nh%C3%A2n%20vi%C3%AAn%20t%E1%BA%ADp%20s%E1%BB%B1.md)
