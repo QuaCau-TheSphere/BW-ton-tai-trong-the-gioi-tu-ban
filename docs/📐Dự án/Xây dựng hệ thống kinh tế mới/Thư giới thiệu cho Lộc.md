@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-12-10T11:03
+updated: 2025-12-19T11:32
 description: Vì sao lại giúp người không chủ động hành động?
 ---
 Xin chào các bạn VCIL,
@@ -12,7 +12,7 @@ Lộc xuất thân từ tầng lớp động nghèo. Cũng như những người
 
 Lộc may mắn có tìm tòi và biết đến những khái niệm về việc tạo dòng tiền. Đây là một việc hao tốn sự tập trung và tiền bạc, nên Lộc cần tập trung tối đa để nắm bắt cơ hội. Cho tới khi có được sự đảm bảo về dòng tiền thì khó mà làm Lộc yên tâm chia sẻ những tài nguyên đó cho việc khác.
 
-Chương trình *Vcil Travel School Hàn Quốc* phù hợp với những ai đều có mong muốn xây dựng các các mô hình kinh tế thay thế. Lộc cho rằng cần phải được trải nghiệm trực tiếp để hiểu rõ, đầy đủ, chân thật, thực tế nhất. Nhưng vì là người không có được sự xa xỉ cho thất bại, Lộc khó có thể thử làm những thứ mơ hồ dù lợi ích được hứa hẹn là rất lớn. Vì rõ ràng là sau khi về thì dù có bị thuyết phục hoàn toàn đi chăng nữa thì ai cũng vẫn sẽ lại phải tiếp tục tham gia vào thiết chế tư bản này. Và lại phải kiếm dòng tiền. Dù đó là [❓Dòng tiền đến từ hoại nghiệp cho ta đòn bẩy tốt để làm sinh nghiệp](../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Ph%C3%A1t%20tri%E1%BB%83n%20b%E1%BB%81n%20v%E1%BB%AFng.%20C%C3%A1c%20n%E1%BB%81n%20kinh%20t%E1%BA%BF%20thay%20th%E1%BA%BF/C%C3%A1c%20n%E1%BB%81n%20kinh%20t%E1%BA%BF%20thay%20th%E1%BA%BF/%E2%9D%93D%C3%B2ng%20ti%E1%BB%81n%20%C4%91%E1%BA%BFn%20t%E1%BB%AB%20ho%E1%BA%A1i%20nghi%E1%BB%87p%20cho%20ta%20%C4%91%C3%B2n%20b%E1%BA%A9y%20t%E1%BB%91t%20%C4%91%E1%BB%83%20l%C3%A0m%20sinh%20nghi%E1%BB%87p.md). Nên tính tới tính lui thì trong thời điểm này mình vẫn phải thừa nhận là việc tham gia chương trình là một sự xao nhãng với mục tiêu đạt được sự yên tâm cho sự thong thả một cách nhanh nhất. Việc đọc và duyệt bài viết này cũng đã là một cố gắng của Lộc rồi. 
+Chương trình *Vcil Travel School Hàn Quốc* phù hợp với những ai đều có mong muốn xây dựng các các mô hình kinh tế thay thế. Lộc cho rằng cần phải được trải nghiệm trực tiếp để hiểu rõ, đầy đủ, chân thật, thực tế nhất. Nhưng vì là người không có được sự xa xỉ cho thất bại, Lộc khó có thể thử làm những thứ mơ hồ dù lợi ích được hứa hẹn là rất lớn. Vì rõ ràng là sau khi về thì dù có bị thuyết phục hoàn toàn đi chăng nữa thì ai cũng vẫn sẽ lại phải tiếp tục tham gia vào thiết chế tư bản này. Và lại phải kiếm dòng tiền. Dù đó là [❓Dòng tiền đến từ hoại nghiệp cho ta đòn bẩy tốt để làm sinh nghiệp](../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Ph%C3%A1t%20tri%E1%BB%83n%20b%E1%BB%81n%20v%E1%BB%AFng.%20C%C3%A1c%20n%E1%BB%81n%20kinh%20t%E1%BA%BF%20thay%20th%E1%BA%BF/Kinh%20t%E1%BA%BF%20thay%20th%E1%BA%BF/%E2%9D%93D%C3%B2ng%20ti%E1%BB%81n%20%C4%91%E1%BA%BFn%20t%E1%BB%AB%20ho%E1%BA%A1i%20nghi%E1%BB%87p%20cho%20ta%20%C4%91%C3%B2n%20b%E1%BA%A9y%20t%E1%BB%91t%20%C4%91%E1%BB%83%20l%C3%A0m%20sinh%20nghi%E1%BB%87p.md). Nên tính tới tính lui thì trong thời điểm này mình vẫn phải thừa nhận là việc tham gia chương trình là một sự xao nhãng với mục tiêu đạt được sự yên tâm cho sự thong thả một cách nhanh nhất. Việc đọc và duyệt bài viết này cũng đã là một cố gắng của Lộc rồi. 
 
 Mình thì luôn có sự thong thả đó. Không giống như Lộc, mình đã dành nhiều thời gian tìm hiểu và hành động từ lâu. Mình cho rằng chương trình sẽ tạo được tác động lớn hơn cho người còn nhiều sự hoài nghi và phân vân hơn là người đã có hành động. Sự cọ xát ý tưởng, trải nghiệm, niềm tin sẽ mạnh hơn cho cả hai.
 
