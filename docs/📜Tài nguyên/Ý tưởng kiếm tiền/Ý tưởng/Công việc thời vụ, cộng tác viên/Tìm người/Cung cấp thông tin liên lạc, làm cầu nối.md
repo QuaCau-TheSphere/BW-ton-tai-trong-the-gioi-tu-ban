@@ -2,7 +2,7 @@
 share: true
 description: "Số tiền kiếm được: 20 k/liên hệ"
 created: 2025-04-04T22:12
-updated: 2025-12-06T17:41
+updated: 2025-12-19T11:32
 ---
 
 Mô tả công việc:: Cung cấp họ tên và số điện thoại của người đồng ý gặp người bán hàng để nghe giới thiệu sản phẩm
