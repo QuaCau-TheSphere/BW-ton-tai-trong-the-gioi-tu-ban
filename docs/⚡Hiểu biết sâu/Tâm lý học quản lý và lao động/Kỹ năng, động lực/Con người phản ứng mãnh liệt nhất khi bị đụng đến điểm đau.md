@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-06-14T20:53
-updated: 2025-12-06T17:41
+updated: 2025-12-19T11:32
 ---
 Nguồn::
 [Sự đau chi phối sự diễn giải của ta](S%E1%BB%B1%20%C4%91au%20chi%20ph%E1%BB%91i%20s%E1%BB%B1%20di%E1%BB%85n%20gi%E1%BA%A3i%20c%E1%BB%A7a%20ta.md)
