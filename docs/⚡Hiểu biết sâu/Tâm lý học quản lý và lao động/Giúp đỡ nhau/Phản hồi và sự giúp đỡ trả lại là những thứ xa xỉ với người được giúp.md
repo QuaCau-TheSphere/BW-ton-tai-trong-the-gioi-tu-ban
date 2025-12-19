@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-06-22T12:57
-updated: 2025-12-06T17:41
+updated: 2025-12-19T11:32
 ---
 Lý do:: [Sau khi nhu cầu được giải quyết xong ta sẽ nghĩ ngay tới việc giải quyết vấn đề tiếp theo](./Sau%20khi%20nhu%20c%E1%BA%A7u%20%C4%91%C6%B0%E1%BB%A3c%20gi%E1%BA%A3i%20quy%E1%BA%BFt%20xong%20ta%20s%E1%BA%BD%20ngh%C4%A9%20ngay%20t%E1%BB%9Bi%20vi%E1%BB%87c%20gi%E1%BA%A3i%20quy%E1%BA%BFt%20v%E1%BA%A5n%20%C4%91%E1%BB%81%20ti%E1%BA%BFp%20theo.md). [Việc giúp đỡ người đã giúp mình không đủ khẩn cấp hoặc nhiều cảm hứng bằng việc giải quyết vấn đề tiếp theo, hoặc đủ cảm hứng bằng việc cải tiến giải pháp hiện có](./Vi%E1%BB%87c%20gi%C3%BAp%20%C4%91%E1%BB%A1%20ng%C6%B0%E1%BB%9Di%20%C4%91%C3%A3%20gi%C3%BAp%20m%C3%ACnh%20kh%C3%B4ng%20%C4%91%E1%BB%A7%20kh%E1%BA%A9n%20c%E1%BA%A5p%20ho%E1%BA%B7c%20nhi%E1%BB%81u%20c%E1%BA%A3m%20h%E1%BB%A9ng%20b%E1%BA%B1ng%20vi%E1%BB%87c%20gi%E1%BA%A3i%20quy%E1%BA%BFt%20v%E1%BA%A5n%20%C4%91%E1%BB%81%20ti%E1%BA%BFp%20theo,%20ho%E1%BA%B7c%20%C4%91%E1%BB%A7%20c%E1%BA%A3m%20h%E1%BB%A9ng%20b%E1%BA%B1ng%20vi%E1%BB%87c%20c%E1%BA%A3i%20ti%E1%BA%BFn%20gi%E1%BA%A3i%20ph%C3%A1p%20hi%E1%BB%87n%20c%C3%B3.md). [Sự hợp tác xã hội của ta hướng đến việc chia việc để cùng tạo ra sản phẩm chung, chứ không phải ở việc giúp đỡ qua lại](./S%E1%BB%B1%20h%E1%BB%A3p%20t%C3%A1c%20x%C3%A3%20h%E1%BB%99i%20c%E1%BB%A7a%20ta%20h%C6%B0%E1%BB%9Bng%20%C4%91%E1%BA%BFn%20vi%E1%BB%87c%20chia%20vi%E1%BB%87c%20%C4%91%E1%BB%83%20c%C3%B9ng%20t%E1%BA%A1o%20ra%20s%E1%BA%A3n%20ph%E1%BA%A9m%20chung,%20ch%E1%BB%A9%20kh%C3%B4ng%20ph%E1%BA%A3i%20%E1%BB%9F%20vi%E1%BB%87c%20gi%C3%BAp%20%C4%91%E1%BB%A1%20qua%20l%E1%BA%A1i.md)
 
