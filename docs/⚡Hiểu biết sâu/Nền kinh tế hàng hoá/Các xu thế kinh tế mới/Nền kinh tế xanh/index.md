@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-05-26T14:51
-updated: 2025-12-06T17:41
+updated: 2025-12-19T11:32
 title: Nền kinh tế xanh
 ---
 ![](https://www.researchgate.net/profile/Shikha-Dahiya/publication/344261566/figure/fig1/AS:963472120614930@1606721062323/Venn-diagram-depicting-various-economies-in-green-economy-adapted-from-Kardung-and.png)
