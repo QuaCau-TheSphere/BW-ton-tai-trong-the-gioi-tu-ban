@@ -1,11 +1,11 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2025-12-06T17:41
+updated: 2025-12-19T11:32
 aliases:
   - Luật cấm rút tiền tại cửa hàng để tránh việc rửa tiền
 ---
-Khái niệm:: [Rửa tiền](../../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/R%E1%BB%ADa%20ti%E1%BB%81n.md)
+Khái niệm:: [Rửa tiền](../../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Ki%E1%BA%BFm%20ti%E1%BB%81n/Kh%C3%B4ng%20li%C3%AAm%20ch%C3%ADnh/R%E1%BB%ADa%20ti%E1%BB%81n.md)
 Nguồn:: [Kiên quyết xử lý những điểm không được phép kinh doanh dịch vụ rút, chuyển tiền trái phép](https://baothanhhoa.vn/kien-quyet-xu-ly-nhung-diem-khong-duoc-phep-kinh-doanh-dich-vu-rut-chuyen-tien-trai-phep-122634.htm "Kiên quyết xử lý những điểm không được phép kinh doanh dịch vụ rút, chuyển tiền trái phép")
 
 [Xử lý một loạt vụ dùng máy POS “rút tiền hoặc đáo hạn thẻ tín dụng” - Cổng thông tin điện tử thành phố Đà Nẵng - Cổng thông tin thành phố Đà Nẵng](https://danang.gov.vn/vi/w/xu-ly-mot-loat-vu-dung-may-pos-rut-tien-hoac-dao-han-the-tin-dung-i)
