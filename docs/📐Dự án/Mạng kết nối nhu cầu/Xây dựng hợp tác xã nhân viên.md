@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-12-11T17:58
+updated: 2025-12-19T11:32
 aliases:
   - săn giá rẻ, khuyến mãi, giảm giá, voucher
 ---
@@ -58,7 +58,7 @@ Chỉ những nhân viên bán hàng không nghĩ rằng mình có thể thay đ
 
 
 
-[❓vốn xã hội, vốn biểu tượng, vốn văn hóa là tài sản vô hình](../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Ph%C3%A1t%20tri%E1%BB%83n%20b%E1%BB%81n%20v%E1%BB%AFng.%20C%C3%A1c%20n%E1%BB%81n%20kinh%20t%E1%BA%BF%20thay%20th%E1%BA%BF/C%C3%A1c%20n%E1%BB%81n%20kinh%20t%E1%BA%BF%20thay%20th%E1%BA%BF/%E2%9D%93v%E1%BB%91n%20x%C3%A3%20h%E1%BB%99i,%20v%E1%BB%91n%20bi%E1%BB%83u%20t%C6%B0%E1%BB%A3ng,%20v%E1%BB%91n%20v%C4%83n%20h%C3%B3a%20l%C3%A0%20t%C3%A0i%20s%E1%BA%A3n%20v%C3%B4%20h%C3%ACnh.md)
+[❓vốn xã hội, vốn biểu tượng, vốn văn hóa là tài sản vô hình](../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Ph%C3%A1t%20tri%E1%BB%83n%20b%E1%BB%81n%20v%E1%BB%AFng.%20C%C3%A1c%20n%E1%BB%81n%20kinh%20t%E1%BA%BF%20thay%20th%E1%BA%BF/Kinh%20t%E1%BA%BF%20thay%20th%E1%BA%BF/%E2%9D%93v%E1%BB%91n%20x%C3%A3%20h%E1%BB%99i,%20v%E1%BB%91n%20bi%E1%BB%83u%20t%C6%B0%E1%BB%A3ng,%20v%E1%BB%91n%20v%C4%83n%20h%C3%B3a%20l%C3%A0%20t%C3%A0i%20s%E1%BA%A3n%20v%C3%B4%20h%C3%ACnh.md)
 Cộng sinh, ký sinh
 Dòng vốn
 Cộng sản là tư bản sinh thái
