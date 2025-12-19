@@ -1,9 +1,9 @@
 ---
 share: true
 created: 2025-03-03T10:49
-updated: 2025-12-06T17:41
+updated: 2025-12-19T11:32
 ---
-Khái niệm:: [Bán hàng](../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/B%C3%A1n%20h%C3%A0ng.md)
+Khái niệm:: [Bán hàng](../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Ki%E1%BA%BFm%20ti%E1%BB%81n/B%C3%A1n%20h%C3%A0ng.md)
 Những người rành thì cần tự xây dựng riêng, và xem như là lợi thế cạnh tranh của họ
 Có thể cấp API được mà?
 
