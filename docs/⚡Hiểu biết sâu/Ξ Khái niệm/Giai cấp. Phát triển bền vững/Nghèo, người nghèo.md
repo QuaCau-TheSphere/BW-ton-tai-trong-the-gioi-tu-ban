@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-12-17T10:32
+updated: 2025-12-19T11:32
 ---
 - \-: 
     - [Người nghèo và người trung lưu có rất nhiều tiêu sản. Người giàu có tăng sản](../../H%C3%ACnh%20th%E1%BB%A9c%20ki%E1%BA%BFm%20ti%E1%BB%81n/Ng%C6%B0%E1%BB%9Di%20ngh%C3%A8o%20v%C3%A0%20ng%C6%B0%E1%BB%9Di%20trung%20l%C6%B0u%20c%C3%B3%20r%E1%BA%A5t%20nhi%E1%BB%81u%20ti%C3%AAu%20s%E1%BA%A3n.%20Ng%C6%B0%E1%BB%9Di%20gi%C3%A0u%20c%C3%B3%20t%C4%83ng%20s%E1%BA%A3n.md)
