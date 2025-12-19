@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-04-12T21:55
-updated: 2025-12-06T17:41
+updated: 2025-12-19T11:32
 ---
 Khái niệm:: 
 Giúp ăn tiền khuyến mãi của sàn hoặc các hình thức khác
