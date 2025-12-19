@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-12-30T16:26
-updated: 2025-12-09T11:22
+updated: 2025-12-19T11:32
 ---
 Khái niệm:: 
 ![Pasted image 20241230162607.png](../../../../../assets/attachments/Pasted%20image%2020241230162607.png)
