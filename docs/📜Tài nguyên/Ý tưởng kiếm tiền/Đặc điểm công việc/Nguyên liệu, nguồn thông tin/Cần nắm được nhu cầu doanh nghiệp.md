@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2025-12-06T17:41
+updated: 2025-12-19T11:32
 ---
 - [Viết plugin tích hợp vào các chương trình kế toán](../../%C3%9D%20t%C6%B0%E1%BB%9Fng/Gia%20c%C3%B4ng%20gi%E1%BA%A3i%20ph%C3%A1p/Vi%E1%BA%BFt%20plugin%20t%C3%ADch%20h%E1%BB%A3p%20v%C3%A0o%20c%C3%A1c%20ch%C6%B0%C6%A1ng%20tr%C3%ACnh%20k%E1%BA%BF%20to%C3%A1n.md)
 
