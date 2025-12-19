@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-04-14T17:18
-updated: 2025-12-09T16:35
+updated: 2025-12-19T11:32
 title: Tổ chức tín dụng
 ---
 Khái niệm:: 
