@@ -2,7 +2,7 @@
 share: true
 description: "Số tiền kiếm được: 5% doanh số lương của người tuyển đc hoặc 1 tr hoa hồng sau khi họ làm việc 2 tuần"
 created: 2025-03-27T17:13
-updated: 2025-12-06T17:41
+updated: 2025-12-19T11:32
 ---
 Mô tả công việc:: Đăng bài tuyển dụng trên mạng
 Số tiền kiếm được:: 5% doanh số lương của người tuyển được hoặc 1tr  sau khi họ làm việc 2 tuần
