@@ -1,9 +1,9 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-12-08T22:46
+updated: 2025-12-19T11:32
 ---
-Khái niệm:: [Trả góp](../../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Tr%E1%BA%A3%20g%C3%B3p.md)
+Khái niệm:: [Trả góp](../../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/T%C3%ADn%20d%E1%BB%A5ng/Tr%E1%BA%A3%20g%C3%B3p.md)
 Lý do:: [Luật chỉ quy định về lãi, chứ phí thì không đả động gì](../../../Lu%E1%BA%ADt,%20qu%E1%BA%A3n%20l%C3%BD%20nh%C3%A0%20n%C6%B0%E1%BB%9Bc/T%C3%A0i%20ch%C3%ADnh/Ti%E1%BB%81n%20t%E1%BB%87,%20ng%C3%A2n%20h%C3%A0ng/Lu%E1%BA%ADt%20ch%E1%BB%89%20quy%20%C4%91%E1%BB%8Bnh%20v%E1%BB%81%20l%C3%A3i,%20ch%E1%BB%A9%20ph%C3%AD%20th%C3%AC%20kh%C3%B4ng%20%C4%91%E1%BA%A3%20%C4%91%E1%BB%99ng%20g%C3%AC.md)
 
 [Vay tín chấp](../../../../Ch%E1%BB%8Dn%20s%E1%BA%A3n%20ph%E1%BA%A9m%20ph%C3%B9%20h%E1%BB%A3p/Vay%20t%C3%ADn%20ch%E1%BA%A5p/index.md)
