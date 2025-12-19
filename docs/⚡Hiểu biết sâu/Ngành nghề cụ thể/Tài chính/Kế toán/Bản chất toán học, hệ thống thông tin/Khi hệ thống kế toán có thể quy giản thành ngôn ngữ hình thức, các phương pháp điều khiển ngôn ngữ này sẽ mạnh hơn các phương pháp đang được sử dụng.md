@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-12-06T17:41
+updated: 2025-12-19T11:32
 ---
 Khái niệm:: 
 Khi điều này xảy ra, tất cả các câu hoặc ý tưởng được dùng trong kế toán sẽ có 3 trạng thái: đúng, sai hoặc không có trong hệ thống
