@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-01-16T14:51
-updated: 2025-12-06T17:41
+updated: 2025-12-19T11:32
 ---
 Khái niệm:: 
 Lý do:: [Để người dân nghi ngờ một ngân hàng sẽ làm sụp đổ cả hệ thống ngân hàng](../../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Ng%C3%A0nh%20ngh%E1%BB%81%20c%E1%BB%A5%20th%E1%BB%83/T%C3%A0i%20ch%C3%ADnh/Vay%20n%E1%BB%A3/T%C3%ADn%20ch%E1%BA%A5p/D%E1%BB%B1a%20tr%C3%AAn%20%C4%91i%E1%BB%83m%20t%C3%ADn%20d%E1%BB%A5ng/Ng%C3%A2n%20h%C3%A0ng/%C4%90%E1%BB%83%20ng%C6%B0%E1%BB%9Di%20d%C3%A2n%20nghi%20ng%E1%BB%9D%20m%E1%BB%99t%20ng%C3%A2n%20h%C3%A0ng%20s%E1%BA%BD%20l%C3%A0m%20s%E1%BB%A5p%20%C4%91%E1%BB%95%20c%E1%BA%A3%20h%E1%BB%87%20th%E1%BB%91ng%20ng%C3%A2n%20h%C3%A0ng.md)
