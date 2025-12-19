@@ -2,7 +2,7 @@
 share: true
 created: 2024-11-22T13:37
 title: Chính sách nhân sự ở Cathay
-updated: 2025-12-06T17:41
+updated: 2025-12-19T11:32
 ---
 Biết là Cathay [Muốn tập trung vào sự đồng đều hơn là cho không gian để thử nghiệm ý tưởng mới](./Minh%20b%E1%BA%A1ch%20v%C3%A0%20r%C3%A0ng%20bu%E1%BB%99c/Mu%E1%BB%91n%20t%E1%BA%ADp%20trung%20v%C3%A0o%20s%E1%BB%B1%20%C4%91%E1%BB%93ng%20%C4%91%E1%BB%81u%20h%C6%A1n%20l%C3%A0%20cho%20kh%C3%B4ng%20gian%20%C4%91%E1%BB%83%20th%E1%BB%AD%20nghi%E1%BB%87m%20%C3%BD%20t%C6%B0%E1%BB%9Fng%20m%E1%BB%9Bi.md), nên mới đòi hòi đại lý [phải lên công ty hàng ngày](./Vi%E1%BB%87c%20ph%E1%BA%A3i%20l%C3%AAn%20c%C3%B4ng%20ty%20h%C3%A0ng%20ng%C3%A0y%20khi%E1%BA%BFn%20cho%20m%C3%ACnh%20th%E1%BA%A5y%20r%C3%A1ng%20ch%E1%BA%A1y%20th%E1%BA%ADt%20s%E1%BA%BD%20c%C3%B3%20l%E1%BB%A3i%20h%C6%A1n.md). Nhưng nó tới độ [Quản lý ép chỉ tiêu cả chủ nhật](./Ch%C3%ADnh%20s%C3%A1ch%20cho%20%C4%91%E1%BA%A1i%20l%C3%BD/Qu%E1%BA%A3n%20l%C3%BD%20%C3%A9p%20ch%E1%BB%89%20ti%C3%AAu%20c%E1%BA%A3%20ch%E1%BB%A7%20nh%E1%BA%ADt.md), vì [T7, cn không phải là ngày nghỉ, mà là ngày đại lý có thời gian thực sự đi làm, hoặc tham gia OPP](./Ch%C3%ADnh%20s%C3%A1ch%20cho%20%C4%91%E1%BA%A1i%20l%C3%BD/T7,%20cn%20kh%C3%B4ng%20ph%E1%BA%A3i%20l%C3%A0%20ng%C3%A0y%20ngh%E1%BB%89,%20m%C3%A0%20l%C3%A0%20ng%C3%A0y%20%C4%91%E1%BA%A1i%20l%C3%BD%20c%C3%B3%20th%E1%BB%9Di%20gian%20th%E1%BB%B1c%20s%E1%BB%B1%20%C4%91i%20l%C3%A0m,%20ho%E1%BA%B7c%20tham%20gia%20OPP.md). Việc bắt lên như vậy khác gì chỉ muốn tập trung vào người đang cần tiền? Mà những người như vậy thì ít mqh. Phải để cho người ta đi làm thì họ mới có nhiều mqh khác chứ?
 
