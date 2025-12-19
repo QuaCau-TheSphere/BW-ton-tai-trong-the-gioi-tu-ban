@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2025-12-16T17:14
+updated: 2025-12-19T11:32
 ---
 Khái niệm:: [Bán hàng](../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Ki%E1%BA%BFm%20ti%E1%BB%81n/B%C3%A1n%20h%C3%A0ng.md)
 Nó bắt chước tương tác xã hội, tạo sự đồng cảm, lịch sự nhưng không vì mục đích đó, không nâng đỡ sự lý tính của họ
