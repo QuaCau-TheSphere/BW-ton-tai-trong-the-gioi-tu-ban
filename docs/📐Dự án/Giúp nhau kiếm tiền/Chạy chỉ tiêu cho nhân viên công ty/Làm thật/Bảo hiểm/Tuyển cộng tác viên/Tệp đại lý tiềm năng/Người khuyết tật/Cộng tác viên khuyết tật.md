@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-11-04T15:09
-updated: 2025-12-06T17:41
+updated: 2025-12-19T11:32
 ---
 [Kế hoạch bán bảo hiểm cho cá nhân](../../../Ki%E1%BA%BFm%20kh%C3%A1ch/K%E1%BA%BF%20ho%E1%BA%A1ch%20b%C3%A1n%20b%E1%BA%A3o%20hi%E1%BB%83m%20cho%20c%C3%A1%20nh%C3%A2n.md)
 [Xác định nhu cầu bảo hiểm của người thân, bạn bè, hàng xóm của người khuyết tật](../../../Tuy%E1%BB%83n%20d%E1%BB%A5ng/Ng%C6%B0%E1%BB%9Di%20khuy%E1%BA%BFt%20t%E1%BA%ADt/Nghi%C3%AAn%20c%E1%BB%A9u%20ng%C6%B0%E1%BB%9Di%20d%C3%B9ng/X%C3%A1c%20%C4%91%E1%BB%8Bnh%20nhu%20c%E1%BA%A7u%20b%E1%BA%A3o%20hi%E1%BB%83m%20c%E1%BB%A7a%20ng%C6%B0%E1%BB%9Di%20th%C3%A2n,%20b%E1%BA%A1n%20b%C3%A8,%20h%C3%A0ng%20x%C3%B3m%20c%E1%BB%A7a%20ng%C6%B0%E1%BB%9Di%20khuy%E1%BA%BFt%20t%E1%BA%ADt.md)
