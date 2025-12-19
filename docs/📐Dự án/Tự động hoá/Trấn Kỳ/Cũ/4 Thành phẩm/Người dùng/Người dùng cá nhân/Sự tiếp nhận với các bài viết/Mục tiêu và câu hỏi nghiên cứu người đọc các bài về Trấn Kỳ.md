@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-31T17:15
-updated: 2025-12-06T17:41
+updated: 2025-12-19T11:32
 ---
 [Giả thiết về tiếp nhận của người đọc](../../../../2%20Gi%E1%BA%A3%20thi%E1%BA%BFt/Ti%E1%BA%BFp%20nh%E1%BA%ADn%20ng%C6%B0%E1%BB%9Di%20d%C3%B9ng/Gi%E1%BA%A3%20thi%E1%BA%BFt%20v%E1%BB%81%20ti%E1%BA%BFp%20nh%E1%BA%ADn%20c%E1%BB%A7a%20ng%C6%B0%E1%BB%9Di%20%C4%91%E1%BB%8Dc.md)
 [Một số ví dụ về mục tiêu nghiên cứu](M%E1%BB%99t%20s%E1%BB%91%20v%C3%AD%20d%E1%BB%A5%20v%E1%BB%81%20m%E1%BB%A5c%20ti%C3%AAu%20nghi%C3%AAn%20c%E1%BB%A9u.md)
