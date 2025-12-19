@@ -1,9 +1,9 @@
 ---
 share: true
 created: 2023-05-26T14:51
-updated: 2025-12-12T16:18
+updated: 2025-12-19T11:32
 ---
-Khái niệm:: [Phụ nữ](../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Ph%E1%BB%A5%20n%E1%BB%AF.md)
+Khái niệm:: [Phụ nữ](../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Giai%20c%E1%BA%A5p.%20Ph%C3%A1t%20tri%E1%BB%83n%20b%E1%BB%81n%20v%E1%BB%AFng/Ph%E1%BB%A5%20n%E1%BB%AF.md)
 **Phụ nữ làm 75% khối lượng công việc** chăm sóc không lương trên toàn thế giới, ước tính khoảng **13% GDP toàn cầu**  
 (Nguồn: Viện Nghiên cứu Phát triển: Phân phối lại công việc chăm sóc không lương – Vì sao thuế lại có ý nghĩa đối với quyền của phụ nữ, Số 109 tháng 1/2016)  
 
