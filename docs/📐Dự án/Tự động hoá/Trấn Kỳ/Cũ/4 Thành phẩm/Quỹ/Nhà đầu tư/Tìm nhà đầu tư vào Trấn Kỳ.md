@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-11-24T17:59
-updated: 2025-12-06T17:41
+updated: 2025-12-19T11:32
 ---
 # Trước khi có người chuyên đi kiếm tiền
 | Thành quả mong muốn                  | Giả thiết                                                  | Công việc                 |
@@ -13,4 +13,4 @@ updated: 2025-12-06T17:41
 | Thành quả mong muốn                         | Giả thiết                                       | Công việc               |
 | ------------------------------------------- | ----------------------------------------------- | ----------------------- |
 | Thu hút được 1 nhà đầu tư quan tâm mỗi tuần | Có người hỏi                                    |                         |
-| [Một khoản đầu tư 120tr cho 3 tháng](../../../3%20Th%C3%A0nh%20qu%E1%BA%A3%20mong%20mu%E1%BB%91n/M%E1%BB%99t%20kho%E1%BA%A3n%20%C4%91%E1%BA%A7u%20t%C6%B0%20120tr%20cho%203%20th%C3%A1ng.md)      | Đến lúc có được điều này thì Kendy vẫn còn sống | [Kêu gọi đầu tư](../../../../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Qu%E1%BB%B9.md) |
+| [Một khoản đầu tư 120tr cho 3 tháng](../../../3%20Th%C3%A0nh%20qu%E1%BA%A3%20mong%20mu%E1%BB%91n/M%E1%BB%99t%20kho%E1%BA%A3n%20%C4%91%E1%BA%A7u%20t%C6%B0%20120tr%20cho%203%20th%C3%A1ng.md)      | Đến lúc có được điều này thì Kendy vẫn còn sống | [Kêu gọi đầu tư](%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Qu%E1%BB%B9.md) |
