@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-12-16T11:45
+updated: 2025-12-19T11:32
 ---
 - \-: 
     - [Con người không giả định miễn phí là kém chất lượng với sản phẩm số](../../N%E1%BB%81n%20kinh%20t%E1%BA%BF%20h%C3%A0ng%20ho%C3%A1/Gi%C3%A1%20tr%E1%BB%8B,%20gi%C3%A1%20c%E1%BA%A3/Con%20ng%C6%B0%E1%BB%9Di%20kh%C3%B4ng%20gi%E1%BA%A3%20%C4%91%E1%BB%8Bnh%20mi%E1%BB%85n%20ph%C3%AD%20l%C3%A0%20k%C3%A9m%20ch%E1%BA%A5t%20l%C6%B0%E1%BB%A3ng%20v%E1%BB%9Bi%20s%E1%BA%A3n%20ph%E1%BA%A9m%20s%E1%BB%91.md)
