@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-12-15
-updated: 2025-12-15T15:01
+updated: 2025-12-19T11:32
 aliases:
   - Sự giàu có đích thực là gì?
 title: Nền kinh tế vừa đủ
