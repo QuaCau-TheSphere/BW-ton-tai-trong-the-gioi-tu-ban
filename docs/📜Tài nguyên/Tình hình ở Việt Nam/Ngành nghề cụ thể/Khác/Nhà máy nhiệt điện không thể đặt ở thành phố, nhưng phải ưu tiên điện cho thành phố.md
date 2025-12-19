@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-12-16T10:08
+updated: 2025-12-19T11:32
 ---
 Khái niệm:: 
 Điều đó khiến cho [Nông thôn chịu ô nhiễm để thành phố có điện, nhưng khi bị quá tải điện thì lại bị cắt điện đầu tiên](./N%C3%B4ng%20th%C3%B4n%20ch%E1%BB%8Bu%20%C3%B4%20nhi%E1%BB%85m%20%C4%91%E1%BB%83%20th%C3%A0nh%20ph%E1%BB%91%20c%C3%B3%20%C4%91i%E1%BB%87n,%20nh%C6%B0ng%20khi%20b%E1%BB%8B%20qu%C3%A1%20t%E1%BA%A3i%20%C4%91i%E1%BB%87n%20th%C3%AC%20l%E1%BA%A1i%20b%E1%BB%8B%20c%E1%BA%AFt%20%C4%91i%E1%BB%87n%20%C4%91%E1%BA%A7u%20ti%C3%AAn.md)
