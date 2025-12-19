@@ -1,9 +1,9 @@
 ---
 share: true
 created: 2023-05-26T14:51
-updated: 2025-12-06T17:41
+updated: 2025-12-19T11:32
 ---
-Khái niệm:: [GDP](../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/GDP.md)
+Khái niệm:: [GDP](../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Kinh%20t%E1%BA%BF%20h%E1%BB%8Dc/GDP.md)
 [VN ký các hiệp định thương mại đầu tiên vào năm 1995](./VN%20k%C3%BD%20c%C3%A1c%20hi%E1%BB%87p%20%C4%91%E1%BB%8Bnh%20th%C6%B0%C6%A1ng%20m%E1%BA%A1i%20%C4%91%E1%BA%A7u%20ti%C3%AAn%20v%C3%A0o%20n%C4%83m%201995.md)
 [Hy sinh lạm phát cho tăng trưởng](../M%E1%BB%A5c%20ti%C3%AAu/Hy%20sinh%20l%E1%BA%A1m%20ph%C3%A1t%20cho%20t%C4%83ng%20tr%C6%B0%E1%BB%9Fng.md)
 

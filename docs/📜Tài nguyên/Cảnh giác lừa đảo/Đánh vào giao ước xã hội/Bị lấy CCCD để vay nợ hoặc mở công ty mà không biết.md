@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-12-06T17:41
+updated: 2025-12-19T11:32
 ---
 Bị lấy CCCD để làm:
 - giám đốc chi nhánh công ty, sau đó công ty thua lỗ nhưng chủ không giải thể và trốn sang nước ngoài, để lại tiền nợ thuế không tưởng cho mình

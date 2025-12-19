@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-12-08T22:46
+updated: 2025-12-19T11:32
 title: Đề xuất vay nợ của Nguyễn Đức Thịnh
 ---
 ## Thông tin chính

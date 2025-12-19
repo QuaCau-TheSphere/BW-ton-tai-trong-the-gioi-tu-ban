@@ -1,10 +1,10 @@
 ---
 share: true
 created: 2024-12-25T10:56
-updated: 2025-12-06T17:41
+updated: 2025-12-19T11:32
 title: Cảnh giác lừa đảo
 ---
-Khái niệm:: [Lừa đảo](../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/L%E1%BB%ABa%20%C4%91%E1%BA%A3o.md), [Khai thác điểm yếu con người](../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Khai%20th%C3%A1c%20%C4%91i%E1%BB%83m%20y%E1%BA%BFu%20con%20ng%C6%B0%E1%BB%9Di.md)
+Khái niệm:: [Lừa đảo](../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Ki%E1%BA%BFm%20ti%E1%BB%81n/Kh%C3%B4ng%20li%C3%AAm%20ch%C3%ADnh/L%E1%BB%ABa%20%C4%91%E1%BA%A3o.md), [Khai thác điểm yếu con người](../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Ki%E1%BA%BFm%20ti%E1%BB%81n/Kh%C3%B4ng%20li%C3%AAm%20ch%C3%ADnh/Khai%20th%C3%A1c%20%C4%91i%E1%BB%83m%20y%E1%BA%BFu%20con%20ng%C6%B0%E1%BB%9Di.md)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wGxW6CosPW4?si=lyUI07bQjWc3WOXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 [Tiêu điểm: Kỹ nghệ lừa đảo \| VTV24 - YouTube](https://youtu.be/pT-vuDtdv9Q?si=wZ1EoJYUZm0CF645)
 [Lừa đảo hội lừa đảo](../%C3%9D%20t%C6%B0%E1%BB%9Fng%20ki%E1%BA%BFm%20ti%E1%BB%81n/%C3%9D%20t%C6%B0%E1%BB%9Fng/C%C3%B4ng%20vi%E1%BB%87c%20th%E1%BB%9Di%20v%E1%BB%A5,%20c%E1%BB%99ng%20t%C3%A1c%20vi%C3%AAn/L%E1%BB%ABa%20%C4%91%E1%BA%A3o%20h%E1%BB%99i%20l%E1%BB%ABa%20%C4%91%E1%BA%A3o.md)

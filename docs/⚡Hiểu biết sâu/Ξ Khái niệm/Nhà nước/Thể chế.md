@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-12-16T11:44
+updated: 2025-12-19T11:32
 ---
 - Thể chế: 
     - [Cải cách thể chế được xem là điều kiện tiên quyết để tránh rơi vào bẫy thu nhập trung bình](../../N%E1%BB%81n%20kinh%20t%E1%BA%BF%20h%C3%A0ng%20ho%C3%A1/Tr%C6%B0%E1%BB%9Dng%20ph%C3%A1i,%20l%E1%BB%8Bch%20s%E1%BB%AD%20kinh%20t%E1%BA%BF%20h%E1%BB%8Dc/Th%E1%BB%83%20ch%E1%BA%BF/C%E1%BA%A3i%20c%C3%A1ch%20th%E1%BB%83%20ch%E1%BA%BF%20%C4%91%C6%B0%E1%BB%A3c%20xem%20l%C3%A0%20%C4%91i%E1%BB%81u%20ki%E1%BB%87n%20ti%C3%AAn%20quy%E1%BA%BFt%20%C4%91%E1%BB%83%20tr%C3%A1nh%20r%C6%A1i%20v%C3%A0o%20b%E1%BA%ABy%20thu%20nh%E1%BA%ADp%20trung%20b%C3%ACnh.md)

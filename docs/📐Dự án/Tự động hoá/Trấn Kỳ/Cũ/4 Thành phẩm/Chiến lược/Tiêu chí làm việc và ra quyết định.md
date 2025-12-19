@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-12-07T11:39
-updated: 2025-12-06T17:41
+updated: 2025-12-19T11:32
 ---
 # Ra quyết định
 Trên lý thuyết thì sử [phương pháp phân tích quyết định đa tiêu chí (MCDA) để tìm điểm đánh đổi tối ưu nhất](Ph%C3%A2n%20t%C3%ADch%20quy%E1%BA%BFt%20%C4%91%E1%BB%8Bnh%20%C4%91a%20ti%C3%AAu%20ch%C3%AD%20(MCDA)%20l%C3%A0%20ph%C6%B0%C6%A1ng%20ph%C3%A1p%20%C4%91%E1%BB%83%20t%C3%ACm%20%C4%91i%E1%BB%83m%20%C4%91%C3%A1nh%20%C4%91%E1%BB%95i%20t%E1%BB%91i%20%C6%B0u%20nh%E1%BA%A5t.md), và quyền bỏ phiếu của các thành viên dựa theo thời gian đóng góp của mỗi người. 

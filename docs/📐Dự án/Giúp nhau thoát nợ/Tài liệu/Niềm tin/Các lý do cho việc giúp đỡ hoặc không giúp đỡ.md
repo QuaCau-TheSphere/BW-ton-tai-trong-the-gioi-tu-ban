@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-11-02T00:57
-updated: 2025-12-09T12:20
+updated: 2025-12-19T11:32
 aliases:
   - được và mất
   - cân nhắc lợi hại
@@ -68,7 +68,7 @@ VD:
 
 ### Thấy lý do sử dụng tiền không hợp lý
 VD:
-- [Nhất định phải giữ điểm tín dụng với ngân hàng cho bằng được](../../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Ni%E1%BB%81m%20tin,%20di%E1%BB%85n%20ng%C3%B4n/Ti%E1%BB%81n/N%E1%BB%A3/B%E1%BA%B1ng%20m%E1%BB%8Di%20gi%C3%A1%20ph%E1%BA%A3i%20gi%E1%BB%AF%20%C4%91i%E1%BB%83m%20t%C3%ADn%20d%E1%BB%A5ng%20cho%20s%E1%BA%A1ch.md)
+- [Nhất định phải giữ điểm tín dụng với ngân hàng cho bằng được](../../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Ni%E1%BB%81m%20tin,%20di%E1%BB%85n%20ng%C3%B4n/Ti%E1%BB%81n/Vay,%20n%E1%BB%A3/B%E1%BA%B1ng%20m%E1%BB%8Di%20gi%C3%A1%20ph%E1%BA%A3i%20gi%E1%BB%AF%20%C4%91i%E1%BB%83m%20t%C3%ADn%20d%E1%BB%A5ng%20cho%20s%E1%BA%A1ch.md)
 - Phải vào quán nước nói chuyện cho đàng hoàng chứ không ngồi ngoài đường hoặc công viên được
 - [Vẫn muốn sinh con khi đang nợ](../../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Ni%E1%BB%81m%20tin,%20di%E1%BB%85n%20ng%C3%B4n/C%C3%A1%20nh%C3%A2n/Kh%C3%B4ng%20nu%C3%B4i%20%C4%91%C6%B0%E1%BB%A3c%20con%20th%C3%AC%20%C4%91%E1%BB%ABng%20sinh%20con.md)
 - Không muốn minh bạch việc mượn nợ vì thấy mình không có tư cách mượn quỹ

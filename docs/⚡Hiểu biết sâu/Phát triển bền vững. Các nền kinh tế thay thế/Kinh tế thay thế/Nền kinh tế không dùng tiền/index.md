@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-09-13T09:22
-updated: 2025-12-06T16:04
+updated: 2025-12-19T11:32
 title: Nền kinh tế không dùng tiền
 ---
 Khái niệm:: 

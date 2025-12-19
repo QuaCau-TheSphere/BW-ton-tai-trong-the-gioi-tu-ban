@@ -1,12 +1,12 @@
 ---
 share: true
 created: 2024-10-26T09:30
-updated: 2025-12-06T17:41
+updated: 2025-12-19T11:32
 aliases:
   - Cho vay theo nhóm bền vững hơn, ít bị xù hơn
   - Cho vay cá nhân nhiều lợi nhuận hơn, dễ mở rộng phạm vi hoạt động hơn
 ---
-Khái niệm:: [Tài chính vi mô](../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/T%C3%A0i%20ch%C3%ADnh%20vi%20m%C3%B4.md)
+Khái niệm:: [Tài chính vi mô](%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/T%C3%A0i%20ch%C3%ADnh%20vi%20m%C3%B4.md)
 
 Ứng dụng lý thuyết kinh tế học hành vi, cho 3 người vay sẽ chắc ăn hơn 1 người. Ở ngoài Bắc gọi là vòng quay vốn
 

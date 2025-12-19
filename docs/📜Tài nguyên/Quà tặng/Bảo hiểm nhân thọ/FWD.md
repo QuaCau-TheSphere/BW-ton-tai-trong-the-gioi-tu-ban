@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-08-14T12:10
-updated: 2025-12-06T17:41
+updated: 2025-12-19T10:28
 aliases:
   - Tặng bảo hiểm nhân thọ
   - Hợp đồng bảo hiểm nhân thọ, miễn phí năm đầu

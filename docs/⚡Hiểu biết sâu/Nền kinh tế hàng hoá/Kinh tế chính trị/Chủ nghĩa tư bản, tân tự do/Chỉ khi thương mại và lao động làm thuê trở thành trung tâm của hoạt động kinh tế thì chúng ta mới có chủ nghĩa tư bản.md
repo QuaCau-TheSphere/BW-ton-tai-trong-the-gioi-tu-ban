@@ -1,8 +1,8 @@
 ---
 share: true
 created: 2025-05-03T23:44
-updated: 2025-12-06T17:41
+updated: 2025-12-19T11:32
 ---
-Khái niệm:: [Tư bản](../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/T%C6%B0%20b%E1%BA%A3n.md)
+Khái niệm:: [Tư bản](../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Kinh%20t%E1%BA%BF%20h%E1%BB%8Dc/T%C6%B0%20b%E1%BA%A3n.md)
 
 Nguồn:: https://vnmarxist.com/post-2137.html

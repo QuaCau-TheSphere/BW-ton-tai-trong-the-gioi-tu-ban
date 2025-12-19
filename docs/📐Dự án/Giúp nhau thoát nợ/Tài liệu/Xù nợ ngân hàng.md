@@ -2,7 +2,7 @@
 share: true
 created: 2025-03-27T17:13
 description: Chuyện gì sẽ xảy ra khi bị liệt là nợ xấu?
-updated: 2025-12-17T08:20
+updated: 2025-12-19T11:32
 aliases:
   - Chuyện gì sẽ xảy ra khi bị liệt là nợ xấu?
   - Lý do không muốn bị mất điểm tín dụng
@@ -13,7 +13,7 @@ Tại sao [bằng mọi giá phải giữ điểm tín dụng cho sạch](../../
 ### Lý do 1: Để thoát nghèo, đạt được ước mơ thay đổi cuộc sống
 Những người không muốn mất điểm tín dụng vì lý do này thường cho rằng [Muốn thoát nghèo cần dòng tiền, chứ không phải là làm công ăn lương](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Ni%E1%BB%81m%20tin,%20di%E1%BB%85n%20ng%C3%B4n/Ti%E1%BB%81n/Gi%C3%A0u,%20ngh%C3%A8o/Mu%E1%BB%91n%20tho%C3%A1t%20ngh%C3%A8o%20c%E1%BA%A7n%20d%C3%B2ng%20ti%E1%BB%81n,%20ch%E1%BB%A9%20kh%C3%B4ng%20ph%E1%BA%A3i%20l%C3%A0%20l%C3%A0m%20c%C3%B4ng%20%C4%83n%20l%C6%B0%C6%A1ng.md). [Việc có được dòng tiền là cánh cửa để đạt được ước mơ thay đổi cuộc sống](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Ni%E1%BB%81m%20tin,%20di%E1%BB%85n%20ng%C3%B4n/Ti%E1%BB%81n/Vay,%20n%E1%BB%A3/Vi%E1%BB%87c%20c%C3%B3%20%C4%91%C6%B0%E1%BB%A3c%20d%C3%B2ng%20ti%E1%BB%81n%20l%C3%A0%20c%C3%A1nh%20c%E1%BB%ADa%20%C4%91%E1%BB%83%20%C4%91%E1%BA%A1t%20%C4%91%C6%B0%E1%BB%A3c%20%C6%B0%E1%BB%9Bc%20m%C6%A1%20thay%20%C4%91%E1%BB%95i%20cu%E1%BB%99c%20s%E1%BB%91ng.md). 
 
-Thứ họ muốn không phải là tiền, mà là được đáp ứng các nhu cầu cơ bản như y tế, nhà ở, giáo dục, v.v. Ngày xưa hoặc ở các vùng cao không có nhiều tiện nghi, nhưng điều đó không có nghĩa là các nhu cầu của những người ở đó bị thiếu hút. Họ vẫn có cuộc sống hạnh phúc. Và ở thời hiện đại thì cũng không cần phải đánh đổi việc sống hạnh phúc với việc chết sớm hay không tiếp cận được với cuộc sống hiện đại. Các cộng đồng, nhất là [Cộng đồng có chủ đích](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Ph%C3%A1t%20tri%E1%BB%83n%20b%E1%BB%81n%20v%E1%BB%AFng.%20C%C3%A1c%20n%E1%BB%81n%20kinh%20t%E1%BA%BF%20thay%20th%E1%BA%BF/C%E1%BB%99ng%20%C4%91%E1%BB%93ng%20c%C3%B3%20ch%E1%BB%A7%20%C4%91%C3%ADch/index.md) giải quyết được những vấn đề này, và đã có những nơi như vậy ở Việt Nam.
+[Chúng ta cần có tiền, nhưng không cần giàu có](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/N%E1%BB%81n%20kinh%20t%E1%BA%BF%20h%C3%A0ng%20ho%C3%A1/Ti%E1%BB%81n,%20n%E1%BB%A3,%20b%E1%BA%A3n%20v%E1%BB%8B/Ch%C3%BAng%20ta%20c%E1%BA%A7n%20c%C3%B3%20ti%E1%BB%81n,%20nh%C6%B0ng%20kh%C3%B4ng%20c%E1%BA%A7n%20gi%C3%A0u%20c%C3%B3.md). Thứ họ muốn không phải là tiền, mà là được đáp ứng các nhu cầu cơ bản như y tế, nhà ở, giáo dục, v.v. Ngày xưa hoặc ở các vùng cao không có nhiều tiện nghi, nhưng điều đó không có nghĩa là các nhu cầu của những người ở đó bị thiếu hút. Họ vẫn có cuộc sống hạnh phúc. Và ở thời hiện đại thì cũng không cần phải đánh đổi việc sống hạnh phúc với việc chết sớm hay không tiếp cận được với cuộc sống hiện đại. Các cộng đồng, nhất là [Cộng đồng có chủ đích](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Ph%C3%A1t%20tri%E1%BB%83n%20b%E1%BB%81n%20v%E1%BB%AFng.%20C%C3%A1c%20n%E1%BB%81n%20kinh%20t%E1%BA%BF%20thay%20th%E1%BA%BF/C%E1%BB%99ng%20%C4%91%E1%BB%93ng%20c%C3%B3%20ch%E1%BB%A7%20%C4%91%C3%ADch/index.md) giải quyết được những vấn đề này, và đã có những nơi như vậy ở Việt Nam.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/21j_OCNLuYg?si=ul1SgvKYfAk5cico" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

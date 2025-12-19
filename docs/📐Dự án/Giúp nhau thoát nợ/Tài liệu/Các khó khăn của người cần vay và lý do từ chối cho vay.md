@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-12-04T11:08
-updated: 2025-12-13T11:59
+updated: 2025-12-19T11:32
 aliases:
   - Các lý do khiến cho một người khó mở lời hỏi mượn tiền người xung quanh
 ---

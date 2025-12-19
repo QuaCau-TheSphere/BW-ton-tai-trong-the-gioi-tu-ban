@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-12-30T16:26
-updated: 2025-12-09T11:22
+updated: 2025-12-19T11:32
 title: Công ty tài chính tiêu dùng
 ---
 Khái niệm:: 

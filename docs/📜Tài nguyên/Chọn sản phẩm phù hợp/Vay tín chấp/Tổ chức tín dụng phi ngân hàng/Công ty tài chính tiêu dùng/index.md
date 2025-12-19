@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-01-22T17:19
-updated: 2025-12-06T17:41
+updated: 2025-12-19T13:03
 title: Công ty tài chính tiêu dùng
 ---
 ![Pasted image 20250122171929.png](../../../../../assets/attachments/Pasted%20image%2020250122171929.png)

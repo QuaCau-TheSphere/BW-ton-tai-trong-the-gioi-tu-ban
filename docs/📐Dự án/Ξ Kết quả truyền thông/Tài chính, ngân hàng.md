@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-12-12T11:44
+updated: 2025-12-19T11:32
 ---
 ## [Quỹ giúp nhau giữ tài sản thế chấp ngân hàng](../Gi%C3%BAp%20nhau%20tho%C3%A1t%20n%E1%BB%A3/Qu%E1%BB%B9/Qu%E1%BB%B9%20gi%C3%BAp%20nhau%20gi%E1%BB%AF%20t%C3%A0i%20s%E1%BA%A3n%20th%E1%BA%BF%20ch%E1%BA%A5p%20ng%C3%A2n%20h%C3%A0ng.md)
 ### [r/TroChuyenLinhTinh](https://www.reddit.com/r/TroChuyenLinhTinh/comments/1mrt2jw/comment/n8zxkxd/)

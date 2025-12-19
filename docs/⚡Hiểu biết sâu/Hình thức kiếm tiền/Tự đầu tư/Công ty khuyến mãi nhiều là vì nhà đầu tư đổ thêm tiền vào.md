@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-04-07T15:27
-updated: 2025-12-06T17:41
+updated: 2025-12-19T11:32
 aliases:
   - Liệu công ty X có đang lừa đảo, rửa tiền không?
 ---
@@ -32,4 +32,4 @@ Vẫn còn một lập luận phản biện nữa. Đó là [Làm đúng luật 
 
 
 ## Nhưng lừa đảo không đáng lo bằng rửa tiền?
-Để bị quy vào tội [Rửa tiền](../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/R%E1%BB%ADa%20ti%E1%BB%81n.md), bạn phải làm việc với các công ty [mà bạn có cơ sở để biết là tiền là do phạm tội mà có](https://thuvienphapluat.vn/chinh-sach-phap-luat-moi/vn/ho-tro-phap-luat/tham-nhung/39307/rua-tien-la-gi-trach-nhiem-hinh-su-doi-voi-toi-rua-tien). Đương nhiên, bọn mình cũng không dại gì làm với các công ty như vậy. Tức là, nếu bạn tin là bọn mình sẽ trung thực, thành thật với bạn, thì bạn cũng không có cơ sở để biết là tiền từ công ty này là do phạm tội mà có. Trừ khi, ờm ..., bạn không trung thực, thành thực với bọn mình. Còn không thì chắc bạn đã có cơ sở để bạn thấy an toàn khi tham gia. 
+Để bị quy vào tội [Rửa tiền](%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/R%E1%BB%ADa%20ti%E1%BB%81n.md), bạn phải làm việc với các công ty [mà bạn có cơ sở để biết là tiền là do phạm tội mà có](https://thuvienphapluat.vn/chinh-sach-phap-luat-moi/vn/ho-tro-phap-luat/tham-nhung/39307/rua-tien-la-gi-trach-nhiem-hinh-su-doi-voi-toi-rua-tien). Đương nhiên, bọn mình cũng không dại gì làm với các công ty như vậy. Tức là, nếu bạn tin là bọn mình sẽ trung thực, thành thật với bạn, thì bạn cũng không có cơ sở để biết là tiền từ công ty này là do phạm tội mà có. Trừ khi, ờm ..., bạn không trung thực, thành thực với bọn mình. Còn không thì chắc bạn đã có cơ sở để bạn thấy an toàn khi tham gia. 

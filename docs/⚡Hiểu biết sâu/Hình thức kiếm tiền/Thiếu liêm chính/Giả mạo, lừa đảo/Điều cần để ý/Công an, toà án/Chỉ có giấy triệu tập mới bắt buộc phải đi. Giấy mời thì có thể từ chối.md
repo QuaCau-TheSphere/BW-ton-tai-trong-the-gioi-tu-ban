@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-12-06T17:41
+updated: 2025-12-19T11:32
 ---
 Khái niệm:: 
 [Nếu là giấy mời thì được quyền ghi âm, ghi hình](./N%E1%BA%BFu%20l%C3%A0%20gi%E1%BA%A5y%20m%E1%BB%9Di%20th%C3%AC%20%C4%91%C6%B0%E1%BB%A3c%20quy%E1%BB%81n%20ghi%20%C3%A2m,%20ghi%20h%C3%ACnh.md)

@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-12-06T17:41
+updated: 2025-12-19T10:36
 ---
 Khái niệm:: 
 Cứ gọi ko đc kêu ảo, nhắn tin TTTB là ra sdt chính chủ

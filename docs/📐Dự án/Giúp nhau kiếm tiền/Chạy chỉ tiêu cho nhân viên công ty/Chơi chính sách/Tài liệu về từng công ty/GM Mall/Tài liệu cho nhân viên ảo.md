@@ -1,7 +1,8 @@
 ---
 share: true
-created: 2025-04-21T12:57
-updated: 2025-12-06T17:41
+created: 2025-03-27T17:13
+updated: 2025-12-19T11:32
+description: "Số tiền kiếm được: "
 ---
 ## Gom nhóm
 ### B0. Vào app, đăng nhập
@@ -29,7 +30,7 @@ mua sau đó kéo xuống sẽ thấy chữ "đặt đơn nhóm" màu hồng bê
 
 ## Coi My Team
 - Biết 2 cột đỏ đen biểu hiện cái gì, biết coi số người đăng ký, biết cách lì xì, rút tiền
-- [Đây không phải là sàn để đầu tư. Nếu đầu tư thì nó đã không giới hạn 500k/ngày mà sẽ để cho càng nhiều càng lời](../../../../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/T%C3%ACnh%20h%C3%ACnh%20%E1%BB%9F%20Vi%E1%BB%87t%20Nam/Ng%C3%A0nh%20ngh%E1%BB%81%20c%E1%BB%A5%20th%E1%BB%83/T%C3%A0i%20ch%C3%ADnh/S%C3%A0n%20th%C6%B0%C6%A1ng%20m%E1%BA%A1i%20%C4%91i%E1%BB%87n%20t%E1%BB%AD/GM%20Mall/%C4%90%C3%A2y%20kh%C3%B4ng%20ph%E1%BA%A3i%20l%C3%A0%20s%C3%A0n%20%C4%91%E1%BB%83%20%C4%91%E1%BA%A7u%20t%C6%B0.%20N%E1%BA%BFu%20%C4%91%E1%BA%A7u%20t%C6%B0%20th%C3%AC%20n%C3%B3%20%C4%91%C3%A3%20kh%C3%B4ng%20gi%E1%BB%9Bi%20h%E1%BA%A1n%20500k%20m%E1%BB%97i%20ng%C3%A0y%20m%C3%A0%20s%E1%BA%BD%20%C4%91%E1%BB%83%20cho%20c%C3%A0ng%20nhi%E1%BB%81u%20c%C3%A0ng%20l%E1%BB%9Di.md)
+- [Đây không phải là sàn để đầu tư. Nếu đầu tư thì nó đã không giới hạn 500k/ngày mà sẽ để cho càng nhiều càng lời](../../../../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/T%C3%ACnh%20h%C3%ACnh%20%E1%BB%9F%20Vi%E1%BB%87t%20Nam/Ng%C3%A0nh%20ngh%E1%BB%81%20c%E1%BB%A5%20th%E1%BB%83/Kh%C3%A1c/L%E1%BB%ABa%20%C4%91%E1%BA%A3o/%C4%90%C3%A2y%20kh%C3%B4ng%20ph%E1%BA%A3i%20l%C3%A0%20s%C3%A0n%20%C4%91%E1%BB%83%20%C4%91%E1%BA%A7u%20t%C6%B0.%20N%E1%BA%BFu%20%C4%91%E1%BA%A7u%20t%C6%B0%20th%C3%AC%20n%C3%B3%20%C4%91%C3%A3%20kh%C3%B4ng%20gi%E1%BB%9Bi%20h%E1%BA%A1n%20500k%20m%E1%BB%97i%20ng%C3%A0y%20m%C3%A0%20s%E1%BA%BD%20%C4%91%E1%BB%83%20cho%20c%C3%A0ng%20nhi%E1%BB%81u%20c%C3%A0ng%20l%E1%BB%9Di.md)
 
 ## Cách để kiếm khách
 - Có hội nhóm đi làm chung ở Facebook
@@ -39,4 +40,4 @@ mua sau đó kéo xuống sẽ thấy chữ "đặt đơn nhóm" màu hồng bê
 - Cứ F1 mua hàng là mình đc 10%, F2 5%, F3 2%, mình là sale đc thêm 2% nữa. 10 ngày sau tiền hoàn về cho người mua.
 - 1 nhân viên có 5KH mua đơn phúc lợi này và có nhóm 5 nhóm zalo sẽ đc tính là 1 KH tích cực, 5KH tích cực là nhận lương 5tr, 15KH tích cực là lương 15tr
 
-Xem thêm:: [Chính sách nhân viên GM Mall](../../../../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/T%C3%ACnh%20h%C3%ACnh%20%E1%BB%9F%20Vi%E1%BB%87t%20Nam/Ng%C3%A0nh%20ngh%E1%BB%81%20c%E1%BB%A5%20th%E1%BB%83/T%C3%A0i%20ch%C3%ADnh/S%C3%A0n%20th%C6%B0%C6%A1ng%20m%E1%BA%A1i%20%C4%91i%E1%BB%87n%20t%E1%BB%AD/GM%20Mall/Nh%C3%A2n%20s%E1%BB%B1/Ch%C3%ADnh%20s%C3%A1ch%20cho%20nh%C3%A2n%20vi%C3%AAn.md)
+Xem thêm:: [Chính sách nhân viên GM Mall](../../../../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/T%C3%ACnh%20h%C3%ACnh%20%E1%BB%9F%20Vi%E1%BB%87t%20Nam/Ng%C3%A0nh%20ngh%E1%BB%81%20c%E1%BB%A5%20th%E1%BB%83/Kh%C3%A1c/L%E1%BB%ABa%20%C4%91%E1%BA%A3o/Nh%C3%A2n%20s%E1%BB%B1/Ch%C3%ADnh%20s%C3%A1ch%20cho%20nh%C3%A2n%20vi%C3%AAn.md)

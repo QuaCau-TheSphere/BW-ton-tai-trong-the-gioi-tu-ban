@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-12-06T17:41
+updated: 2025-12-19T11:32
 ---
 Người nghèo không có được xa xỉ làm chánh nghiệp, mà bị buộc phải chọn làm hoại nghiệp? 
 
@@ -23,4 +23,4 @@ rất nhiều người làm tài chính cá nhân, tại sao các hình thức t
 Tương tự như việc các hình thức kinh tế thay thế vẫn sẽ còn phải sống với tư bản, nông thôn sẽ còn phải sống với đô thị. 
 Muốn biết xem sự kết nối với đô thị thế nào: giao thông, 
 
-[❓Tại sao ILO lại không thúc đẩy các HTX](../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Ph%C3%A1t%20tri%E1%BB%83n%20b%E1%BB%81n%20v%E1%BB%AFng.%20C%C3%A1c%20n%E1%BB%81n%20kinh%20t%E1%BA%BF%20thay%20th%E1%BA%BF/C%C3%A1c%20n%E1%BB%81n%20kinh%20t%E1%BA%BF%20thay%20th%E1%BA%BF/H%E1%BB%A3p%20t%C3%A1c%20x%C3%A3/%E2%9D%93T%E1%BA%A1i%20sao%20ILO%20l%E1%BA%A1i%20kh%C3%B4ng%20th%C3%BAc%20%C4%91%E1%BA%A9y%20c%C3%A1c%20HTX.md)
+[❓Tại sao ILO lại không thúc đẩy các HTX](../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Ph%C3%A1t%20tri%E1%BB%83n%20b%E1%BB%81n%20v%E1%BB%AFng.%20C%C3%A1c%20n%E1%BB%81n%20kinh%20t%E1%BA%BF%20thay%20th%E1%BA%BF/Kinh%20t%E1%BA%BF%20thay%20th%E1%BA%BF/H%E1%BB%A3p%20t%C3%A1c%20x%C3%A3/%E2%9D%93T%E1%BA%A1i%20sao%20ILO%20l%E1%BA%A1i%20kh%C3%B4ng%20th%C3%BAc%20%C4%91%E1%BA%A9y%20c%C3%A1c%20HTX.md)

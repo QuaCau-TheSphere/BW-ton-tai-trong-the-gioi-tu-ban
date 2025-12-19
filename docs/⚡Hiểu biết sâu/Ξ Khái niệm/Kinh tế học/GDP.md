@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-12-16T11:45
+updated: 2025-12-19T11:32
 ---
 - GDP: 
     - [Chiến tranh, thiên tai, bệnh tật, kiện tụng cũng làm tăng GDP](../../N%E1%BB%81n%20kinh%20t%E1%BA%BF%20h%C3%A0ng%20ho%C3%A1/Ch%C3%ADnh%20s%C3%A1ch%20nh%C3%A0%20n%C6%B0%E1%BB%9Bc,%20kinh%20t%E1%BA%BF%20v%C4%A9%20m%C3%B4,%20to%C3%A0n%20c%E1%BA%A7u%20ho%C3%A1,%20kinh%20t%E1%BA%BF%20%C4%91%E1%BB%8Ba%20ch%C3%ADnh%20tr%E1%BB%8B/GDP/Chi%E1%BA%BFn%20tranh,%20thi%C3%AAn%20tai,%20b%E1%BB%87nh%20t%E1%BA%ADt,%20ki%E1%BB%87n%20t%E1%BB%A5ng%20c%C5%A9ng%20l%C3%A0m%20t%C4%83ng%20GDP.md)
@@ -10,8 +10,8 @@ updated: 2025-12-16T11:45
     - [Một ông chủ nhà máy bán hết máy móc của mình cũng làm tăng lợi nhuận và GDP](../../N%E1%BB%81n%20kinh%20t%E1%BA%BF%20h%C3%A0ng%20ho%C3%A1/Ch%C3%ADnh%20s%C3%A1ch%20nh%C3%A0%20n%C6%B0%E1%BB%9Bc,%20kinh%20t%E1%BA%BF%20v%C4%A9%20m%C3%B4,%20to%C3%A0n%20c%E1%BA%A7u%20ho%C3%A1,%20kinh%20t%E1%BA%BF%20%C4%91%E1%BB%8Ba%20ch%C3%ADnh%20tr%E1%BB%8B/GDP/M%E1%BB%99t%20%C3%B4ng%20ch%E1%BB%A7%20nh%C3%A0%20m%C3%A1y%20b%C3%A1n%20h%E1%BA%BFt%20m%C3%A1y%20m%C3%B3c%20c%E1%BB%A7a%20m%C3%ACnh%20c%C5%A9ng%20l%C3%A0m%20t%C4%83ng%20l%E1%BB%A3i%20nhu%E1%BA%ADn%20v%C3%A0%20GDP.md)
 
 - Hiện trạng: 
-    - [GDP của VN tăng trưởng rất nhanh](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/T%C3%ACnh%20h%C3%ACnh%20%E1%BB%9F%20Vi%E1%BB%87t%20Nam/Kinh%20t%E1%BA%BF%20v%C4%A9%20m%C3%B4/Hi%E1%BB%87n%20tr%E1%BA%A1ng/GDP%20c%E1%BB%A7a%20VN%20t%C4%83ng%20tr%C6%B0%E1%BB%9Fng%20r%E1%BA%A5t%20nhanh.md)
     - [Doanh thu của Samsung Việt Nam tương đương 20% GDP của Việt Nam](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/T%C3%ACnh%20h%C3%ACnh%20%E1%BB%9F%20Vi%E1%BB%87t%20Nam/Kinh%20t%E1%BA%BF%20v%C4%A9%20m%C3%B4/Hi%E1%BB%87n%20tr%E1%BA%A1ng/Doanh%20thu%20c%E1%BB%A7a%20Samsung%20Vi%E1%BB%87t%20Nam%20t%C6%B0%C6%A1ng%20%C4%91%C6%B0%C6%A1ng%2020%25%20GDP%20c%E1%BB%A7a%20Vi%E1%BB%87t%20Nam.md)
+    - [GDP của VN tăng trưởng rất nhanh](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/T%C3%ACnh%20h%C3%ACnh%20%E1%BB%9F%20Vi%E1%BB%87t%20Nam/Kinh%20t%E1%BA%BF%20v%C4%A9%20m%C3%B4/Hi%E1%BB%87n%20tr%E1%BA%A1ng/GDP%20c%E1%BB%A7a%20VN%20t%C4%83ng%20tr%C6%B0%E1%BB%9Fng%20r%E1%BA%A5t%20nhanh.md)
 
 - Kinh tế địa chính trị: 
     - [64 tập đoàn lớn nhất Hàn Quốc chiến đến 84% GDP nhưng chỉ tạo ra khoảng 10% việc làm](../../N%E1%BB%81n%20kinh%20t%E1%BA%BF%20h%C3%A0ng%20ho%C3%A1/Ch%C3%ADnh%20s%C3%A1ch%20nh%C3%A0%20n%C6%B0%E1%BB%9Bc,%20kinh%20t%E1%BA%BF%20v%C4%A9%20m%C3%B4,%20to%C3%A0n%20c%E1%BA%A7u%20ho%C3%A1,%20kinh%20t%E1%BA%BF%20%C4%91%E1%BB%8Ba%20ch%C3%ADnh%20tr%E1%BB%8B/Kinh%20t%E1%BA%BF%20%C4%91%E1%BB%8Ba%20ch%C3%ADnh%20tr%E1%BB%8B/Ch%C3%A2u%20%C3%81/H%C3%A0n%20Qu%E1%BB%91c/64%20t%E1%BA%ADp%20%C4%91o%C3%A0n%20l%E1%BB%9Bn%20nh%E1%BA%A5t%20H%C3%A0n%20Qu%E1%BB%91c%20chi%E1%BA%BFn%20%C4%91%E1%BA%BFn%2084%25%20GDP%20nh%C6%B0ng%20ch%E1%BB%89%20t%E1%BA%A1o%20ra%20kho%E1%BA%A3ng%2010%25%20vi%E1%BB%87c%20l%C3%A0m.md)

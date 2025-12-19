@@ -1,9 +1,9 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2025-12-06T17:41
+updated: 2025-12-19T11:32
 ---
-Khái niệm:: [Lách luật](../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/L%C3%A1ch%20lu%E1%BA%ADt.md)
+Khái niệm:: [Lách luật](../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Ki%E1%BA%BFm%20ti%E1%BB%81n/Kh%C3%B4ng%20li%C3%AAm%20ch%C3%ADnh/L%C3%A1ch%20lu%E1%BA%ADt.md)
 Để trả lời câu hỏi "Liệu lách luật là phạm luật hay làm đúng luật?", thì phải trả lời được câu hỏi "Luật nên được diễn giải thế nào?". Nó nên được diễn giải theo từ ngữ, hay theo ý định ban đầu của người viết luật?
 
 Bài chi tiết:: [Nguyên tắc giải thích pháp luật là gì? Có những nguyên tắc nào?](https://luatminhkhue.vn/nguyen-tac-giai-thich-phap-luat.aspx)

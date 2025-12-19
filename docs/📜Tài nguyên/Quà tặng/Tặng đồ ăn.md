@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-12-06T17:41
+updated: 2025-12-19T11:32
 ---
 Lượng thức ăn bỏ phí trong thành phố là rất lớn, đặc biệt là ở các tiệc cưới. 
 - [FoodShare](https://foodshare.id.vn/foods/tat-ca-thuc-pham)

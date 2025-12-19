@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-12-16T11:45
+updated: 2025-12-19T11:32
 ---
 - \-: 
     - [Đi cùng với khái niệm bền vững là khan hiếm](../../N%E1%BB%81n%20kinh%20t%E1%BA%BF%20h%C3%A0ng%20ho%C3%A1/C%C3%A1c%20xu%20th%E1%BA%BF%20kinh%20t%E1%BA%BF%20m%E1%BB%9Bi/%C4%90i%20c%C3%B9ng%20v%E1%BB%9Bi%20kh%C3%A1i%20ni%E1%BB%87m%20b%E1%BB%81n%20v%E1%BB%AFng%20l%C3%A0%20khan%20hi%E1%BA%BFm.md)

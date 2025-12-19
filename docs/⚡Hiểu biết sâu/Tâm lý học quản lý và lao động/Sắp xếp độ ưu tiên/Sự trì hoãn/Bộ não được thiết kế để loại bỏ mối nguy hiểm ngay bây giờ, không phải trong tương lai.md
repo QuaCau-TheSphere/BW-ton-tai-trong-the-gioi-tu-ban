@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-06-13T00:06
-updated: 2025-12-06T17:41
+updated: 2025-12-19T11:32
 ---
 Khái niệm:: [Não](N%C3%A3o.md)
 Nguồn:: [Why You Procrastinate (It Has Nothing to Do With Self-Control)](https://www.nytimes.com/2019/03/25/smarter-living/why-you-procrastinate-it-has-nothing-to-do-with-self-control.html)

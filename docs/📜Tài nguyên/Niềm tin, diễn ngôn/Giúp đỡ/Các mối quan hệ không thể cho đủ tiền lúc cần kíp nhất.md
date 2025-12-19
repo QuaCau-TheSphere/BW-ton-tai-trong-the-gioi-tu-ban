@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-12-16T16:56
+updated: 2025-12-19T11:32
 ---
 Khái niệm:: 
 [Giúp đỡ sẽ tạo ra sự lệ thuộc](./Gi%C3%BAp%20%C4%91%E1%BB%A1%20s%E1%BA%BD%20t%E1%BA%A1o%20ra%20s%E1%BB%B1%20l%E1%BB%87%20thu%E1%BB%99c.md)

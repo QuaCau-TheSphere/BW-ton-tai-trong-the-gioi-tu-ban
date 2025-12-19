@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-12-06T17:41
+updated: 2025-12-19T11:32
 ---
 Khái niệm:: 
 Debits and credits is the only way to give your team a common, consistent "language" for dealing with money, and being able to speak this language as a dev gives you superpowers.

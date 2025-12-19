@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-11-11T13:25
-updated: 2025-12-06T17:41
+updated: 2025-12-19T11:32
 aliases:
   - Lo lắng khi bị nhờ cho liên lạc
   - nhờ giới thiệu

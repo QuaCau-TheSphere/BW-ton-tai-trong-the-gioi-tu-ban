@@ -2,7 +2,7 @@
 share: true
 description: "Số tiền kiếm được: 100k/người"
 created: 2025-03-27T17:13
-updated: 2025-12-06T17:56
+updated: 2025-12-19T11:32
 aliases:
   - điều tra viên, chuyên viên thu thập dữ liệu
 ---
@@ -16,8 +16,8 @@ Tên khác:: điều tra viên, chuyên viên thu thập dữ liệu
 
 ## Thông tin thêm
 Số tiền đầu tư:: 0
-Số tiền đặt cọc:: 100k
-Số người cần tuyển:: 0
+Số tiền đặt cọc:: 
+Số người cần tuyển:: ∞
 Hình thức công việc::
 Kiến thức, kỹ năng::
 Nguyên liệu, nguồn thông tin::

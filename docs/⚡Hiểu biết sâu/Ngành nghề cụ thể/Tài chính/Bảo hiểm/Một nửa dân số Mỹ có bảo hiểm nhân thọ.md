@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-12-23T20:27
-updated: 2025-12-06T17:41
+updated: 2025-12-19T11:32
 aliases:
   - Chỉ một nửa dân số Mỹ là có bảo hiểm nhân thọ
 ---

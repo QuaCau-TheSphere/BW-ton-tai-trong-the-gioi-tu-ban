@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-28T16:31
-updated: 2025-12-08T11:03
+updated: 2025-12-19T11:32
 title: Tuyển cộng tác viên tìm khách hàng tiềm năng là người hay suy nghĩ đến cảnh tai nạn, ung thư, chết chóc
 ---
 Các cộng tác viên là những người sống trong [các môi trường hay làm ta suy nghĩ đến cảnh tai nạn, ung thư, chết chóc](../../Ki%E1%BA%BFm%20kh%C3%A1ch/Ng%C6%B0%E1%BB%9Di%20hay%20suy%20ngh%C4%A9%20%C4%91%E1%BA%BFn%20c%E1%BA%A3nh%20tai%20n%E1%BA%A1n,%20ung%20th%C6%B0,%20ch%E1%BA%BFt%20ch%C3%B3c/C%C3%A1ch%20%C4%91%E1%BB%83%20g%E1%BA%B7p%20%C4%91%C6%B0%E1%BB%A3c%20nh%E1%BB%AFng%20ng%C6%B0%E1%BB%9Di%20hay%20suy%20ngh%C4%A9%20%C4%91%E1%BA%BFn%20c%E1%BA%A3nh%20tai%20n%E1%BA%A1n,%20ung%20th%C6%B0,%20ch%E1%BA%BFt%20ch%C3%B3c.md). Họ có thể là:

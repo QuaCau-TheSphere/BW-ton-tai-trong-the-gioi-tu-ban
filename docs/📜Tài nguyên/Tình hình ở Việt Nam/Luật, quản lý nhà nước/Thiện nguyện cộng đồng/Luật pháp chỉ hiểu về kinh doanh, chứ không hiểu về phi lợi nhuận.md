@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-04-14T15:53
-updated: 2025-12-06T17:41
+updated: 2025-12-19T11:32
 ---
 Khái niệm:: 
 [Chính phủ làm từ thiện thì được, chứ không nên thúc đẩy xã hội](./Ch%C3%ADnh%20ph%E1%BB%A7%20l%C3%A0m%20t%E1%BB%AB%20thi%E1%BB%87n%20th%C3%AC%20%C4%91%C6%B0%E1%BB%A3c,%20ch%E1%BB%A9%20kh%C3%B4ng%20n%C3%AAn%20th%C3%BAc%20%C4%91%E1%BA%A9y%20x%C3%A3%20h%E1%BB%99i.md)

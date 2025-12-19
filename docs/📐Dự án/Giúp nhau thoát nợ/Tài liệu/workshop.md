@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-12-09T17:12
+updated: 2025-12-19T11:32
 ---
 Tín dụng được dùng nhiều hơn 
 Bộ các tiêu chí đánh giá: tổng tài sản, tổng nguồn vốn

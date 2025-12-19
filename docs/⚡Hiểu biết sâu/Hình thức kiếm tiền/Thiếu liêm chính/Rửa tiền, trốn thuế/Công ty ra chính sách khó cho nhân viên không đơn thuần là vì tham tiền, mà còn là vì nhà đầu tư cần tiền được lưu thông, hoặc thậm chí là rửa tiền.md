@@ -1,9 +1,9 @@
 ---
 share: true
 created: 2024-09-27T13:06
-updated: 2025-12-06T17:41
+updated: 2025-12-19T11:32
 ---
-Khái niệm:: [Rửa tiền](../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/R%E1%BB%ADa%20ti%E1%BB%81n.md)
+Khái niệm:: [Rửa tiền](../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Ki%E1%BA%BFm%20ti%E1%BB%81n/Kh%C3%B4ng%20li%C3%AAm%20ch%C3%ADnh/R%E1%BB%ADa%20ti%E1%BB%81n.md)
 
 Thì hệ thống chồng chéo lên nhau. 
 Bữa nói ngay ông giám đốc cũng chửi bên quản lý rủi ro vụ quán karaoke quét pos 50tr nhiều lần buổi tối nên tụi nó khóa máy kìa

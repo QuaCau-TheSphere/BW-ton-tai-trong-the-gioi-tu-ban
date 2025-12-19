@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-10-11T15:24
-updated: 2025-12-06T17:41
+updated: 2025-12-19T11:32
 ---
 Nó cũng tránh việc làm hỏng các mqh cá nhân của tvv. Nhưng [Các tập huấn cho người mới tập trung vào việc khai thác người xung quanh tư vấn viên, chứ không phải là doanh nghiệp](../../../../../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/T%C3%ACnh%20h%C3%ACnh%20%E1%BB%9F%20Vi%E1%BB%87t%20Nam/Ng%C3%A0nh%20ngh%E1%BB%81%20c%E1%BB%A5%20th%E1%BB%83/T%C3%A0i%20ch%C3%ADnh/B%E1%BA%A3o%20hi%E1%BB%83m/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c/C%C3%A1c%20t%E1%BA%ADp%20hu%E1%BA%A5n%20cho%20ng%C6%B0%E1%BB%9Di%20m%E1%BB%9Bi%20t%E1%BA%ADp%20trung%20v%C3%A0o%20vi%E1%BB%87c%20khai%20th%C3%A1c%20ng%C6%B0%E1%BB%9Di%20xung%20quanh%20t%C6%B0%20v%E1%BA%A5n%20vi%C3%AAn,%20ch%E1%BB%A9%20kh%C3%B4ng%20ph%E1%BA%A3i%20l%C3%A0%20doanh%20nghi%E1%BB%87p.md)
 [❓Ngay cả những người bán cho doanh nghiệp cũng làm vì có mối quan hệ với doanh nghiệp trước, chứ kiếm dữ liệu cũng không phải là cách chính](../../../../../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/T%C3%ACnh%20h%C3%ACnh%20%E1%BB%9F%20Vi%E1%BB%87t%20Nam/Ng%C3%A0nh%20ngh%E1%BB%81%20c%E1%BB%A5%20th%E1%BB%83/T%C3%A0i%20ch%C3%ADnh/B%E1%BA%A3o%20hi%E1%BB%83m/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c/%E2%9D%93Ngay%20c%E1%BA%A3%20nh%E1%BB%AFng%20ng%C6%B0%E1%BB%9Di%20b%C3%A1n%20cho%20doanh%20nghi%E1%BB%87p%20c%C5%A9ng%20l%C3%A0m%20v%C3%AC%20c%C3%B3%20m%E1%BB%91i%20quan%20h%E1%BB%87%20v%E1%BB%9Bi%20doanh%20nghi%E1%BB%87p%20tr%C6%B0%E1%BB%9Bc,%20ch%E1%BB%A9%20ki%E1%BA%BFm%20d%E1%BB%AF%20li%E1%BB%87u%20c%C5%A9ng%20kh%C3%B4ng%20ph%E1%BA%A3i%20l%C3%A0%20c%C3%A1ch%20ch%C3%ADnh.md)

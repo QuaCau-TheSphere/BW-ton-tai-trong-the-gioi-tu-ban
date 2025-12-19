@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-12-16T11:45
+updated: 2025-12-19T11:32
 ---
 - Bản vị: 
     - [Bản vị vàng bị xoá bỏ vì nó làm cho việc in tiền khi có chiến tranh hay khủng hoảng gặp khó khăn](../../N%E1%BB%81n%20kinh%20t%E1%BA%BF%20h%C3%A0ng%20ho%C3%A1/Ti%E1%BB%81n,%20n%E1%BB%A3,%20b%E1%BA%A3n%20v%E1%BB%8B/B%E1%BA%A3n%20v%E1%BB%8B/B%E1%BA%A3n%20v%E1%BB%8B%20v%C3%A0ng%20b%E1%BB%8B%20xo%C3%A1%20b%E1%BB%8F%20v%C3%AC%20n%C3%B3%20l%C3%A0m%20cho%20vi%E1%BB%87c%20in%20ti%E1%BB%81n%20khi%20c%C3%B3%20chi%E1%BA%BFn%20tranh%20hay%20kh%E1%BB%A7ng%20ho%E1%BA%A3ng%20g%E1%BA%B7p%20kh%C3%B3%20kh%C4%83n.md)

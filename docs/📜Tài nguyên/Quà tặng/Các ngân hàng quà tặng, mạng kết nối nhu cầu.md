@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-12-06T17:41
+updated: 2025-12-19T11:32
 ---
 Khái niệm:: 
 [Ngân hàng quà tặng](./Ng%C3%A2n%20h%C3%A0ng%20qu%C3%A0%20t%E1%BA%B7ng.md)

@@ -1,9 +1,9 @@
 ---
 share: true
 created: 2025-04-10T20:01
-updated: 2025-12-16T10:20
+updated: 2025-12-19T11:32
 ---
-Khái niệm:: [Trả góp](../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Tr%E1%BA%A3%20g%C3%B3p.md)
+Khái niệm:: [Trả góp](../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/T%C3%ADn%20d%E1%BB%A5ng/Tr%E1%BA%A3%20g%C3%B3p.md)
 
 Mua đồ trả góp 0%, rồi bán lại cho người khác. Cơ bản là mình đi săn hàng giùm cho các cửa hàng bán lẻ. Có thể áp thêm mã giảm giá để giảm tiền hàng xuống
 

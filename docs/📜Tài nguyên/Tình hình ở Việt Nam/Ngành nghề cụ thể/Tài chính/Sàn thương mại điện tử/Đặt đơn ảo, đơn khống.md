@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-12-06T17:41
+updated: 2025-12-19T11:32
 ---
 Shop bán hàng thuê người đặt hàng ảo hoặc dùng tài khoản ma của mình để đặt hàng bằng mã giảm giá. Hàng được giao cho shipper nhưng thực ra shipper không giao gì cả. Khách tuy không được giao nhưng vẫn bấm là đã nhận hàng rồi. Người bán không mất hàng mà vẫn được sàn hoàn tiền.
 

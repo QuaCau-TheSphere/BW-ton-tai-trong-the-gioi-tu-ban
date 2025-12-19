@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-01-13T16:35
-updated: 2025-12-10T11:28
+updated: 2025-12-19T11:32
 ---
 Đây là những điều nhân viên FE sẽ nói khi gặp chất vấn:
 Một cách nào đó nhân viên cũng tin như vậy

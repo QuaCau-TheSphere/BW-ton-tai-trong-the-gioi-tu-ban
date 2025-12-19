@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-09-06T11:52
-updated: 2025-12-06T17:41
+updated: 2025-12-19T11:32
 ---
 - \-: 
     - [Xù nợ vay nóng](../../../%F0%9F%93%90D%E1%BB%B1%20%C3%A1n/Gi%C3%BAp%20nhau%20tho%C3%A1t%20n%E1%BB%A3/T%C3%A0i%20li%E1%BB%87u/X%C3%B9%20n%E1%BB%A3%20vay%20n%C3%B3ng.md)
@@ -12,7 +12,6 @@ updated: 2025-12-06T17:41
     - [Réo gọi làm phiền liên tục. Trả xong vẫn bị gọi trong mấy ngày](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/T%C3%ACnh%20h%C3%ACnh%20%E1%BB%9F%20Vi%E1%BB%87t%20Nam/Ng%C3%A0nh%20ngh%E1%BB%81%20c%E1%BB%A5%20th%E1%BB%83/T%C3%A0i%20ch%C3%ADnh/T%E1%BB%95%20ch%E1%BB%A9c%20t%C3%ADn%20d%E1%BB%A5ng/App%20vay%20n%C3%B3ng/R%C3%A9o%20g%E1%BB%8Di%20l%C3%A0m%20phi%E1%BB%81n%20li%C3%AAn%20t%E1%BB%A5c.%20Tr%E1%BA%A3%20xong%20v%E1%BA%ABn%20b%E1%BB%8B%20g%E1%BB%8Di%20trong%20m%E1%BA%A5y%20ng%C3%A0y.md)
 
 - Tổ chức tín dụng phi ngân hàng: 
-    - [App vay nóng](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Ch%E1%BB%8Dn%20s%E1%BA%A3n%20ph%E1%BA%A9m%20ph%C3%B9%20h%E1%BB%A3p/Vay%20t%C3%ADn%20ch%E1%BA%A5p/T%E1%BB%95%20ch%E1%BB%A9c%20t%C3%ADn%20d%E1%BB%A5ng%20phi%20ng%C3%A2n%20h%C3%A0ng/App%20vay%20n%C3%B3ng/index.md)
     - [Réo gọi làm phiền liên tục. Trả xong vẫn bị gọi trong mấy ngày](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Ch%E1%BB%8Dn%20s%E1%BA%A3n%20ph%E1%BA%A9m%20ph%C3%B9%20h%E1%BB%A3p/Vay%20t%C3%ADn%20ch%E1%BA%A5p/T%E1%BB%95%20ch%E1%BB%A9c%20t%C3%ADn%20d%E1%BB%A5ng%20phi%20ng%C3%A2n%20h%C3%A0ng/App%20vay%20n%C3%B3ng/R%C3%A9o%20g%E1%BB%8Di%20l%C3%A0m%20phi%E1%BB%81n%20li%C3%AAn%20t%E1%BB%A5c.%20Tr%E1%BA%A3%20xong%20v%E1%BA%ABn%20b%E1%BB%8B%20g%E1%BB%8Di%20trong%20m%E1%BA%A5y%20ng%C3%A0y.md)
 
 - Vay nợ: 

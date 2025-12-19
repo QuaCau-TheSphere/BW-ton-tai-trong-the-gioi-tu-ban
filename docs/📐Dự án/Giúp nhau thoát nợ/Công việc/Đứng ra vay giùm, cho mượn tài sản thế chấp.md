@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-01-14T18:51
-updated: 2025-12-08T22:46
+updated: 2025-12-19T11:32
 ---
 [Quỹ tín dụng vi mô Quả Cầu](../Qu%E1%BB%B9/Qu%E1%BB%B9%20t%C3%ADn%20d%E1%BB%A5ng%20vi%20m%C3%B4%20Qu%E1%BA%A3%20C%E1%BA%A7u.md)
 Dùng chung CIC thì tất cả những người mượn phải kiểm soát lẫn nhau

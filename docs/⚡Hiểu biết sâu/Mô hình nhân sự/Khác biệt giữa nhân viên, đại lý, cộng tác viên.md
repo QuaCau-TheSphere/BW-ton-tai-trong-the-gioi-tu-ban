@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2025-12-06T17:41
+updated: 2025-12-19T11:32
 ---
 
 | Loại hình                            | Nhân viên                        | Đại lý                              | Cộng tác viên cho công ty        | Cộng tác viên cho nhân viên/đại lý |
@@ -19,4 +19,8 @@ Trong [Kim tứ đồ](../H%C3%ACnh%20th%E1%BB%A9c%20ki%E1%BA%BFm%20ti%E1%BB%81n
 
 [Nhân viên không bị mất lương trong những tháng nhiều ngày nghỉ, nhưng đại lý thì mất thu nhập](./Nh%C3%A2n%20vi%C3%AAn%20kh%C3%B4ng%20b%E1%BB%8B%20m%E1%BA%A5t%20l%C6%B0%C6%A1ng%20trong%20nh%E1%BB%AFng%20th%C3%A1ng%20nhi%E1%BB%81u%20ng%C3%A0y%20ngh%E1%BB%89,%20nh%C6%B0ng%20%C4%91%E1%BA%A1i%20l%C3%BD%20th%C3%AC%20m%E1%BA%A5t%20thu%20nh%E1%BA%ADp.md)
 [Đại lý là người được công ty uỷ quyền, và chỉ được ăn tiền ở đúng công ty đó. Môi giới là người làm cho khách hàng, và có thể ăn tiền từ nhiều công ty](./%C4%90%E1%BA%A1i%20l%C3%BD%20l%C3%A0%20ng%C6%B0%E1%BB%9Di%20%C4%91%C6%B0%E1%BB%A3c%20c%C3%B4ng%20ty%20u%E1%BB%B7%20quy%E1%BB%81n,%20v%C3%A0%20ch%E1%BB%89%20%C4%91%C6%B0%E1%BB%A3c%20%C4%83n%20ti%E1%BB%81n%20%E1%BB%9F%20%C4%91%C3%BAng%20c%C3%B4ng%20ty%20%C4%91%C3%B3.%20M%C3%B4i%20gi%E1%BB%9Bi%20l%C3%A0%20ng%C6%B0%E1%BB%9Di%20l%C3%A0m%20cho%20kh%C3%A1ch%20h%C3%A0ng,%20v%C3%A0%20c%C3%B3%20th%E1%BB%83%20%C4%83n%20ti%E1%BB%81n%20t%E1%BB%AB%20nhi%E1%BB%81u%20c%C3%B4ng%20ty.md)
+Freelancer: Không tốn 2 tiếng mỗi ngày để di chuyển lên công ty; linh động thời gian làm việc, chỉ cần đảm bảo deadline; được làm đa dạng job tùy khả năng nên ít chán... Bù lại không phải lúc nào cũng có việc, có lúc kiếm được nhiều, có lúc ế mốc mỏ.
+
+Văn phòng-er: Đảm bảo ổn định nguồn thu nhập hằng tháng (miễn là còn hợp đồng và công ty phát triển ổn); có đồng nghiệp hợp cạ để tâm sự khi stress... Bù lại, quy trình làm việc đôi lúc gò bó hơn, hoặc làm mãi một việc sẽ cảm thấy "burn-out".
+
 Xem thêm:: [Nhóm cộng tác viên cho nhân viên](../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/%C3%9D%20t%C6%B0%E1%BB%9Fng%20ki%E1%BA%BFm%20ti%E1%BB%81n/%C3%9D%20t%C6%B0%E1%BB%9Fng/C%C3%B4ng%20vi%E1%BB%87c%20th%E1%BB%9Di%20v%E1%BB%A5,%20c%E1%BB%99ng%20t%C3%A1c%20vi%C3%AAn/Nh%C3%B3m%20ch%E1%BA%A1y%20ch%E1%BB%89%20ti%C3%AAu/index.md)

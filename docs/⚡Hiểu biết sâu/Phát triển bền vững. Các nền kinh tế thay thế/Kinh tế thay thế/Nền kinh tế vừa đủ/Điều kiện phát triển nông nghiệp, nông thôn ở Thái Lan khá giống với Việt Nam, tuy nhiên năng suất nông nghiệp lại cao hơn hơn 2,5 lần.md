@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-12-06T16:04
+updated: 2025-12-19T11:32
 ---
 Khái niệm:: 
 Giống như nhiều quốc gia, ở Thái lan cũng được xem là quốc gia sản xuất nông nghiệp nhỏ lẻ, manh mún. Một số thống kê so sánh dưới đây cho thấy điều kiện phát triển nông nghiệp, nông thôn ở Thái Lan khá giống với Việt Nam. Tuy nhiên năng suất nông nghiệp của Thái Lan lại **cao hơn Việt Nam hơn 2,5 lần** như bảng dưới đây:

@@ -1,9 +1,9 @@
 ---
 share: true
 created: 2025-03-22T16:50
-updated: 2025-12-06T17:41
+updated: 2025-12-19T11:32
 ---
-Khái niệm:: [Bán hàng](../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/B%C3%A1n%20h%C3%A0ng.md)
+Khái niệm:: [Bán hàng](../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Ki%E1%BA%BFm%20ti%E1%BB%81n/B%C3%A1n%20h%C3%A0ng.md)
 
 Tính chất công việc:: 
 Điểm cộng:: [Được chọn thời gian làm trong ngày](../../%C4%90%E1%BA%B7c%20%C4%91i%E1%BB%83m%20c%C3%B4ng%20vi%E1%BB%87c/Th%E1%BB%9Di%20gian%20l%C3%A0m%20vi%E1%BB%87c/%C4%90%C6%B0%E1%BB%A3c%20ch%E1%BB%8Dn%20th%E1%BB%9Di%20gian%20l%C3%A0m%20trong%20ng%C3%A0y.md)

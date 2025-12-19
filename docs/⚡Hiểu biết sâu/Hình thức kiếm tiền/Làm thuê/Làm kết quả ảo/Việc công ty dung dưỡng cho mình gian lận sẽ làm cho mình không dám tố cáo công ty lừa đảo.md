@@ -1,9 +1,9 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-12-06T17:41
+updated: 2025-12-19T10:36
 ---
-Khái niệm:: [Chạy ảo, làm ảo, nhân sự ảo](../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Ch%E1%BA%A1y%20%E1%BA%A3o,%20l%C3%A0m%20%E1%BA%A3o,%20nh%C3%A2n%20s%E1%BB%B1%20%E1%BA%A3o.md), [Lừa đảo](../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/L%E1%BB%ABa%20%C4%91%E1%BA%A3o.md)
+Khái niệm:: [Chạy ảo, làm ảo, nhân sự ảo](../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Ki%E1%BA%BFm%20ti%E1%BB%81n/Ch%E1%BA%A1y%20%E1%BA%A3o,%20l%C3%A0m%20%E1%BA%A3o,%20nh%C3%A2n%20s%E1%BB%B1%20%E1%BA%A3o.md), [Lừa đảo](../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Ki%E1%BA%BFm%20ti%E1%BB%81n/Kh%C3%B4ng%20li%C3%AAm%20ch%C3%ADnh/L%E1%BB%ABa%20%C4%91%E1%BA%A3o.md)
 Việc tố cáo sẽ làm mình:
 - Mất tiền
 - Bị phát hiện là phạm luật

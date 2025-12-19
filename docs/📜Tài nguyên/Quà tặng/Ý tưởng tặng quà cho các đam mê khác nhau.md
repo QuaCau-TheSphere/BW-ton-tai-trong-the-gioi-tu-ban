@@ -1,9 +1,9 @@
 ---
 share: true
 created: 2024-11-08T10:55
-updated: 2025-12-06T17:41
+updated: 2025-12-19T11:32
 ---
-Khái niệm:: [Quà tặng](../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Qu%C3%A0%20t%E1%BA%B7ng.md)
+Khái niệm:: [Quà tặng](../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Ki%E1%BA%BFm%20ti%E1%BB%81n/Qu%C3%A0%20t%E1%BA%B7ng.md)
 
 Các công ty thường chỉ tẳng bánh kẹo, vé xem phim, vé giảm giá búp phê, quà tặng cho con. Nhưng thường cũng chẳng ai mấy mặn mà với việc đó. Họ không thiếu việc đó.
 Không thể cứ mua đại được, vì có thể họ cũng có nhiều rồi. Đó là những cái họ cũng thích, nhưng cũng tặc lưỡi không mua
