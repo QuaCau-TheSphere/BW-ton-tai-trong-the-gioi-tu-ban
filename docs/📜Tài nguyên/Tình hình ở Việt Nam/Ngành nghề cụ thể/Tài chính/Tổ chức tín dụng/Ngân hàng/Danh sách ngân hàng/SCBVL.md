@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-08-31T11:15
-updated: 2025-12-06T17:41
+updated: 2025-12-19T11:32
 ---
 Tên thương hiệu:: SCBVL
 Phân loại:: [100% vốn nước ngoài](100%25%20v%E1%BB%91n%20n%C6%B0%E1%BB%9Bc%20ngo%C3%A0i.md)
