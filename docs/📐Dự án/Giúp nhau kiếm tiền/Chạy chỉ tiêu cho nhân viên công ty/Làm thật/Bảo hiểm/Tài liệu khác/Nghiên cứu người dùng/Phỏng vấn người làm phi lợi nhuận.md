@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-10-05T16:28
-updated: 2025-12-06T17:41
+updated: 2025-12-19T11:32
 ---
 ## Mục tiêu nghiên cứu
 1. Hiểu được lý do vì sao không tương tác với [Câu hỏi thu thập ý kiến về việc tổ chức các buổi workshop đáp ứng nhu cầu các tổ chức và hỗ trợ kiếm khách hàng tiềm năng cho người bán hàng](../../../../../../M%E1%BA%A1ng%20k%E1%BA%BFt%20n%E1%BB%91i%20nhu%20c%E1%BA%A7u/C%C3%A2u%20h%E1%BB%8Fi%20thu%20th%E1%BA%ADp%20%C3%BD%20ki%E1%BA%BFn%20v%E1%BB%81%20vi%E1%BB%87c%20t%E1%BB%95%20ch%E1%BB%A9c%20c%C3%A1c%20bu%E1%BB%95i%20workshop%20%C4%91%C3%A1p%20%E1%BB%A9ng%20nhu%20c%E1%BA%A7u%20c%C3%A1c%20t%E1%BB%95%20ch%E1%BB%A9c%20v%C3%A0%20h%E1%BB%97%20tr%E1%BB%A3%20ki%E1%BA%BFm%20kh%C3%A1ch%20h%C3%A0ng%20ti%E1%BB%81m%20n%C4%83ng%20cho%20ng%C6%B0%E1%BB%9Di%20b%C3%A1n%20h%C3%A0ng.md)
@@ -48,7 +48,7 @@ Anh nghĩ gì về ý tưởng này?
 - Anh có khó khăn gì trong việc đáp ứng chúng?
 
 ### Hiểu được thái độ tiếp nhận vault kiếm tiền và các tài nguyên khác
-- [Bản câu hỏi cho người cần được hỗ trợ thoát nợ](../../../../../../Gi%C3%BAp%20nhau%20tho%C3%A1t%20n%E1%BB%A3/B%E1%BA%A3n%20c%C3%A2u%20h%E1%BB%8Fi%20cho%20ng%C6%B0%E1%BB%9Di%20c%E1%BA%A7n%20%C4%91%C6%B0%E1%BB%A3c%20h%E1%BB%97%20tr%E1%BB%A3%20tho%C3%A1t%20n%E1%BB%A3.md)
+- [Bản câu hỏi cho người cần được hỗ trợ thoát nợ](../../../../../../Gi%C3%BAp%20nhau%20tho%C3%A1t%20n%E1%BB%A3/T%C3%A0i%20li%E1%BB%87u/B%E1%BA%A3n%20c%C3%A2u%20h%E1%BB%8Fi/B%E1%BA%A3n%20c%C3%A2u%20h%E1%BB%8Fi%20cho%20ng%C6%B0%E1%BB%9Di%20c%E1%BA%A7n%20%C4%91%C6%B0%E1%BB%A3c%20h%E1%BB%97%20tr%E1%BB%A3%20tho%C3%A1t%20n%E1%BB%A3.md)
 - [Vay tín chấp](../../../../../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Ch%E1%BB%8Dn%20s%E1%BA%A3n%20ph%E1%BA%A9m%20ph%C3%B9%20h%E1%BB%A3p/Vay%20t%C3%ADn%20ch%E1%BA%A5p/index.md)
 - [Niềm tin, diễn ngôn](../../../../../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Ni%E1%BB%81m%20tin,%20di%E1%BB%85n%20ng%C3%B4n/index.md)
 - [Tình Thân](../../../../../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Ch%E1%BB%8Dn%20s%E1%BA%A3n%20ph%E1%BA%A9m%20ph%C3%B9%20h%E1%BB%A3p/Vay%20t%C3%ADn%20ch%E1%BA%A5p/T%E1%BB%95%20ch%E1%BB%A9c%20t%C3%A0i%20ch%C3%ADnh%20vi%20m%C3%B4/T%C3%ACnh%20Th%C3%A2n.md)
