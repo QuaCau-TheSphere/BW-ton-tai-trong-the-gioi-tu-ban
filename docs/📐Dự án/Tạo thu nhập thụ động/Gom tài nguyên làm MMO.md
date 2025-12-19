@@ -1,6 +1,6 @@
 ---
 created: 2025-03-21T22:15
-updated: 2025-12-06T17:41
+updated: 2025-12-19T11:32
 share: true
 aliases:
   - ip
@@ -26,6 +26,6 @@ Thuê IP cư dân từ các quốc gia khác: [Buy Proxies: Mobile and Residenti
 - [Kiếm tiền trực tuyến (MMO)](../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Ng%C3%A0nh%20ngh%E1%BB%81%20c%E1%BB%A5%20th%E1%BB%83/Ki%E1%BA%BFm%20ti%E1%BB%81n%20tr%E1%BB%B1c%20tuy%E1%BA%BFn%20(MMO)/index.md)
 - [Trại nội dung dùng để tăng SEO](../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Ng%C3%A0nh%20ngh%E1%BB%81%20c%E1%BB%A5%20th%E1%BB%83/Ki%E1%BA%BFm%20ti%E1%BB%81n%20tr%E1%BB%B1c%20tuy%E1%BA%BFn%20(MMO)/Tr%E1%BA%A1i%20n%E1%BB%99i%20dung%20d%C3%B9ng%20%C4%91%E1%BB%83%20t%C4%83ng%20SEO.md)
 - [Trại điện thoại dùng để tăng tương tác](../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Ng%C3%A0nh%20ngh%E1%BB%81%20c%E1%BB%A5%20th%E1%BB%83/Ki%E1%BA%BFm%20ti%E1%BB%81n%20tr%E1%BB%B1c%20tuy%E1%BA%BFn%20(MMO)/Tr%E1%BA%A1i%20%C4%91i%E1%BB%87n%20tho%E1%BA%A1i%20d%C3%B9ng%20%C4%91%E1%BB%83%20t%C4%83ng%20t%C6%B0%C6%A1ng%20t%C3%A1c.md)
-- [Vì VAC cần thu thập hành vi, đôi khi một tuần tới một tháng sau mới ban, nên mình cũng có một tuần tới một tháng để khai thác](../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Ng%C3%A0nh%20ngh%E1%BB%81%20c%E1%BB%A5%20th%E1%BB%83/Ki%E1%BA%BFm%20ti%E1%BB%81n%20tr%E1%BB%B1c%20tuy%E1%BA%BFn%20(MMO)/V%C3%AC%20VAC%20c%E1%BA%A7n%20thu%20th%E1%BA%ADp%20h%C3%A0nh%20vi,%20%C4%91%C3%B4i%20khi%20m%E1%BB%99t%20tu%E1%BA%A7n%20t%E1%BB%9Bi%20m%E1%BB%99t%20th%C3%A1ng%20sau%20m%E1%BB%9Bi%20ban,%20n%C3%AAn%20m%C3%ACnh%20c%C5%A9ng%20c%C3%B3%20m%E1%BB%99t%20tu%E1%BA%A7n%20t%E1%BB%9Bi%20m%E1%BB%99t%20th%C3%A1ng%20%C4%91%E1%BB%83%20khai%20th%C3%A1c.md)
 - [Via là tài khoản đã được xác thực](../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Ng%C3%A0nh%20ngh%E1%BB%81%20c%E1%BB%A5%20th%E1%BB%83/Ki%E1%BA%BFm%20ti%E1%BB%81n%20tr%E1%BB%B1c%20tuy%E1%BA%BFn%20(MMO)/Via%20l%C3%A0%20t%C3%A0i%20kho%E1%BA%A3n%20%C4%91%C3%A3%20%C4%91%C6%B0%E1%BB%A3c%20x%C3%A1c%20th%E1%BB%B1c.md)
+- [Vì VAC cần thu thập hành vi, đôi khi một tuần tới một tháng sau mới ban, nên mình cũng có một tuần tới một tháng để khai thác](../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Ng%C3%A0nh%20ngh%E1%BB%81%20c%E1%BB%A5%20th%E1%BB%83/Ki%E1%BA%BFm%20ti%E1%BB%81n%20tr%E1%BB%B1c%20tuy%E1%BA%BFn%20(MMO)/V%C3%AC%20VAC%20c%E1%BA%A7n%20thu%20th%E1%BA%ADp%20h%C3%A0nh%20vi,%20%C4%91%C3%B4i%20khi%20m%E1%BB%99t%20tu%E1%BA%A7n%20t%E1%BB%9Bi%20m%E1%BB%99t%20th%C3%A1ng%20sau%20m%E1%BB%9Bi%20ban,%20n%C3%AAn%20m%C3%ACnh%20c%C5%A9ng%20c%C3%B3%20m%E1%BB%99t%20tu%E1%BA%A7n%20t%E1%BB%9Bi%20m%E1%BB%99t%20th%C3%A1ng%20%C4%91%E1%BB%83%20khai%20th%C3%A1c.md)
 
