@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-12-19T11:32
+updated: 2025-12-19T15:06
 ---
 # Giúp nhau thoát nợ
 Khi một người cần vay nhiều thì sẽ có 2 nguồn để vay:
@@ -12,9 +12,9 @@ Nhưng:
 - Vay từ bạn bè, người thân thì khó mở lời, mà nếu đã mở lời thì cũng có vô số lý do để họ từ chối. Có những người dù có tiền và cũng quan tâm bạn bè nhưng vẫn quan niệm rằng "Không cho vay thì mất bạn. Cho vay rồi còn mất nhanh hơn"
 - Vay dịch vụ thì có thể không đủ điều kiện để được vay, hoặc lãi quá cao, hoặc hạn mức không đủ để xử lý vấn đề
 
-Góp gió thành bão; giải pháp cho chuyện này là nhiều người cùng tham gia hỗ trợ họ. Nó không khác gì mở tài khoản trên Thiennguyen.app hay GoFundMe rồi vận động mọi người tham gia, chia sẻ. Nhưng điều đó chưa hẳn là đủ sức thuyết phục với người lạ, những người khả năng cao là chưa đủ quan tâm cũng như sự tin tưởng, dù họ có thể cũng đã quan tâm đến việc làm việc tốt một cách bền vững. Dù sự giúp đỡ người khác làm con người cảm thấy cuộc sống có ý nghĩa, việc mất tiền vẫn làm cho tâm lý của họ bị đau. Nếu có thể giúp họ giải quyết một nhu cầu khác cụ thể hơn thì khả năng họ tham gia sẽ cao hơn. 
+Ai cũng biết giải pháp cho chuyện này là góp gió thành bão, nhiều người cùng tham gia hỗ trợ họ. Một trong những cách thường gặp là gây quỹ cộng đồng, như mở tài khoản trên Thiennguyen.app hay GoFundMe rồi vận động mọi người tham gia, chia sẻ. Nhưng giải pháp này có những vấn đề, ở cả phía cá nhân người cho tiền cũng như ở mô hình. Với người cho tiền, dù sự giúp đỡ người khác làm con người cảm thấy cuộc sống có ý nghĩa, việc mất tiền vẫn làm cho tâm lý của họ bị đau. Với mô hình, nó không chú trọng vào việc xây dựng cộng đồng hay thay đổi hệ thống, mà chỉ dừng ở mức từ thiện.
 
-Một trong những giải pháp cho tình trạng này là thành lập một quỹ vi mô với mục đích giúp đỡ nhau hơn là kiếm tiền, nhưng vẫn đem lại lợi ích hợp lý cho người cho vay. Nếu bạn mong bạn bè mình tránh được vòng xoáy nợ nần và bị bóc lột bởi hệ thống tư bản, bạn có thể cân nhắc tham gia quỹ.
+Song song với việc xây dựng các hình thức kinh tế thay thế phi tư bản, một giải pháp cho tình trạng này là thành lập một quỹ vi mô với mục đích giúp đỡ nhau hơn là kiếm tiền, nhưng vẫn đem lại lợi ích hợp lý cho người cho vay. Nếu bạn đã từng cho bạn bè mình mượn tiền và muốn chuyện này được giải quyết triệt để hơn, bạn có thể cân nhắc tham gia quỹ.
 
 ## Mô hình hoạt động
 Mọi thành viên của quỹ sẽ được tham gia vào mọi quyết định của quỹ. Cách thức ra quyết định sẽ theo hướng dẫn trong Sổ tay Enspiral.
