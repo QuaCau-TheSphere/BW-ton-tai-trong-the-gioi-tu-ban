@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-12-17T10:30
+updated: 2025-12-19T11:32
 ---
 Khi vay thế chấp ngân hàng thì ngân hàng thường định giá tài sản thấp hơn giá trị thị trường. Đã thế chỉ được vay tối đa 80% mức định giá đó. Nhưng nếu mất khả năng trả nợ và phải bị cấn tài sản thì mất hết luôn.
 
