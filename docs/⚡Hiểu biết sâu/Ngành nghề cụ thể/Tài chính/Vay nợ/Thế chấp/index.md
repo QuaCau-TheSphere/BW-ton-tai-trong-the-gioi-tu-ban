@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-12-06T17:41
+updated: 2025-12-19T11:32
 title: Thế chấp
 ---
 - [Ngân hàng không chấp nhận thế chấp tài sản vô hình](./Ng%C3%A2n%20h%C3%A0ng%20kh%C3%B4ng%20ch%E1%BA%A5p%20nh%E1%BA%ADn%20th%E1%BA%BF%20ch%E1%BA%A5p%20t%C3%A0i%20s%E1%BA%A3n%20v%C3%B4%20h%C3%ACnh.md)
