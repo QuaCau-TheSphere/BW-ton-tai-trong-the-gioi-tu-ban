@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-12-16T11:41
+updated: 2025-12-19T11:32
 ---
 - Công đoàn: 
     - [Không có đình công thì không có thương lượng tập thể, mà chỉ là năn nỉ tập thể](../../H%C3%ACnh%20th%E1%BB%A9c%20ki%E1%BA%BFm%20ti%E1%BB%81n/L%C3%A0m%20thu%C3%AA/C%C3%B4ng%20%C4%91o%C3%A0n/Kh%C3%B4ng%20c%C3%B3%20%C4%91%C3%ACnh%20c%C3%B4ng%20th%C3%AC%20kh%C3%B4ng%20c%C3%B3%20th%C6%B0%C6%A1ng%20l%C6%B0%E1%BB%A3ng%20t%E1%BA%ADp%20th%E1%BB%83,%20m%C3%A0%20ch%E1%BB%89%20l%C3%A0%20n%C4%83n%20n%E1%BB%89%20t%E1%BA%ADp%20th%E1%BB%83.md)
