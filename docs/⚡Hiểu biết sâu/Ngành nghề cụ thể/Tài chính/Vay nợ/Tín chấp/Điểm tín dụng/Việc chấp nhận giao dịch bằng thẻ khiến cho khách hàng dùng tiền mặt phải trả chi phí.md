@@ -1,9 +1,9 @@
 ---
 share: true
 created: 2025-04-14T15:49
-updated: 2025-12-06T17:41
+updated: 2025-12-19T11:32
 ---
-Khái niệm:: [Máy cà thẻ](../../../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/M%C3%A1y%20c%C3%A0%20th%E1%BA%BB.md) 
+Khái niệm:: [Máy cà thẻ](../../../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/T%C3%ADn%20d%E1%BB%A5ng/M%C3%A1y%20c%C3%A0%20th%E1%BA%BB.md) 
 
 Ví dụ, một chiếc áo có giá 98k. Giả sử để được thanh toán bằng thẻ, chủ cửa hàng phải trả phí cho ngân hàng hoặc công ty trung gian thanh toán (Momo, VNPAY) là 2k/cái áo. Điều đó khiến chủ cửa hàng sẽ nâng giá chiếc áo lên thành 100k. Lúc này:
 - Người dùng thẻ tín dụng phải trả 100k và được Trung tâm Thông tin Tín dụng (CIC) ghi nhận việc giao dịch đó
