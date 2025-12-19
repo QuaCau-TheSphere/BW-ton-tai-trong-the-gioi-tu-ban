@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2025-12-06T17:41
+updated: 2025-12-19T11:32
 ---
 Khái niệm:: [Ưu tiên](%C6%AFu%20ti%C3%AAn.md), [Gánh nặng nhận thức](G%C3%A1nh%20n%E1%BA%B7ng%20nh%E1%BA%ADn%20th%E1%BB%A9c.md)
 [Ý tưởng sinh ra không theo độ khẩn cấp](./%C3%9D%20t%C6%B0%E1%BB%9Fng%20sinh%20ra%20kh%C3%B4ng%20theo%20%C4%91%E1%BB%99%20kh%E1%BA%A9n%20c%E1%BA%A5p.md). [Ý tưởng nếu không ghi lại ngay sẽ quên rất nhanh](%C3%9D%20t%C6%B0%E1%BB%9Fng%20n%E1%BA%BFu%20kh%C3%B4ng%20ghi%20l%E1%BA%A1i%20ngay%20s%E1%BA%BD%20qu%C3%AAn%20r%E1%BA%A5t%20nhanh.md)
