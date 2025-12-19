@@ -1,6 +1,6 @@
 ---
 share: true
 created: 2025-09-08T22:13
-updated: 2025-12-06T17:41
+updated: 2025-12-19T11:32
 ---
-Khái niệm:: [Tài sản](../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/T%C3%A0i%20s%E1%BA%A3n.md), [Nợ](../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Vay,%20n%E1%BB%A3/N%E1%BB%A3.md)
+Khái niệm:: [Tài sản](../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Kinh%20t%E1%BA%BF%20h%E1%BB%8Dc/T%C3%A0i%20s%E1%BA%A3n.md), [Nợ](../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Vay,%20n%E1%BB%A3/N%E1%BB%A3.md)
