@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-12-09T11:26
+updated: 2025-12-19T11:32
 title: Ngân hàng
 ---
 [DIỄN ĐÀN NGÂN HÀNG](https://www.facebook.com/groups/gocnhinnganhang/)
@@ -81,9 +81,9 @@ title: Ngân hàng
     - [Nếu vay được từ 4 ngân hàng lớn thì dễ được các ngân hàng khác cho vay hơn](./Ng%C3%A2n%20h%C3%A0ng%20c%E1%BB%A5%20th%E1%BB%83/N%E1%BA%BFu%20vay%20%C4%91%C6%B0%E1%BB%A3c%20t%E1%BB%AB%204%20ng%C3%A2n%20h%C3%A0ng%20l%E1%BB%9Bn%20th%C3%AC%20d%E1%BB%85%20%C4%91%C6%B0%E1%BB%A3c%20c%C3%A1c%20ng%C3%A2n%20h%C3%A0ng%20kh%C3%A1c%20cho%20vay%20h%C6%A1n.md)
     - [OCB, SHB thường được bọn app đen dùng](./Ng%C3%A2n%20h%C3%A0ng%20c%E1%BB%A5%20th%E1%BB%83/OCB,%20SHB%20th%C6%B0%E1%BB%9Dng%20%C4%91%C6%B0%E1%BB%A3c%20b%E1%BB%8Dn%20app%20%C4%91en%20d%C3%B9ng.md)
     - [SCB khác Sacombank. OCB khác Oceanbank](./Ng%C3%A2n%20h%C3%A0ng%20c%E1%BB%A5%20th%E1%BB%83/SCB%20kh%C3%A1c%20Sacombank.%20OCB%20kh%C3%A1c%20Oceanbank.md)
+    - [VIB, TPBank, Shinhan Bank tập trung vào thẻ hoàn tiền cao nhưng có giới hạn chi tiêu. Techcombank, VPBank tập trung vào thẻ hoàn tiền thấp nhưng không giới hạn](./Ng%C3%A2n%20h%C3%A0ng%20c%E1%BB%A5%20th%E1%BB%83/VIB,%20TPBank,%20Shinhan%20Bank%20t%E1%BA%ADp%20trung%20v%C3%A0o%20th%E1%BA%BB%20ho%C3%A0n%20ti%E1%BB%81n%20cao%20nh%C6%B0ng%20c%C3%B3%20gi%E1%BB%9Bi%20h%E1%BA%A1n%20chi%20ti%C3%AAu.%20Techcombank,%20VPBank%20t%E1%BA%ADp%20trung%20v%C3%A0o%20th%E1%BA%BB%20ho%C3%A0n%20ti%E1%BB%81n%20th%E1%BA%A5p%20nh%C6%B0ng%20kh%C3%B4ng%20gi%E1%BB%9Bi%20h%E1%BA%A1n.md)
     - [Vietcombank, VietinBank, Agribank, và BIDV là các ngân hàng có vốn nhà nước trên 50%](./Ng%C3%A2n%20h%C3%A0ng%20c%E1%BB%A5%20th%E1%BB%83/Vietcombank,%20VietinBank,%20Agribank,%20v%C3%A0%20BIDV%20l%C3%A0%20c%C3%A1c%20ng%C3%A2n%20h%C3%A0ng%20c%C3%B3%20v%E1%BB%91n%20nh%C3%A0%20n%C6%B0%E1%BB%9Bc%20tr%C3%AAn%2050%25.md)
     - [Vikki trước là Đông Á sau khi sát nhập vào HDBank](./Ng%C3%A2n%20h%C3%A0ng%20c%E1%BB%A5%20th%E1%BB%83/Vikki%20tr%C6%B0%E1%BB%9Bc%20l%C3%A0%20%C4%90%C3%B4ng%20%C3%81%20sau%20khi%20s%C3%A1t%20nh%E1%BA%ADp%20v%C3%A0o%20HDBank.md)
-    - [VIB, TPBank, Shinhan Bank tập trung vào thẻ hoàn tiền cao nhưng có giới hạn chi tiêu. Techcombank, VPBank tập trung vào thẻ hoàn tiền thấp nhưng không giới hạn](./Ng%C3%A2n%20h%C3%A0ng%20c%E1%BB%A5%20th%E1%BB%83/VIB,%20TPBank,%20Shinhan%20Bank%20t%E1%BA%ADp%20trung%20v%C3%A0o%20th%E1%BA%BB%20ho%C3%A0n%20ti%E1%BB%81n%20cao%20nh%C6%B0ng%20c%C3%B3%20gi%E1%BB%9Bi%20h%E1%BA%A1n%20chi%20ti%C3%AAu.%20Techcombank,%20VPBank%20t%E1%BA%ADp%20trung%20v%C3%A0o%20th%E1%BA%BB%20ho%C3%A0n%20ti%E1%BB%81n%20th%E1%BA%A5p%20nh%C6%B0ng%20kh%C3%B4ng%20gi%E1%BB%9Bi%20h%E1%BA%A1n.md)
     - [VPBank có vốn lớn nhất VN](./Ng%C3%A2n%20h%C3%A0ng%20c%E1%BB%A5%20th%E1%BB%83/VPBank%20c%C3%B3%20v%E1%BB%91n%20l%E1%BB%9Bn%20nh%E1%BA%A5t%20VN.md)
 
 - Thẻ tín dụng: 
