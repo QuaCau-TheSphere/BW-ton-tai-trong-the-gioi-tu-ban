@@ -1,9 +1,9 @@
 ---
 share: true
 created: 2024-07-29T13:31
-updated: 2025-12-06T17:41
+updated: 2025-12-19T13:10
 ---
-Loại dịch vụ:: [App vay nóng](./index.md)
+Loại dịch vụ:: [App vay nóng](../../../../T%C3%ACnh%20h%C3%ACnh%20%E1%BB%9F%20Vi%E1%BB%87t%20Nam/Ng%C3%A0nh%20ngh%E1%BB%81%20c%E1%BB%A5%20th%E1%BB%83/T%C3%A0i%20ch%C3%ADnh/T%E1%BB%95%20ch%E1%BB%A9c%20t%C3%ADn%20d%E1%BB%A5ng/App%20vay%20n%C3%B3ng/index.md)
 
 ```yaml
 Lần 1:
