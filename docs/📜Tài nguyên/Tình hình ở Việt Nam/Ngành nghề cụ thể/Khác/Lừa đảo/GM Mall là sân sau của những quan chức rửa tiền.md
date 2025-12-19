@@ -1,9 +1,9 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-12-09T17:21
+updated: 2025-12-19T11:32
 ---
-Khái niệm:: [Rửa tiền](../../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/R%E1%BB%ADa%20ti%E1%BB%81n.md)
+Khái niệm:: [Rửa tiền](../../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Ki%E1%BA%BFm%20ti%E1%BB%81n/Kh%C3%B4ng%20li%C3%AAm%20ch%C3%ADnh/R%E1%BB%ADa%20ti%E1%BB%81n.md)
 GM Mall là sân sau của những quan chức cấp cao ở Việt Nam liên kết với quan chức Trung Quốc để rửa tiền. Thực ra là sẽ có nguồn tiền đổ vô rửa tiếp nhưng do trục trặc mà tạm ngưng. Mà Đạt và đám công ty xử lý khủng hoảng truyền thông quá tệ nên GM Mall rẽ hướng khác. Quyết định bỏ GM Mall qua dự án khác. Nên khi Lâm Vũ nói là đi gặp các nhà đầu tư thì cũng có có ý đúng, chỉ là nó đi về Trung Quốc để bàn nguồn vốn, chứ không phải là đi Mỹ để bàn việc sát nhập với công ty mẹ như lời nó nói. Nhưng do có trục trặc nên kéo dài thời gian quá lâu, còn đám Việt Nam thì ăn hại nên kết quả banh chành. Chứ tin báo là nguồn tiền rửa phải tới hết năm nay mới xong.
 
 Vụ này tụi nó tự tạo lỗ hổng vì bị hụt nguồn tiền do chi cho đám giám đốc nhiều quá. Giám đốc thị trường, giám đốc trụ sở, phó tổng, giám đốc chiến lược đứa nào thu nhập cũng cả tỉ mỗi tháng. Đứa ít nhất cũng mấy trăm tr, giám đốc chiến lược lương thôi đã 200tr. Công ty mướn nhà bên Vin cho ở luôn. Mấy đứa tung tin có lợi cho bọn nó trong nhóm tố cáo lùa gà là trong hội này luôn. Mấy app bọn nó lùa cũng là cho các sếp rửa tiền. Giờ GM Mall chuyển qua Nivex là nhiều, số ít là bên Nexa, Bingo, mdaw.
