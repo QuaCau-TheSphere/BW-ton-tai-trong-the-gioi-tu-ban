@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-12-13T11:31
+updated: 2025-12-19T11:32
 ---
 Khái niệm:: 
 Địa phương hoá hay bị nhầm lẫn thành chủ nghĩa bảo hộ, chấm dứt hoạt động thương mại hay sự cô lập. Các cộng đồng vẫn có thể xuất khẩu hàng hóa dư thừa khi nhu cầu địa phương được đáp ứng, và họ vẫn có thể nhập khẩu những hàng hóa không thể sản xuất tại địa phương. Tuy nhiên, địa phương hóa cho phép sự tự chủ của địa phương, khu vực và thậm chí là quốc gia thay thế cho sự phụ thuộc vào các tập đoàn xa xôi, thiếu trách nhiệm.
