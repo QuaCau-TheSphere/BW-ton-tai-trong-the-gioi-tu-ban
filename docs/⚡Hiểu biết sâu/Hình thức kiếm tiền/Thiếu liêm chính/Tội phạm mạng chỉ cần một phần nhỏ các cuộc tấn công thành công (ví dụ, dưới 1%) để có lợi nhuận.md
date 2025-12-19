@@ -1,11 +1,11 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-12-06T17:41
+updated: 2025-12-19T11:32
 aliases:
   - Những yếu tố khiến tội phạm mạng trở nên nghiêm trọng và khó kiểm soát
 ---
-Khái niệm:: [Tội phạm mạng](../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/T%E1%BB%99i%20ph%E1%BA%A1m%20m%E1%BA%A1ng.md), [Bảo mật](../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/B%E1%BA%A3o%20m%E1%BA%ADt.md)
+Khái niệm:: [Tội phạm mạng](../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Ki%E1%BA%BFm%20ti%E1%BB%81n/Kh%C3%B4ng%20li%C3%AAm%20ch%C3%ADnh/T%E1%BB%99i%20ph%E1%BA%A1m%20m%E1%BA%A1ng.md), [Bảo mật](../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/B%E1%BA%A3o%20m%E1%BA%ADt.md)
 Những yếu tố khiến tội phạm mạng trở nên nghiêm trọng và khó kiểm soát:
 - Không có ranh giới địa lý:
   - Toàn cầu hóa kinh tế cho phép các cuộc tấn công có phạm vi ảnh hưởng lớn.
@@ -36,4 +36,4 @@ gian mạng.
   - Doanh nghiệp e ngại báo cáo vi phạm vì lo ngại ảnh hưởng đến danh tiếng.
   - Nạn nhân cá nhân có thể không biết cách báo cáo hoặc sợ hậu quả tâm lý.
 
-Nguồn:: [Social engineering: Tâm lý học và cách thức tấn công](../../%CE%9E%20Ngu%E1%BB%93n/Social%20engineering.md)
+Nguồn:: [Social engineering: Tâm lý học và cách thức tấn công](./Gi%E1%BA%A3%20m%E1%BA%A1o,%20l%E1%BB%ABa%20%C4%91%E1%BA%A3o/Social%20engineering.md)
