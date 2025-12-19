@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2025-12-06T17:58
+updated: 2025-12-19T11:32
 ---
 Tính chất công việc:: [Cần biết lập trình](../../%C4%90%E1%BA%B7c%20%C4%91i%E1%BB%83m%20c%C3%B4ng%20vi%E1%BB%87c/Y%C3%AAu%20c%E1%BA%A7u%20c%C3%B4ng%20ngh%E1%BB%87/C%E1%BA%A7n%20bi%E1%BA%BFt%20l%E1%BA%ADp%20tr%C3%ACnh.md)
 Hình thức:: [Gia công giải pháp](./index.md)
@@ -100,4 +100,4 @@ Tuỳ vào loại vấn đề mà sẽ xem xét nó có phải là lỗi hay kh�
 
 [DRD TUYỂN DỤNG TƯ VẤN HỆ THỐNG QUẢN LÝ DỮ LIỆU VỀ NGƯỜI KHUYẾT TẬT VÀ ĐỐI TÁC](https://www.drdvietnam.org/vi/viec-lam-tin-hoat-dong/19270-drd-tuyen-dung-tu-van-he-thong-quan-ly-du-lieu-ve-nguoi-khuyet-tat-va-doi-tac.html)
 
-Khái niệm:: [Người khuyết tật](../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Ng%C6%B0%E1%BB%9Di%20khuy%E1%BA%BFt%20t%E1%BA%ADt.md)
+Khái niệm:: [Người khuyết tật](../../../V%C3%AC%20ng%C6%B0%E1%BB%9Di%20y%E1%BA%BFu%20th%E1%BA%BF/Ng%C6%B0%E1%BB%9Di%20khuy%E1%BA%BFt%20t%E1%BA%ADt.md)
