@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-04-08T22:08
-updated: 2025-12-09T11:22
+updated: 2025-12-19T11:32
 ---
 Khái niệm:: 
 [SMBC có 22.1% cổ phần Bảo Việt, 15% VPBank và 49% FE Credit](../../SMBC%20c%C3%B3%2022.1%25%20c%E1%BB%95%20ph%E1%BA%A7n%20B%E1%BA%A3o%20Vi%E1%BB%87t,%2015%25%20VPBank%20v%C3%A0%2049%25%20FE%20Credit.md)
