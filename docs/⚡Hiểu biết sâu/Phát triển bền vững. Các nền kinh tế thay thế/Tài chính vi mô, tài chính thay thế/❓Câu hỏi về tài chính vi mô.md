@@ -3,7 +3,7 @@ share: true
 created: 2025-03-27T17:13
 aliases:
   - thịnh kula
-updated: 2025-12-13T11:38
+updated: 2025-12-19T11:32
 ---
 ## [Giúp đỡ sẽ tạo ra sự lệ thuộc](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Ni%E1%BB%81m%20tin,%20di%E1%BB%85n%20ng%C3%B4n/Gi%C3%BAp%20%C4%91%E1%BB%A1/Gi%C3%BAp%20%C4%91%E1%BB%A1%20s%E1%BA%BD%20t%E1%BA%A1o%20ra%20s%E1%BB%B1%20l%E1%BB%87%20thu%E1%BB%99c.md)
 Sinh viên thì tập trung học. Nghệ sĩ, nhà nghiên cứu ko phải lúc nào cũng làm thứ mà cộng đồng thấy có giá trị
