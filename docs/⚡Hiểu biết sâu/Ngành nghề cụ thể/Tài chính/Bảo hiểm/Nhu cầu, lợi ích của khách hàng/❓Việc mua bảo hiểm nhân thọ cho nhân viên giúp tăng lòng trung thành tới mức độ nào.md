@@ -1,9 +1,9 @@
 ---
 share: true
 created: 2024-10-30T22:40
-updated: 2025-12-06T17:41
+updated: 2025-12-19T11:32
 ---
-Khái niệm:: [Trung thành](../../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Trung%20th%C3%A0nh.md)
+Khái niệm:: [Trung thành](../../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/T%C3%A2m%20l%C3%BD/Trung%20th%C3%A0nh.md)
 Theo mình thái độ của cấp trên sẽ là yếu tố ảnh hưởng đến sự trung thành của nhân viên nhiều nhất, ngoài ra còn nhiều yếu tố khác như lương, tăng ca, môi trường....
 
 ---
