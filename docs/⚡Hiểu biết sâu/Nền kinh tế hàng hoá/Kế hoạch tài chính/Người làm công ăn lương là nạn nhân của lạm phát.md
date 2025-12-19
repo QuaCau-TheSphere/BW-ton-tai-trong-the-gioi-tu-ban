@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-12-15T14:34
+updated: 2025-12-19T11:32
 ---
 Khái niệm:: 
 [Nơi trữ tiền càng an toàn càng bị rủi ro bởi lạm phát](../Ti%E1%BB%81n,%20n%E1%BB%A3,%20b%E1%BA%A3n%20v%E1%BB%8B/N%C6%A1i%20tr%E1%BB%AF%20ti%E1%BB%81n%20c%C3%A0ng%20an%20to%C3%A0n%20c%C3%A0ng%20b%E1%BB%8B%20r%E1%BB%A7i%20ro%20b%E1%BB%9Fi%20l%E1%BA%A1m%20ph%C3%A1t.md)
