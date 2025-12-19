@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-12-17T08:04
+updated: 2025-12-19T11:32
 ---
 Khái niệm:: [Bất động sản](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Ki%E1%BA%BFm%20ti%E1%BB%81n/B%E1%BA%A5t%20%C4%91%E1%BB%99ng%20s%E1%BA%A3n.md)
 [Liên minh Quyền Nhà ở Châu Á (ACHR) thăm và làm việc với Hiệp hội các đô thị Việt Nam](https://www.acvn.vn/index.php?route=news/news&news_id=646)
