@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-12-06T16:04
+updated: 2025-12-19T11:32
 ---
 Khái niệm:: 
 [Recipe có thể được dùng để tạo plan hoặc scenario](./Recipe%20c%C3%B3%20th%E1%BB%83%20%C4%91%C6%B0%E1%BB%A3c%20d%C3%B9ng%20%C4%91%E1%BB%83%20t%E1%BA%A1o%20plan%20ho%E1%BA%B7c%20scenario.md)
