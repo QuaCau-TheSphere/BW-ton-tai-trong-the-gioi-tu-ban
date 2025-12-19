@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-04-07T15:27
-updated: 2025-12-12T12:11
+updated: 2025-12-19T11:32
 aliases:
   - Liệu công ty X có đang lừa đảo, rửa tiền không?
   - App lừa đảo vẫn lên được mấy cái appstore
@@ -33,6 +33,6 @@ Xem thêm:: [Công ty ra chính sách khó cho nhân viên không đơn thuần 
 Vẫn còn một lập luận phản biện nữa. Đó là [Làm đúng luật không có nghĩa là không có thao túng. Có nhiều cái lừa đảo vẫn đúng luật](../../%C4%90%E1%BA%A1o%20%C4%91%E1%BB%A9c,%20ph%C3%A1p%20lu%E1%BA%ADt/Lu%E1%BA%ADt,%20nh%C3%A0%20n%C6%B0%E1%BB%9Bc/L%C3%A0m%20%C4%91%C3%BAng%20lu%E1%BA%ADt%20kh%C3%B4ng%20c%C3%B3%20ngh%C4%A9a%20l%C3%A0%20kh%C3%B4ng%20c%C3%B3%20thao%20t%C3%BAng.%20C%C3%B3%20nhi%E1%BB%81u%20c%C3%A1i%20l%E1%BB%ABa%20%C4%91%E1%BA%A3o%20v%E1%BA%ABn%20%C4%91%C3%BAng%20lu%E1%BA%ADt.md). [Lách luật là phạm luật một cách đúng luật](../../%C4%90%E1%BA%A1o%20%C4%91%E1%BB%A9c,%20ph%C3%A1p%20lu%E1%BA%ADt/Lu%E1%BA%ADt,%20nh%C3%A0%20n%C6%B0%E1%BB%9Bc/L%C3%A1ch%20lu%E1%BA%ADt%20l%C3%A0%20ph%E1%BA%A1m%20lu%E1%BA%ADt%20m%E1%BB%99t%20c%C3%A1ch%20%C4%91%C3%BAng%20lu%E1%BA%ADt.md). Những cái này thì phải đọc hợp đồng cho kỹ mà thôi. Và đó cũng là lý do mà nơi này được sinh ra.
 
 ## Nhưng lừa đảo không đáng lo bằng rửa tiền?
-Để bị quy vào tội [Rửa tiền](../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/R%E1%BB%ADa%20ti%E1%BB%81n.md), bạn phải làm việc với các công ty [mà bạn có cơ sở để biết là tiền là do phạm tội mà có](https://thuvienphapluat.vn/chinh-sach-phap-luat-moi/vn/ho-tro-phap-luat/tham-nhung/39307/rua-tien-la-gi-trach-nhiem-hinh-su-doi-voi-toi-rua-tien). Đương nhiên, bọn mình cũng không dại gì làm với các công ty như vậy. Tức là, nếu bạn tin là bọn mình sẽ trung thực, thành thật với bạn, thì bạn cũng không có cơ sở để biết là tiền từ công ty này là do phạm tội mà có. Trừ khi, ờm ..., bạn không trung thực, thành thực với bọn mình. Còn không thì đây là những cơ sở để bọn mình cho rằng bạn sẽ an toàn khi tham gia. 
+Để bị quy vào tội [Rửa tiền](../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Ki%E1%BA%BFm%20ti%E1%BB%81n/Kh%C3%B4ng%20li%C3%AAm%20ch%C3%ADnh/R%E1%BB%ADa%20ti%E1%BB%81n.md), bạn phải làm việc với các công ty [mà bạn có cơ sở để biết là tiền là do phạm tội mà có](https://thuvienphapluat.vn/chinh-sach-phap-luat-moi/vn/ho-tro-phap-luat/tham-nhung/39307/rua-tien-la-gi-trach-nhiem-hinh-su-doi-voi-toi-rua-tien). Đương nhiên, bọn mình cũng không dại gì làm với các công ty như vậy. Tức là, nếu bạn tin là bọn mình sẽ trung thực, thành thật với bạn, thì bạn cũng không có cơ sở để biết là tiền từ công ty này là do phạm tội mà có. Trừ khi, ờm ..., bạn không trung thực, thành thực với bọn mình. Còn không thì đây là những cơ sở để bọn mình cho rằng bạn sẽ an toàn khi tham gia. 
 
 [GM Mall là sân sau của những quan chức rửa tiền](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/T%C3%ACnh%20h%C3%ACnh%20%E1%BB%9F%20Vi%E1%BB%87t%20Nam/Ng%C3%A0nh%20ngh%E1%BB%81%20c%E1%BB%A5%20th%E1%BB%83/Kh%C3%A1c/L%E1%BB%ABa%20%C4%91%E1%BA%A3o/GM%20Mall%20l%C3%A0%20s%C3%A2n%20sau%20c%E1%BB%A7a%20nh%E1%BB%AFng%20quan%20ch%E1%BB%A9c%20r%E1%BB%ADa%20ti%E1%BB%81n.md)
