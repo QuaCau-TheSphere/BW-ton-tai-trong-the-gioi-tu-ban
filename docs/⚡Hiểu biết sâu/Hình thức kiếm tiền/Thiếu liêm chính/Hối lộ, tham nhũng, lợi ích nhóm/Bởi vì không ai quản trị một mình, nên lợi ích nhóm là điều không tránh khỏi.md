@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-05-05T21:11
-updated: 2025-12-06T17:41
+updated: 2025-12-19T11:32
 ---
 [Nhánh lập pháp cần duy trì những lợi ích ngầm cho một số đối tượng để nhánh hành pháp còn có nhân sự làm việc](../../../%C4%90%E1%BA%A1o%20%C4%91%E1%BB%A9c,%20ph%C3%A1p%20lu%E1%BA%ADt/Lu%E1%BA%ADt,%20nh%C3%A0%20n%C6%B0%E1%BB%9Bc/Nh%C3%A1nh%20l%E1%BA%ADp%20ph%C3%A1p%20c%E1%BA%A7n%20duy%20tr%C3%AC%20nh%E1%BB%AFng%20l%E1%BB%A3i%20%C3%ADch%20ng%E1%BA%A7m%20cho%20m%E1%BB%99t%20s%E1%BB%91%20%C4%91%E1%BB%91i%20t%C6%B0%E1%BB%A3ng%20%C4%91%E1%BB%83%20nh%C3%A1nh%20h%C3%A0nh%20ph%C3%A1p%20c%C3%B2n%20c%C3%B3%20nh%C3%A2n%20s%E1%BB%B1%20l%C3%A0m%20vi%E1%BB%87c.md)
 Nguồn:: <iframe width="560" height="315" src="https://www.youtube.com/embed/rStL7niR7gs?si=u5nw6yL7SY6BhTwg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
