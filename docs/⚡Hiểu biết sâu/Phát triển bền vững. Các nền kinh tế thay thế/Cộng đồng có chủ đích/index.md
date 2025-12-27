@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-12-19T11:32
+updated: 2025-12-25T16:34
 aliases:
   - đồng cư, hợp tác xã nhà ở, quỹ nhà ở vi mô
   - làng sinh thái, công xã
@@ -68,7 +68,7 @@ Cộng đồng [Enspiral](https://www.enspiral.com/) ở New Zealand xây dựng
 
 - [Community Founders Circle](https://programs.communityfinders.com/founders)
 
-Về các cộng đồng có chủ đích ở Việt Nam thì đọc bài chi tiết này: [Nông nghiệp sinh thái ở Việt Nam](N%C3%B4ng%20nghi%E1%BB%87p%20sinh%20th%C3%A1i%20%E1%BB%9F%20Vi%E1%BB%87t%20Nam.md)
+Về các cộng đồng có chủ đích ở Việt Nam thì đọc bài chi tiết này: [Nông nghiệp sinh thái ở Việt Nam](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/S%E1%BB%91ng%20v%E1%BB%ABa%20%C4%91%E1%BB%A7,%20b%E1%BB%81n%20v%E1%BB%AFng,%20ti%E1%BA%BFt%20ki%E1%BB%87m/N%C3%B4ng%20nghi%E1%BB%87p%20sinh%20th%C3%A1i%20%E1%BB%9F%20Vi%E1%BB%87t%20Nam.md)
 
 Xem thêm:: [❓Các câu hỏi về cộng đồng có chủ đích bên ngoài đô thị](./C%E1%BB%99ng%20%C4%91%E1%BB%93ng%20ngo%C3%A0i%20%C4%91%C3%B4%20th%E1%BB%8B/%E2%9D%93C%C3%A1c%20c%C3%A2u%20h%E1%BB%8Fi%20v%E1%BB%81%20c%E1%BB%99ng%20%C4%91%E1%BB%93ng%20c%C3%B3%20ch%E1%BB%A7%20%C4%91%C3%ADch%20b%C3%AAn%20ngo%C3%A0i%20%C4%91%C3%B4%20th%E1%BB%8B.md)
 

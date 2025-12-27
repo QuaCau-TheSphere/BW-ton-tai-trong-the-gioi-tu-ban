@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-06-22T18:55
-updated: 2025-12-19T11:35
+updated: 2025-12-19T22:09
 aliases:
   - các công việc kiếm tiền nhanh
   - freelance
@@ -37,8 +37,8 @@ Cẩn thận với [Lừa đảo tuyển dụng hoặc môi giới việc làm](
 | [Lừa đảo hội lừa đảo](./L%E1%BB%ABa%20%C4%91%E1%BA%A3o%20h%E1%BB%99i%20l%E1%BB%ABa%20%C4%91%E1%BA%A3o.md)                                                                                               | \-                                             | \-                                                                                                                                                                                             | \-                              |
 | [Nhập liệu, dán nhãn dữ liệu, BPO](./Nh%E1%BA%ADp%20li%E1%BB%87u,%20d%C3%A1n%20nh%C3%A3n%20d%E1%BB%AF%20li%E1%BB%87u,%20BPO.md)                                                                     | 2.8-3\$/h (tiếng Việt), 3.2-3.5$/h (tiếng Anh) | \-                                                                                                                                                                                             | \-                              |
 | [Binance](./S%C4%83n%20khuy%E1%BA%BFn%20m%C3%A3i,%20gi%E1%BA%A3m%20gi%C3%A1/Binance.md)                                                                                              | \-                                             | \-                                                                                                                                                                                             | \-                              |
-| [Săn voucher](./S%C4%83n%20khuy%E1%BA%BFn%20m%C3%A3i,%20gi%E1%BA%A3m%20gi%C3%A1/S%C4%83n%20voucher.md)                                                                                      | \-                                             | \-                                                                                                                                                                                             | \-                              |
 | [Săn hàng giảm giá rồi bán lại với giá gốc](./S%C4%83n%20khuy%E1%BA%BFn%20m%C3%A3i,%20gi%E1%BA%A3m%20gi%C3%A1/S%C4%83n%20h%C3%A0ng%20gi%E1%BA%A3m%20gi%C3%A1%20r%E1%BB%93i%20b%C3%A1n%20l%E1%BA%A1i%20v%E1%BB%9Bi%20gi%C3%A1%20g%E1%BB%91c.md)                          | \-                                             | \-                                                                                                                                                                                             | \-                              |
+| [Săn voucher](./S%C4%83n%20khuy%E1%BA%BFn%20m%C3%A3i,%20gi%E1%BA%A3m%20gi%C3%A1/S%C4%83n%20voucher.md)                                                                                      | \-                                             | \-                                                                                                                                                                                             | \-                              |
 | [Săn điểm thưởng trên các sàn giao dịch](./S%C4%83n%20khuy%E1%BA%BFn%20m%C3%A3i,%20gi%E1%BA%A3m%20gi%C3%A1/S%C4%83n%20%C4%91i%E1%BB%83m%20th%C6%B0%E1%BB%9Fng%20tr%C3%AAn%20c%C3%A1c%20s%C3%A0n%20giao%20d%E1%BB%8Bch.md)                                | 10$/tài khoản                                  | Tạo tài khoản [MEXC](https://www.mexc.com/invite/register?inviteCode=3G1q4&source=invite&utm_source=usershare&utm_medium=usershare&utm_biz=affiliate&utm_campaign=invite), rồi để 300$ qua đêm | \-                              |
 | [Săn phỏng vấn, khảo sát cần tìm đáp viên, sự kiện cần lấp khán giả](./S%C4%83n%20ph%E1%BB%8Fng%20v%E1%BA%A5n,%20kh%E1%BA%A3o%20s%C3%A1t%20c%E1%BA%A7n%20t%C3%ACm%20%C4%91%C3%A1p%20vi%C3%AAn,%20s%E1%BB%B1%20ki%E1%BB%87n%20c%E1%BA%A7n%20l%E1%BA%A5p%20kh%C3%A1n%20gi%E1%BA%A3.md) | \-                                             | \-                                                                                                                                                                                             | <ul><li>\-</li><li>\-</li></ul> |
 | [Thanh toán hóa đơn hộ](./Thanh%20to%C3%A1n%20h%C3%B3a%20%C4%91%C6%A1n%20h%E1%BB%99.md)                                                                                           | 150-250 k/ngày                                 | \-                                                                                                                                                                                             | \-                              |
@@ -57,7 +57,8 @@ Các nhóm chuyên tuyển nói chung:
 - [Nhóm chuyên đi Extra, Hội Thảo, Sự Kiện](https://www.facebook.com/groups/1085777964949551)
 - [VIỆC LÀM CHO NGƯỜI KHUYẾT TẬT TRÊN TOÀN QUỐC](https://www.facebook.com/groups/1332867813835604)
 - [Hợp Tác Xã Chị Em](https://www.facebook.com/groups/hoptacxachiem/)
-- [KHU PHỐ FREELANCER](https://www.facebook.com/groups/434928552300945) 
+- [KHU PHỐ FREELANCER \| Facebook](https://www.facebook.com/groups/434928552300945/announcements)
+- [KHU PHỐ FREELANCER \| ## \*\*TỔNG HỢP BÀI VIẾT CHẤT LƯỢNG CỦA GROUP KHU PHỐ FREELANCER \*\* \| Facebook](https://www.facebook.com/share/p/1Gr8fb4bLM
 
 Các nhóm bàn luận (không cho đăng tuyển dụng)
 - [Bee A Remote Assistant (Tổ Trợ Lý Từ Xa) | Facebook](https://www.facebook.com/groups/584020067067946)

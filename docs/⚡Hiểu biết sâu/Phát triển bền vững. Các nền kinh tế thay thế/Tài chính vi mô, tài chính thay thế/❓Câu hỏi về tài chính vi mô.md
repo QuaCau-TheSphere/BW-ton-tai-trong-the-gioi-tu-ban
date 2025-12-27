@@ -3,7 +3,7 @@ share: true
 created: 2025-03-27T17:13
 aliases:
   - thịnh kula
-updated: 2025-12-19T11:32
+updated: 2025-12-25T16:32
 ---
 ## [Giúp đỡ sẽ tạo ra sự lệ thuộc](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Ni%E1%BB%81m%20tin,%20di%E1%BB%85n%20ng%C3%B4n/Gi%C3%BAp%20%C4%91%E1%BB%A1/Gi%C3%BAp%20%C4%91%E1%BB%A1%20s%E1%BA%BD%20t%E1%BA%A1o%20ra%20s%E1%BB%B1%20l%E1%BB%87%20thu%E1%BB%99c.md)
 Sinh viên thì tập trung học. Nghệ sĩ, nhà nghiên cứu ko phải lúc nào cũng làm thứ mà cộng đồng thấy có giá trị
@@ -12,7 +12,7 @@ kỹ năng sống + âm tiền: R&D + chuyên môn hóa?
 
 [Từ thiện và những thứ có vẻ giống như nó](../Th%E1%BB%B1c%20tr%E1%BA%A1ng/T%E1%BB%AB%20thi%E1%BB%87n,%20vi%E1%BB%87n%20tr%E1%BB%A3/T%E1%BB%AB%20thi%E1%BB%87n%20v%C3%A0%20nh%E1%BB%AFng%20th%E1%BB%A9%20c%C3%B3%20v%E1%BA%BB%20gi%E1%BB%91ng%20nh%C6%B0%20n%C3%B3.md)
 
-## [Quỹ Đồng Hành](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Ch%E1%BB%8Dn%20s%E1%BA%A3n%20ph%E1%BA%A9m%20ph%C3%B9%20h%E1%BB%A3p/Vay%20t%C3%ADn%20ch%E1%BA%A5p/T%E1%BB%95%20ch%E1%BB%A9c%20t%C3%A0i%20ch%C3%ADnh%20vi%20m%C3%B4/Qu%E1%BB%B9%20%C4%90%E1%BB%93ng%20H%C3%A0nh.md)
+## [Quỹ Đồng Hành](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Ch%E1%BB%8Dn%20s%E1%BA%A3n%20ph%E1%BA%A9m%20ph%C3%B9%20h%E1%BB%A3p/Vay%20t%C3%ADn%20ch%E1%BA%A5p/Kh%C3%B4ng%20d%E1%BB%B1a%20tr%C3%AAn%20%C4%91i%E1%BB%83m%20t%C3%ADn%20d%E1%BB%A5ng/T%E1%BB%95%20ch%E1%BB%A9c%20t%C3%A0i%20ch%C3%ADnh%20vi%20m%C3%B4/Qu%E1%BB%B9%20%C4%90%E1%BB%93ng%20H%C3%A0nh.md)
 - thấy ai được vay là do em quyết định
 - Hệ thống quản trị là Google Sheet. Vấn đề là việc nhập từ sao kê ngân hàng mất công, để mấy tuần mới nhập một lần
 - Có bảo lãnh rồi vẫn cần hộ khẩu để làm đúng quy trình

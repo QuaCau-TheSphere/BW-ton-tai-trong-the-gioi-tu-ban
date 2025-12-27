@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-12-19T11:32
+updated: 2025-12-21T15:44
 ---
 muốn có 2 điểm quỹ độc lập tự chạy hoàn toàn đã
 anh có tính làm web ko? Lên web thì dễ tìm lại hơn
@@ -23,14 +23,6 @@ em nghĩ anh lên một bài về sự tin tưởng trong việc vay đi. Kiểu
 [Hụi từng người cầm dễ vỡ, cũng như không tính đến lạm phát](../Ph%C3%A1t%20tri%E1%BB%83n%20b%E1%BB%81n%20v%E1%BB%AFng.%20C%C3%A1c%20n%E1%BB%81n%20kinh%20t%E1%BA%BF%20thay%20th%E1%BA%BF/T%C3%A0i%20ch%C3%ADnh%20vi%20m%C3%B4,%20t%C3%A0i%20ch%C3%ADnh%20thay%20th%E1%BA%BF/H%E1%BB%A5i/H%E1%BB%A5i%20t%E1%BB%ABng%20ng%C6%B0%E1%BB%9Di%20c%E1%BA%A7m%20d%E1%BB%85%20v%E1%BB%A1,%20c%C5%A9ng%20nh%C6%B0%20kh%C3%B4ng%20t%C3%ADnh%20%C4%91%E1%BA%BFn%20l%E1%BA%A1m%20ph%C3%A1t.md)
 
 anh có bài nào phân tích điểm mạnh điểm yếu các mô hình quỹ cộng đồng khác ko?
-
-
-Hmm, anh có từng vay ai bao giờ chưa.
-
-Hay anh chỉ vay quỹ thôi?
-
-
-
 
 Hmm, thế tức là giả sử bạn anh đang cần tiền, thì anh vẫn muốn nó lập quỹ cộng đồng rồi mới cho tiền cái quỹ đó đúng ko? Vì vẫn ko cảm thấy tin tưởng nó sẽ trả cho anh?
 
@@ -241,9 +233,3 @@ Ko luôn...
 
 
 Trên sơn la đg hội viên vay thì 10%, ng ngoài 12%/năm
-
-
-Thấy chưa?
-
-
-Công nghệ sinh học nông nghiệp lại là chuyện khacd
