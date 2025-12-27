@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-12-19T15:06
+updated: 2025-12-21T15:39
 ---
 # Giúp nhau thoát nợ
 Khi một người cần vay nhiều thì sẽ có 2 nguồn để vay:
@@ -53,6 +53,7 @@ share trên fb Quả Cầu
 làm story profile
 17:28 story: 1 love 8 view
 
+## 0 react
+- Zalo nhóm công việc mở
+- Zalo Quả Cầu
 
-## Zalo nhóm công việc mở
-0 react
