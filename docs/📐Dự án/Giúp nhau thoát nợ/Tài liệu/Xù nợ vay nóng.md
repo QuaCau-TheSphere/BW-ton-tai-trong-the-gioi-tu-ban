@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-09-14T21:17
-updated: 2025-12-19T14:19
+updated: 2025-12-23T21:23
 aliases:
   - Giảm thiệt hại khi quyết định xù nợ vay nóng
 ---
@@ -26,5 +26,6 @@ Ngân hàng cũng chẳng muốn lấy nhà, xã hội đen cũng chẳng muốn
 
 [Réo gọi làm phiền liên tục. Trả xong vẫn bị gọi trong mấy ngày](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/T%C3%ACnh%20h%C3%ACnh%20%E1%BB%9F%20Vi%E1%BB%87t%20Nam/Ng%C3%A0nh%20ngh%E1%BB%81%20c%E1%BB%A5%20th%E1%BB%83/T%C3%A0i%20ch%C3%ADnh/T%E1%BB%95%20ch%E1%BB%A9c%20t%C3%ADn%20d%E1%BB%A5ng/Kh%C3%B4ng%20d%E1%BB%B1a%20tr%C3%AAn%20%C4%91i%E1%BB%83m%20t%C3%ADn%20d%E1%BB%A5ng/App%20vay%20n%C3%B3ng/R%C3%A9o%20g%E1%BB%8Di%20l%C3%A0m%20phi%E1%BB%81n%20li%C3%AAn%20t%E1%BB%A5c.%20Tr%E1%BA%A3%20xong%20v%E1%BA%ABn%20b%E1%BB%8B%20g%E1%BB%8Di%20trong%20m%E1%BA%A5y%20ng%C3%A0y.md)
 
+[Loan shark - Wikipedia](https://en.wikipedia.org/wiki/Loan_shark)
 ## Nơi thảo luận
 ![](https://imagizer.imageshack.com/a/img923/1273/jQAnX6.png)
