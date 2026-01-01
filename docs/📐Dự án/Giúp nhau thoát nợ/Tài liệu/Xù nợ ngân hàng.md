@@ -2,7 +2,7 @@
 share: true
 created: 2025-03-27T17:13
 description: Chuyện gì sẽ xảy ra khi bị liệt là nợ xấu?
-updated: 2025-12-23T21:23
+updated: 2026-01-01T11:55
 aliases:
   - Chuyện gì sẽ xảy ra khi bị liệt là nợ xấu?
   - Lý do không muốn bị mất điểm tín dụng
@@ -64,6 +64,7 @@ Không thể trách là không cho cơ hội nữa
 Tại sao rất nhiều tiền là cách duy nhất để có được điều này
 
 ## Trước khi quyết định xù
+- [ ] Hy vọng níu giữ được và chi phí của việc gồng, cái nào lớn hơn?
 - [ ] Căng thẳng của mình sẽ khác thế nào?
 - [ ] Có những ai có thể bị tác động bởi quyết định của mình?
 - [ ] Quan điểm của họ thế nào?
@@ -75,5 +76,12 @@ Tại sao rất nhiều tiền là cách duy nhất để có được điều n
 Khái niệm:: [Nợ xấu](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Vay,%20n%E1%BB%A3/N%E1%BB%A3%20x%E1%BA%A5u.md)
 [Đi tù vì trốn nợ](https://vov2.vov.vn/phap-luat/di-tu-vi-tron-no-51855.vov2)
 [Debt collection - Wikipedia](https://en.wikipedia.org/wiki/Debt_collection)
+
+Tốt hơn cả wellbeing là gì
+
+Có những tổ chức còn nhiều tiền hơn cả em bây giờ. Tại sao không vào?
+
+Em có nghĩ là khủng hoảng sẽ xảy ra ko?
+
 ## Nơi thảo luận
 ![](https://imagizer.imageshack.com/a/img923/1273/jQAnX6.png)
