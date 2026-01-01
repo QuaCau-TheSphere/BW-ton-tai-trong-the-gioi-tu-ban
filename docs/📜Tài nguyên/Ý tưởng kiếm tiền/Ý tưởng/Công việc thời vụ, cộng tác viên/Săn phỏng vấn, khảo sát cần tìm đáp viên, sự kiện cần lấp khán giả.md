@@ -2,7 +2,7 @@
 share: true
 description: "Số tiền kiếm được: "
 created: 2025-03-27T17:13
-updated: 2025-12-19T11:32
+updated: 2025-12-28T22:19
 ---
 
 Mô tả công việc:: 
@@ -33,7 +33,7 @@ Cơ bản là làm hồ sơ giả và tiếp tay cho dữ liệu giả.
 Có những chỗ sẽ rất đông. Có chỗ lại nhanh
 
 [Làm sao để kiếm người nhận làm phỏng vấn?](../../../M%E1%BB%9F%20r%E1%BB%99ng%20m%E1%BB%91i%20quan%20h%E1%BB%87/Ki%E1%BA%BFm%20ng%C6%B0%E1%BB%9Di%20s%E1%BA%B5n%20s%C3%A0ng%20cho%20m%C3%ACnh%20h%E1%BB%8Fi.md)
-
+![Săn khảo sát, phỏng vấn.jpg](../../../../assets/attachments/S%C4%83n%20kh%E1%BA%A3o%20s%C3%A1t,%20ph%E1%BB%8Fng%20v%E1%BA%A5n.jpg)
 
 Số tiền đầu tư:: 
 Số tiền đặt cọc:: 
