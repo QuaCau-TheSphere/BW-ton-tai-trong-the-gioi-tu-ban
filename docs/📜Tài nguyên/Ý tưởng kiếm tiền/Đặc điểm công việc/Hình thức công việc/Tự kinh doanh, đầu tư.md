@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2025-12-19T11:32
+updated: 2025-12-29T11:34
 ---
 
 [Nhà nước tăng thêm thuế nghĩa là ngân sách đang cạn](../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/N%E1%BB%81n%20kinh%20t%E1%BA%BF%20h%C3%A0ng%20ho%C3%A1/Ch%C3%ADnh%20s%C3%A1ch%20nh%C3%A0%20n%C6%B0%E1%BB%9Bc,%20kinh%20t%E1%BA%BF%20v%C4%A9%20m%C3%B4,%20to%C3%A0n%20c%E1%BA%A7u%20ho%C3%A1,%20kinh%20t%E1%BA%BF%20%C4%91%E1%BB%8Ba%20ch%C3%ADnh%20tr%E1%BB%8B/Ch%C3%ADnh%20s%C3%A1ch%20nh%C3%A0%20n%C6%B0%E1%BB%9Bc/Nh%C3%A0%20n%C6%B0%E1%BB%9Bc%20t%C4%83ng%20th%C3%AAm%20thu%E1%BA%BF%20ngh%C4%A9a%20l%C3%A0%20ng%C3%A2n%20s%C3%A1ch%20%C4%91ang%20c%E1%BA%A1n.md). [Giá vàng tăng là dấu hiệu của bất ổn](../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/N%E1%BB%81n%20kinh%20t%E1%BA%BF%20h%C3%A0ng%20ho%C3%A1/Ti%E1%BB%81n,%20n%E1%BB%A3,%20b%E1%BA%A3n%20v%E1%BB%8B/B%E1%BA%A3n%20v%E1%BB%8B/Gi%C3%A1%20v%C3%A0ng%20t%C4%83ng%20l%C3%A0%20d%E1%BA%A5u%20hi%E1%BB%87u%20c%E1%BB%A7a%20b%E1%BA%A5t%20%E1%BB%95n.md)
