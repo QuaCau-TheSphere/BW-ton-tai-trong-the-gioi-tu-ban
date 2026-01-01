@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-12-19T11:32
+updated: 2025-12-29T11:35
 ---
 - \-: 
     - [Nếu không thấy tài nguyên khan hiếm thì cũng không cần thu nhập thụ động](../../Ph%C3%A1t%20tri%E1%BB%83n%20b%E1%BB%81n%20v%E1%BB%AFng.%20C%C3%A1c%20n%E1%BB%81n%20kinh%20t%E1%BA%BF%20thay%20th%E1%BA%BF/N%E1%BA%BFu%20kh%C3%B4ng%20th%E1%BA%A5y%20t%C3%A0i%20nguy%C3%AAn%20khan%20hi%E1%BA%BFm%20th%C3%AC%20c%C5%A9ng%20kh%C3%B4ng%20c%E1%BA%A7n%20thu%20nh%E1%BA%ADp%20th%E1%BB%A5%20%C4%91%E1%BB%99ng.md)
