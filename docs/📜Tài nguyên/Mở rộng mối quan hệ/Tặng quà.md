@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-11-12T14:33
-updated: 2025-12-19T11:32
+updated: 2026-01-02T13:29
 ---
 - \-: 
     - [Các ngân hàng quà tặng, mạng kết nối nhu cầu](../Qu%C3%A0%20t%E1%BA%B7ng/C%C3%A1c%20ng%C3%A2n%20h%C3%A0ng%20qu%C3%A0%20t%E1%BA%B7ng,%20m%E1%BA%A1ng%20k%E1%BA%BFt%20n%E1%BB%91i%20nhu%20c%E1%BA%A7u.md)
