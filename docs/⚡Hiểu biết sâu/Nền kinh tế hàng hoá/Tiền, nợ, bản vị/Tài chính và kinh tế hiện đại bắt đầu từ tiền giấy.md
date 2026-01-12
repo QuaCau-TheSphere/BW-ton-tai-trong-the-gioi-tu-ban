@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-12-19T11:32
+updated: 2026-01-03T21:46
 ---
 Khái niệm:: 
 - 1600s: Châu Âu thực hiện viễn chinh xâm lược
@@ -23,7 +23,7 @@ tư bản đã có từ thời tiền xu, nhưng chủ nghĩa tư bản chỉ c�
 
 [Nếu không còn tiền giấy thì ngân hàng trung ương kiểm soát lượng cung tiền bằng các công cụ như là tỷ lệ dự trữ bắt buộc, lãi suất liên ngân hàng và mua bán trái phiếu](./N%E1%BA%BFu%20kh%C3%B4ng%20c%C3%B2n%20ti%E1%BB%81n%20gi%E1%BA%A5y%20th%C3%AC%20ng%C3%A2n%20h%C3%A0ng%20trung%20%C6%B0%C6%A1ng%20ki%E1%BB%83m%20so%C3%A1t%20l%C6%B0%E1%BB%A3ng%20cung%20ti%E1%BB%81n%20b%E1%BA%B1ng%20c%C3%A1c%20c%C3%B4ng%20c%E1%BB%A5%20nh%C6%B0%20l%C3%A0%20t%E1%BB%B7%20l%E1%BB%87%20d%E1%BB%B1%20tr%E1%BB%AF%20b%E1%BA%AFt%20bu%E1%BB%99c,%20l%C3%A3i%20su%E1%BA%A5t%20li%C3%AAn%20ng%C3%A2n%20h%C3%A0ng%20v%C3%A0%20mua%20b%C3%A1n%20tr%C3%A1i%20phi%E1%BA%BFu.md)
 
-[Tiền mã hoá đã có từ trước, nhưng tới khủng hoảng 2008 thì người ta mới chú ý tới nó](./Ti%E1%BB%81n%20m%C3%A3%20ho%C3%A1/Ti%E1%BB%81n%20m%C3%A3%20ho%C3%A1%20%C4%91%C3%A3%20c%C3%B3%20t%E1%BB%AB%20tr%C6%B0%E1%BB%9Bc,%20nh%C6%B0ng%20t%E1%BB%9Bi%20kh%E1%BB%A7ng%20ho%E1%BA%A3ng%202008%20th%C3%AC%20ng%C6%B0%E1%BB%9Di%20ta%20m%E1%BB%9Bi%20ch%C3%BA%20%C3%BD%20t%E1%BB%9Bi%20n%C3%B3.md)
+[Tiền mã hóa đã có từ trước, nhưng tới khủng hoảng 2008 thì người ta mới chú ý tới nó](./Ti%E1%BB%81n%20m%C3%A3%20h%C3%B3a/Ti%E1%BB%81n%20m%C3%A3%20h%C3%B3a%20%C4%91%C3%A3%20c%C3%B3%20t%E1%BB%AB%20tr%C6%B0%E1%BB%9Bc,%20nh%C6%B0ng%20t%E1%BB%9Bi%20kh%E1%BB%A7ng%20ho%E1%BA%A3ng%202008%20th%C3%AC%20ng%C6%B0%E1%BB%9Di%20ta%20m%E1%BB%9Bi%20ch%C3%BA%20%C3%BD%20t%E1%BB%9Bi%20n%C3%B3.md)
 Nguồn:: [Tiền – sự thật về thứ không có thật](../../%CE%9E%20Ngu%E1%BB%93n/Ti%E1%BB%81n%20%E2%80%93%20s%E1%BB%B1%20th%E1%BA%ADt%20v%E1%BB%81%20th%E1%BB%A9%20kh%C3%B4ng%20c%C3%B3%20th%E1%BA%ADt.md)
 
 [Số tiền mà ngân hàng cho mình vay không phải là thứ do ngân hàng nhà nước in ra, mà chỉ là con số họ có thể đặt tuỳ thích](./Vay,%20n%E1%BB%A3/S%E1%BB%91%20ti%E1%BB%81n%20m%C3%A0%20ng%C3%A2n%20h%C3%A0ng%20cho%20m%C3%ACnh%20vay%20kh%C3%B4ng%20ph%E1%BA%A3i%20l%C3%A0%20th%E1%BB%A9%20do%20ng%C3%A2n%20h%C3%A0ng%20nh%C3%A0%20n%C6%B0%E1%BB%9Bc%20in%20ra,%20m%C3%A0%20ch%E1%BB%89%20l%C3%A0%20con%20s%E1%BB%91%20h%E1%BB%8D%20c%C3%B3%20th%E1%BB%83%20%C4%91%E1%BA%B7t%20tu%E1%BB%B3%20th%C3%ADch.md)

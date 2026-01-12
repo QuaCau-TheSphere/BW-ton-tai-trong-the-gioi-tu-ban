@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-04-10T20:01
-updated: 2025-12-19T11:32
+updated: 2026-01-08T16:11
 ---
 Khái niệm:: [Trả góp](../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/T%C3%ADn%20d%E1%BB%A5ng/Tr%E1%BA%A3%20g%C3%B3p.md)
 

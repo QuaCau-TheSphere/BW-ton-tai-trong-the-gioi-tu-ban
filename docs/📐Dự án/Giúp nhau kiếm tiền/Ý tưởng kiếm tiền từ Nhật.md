@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-12-22T19:14
+updated: 2026-01-08T16:08
 aliases:
   - Tùy vào đề xuất của bạn
 ---
@@ -22,4 +22,3 @@ Nói chuyện với những người đang có nhu cầu được Nhật làm m�
 
 Những thứ kiếm tiền được đều ghi ở [📐Dự án](../index.md)
 [Chính sách hoa hồng](./Ch%C3%ADnh%20s%C3%A1ch%20hoa%20h%E1%BB%93ng.md)
-

@@ -1,9 +1,10 @@
 ---
 share: true
-updated: 2025-12-30T14:18
+updated: 2026-01-07T19:47
 description: Thử nghiệm trong việc tư duy lại hệ thống kinh tế và tiền tệ
 created: 2025-08-31T16:59
 aliases:
+  - gift bank
   - vcil
 ---
 - [Sao kê](https://drive.google.com/drive/folders/1IBrAo42Tk_jbl3LVNCILiI9mzFpnMScG?fbclid=IwY2xjawK7cAJleHRuA2FlbQIxMABicmlkETE2YVZ3WTJpTmZxdjFZZ29PAR4F6YCtIxUKSJ0fsMU_tO9G4QDojWN5Pc_Z5nQSbIheDaCuGd0zr3vdiea5WA_aem_maBL0GaDdRKi7jgOZ9MvkA)
