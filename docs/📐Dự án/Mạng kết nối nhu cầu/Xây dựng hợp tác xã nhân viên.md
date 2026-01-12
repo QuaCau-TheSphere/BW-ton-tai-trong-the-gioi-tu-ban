@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-12-19T11:32
+updated: 2026-01-04T21:26
 aliases:
   - săn giá rẻ, khuyến mãi, giảm giá, voucher
 ---
@@ -25,7 +25,7 @@ Giả sử A và B đều là thành viên của nhóm và đều có cùng lợ
 
 Cạnh tranh giữa các nhân viên có thể được loại bỏ bằng việc nhóm nhận một đầu, còn sau đó chọn ngẫu nhiên một người, hoặc họ phải chia đều. Nhưng nói chung thì càng qua nhiều người thì lợi ích càng bị chia nhỏ.
 
-[Chính sách hoa hồng](../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/T%C3%ACnh%20h%C3%ACnh%20%E1%BB%9F%20Vi%E1%BB%87t%20Nam/Lu%E1%BA%ADt,%20qu%E1%BA%A3n%20l%C3%BD%20nh%C3%A0%20n%C6%B0%E1%BB%9Bc/Ch%C3%ADnh%20s%C3%A1ch%20hoa%20h%E1%BB%93ng.md)
+[Chính sách hoa hồng](../Gi%C3%BAp%20nhau%20ki%E1%BA%BFm%20ti%E1%BB%81n/Ch%C3%ADnh%20s%C3%A1ch%20hoa%20h%E1%BB%93ng.md)
 
 ## Nằm trong những mô hình nào?
 Nếu xét về việc làm việc chung với nhau thì đây là một hợp tác xã. Nếu xét đây là một nhóm nhân viên ở các ngành khác nhau, thì đây là một công đoàn.
@@ -63,5 +63,5 @@ Cộng sinh, ký sinh
 Dòng vốn
 Cộng sản là tư bản sinh thái
 
-Công xã là việc bị đánh thuế 100%
+[Công xã là việc bị đánh thuế 100%](../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Ph%C3%A1t%20tri%E1%BB%83n%20b%E1%BB%81n%20v%E1%BB%AFng.%20C%C3%A1c%20n%E1%BB%81n%20kinh%20t%E1%BA%BF%20thay%20th%E1%BA%BF/Kinh%20t%E1%BA%BF%20thay%20th%E1%BA%BF/C%C3%B4ng%20x%C3%A3%20l%C3%A0%20vi%E1%BB%87c%20b%E1%BB%8B%20%C4%91%C3%A1nh%20thu%E1%BA%BF%20100%25.md)
 Doanh nghiệp xã hội
