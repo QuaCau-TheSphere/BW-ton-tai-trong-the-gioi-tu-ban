@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-12-27T16:15
+updated: 2026-01-10T12:20
 ---
 Tên thương hiệu:: VPBank
 Phân loại:: [Thương mại Cổ phần](Th%C6%B0%C6%A1ng%20m%E1%BA%A1i%20C%E1%BB%95%20ph%E1%BA%A7n.md)
@@ -18,5 +18,7 @@ Con là Livebank, [FE Credit](../../C%C3%B4ng%20ty%20t%C3%A0i%20ch%C3%ADnh%20ti%
 
 ## Thẻ tín dụng
 Kén máy, ngày được 10, 20tr  là cùng
+[OCB, VPBank, TPBank là các thẻ khó đáo](../../D%E1%BB%8Bch%20v%E1%BB%A5%20%C4%91%C3%A1o%20r%C3%BAt%20th%E1%BA%BB/OCB,%20VPBank,%20TPBank%20l%C3%A0%20c%C3%A1c%20th%E1%BA%BB%20kh%C3%B3%20%C4%91%C3%A1o.md)
+
 ## App
 Pin mở khóa và pin chuyển tiền phải khác nhau
