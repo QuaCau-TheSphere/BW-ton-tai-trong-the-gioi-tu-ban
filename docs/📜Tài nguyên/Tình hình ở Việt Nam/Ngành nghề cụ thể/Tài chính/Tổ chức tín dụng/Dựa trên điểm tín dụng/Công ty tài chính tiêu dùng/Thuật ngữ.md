@@ -1,12 +1,12 @@
 ---
 share: true
 created: 2025-01-29T18:13
-updated: 2025-12-19T11:32
+updated: 2026-01-12T18:33
 title: Thuật ngữ trong các công ty tài chính tiêu dùng
 ---
 | Viết tắt     | Thuật ngữ                          | Tiếng Anh                |
 | ------------ | ---------------------------------- | ------------------------ |
-| FC           | Nhân viên xử lý thực địa                                   |                          |
+| FC           | Nhân viên xử lý thực địa           | Field collector          |
 | PTP          | Hứa trả                            | Promise to pay           |
 | DPD          | Ngày trễ hạn                       | Due past day             |
 | BOM          |                                    |                          |
