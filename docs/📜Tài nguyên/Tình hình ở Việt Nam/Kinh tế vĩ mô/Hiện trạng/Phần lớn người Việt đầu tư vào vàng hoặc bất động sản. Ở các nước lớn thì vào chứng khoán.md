@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-12-19T11:32
+updated: 2026-01-08T17:28
 ---
 Khái niệm:: [Đầu tư](../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/T%C3%ADn%20d%E1%BB%A5ng/%C4%90%E1%BA%A7u%20t%C6%B0.md)
 [10% người dân có tài khoản chứng khoán](../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Ng%C3%A0nh%20ngh%E1%BB%81%20c%E1%BB%A5%20th%E1%BB%83/T%C3%A0i%20ch%C3%ADnh/Ch%E1%BB%A9ng%20kho%C3%A1n/10%25%20ng%C6%B0%E1%BB%9Di%20d%C3%A2n%20c%C3%B3%20t%C3%A0i%20kho%E1%BA%A3n%20ch%E1%BB%A9ng%20kho%C3%A1n.md)
