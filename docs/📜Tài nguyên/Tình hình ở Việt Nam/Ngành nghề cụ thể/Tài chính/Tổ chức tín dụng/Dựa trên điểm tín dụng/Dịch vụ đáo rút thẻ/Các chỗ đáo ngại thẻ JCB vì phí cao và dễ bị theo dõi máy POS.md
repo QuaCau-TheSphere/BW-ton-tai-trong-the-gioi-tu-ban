@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-04-20T22:56
-updated: 2026-01-10T12:20
+updated: 2026-02-07T12:39
 ---
 Khái niệm:: [Máy cà thẻ](../../../../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/T%C3%ADn%20d%E1%BB%A5ng/M%C3%A1y%20c%C3%A0%20th%E1%BA%BB.md)
 Nguồn:: [ĐHMT](../../../../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Ngu%E1%BB%93n/%C4%90HMT.md)
@@ -17,4 +17,4 @@ những chỗ làm chuyên nghiệp, họ biết điều này, nó họ sẽ rot
 
 ko, ý em là sẽ ko biết được bên nào legit
 vì a sẽ ko biết máy pos bên nào có bị red flag hay ko, trừ khi a đã sử dụng dịch vụ của họ trong 1 thời gian đủ dài
-như các thẻ khó đáo như [OCB, VPBank, TPBank là các thẻ khó đáo](./OCB,%20VPBank,%20TPBank%20l%C3%A0%20c%C3%A1c%20th%E1%BA%BB%20kh%C3%B3%20%C4%91%C3%A1o.md), mà vẫn có thể đáo bt trong nhiều năm thì rõ ràng họ đã chứng minh năng lực của mình
+như các thẻ khó đáo như [OCB, VPBank, TPBank là các thẻ khó đáo, vì không chuyển tiền trực tiếp vào thẻ được mà phải vào app](./OCB,%20VPBank,%20TPBank%20l%C3%A0%20c%C3%A1c%20th%E1%BA%BB%20kh%C3%B3%20%C4%91%C3%A1o,%20v%C3%AC%20kh%C3%B4ng%20chuy%E1%BB%83n%20ti%E1%BB%81n%20tr%E1%BB%B1c%20ti%E1%BA%BFp%20v%C3%A0o%20th%E1%BA%BB%20%C4%91%C6%B0%E1%BB%A3c%20m%C3%A0%20ph%E1%BA%A3i%20v%C3%A0o%20app.md), mà vẫn có thể đáo bt trong nhiều năm thì rõ ràng họ đã chứng minh năng lực của mình
