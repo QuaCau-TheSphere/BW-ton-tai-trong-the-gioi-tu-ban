@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2026-01-12T18:34
+updated: 2026-01-17T18:02
 aliases:
   - Dịch vụ mở thẻ tín dụng
   - Làm giấy tờ
@@ -32,3 +32,5 @@ Xem thêm:: [Dịch vụ đáo rút](./D%E1%BB%8Bch%20v%E1%BB%A5%20%C4%91%C3%A1o
 
 ## Nơi thảo luận
 ![](https://imagizer.imageshack.com/a/img923/1273/jQAnX6.png)
+
+[MỞ THẺ TÍN DỤNG TPHCM \| Facebook](https://www.facebook.com/groups/1096833167314913)
