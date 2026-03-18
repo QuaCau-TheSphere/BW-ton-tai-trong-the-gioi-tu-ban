@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2026-01-03T16:35
+updated: 2026-02-16T14:04
 ---
 ## Tình hình chung
 - Tại sao bạn bị nợ? 
@@ -68,25 +68,13 @@ $$\text{Lãi suất theo tháng} = \frac{\text{Lãi suất}}{\text{Số tháng p
 - Tại sao bạn chưa thấy mình mất khả năng trả nợ? Chuyện gì sẽ xảy ra nếu bạn thừa nhận việc đó?
 - Đâu là những tiêu chí để bạn có thể kết luận là mình vỡ nợ?
 - Công việc của bạn đang có những khó khăn gì?
-
-## Làm việc với người hỗ trợ
-- Bạn cần được hỗ trợ những gì?
-- Theo bạn đâu là cách để giúp bạn bền vững?
-- Có vô vàn những người mắc nợ như bạn. Tại sao bạn nên được giúp hơn những người khác?
-- Bạn nghĩ mình cần làm những gì để một người đồng ý cho bạn vay? 
-- Là người mang nợ, bạn sẽ rất bận để trả nợ. Nhưng việc cho vay đòi hỏi sự tin tưởng, vốn đến từ sự minh bạch và giải trình. Bạn sẽ làm gì để đảm bảo thông tin được thông suốt, đặc biệt là khi bạn đang cảm thấy mệt mà thấy câu hỏi không giúp gì được cho bạn?
-- Nếu bạn đã thấy mình đã cố gắng giải thích nhưng bạn vẫn thấy người giúp bạn chưa hiểu được ý bạn thì bạn sẽ làm gì?
-- Bạn thấy thế nào về việc ghép bạn vào một nhóm vay chung? Bạn dự tính sẽ làm những gì trong nhóm? Bạn thấy có những thuận lợi và khó khăn nào cho bạn?
-- Bạn muốn đặt câu hỏi gì về người hỗ trợ bạn? 
-- Mức độ bí mật của những thông tin bạn chia sẻ ở đây là gì? Ai sẽ là người bạn cảm thấy thoải mái khi họ biết được những gì bạn chia sẻ? Vì sao?
-	- Với các yêu cầu bạn đưa ra, bạn nghĩ gì về việc nó sẽ tạo khó khăn cho người muốn giúp bạn?
-	- Có phải bạn thấy rằng các lý do bạn đưa ra quan trọng hơn việc giúp bạn hiệu quả hơn đúng không? Vì sao?
-- Bạn có cho rằng việc công khai thông tin về bạn nếu bạn xù là một điều hợp lý không?
-
+ 
 ## Xem thêm
 - [Các lý do cho việc giúp đỡ hoặc không giúp đỡ](../Ni%E1%BB%81m%20tin/C%C3%A1c%20l%C3%BD%20do%20cho%20vi%E1%BB%87c%20gi%C3%BAp%20%C4%91%E1%BB%A1%20ho%E1%BA%B7c%20kh%C3%B4ng%20gi%C3%BAp%20%C4%91%E1%BB%A1.md)
 - [Bản câu hỏi cho người muốn tham gia góp quỹ](./B%E1%BA%A3n%20c%C3%A2u%20h%E1%BB%8Fi%20cho%20ng%C6%B0%E1%BB%9Di%20mu%E1%BB%91n%20tham%20gia%20g%C3%B3p%20qu%E1%BB%B9.md)
 - [Bản câu hỏi cho người tham khảo, người hỗ trợ, người bảo lãnh](./B%E1%BA%A3n%20c%C3%A2u%20h%E1%BB%8Fi%20cho%20ng%C6%B0%E1%BB%9Di%20tham%20kh%E1%BA%A3o,%20ng%C6%B0%E1%BB%9Di%20h%E1%BB%97%20tr%E1%BB%A3,%20ng%C6%B0%E1%BB%9Di%20b%E1%BA%A3o%20l%C3%A3nh.md)
+
+## Làm việc với người hỗ trợ
 - [Template câu hỏi cho người cần được hỗ trợ thoát nợ](./Template%20c%C3%A2u%20h%E1%BB%8Fi%20cho%20ng%C6%B0%E1%BB%9Di%20c%E1%BA%A7n%20%C4%91%C6%B0%E1%BB%A3c%20h%E1%BB%97%20tr%E1%BB%A3%20tho%C3%A1t%20n%E1%BB%A3.md)
 
 ## Nơi thảo luận
