@@ -19,7 +19,7 @@ Sau khi đã đóng thẻ tín dụng thì 40 ngày sau mới được mở phon
 - Có thời  gian để huy động tiền
 - Cho vay ngắn
 
-[Cấn sổ mất 7tr](../../../../../../../Ch%E1%BB%8Dn%20s%E1%BA%A3n%20ph%E1%BA%A9m%20ph%C3%B9%20h%E1%BB%A3p/Vay%20t%C3%ADn%20ch%E1%BA%A5p/D%E1%BB%B1a%20tr%C3%AAn%20%C4%91i%E1%BB%83m%20t%C3%ADn%20d%E1%BB%A5ng/Ng%C3%A2n%20h%C3%A0ng/Th%E1%BA%BB%20t%C3%ADn%20d%E1%BB%A5ng/C%E1%BA%A5n%20s%E1%BB%95%20m%E1%BA%A5t%207tr.md)
+[Cấn sổ mất 7tr](C%E1%BA%A5n%20s%E1%BB%95%20m%E1%BA%A5t%207tr.md)
 Phí đóng thẻ 200k
 
 Chỉ nói là nhân viên thì chắc chắn chỉ hướng dẫn chứ không làm. Không chịu cho coi cam. Không chịu coi cả log lên ngân hàng khi đã nói là hôm đó có lên. Chỉ khi nào có chứng từ rõ ràng thì mới cho coi, mà đúng là không có lưu lại gì. (Nghĩ lại thì cái lấy số thứ tự cũng phải là chứng từ rồi?) Nhưng ít nhất là nó cũng hoàn tiền 333k và cho đóng thẻ mà ko cần phí đóng 200k
