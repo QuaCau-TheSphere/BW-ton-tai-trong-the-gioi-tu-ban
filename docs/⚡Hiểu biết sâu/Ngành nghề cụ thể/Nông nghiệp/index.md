@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-12-25T17:50
+updated: 2026-02-16T14:07
 title: Nông nghiệp
 ---
 Khái niệm:: [Nông nghiệp, nông thôn](../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Giai%20c%E1%BA%A5p.%20Ph%C3%A1t%20tri%E1%BB%83n%20b%E1%BB%81n%20v%E1%BB%AFng/N%C3%B4ng%20nghi%E1%BB%87p,%20n%C3%B4ng%20th%C3%B4n.md)
@@ -29,12 +29,12 @@ Trong khi đó, hệ thống tài chính hiện tại chưa đáp ứng được
     - [Các chứng nhận an toàn tạo rào cản chi phí với những nhà sản xuất nhỏ, trong khi họ thường là an toàn hơn so với những nhà sản xuất lớn](./Ch%E1%BB%A9ng%20nh%E1%BA%ADn/C%C3%A1c%20ch%E1%BB%A9ng%20nh%E1%BA%ADn%20an%20to%C3%A0n%20t%E1%BA%A1o%20r%C3%A0o%20c%E1%BA%A3n%20chi%20ph%C3%AD%20v%E1%BB%9Bi%20nh%E1%BB%AFng%20nh%C3%A0%20s%E1%BA%A3n%20xu%E1%BA%A5t%20nh%E1%BB%8F,%20trong%20khi%20h%E1%BB%8D%20th%C6%B0%E1%BB%9Dng%20l%C3%A0%20an%20to%C3%A0n%20h%C6%A1n%20so%20v%E1%BB%9Bi%20nh%E1%BB%AFng%20nh%C3%A0%20s%E1%BA%A3n%20xu%E1%BA%A5t%20l%E1%BB%9Bn.md)
 
 - Hữu cơ: 
-    - [Sản xuất độc canh không phun thuốc vẫn được gọi là hữu cơ](./H%E1%BB%AFu%20c%C6%A1/S%E1%BA%A3n%20xu%E1%BA%A5t%20%C4%91%E1%BB%99c%20canh%20kh%C3%B4ng%20phun%20thu%E1%BB%91c%20v%E1%BA%ABn%20%C4%91%C6%B0%E1%BB%A3c%20g%E1%BB%8Di%20l%C3%A0%20h%E1%BB%AFu%20c%C6%A1.md)
     - [Nông nghiệp hữu cơ chỉ là một cách khác để duy trì tư duy công nghiệp](./H%E1%BB%AFu%20c%C6%A1/N%C3%B4ng%20nghi%E1%BB%87p%20h%E1%BB%AFu%20c%C6%A1%20ch%E1%BB%89%20l%C3%A0%20m%E1%BB%99t%20c%C3%A1ch%20kh%C3%A1c%20%C4%91%E1%BB%83%20duy%20tr%C3%AC%20t%C6%B0%20duy%20c%C3%B4ng%20nghi%E1%BB%87p.md)
+    - [Sản xuất độc canh không phun thuốc vẫn được gọi là hữu cơ](./H%E1%BB%AFu%20c%C6%A1/S%E1%BA%A3n%20xu%E1%BA%A5t%20%C4%91%E1%BB%99c%20canh%20kh%C3%B4ng%20phun%20thu%E1%BB%91c%20v%E1%BA%ABn%20%C4%91%C6%B0%E1%BB%A3c%20g%E1%BB%8Di%20l%C3%A0%20h%E1%BB%AFu%20c%C6%A1.md)
 
 - Thị trường: 
-    - [Nông dân không quyết định được giá. Được mùa rớt giá](./Th%E1%BB%8B%20tr%C6%B0%E1%BB%9Dng/N%C3%B4ng%20d%C3%A2n%20kh%C3%B4ng%20quy%E1%BA%BFt%20%C4%91%E1%BB%8Bnh%20%C4%91%C6%B0%E1%BB%A3c%20gi%C3%A1.%20%C4%90%C6%B0%E1%BB%A3c%20m%C3%B9a%20r%E1%BB%9Bt%20gi%C3%A1.md)
     - [Nông sản bây giờ phải đẹp](./Th%E1%BB%8B%20tr%C6%B0%E1%BB%9Dng/N%C3%B4ng%20s%E1%BA%A3n%20b%C3%A2y%20gi%E1%BB%9D%20ph%E1%BA%A3i%20%C4%91%E1%BA%B9p.md)
+    - [Nông dân không quyết định được giá. Được mùa rớt giá](./Th%E1%BB%8B%20tr%C6%B0%E1%BB%9Dng/N%C3%B4ng%20d%C3%A2n%20kh%C3%B4ng%20quy%E1%BA%BFt%20%C4%91%E1%BB%8Bnh%20%C4%91%C6%B0%E1%BB%A3c%20gi%C3%A1.%20%C4%90%C6%B0%E1%BB%A3c%20m%C3%B9a%20r%E1%BB%9Bt%20gi%C3%A1.md)
     - [Sản phẩm nông nghiệp là theo quy luật tự nhiên, có thời hạn ngắn, nên không thể phù hợp với chủ nghĩa tư bản](./Th%E1%BB%8B%20tr%C6%B0%E1%BB%9Dng/S%E1%BA%A3n%20ph%E1%BA%A9m%20n%C3%B4ng%20nghi%E1%BB%87p%20l%C3%A0%20theo%20quy%20lu%E1%BA%ADt%20t%E1%BB%B1%20nhi%C3%AAn,%20c%C3%B3%20th%E1%BB%9Di%20h%E1%BA%A1n%20ng%E1%BA%AFn,%20n%C3%AAn%20kh%C3%B4ng%20th%E1%BB%83%20ph%C3%B9%20h%E1%BB%A3p%20v%E1%BB%9Bi%20ch%E1%BB%A7%20ngh%C4%A9a%20t%C6%B0%20b%E1%BA%A3n.md)
     - [Thực phẩm được tạo ra từ xa lại rẻ hơn thực phẩm được tạo tại chỗ do được chính phủ trợ cấp](./Th%E1%BB%8B%20tr%C6%B0%E1%BB%9Dng/Th%E1%BB%B1c%20ph%E1%BA%A9m%20%C4%91%C6%B0%E1%BB%A3c%20t%E1%BA%A1o%20ra%20t%E1%BB%AB%20xa%20l%E1%BA%A1i%20r%E1%BA%BB%20h%C6%A1n%20th%E1%BB%B1c%20ph%E1%BA%A9m%20%C4%91%C6%B0%E1%BB%A3c%20t%E1%BA%A1o%20t%E1%BA%A1i%20ch%E1%BB%97%20do%20%C4%91%C6%B0%E1%BB%A3c%20ch%C3%ADnh%20ph%E1%BB%A7%20tr%E1%BB%A3%20c%E1%BA%A5p.md)
 
@@ -46,5 +46,6 @@ Trong khi đó, hệ thống tài chính hiện tại chưa đáp ứng được
     - [Hệ thống tài chính hiện tại chưa đáp ứng được nhu cầu của nông dân](./T%E1%BB%B1%20ch%E1%BB%A7/H%E1%BB%87%20th%E1%BB%91ng%20t%C3%A0i%20ch%C3%ADnh%20hi%E1%BB%87n%20t%E1%BA%A1i%20ch%C6%B0a%20%C4%91%C3%A1p%20%E1%BB%A9ng%20%C4%91%C6%B0%E1%BB%A3c%20nhu%20c%E1%BA%A7u%20c%E1%BB%A7a%20n%C3%B4ng%20d%C3%A2n.md)
     - [Phụ nữ bị tước đi quyền tự chủ về lương thực](./T%E1%BB%B1%20ch%E1%BB%A7/Ph%E1%BB%A5%20n%E1%BB%AF%20b%E1%BB%8B%20t%C6%B0%E1%BB%9Bc%20%C4%91i%20quy%E1%BB%81n%20t%E1%BB%B1%20ch%E1%BB%A7%20v%E1%BB%81%20l%C6%B0%C6%A1ng%20th%E1%BB%B1c.md)
     - [Sự tự chủ về lương thực bắt đầu từ việc tự chủ về hạt giống](./T%E1%BB%B1%20ch%E1%BB%A7/S%E1%BB%B1%20t%E1%BB%B1%20ch%E1%BB%A7%20v%E1%BB%81%20l%C6%B0%C6%A1ng%20th%E1%BB%B1c%20b%E1%BA%AFt%20%C4%91%E1%BA%A7u%20t%E1%BB%AB%20vi%E1%BB%87c%20t%E1%BB%B1%20ch%E1%BB%A7%20v%E1%BB%81%20h%E1%BA%A1t%20gi%E1%BB%91ng.md)
+    - [Lưu trữ hạt giống phải đi đôi với việc bảo tồn tri thức bản địa](./T%E1%BB%B1%20ch%E1%BB%A7/L%C6%B0u%20tr%E1%BB%AF%20h%E1%BA%A1t%20gi%E1%BB%91ng%20ph%E1%BA%A3i%20%C4%91i%20%C4%91%C3%B4i%20v%E1%BB%9Bi%20vi%E1%BB%87c%20b%E1%BA%A3o%20t%E1%BB%93n%20tri%20th%E1%BB%A9c%20b%E1%BA%A3n%20%C4%91%E1%BB%8Ba.md)
 
 
