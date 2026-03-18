@@ -8,7 +8,7 @@ aliases:
 [❓Các câu hỏi về cộng đồng có chủ đích bên ngoài đô thị](../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Ph%C3%A1t%20tri%E1%BB%83n%20b%E1%BB%81n%20v%E1%BB%AFng.%20C%C3%A1c%20n%E1%BB%81n%20kinh%20t%E1%BA%BF%20thay%20th%E1%BA%BF/C%E1%BB%99ng%20%C4%91%E1%BB%93ng%20c%C3%B3%20ch%E1%BB%A7%20%C4%91%C3%ADch/C%E1%BB%99ng%20%C4%91%E1%BB%93ng%20ngo%C3%A0i%20%C4%91%C3%B4%20th%E1%BB%8B/%E2%9D%93C%C3%A1c%20c%C3%A2u%20h%E1%BB%8Fi%20v%E1%BB%81%20c%E1%BB%99ng%20%C4%91%E1%BB%93ng%20c%C3%B3%20ch%E1%BB%A7%20%C4%91%C3%ADch%20b%C3%AAn%20ngo%C3%A0i%20%C4%91%C3%B4%20th%E1%BB%8B.md)
 ## Không kiếm được việc làm, hoặc tỉ lệ lương/chi phí sinh hoạt không tăng lên
 - Ở TP đang có lương 15tr, đi ra nơi khác sống thì không kiếm được chỗ nào cho như vậy
-- Làm [nông nghiệp sinh thái](N%C3%B4ng%20nghi%E1%BB%87p%20sinh%20th%C3%A1i%20%E1%BB%9F%20Vi%E1%BB%87t%20Nam.md)
+- Làm [nông nghiệp sinh thái](../../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/S%E1%BB%91ng%20v%E1%BB%ABa%20%C4%91%E1%BB%A7,%20b%E1%BB%81n%20v%E1%BB%AFng,%20ti%E1%BA%BFt%20ki%E1%BB%87m/N%C3%B4ng%20nghi%E1%BB%87p%20sinh%20th%C3%A1i%20%E1%BB%9F%20Vi%E1%BB%87t%20Nam.md)
 [Fetching Title#ec8w](https://www.facebook.com/share/p/1646a7r9ky/)
 ## Nhàm chán, không có môi trường để phát triển bản thân
 Các đô thị loại 2 như Đà Nẵng, Biên Hòa cũng không đủ để có môi trường để phát triển bản thân

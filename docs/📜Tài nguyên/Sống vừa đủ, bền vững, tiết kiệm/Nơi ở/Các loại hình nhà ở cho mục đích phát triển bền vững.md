@@ -1,9 +1,9 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-12-19T11:32
+updated: 2026-01-24T20:12
 ---
-Khái niệm:: [Bất động sản](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Ki%E1%BA%BFm%20ti%E1%BB%81n/B%E1%BA%A5t%20%C4%91%E1%BB%99ng%20s%E1%BA%A3n.md)
+Khái niệm:: [Bất động sản](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/T%C3%A0i%20s%E1%BA%A3n/B%E1%BA%A5t%20%C4%91%E1%BB%99ng%20s%E1%BA%A3n.md)
 [Liên minh Quyền Nhà ở Châu Á (ACHR) thăm và làm việc với Hiệp hội các đô thị Việt Nam](https://www.acvn.vn/index.php?route=news/news&news_id=646)
 [HOF-Quỹ phát triển nhà ở TP.Hồ Chí Minh](http://hof.com.vn/)
 [Chung cư cũ](https://chungcucu.vn/)
@@ -29,3 +29,4 @@ Xem thêm:: [Các công việc thường cung cấp chỗ ở](./C%C3%A1c%20c%C3
 Đến 2019, mạng lưới quỹ cộng đồng mở rộng ra 30 thành phố. Quỹ CDF tại các thành phố quay vòng đã hỗ trợ thêm 148 dự án hạ tầng cơ sở
 
 
+Quỹ phát triển cộng đồng CDF: [Community Development Fund \| NGO Vietnam](https://www.cdfvn.org/)
