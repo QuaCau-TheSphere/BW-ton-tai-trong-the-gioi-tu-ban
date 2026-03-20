@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-04-24T15:03
-updated: 2026-01-07T19:47
+updated: 2026-02-26T13:10
 ---
 - \-: 
     - [Tiền có nhiệm vụ làm trung gian cho việc trao đổi nhu cầu](../../N%E1%BB%81n%20kinh%20t%E1%BA%BF%20h%C3%A0ng%20ho%C3%A1/Kinh%20t%E1%BA%BF%20h%E1%BB%8Dc%20t%C3%A2m%20l%C3%BD/Ti%E1%BB%81n%20c%C3%B3%20nhi%E1%BB%87m%20v%E1%BB%A5%20l%C3%A0m%20trung%20gian%20cho%20vi%E1%BB%87c%20trao%20%C4%91%E1%BB%95i%20nhu%20c%E1%BA%A7u.md)
@@ -14,5 +14,8 @@ updated: 2026-01-07T19:47
     - [Chúng ta cần có tiền, nhưng không cần giàu có](../../N%E1%BB%81n%20kinh%20t%E1%BA%BF%20h%C3%A0ng%20ho%C3%A1/Ti%E1%BB%81n,%20n%E1%BB%A3,%20b%E1%BA%A3n%20v%E1%BB%8B/Ch%C3%BAng%20ta%20c%E1%BA%A7n%20c%C3%B3%20ti%E1%BB%81n,%20nh%C6%B0ng%20kh%C3%B4ng%20c%E1%BA%A7n%20gi%C3%A0u%20c%C3%B3.md)
     - [Nếu không còn tiền giấy thì ngân hàng trung ương kiểm soát lượng cung tiền bằng các công cụ như là tỷ lệ dự trữ bắt buộc, lãi suất liên ngân hàng và mua bán trái phiếu](../../N%E1%BB%81n%20kinh%20t%E1%BA%BF%20h%C3%A0ng%20ho%C3%A1/Ti%E1%BB%81n,%20n%E1%BB%A3,%20b%E1%BA%A3n%20v%E1%BB%8B/N%E1%BA%BFu%20kh%C3%B4ng%20c%C3%B2n%20ti%E1%BB%81n%20gi%E1%BA%A5y%20th%C3%AC%20ng%C3%A2n%20h%C3%A0ng%20trung%20%C6%B0%C6%A1ng%20ki%E1%BB%83m%20so%C3%A1t%20l%C6%B0%E1%BB%A3ng%20cung%20ti%E1%BB%81n%20b%E1%BA%B1ng%20c%C3%A1c%20c%C3%B4ng%20c%E1%BB%A5%20nh%C6%B0%20l%C3%A0%20t%E1%BB%B7%20l%E1%BB%87%20d%E1%BB%B1%20tr%E1%BB%AF%20b%E1%BA%AFt%20bu%E1%BB%99c,%20l%C3%A3i%20su%E1%BA%A5t%20li%C3%AAn%20ng%C3%A2n%20h%C3%A0ng%20v%C3%A0%20mua%20b%C3%A1n%20tr%C3%A1i%20phi%E1%BA%BFu.md)
     - [Tiền chỉ là công cụ](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Ni%E1%BB%81m%20tin,%20di%E1%BB%85n%20ng%C3%B4n/Ti%E1%BB%81n/Ti%E1%BB%81n%20ch%E1%BB%89%20l%C3%A0%20c%C3%B4ng%20c%E1%BB%A5.md)
+
+- Đạo đức: 
+    - [Tiền là nguồn gốc của tội lỗi](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Ni%E1%BB%81m%20tin,%20di%E1%BB%85n%20ng%C3%B4n/Ti%E1%BB%81n/%C4%90%E1%BA%A1o%20%C4%91%E1%BB%A9c/Ti%E1%BB%81n%20l%C3%A0%20ngu%E1%BB%93n%20g%E1%BB%91c%20c%E1%BB%A7a%20t%E1%BB%99i%20l%E1%BB%97i.md)
 
 
