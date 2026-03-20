@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2026-01-04T21:26
+updated: 2026-02-03T13:55
 aliases:
   - săn giá rẻ, khuyến mãi, giảm giá, voucher
 ---
@@ -13,7 +13,8 @@ Những thông tin không dễ để biết. Không phải vì nó nội bộ. K
 
 Điều gì khiến nhân viên ngân hàng không đăng lên các nhóm xem phim? Có được thông tin tức thời về các nhu cầu khác nhau. Phim thì chỉ là nhóm phim, muốn đồ ăn thì phải qua nhóm đồ ăn. Tức là vẫn phải chịu khó săn. Còn cái này là như một cổng thông tin, hỏi và được trả lời. 
 
- Các công ty tội gì không muốn. Đã có Urbox, Golder Spoon rồi. Điểm hơn là đa dạng nguồn
+ Các công ty tội gì không muốn. Đã có Urbox, Golder Spoon rồi. Điểm hơn là đa dạng ngành dịch vụ.
+ 
 ## Điều gì khiến họ có động lực để chia sẻ vào?
 - Kiếm tiền cho bản thân (đạt KPI)?
 - Đáp lại một lợi ích đã được nhận trước đó?
@@ -39,8 +40,6 @@ Không phải sản phẩm nào cũng có thể được đánh giá bởi một
 - [Xây dựng công đoàn](../%C4%90%E1%BB%91i%20tho%E1%BA%A1i%20v%E1%BB%9Bi%20t%C6%B0%20b%E1%BA%A3n/X%C3%A2y%20d%E1%BB%B1ng%20c%C3%B4ng%20%C4%91o%C3%A0n.md)
 - [Bản đồ tri thức cộng đồng ](https://obsidian.quảcầu.cc/📜Tài%20nguyên/Nhu%20cầu%20công%20việc/Viết%20và%20chia%20sẻ%20tri%20thức/Chia%20sẻ%20kho%20tri%20thức%20của%20mình%20cho%20mọi%20người?utm_source=Vault+B+Tồn+tại+trong+thế+giới+tư+bản+(Dự+án)&utm_medium=Vault&utm_campaign=C1&utm_content=📐Dự+án%2FMạng+kết+nối+nhu+cầu%2FXây+dựng+hợp+tác+xã+nhân+viên.md&utm_term=). Khác gì cái kho này?
 
-
-
 ## Những mô hình khác cũng đáp ứng nhu cầu người dùng tốt hơn
 Không thực sự đáp ứng những nhu cầu thiết yếu, chỉ đáp ứng những thứ giải trí, những thứ không khó để có
 Cạnh tranh với vi mô mới là điều quan trọng hơn. Ví dụ như việc vay nợ, việc giới thiệu các vi mô sẽ giết chết mọi nhân viên bán hàng, vì không một chương trình khuyến mãi nào có thể che đậy được một sự thật là lãi vay là cao. Và các chương trình khuyến mãi chủ yếu là vào những ngành giải trí, không phải là thiết yếu. 
@@ -58,7 +57,7 @@ Chỉ những nhân viên bán hàng không nghĩ rằng mình có thể thay đ
 
 
 
-[❓vốn xã hội, vốn biểu tượng, vốn văn hóa là tài sản vô hình](../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Ph%C3%A1t%20tri%E1%BB%83n%20b%E1%BB%81n%20v%E1%BB%AFng.%20C%C3%A1c%20n%E1%BB%81n%20kinh%20t%E1%BA%BF%20thay%20th%E1%BA%BF/Kinh%20t%E1%BA%BF%20thay%20th%E1%BA%BF/%E2%9D%93v%E1%BB%91n%20x%C3%A3%20h%E1%BB%99i,%20v%E1%BB%91n%20bi%E1%BB%83u%20t%C6%B0%E1%BB%A3ng,%20v%E1%BB%91n%20v%C4%83n%20h%C3%B3a%20l%C3%A0%20t%C3%A0i%20s%E1%BA%A3n%20v%C3%B4%20h%C3%ACnh.md)
+[❓An sinh xã hội, mối quan hệ với thiên nhiên, các loại vốn phi tài chính là các tài sản vô hình](../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Ph%C3%A1t%20tri%E1%BB%83n%20b%E1%BB%81n%20v%E1%BB%AFng.%20C%C3%A1c%20n%E1%BB%81n%20kinh%20t%E1%BA%BF%20thay%20th%E1%BA%BF/Kinh%20t%E1%BA%BF%20thay%20th%E1%BA%BF/%E2%9D%93An%20sinh%20x%C3%A3%20h%E1%BB%99i,%20m%E1%BB%91i%20quan%20h%E1%BB%87%20v%E1%BB%9Bi%20thi%C3%AAn%20nhi%C3%AAn,%20c%C3%A1c%20lo%E1%BA%A1i%20v%E1%BB%91n%20phi%20t%C3%A0i%20ch%C3%ADnh%20l%C3%A0%20c%C3%A1c%20t%C3%A0i%20s%E1%BA%A3n%20v%C3%B4%20h%C3%ACnh.md)
 Cộng sinh, ký sinh
 Dòng vốn
 Cộng sản là tư bản sinh thái
