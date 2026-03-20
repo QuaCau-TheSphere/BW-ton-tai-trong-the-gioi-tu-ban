@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2026-02-02T12:08
+updated: 2026-03-20T14:11
 ---
 Khái niệm:: 
 Chẳng là chung cư nhà em ở Hà Nội, có đặc thủ là 1 nửa số căn hộ của tòa nhà thuộc chủ sở hữu của chủ đầu tư, một nửa số căn hộ là thuộc quyền sở hữu của các cư dân. Khi bầu ra BQT thì người của chủ đầu tư muốn cài người của mình vào để dễ bề điều khiển và người này cũng là chủ sở hữu căn hộ của tòa nhà. Khi bỏ phiếu thì theo luật mới là số phiếu được tính trên diện tích của chủ sở hữu, nghĩa là có nhiều diện tích sở hữu của tòa nhà thì sẽ có nhiều phiếu. Vì sở hữu gần một nửa tổng diện tích của cả tòa nhà, nên người của BQT đã dễ dàng giành được vị trí trưởng BQT mặc dù cư dân trong tòa nhà kịch liệt phản đối. Nhưng chiếu theo luật thì vẫn hợp pháp.
@@ -15,4 +15,4 @@ Sắp tới hết nhiệm kì của BQT và sẽ bầu ra BQT mới, danh sách 
 Nguồn:: [Quản Lý Vận Hành Chung Cư Toà Nhà \| Em chào các bác ạ \| Facebook](https://www.facebook.com/share/p/1Gv6JtA7CT/)
 
 [Thông tư 06: Băn khoăn phiếu bầu theo m2 \| Tin nhanh chứng khoán](https://www.tinnhanhchungkhoan.vn/thong-tu-06-ban-khoan-phieu-bau-theo-m2-post225831.html)
-[Các chủ sở hữu nhiều căn hộ ở nhiều dự án khác nhau ít quan tâm đến câu chuyện vận hành của một khu chung cư. Trong khi các chủ căn hộ có diện tích tầm trung lại rất quan tâm vì với họ căn hộ có thể là cả gia tài](./C%C3%A1c%20ch%E1%BB%A7%20s%E1%BB%9F%20h%E1%BB%AFu%20nhi%E1%BB%81u%20c%C4%83n%20h%E1%BB%99%20%E1%BB%9F%20nhi%E1%BB%81u%20d%E1%BB%B1%20%C3%A1n%20kh%C3%A1c%20nhau%20%C3%ADt%20quan%20t%C3%A2m%20%C4%91%E1%BA%BFn%20c%C3%A2u%20chuy%E1%BB%87n%20v%E1%BA%ADn%20h%C3%A0nh%20c%E1%BB%A7a%20m%E1%BB%99t%20khu%20chung%20c%C6%B0.%20Trong%20khi%20c%C3%A1c%20ch%E1%BB%A7%20c%C4%83n%20h%E1%BB%99%20c%C3%B3%20di%E1%BB%87n%20t%C3%ADch%20t%E1%BA%A7m%20trung%20l%E1%BA%A1i%20r%E1%BA%A5t%20quan%20t%C3%A2m%20v%C3%AC%20v%E1%BB%9Bi%20h%E1%BB%8D%20c%C4%83n%20h%E1%BB%99%20c%C3%B3%20th%E1%BB%83%20l%C3%A0%20c%E1%BA%A3%20gia%20t%C3%A0i.md)
+[Các chủ sở hữu nhiều căn hộ ở nhiều dự án khác nhau ít quan tâm đến câu chuyện vận hành của một khu chung cư](./C%C3%A1c%20ch%E1%BB%A7%20s%E1%BB%9F%20h%E1%BB%AFu%20nhi%E1%BB%81u%20c%C4%83n%20h%E1%BB%99%20%E1%BB%9F%20nhi%E1%BB%81u%20d%E1%BB%B1%20%C3%A1n%20kh%C3%A1c%20nhau%20%C3%ADt%20quan%20t%C3%A2m%20%C4%91%E1%BA%BFn%20c%C3%A2u%20chuy%E1%BB%87n%20v%E1%BA%ADn%20h%C3%A0nh%20c%E1%BB%A7a%20m%E1%BB%99t%20khu%20chung%20c%C6%B0.md)
