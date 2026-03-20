@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-12-19T11:32
+updated: 2025-12-19T13:29
 ---
 ## 1. Giai đoạn tạo niềm tin ban đầu (trước tháng 6/2025)
 Chiêu thức "đa cấp trá hình":
@@ -35,3 +35,5 @@ Xem thêm:: [GM Mall là sân sau của những quan chức rửa tiền](./GM%2
 
 
 [2 công ty đa cấp có dấu hiệu trái phép bị chuyển hồ sơ sang công an \| Báo Dân trí](https://dantri.com.vn/kinh-doanh/2-cong-ty-da-cap-co-dau-hieu-trai-phep-bi-chuyen-ho-so-sang-cong-an-20250917140435284.htm)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7tCBko9L48Y?si=dYQUsiu2RjTIFwls&t=591" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

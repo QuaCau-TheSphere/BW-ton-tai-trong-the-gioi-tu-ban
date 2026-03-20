@@ -27,4 +27,4 @@ Tiền có mua được hạnh phúc không? Nhiều người hay trích nghiên
 - Tóm tắt nhanh: <iframe width="560" height="315" src="https://www.youtube.com/embed/vSQjk9jKarg?si=-ZZ1K4jWMhatcSnT&t=1096" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  
 - Bài báo chi tiết: https://www.pnas.org/doi/epdf/10.1073/pnas.2208661120
 
-Khái niệm:: [Tiền](../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Ti%E1%BB%81n/index.md), [Giàu, người giàu](../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Ki%E1%BA%BFm%20ti%E1%BB%81n/Gi%C3%A0u,%20ng%C6%B0%E1%BB%9Di%20gi%C3%A0u.md)
+Khái niệm:: [Tiền](../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/T%C3%A0i%20s%E1%BA%A3n/Ti%E1%BB%81n.md), [Giàu, người giàu](../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Ki%E1%BA%BFm%20ti%E1%BB%81n/Gi%C3%A0u,%20ng%C6%B0%E1%BB%9Di%20gi%C3%A0u.md)

@@ -1,21 +1,21 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-12-19T11:32
+updated: 2025-12-19T13:52
 description: "Số tiền kiếm được: 60k/stk ngân hàng"
 aliases:
   - Nhận tiền hộ
 ---
-
 Mô tả công việc:: Chuyển dùm tiền được gửi về tài khoản ngân hàng của bạn sang tài khoản khác
 Số tiền kiếm được:: 60k/stk ngân hàng
 
 ## Mô tả chi tiết
 Nhân viên các sàn thương mại điện tử được áp đặt chỉ tiêu tạo khách hàng mới mỗi tháng. Các tài khoản khách hàng này cần phải được hoạt động, và sau khi hoạt động thì sẽ có tiền. Họ không thể chuyển tiền tất cả các tài khoản khách này vào tài khoản của mình vì sẽ bị nghi ngờ gian lận, nên cần những tài khoản ngân hàng có tên khác để nhận giùm rồi chuyển lại cho họ.
 
-Bài chi tiết:: [Sao lại cần tài khoản đứng tên của tôi?](../../../../../../%F0%9F%93%90D%E1%BB%B1%20%C3%A1n/Gi%C3%BAp%20nhau%20ki%E1%BA%BFm%20ti%E1%BB%81n/Ch%E1%BA%A1y%20ch%E1%BB%89%20ti%C3%AAu%20cho%20nh%C3%A2n%20vi%C3%AAn%20c%C3%B4ng%20ty/Ch%C6%A1i%20ch%C3%ADnh%20s%C3%A1ch/V%E1%BA%A5n%20%C4%91%E1%BB%81%20r%E1%BB%A7i%20ro.md#Sao%20lại%20cần%20tài%20khoản%20đứng%20tên%20của%20tôi?)
-
 Ngày bắt đầu làm bạn sẽ nhận được tiền chuyển khoản vào tài khoản ngân hàng của bạn. Công việc của bạn chỉ đơn giản là chuyển lại số tiền đó vào tài khoản sau: 19730326507 - TPBANK - LAM THI OANH. 
+
+Bài chi tiết:: [Sao lại cần tài khoản đứng tên của tôi?](../../../../../../%F0%9F%93%90D%E1%BB%B1%20%C3%A1n/Gi%C3%BAp%20nhau%20ki%E1%BA%BFm%20ti%E1%BB%81n/Ch%E1%BA%A1y%20ch%E1%BB%89%20ti%C3%AAu%20cho%20nh%C3%A2n%20vi%C3%AAn%20c%C3%B4ng%20ty/Ch%C6%A1i%20ch%C3%ADnh%20s%C3%A1ch/V%E1%BA%A5n%20%C4%91%E1%BB%81%20r%E1%BB%A7i%20ro.md#Sao%20lại%20cần%20tài%20khoản%20đứng%20tên%20của%20tôi?)
+Bài chi tiết:: [Đặt đơn ảo, đơn khống](../../../../../T%C3%ACnh%20h%C3%ACnh%20%E1%BB%9F%20Vi%E1%BB%87t%20Nam/Ng%C3%A0nh%20ngh%E1%BB%81%20c%E1%BB%A5%20th%E1%BB%83/T%C3%A0i%20ch%C3%ADnh/S%C3%A0n%20th%C6%B0%C6%A1ng%20m%E1%BA%A1i%20%C4%91i%E1%BB%87n%20t%E1%BB%AD/%C4%90%E1%BA%B7t%20%C4%91%C6%A1n%20%E1%BA%A3o,%20%C4%91%C6%A1n%20kh%E1%BB%91ng.md)
 
 ## Yêu cầu
 - Có tối thiểu 5 stk, không giới hạn tối đa

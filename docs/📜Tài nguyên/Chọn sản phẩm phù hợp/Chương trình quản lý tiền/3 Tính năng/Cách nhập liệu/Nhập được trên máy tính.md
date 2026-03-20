@@ -8,10 +8,10 @@ Loại chương trình:: [Chương trình kế toán](../../4%20Lo%E1%BA%A1i%20c
 Loại chương trình:: [Chương trình phân loại dữ liệu tự động](../../4%20Lo%E1%BA%A1i%20ch%C6%B0%C6%A1ng%20tr%C3%ACnh/Ch%C6%B0%C6%A1ng%20tr%C3%ACnh%20ph%C3%A2n%20lo%E1%BA%A1i%20d%E1%BB%AF%20li%E1%BB%87u%20t%E1%BB%B1%20%C4%91%E1%BB%99ng.md)
 
 Đáp ứng cho việc:
-- [Nhập liệu được bằng file text](./Nh%E1%BA%ADp%20li%E1%BB%87u%20%C4%91%C6%B0%E1%BB%A3c%20b%E1%BA%B1ng%20file%20text.md)
 - [Nhập liệu được trên Google Keep](./Nh%E1%BA%ADp%20li%E1%BB%87u%20%C4%91%C6%B0%E1%BB%A3c%20tr%C3%AAn%20Google%20Keep.md)
 - [Nhập liệu được trên Telegram](./Nh%E1%BA%ADp%20li%E1%BB%87u%20%C4%91%C6%B0%E1%BB%A3c%20tr%C3%AAn%20Telegram.md)
 - [Nhập được bằng tập tin bảng tính](./Nh%E1%BA%ADp%20%C4%91%C6%B0%E1%BB%A3c%20b%E1%BA%B1ng%20t%E1%BA%ADp%20tin%20b%E1%BA%A3ng%20t%C3%ADnh.md)
+- [Nhập liệu được bằng file text](./Nh%E1%BA%ADp%20li%E1%BB%87u%20%C4%91%C6%B0%E1%BB%A3c%20b%E1%BA%B1ng%20file%20text.md)
 - [Dùng được trên CLI](../Giao%20di%E1%BB%87n/D%C3%B9ng%20%C4%91%C6%B0%E1%BB%A3c%20tr%C3%AAn%20CLI.md)
 - [Là phần mềm tự do](../Kh%C3%A1c/L%C3%A0%20ph%E1%BA%A7n%20m%E1%BB%81m%20t%E1%BB%B1%20do.md)
 - [Tạo query phức tạp được](../Kh%C3%A1c/T%E1%BA%A1o%20query%20ph%E1%BB%A9c%20t%E1%BA%A1p%20%C4%91%C6%B0%E1%BB%A3c.md)

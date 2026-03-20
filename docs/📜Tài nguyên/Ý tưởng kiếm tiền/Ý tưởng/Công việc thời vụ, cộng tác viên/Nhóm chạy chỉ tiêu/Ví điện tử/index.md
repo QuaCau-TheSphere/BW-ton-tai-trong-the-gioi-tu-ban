@@ -12,9 +12,9 @@ aliases:
 
 | File                                                                                                                                                                                                                        | Số tiền kiếm được | Mô tả công việc                                               | Số người cần tuyển |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- | ------------------------------------------------------------- | ------------------ |
-| [Làm nhân viên ảo](./L%C3%A0m%20nh%C3%A2n%20vi%C3%AAn%20%E1%BA%A3o.md)                                                                             | 2tr/tháng         | \-                                                            | 0                  |
 | [Viết hợp đồng, thu thập thông tin khách hàng tiềm năng](./Vi%E1%BA%BFt%20h%E1%BB%A3p%20%C4%91%E1%BB%93ng,%20thu%20th%E1%BA%ADp%20th%C3%B4ng%20tin%20kh%C3%A1ch%20h%C3%A0ng%20ti%E1%BB%81m%20n%C4%83ng.md) | 50k/h             | Từ sđt của cửa hàng ghi thông tin cửa hàng ra theo mẫu có sẵn | 0                  |
 | [Đổi tiền, chụp hình biển hiệu, dán mã QR](./%C4%90%E1%BB%95i%20ti%E1%BB%81n,%20ch%E1%BB%A5p%20h%C3%ACnh%20bi%E1%BB%83n%20hi%E1%BB%87u,%20d%C3%A1n%20m%C3%A3%20QR.md)                             | \-                | \-                                                            | 0                  |
+| [Làm nhân viên ảo](./L%C3%A0m%20nh%C3%A2n%20vi%C3%AAn%20%E1%BA%A3o.md)                                                                             | 2tr/tháng         | \-                                                            | 0                  |
 
 
 ## Câu hỏi thường gặp

@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-12-13T19:57
-updated: 2025-12-19T11:32
+updated: 2026-03-17T21:54
 title: Vì người lao động
 ---
 ## Lao động ngoài trời
@@ -20,5 +20,6 @@ https://drive.google.com/drive/folders/1Iqsz_syFov65WWLCCexSj3tSmcMoK2Gu?usp=dri
 [Trang chủ - Từ Hậu trường tới Tương lai](https://hautruongtuonglai.vn/)
 [Hành trang di cư | Hanoi](https://www.facebook.com/hanhtrangdicu)
 
+- [Những điều cần biết khi đi làm](./Nh%E1%BB%AFng%20%C4%91i%E1%BB%81u%20c%E1%BA%A7n%20bi%E1%BA%BFt%20khi%20%C4%91i%20l%C3%A0m.md)
 - [Review công ty](./Review%20c%C3%B4ng%20ty.md)
 

@@ -1,14 +1,16 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-12-29T11:35
+updated: 2026-01-27T15:57
 ---
 - \-: 
+    - [Thu nhập cơ bản phổ quát nên được hiểu là tài sản cơ bản vô điều kiện](../../Ph%C3%A1t%20tri%E1%BB%83n%20b%E1%BB%81n%20v%E1%BB%AFng.%20C%C3%A1c%20n%E1%BB%81n%20kinh%20t%E1%BA%BF%20thay%20th%E1%BA%BF/Kinh%20t%E1%BA%BF%20thay%20th%E1%BA%BF/Thu%20nh%E1%BA%ADp%20c%C6%A1%20b%E1%BA%A3n%20ph%E1%BB%95%20qu%C3%A1t%20n%C3%AAn%20%C4%91%C6%B0%E1%BB%A3c%20hi%E1%BB%83u%20l%C3%A0%20t%C3%A0i%20s%E1%BA%A3n%20c%C6%A1%20b%E1%BA%A3n%20v%C3%B4%20%C4%91i%E1%BB%81u%20ki%E1%BB%87n.md)
+    - [Thu nhập cơ bản vô điều kiện không bằng đáp ứng nhu cầu cơ bản vô điều kiện](../../Ph%C3%A1t%20tri%E1%BB%83n%20b%E1%BB%81n%20v%E1%BB%AFng.%20C%C3%A1c%20n%E1%BB%81n%20kinh%20t%E1%BA%BF%20thay%20th%E1%BA%BF/Kinh%20t%E1%BA%BF%20thay%20th%E1%BA%BF/Thu%20nh%E1%BA%ADp%20c%C6%A1%20b%E1%BA%A3n%20v%C3%B4%20%C4%91i%E1%BB%81u%20ki%E1%BB%87n%20kh%C3%B4ng%20b%E1%BA%B1ng%20%C4%91%C3%A1p%20%E1%BB%A9ng%20nhu%20c%E1%BA%A7u%20c%C6%A1%20b%E1%BA%A3n%20v%C3%B4%20%C4%91i%E1%BB%81u%20ki%E1%BB%87n.md)
     - [Nếu không thấy tài nguyên khan hiếm thì cũng không cần thu nhập thụ động](../../Ph%C3%A1t%20tri%E1%BB%83n%20b%E1%BB%81n%20v%E1%BB%AFng.%20C%C3%A1c%20n%E1%BB%81n%20kinh%20t%E1%BA%BF%20thay%20th%E1%BA%BF/N%E1%BA%BFu%20kh%C3%B4ng%20th%E1%BA%A5y%20t%C3%A0i%20nguy%C3%AAn%20khan%20hi%E1%BA%BFm%20th%C3%AC%20c%C5%A9ng%20kh%C3%B4ng%20c%E1%BA%A7n%20thu%20nh%E1%BA%ADp%20th%E1%BB%A5%20%C4%91%E1%BB%99ng.md)
     - [Tạo thu nhập thụ động](../../../%F0%9F%93%90D%E1%BB%B1%20%C3%A1n/T%E1%BA%A1o%20thu%20nh%E1%BA%ADp%20th%E1%BB%A5%20%C4%91%E1%BB%99ng/index.md)
 
 - Thu nhập thụ động, dòng tiền dương: 
-    - [Thu nhập thụ động có hàm ý đã biết chắc chắn ngày nào mình nhận tiền với bao nhiêu tiền. Dòng tiền thì không](../../N%E1%BB%81n%20kinh%20t%E1%BA%BF%20h%C3%A0ng%20ho%C3%A1/K%E1%BA%BF%20ho%E1%BA%A1ch%20t%C3%A0i%20ch%C3%ADnh/Thu%20nh%E1%BA%ADp%20th%E1%BB%A5%20%C4%91%E1%BB%99ng,%20d%C3%B2ng%20ti%E1%BB%81n%20d%C6%B0%C6%A1ng/Thu%20nh%E1%BA%ADp%20th%E1%BB%A5%20%C4%91%E1%BB%99ng%20c%C3%B3%20h%C3%A0m%20%C3%BD%20%C4%91%C3%A3%20bi%E1%BA%BFt%20ch%E1%BA%AFc%20ch%E1%BA%AFn%20ng%C3%A0y%20n%C3%A0o%20m%C3%ACnh%20nh%E1%BA%ADn%20ti%E1%BB%81n%20v%E1%BB%9Bi%20bao%20nhi%C3%AAu%20ti%E1%BB%81n.%20D%C3%B2ng%20ti%E1%BB%81n%20th%C3%AC%20kh%C3%B4ng.md)
     - [Thu nhập thụ động thì không theo phần trăm. Dòng tiền thì có thể có](../../N%E1%BB%81n%20kinh%20t%E1%BA%BF%20h%C3%A0ng%20ho%C3%A1/K%E1%BA%BF%20ho%E1%BA%A1ch%20t%C3%A0i%20ch%C3%ADnh/Thu%20nh%E1%BA%ADp%20th%E1%BB%A5%20%C4%91%E1%BB%99ng,%20d%C3%B2ng%20ti%E1%BB%81n%20d%C6%B0%C6%A1ng/Thu%20nh%E1%BA%ADp%20th%E1%BB%A5%20%C4%91%E1%BB%99ng%20th%C3%AC%20kh%C3%B4ng%20theo%20ph%E1%BA%A7n%20tr%C4%83m.%20D%C3%B2ng%20ti%E1%BB%81n%20th%C3%AC%20c%C3%B3%20th%E1%BB%83%20c%C3%B3.md)
+    - [Thu nhập thụ động có hàm ý đã biết chắc chắn ngày nào mình nhận tiền với bao nhiêu tiền. Dòng tiền thì không](../../N%E1%BB%81n%20kinh%20t%E1%BA%BF%20h%C3%A0ng%20ho%C3%A1/K%E1%BA%BF%20ho%E1%BA%A1ch%20t%C3%A0i%20ch%C3%ADnh/Thu%20nh%E1%BA%ADp%20th%E1%BB%A5%20%C4%91%E1%BB%99ng,%20d%C3%B2ng%20ti%E1%BB%81n%20d%C6%B0%C6%A1ng/Thu%20nh%E1%BA%ADp%20th%E1%BB%A5%20%C4%91%E1%BB%99ng%20c%C3%B3%20h%C3%A0m%20%C3%BD%20%C4%91%C3%A3%20bi%E1%BA%BFt%20ch%E1%BA%AFc%20ch%E1%BA%AFn%20ng%C3%A0y%20n%C3%A0o%20m%C3%ACnh%20nh%E1%BA%ADn%20ti%E1%BB%81n%20v%E1%BB%9Bi%20bao%20nhi%C3%AAu%20ti%E1%BB%81n.%20D%C3%B2ng%20ti%E1%BB%81n%20th%C3%AC%20kh%C3%B4ng.md)
 
 

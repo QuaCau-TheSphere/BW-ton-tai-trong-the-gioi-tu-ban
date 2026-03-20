@@ -12,8 +12,8 @@ aliases:
 
 | File                                                                                                                                                                            | Số tiền kiếm được               | Mô tả công việc                                                             | Số người cần tuyển |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------- | --------------------------------------------------------------------------- | ------------------ |
-| [Cung cấp địa chỉ nhận hàng](./Cung%20c%E1%BA%A5p%20%C4%91%E1%BB%8Ba%20ch%E1%BB%89%20nh%E1%BA%ADn%20h%C3%A0ng.md) | Tuỳ vào món hàng được nhận      | Cung cấp địa chỉ để được nhận hàng miễn phí                                 | 0                  |
 | [Giữ tiền hộ](./Gi%E1%BB%AF%20ti%E1%BB%81n%20h%E1%BB%99.md)                               | 60k/stk ngân hàng               | Chuyển dùm tiền được gửi về tài khoản ngân hàng của bạn sang tài khoản khác | 0                  |
+| [Cung cấp địa chỉ nhận hàng](./Cung%20c%E1%BA%A5p%20%C4%91%E1%BB%8Ba%20ch%E1%BB%89%20nh%E1%BA%ADn%20h%C3%A0ng.md) | Tuỳ vào món hàng được nhận      | Cung cấp địa chỉ để được nhận hàng miễn phí                                 | 0                  |
 | [Gom nhóm](./Gom%20nh%C3%B3m.md)                                     | 50k/tài khoản tạo mới           | Tải app, đăng ký, nhập mã giới thiệu, nạp tiền, gom nhóm, rút tiền          | 0                  |
 | [Làm nhân viên ảo](./L%C3%A0m%20nh%C3%A2n%20vi%C3%AAn%20%E1%BA%A3o.md)                     | Tối thiểu 600k, hoặc 1tr5/tháng | Họp online hoặc lên văn phòng chơi                                          | 0                  |
 

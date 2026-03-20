@@ -1,7 +1,13 @@
 ---
 share: true
 created: 2025-04-14T15:53
-updated: 2025-12-19T11:32
+updated: 2026-03-03T10:13
 ---
 Khái niệm:: 
+- [Cho vay theo nhóm bền vững hơn, ít bị xù hơn. Cho vay cá nhân nhiều lợi nhuận hơn, dễ mở rộng phạm vi hoạt động hơn](../Ng%C3%A0nh%20ngh%E1%BB%81%20c%E1%BB%A5%20th%E1%BB%83/T%C3%A0i%20ch%C3%ADnh/Vay%20n%E1%BB%A3/Cho%20vay%20theo%20nh%C3%B3m%20b%E1%BB%81n%20v%E1%BB%AFng%20h%C6%A1n,%20%C3%ADt%20b%E1%BB%8B%20x%C3%B9%20h%C6%A1n.%20Cho%20vay%20c%C3%A1%20nh%C3%A2n%20nhi%E1%BB%81u%20l%E1%BB%A3i%20nhu%E1%BA%ADn%20h%C6%A1n,%20d%E1%BB%85%20m%E1%BB%9F%20r%E1%BB%99ng%20ph%E1%BA%A1m%20vi%20ho%E1%BA%A1t%20%C4%91%E1%BB%99ng%20h%C6%A1n.md)
+- [Các tổ chức quốc tế chỉ hướng đến xoá đói giảm nghèo, hết bệnh. Cho mượn là lồng ghép để thoát nghèo thôi](../Ph%C3%A1t%20tri%E1%BB%83n%20b%E1%BB%81n%20v%E1%BB%AFng.%20C%C3%A1c%20n%E1%BB%81n%20kinh%20t%E1%BA%BF%20thay%20th%E1%BA%BF/Th%E1%BB%B1c%20tr%E1%BA%A1ng/T%E1%BB%AB%20thi%E1%BB%87n,%20vi%E1%BB%87n%20tr%E1%BB%A3/C%C3%A1c%20t%E1%BB%95%20ch%E1%BB%A9c%20qu%E1%BB%91c%20t%E1%BA%BF%20ch%E1%BB%89%20h%C6%B0%E1%BB%9Bng%20%C4%91%E1%BA%BFn%20xo%C3%A1%20%C4%91%C3%B3i%20gi%E1%BA%A3m%20ngh%C3%A8o,%20h%E1%BA%BFt%20b%E1%BB%87nh.%20Cho%20m%C6%B0%E1%BB%A3n%20l%C3%A0%20l%E1%BB%93ng%20gh%C3%A9p%20%C4%91%E1%BB%83%20tho%C3%A1t%20ngh%C3%A8o%20th%C3%B4i.md)
+- [Chính thức hoá khi lập quỹ là chết với luật tín dụng](../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/T%C3%ACnh%20h%C3%ACnh%20%E1%BB%9F%20Vi%E1%BB%87t%20Nam/Lu%E1%BA%ADt,%20qu%E1%BA%A3n%20l%C3%BD%20nh%C3%A0%20n%C6%B0%E1%BB%9Bc/Thi%E1%BB%87n%20nguy%E1%BB%87n%20c%E1%BB%99ng%20%C4%91%E1%BB%93ng/Ch%C3%ADnh%20th%E1%BB%A9c%20ho%C3%A1%20khi%20l%E1%BA%ADp%20qu%E1%BB%B9%20l%C3%A0%20ch%E1%BA%BFt%20v%E1%BB%9Bi%20lu%E1%BA%ADt%20t%C3%ADn%20d%E1%BB%A5ng.md)
+- [Chính phủ làm từ thiện thì được, chứ không nên thúc đẩy xã hội](../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/T%C3%ACnh%20h%C3%ACnh%20%E1%BB%9F%20Vi%E1%BB%87t%20Nam/Lu%E1%BA%ADt,%20qu%E1%BA%A3n%20l%C3%BD%20nh%C3%A0%20n%C6%B0%E1%BB%9Bc/Thi%E1%BB%87n%20nguy%E1%BB%87n%20c%E1%BB%99ng%20%C4%91%E1%BB%93ng/Ch%C3%ADnh%20ph%E1%BB%A7%20l%C3%A0m%20t%E1%BB%AB%20thi%E1%BB%87n%20th%C3%AC%20%C4%91%C6%B0%E1%BB%A3c,%20ch%E1%BB%A9%20kh%C3%B4ng%20n%C3%AAn%20th%C3%BAc%20%C4%91%E1%BA%A9y%20x%C3%A3%20h%E1%BB%99i.md)
+- [Ngân hàng Chính sách xã hội cũng là từ thiện](../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/T%C3%ACnh%20h%C3%ACnh%20%E1%BB%9F%20Vi%E1%BB%87t%20Nam/Ng%C3%A0nh%20ngh%E1%BB%81%20c%E1%BB%A5%20th%E1%BB%83/T%C3%A0i%20ch%C3%ADnh/T%E1%BB%95%20ch%E1%BB%A9c%20t%C3%ADn%20d%E1%BB%A5ng/Kh%C3%B4ng%20d%E1%BB%B1a%20tr%C3%AAn%20%C4%91i%E1%BB%83m%20t%C3%ADn%20d%E1%BB%A5ng/T%E1%BB%95%20ch%E1%BB%A9c%20t%C3%A0i%20ch%C3%ADnh%20vi%20m%C3%B4/Ng%C3%A2n%20h%C3%A0ng%20Ch%C3%ADnh%20s%C3%A1ch%20x%C3%A3%20h%E1%BB%99i%20c%C5%A9ng%20l%C3%A0%20t%E1%BB%AB%20thi%E1%BB%87n.md)
+
 Nguồn::

@@ -1,9 +1,11 @@
 ---
 share: true
 created: 2024-06-19T18:51
-updated: 2025-12-19T11:32
+updated: 2026-02-26T12:18
+description: Người giàu nghĩ gì về quan điểm tiền không mua được hạnh phúc
+aliases:
+  - Người giàu nghĩ gì về quan điểm tiền không mua được hạnh phúc?
 ---
-
 [SocialLife Community](https://www.facebook.com/groups/607055182969235/posts/2126257434382328/)
 [Vietnam Marxist Study Group | Facebook](https://www.facebook.com/groups/347957905776254/posts/1463725287532838)
 
@@ -11,3 +13,5 @@ Mình muốn hiểu quan điểm về cho tiền của người cho vay tiền (
 
 ![Người giàu nghĩ gì về quan điểm tiền không mua được hạnh phúc.jpg](../../../assets/attachments/Ng%C6%B0%E1%BB%9Di%20gi%C3%A0u%20ngh%C4%A9%20g%C3%AC%20v%E1%BB%81%20quan%20%C4%91i%E1%BB%83m%20ti%E1%BB%81n%20kh%C3%B4ng%20mua%20%C4%91%C6%B0%E1%BB%A3c%20h%E1%BA%A1nh%20ph%C3%BAc.jpg)
 [Mỹ đề cao tư bản, nhưng định hình thể chế philanthropy thông qua luật. Châu Âu áp thuế thu nhập rất cao](./T%E1%BB%AB%20thi%E1%BB%87n,%20vi%E1%BB%87n%20tr%E1%BB%A3/M%E1%BB%B9%20%C4%91%E1%BB%81%20cao%20t%C6%B0%20b%E1%BA%A3n,%20nh%C6%B0ng%20%C4%91%E1%BB%8Bnh%20h%C3%ACnh%20th%E1%BB%83%20ch%E1%BA%BF%20philanthropy%20th%C3%B4ng%20qua%20lu%E1%BA%ADt.%20Ch%C3%A2u%20%C3%82u%20%C3%A1p%20thu%E1%BA%BF%20thu%20nh%E1%BA%ADp%20r%E1%BA%A5t%20cao.md)
+
+[Điều gì khiến một người không muốn từ bỏ thiết chế tư bản](../../../%F0%9F%93%90D%E1%BB%B1%20%C3%A1n/Gi%C3%BAp%20nhau%20tho%C3%A1t%20n%E1%BB%A3/Ng%C6%B0%E1%BB%9Di%20th%E1%BB%A5%20h%C6%B0%E1%BB%9Fng/%C4%90i%E1%BB%81u%20g%C3%AC%20khi%E1%BA%BFn%20m%E1%BB%99t%20ng%C6%B0%E1%BB%9Di%20kh%C3%B4ng%20mu%E1%BB%91n%20t%E1%BB%AB%20b%E1%BB%8F%20thi%E1%BA%BFt%20ch%E1%BA%BF%20t%C6%B0%20b%E1%BA%A3n.md)
