@@ -33,7 +33,7 @@ Việc giúp này không giúp được gì cho hệ thống mới, mà giúp vi
 
 Nếu họ có các diễn ngôn tân tự do, thì khi đã càng dấn sâu hơn vào hệ thống thì sẽ như thế nào? 
 
-[Việc có được dòng tiền là cánh cửa để đạt được ước mơ thay đổi cuộc sống](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Ni%E1%BB%81m%20tin,%20di%E1%BB%85n%20ng%C3%B4n/Ti%E1%BB%81n/Vay,%20n%E1%BB%A3/Vi%E1%BB%87c%20c%C3%B3%20%C4%91%C6%B0%E1%BB%A3c%20d%C3%B2ng%20ti%E1%BB%81n%20l%C3%A0%20c%C3%A1nh%20c%E1%BB%ADa%20%C4%91%E1%BB%83%20%C4%91%E1%BA%A1t%20%C4%91%C6%B0%E1%BB%A3c%20%C6%B0%E1%BB%9Bc%20m%C6%A1%20thay%20%C4%91%E1%BB%95i%20cu%E1%BB%99c%20s%E1%BB%91ng.md). Người đang quay cuồng vì tiền thì sẽ tiếp nhận ý tưởng về các nền kinh tế thay thế như thế nào? Nó sẽ trả tiền điện, nước cho gia đình thế nào? Ngăn mấy đứa đòi nợ đến nhà làm phiền ra sao? Chữa trị bệnh ung thư của cha mẹ thế nào? Đem đến cho con mình một nền giáo dục tử tế như thế nào? Hay rốt cuộc nó vẫn là dành cho những nhóm may mắn hơn?
+[Việc có được dòng tiền là cánh cửa để đạt được ước mơ thay đổi cuộc sống](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Ni%E1%BB%81m%20tin,%20di%E1%BB%85n%20ng%C3%B4n/Ti%E1%BB%81n/Ngh%C3%A8o/Vi%E1%BB%87c%20c%C3%B3%20%C4%91%C6%B0%E1%BB%A3c%20d%C3%B2ng%20ti%E1%BB%81n%20l%C3%A0%20c%C3%A1nh%20c%E1%BB%ADa%20%C4%91%E1%BB%83%20%C4%91%E1%BA%A1t%20%C4%91%C6%B0%E1%BB%A3c%20%C6%B0%E1%BB%9Bc%20m%C6%A1%20thay%20%C4%91%E1%BB%95i%20cu%E1%BB%99c%20s%E1%BB%91ng.md). Người đang quay cuồng vì tiền thì sẽ tiếp nhận ý tưởng về các nền kinh tế thay thế như thế nào? Nó sẽ trả tiền điện, nước cho gia đình thế nào? Ngăn mấy đứa đòi nợ đến nhà làm phiền ra sao? Chữa trị bệnh ung thư của cha mẹ thế nào? Đem đến cho con mình một nền giáo dục tử tế như thế nào? Hay rốt cuộc nó vẫn là dành cho những nhóm may mắn hơn?
 
 mình có nhiều ý tưởng kiếm tiền, và cần thuê người làm. Có vẻ việc nào mình cũng đều trả công cao hơn thị trường một chút, nên đúng là giúp mình còn giúp được nhiều người khác thật. Nhưng dưới con mắt mác xít thì liệu như vậy là đã ổn không? Nhật đã thử vài lần đề cập việc trả bằng cổ phần chứ không phải là lương thì mình đều có ý né tránh. Đồng ý là khi còn nghèo thì mình thông cảm được, nhưng giả sử như đã thoát nghèo rồi thì có nên tiếp tục kỳ vọng mình trả bằng cổ phần hay không? Hay là tặc lưỡi bảo tư bản thân tả là tốt rồi?
 
@@ -68,7 +68,7 @@ Mỗi người có một trải nghiệm khác nhau, việc ép như vậy là s
 Cũng phải thừa nhận là hiện tại chỉ có những người may mắn mới đủ khả năng để tham gia vào các hình thức kinh tế thay thế đó
 
 Có thể là nghèo, nhưng vẫn may mắn ko phải chứng kiến tổn thương nhiều
-[Muốn thoát nghèo cần dòng tiền, chứ không phải là làm công ăn lương](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Ni%E1%BB%81m%20tin,%20di%E1%BB%85n%20ng%C3%B4n/Ti%E1%BB%81n/Gi%C3%A0u,%20ngh%C3%A8o/Mu%E1%BB%91n%20tho%C3%A1t%20ngh%C3%A8o%20c%E1%BA%A7n%20d%C3%B2ng%20ti%E1%BB%81n,%20ch%E1%BB%A9%20kh%C3%B4ng%20ph%E1%BA%A3i%20l%C3%A0%20l%C3%A0m%20c%C3%B4ng%20%C4%83n%20l%C6%B0%C6%A1ng.md)
+[Muốn thoát nghèo cần dòng tiền, chứ không phải là làm công ăn lương](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Ni%E1%BB%81m%20tin,%20di%E1%BB%85n%20ng%C3%B4n/Ti%E1%BB%81n/Ngh%C3%A8o/Mu%E1%BB%91n%20tho%C3%A1t%20ngh%C3%A8o%20c%E1%BA%A7n%20d%C3%B2ng%20ti%E1%BB%81n,%20ch%E1%BB%A9%20kh%C3%B4ng%20ph%E1%BA%A3i%20l%C3%A0%20l%C3%A0m%20c%C3%B4ng%20%C4%83n%20l%C6%B0%C6%A1ng.md)
 Đôi mắt vừa đầy tình cảm mà cũng vừa lạnh. 
 Chịu đau khổ nhiều và luôn quay sang chỉ trích đặc quyền. Nhưng nó còn ko phải là Vấn đề tư duy người nghèo làm họ ko thoát đc
 Xem việc sống đơn giản, vừa đủ là nghèo khó
