@@ -1,0 +1,9 @@
+---
+share: true
+created: 2025-04-08T23:57
+updated: 2026-04-15T20:38
+---
+Ví dụ như với [FE Credit](../../T%C3%A0i%20ch%C3%ADnh/T%C3%ADn%20d%E1%BB%A5ng/T%C3%ADn%20d%E1%BB%A5ng%20t%C6%B0%20b%E1%BA%A3n/T%E1%BB%95%20ch%E1%BB%A9c%20c%E1%BB%A5%20th%E1%BB%83/C%C3%B4ng%20ty%20t%C3%A0i%20ch%C3%ADnh%20ti%C3%AAu%20d%C3%B9ng/FE%20Credit/index.md), người ta vẫn sợ nó lừa đảo dù nó hợp pháp hoàn toàn. (Thực ra thì [Làm đúng luật không có nghĩa là không có thao túng. Có nhiều cái lừa đảo vẫn đúng luật](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%C4%90%E1%BA%A1o%20%C4%91%E1%BB%A9c,%20ph%C3%A1p%20lu%E1%BA%ADt/Lu%E1%BA%ADt,%20nh%C3%A0%20n%C6%B0%E1%BB%9Bc/L%C3%A0m%20%C4%91%C3%BAng%20lu%E1%BA%ADt%20kh%C3%B4ng%20c%C3%B3%20ngh%C4%A9a%20l%C3%A0%20kh%C3%B4ng%20c%C3%B3%20thao%20t%C3%BAng.%20C%C3%B3%20nhi%E1%BB%81u%20c%C3%A1i%20l%E1%BB%ABa%20%C4%91%E1%BA%A3o%20v%E1%BA%ABn%20%C4%91%C3%BAng%20lu%E1%BA%ADt.md)) Bọn lừa đảo lợi dụng chính điểm yếu đó của người dân để lập ra đống website giả. Lừa được người dân tin rằng bọn chúng thực sự là nhân viên FE cũng tốt, nhưng nếu cần thì cũng có thể dùng chính những trang này để thuyết phục họ rằng FE chỉ là bọn lừa đảo.
+
+[Người dân có thể không tin công ty tài chính, nhưng sẽ tin ngân hàng](../../T%C3%A0i%20ch%C3%ADnh/T%C3%ADn%20d%E1%BB%A5ng/T%C3%ADn%20d%E1%BB%A5ng%20t%C6%B0%20b%E1%BA%A3n/Vay%20n%E1%BB%A3/Ng%C6%B0%E1%BB%9Di%20d%C3%A2n%20c%C3%B3%20th%E1%BB%83%20kh%C3%B4ng%20tin%20c%C3%B4ng%20ty%20t%C3%A0i%20ch%C3%ADnh,%20nh%C6%B0ng%20s%E1%BA%BD%20tin%20ng%C3%A2n%20h%C3%A0ng.md)
+[Mọi người thường lẫn lộn công ty tài chính do ngân hàng lập ra với app đen](../../T%C3%A0i%20ch%C3%ADnh/T%C3%ADn%20d%E1%BB%A5ng/T%C3%ADn%20d%E1%BB%A5ng%20t%C6%B0%20b%E1%BA%A3n/Vay%20n%E1%BB%A3/M%E1%BB%8Di%20ng%C6%B0%E1%BB%9Di%20th%C6%B0%E1%BB%9Dng%20l%E1%BA%ABn%20l%E1%BB%99n%20c%C3%B4ng%20ty%20t%C3%A0i%20ch%C3%ADnh%20do%20ng%C3%A2n%20h%C3%A0ng%20l%E1%BA%ADp%20ra%20v%E1%BB%9Bi%20app%20%C4%91en.md)
