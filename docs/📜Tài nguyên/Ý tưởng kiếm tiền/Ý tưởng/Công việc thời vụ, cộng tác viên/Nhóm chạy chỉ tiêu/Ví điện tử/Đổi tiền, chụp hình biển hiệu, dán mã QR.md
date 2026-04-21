@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-12-19T11:32
+updated: 2026-03-28T17:27
 description: "Số tiền kiếm được: "
 ---
 Tính chất công việc:: [Làm ngoài đường](../../../../%C4%90%E1%BA%B7c%20%C4%91i%E1%BB%83m%20c%C3%B4ng%20vi%E1%BB%87c/N%C6%A1i%20l%C3%A0m%20vi%E1%BB%87c/L%C3%A0m%20ngo%C3%A0i%20%C4%91%C6%B0%E1%BB%9Dng.md)
