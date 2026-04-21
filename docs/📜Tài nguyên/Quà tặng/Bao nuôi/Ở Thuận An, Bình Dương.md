@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-01-13T08:42
-updated: 2025-12-19T10:28
+updated: 2026-04-02T16:41
 description: Chỉ cần chạy ngoài đường 30 phút/ngày, bạn sẽ được bao nuôi nhà cửa, thức ăn miễn phí. Thời gian còn lại là của bạn
 aliases:
   - Dịch vụ bao nuôi ở Thuận An
@@ -12,7 +12,7 @@ Với dịch vụ này, bạn:
 - Không phải trả tiền nhà (đã bao gồm điện, nước, wifi, rác)
 - Được ăn 3 bữa với chế độ dinh dưỡng theo yêu cầu. Đồ ăn sẽ tự động được đem đến, không phải lo nấu ăn gì
 - Có tiền xăng xe, cà phê nếu có công việc cần chạy về TP.HCM
-- [Được đóng bảo hiểm xã hội ngay đầu tháng](../../T%C3%ACnh%20h%C3%ACnh%20%E1%BB%9F%20Vi%E1%BB%87t%20Nam/Ng%C3%A0nh%20ngh%E1%BB%81%20c%E1%BB%A5%20th%E1%BB%83/T%C3%A0i%20ch%C3%ADnh/T%E1%BB%95%20ch%E1%BB%A9c%20t%C3%ADn%20d%E1%BB%A5ng/D%E1%BB%B1a%20tr%C3%AAn%20%C4%91i%E1%BB%83m%20t%C3%ADn%20d%E1%BB%A5ng/C%C3%B4ng%20ty%20t%C3%A0i%20ch%C3%ADnh%20ti%C3%AAu%20d%C3%B9ng/FE%20Credit/Nh%C3%A2n%20s%E1%BB%B1/%C4%90%C3%B3ng%20BHXH%20ngay%20%C4%91%E1%BA%A7u%20th%C3%A1ng.md)
+- [Được đóng bảo hiểm xã hội ngay đầu tháng](../../../%F0%9F%9B%96Ng%C3%A0nh%20ngh%E1%BB%81%20c%E1%BB%A5%20th%E1%BB%83/T%C3%A0i%20ch%C3%ADnh/T%C3%ADn%20d%E1%BB%A5ng/T%C3%ADn%20d%E1%BB%A5ng%20t%C6%B0%20b%E1%BA%A3n/T%E1%BB%95%20ch%E1%BB%A9c%20c%E1%BB%A5%20th%E1%BB%83/Ng%C3%A2n%20h%C3%A0ng/VPBank,%20FE%20%C4%91%C3%B3ng%20BHXH%20cho%20nh%C3%A2n%20vi%C3%AAn%20ngay%20%C4%91%E1%BA%A7u%20th%C3%A1ng%20th%E1%BB%AD%20vi%E1%BB%87c.md)
 
  Công việc của bạn sẽ là [làm nhân viên ảo FE](../../%C3%9D%20t%C6%B0%E1%BB%9Fng%20ki%E1%BA%BFm%20ti%E1%BB%81n/%C3%9D%20t%C6%B0%E1%BB%9Fng/C%C3%B4ng%20vi%E1%BB%87c%20th%E1%BB%9Di%20v%E1%BB%A5,%20c%E1%BB%99ng%20t%C3%A1c%20vi%C3%AAn/Nh%C3%B3m%20ch%E1%BA%A1y%20ch%E1%BB%89%20ti%C3%AAu/L%C3%A0m%20nh%C3%A2n%20s%E1%BB%B1%20%E1%BA%A3o/FE%20Credit.md), mất chừng 20 phút mỗi ngày. Ngoài thời gian đó thì bạn được làm công việc riêng của bạn. 
 
@@ -41,7 +41,7 @@ Tại sao lại chọn thành phố Thuận An? Vì đây là địa bàn hoạt
 Tại sao lại chọn phường Bình Hòa? Vì đây là phường bình dân nhất, cho nên có mức giá thấp và cũng có nhiều khách hàng của FE nhất.
 
 ## Công việc cần làm
-Bạn sẽ đóng vai một người xin vào làm cho công ty tài chính FE ở bộ phận xử lý tín dụng thực địa. Bạn sẽ được giao cho 190 hồ sơ khách hàng (ở đây thường gọi là cây, là Việt hoá của từ case). 190 cây này sẽ phân bố rải rác khắp các phường ở Thuận An. Nhiệm vụ của bạn là đến từng phường và báo cáo là mình đã đến gặp khách hàng (checkin), dù thực ra là không phải. Mỗi ngày phải checkin tối thiểu 13 cây. Cả tháng phải xong 190 cây. 
+Bạn sẽ đóng vai một người xin vào làm cho công ty tài chính FE ở bộ phận xử lý tín dụng thực địa. Bạn sẽ được giao cho 190 hồ sơ khách hàng (ở đây thường gọi là cây, là từ Việt hoá của "case"). 190 cây này sẽ phân bố rải rác khắp các phường ở Thuận An. Nhiệm vụ của bạn là đến từng phường và báo cáo là mình đã đến gặp khách hàng (checkin), dù thực ra là không phải. Mỗi ngày phải checkin tối thiểu 13 cây. Cả tháng phải xong 190 cây. 
 
 Bạn chỉ cần mỗi ngày đi bộ tầm 20 phút để checkin 13 cây. Chi tiết làm việc với app xem ở [Hướng dẫn dùng phần mềm iCollect](../../../%F0%9F%93%90D%E1%BB%B1%20%C3%A1n/Gi%C3%BAp%20nhau%20ki%E1%BA%BFm%20ti%E1%BB%81n/Ch%E1%BA%A1y%20ch%E1%BB%89%20ti%C3%AAu%20cho%20nh%C3%A2n%20vi%C3%AAn%20c%C3%B4ng%20ty/Ch%C6%A1i%20ch%C3%ADnh%20s%C3%A1ch/T%C3%A0i%20li%E1%BB%87u%20v%E1%BB%81%20t%E1%BB%ABng%20c%C3%B4ng%20ty/FE%20Credit/H%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn%20d%C3%B9ng%20ph%E1%BA%A7n%20m%E1%BB%81m%20iCollect.md). Đừng quên rằng trong giai đoạn mới nhận việc thì bạn sẽ mất nhiều thời gian để họp hành, làm quen hơn. 
 
