@@ -33,7 +33,7 @@ Với Cueball:
 
 ### Điều kiện, rủi ro cho mỗi bên
 Với Megan: 
-- Phải tin được là Cueball sẽ trả tiền lại cho mình. Có nơi sẽ yêu cầu Cueball mở một tài khoản ngân hàng riêng rồi cho mình đăng nhập vào đó. Tuy nhiên cần nhớ là [luật phạt từ 40tr khi cho thuê, mượn tài khoản ngân hàng](../../../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/T%C3%ACnh%20h%C3%ACnh%20%E1%BB%9F%20Vi%E1%BB%87t%20Nam/Lu%E1%BA%ADt,%20qu%E1%BA%A3n%20l%C3%BD%20nh%C3%A0%20n%C6%B0%E1%BB%9Bc/T%C3%A0i%20ch%C3%ADnh/Ti%E1%BB%81n%20t%E1%BB%87,%20ng%C3%A2n%20h%C3%A0ng/Ph%E1%BA%A1t%20t%E1%BB%AB%2040tr%20khi%20cho%20thu%C3%AA,%20m%C6%B0%E1%BB%A3n%20t%C3%A0i%20kho%E1%BA%A3n%20thanh%20to%C3%A1n.md).
+- Phải tin được là Cueball sẽ trả tiền lại cho mình. Có nơi sẽ yêu cầu Cueball mở một tài khoản ngân hàng riêng rồi cho mình đăng nhập vào đó. Tuy nhiên cần nhớ là [luật phạt từ 40tr khi cho thuê, mượn tài khoản ngân hàng](../../../../../%F0%9F%9B%96Ng%C3%A0nh%20ngh%E1%BB%81%20c%E1%BB%A5%20th%E1%BB%83/T%C3%A0i%20ch%C3%ADnh/T%C3%ADn%20d%E1%BB%A5ng/T%C3%ADn%20d%E1%BB%A5ng%20t%C6%B0%20b%E1%BA%A3n/Lu%E1%BA%ADt/Ph%E1%BA%A1t%20t%E1%BB%AB%2040tr%20khi%20cho%20thu%C3%AA,%20m%C6%B0%E1%BB%A3n%20t%C3%A0i%20kho%E1%BA%A3n%20thanh%20to%C3%A1n.md).
 
 Với Cueball:
 - Có những lúc công ty họp đột xuất hoặc đào tạo dài ngày thì phải sắp xếp thời gian chạy lên được. Có thể lâu lâu báo bận, nhưng làm nhiều thì cũng dễ bị sinh nghi
