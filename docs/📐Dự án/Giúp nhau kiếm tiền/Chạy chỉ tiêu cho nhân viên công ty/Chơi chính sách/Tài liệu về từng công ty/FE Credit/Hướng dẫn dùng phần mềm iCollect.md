@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-01-27T08:50
-updated: 2025-12-19T11:32
+updated: 2026-04-02T16:41
 ---
 
 Chọn kết quả khác
@@ -22,4 +22,4 @@ Sao chép số điện thoại vào bảng phân loại khách hàng. Nếu đã
 
 Sao chép số điện thoại vào bảng phân loại khách hàng. Nếu đã có nhiều lần tác động trước đây thì để vào cột. Nếu chưa có ai tác động trước đó thì để vào cột `Chưa ai tác động`. 
 
-[Vấn đề của hệ thống thông tin (iCollect)](../../../../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/T%C3%ACnh%20h%C3%ACnh%20%E1%BB%9F%20Vi%E1%BB%87t%20Nam/Ng%C3%A0nh%20ngh%E1%BB%81%20c%E1%BB%A5%20th%E1%BB%83/T%C3%A0i%20ch%C3%ADnh/T%E1%BB%95%20ch%E1%BB%A9c%20t%C3%ADn%20d%E1%BB%A5ng/D%E1%BB%B1a%20tr%C3%AAn%20%C4%91i%E1%BB%83m%20t%C3%ADn%20d%E1%BB%A5ng/C%C3%B4ng%20ty%20t%C3%A0i%20ch%C3%ADnh%20ti%C3%AAu%20d%C3%B9ng/FE%20Credit/Nh%C3%A2n%20s%E1%BB%B1/V%E1%BA%A5n%20%C4%91%E1%BB%81%20c%E1%BB%A7a%20h%E1%BB%87%20th%E1%BB%91ng%20th%C3%B4ng%20tin%20(iCollect).md)
+[Vấn đề của hệ thống thông tin (iCollect)](../../../../../../%F0%9F%9B%96Ng%C3%A0nh%20ngh%E1%BB%81%20c%E1%BB%A5%20th%E1%BB%83/T%C3%A0i%20ch%C3%ADnh/T%C3%ADn%20d%E1%BB%A5ng/T%C3%ADn%20d%E1%BB%A5ng%20t%C6%B0%20b%E1%BA%A3n/T%E1%BB%95%20ch%E1%BB%A9c%20c%E1%BB%A5%20th%E1%BB%83/C%C3%B4ng%20ty%20t%C3%A0i%20ch%C3%ADnh%20ti%C3%AAu%20d%C3%B9ng/FE%20Credit/Nh%C3%A2n%20s%E1%BB%B1/V%E1%BA%A5n%20%C4%91%E1%BB%81%20c%E1%BB%A7a%20h%E1%BB%87%20th%E1%BB%91ng%20th%C3%B4ng%20tin%20(iCollect).md)
