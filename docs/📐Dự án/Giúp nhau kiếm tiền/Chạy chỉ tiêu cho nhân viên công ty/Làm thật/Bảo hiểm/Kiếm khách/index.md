@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-09-17T11:13
-updated: 2025-12-19T11:32
+updated: 2026-04-08T17:32
 aliases:
   - bán bảo hiểm
   - thu hút khách hàng
@@ -18,9 +18,11 @@ Kiểm tra [Giả thiết về tỉ lệ chuyển đổi](../T%C3%A0i%20li%E1%BB
 [Xây dựng thương hiệu tự động trên MXH](../../../../../T%E1%BB%B1%20%C4%91%E1%BB%99ng%20ho%C3%A1/X%C3%A2y%20d%E1%BB%B1ng%20th%C6%B0%C6%A1ng%20hi%E1%BB%87u%20t%E1%BB%B1%20%C4%91%E1%BB%99ng%20tr%C3%AAn%20MXH.md)
 Đến [Những nơi giúp mở rộng mối quan hệ với doanh nghiệp](../../../../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/M%E1%BB%9F%20r%E1%BB%99ng%20m%E1%BB%91i%20quan%20h%E1%BB%87/Nh%E1%BB%AFng%20n%C6%A1i%20gi%C3%BAp%20m%E1%BB%9F%20r%E1%BB%99ng%20m%E1%BB%91i%20quan%20h%E1%BB%87%20v%E1%BB%9Bi%20doanh%20nghi%E1%BB%87p.md), 
 [Kế hoạch bán bảo hiểm cho cá nhân](./K%E1%BA%BF%20ho%E1%BA%A1ch%20b%C3%A1n%20b%E1%BA%A3o%20hi%E1%BB%83m%20cho%20c%C3%A1%20nh%C3%A2n.md)
+
 ### Làm cho khách hàng tin mình
 Cam kết không khai thác cảm xúc của họ và tạo gánh nặng trong suy nghĩ, mà chỉ muốn nâng đỡ lý tính họ. Làm cho họ thấy mình không sợ họ từ chối, và kể cả từ chối thì mình vẫn sẵn sàng lắng nghe và đáp ứng các nhu cầu khác của họ.
 
+[Làm cho thông điệp hấp dẫn và dễ hiểu](L%C3%A0m%20cho%20th%C3%B4ng%20%C4%91i%E1%BB%87p%20h%E1%BA%A5p%20d%E1%BA%ABn%20v%C3%A0%20d%E1%BB%85%20hi%E1%BB%83u.md): vẽ truyện tranh 
 ### Quà tặng khi mua
 - Mạng lưới kết nối nhu cầu
 - Các hệ thống tri thức để bạn có thể biết được thứ mình cần dù không biết chính xác từ khoá của nó
