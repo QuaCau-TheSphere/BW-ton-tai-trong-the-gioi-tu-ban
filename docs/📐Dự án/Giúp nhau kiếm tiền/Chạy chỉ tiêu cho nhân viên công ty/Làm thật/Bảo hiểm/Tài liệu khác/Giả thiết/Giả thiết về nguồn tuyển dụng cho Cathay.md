@@ -35,7 +35,7 @@ Nơi tiếp cận:
 - Trung tâm dạy nghề,
 - SocialLife, Thảo Đàn, IECD
 
-Khó khăn:: [Chỉ người cần tiền mới đi làm công việc bán hàng, nhưng việc trả tiền sau không làm cho họ muốn đi bán](../../../../../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/T%C3%ACnh%20h%C3%ACnh%20%E1%BB%9F%20Vi%E1%BB%87t%20Nam/Ng%C3%A0nh%20ngh%E1%BB%81%20c%E1%BB%A5%20th%E1%BB%83/T%C3%A0i%20ch%C3%ADnh/B%E1%BA%A3o%20hi%E1%BB%83m/Nh%C3%A2n%20s%E1%BB%B1/Cathay/Ch%E1%BB%89%20ng%C6%B0%E1%BB%9Di%20c%E1%BA%A7n%20ti%E1%BB%81n%20m%E1%BB%9Bi%20%C4%91i%20l%C3%A0m%20c%C3%B4ng%20vi%E1%BB%87c%20b%C3%A1n%20h%C3%A0ng,%20nh%C6%B0ng%20vi%E1%BB%87c%20tr%E1%BA%A3%20ti%E1%BB%81n%20sau%20kh%C3%B4ng%20l%C3%A0m%20cho%20h%E1%BB%8D%20mu%E1%BB%91n%20%C4%91i%20b%C3%A1n.md)
+Khó khăn:: [Chỉ người cần tiền mới đi làm công việc bán hàng, nhưng việc trả tiền sau không làm cho họ muốn đi bán](../../../../../../../%F0%9F%9B%96Ng%C3%A0nh%20ngh%E1%BB%81%20c%E1%BB%A5%20th%E1%BB%83/T%C3%A0i%20ch%C3%ADnh/B%E1%BA%A3o%20hi%E1%BB%83m/Ch%C3%ADnh%20s%C3%A1ch%20c%C3%B4ng%20ty/Nh%C3%A2n%20s%E1%BB%B1/Cathay/Ch%E1%BB%89%20ng%C6%B0%E1%BB%9Di%20c%E1%BA%A7n%20ti%E1%BB%81n%20m%E1%BB%9Bi%20%C4%91i%20l%C3%A0m%20c%C3%B4ng%20vi%E1%BB%87c%20b%C3%A1n%20h%C3%A0ng,%20nh%C6%B0ng%20vi%E1%BB%87c%20tr%E1%BA%A3%20ti%E1%BB%81n%20sau%20kh%C3%B4ng%20l%C3%A0m%20cho%20h%E1%BB%8D%20mu%E1%BB%91n%20%C4%91i%20b%C3%A1n.md)
 
 Người nghèo tưởng là phù hợp nhưng thực ra là không.
 
@@ -46,7 +46,7 @@ Khó khăn:: Họ có nhiều mối quan hệ để có thể làm tốt không?
 [Mở rộng mối quan hệ](../../../../../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/M%E1%BB%9F%20r%E1%BB%99ng%20m%E1%BB%91i%20quan%20h%E1%BB%87/index.md)
 
 ### Người thuộc dạng làm được nhưng hay bị nản, cần người cùng đồng hành
-[Chủ quản bị rà soát rất gắt gao trong việc đào tạo và hỗ trợ người mới](../../../../../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/T%C3%ACnh%20h%C3%ACnh%20%E1%BB%9F%20Vi%E1%BB%87t%20Nam/Ng%C3%A0nh%20ngh%E1%BB%81%20c%E1%BB%A5%20th%E1%BB%83/T%C3%A0i%20ch%C3%ADnh/B%E1%BA%A3o%20hi%E1%BB%83m/Nh%C3%A2n%20s%E1%BB%B1/Cathay/Minh%20b%E1%BA%A1ch%20v%C3%A0%20r%C3%A0ng%20bu%E1%BB%99c/Ch%E1%BB%A7%20qu%E1%BA%A3n%20b%E1%BB%8B%20r%C3%A0%20so%C3%A1t%20r%E1%BA%A5t%20g%E1%BA%AFt%20gao%20trong%20vi%E1%BB%87c%20%C4%91%C3%A0o%20t%E1%BA%A1o%20v%C3%A0%20h%E1%BB%97%20tr%E1%BB%A3%20ng%C6%B0%E1%BB%9Di%20m%E1%BB%9Bi.md)
+[Chủ quản bị rà soát rất gắt gao trong việc đào tạo và hỗ trợ người mới](../../../../../../../%F0%9F%9B%96Ng%C3%A0nh%20ngh%E1%BB%81%20c%E1%BB%A5%20th%E1%BB%83/T%C3%A0i%20ch%C3%ADnh/B%E1%BA%A3o%20hi%E1%BB%83m/Ch%C3%ADnh%20s%C3%A1ch%20c%C3%B4ng%20ty/Nh%C3%A2n%20s%E1%BB%B1/Cathay/Minh%20b%E1%BA%A1ch%20v%C3%A0%20r%C3%A0ng%20bu%E1%BB%99c/Ch%E1%BB%A7%20qu%E1%BA%A3n%20b%E1%BB%8B%20r%C3%A0%20so%C3%A1t%20r%E1%BA%A5t%20g%E1%BA%AFt%20gao%20trong%20vi%E1%BB%87c%20%C4%91%C3%A0o%20t%E1%BA%A1o%20v%C3%A0%20h%E1%BB%97%20tr%E1%BB%A3%20ng%C6%B0%E1%BB%9Di%20m%E1%BB%9Bi.md)
 
 ### Người cần thời gian linh hoạt 
 - Người cần chăm người thân nằm bệnh viện hoặc có con cái nhỏ

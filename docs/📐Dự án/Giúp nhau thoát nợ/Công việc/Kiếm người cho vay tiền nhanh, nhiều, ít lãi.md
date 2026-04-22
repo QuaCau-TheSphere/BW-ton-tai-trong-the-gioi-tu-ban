@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2026-02-03T15:42
+updated: 2026-03-24T14:13
 ---
 Bài này giả định rằng bạn đã đọc bài [Xù nợ ngân hàng](../T%C3%A0i%20li%E1%BB%87u/X%C3%B9%20n%E1%BB%A3%20ng%C3%A2n%20h%C3%A0ng.md), và thấy rằng vẫn muốn giữ điểm tín dụng vì lý do 2 (không muốn người thân bị làm phiền) hoặc 6 (muốn lợi dụng hệ thống tư bản) vẫn còn đủ mạnh.
 
@@ -9,7 +9,7 @@ Khi bị rơi vào vòng xoáy nợ nần thì ai cũng muốn có tiền nhanh,
 
 
 1 người kiếm 100tr thì khó, nhưng 25 người cho vay 4tr thì khả thi hơn
-[Đứng ra vay giùm, cho mượn tài sản thế chấp](./%C4%90%E1%BB%A9ng%20ra%20vay%20gi%C3%B9m,%20cho%20m%C6%B0%E1%BB%A3n%20t%C3%A0i%20s%E1%BA%A3n%20th%E1%BA%BF%20ch%E1%BA%A5p.md)
+[Đứng ra bảo lãnh, vay giùm, cho mượn tài sản thế chấp](./%C4%90%E1%BB%A9ng%20ra%20b%E1%BA%A3o%20l%C3%A3nh,%20vay%20gi%C3%B9m,%20cho%20m%C6%B0%E1%BB%A3n%20t%C3%A0i%20s%E1%BA%A3n%20th%E1%BA%BF%20ch%E1%BA%A5p.md)
 Cơ bản cũng vẫn là phát hành trái phiếu. Huy động từ người tin tưởng mình. 
 
 Những người quan tâm đến bạn nên ngồi lại với nhau

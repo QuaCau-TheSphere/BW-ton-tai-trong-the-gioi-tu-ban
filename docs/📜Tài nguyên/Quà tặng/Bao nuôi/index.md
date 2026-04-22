@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-05-05T20:22
-updated: 2025-12-19T10:28
+updated: 2026-03-25T13:27
 title: Bao nuôi
 ---
 Thường thì việc bao nuôi sẽ được cung cấp bởi những người cần tìm người [Làm nhân sự ảo](../../../%F0%9F%93%90D%E1%BB%B1%20%C3%A1n/Gi%C3%BAp%20nhau%20ki%E1%BA%BFm%20ti%E1%BB%81n/Ch%E1%BA%A1y%20ch%E1%BB%89%20ti%C3%AAu%20cho%20nh%C3%A2n%20vi%C3%AAn%20c%C3%B4ng%20ty/Ch%C6%A1i%20ch%C3%ADnh%20s%C3%A1ch/L%C3%A0m%20nh%C3%A2n%20s%E1%BB%B1%20%E1%BA%A3o/index.md). Một số công việc biết được:

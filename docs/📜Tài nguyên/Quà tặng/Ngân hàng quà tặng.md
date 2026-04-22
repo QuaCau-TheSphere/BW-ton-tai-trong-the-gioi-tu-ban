@@ -1,6 +1,6 @@
 ---
 share: true
-updated: 2026-01-07T19:47
+updated: 2026-03-25T13:05
 description: Thử nghiệm trong việc tư duy lại hệ thống kinh tế và tiền tệ
 created: 2025-08-31T16:59
 aliases:

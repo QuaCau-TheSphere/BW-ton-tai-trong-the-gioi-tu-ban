@@ -1,11 +1,12 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2026-01-12T11:48
+updated: 2026-04-15T20:52
 aliases:
   - Lê Ngọc Biết
+  - VNC
 ---
-[Dịch vụ đáo rút thẻ](../../../../../T%C3%ACnh%20h%C3%ACnh%20%E1%BB%9F%20Vi%E1%BB%87t%20Nam/Ng%C3%A0nh%20ngh%E1%BB%81%20c%E1%BB%A5%20th%E1%BB%83/T%C3%A0i%20ch%C3%ADnh/T%E1%BB%95%20ch%E1%BB%A9c%20t%C3%ADn%20d%E1%BB%A5ng/D%E1%BB%B1a%20tr%C3%AAn%20%C4%91i%E1%BB%83m%20t%C3%ADn%20d%E1%BB%A5ng/D%E1%BB%8Bch%20v%E1%BB%A5%20%C4%91%C3%A1o%20r%C3%BAt%20th%E1%BA%BB/index.md)
+[Đáo rút thẻ tín dụng](../../../../../../%F0%9F%9B%96Ng%C3%A0nh%20ngh%E1%BB%81%20c%E1%BB%A5%20th%E1%BB%83/T%C3%A0i%20ch%C3%ADnh/T%C3%ADn%20d%E1%BB%A5ng/T%C3%ADn%20d%E1%BB%A5ng%20t%C6%B0%20b%E1%BA%A3n/D%E1%BB%8Bch%20v%E1%BB%A5%20ph%C3%A1i%20sinh/%C4%90%C3%A1o%20r%C3%BAt%20th%E1%BA%BB%20t%C3%ADn%20d%E1%BB%A5ng/index.md)
 
 | Tên cơ sở    | Địa chỉ                 | Phí rút | Phí đáo | Ưu đãi   |
 | ------------ | ----------------------- | ------- | ------- | -------- |
@@ -13,7 +14,6 @@ aliases:
 |              | 297 Ngô Gia Tự          | 1.6     | 1.6     |          |
 Các ngày 4, 5, 10, 15 là ngày cao điểm. Ra có khi phải chờ lâu 
 
-## Đánh giá một số dịch vụ rút đáo 
 ## Nghi ngờ lừa đảo
 ### Lê Ngọc Biết
 #### Chính sách ban đầu
@@ -41,6 +41,8 @@ SĐT: 0909 205 202
 Nhân viên dùng nick của Biết, nhưng khi hỏi về chính sách thì lại nói có gì hỏi trực tiếp Biết chứ tụi em không biết
 
 Tới tháng 12/2025 thì ko còn thuê ở Q4 nữa. Nhắn cho Bảo thì chỉ dẫn tới tiệm khác
+
+Sau đó nhắn thì không trả lời gì thêm
 
 ## Nơi thảo luận
 ![](https://imagizer.imageshack.com/a/img923/1273/jQAnX6.png)

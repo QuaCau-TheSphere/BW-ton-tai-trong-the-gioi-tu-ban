@@ -36,4 +36,4 @@ gian mạng.
   - Doanh nghiệp e ngại báo cáo vi phạm vì lo ngại ảnh hưởng đến danh tiếng.
   - Nạn nhân cá nhân có thể không biết cách báo cáo hoặc sợ hậu quả tâm lý.
 
-Nguồn:: [Social engineering: Tâm lý học và cách thức tấn công](./Gi%E1%BA%A3%20m%E1%BA%A1o,%20l%E1%BB%ABa%20%C4%91%E1%BA%A3o/Social%20engineering.md)
+Nguồn:: [Social engineering: Tâm lý học và cách thức tấn công](../../../%F0%9F%9B%96Ng%C3%A0nh%20ngh%E1%BB%81%20c%E1%BB%A5%20th%E1%BB%83/Kh%C3%A1c/Gi%E1%BA%A3%20m%E1%BA%A1o,%20l%E1%BB%ABa%20%C4%91%E1%BA%A3o/Social%20engineering.md)

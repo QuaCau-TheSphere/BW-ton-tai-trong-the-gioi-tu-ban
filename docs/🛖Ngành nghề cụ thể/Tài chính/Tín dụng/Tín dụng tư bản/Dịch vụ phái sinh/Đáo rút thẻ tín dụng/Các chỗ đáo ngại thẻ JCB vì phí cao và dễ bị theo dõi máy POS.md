@@ -1,0 +1,22 @@
+---
+share: true
+created: 2025-04-20T22:56
+updated: 2026-03-28T16:51
+---
+Khái niệm:: [Máy cà thẻ](../../../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/T%C3%ADn%20d%E1%BB%A5ng/M%C3%A1y%20c%C3%A0%20th%E1%BA%BB.md)
+Nguồn:: [ĐHMT](../../../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Ngu%E1%BB%93n/%C4%90HMT.md)
+
+[Thẻ JCB chỉ phục vụ trực tiếp cho việc ăn ở nhà hàng](../../T%E1%BB%95%20ch%E1%BB%A9c%20c%E1%BB%A5%20th%E1%BB%83/Ng%C3%A2n%20h%C3%A0ng/Ch%C3%ADnh%20s%C3%A1ch%20cho%20vay/Th%E1%BA%BB%20JCB%20ch%E1%BB%89%20ph%E1%BB%A5c%20v%E1%BB%A5%20tr%E1%BB%B1c%20ti%E1%BA%BFp%20cho%20vi%E1%BB%87c%20%C4%83n%20%E1%BB%9F%20nh%C3%A0%20h%C3%A0ng.md)
+
+Nhưng đáo thẻ nào thì máy cũng bị theo dõi hết mà? Còn phí thì cứ đẩy cho khách hàng thôi? 
+[Dịch vụ đáo lấy 2% là sát rồi](./D%E1%BB%8Bch%20v%E1%BB%A5%20%C4%91%C3%A1o%20l%E1%BA%A5y%202%25%20l%C3%A0%20s%C3%A1t%20r%E1%BB%93i.md)
+
+1 máy pos nó có hạn mức charged + số tiền charge. ví dụ 1 máy pos cho cửa hàng xăng dầu nó có thể charge 5 tỷ/ ngày. nhưng 1 máy pos cửa hàng tiện lợi thì chỉ có thể tầm 300tr/ ngày
+nếu thằng  làm đáo (ko biết việc này) thì khi charged quá hạn mức máy pos, nó sẽ red flag cho máy pos, và các thẻ charged trong máy pos đó
+những chỗ làm chuyên nghiệp, họ biết điều này, nó họ sẽ rotate máy pos. nhưng những chỗ nhỏ lẻ họ ko biết, hoặc ko đủ nguồn lực làm điều này
+
+ý em là cái chỗ làm 1.5% này nó ko xoay vòng máy đc nên sẽ làm ngân hàng cắt thẻ của em?
+
+ko, ý em là sẽ ko biết được bên nào legit
+vì a sẽ ko biết máy pos bên nào có bị red flag hay ko, trừ khi a đã sử dụng dịch vụ của họ trong 1 thời gian đủ dài
+như các thẻ khó đáo như [OCB, VPBank, TPBank là các thẻ khó đáo, vì không chuyển tiền trực tiếp vào thẻ được mà phải vào app](./OCB,%20VPBank,%20TPBank%20l%C3%A0%20c%C3%A1c%20th%E1%BA%BB%20kh%C3%B3%20%C4%91%C3%A1o,%20v%C3%AC%20kh%C3%B4ng%20chuy%E1%BB%83n%20ti%E1%BB%81n%20tr%E1%BB%B1c%20ti%E1%BA%BFp%20v%C3%A0o%20th%E1%BA%BB%20%C4%91%C6%B0%E1%BB%A3c%20m%C3%A0%20ph%E1%BA%A3i%20v%C3%A0o%20app.md), mà vẫn có thể đáo bt trong nhiều năm thì rõ ràng họ đã chứng minh năng lực của mình
