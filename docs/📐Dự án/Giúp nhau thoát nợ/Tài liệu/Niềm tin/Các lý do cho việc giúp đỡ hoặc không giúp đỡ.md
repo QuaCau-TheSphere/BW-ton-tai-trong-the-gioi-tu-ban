@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-11-02T00:57
-updated: 2026-02-02T18:10
+updated: 2026-03-28T14:12
 aliases:
   - được và mất
   - cân nhắc lợi hại
@@ -48,7 +48,7 @@ Xem thêm:: [Các khó khăn của người cần vay và lý do từ chối cho
 ❓Có những cái ban đầu thấy tệ, nhưng sau đó lại thấy có ý nghĩa. Đó là sự thoả hiệp và đánh mất con người thật của mình, hay là thấy được những điều mình trước đây mình đã không thấy?
 
 ### Thấy vượt qua khả năng của mình
-- Thấy [lo cho thân mình còn chưa xong thì lo cho ai](../../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Ni%E1%BB%81m%20tin,%20di%E1%BB%85n%20ng%C3%B4n/C%C3%A1%20nh%C3%A2n/Lo%20cho%20th%C3%A2n%20m%C3%ACnh%20c%C3%B2n%20ch%C6%B0a%20xong%20th%C3%AC%20lo%20cho%20ai.md)
+- Thấy [Lo cho thân mình còn chưa xong thì lo cho ai](../../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Ni%E1%BB%81m%20tin,%20di%E1%BB%85n%20ng%C3%B4n/C%C3%A1%20nh%C3%A2n/Lo%20cho%20th%C3%A2n%20m%C3%ACnh%20c%C3%B2n%20ch%C6%B0a%20xong%20th%C3%AC%20lo%20cho%20ai.md)
 - Thấy còn nhiều trách nhiệm với những người khác 
 
 ❓[Con người thường không biết được năng lực của mình? Khi bị ép vào đường cùng họ sẽ làm được những điều đến chính họ cũng ngạc nhiên?](../../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Ni%E1%BB%81m%20tin,%20di%E1%BB%85n%20ng%C3%B4n/Th%C3%A1ch%20th%E1%BB%A9c,%20%C4%91am%20m%C3%AA,%20ph%C3%A1t%20tri%E1%BB%83n%20b%E1%BA%A3n%20th%C3%A2n/Con%20ng%C6%B0%E1%BB%9Di%20th%C6%B0%E1%BB%9Dng%20kh%C3%B4ng%20bi%E1%BA%BFt%20%C4%91%C6%B0%E1%BB%A3c%20n%C4%83ng%20l%E1%BB%B1c%20c%E1%BB%A7a%20m%C3%ACnh.%20Khi%20b%E1%BB%8B%20%C3%A9p%20v%C3%A0o%20%C4%91%C6%B0%E1%BB%9Dng%20c%C3%B9ng%20h%E1%BB%8D%20s%E1%BA%BD%20l%C3%A0m%20%C4%91%C6%B0%E1%BB%A3c%20nh%E1%BB%AFng%20%C4%91i%E1%BB%81u%20%C4%91%E1%BA%BFn%20ch%C3%ADnh%20h%E1%BB%8D%20c%C5%A9ng%20ng%E1%BA%A1c%20nhi%C3%AAn.md) 
