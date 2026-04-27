@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-12-04T11:08
-updated: 2025-12-19T15:12
+updated: 2026-04-02T13:28
 aliases:
   - Các lý do khiến cho một người khó mở lời hỏi mượn tiền người xung quanh
 ---
@@ -20,7 +20,7 @@ aliases:
 - Gặp lời khuyên rằng mình cũng không nên giúp
 - Sợ làm mối quan hệ trở nên khó xử, đặc biệt là khi có cơ sở để thấy bị từ chối
 
-Xem thêm:: [Đứng ra vay giùm, cho mượn tài sản thế chấp](../C%C3%B4ng%20vi%E1%BB%87c/%C4%90%E1%BB%A9ng%20ra%20vay%20gi%C3%B9m,%20cho%20m%C6%B0%E1%BB%A3n%20t%C3%A0i%20s%E1%BA%A3n%20th%E1%BA%BF%20ch%E1%BA%A5p.md)
+Xem thêm:: [Đứng ra bảo lãnh, vay giùm, cho mượn tài sản thế chấp](../C%C3%B4ng%20vi%E1%BB%87c/%C4%90%E1%BB%A9ng%20ra%20b%E1%BA%A3o%20l%C3%A3nh,%20vay%20gi%C3%B9m,%20cho%20m%C6%B0%E1%BB%A3n%20t%C3%A0i%20s%E1%BA%A3n%20th%E1%BA%BF%20ch%E1%BA%A5p.md)
 
 ## Lý do từ chối cho vay
 ### Lý do về tiền
@@ -44,3 +44,8 @@ Xem thêm:: [Đứng ra vay giùm, cho mượn tài sản thế chấp](../C%C3%
 
 ## Nơi thảo luận
 ![](https://imagizer.imageshack.com/a/img923/1273/jQAnX6.png)
+
+tư duy khan hiếm
+Cạnh tranh dịch vụ
+Tỉ lệ thất bại của các dự án mạng lưới
+Với mỗi cá nhân, tạo thành một nhóm những người quan tâm đến cuộc sống của cá nhân đó
