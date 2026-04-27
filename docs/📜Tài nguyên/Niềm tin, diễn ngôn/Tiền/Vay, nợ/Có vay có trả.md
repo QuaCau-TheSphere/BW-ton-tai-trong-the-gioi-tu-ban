@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-01-29T19:12
-updated: 2025-12-19T11:32
+updated: 2026-04-15T07:26
 aliases:
   - Đời có vay có trả
   - Mình lấy được của họ lúc này thì họ sẽ lấy lại của mình vào lúc khác
