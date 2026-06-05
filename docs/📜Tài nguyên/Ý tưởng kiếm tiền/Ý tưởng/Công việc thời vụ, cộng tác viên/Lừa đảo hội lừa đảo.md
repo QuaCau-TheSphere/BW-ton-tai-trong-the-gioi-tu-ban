@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2026-02-03T13:29
+updated: 2026-05-12T00:58
 aliases:
   - Trục lợi bọn trục lợi
 ---
@@ -20,7 +20,7 @@ Với khách hàng US/UK thì tụi nó mồi tới 50-70$ mỗi lần. Và than
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6nfGwSw-I14?si=kSwo_qgduxYViw0h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 ## Mô tả chi tiết
 ## Thông tin thêm
-[Cảnh giác lừa đảo, trục lợi, tham ô](../../../C%E1%BA%A3nh%20gi%C3%A1c%20l%E1%BB%ABa%20%C4%91%E1%BA%A3o,%20tr%E1%BB%A5c%20l%E1%BB%A3i,%20tham%20%C3%B4/index.md)
+[Cảnh giác lừa đảo](../../../../%F0%9F%92%B8H%C3%ACnh%20th%E1%BB%A9c%20ki%E1%BA%BFm%20ti%E1%BB%81n/Thi%E1%BA%BFu%20li%C3%AAm%20ch%C3%ADnh/C%E1%BA%A3nh%20gi%C3%A1c%20l%E1%BB%ABa%20%C4%91%E1%BA%A3o/index.md)
 
 ### Vấn đề đạo đức
 Đây là số tiền mà họ đi lừa người khác để có được. Có hợp lẽ nếu mình sử dụng số tiền đó để giúp người khác? Về mặt luật pháp thì chắc vẫn còn cần thêm bằng chứng để có thể nói là mình không rửa tiền, nhưng ở đây chỉ bàn về đạo đức.
