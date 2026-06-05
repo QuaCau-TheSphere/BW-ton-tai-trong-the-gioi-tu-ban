@@ -1,16 +1,25 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2026-06-05T16:58
+updated: 2026-06-05T18:39
 ---
 ## Thị trường & đối thủ cạnh tranh
+
 ## Đối tượng phục vụ 
+Những người muốn:
+- Vượt qua được sự hoang mang khi không biết mình cần phải bắt đầu từ đâu
+- Không còn thấy ngộp bởi quá nhiều thuật ngữ khi tự tìm hiểu
+- Không còn thấy việc lập trình giống như làm phép thuật, là một thứ kỳ diệu mình không bao giờ hiểu được
+- Hiểu cách lập trình viên tư duy và cách các hệ thống vận hành hơn là viết code thành thạo (vì bạn chỉ muốn làm xong việc của bạn chứ không có ý định kiếm tiền, kiếm việc từ nó)
 
 ## Hiểu biết sâu
-[Vay ngang hàng](../../../../../%F0%9F%9B%96Ng%C3%A0nh%20ngh%E1%BB%81%20c%E1%BB%A5%20th%E1%BB%83/T%C3%A0i%20ch%C3%ADnh/T%C3%ADn%20d%E1%BB%A5ng/T%C3%ADn%20d%E1%BB%A5ng%20t%C6%B0%20b%E1%BA%A3n/Vay%20n%E1%BB%A3/Kh%C3%B4ng%20d%E1%BB%B1a%20tr%C3%AAn%20%C4%91i%E1%BB%83m%20t%C3%ADn%20d%E1%BB%A5ng/Vay%20ngang%20h%C3%A0ng/index.md)
 
 ## Chiến lược tiếp cận
+Thông qua các nhóm như Thành phố học tập để giới thiệu
+
 ## Sản phẩm, giải pháp 
+[Các buổi đáp ứng nhu cầu học cách sử dụng công cụ và tư duy lập trình cho nhu cầu công việc - Obsidian, quản lý dự án và công cụ nghĩ](https://doi-thoai.deno.dev/1Cy.7Q.1)
+
 ## Thành quả mong muốn
 ## Vai trò thương hiệu
 Nhật giúp ghi chép, tổng hợp thông tin, hoặc chia sẻ kiến thức, trải nghiệm. Xem chi tiết tại [Lời mời sử dụng nguồn lực của Nhật](https://doi-thoai.deno.dev/6_.7O.1)
