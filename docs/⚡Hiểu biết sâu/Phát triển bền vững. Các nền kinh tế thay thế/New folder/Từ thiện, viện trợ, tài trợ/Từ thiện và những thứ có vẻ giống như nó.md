@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2026-05-12T01:10
+updated: 2026-06-05T14:35
 aliases:
   - Sự khác biệt giữa từ thiện, kinh tế quà tặng, trả cho người sau, làm việc vừa sức, dựa vào cộng đồng, gọi vốn cộng đồng, ưu tiên việc khẩn cấp, giúp người không tự giúp mình được, thu nhập cơ bản vô điều kiện
   - Các hình thức cho tiền
@@ -51,7 +51,7 @@ Hành động dựa trên thống kê
 
 Là cách đơn giản nhất để giúp người không tự giúp mình được và không đáp ứng nhu cầu cộng đồng một cách nhanh nhất và dễ vừa sức
 Y học, CTXH là việc giúp người không thể tự giúp mình
-Trẻ em nghèo, [Người khuyết tật](../../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/V%C3%AC%20ng%C6%B0%E1%BB%9Di%20y%E1%BA%BFu%20th%E1%BA%BF/Ng%C6%B0%E1%BB%9Di%20khuy%E1%BA%BFt%20t%E1%BA%ADt.md) sẽ tạo thành cộng đồng hỗ trợ lẫn nhau thế nào?
+Trẻ em nghèo, [Người khuyết tật](../../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/H%E1%BB%97%20tr%E1%BB%A3%20ng%C6%B0%E1%BB%9Di%20y%E1%BA%BFu%20th%E1%BA%BF/Ng%C6%B0%E1%BB%9Di%20khuy%E1%BA%BFt%20t%E1%BA%ADt.md) sẽ tạo thành cộng đồng hỗ trợ lẫn nhau thế nào?
 Đợi đến lúc có được thì chết hết
 Mua đồ bán hàng từ thiện, thì là họ đang muốn tự đứng trên đôi chân của mình chứ có muốn lệ thuộc ai đâu
 
