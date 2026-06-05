@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-05-30T16:07
-updated: 2025-12-19T11:32
+updated: 2026-05-03T12:41
 slug: ẨnSEORác
 ---
 Các trang dưới đây chia thành 2 loại:
@@ -66,5 +66,5 @@ pgdxuyenmoc.edu.vn
 
 Download: [Google Hit Hider by Domain](http://www.jeffersonscher.com/gm/google-hit-hider/)
 
-Xem thêm:: [Giảm rác trên mạng xã hội](./Gi%E1%BA%A3m%20r%C3%A1c%20tr%C3%AAn%20m%E1%BA%A1ng%20x%C3%A3%20h%E1%BB%99i.md)
+Xem thêm:: [Giảm rác trên mạng xã hội (Facebook, YouTube)](./Gi%E1%BA%A3m%20r%C3%A1c%20tr%C3%AAn%20m%E1%BA%A1ng%20x%C3%A3%20h%E1%BB%99i%20(Facebook,%20YouTube).md)
 Xem thêm:: [Làm sao để tìm được thứ ta cần khi ta không biết từ khoá chính xác của nó?](L%C3%A0m%20sao%20%C4%91%E1%BB%83%20t%C3%ACm%20%C4%91%C6%B0%E1%BB%A3c%20th%E1%BB%A9%20c%E1%BA%A7n%20t%C3%ACm%20khi%20kh%C3%B4ng%20bi%E1%BA%BFt%20t%E1%BB%AB%20kho%C3%A1%20ch%C3%ADnh%20x%C3%A1c%20c%E1%BB%A7a%20n%C3%B3.md)
