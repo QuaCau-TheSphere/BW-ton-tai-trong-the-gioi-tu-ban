@@ -2,7 +2,7 @@
 share: true
 created: 2025-03-27T17:13
 description: Chuyện gì sẽ xảy ra khi bị liệt là nợ xấu?
-updated: 2026-04-21T20:59
+updated: 2026-06-05T11:32
 aliases:
   - Chuyện gì sẽ xảy ra khi bị liệt là nợ xấu?
   - Lý do không muốn bị mất điểm tín dụng
@@ -20,10 +20,11 @@ Những người không muốn mất điểm tín dụng vì lý do này thườ
 
 Nhà nghiên cứu [Helena Norberg-Hodge](https://en.wikipedia.org/wiki/Helena_Norberg-Hodge) trong video này đến ngôi làng Ladakh và hỏi một người địa phương chỉ cho mình biết ngôi nhà nghèo nhất trong làng ở đâu. Người đó không biết phải trả lời thế nào vì họ không biết nghèo là gì. 8 năm sau, Helena quay lại thì lại được nghe chính người này nói là họ nghèo quá và mong được giúp đỡ.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/watch?v=KFnUV389vXg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Việc thay đổi cuộc sống nằm ở trong suy nghĩ
 
-Thường giải pháp tối ưu đòi hỏi phải [Ra khỏi thành phố sống](./Ni%E1%BB%81m%20tin/Ra%20kh%E1%BB%8Fi%20th%C3%A0nh%20ph%E1%BB%91%20s%E1%BB%91ng.md) và chịu làm nông. Nông dân áp dụng [Nền kinh tế vừa đủ](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Ph%C3%A1t%20tri%E1%BB%83n%20b%E1%BB%81n%20v%E1%BB%AFng.%20C%C3%A1c%20n%E1%BB%81n%20kinh%20t%E1%BA%BF%20thay%20th%E1%BA%BF/Kinh%20t%E1%BA%BF%20thay%20th%E1%BA%BF/N%E1%BB%81n%20kinh%20t%E1%BA%BF%20v%E1%BB%ABa%20%C4%91%E1%BB%A7/index.md) thì sẽ không cơ cực. Tất nhiên một người không có kiến thức nông nghiệp mà chuyển về làm nông ngay thì cũng rủi ro. Nhưng cũng có nhiều hội nhóm sẵn sàng giúp đỡ.
+Thường giải pháp tối ưu đòi hỏi phải tự làm ra lương thực cho mình. Tức là làm nông. Xem bài [Làm nông không đất, không tiền, không kinh nghiệm thì bắt đầu từ đâu](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/S%E1%BB%91ng%20v%E1%BB%ABa%20%C4%91%E1%BB%A7,%20b%E1%BB%81n%20v%E1%BB%AFng,%20ti%E1%BA%BFt%20ki%E1%BB%87m/L%C3%A0m%20n%C3%B4ng%20kh%C3%B4ng%20%C4%91%E1%BA%A5t,%20kh%C3%B4ng%20ti%E1%BB%81n,%20kh%C3%B4ng%20kinh%20nghi%E1%BB%87m%20th%C3%AC%20b%E1%BA%AFt%20%C4%91%E1%BA%A7u%20t%E1%BB%AB%20%C4%91%C3%A2u.md).
 
-Kể cả khi vẫn ở trong điều kiện cũ, thì phải bao nhiêu tiền thì mới có cuộc sống mới. Giờ giả sử hết nợ và vẫn giữ được điểm tín dụng thì khác biệt thế nào? Giờ chờ thêm 5 năm thì có khác biệt gì?
+Còn nếu ta không muốn [Ra khỏi thành phố sống](./Ni%E1%BB%81m%20tin/Ra%20kh%E1%BB%8Fi%20th%C3%A0nh%20ph%E1%BB%91%20s%E1%BB%91ng.md), thì phải bao nhiêu tiền thì mới có cuộc sống mới. Giờ giả sử hết nợ và vẫn giữ được điểm tín dụng thì khác biệt thế nào? Giờ chờ thêm 5 năm thì có khác biệt gì?
 
 Tham gia các quỹ tín dụng vi mô thì vẫn vay được. 
 
@@ -31,7 +32,7 @@ Tài sản vô hình tạo ra dòng tiền
 
 dòng tiền, [Tài sản vô hình nói chung là không nhất thiết phải chịu đựng những thất bại điển hình của thị trường là không cạnh tranh và không thể loại trừ](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/N%E1%BB%81n%20kinh%20t%E1%BA%BF%20h%C3%A0ng%20ho%C3%A1/Th%E1%BB%8B%20tr%C6%B0%E1%BB%9Dng/T%C3%A0i%20s%E1%BA%A3n%20v%C3%B4%20h%C3%ACnh%20n%C3%B3i%20chung%20l%C3%A0%20kh%C3%B4ng%20nh%E1%BA%A5t%20thi%E1%BA%BFt%20ph%E1%BA%A3i%20ch%E1%BB%8Bu%20%C4%91%E1%BB%B1ng%20nh%E1%BB%AFng%20th%E1%BA%A5t%20b%E1%BA%A1i%20%C4%91i%E1%BB%83n%20h%C3%ACnh%20c%E1%BB%A7a%20th%E1%BB%8B%20tr%C6%B0%E1%BB%9Dng%20l%C3%A0%20kh%C3%B4ng%20c%E1%BA%A1nh%20tranh%20v%C3%A0%20kh%C3%B4ng%20th%E1%BB%83%20lo%E1%BA%A1i%20tr%E1%BB%AB.md). Dòng tiền được tạo từ những cái đó cũng có.
 [❓Tài sản vô hình có chi phí biên gần như bằng 0](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/N%E1%BB%81n%20kinh%20t%E1%BA%BF%20h%C3%A0ng%20ho%C3%A1/Th%E1%BB%8B%20tr%C6%B0%E1%BB%9Dng/%E2%9D%93T%C3%A0i%20s%E1%BA%A3n%20v%C3%B4%20h%C3%ACnh%20c%C3%B3%20chi%20ph%C3%AD%20bi%C3%AAn%20g%E1%BA%A7n%20nh%C6%B0%20b%E1%BA%B1ng%200.md)
-
+[❓Có hình thức kinh tế nào hoạt động tốt ở đô thị không, hay toàn chỉ ở nông thôn](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Ph%C3%A1t%20tri%E1%BB%83n%20b%E1%BB%81n%20v%E1%BB%AFng.%20C%C3%A1c%20n%E1%BB%81n%20kinh%20t%E1%BA%BF%20thay%20th%E1%BA%BF/Kinh%20t%E1%BA%BF%20thay%20th%E1%BA%BF/%E2%9D%93C%C3%B3%20h%C3%ACnh%20th%E1%BB%A9c%20kinh%20t%E1%BA%BF%20n%C3%A0o%20ho%E1%BA%A1t%20%C4%91%E1%BB%99ng%20t%E1%BB%91t%20%E1%BB%9F%20%C4%91%C3%B4%20th%E1%BB%8B%20kh%C3%B4ng,%20hay%20to%C3%A0n%20ch%E1%BB%89%20%E1%BB%9F%20n%C3%B4ng%20th%C3%B4n.md)
 Hơn nữa, việc mất điểm tín dụng khác với việc không vay được ngân hàng. Các [dịch vụ mở khoản vay](../../../%F0%9F%9B%96Ng%C3%A0nh%20ngh%E1%BB%81%20c%E1%BB%A5%20th%E1%BB%83/T%C3%A0i%20ch%C3%ADnh/T%C3%ADn%20d%E1%BB%A5ng/T%C3%ADn%20d%E1%BB%A5ng%20t%C6%B0%20b%E1%BA%A3n/D%E1%BB%8Bch%20v%E1%BB%A5%20ph%C3%A1i%20sinh/M%E1%BB%9F%20kho%E1%BA%A3n%20vay/%C4%90%C3%A1nh%20gi%C3%A1%20m%E1%BB%99t%20s%E1%BB%91%20d%E1%BB%8Bch%20v%E1%BB%A5%20m%E1%BB%9F%20kho%E1%BA%A3n%20vay.md) vẫn làm được cho khách hàng nợ xấu. Ngay chính cả Nhật dù có điểm tín dụng đạt mức cấp 2 vẫn phải qua dịch vụ mới vay được, chứ tự làm thì cũng không được. Nếu có điểm cũng không chắc vay được, mà mất điểm thì cũng vẫn vay được, thì có điểm để làm gì?
 
 ### Lý do 2: Không muốn người thân bị làm phiền
@@ -71,7 +72,8 @@ Cho vay là một hình thức đầu tư.
 Là tham hay là tin vào lực lượng hành pháp? Nếu vấn đề ở lực lượng hành pháp thì sao gọi là mình trục lợi được?
 
 ### Lý do 5: Ngân hàng sẽ kiện mình ra tòa, thậm chí đi tù
-Tuy trả nợ khi đến hạn là nghĩa vụ bắt buộc của người đi vay, nhưng nếu bên vay không làm **vì lý do bất đắc dĩ** như phá sản, làm ăn thua lỗ, v.v. thì cũng sẽ **không bị truy cứu trách nhiệm hình sự**. Nhưng nếu bên bị chứng minh là mình có ý định vay để xù ngay từ đầu, thì sẽ phạm tội "lợi dụng tín nhiệm chiếm đoạt tài sản".
+Tuy trả nợ khi đến hạn là nghĩa vụ bắt buộc của người đi vay, nhưng nếu bên vay làm **vì lý do bất đắc dĩ** như phá sản, làm ăn thua lỗ, v.v. thì cũng sẽ **không bị truy cứu trách nhiệm hình sự**. Nhưng nếu bên bị chứng minh là mình có ý định vay để xù ngay từ đầu, thì sẽ phạm tội "lợi dụng tín nhiệm chiếm đoạt tài sản".
+[Nếu hành vi gian dối nhằm mục đích chiếm đoạt tài sản thì mới cấu thành tội phạm. Nếu không thì chỉ là vi phạm về dân sự, kinh tế](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Ch%C3%ADnh%20s%C3%A1ch%20nh%C3%A0%20n%C6%B0%E1%BB%9Bc/Quy%20%C4%91%E1%BB%8Bnh,%20lu%E1%BA%ADt/H%C3%ACnh%20s%E1%BB%B1/N%E1%BA%BFu%20h%C3%A0nh%20vi%20gian%20d%E1%BB%91i%20nh%E1%BA%B1m%20m%E1%BB%A5c%20%C4%91%C3%ADch%20chi%E1%BA%BFm%20%C4%91o%E1%BA%A1t%20t%C3%A0i%20s%E1%BA%A3n%20th%C3%AC%20m%E1%BB%9Bi%20c%E1%BA%A5u%20th%C3%A0nh%20t%E1%BB%99i%20ph%E1%BA%A1m.%20N%E1%BA%BFu%20kh%C3%B4ng%20th%C3%AC%20ch%E1%BB%89%20l%C3%A0%20vi%20ph%E1%BA%A1m%20v%E1%BB%81%20d%C3%A2n%20s%E1%BB%B1,%20kinh%20t%E1%BA%BF.md)
 [Làm ăn thua lỗ, không trả được nợ có phải đi tù không?](https://luatvietnam.vn/tin-phap-luat/lam-an-thua-lo-khong-tra-duoc-no-co-phai-di-tu-khong-230-34052-article.html)
 
 Không phải là người duy nhất mất khả năng trả nợ. Tùy vào động lực của nhân viên đòi nợ có muốn theo đuổi vụ kiện hay không.
@@ -118,3 +120,4 @@ Khái niệm:: [Nợ xấu](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3
 
 ## Nơi thảo luận
 ![](https://imagizer.imageshack.com/a/img923/1273/jQAnX6.png)
+
