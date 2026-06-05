@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2026-04-14T15:06
+updated: 2026-06-05T18:40
 aliases:
   - Mua đồ ăn giá rẻ
   - Kiếm đồ ăn miễn phí
@@ -9,7 +9,7 @@ aliases:
 ---
 ## Mua đồ ăn rẻ 
 - Mua đồ ăn ở chợ đầu mối
-- Tham gia các [nhóm mua chung, câu lạc bộ tiêu dùng](../../%F0%9F%93%90D%E1%BB%B1%20%C3%A1n/X%C3%A2y%20d%E1%BB%B1ng%20h%E1%BB%87%20th%E1%BB%91ng%20kinh%20t%E1%BA%BF%20m%E1%BB%9Bi/Nh%C3%B3m%20mua%20chung,%20c%C3%A2u%20l%E1%BA%A1c%20b%E1%BB%99%20ti%C3%AAu%20d%C3%B9ng.md)
+- Tham gia các [Nhóm mua chung, câu lạc bộ tiêu dùng](../../%F0%9F%93%90D%E1%BB%B1%20%C3%A1n/X%C3%A2y%20d%E1%BB%B1ng%20h%E1%BB%87%20th%E1%BB%91ng%20kinh%20t%E1%BA%BF%20m%E1%BB%9Bi/Nh%C3%B3m%20mua%20chung,%20c%C3%A2u%20l%E1%BA%A1c%20b%E1%BB%99%20ti%C3%AAu%20d%C3%B9ng.md)
 - Săn [Phiếu giảm giá (voucher)](../Qu%C3%A0%20t%E1%BA%B7ng/Phi%E1%BA%BFu%20gi%E1%BA%A3m%20gi%C3%A1%20(voucher)/index.md)
 - Aeon sau 9h tối bán đồ ăn đại hạ giá
 
