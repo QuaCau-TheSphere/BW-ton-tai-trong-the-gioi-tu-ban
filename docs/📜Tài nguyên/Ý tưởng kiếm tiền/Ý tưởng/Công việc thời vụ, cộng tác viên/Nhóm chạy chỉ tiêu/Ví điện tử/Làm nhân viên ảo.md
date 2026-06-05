@@ -1,12 +1,12 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-12-19T11:32
+updated: 2026-05-01T19:41
 description: "Số tiền kiếm được: "
 title: Làm nhân viên ảo VNPAY
 ---
 Số tiền kiếm được:: 2tr/tháng
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/watch?v=J66sJiyEoJQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 ## Mô tả công việc
 ### Làm một lần
 - Khám sức khoẻ: 2 tiếng 

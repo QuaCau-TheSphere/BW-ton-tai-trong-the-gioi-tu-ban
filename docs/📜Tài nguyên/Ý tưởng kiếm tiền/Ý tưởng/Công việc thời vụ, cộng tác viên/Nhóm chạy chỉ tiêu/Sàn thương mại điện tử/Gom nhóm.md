@@ -2,7 +2,7 @@
 share: true
 description: "Số tiền kiếm được: "
 created: 2025-03-27T17:13
-updated: 2026-02-01T16:04
+updated: 2026-05-12T00:58
 ---
 Mô tả công việc:: Tải app, đăng ký, nhập mã giới thiệu, nạp tiền, gom nhóm, rút tiền
 Số tiền kiếm được:: 50k/tài khoản tạo mới
@@ -11,8 +11,8 @@ Số tiền kiếm được:: 50k/tài khoản tạo mới
 App hoạt động bằng cách gom nhóm chung. Bạn mua một món hàng bằng việc tham gia một nhóm. Khi nhóm đủ số lượng người đăng ký thì một người ngẫu nhiên sẽ được mua hàng, những người còn lại sẽ được trả tiền. Người được chọn có thể chọn nhận hàng, hoặc bán lại hàng cho app. Tiền hàng sẽ được trả lại sau 3 ngày.
 
 ## Thông tin thêm
-[Quy trình gom nhóm của một app ví dụ](../../../../../T%C3%ACnh%20h%C3%ACnh%20%E1%BB%9F%20Vi%E1%BB%87t%20Nam/Ng%C3%A0nh%20ngh%E1%BB%81%20c%E1%BB%A5%20th%E1%BB%83/Kh%C3%A1c/L%E1%BB%ABa%20%C4%91%E1%BA%A3o/Quy%20tr%C3%ACnh%20gom%20nh%C3%B3m.md) 
-[Cảnh giác lừa đảo, trục lợi, tham ô](../../../../../C%E1%BA%A3nh%20gi%C3%A1c%20l%E1%BB%ABa%20%C4%91%E1%BA%A3o,%20tr%E1%BB%A5c%20l%E1%BB%A3i,%20tham%20%C3%B4/index.md)
+[Quy trình gom nhóm của một app ví dụ](../../../../../../%F0%9F%92%B8H%C3%ACnh%20th%E1%BB%A9c%20ki%E1%BA%BFm%20ti%E1%BB%81n/Thi%E1%BA%BFu%20li%C3%AAm%20ch%C3%ADnh/C%E1%BA%A3nh%20gi%C3%A1c%20l%E1%BB%ABa%20%C4%91%E1%BA%A3o/Ph%C6%B0%C6%A1ng%20th%E1%BB%A9c%20l%E1%BB%ABa%20%C4%91%E1%BA%A3o/%C4%90%C3%A1nh%20v%C3%A0o%20mong%20mu%E1%BB%91n%20ki%E1%BA%BFm%20ti%E1%BB%81n%20nhanh/GM/Quy%20tr%C3%ACnh%20gom%20nh%C3%B3m.md) 
+[Cảnh giác lừa đảo](../../../../../../%F0%9F%92%B8H%C3%ACnh%20th%E1%BB%A9c%20ki%E1%BA%BFm%20ti%E1%BB%81n/Thi%E1%BA%BFu%20li%C3%AAm%20ch%C3%ADnh/C%E1%BA%A3nh%20gi%C3%A1c%20l%E1%BB%ABa%20%C4%91%E1%BA%A3o/index.md)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5jeACyUQtVE?si=G6Z0MrLCxMQGAFxF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Số tiền đầu tư:: 390k
