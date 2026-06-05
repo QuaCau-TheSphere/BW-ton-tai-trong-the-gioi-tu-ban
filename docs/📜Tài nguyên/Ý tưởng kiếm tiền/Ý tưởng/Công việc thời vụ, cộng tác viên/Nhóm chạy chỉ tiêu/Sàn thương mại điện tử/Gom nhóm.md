@@ -2,7 +2,7 @@
 share: true
 description: "Số tiền kiếm được: "
 created: 2025-03-27T17:13
-updated: 2026-05-12T00:58
+updated: 2026-06-05T15:14
 ---
 Mô tả công việc:: Tải app, đăng ký, nhập mã giới thiệu, nạp tiền, gom nhóm, rút tiền
 Số tiền kiếm được:: 50k/tài khoản tạo mới

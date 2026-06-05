@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-09-27T13:00
-updated: 2026-02-20T17:50
+updated: 2026-06-05T15:15
 aliases:
   - Lời mời tham gia nhóm giúp nhau kiếm tiền
 title: Giúp nhau kiếm tiền
@@ -9,7 +9,6 @@ title: Giúp nhau kiếm tiền
 # Lời mời tham gia nhóm giúp nhau kiếm tiền
 ## Lợi ích khi tham gia
 ### Tiền và thời gian cho bản thân
-Ví dụ, công việc [làm nhân viên ảo GM Mall](../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/%C3%9D%20t%C6%B0%E1%BB%9Fng%20ki%E1%BA%BFm%20ti%E1%BB%81n/%C3%9D%20t%C6%B0%E1%BB%9Fng/C%C3%B4ng%20vi%E1%BB%87c%20th%E1%BB%9Di%20v%E1%BB%A5,%20c%E1%BB%99ng%20t%C3%A1c%20vi%C3%AAn/Nh%C3%B3m%20ch%E1%BA%A1y%20ch%E1%BB%89%20ti%C3%AAu/S%C3%A0n%20th%C6%B0%C6%A1ng%20m%E1%BA%A1i%20%C4%91i%E1%BB%87n%20t%E1%BB%AD/L%C3%A0m%20nh%C3%A2n%20vi%C3%AAn%20%E1%BA%A3o.md) khi làm cùng với [Quản lý máy](Qu%E1%BA%A3n%20l%C3%BD%20m%C3%A1y.md) sẽ chỉ tốn bạn 1.5h/ngày là có thu nhập tầm 7tr/tháng. Thời gian còn lại là của bạn.
 
 Bài chi tiết:: [Một số ý tưởng kiếm tiền](../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/%C3%9D%20t%C6%B0%E1%BB%9Fng%20ki%E1%BA%BFm%20ti%E1%BB%81n/%C3%9D%20t%C6%B0%E1%BB%9Fng/index.md)
 
@@ -25,6 +24,7 @@ Bài chi tiết:: [Một số ý tưởng kiếm tiền](../../%F0%9F%93%9CT%C3%
 - [Công đoàn để được bảo vệ quyền lợi trước tư bản](../%C4%90%E1%BB%91i%20tho%E1%BA%A1i%20v%E1%BB%9Bi%20t%C6%B0%20b%E1%BA%A3n/X%C3%A2y%20d%E1%BB%B1ng%20c%C3%B4ng%20%C4%91o%C3%A0n.md) 
 - Giới thiệu các công việc sinh nghiệp
 - [Cộng đồng có chủ đích](../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Ph%C3%A1t%20tri%E1%BB%83n%20b%E1%BB%81n%20v%E1%BB%AFng.%20C%C3%A1c%20n%E1%BB%81n%20kinh%20t%E1%BA%BF%20thay%20th%E1%BA%BF/C%E1%BB%99ng%20%C4%91%E1%BB%93ng%20c%C3%B3%20ch%E1%BB%A7%20%C4%91%C3%ADch/index.md)
+
 Xem thêm:: [Góc nhìn chủ nghĩa xã hội về nhóm chạy chỉ tiêu](../%C4%90%E1%BB%91i%20tho%E1%BA%A1i%20v%E1%BB%9Bi%20t%C6%B0%20b%E1%BA%A3n/G%C3%B3c%20nh%C3%ACn%20ch%E1%BB%A7%20ngh%C4%A9a%20x%C3%A3%20h%E1%BB%99i%20v%E1%BB%81%20nh%C3%B3m%20ch%E1%BA%A1y%20ch%E1%BB%89%20ti%C3%AAu.md)
 
 ## Các công việc để phát triển nhóm 
