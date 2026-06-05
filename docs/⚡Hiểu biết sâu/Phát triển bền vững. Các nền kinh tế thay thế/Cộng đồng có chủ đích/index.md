@@ -1,11 +1,12 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-12-25T16:34
+updated: 2026-06-04T22:24
 aliases:
   - đồng cư, hợp tác xã nhà ở, quỹ nhà ở vi mô
   - làng sinh thái, công xã
   - intentional community
+  - Cộng đồng địa phương, offline
 description: Khái niệm, phân loại, nguồn lực, hướng dẫn ghé thăm, dự án xây dựng một cộng đồng như vậy, và các phản ví dụ
 title: Cộng đồng có chủ đích
 ---
@@ -91,7 +92,7 @@ Không phải cứ đến sống chung và gắn bó với nhau là trở thành
 - Các xóm trọ, chung cư, tổ dân phố, thị trấn điển hình (các cộng đồng dân cư) không phải là cộng đồng có chủ đích, do việc quyết định ai đến ai đi thuộc về chủ nhà
 - Các trại lính hoặc trường nội trú không phải là cộng đồng có chủ đích, do việc quyết định ai đến ai đi cũng như việc thưởng phạt thuộc về người quản lý 
 
-Các đoàn diễn lưu động, đoàn thám hiểm, trại nghiên cứu, toán quân du kích có nhiều nét giống cộng đồng có chủ đích hơn, khi họ phải sống chung với nhau, chia sẻ một lối sống chung và có tiếng nói với nhau. [Công việc nhiều rủi ro thì tổ chức thường ngang hàng. Công việc nhiều an toàn thì tổ chức thường phân cấp](../../H%C3%ACnh%20th%E1%BB%A9c%20ki%E1%BA%BFm%20ti%E1%BB%81n/L%C3%A0m%20thu%C3%AA/An%20to%C3%A0n,%20r%E1%BB%A7i%20ro/C%C3%B4ng%20vi%E1%BB%87c%20nhi%E1%BB%81u%20r%E1%BB%A7i%20ro%20th%C3%AC%20t%E1%BB%95%20ch%E1%BB%A9c%20th%C6%B0%E1%BB%9Dng%20ngang%20h%C3%A0ng.%20C%C3%B4ng%20vi%E1%BB%87c%20nhi%E1%BB%81u%20an%20to%C3%A0n%20th%C3%AC%20t%E1%BB%95%20ch%E1%BB%A9c%20th%C6%B0%E1%BB%9Dng%20ph%C3%A2n%20c%E1%BA%A5p.md). Ở những nhóm này, nếu các thành viên không đồng ý với người lãnh đạo thì họ có thể chọn ra một người mới mà người cũ không làm được gì, vì người lãnh đạo chỉ là thiểu số. Tuy nhiên có thể người cũ đã được chỉ định bởi một thiết chế bên ngoài nào đó, và họ phải chịu phản ứng của thiết chế đó cho quyết định của mình. Họ có những lúc có được sự tự trị, nhưng không chắc là luôn luôn.
+Các đoàn diễn lưu động, đoàn thám hiểm, trại nghiên cứu, toán quân du kích có nhiều nét giống cộng đồng có chủ đích hơn, khi họ phải sống chung với nhau, chia sẻ một lối sống chung và có tiếng nói với nhau. [Công việc nhiều rủi ro thì tổ chức thường ngang hàng. Công việc nhiều an toàn thì tổ chức thường phân cấp](../../../%F0%9F%92%B8H%C3%ACnh%20th%E1%BB%A9c%20ki%E1%BA%BFm%20ti%E1%BB%81n/L%C3%A0m%20thu%C3%AA/An%20to%C3%A0n,%20r%E1%BB%A7i%20ro/C%C3%B4ng%20vi%E1%BB%87c%20nhi%E1%BB%81u%20r%E1%BB%A7i%20ro%20th%C3%AC%20t%E1%BB%95%20ch%E1%BB%A9c%20th%C6%B0%E1%BB%9Dng%20ngang%20h%C3%A0ng.%20C%C3%B4ng%20vi%E1%BB%87c%20nhi%E1%BB%81u%20an%20to%C3%A0n%20th%C3%AC%20t%E1%BB%95%20ch%E1%BB%A9c%20th%C6%B0%E1%BB%9Dng%20ph%C3%A2n%20c%E1%BA%A5p.md). Ở những nhóm này, nếu các thành viên không đồng ý với người lãnh đạo thì họ có thể chọn ra một người mới mà người cũ không làm được gì, vì người lãnh đạo chỉ là thiểu số. Tuy nhiên có thể người cũ đã được chỉ định bởi một thiết chế bên ngoài nào đó, và họ phải chịu phản ứng của thiết chế đó cho quyết định của mình. Họ có những lúc có được sự tự trị, nhưng không chắc là luôn luôn.
 
-Nếu họ chỉ phải chịu trách nhiệm cho những quyết định của mình, giống như [băng hải tặc mũ rơm](https://youtu.be/5SzMEPJBHzE?si=JLWCE2EXcnLzz40o), thì có thể xem họ là cộng đồng có chủ đích. Điểm khác biệt duy nhất với các cộng đồng có chủ đích điển hình là ở điểm kết thúc của nó. Các mục tiêu như sống gần nhau, giảm chi phí sinh hoạt, nuôi con, dưỡng già, kết nối tâm linh có thể nói là không bao giờ hoàn thành. Các cộng đồng như này tồn tại vì các thành viên muốn có một cộng đồng như này tồn tại. Còn với các sứ mệnh như nghiên cứu học thuật, thực hành nghệ thuật, v.v., khi hoàn thành thì cộng đồng có thể tan rã, hoặc cần phải tìm thêm mục tiêu khác.
+Nếu họ chỉ phải chịu trách nhiệm cho những quyết định của mình, giống như [băng hải tặc mũ rơm](https://youtu.be/5SzMEPJBHzE?si=JLWCE2EXcnLzz40o), thì có thể xem họ là cộng đồng có chủ đích. Điểm khác biệt duy nhất với các cộng đồng có chủ đích điển hình là ở điểm kết thúc của nó. Các mục tiêu như sống gần nhau, giảm chi phí sinh hoạt, nuôi con, dưỡng già, kết nối tâm linh có thể nói là không bao giờ hoàn thành. Các cộng đồng như này tồn tại vì các thành viên muốn có một cộng đồng như này tồn tại. Còn với các sứ mệnh như nghiên cứu học thuật, thực hành nghệ thuật, v.v., khi hoàn thành thì cộng đồng sẽ tan rã, hoặc phải bổ sung thêm mục tiêu khác để duy trì.
 
