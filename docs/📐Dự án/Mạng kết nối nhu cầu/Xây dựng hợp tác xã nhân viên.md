@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2026-04-14T14:34
+updated: 2026-06-05T18:40
 aliases:
   - săn giá rẻ, khuyến mãi, giảm giá, voucher
   - Làm sao để tìm được thông tin giảm giá tốt nhất?
@@ -54,7 +54,7 @@ Tại sao không phải là [Các ý tưởng kiếm tiền](../../%F0%9F%93%9CT
 
 Không phải là cần tiền, mà là cần tiếp tục ở trong hệ thống tư bản, khi mà
 Chỉ những nhân viên bán hàng không nghĩ rằng mình có thể thay đổi công việc mới cần
-[Công việc bán hàng có thu nhập đột biến, không bị trói buộc thời gian và luôn tuyển dụng](../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/H%C3%ACnh%20th%E1%BB%A9c%20ki%E1%BA%BFm%20ti%E1%BB%81n/L%C3%A0m%20thu%C3%AA/B%C3%A1n%20h%C3%A0ng/C%C3%B4ng%20vi%E1%BB%87c%20b%C3%A1n%20h%C3%A0ng%20c%C3%B3%20thu%20nh%E1%BA%ADp%20%C4%91%E1%BB%99t%20bi%E1%BA%BFn,%20kh%C3%B4ng%20b%E1%BB%8B%20tr%C3%B3i%20bu%E1%BB%99c%20th%E1%BB%9Di%20gian%20v%C3%A0%20lu%C3%B4n%20tuy%E1%BB%83n%20d%E1%BB%A5ng.md)
+[Công việc bán hàng có thu nhập đột biến, không bị trói buộc thời gian và luôn tuyển dụng](../../%F0%9F%92%B8H%C3%ACnh%20th%E1%BB%A9c%20ki%E1%BA%BFm%20ti%E1%BB%81n/L%C3%A0m%20thu%C3%AA/B%C3%A1n%20h%C3%A0ng/C%C3%B4ng%20vi%E1%BB%87c%20b%C3%A1n%20h%C3%A0ng%20c%C3%B3%20thu%20nh%E1%BA%ADp%20%C4%91%E1%BB%99t%20bi%E1%BA%BFn,%20kh%C3%B4ng%20b%E1%BB%8B%20tr%C3%B3i%20bu%E1%BB%99c%20th%E1%BB%9Di%20gian%20v%C3%A0%20lu%C3%B4n%20tuy%E1%BB%83n%20d%E1%BB%A5ng.md)
 
 
 
