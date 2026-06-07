@@ -1,10 +1,10 @@
 ---
 share: true
 created: 2025-01-14T18:51
-updated: 2026-03-24T14:14
+updated: 2026-06-07T16:25
 ---
 Khi nào thì nhận vay giùm, khi nào thì chỉ nhận bảo lãnh?
-[Quỹ tín dụng vi mô Quả Cầu](../Qu%E1%BB%B9/Qu%E1%BB%B9%20t%C3%ADn%20d%E1%BB%A5ng%20vi%20m%C3%B4%20Qu%E1%BA%A3%20C%E1%BA%A7u.md)
+[Quỹ tín dụng Quả Cầu](../Qu%E1%BB%B9/Qu%E1%BB%B9%20t%C3%ADn%20d%E1%BB%A5ng%20Qu%E1%BA%A3%20C%E1%BA%A7u.md)
 Dùng chung CIC thì tất cả những người mượn phải kiểm soát lẫn nhau
 Nhờ vả chỉ được ít. 
 
