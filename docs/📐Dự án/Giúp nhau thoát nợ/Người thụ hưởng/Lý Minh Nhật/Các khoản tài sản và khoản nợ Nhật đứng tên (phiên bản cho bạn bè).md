@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2026-06-05T12:17
+updated: 2026-06-07T16:25
 aliases:
   - nhờ Nhật đứng tên
 ---
@@ -24,7 +24,7 @@ Dòng tiền cụ thể nửa cuối năm 2025. Đơn vị: 1,000 đ.
 ## Điểm tín dụng
 ![Điểm tín dụng của Nhật.png](../../../../assets/attachments/%C4%90i%E1%BB%83m%20t%C3%ADn%20d%E1%BB%A5ng%20c%E1%BB%A7a%20Nh%E1%BA%ADt.png)
 
-Điểm tín dụng của Nhật chủ yếu dùng để [vay giùm người khác](../../C%C3%B4ng%20vi%E1%BB%87c/%C4%90%E1%BB%A9ng%20ra%20b%E1%BA%A3o%20l%C3%A3nh,%20vay%20gi%C3%B9m,%20cho%20m%C6%B0%E1%BB%A3n%20t%C3%A0i%20s%E1%BA%A3n%20th%E1%BA%BF%20ch%E1%BA%A5p.md). Nói cách khác nó trở thành tài nguyên cho [Quỹ tín dụng vi mô Quả Cầu](../../Qu%E1%BB%B9/Qu%E1%BB%B9%20t%C3%ADn%20d%E1%BB%A5ng%20vi%20m%C3%B4%20Qu%E1%BA%A3%20C%E1%BA%A7u.md). Nhật chấp nhận [Xù nợ ngân hàng](../../T%C3%A0i%20li%E1%BB%87u/X%C3%B9%20n%E1%BB%A3%20ng%C3%A2n%20h%C3%A0ng.md) và [Xù nợ vay nóng](../../T%C3%A0i%20li%E1%BB%87u/X%C3%B9%20n%E1%BB%A3%20vay%20n%C3%B3ng.md), vì điều kiện sống của Nhật cho phép làm việc này mà không ảnh hưởng tới công việc hay người xung quanh. Tuy nhiên ai cũng muốn Nhật [Bằng mọi giá phải giữ điểm tín dụng cho sạch](../../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Ni%E1%BB%81m%20tin,%20di%E1%BB%85n%20ng%C3%B4n/Ti%E1%BB%81n/Vay,%20n%E1%BB%A3/B%E1%BA%B1ng%20m%E1%BB%8Di%20gi%C3%A1%20ph%E1%BA%A3i%20gi%E1%BB%AF%20%C4%91i%E1%BB%83m%20t%C3%ADn%20d%E1%BB%A5ng%20cho%20s%E1%BA%A1ch.md).
+Điểm tín dụng của Nhật chủ yếu dùng để [vay giùm người khác](../../C%C3%B4ng%20vi%E1%BB%87c/%C4%90%E1%BB%A9ng%20ra%20b%E1%BA%A3o%20l%C3%A3nh,%20vay%20gi%C3%B9m,%20cho%20m%C6%B0%E1%BB%A3n%20t%C3%A0i%20s%E1%BA%A3n%20th%E1%BA%BF%20ch%E1%BA%A5p.md). Nói cách khác nó trở thành tài nguyên cho [Quỹ tín dụng Quả Cầu](../../Qu%E1%BB%B9/Qu%E1%BB%B9%20t%C3%ADn%20d%E1%BB%A5ng%20Qu%E1%BA%A3%20C%E1%BA%A7u.md). Nhật chấp nhận [Xù nợ ngân hàng](../../T%C3%A0i%20li%E1%BB%87u/X%C3%B9%20n%E1%BB%A3%20ng%C3%A2n%20h%C3%A0ng.md) và [Xù nợ vay nóng](../../T%C3%A0i%20li%E1%BB%87u/X%C3%B9%20n%E1%BB%A3%20vay%20n%C3%B3ng.md), vì điều kiện sống của Nhật cho phép làm việc này mà không ảnh hưởng tới công việc hay người xung quanh. Tuy nhiên ai cũng muốn Nhật [Bằng mọi giá phải giữ điểm tín dụng cho sạch](../../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Ni%E1%BB%81m%20tin,%20di%E1%BB%85n%20ng%C3%B4n/Ti%E1%BB%81n/Vay,%20n%E1%BB%A3/B%E1%BA%B1ng%20m%E1%BB%8Di%20gi%C3%A1%20ph%E1%BA%A3i%20gi%E1%BB%AF%20%C4%91i%E1%BB%83m%20t%C3%ADn%20d%E1%BB%A5ng%20cho%20s%E1%BA%A1ch.md).
 
 ## Các khoản đã xong
 Những cái ở dưới đây đã hết hiệu lực
