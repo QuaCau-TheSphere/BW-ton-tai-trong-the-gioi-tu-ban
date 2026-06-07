@@ -2,7 +2,7 @@
 created: 2025-01-14T21:00
 share: true
 title: Đề xuất vay nợ của Nguyễn Hữu Lộc
-updated: 2026-05-22T16:09
+updated: 2026-06-07T16:25
 ---
 ## Tình hình chung
 ### Tại sao bạn bị nợ?
@@ -18,7 +18,7 @@ Thấy mình cầm đằng chuôi của GM nên nhảy vào. Ai ngờ nó cao ta
 | Khoản chi | Số tiền | Ngày chi | 
 | --------- | ------- | -------- |
 |           |         |          |
-### Bạn đánh giá mình thuộc loại nghèo nào? Xem chi tiết ở bài [Việt Nam không ai chết đói, chỉ có nghèo đa chiều](../../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Ch%C3%ADnh%20s%C3%A1ch%20nh%C3%A0%20n%C6%B0%E1%BB%9Bc/Kinh%20t%E1%BA%BF%20v%C4%A9%20m%C3%B4/Hi%E1%BB%87n%20tr%E1%BA%A1ng/Vi%E1%BB%87t%20Nam%20kh%C3%B4ng%20ai%20ch%E1%BA%BFt%20%C4%91%C3%B3i,%20ch%E1%BB%89%20c%C3%B3%20ngh%C3%A8o%20%C4%91a%20chi%E1%BB%81u.md)
+### Bạn đánh giá mình thuộc loại nghèo nào? Xem chi tiết ở bài [Việt Nam không ai chết đói, chỉ có nghèo đa chiều](../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Ch%C3%ADnh%20s%C3%A1ch%20nh%C3%A0%20n%C6%B0%E1%BB%9Bc/Kinh%20t%E1%BA%BF%20v%C4%A9%20m%C3%B4/Hi%E1%BB%87n%20tr%E1%BA%A1ng/Vi%E1%BB%87t%20Nam%20kh%C3%B4ng%20ai%20ch%E1%BA%BFt%20%C4%91%C3%B3i,%20ch%E1%BB%89%20c%C3%B3%20ngh%C3%A8o%20%C4%91a%20chi%E1%BB%81u.md)
 ### Bạn có những đề xuất vay nào?
 
 | STT | Số tiền | Ngày trả | Lãi |
@@ -74,7 +74,7 @@ Những hoạt động trên là đầu vào để Nhật làm những hoạt đ
 | Văn bản hoá các trải nghiệm và hiểu biết sâu. [Thực hành nhân học nửa mùa](https://doi-thoai.deno.dev/aC.6c.1) | [Nhóm GM Mall Biên Hoà](../../../Gi%C3%BAp%20nhau%20ki%E1%BA%BFm%20ti%E1%BB%81n/Ch%E1%BA%A1y%20ch%E1%BB%89%20ti%C3%AAu%20cho%20nh%C3%A2n%20vi%C3%AAn%20c%C3%B4ng%20ty/Ch%C6%A1i%20ch%C3%ADnh%20s%C3%A1ch/T%C3%A0i%20li%E1%BB%87u%20v%E1%BB%81%20t%E1%BB%ABng%20c%C3%B4ng%20ty/GM%20Mall/Nh%C3%B3m%20Bi%C3%AAn%20Ho%C3%A0.md), [Nhóm FE Bình Dương 1](../../../Gi%C3%BAp%20nhau%20ki%E1%BA%BFm%20ti%E1%BB%81n/Ch%E1%BA%A1y%20ch%E1%BB%89%20ti%C3%AAu%20cho%20nh%C3%A2n%20vi%C3%AAn%20c%C3%B4ng%20ty/Ch%C6%A1i%20ch%C3%ADnh%20s%C3%A1ch/T%C3%A0i%20li%E1%BB%87u%20v%E1%BB%81%20t%E1%BB%ABng%20c%C3%B4ng%20ty/FE%20Credit/Nh%C3%B3m%20B%C3%ACnh%20D%C6%B0%C6%A1ng%201.md)                                                                         |
 | Xây dựng mạng kết nối nhu cầu                                                                                  | [Discord Quả Cầu](https://doi-thoai.deno.dev/discordQC.6c.1), [Nhóm Zalo chia sẻ công việc, cơ hội của các nạn nhân của GM Mall](https://zalo.me/g/ojezyd465) |
 | Hỗ trợ cho các tổ chức cùng định hướng                                                                         | Chia sẻ các bài truyền thông về các hoạt động của các tổ chức phát triển bền vững khác (như Kulavietnam, SocialLife, VCIL) trong các nhóm                     |
-| Xây dựng [quỹ tín dụng vi mô](../../Qu%E1%BB%B9/Qu%E1%BB%B9%20t%C3%ADn%20d%E1%BB%A5ng%20vi%20m%C3%B4%20Qu%E1%BA%A3%20C%E1%BA%A7u.md)                                | [Quỹ giúp nhau giữ tài sản thế chấp ngân hàng](../../Qu%E1%BB%B9/Qu%E1%BB%B9%20gi%C3%BAp%20nhau%20gi%E1%BB%AF%20t%C3%A0i%20s%E1%BA%A3n%20th%E1%BA%BF%20ch%E1%BA%A5p%20ng%C3%A2n%20h%C3%A0ng.md)                                                                                                                        |
+| Xây dựng [quỹ tín dụng vi mô](../../Qu%E1%BB%B9/Qu%E1%BB%B9%20t%C3%ADn%20d%E1%BB%A5ng%20Qu%E1%BA%A3%20C%E1%BA%A7u.md)                                | [Quỹ giúp nhau giữ tài sản thế chấp ngân hàng](../../Qu%E1%BB%B9/Qu%E1%BB%B9%20gi%C3%BAp%20nhau%20gi%E1%BB%AF%20t%C3%A0i%20s%E1%BA%A3n%20th%E1%BA%BF%20ch%E1%BA%A5p%20ng%C3%A2n%20h%C3%A0ng.md)                                                                                                                        |
 | [Xây dựng hệ thống tri thức cộng đồng](https://doi-thoai.deno.dev/of.6c.1)                                     | Các ghi chú trong kho [Tồn tại trong thế giới tư bản](../../../../index.md)                                                                                   |
 | Lập trình                                                                                                      | Tạo danh bạ khách hàng vay FE Credit từ visit form                                                                                                            |
 

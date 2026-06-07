@@ -1,18 +1,15 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2026-06-07T21:17
+updated: 2026-06-07T16:24
 ---
+Bài chi tiết:: [Tổng hợp sự kiện trên mạng](../../../../../%F0%9F%93%90D%E1%BB%B1%20%C3%A1n/T%E1%BB%B1%20%C4%91%E1%BB%99ng%20ho%C3%A1/T%E1%BB%95ng%20h%E1%BB%A3p%20s%E1%BB%B1%20ki%E1%BB%87n%20tr%C3%AAn%20m%E1%BA%A1ng.md)
+
 ## Thị trường & đối thủ cạnh tranh
-[Nhóm mua chung, câu lạc bộ tiêu dùng](../../../../../%F0%9F%93%90D%E1%BB%B1%20%C3%A1n/X%C3%A2y%20d%E1%BB%B1ng%20h%E1%BB%87%20th%E1%BB%91ng%20kinh%20t%E1%BA%BF%20m%E1%BB%9Bi/Nh%C3%B3m%20mua%20chung,%20c%C3%A2u%20l%E1%BA%A1c%20b%E1%BB%99%20ti%C3%AAu%20d%C3%B9ng.md)
 
-## Đối tượng phục vụ
-Người mua hàng muốn có chất lượng tốt và rẻ
-Nhà sản xuất 
-
+## Đối tượng phục vụ 
 ## Hiểu biết sâu
 ## Chiến lược tiếp cận
-
 ## Sản phẩm, giải pháp 
 ## Thành quả mong muốn
 ## Vai trò thương hiệu

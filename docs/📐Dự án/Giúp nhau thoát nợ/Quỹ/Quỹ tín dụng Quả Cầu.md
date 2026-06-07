@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2026-06-05T11:41
+updated: 2026-06-07T16:25
 aliases:
   - Xây dựng quỹ tín dụng vi mô
   - Giúp nhau thoát nợ
@@ -58,10 +58,14 @@ Quỹ hiện tại đang sử dụng [hledger](../../../%F0%9F%93%9CT%C3%A0i%20n
 Xem thêm:: [Danh mục tài khoản và ý nghĩa bảng cân đối của quỹ](./Danh%20m%E1%BB%A5c%20t%C3%A0i%20kho%E1%BA%A3n%20v%C3%A0%20%C3%BD%20ngh%C4%A9a%20b%E1%BA%A3ng%20c%C3%A2n%20%C4%91%E1%BB%91i%20c%E1%BB%A7a%20qu%E1%BB%B9.md)
 
 ### Pháp lý
-Một điều chắc chắn là quỹ sẽ không đăng ký làm tổ chức tài chính vi mô, vì [Tổ chức tài chính vi mô chính thức phải có chủ là tổ chức chính trị - xã hội được thành lập hợp pháp, và khách hàng phải được xác nhận là nghèo hoặc từng nghèo](../../../%F0%9F%9B%96Ng%C3%A0nh%20ngh%E1%BB%81%20c%E1%BB%A5%20th%E1%BB%83/T%C3%A0i%20ch%C3%ADnh/T%C3%ADn%20d%E1%BB%A5ng/T%C3%ADn%20d%E1%BB%A5ng%20vi%20m%C3%B4/Lu%E1%BA%ADt/T%E1%BB%95%20ch%E1%BB%A9c%20t%C3%A0i%20ch%C3%ADnh%20vi%20m%C3%B4%20ch%C3%ADnh%20th%E1%BB%A9c%20ph%E1%BA%A3i%20c%C3%B3%20ch%E1%BB%A7%20l%C3%A0%20t%E1%BB%95%20ch%E1%BB%A9c%20ch%C3%ADnh%20tr%E1%BB%8B%20-%20x%C3%A3%20h%E1%BB%99i%20%C4%91%C6%B0%E1%BB%A3c%20th%C3%A0nh%20l%E1%BA%ADp%20h%E1%BB%A3p%20ph%C3%A1p,%20v%C3%A0%20kh%C3%A1ch%20h%C3%A0ng%20ph%E1%BA%A3i%20%C4%91%C6%B0%E1%BB%A3c%20x%C3%A1c%20nh%E1%BA%ADn%20l%C3%A0%20ngh%C3%A8o%20ho%E1%BA%B7c%20t%E1%BB%ABng%20ngh%C3%A8o.md).
+Một điều chắc chắn là quỹ sẽ không đăng ký làm tổ chức tài chính vi mô, vì [Tổ chức tài chính vi mô chính thức phải có chủ là tổ chức chính trị - xã hội được thành lập hợp pháp, và khách hàng phải được xác nhận là nghèo hoặc từng nghèo](../../../%F0%9F%9B%96Ng%C3%A0nh%20ngh%E1%BB%81%20c%E1%BB%A5%20th%E1%BB%83/T%C3%A0i%20ch%C3%ADnh/T%C3%ADn%20d%E1%BB%A5ng/T%C3%ADn%20d%E1%BB%A5ng%20vi%20m%C3%B4,%20t%C3%ADn%20d%E1%BB%A5ng%20nh%C3%A2n%20d%C3%A2n/Lu%E1%BA%ADt/T%E1%BB%95%20ch%E1%BB%A9c%20t%C3%A0i%20ch%C3%ADnh%20vi%20m%C3%B4%20ch%C3%ADnh%20th%E1%BB%A9c%20ph%E1%BA%A3i%20c%C3%B3%20ch%E1%BB%A7%20l%C3%A0%20t%E1%BB%95%20ch%E1%BB%A9c%20ch%C3%ADnh%20tr%E1%BB%8B%20-%20x%C3%A3%20h%E1%BB%99i%20%C4%91%C6%B0%E1%BB%A3c%20th%C3%A0nh%20l%E1%BA%ADp%20h%E1%BB%A3p%20ph%C3%A1p,%20v%C3%A0%20kh%C3%A1ch%20h%C3%A0ng%20ph%E1%BA%A3i%20%C4%91%C6%B0%E1%BB%A3c%20x%C3%A1c%20nh%E1%BA%ADn%20l%C3%A0%20ngh%C3%A8o%20ho%E1%BA%B7c%20t%E1%BB%ABng%20ngh%C3%A8o.md).
 
-Có thể nó sẽ hoạt động dưới hình thức hợp tác xã, doanh nghiệp xã hội hoặc chỉ đơn giản là doanh nghiệp. Nhưng nếu nó có hệ thống thông tin tốt thì chỉ cần là một nhóm, cộng đồng, mạng lưới, liên minh các cá nhân có chung mục tiêu là được. Lúc đó nên tránh gọi là quỹ vì nó tạo cảm giác là một thể thống nhất.
+Có thể nó sẽ hoạt động dưới hình thức [quỹ tín dụng nhân dân](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Ch%E1%BB%8Dn%20s%E1%BA%A3n%20ph%E1%BA%A9m%20ph%C3%B9%20h%E1%BB%A3p/Vay%20t%C3%ADn%20ch%E1%BA%A5p/Kh%C3%B4ng%20d%E1%BB%B1a%20tr%C3%AAn%20%C4%91i%E1%BB%83m%20t%C3%ADn%20d%E1%BB%A5ng/Qu%E1%BB%B9%20t%C3%ADn%20d%E1%BB%A5ng%20nh%C3%A2n%20d%C3%A2n/index.md), hoặc chỉ đơn giản là cá nhân. 
 
+Nhưng nếu có thể hoạt động dưới dạng phi tập trung hợp tác xã, doanh nghiệp xã hội hoặc chỉ đơn giản là doanh nghiệp. Nhưng nếu nó có hệ thống thông tin tốt thì chỉ cần là một nhóm, cộng đồng, mạng lưới, liên minh các cá nhân có chung mục tiêu là được. Lúc đó nên tránh gọi là quỹ vì nó tạo cảm giác là một thể thống nhất.
+
+[Điều kiện cấp giấy phép đối với quỹ tín dụng nhân dân, tổ chức tài chính vi mô](https://tapchinganhang.gov.vn/dieu-kien-cap-giay-phep-doi-voi-quy-tin-dung-nhan-dan-to-chuc-tai-chinh-vi-mo-1.html)
+[Quy định về hoạt động cho vay phục vụ kinh doanh và nhu cầu đời sống](https://thuvienphapluat.vn/chinh-sach-phap-luat-moi/vn/ho-tro-phap-luat/tu-van-phap-luat/44527/quy-dinh-ve-hoat-dong-cho-vay-phuc-vu-kinh-doanh-va-nhu-cau-doi-song)
 ## Tình hình tài chính
 Hiện tại nguồn vốn đang đến từ [Nhật](../Ng%C6%B0%E1%BB%9Di%20th%E1%BB%A5%20h%C6%B0%E1%BB%9Fng/L%C3%BD%20Minh%20Nh%E1%BA%ADt/C%C3%A1c%20kho%E1%BA%A3n%20t%C3%A0i%20s%E1%BA%A3n%20v%C3%A0%20kho%E1%BA%A3n%20n%E1%BB%A3%20Nh%E1%BA%ADt%20%C4%91%E1%BB%A9ng%20t%C3%AAn%20(phi%C3%AAn%20b%E1%BA%A3n%20cho%20b%E1%BA%A1n%20b%C3%A8).md). Hiện tại đang cho 3 bạn vay gần 50tr, trong đó gồm các khoản vay từ thẻ tín dụng sau:
 
