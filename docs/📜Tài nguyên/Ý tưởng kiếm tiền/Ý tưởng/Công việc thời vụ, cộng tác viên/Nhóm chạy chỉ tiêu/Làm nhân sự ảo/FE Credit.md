@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-01-01T22:31
-updated: 2025-12-19T11:32
+updated: 2026-06-07T14:01
 description: "Số tiền kiếm được: 6tr/tháng"
 title: Làm nhân viên ảo FE Credit
 ---
@@ -11,7 +11,7 @@ Nếu bạn làm ở [Nhóm Bình Dương 1](../../../../../../%F0%9F%93%90D%E1%
 
 ## Mô tả công việc
 ### Chuẩn bị
-- Mở tài khoản ngân hàng [VPBank](../../../../../T%C3%ACnh%20h%C3%ACnh%20%E1%BB%9F%20Vi%E1%BB%87t%20Nam/Ng%C3%A0nh%20ngh%E1%BB%81%20c%E1%BB%A5%20th%E1%BB%83/T%C3%A0i%20ch%C3%ADnh/T%E1%BB%95%20ch%E1%BB%A9c%20t%C3%ADn%20d%E1%BB%A5ng/D%E1%BB%B1a%20tr%C3%AAn%20%C4%91i%E1%BB%83m%20t%C3%ADn%20d%E1%BB%A5ng/Ng%C3%A2n%20h%C3%A0ng/Danh%20s%C3%A1ch%20ng%C3%A2n%20h%C3%A0ng/VPBank.md): 5 phút 
+- Mở tài khoản ngân hàng [VPBank](../../../../../../%F0%9F%9B%96Ng%C3%A0nh%20ngh%E1%BB%81%20c%E1%BB%A5%20th%E1%BB%83/T%C3%A0i%20ch%C3%ADnh/T%C3%ADn%20d%E1%BB%A5ng/T%C3%ADn%20d%E1%BB%A5ng%20t%C6%B0%20b%E1%BA%A3n/T%E1%BB%95%20ch%E1%BB%A9c%20c%E1%BB%A5%20th%E1%BB%83/Ng%C3%A2n%20h%C3%A0ng/Danh%20s%C3%A1ch%20ng%C3%A2n%20h%C3%A0ng/VPBank.md): 5 phút 
 - Đi phỏng vấn: 30 phút
 - Học online: 2 ngày
 - Hướng dẫn trực tiếp: 1 tiếng
