@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-01-29T18:22
-updated: 2026-04-02T13:16
+updated: 2026-06-07T14:18
 title: FE Credit
 ---
 94QĐ-VH.19 09122019
@@ -27,12 +27,13 @@ Nếu chưa phát sinh lãi, phí, phạt thì khi thanh toán sẽ trừ vào g
 
 ![Pasted image 20241230172353.png](../../../../../../../assets/attachments/Pasted%20image%2020241230172353.png)
 
-![Day 2_Sáng _P2 _2.TIẾN TRÌNH LÀM VIỆC VỚI KHÁCH HÀNG + PTP - VS 27.11.2023.pdf](../../../../../../../assets/attachments/Day%202_S%C3%A1ng%20_P2%20_2.TI%E1%BA%BEN%20TR%C3%8CNH%20L%C3%80M%20VI%E1%BB%86C%20V%E1%BB%9AI%20KH%C3%81CH%20H%C3%80NG%20+%20PTP%20-%20VS%2027.11.2023.pdf)
-
-[Làm nhân viên ảo FE Credit](../../../../../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/%C3%9D%20t%C6%B0%E1%BB%9Fng%20ki%E1%BA%BFm%20ti%E1%BB%81n/%C3%9D%20t%C6%B0%E1%BB%9Fng/C%C3%B4ng%20vi%E1%BB%87c%20th%E1%BB%9Di%20v%E1%BB%A5,%20c%E1%BB%99ng%20t%C3%A1c%20vi%C3%AAn/Nh%C3%B3m%20ch%E1%BA%A1y%20ch%E1%BB%89%20ti%C3%AAu/L%C3%A0m%20nh%C3%A2n%20s%E1%BB%B1%20%E1%BA%A3o/FE%20Credit.md)
+[Cách làm việc của nhân viên thu hồi nợ](../../../Vay%20n%E1%BB%A3/D%E1%BB%B1a%20tr%C3%AAn%20%C4%91i%E1%BB%83m%20t%C3%ADn%20d%E1%BB%A5ng/Kho%E1%BA%A3n%20vay%20c%E1%BB%A7a%20t%E1%BB%95%20ch%E1%BB%A9c%20t%C3%A0i%20ch%C3%ADnh%20ti%C3%AAu%20d%C3%B9ng/index.md)
 
 Phúc lợi:
 - Thử việc 100% lương, 80% KPI
 - Thử việc được đóng BHXH, BHYT, bảo hiểm nhân thọ và bảo hiểm sức khoẻ của Bảo Việt
 
+Ngày 31/3/2026, Hiệp hội ngân hàng Việt Nam đã có Quyết định [15/QĐ-HHNH](https://thuvienphapluat.vn/phap-luat/ho-tro-phap-luat/bo-quy-tac-ung-xu-trong-hoat-dong-thu-hoi-no-moi-nhat-duoc-hiep-hoi-ngan-hang-viet-nam-cong-bo-chi--814377-262907.html) năm 2026 ban hành Bộ Quy tắc ứng xử trong hoạt động thu hồi nợ
+
 [VIB không cho nhân viên FE vay](../../Ng%C3%A2n%20h%C3%A0ng/Ch%C3%ADnh%20s%C3%A1ch%20cho%20vay/VIB%20kh%C3%B4ng%20cho%20nh%C3%A2n%20vi%C3%AAn%20FE%20vay.md)
+[Làm nhân viên ảo FE Credit](../../../../../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/%C3%9D%20t%C6%B0%E1%BB%9Fng%20ki%E1%BA%BFm%20ti%E1%BB%81n/%C3%9D%20t%C6%B0%E1%BB%9Fng/C%C3%B4ng%20vi%E1%BB%87c%20th%E1%BB%9Di%20v%E1%BB%A5,%20c%E1%BB%99ng%20t%C3%A1c%20vi%C3%AAn/Nh%C3%B3m%20ch%E1%BA%A1y%20ch%E1%BB%89%20ti%C3%AAu/L%C3%A0m%20nh%C3%A2n%20s%E1%BB%B1%20%E1%BA%A3o/FE%20Credit.md)
