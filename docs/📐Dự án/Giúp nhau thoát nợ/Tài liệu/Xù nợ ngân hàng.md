@@ -2,11 +2,11 @@
 share: true
 created: 2025-03-27T17:13
 description: Chuyện gì sẽ xảy ra khi bị liệt là nợ xấu?
-updated: 2026-06-06T15:36
+updated: 2026-06-07T14:13
 aliases:
   - Chuyện gì sẽ xảy ra khi bị liệt là nợ xấu?
   - Lý do không muốn bị mất điểm tín dụng
-  - bùng, quịt, mất khả năng trả nợ
+  - bùng, quịt, mất khả năng trả nợ, vỡ nợ
 ---
 ## Các lý do không muốn mất điểm tín dụng
 Tại sao [Bằng mọi giá phải giữ điểm tín dụng cho sạch](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Ni%E1%BB%81m%20tin,%20di%E1%BB%85n%20ng%C3%B4n/Ti%E1%BB%81n/Vay,%20n%E1%BB%A3/B%E1%BA%B1ng%20m%E1%BB%8Di%20gi%C3%A1%20ph%E1%BA%A3i%20gi%E1%BB%AF%20%C4%91i%E1%BB%83m%20t%C3%ADn%20d%E1%BB%A5ng%20cho%20s%E1%BA%A1ch.md)? Nhất là khi việc giữ nó làm mình rất căng thẳng, còn việc mất nó thì mình vẫn đi làm được bình thường, không bị mất tài sản gì khác?
@@ -66,6 +66,8 @@ Như đã nói, ở đời muốn không va chạm, ma sát thì tốt nhất kh
    
 có thể đọc thêm về cuốn Nợ của David Graber
 Tham gia vào các ngân hàng vi mô
+
+[Ngân hàng có lợi nếu nhân viên và khách hàng hiểu vỡ nợ là xù nợ](../../../%F0%9F%9B%96Ng%C3%A0nh%20ngh%E1%BB%81%20c%E1%BB%A5%20th%E1%BB%83/T%C3%A0i%20ch%C3%ADnh/T%C3%ADn%20d%E1%BB%A5ng/T%C3%ADn%20d%E1%BB%A5ng%20t%C6%B0%20b%E1%BA%A3n/Vay%20n%E1%BB%A3/D%E1%BB%B1a%20tr%C3%AAn%20%C4%91i%E1%BB%83m%20t%C3%ADn%20d%E1%BB%A5ng/Ng%C3%A2n%20h%C3%A0ng%20c%C3%B3%20l%E1%BB%A3i%20n%E1%BA%BFu%20nh%C3%A2n%20vi%C3%AAn%20v%C3%A0%20kh%C3%A1ch%20h%C3%A0ng%20hi%E1%BB%83u%20v%E1%BB%A1%20n%E1%BB%A3%20l%C3%A0%20x%C3%B9%20n%E1%BB%A3.md)
 
 ### Lý do 4: Lúc vay mình đã đồng ý rồi. Giờ phá cam kết thì chứng tỏ mình không giữ uy tín, muốn trục lợi
 Lập luận không khác lý do 3 cho lắm. Tại sao lại phải giữ uy tín với người xem mình như là một loại tài nguyên để khai thác? 
