@@ -6,6 +6,7 @@ aliases:
   - Cách làm việc của nhân viên thu hồi nợ
 title: Khoản vay của tổ chức tài chính tiêu dùng
 ---
+- [Bên cho vay sẽ có bảo hiểm cho vay](./B%C3%AAn%20cho%20vay%20s%E1%BA%BD%20c%C3%B3%20b%E1%BA%A3o%20hi%E1%BB%83m%20cho%20vay.md)
 - [Các kỹ thuật gây áp lực với khách hàng của nhân viên đòi nợ, và cách phản hồi chúng](./C%C3%A1c%20k%E1%BB%B9%20thu%E1%BA%ADt%20g%C3%A2y%20%C3%A1p%20l%E1%BB%B1c%20v%E1%BB%9Bi%20kh%C3%A1ch%20h%C3%A0ng%20c%E1%BB%A7a%20nh%C3%A2n%20vi%C3%AAn%20%C4%91%C3%B2i%20n%E1%BB%A3,%20v%C3%A0%20c%C3%A1ch%20ph%E1%BA%A3n%20h%E1%BB%93i%20ch%C3%BAng.md)
 - [Các tài sản hay bảo hiểm chỉ là phụ thêm để tăng khả năng được duyệt, chứ hạn mức tiền vay thì đã được cố định sẵn](./C%C3%A1c%20t%C3%A0i%20s%E1%BA%A3n%20hay%20b%E1%BA%A3o%20hi%E1%BB%83m%20ch%E1%BB%89%20l%C3%A0%20ph%E1%BB%A5%20th%C3%AAm%20%C4%91%E1%BB%83%20t%C4%83ng%20kh%E1%BA%A3%20n%C4%83ng%20%C4%91%C6%B0%E1%BB%A3c%20duy%E1%BB%87t,%20ch%E1%BB%A9%20h%E1%BA%A1n%20m%E1%BB%A9c%20ti%E1%BB%81n%20vay%20th%C3%AC%20%C4%91%C3%A3%20%C4%91%C6%B0%E1%BB%A3c%20c%E1%BB%91%20%C4%91%E1%BB%8Bnh%20s%E1%BA%B5n.md)
 - [Cách nhân viên đòi nợ xác định khách hàng](./C%C3%A1ch%20nh%C3%A2n%20vi%C3%AAn%20%C4%91%C3%B2i%20n%E1%BB%A3%20x%C3%A1c%20%C4%91%E1%BB%8Bnh%20kh%C3%A1ch%20h%C3%A0ng.md)
@@ -17,8 +18,7 @@ title: Khoản vay của tổ chức tài chính tiêu dùng
 - [Ngân hàng cho người có ô tô cho vay. Công ty tài chính tiêu dùng cho người có xe máy cho vay](./Ng%C3%A2n%20h%C3%A0ng%20cho%20ng%C6%B0%E1%BB%9Di%20c%C3%B3%20%C3%B4%20t%C3%B4%20cho%20vay.%20C%C3%B4ng%20ty%20t%C3%A0i%20ch%C3%ADnh%20ti%C3%AAu%20d%C3%B9ng%20cho%20ng%C6%B0%E1%BB%9Di%20c%C3%B3%20xe%20m%C3%A1y%20cho%20vay.md)
 - [Nhân viên thu hồi nợ của công ty tài chính gặp khó khăn để thuyết phục hàng xóm, gia đình tác động khách hơn ngân hàng](./Nh%C3%A2n%20vi%C3%AAn%20thu%20h%E1%BB%93i%20n%E1%BB%A3%20c%E1%BB%A7a%20c%C3%B4ng%20ty%20t%C3%A0i%20ch%C3%ADnh%20g%E1%BA%B7p%20kh%C3%B3%20kh%C4%83n%20%C4%91%E1%BB%83%20thuy%E1%BA%BFt%20ph%E1%BB%A5c%20h%C3%A0ng%20x%C3%B3m,%20gia%20%C4%91%C3%ACnh%20t%C3%A1c%20%C4%91%E1%BB%99ng%20kh%C3%A1ch%20h%C6%A1n%20ng%C3%A2n%20h%C3%A0ng.md)
 - [Nợ quá 150 ngày thì nhân viên được phép trao đổi với người thân về việc công ty sẽ gửi yêu cầu xác minh nơi cư trú của khách hàng đến công an](./N%E1%BB%A3%20qu%C3%A1%20150%20ng%C3%A0y%20th%C3%AC%20nh%C3%A2n%20vi%C3%AAn%20%C4%91%C6%B0%E1%BB%A3c%20ph%C3%A9p%20trao%20%C4%91%E1%BB%95i%20v%E1%BB%9Bi%20ng%C6%B0%E1%BB%9Di%20th%C3%A2n%20v%E1%BB%81%20vi%E1%BB%87c%20c%C3%B4ng%20ty%20s%E1%BA%BD%20g%E1%BB%ADi%20y%C3%AAu%20c%E1%BA%A7u%20x%C3%A1c%20minh%20n%C6%A1i%20c%C6%B0%20tr%C3%BA%20c%E1%BB%A7a%20kh%C3%A1ch%20h%C3%A0ng%20%C4%91%E1%BA%BFn%20c%C3%B4ng%20an.md)
+- [Phương pháp xử lý PTP gãy](./Ph%C6%B0%C6%A1ng%20ph%C3%A1p%20x%E1%BB%AD%20l%C3%BD%20PTP%20g%C3%A3y.md)
 - [Rất nhiều các công ty tài chính tiêu dùng lấy dữ liệu từ Viettel](./R%E1%BA%A5t%20nhi%E1%BB%81u%20c%C3%A1c%20c%C3%B4ng%20ty%20t%C3%A0i%20ch%C3%ADnh%20ti%C3%AAu%20d%C3%B9ng%20l%E1%BA%A5y%20d%E1%BB%AF%20li%E1%BB%87u%20t%E1%BB%AB%20Viettel.md)
 - [Thuật ngữ](./Thu%E1%BA%ADt%20ng%E1%BB%AF.md)
 - [Để có một lời hứa thanh toán](./%C4%90%E1%BB%83%20c%C3%B3%20m%E1%BB%99t%20l%E1%BB%9Di%20h%E1%BB%A9a%20thanh%20to%C3%A1n.md)
-- [Bên cho vay sẽ có bảo hiểm cho vay](./B%C3%AAn%20cho%20vay%20s%E1%BA%BD%20c%C3%B3%20b%E1%BA%A3o%20hi%E1%BB%83m%20cho%20vay.md)
-- [Phương pháp xử lý PTP gãy](./Ph%C6%B0%C6%A1ng%20ph%C3%A1p%20x%E1%BB%AD%20l%C3%BD%20PTP%20g%C3%A3y.md)
