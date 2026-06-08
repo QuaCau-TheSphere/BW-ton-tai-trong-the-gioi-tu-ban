@@ -2,7 +2,7 @@
 share: true
 description: "Đăng ký 30 - 100 tài khoản/ngày. Số tiền kiếm được: 50k - 300k/ngày"
 created: 2025-03-27T17:13
-updated: 2026-02-17T15:16
+updated: 2026-06-08T13:15
 aliases:
   - reg acc
   - Công việc lia chuột online, tối đa 300k/ngày, làm chừng 2-4 tiếng/ngày
@@ -12,19 +12,19 @@ Số tiền kiếm được:: 50k - 300k/ngày
 Số tiền đầu tư:: 0
 
 ## Mô tả chi tiết
-Một trong những cách thức [Kiếm tiền trực tuyến (MMO)](../../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Ng%C3%A0nh%20ngh%E1%BB%81%20c%E1%BB%A5%20th%E1%BB%83/Ki%E1%BA%BFm%20ti%E1%BB%81n%20tr%E1%BB%B1c%20tuy%E1%BA%BFn%20(MMO)/index.md) là săn thưởng từ nền tảng. Vì chỉ nhận thưởng cho một tài khoản thì không đáng bõ công, nên thường người săn thưởng sẽ tạo nhiều tài khoản. Mà tạo nhiều thì không xuể, nên cần thuê người phụ tạo tài khoản giùm.
+Một trong những cách thức [Kiếm tiền trực tuyến (MMO)](../../../../../%F0%9F%92%B8H%C3%ACnh%20th%E1%BB%A9c%20ki%E1%BA%BFm%20ti%E1%BB%81n/Thi%E1%BA%BFu%20li%C3%AAm%20ch%C3%ADnh/Ki%E1%BA%BFm%20ti%E1%BB%81n%20tr%E1%BB%B1c%20tuy%E1%BA%BFn%20(MMO)/index.md) là săn thưởng từ nền tảng. Vì chỉ nhận thưởng cho một tài khoản thì không đáng bõ công, nên thường người săn thưởng sẽ tạo nhiều tài khoản. Mà tạo nhiều thì không xuể, nên cần thuê người phụ tạo tài khoản giùm.
 
 Bạn sẽ dùng một chương trình giả lập Android trên máy tính như [MEmu](https://www.memuplay.com/) hay [LDPlayer](https://vi.ldplayer.net/) để đăng ký tài khoản cho một app mỗi ngày, tổng thời gian từ 2 đến 4 tiếng, thời điểm làm tuỳ ý bạn. Các thông tin để đăng ký như SĐT, email sẽ được cung cấp đầy đủ, bạn không cần phải cung cấp thông tin gì của bạn. 12 tiếng sau vào lại xác thực SĐT, rồi ghi chú lại vào bảng kết quả.
 
 Tiền công sẽ được ưu tiên trả theo tháng, và tuỳ thuộc vào lượng tài khoản bạn tạo được trong ngày:
 
-| Số lượng       | Tiền công |
-| -------------- | --------- |
-| 30 (tối thiểu) | 50k       |
-| 45             | 60k       |
-| 60             | 100k      |
-| 75             | 200k      |
-| 100            | 300k      |
+| Số lượng | Tiền công |
+| -------- | --------- |
+|          |           |
+|          |           |
+|          |           |
+|          |           |
+|          |           |
 
 Do có rủi ro không rút tiền về được (app bắt được gian lận hoặc sập) sau 1 tháng, nên bọn mình cần bạn cùng chia sẻ rủi ro bằng việc chỉ nhận 1/3 số tiền trong trường hợp đó.
 
