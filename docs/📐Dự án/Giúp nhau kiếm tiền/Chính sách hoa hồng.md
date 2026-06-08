@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-12-21T16:02
+updated: 2026-06-08T13:13
 ---
 Khái niệm:: 
 [Tại sao nên mua bảo hiểm từ Quả Cầu?](../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Gi%E1%BB%9Bi%20thi%E1%BB%87u%20d%E1%BB%8Bch%20v%E1%BB%A5/B%E1%BA%A3o%20hi%E1%BB%83m.md)

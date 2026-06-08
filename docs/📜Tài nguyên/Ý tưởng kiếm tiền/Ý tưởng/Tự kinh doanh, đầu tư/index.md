@@ -1,10 +1,10 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2026-06-07T16:48
-title: Các ý tưởng tự kinh doanh, đầu tư
+updated: 2026-06-08T13:42
+title: Các ý tưởng kinh doanh, đầu tư
 ---
-Tổng hợp tất cả các ý tưởng kinh doanh từng được đề xuất với Nhật. Các nội dung chưa được điền đầy đủ. Hỏi Nhật để hiểu thêm. Bạn cũng có thể điền thêm ý tưởng của mình vào đây.
+Ở đây tổng hợp tất cả các ý tưởng kinh doanh từng được đề xuất với Nhật, có thể dùng để [Ý tưởng kiếm tiền từ Nhật](../../../../%F0%9F%93%90D%E1%BB%B1%20%C3%A1n/Gi%C3%BAp%20nhau%20ki%E1%BA%BFm%20ti%E1%BB%81n/%C3%9D%20t%C6%B0%E1%BB%9Fng%20ki%E1%BA%BFm%20ti%E1%BB%81n%20t%E1%BB%AB%20Nh%E1%BA%ADt.md). Bấm vào từng ý tưởng để đọc bản đề xuất của nó. Đa số chúng chưa được điền đầy đủ, do Nhật cần thêm thảo luận của mọi người để có thêm ý để bổ sung. Bạn cũng có thể điền thêm ý tưởng của mình vào đây.
 
 - \-: 
     - [Tự kinh doanh, đầu tư](index.md)
@@ -27,14 +27,14 @@ Tổng hợp tất cả các ý tưởng kinh doanh từng được đề xuất
 
 - Kết nối nhu cầu: 
     - [Kho địa điểm để chọn nơi gặp mặt](./K%E1%BA%BFt%20n%E1%BB%91i%20nhu%20c%E1%BA%A7u/Kho%20%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m%20%C4%91%E1%BB%83%20ch%E1%BB%8Dn%20n%C6%A1i%20g%E1%BA%B7p%20m%E1%BA%B7t.md)
-    - [Kết nối nhu cầu di chuyển của người khuyết tật](./K%E1%BA%BFt%20n%E1%BB%91i%20nhu%20c%E1%BA%A7u/K%E1%BA%BFt%20n%E1%BB%91i%20nhu%20c%E1%BA%A7u%20di%20chuy%E1%BB%83n%20c%E1%BB%A7a%20ng%C6%B0%E1%BB%9Di%20khuy%E1%BA%BFt%20t%E1%BA%ADt.md)
     - [Mạng xã hội nơi mọi người hiểu rõ chính mình](./K%E1%BA%BFt%20n%E1%BB%91i%20nhu%20c%E1%BA%A7u/M%E1%BA%A1ng%20x%C3%A3%20h%E1%BB%99i%20n%C6%A1i%20m%E1%BB%8Di%20ng%C6%B0%E1%BB%9Di%20hi%E1%BB%83u%20r%C3%B5%20ch%C3%ADnh%20m%C3%ACnh.md)
     - [Nhóm hỗ trợ người tự kinh doanh, đầu tư](./K%E1%BA%BFt%20n%E1%BB%91i%20nhu%20c%E1%BA%A7u/Nh%C3%B3m%20h%E1%BB%97%20tr%E1%BB%A3%20ng%C6%B0%E1%BB%9Di%20t%E1%BB%B1%20kinh%20doanh,%20%C4%91%E1%BA%A7u%20t%C6%B0.md)
     - [Nhóm hỗ trợ nhân viên văn phòng](./K%E1%BA%BFt%20n%E1%BB%91i%20nhu%20c%E1%BA%A7u/Nh%C3%B3m%20h%E1%BB%97%20tr%E1%BB%A3%20nh%C3%A2n%20vi%C3%AAn%20v%C4%83n%20ph%C3%B2ng.md)
-    - [Nhóm mua chung, câu lạc bộ tiêu dùng](./K%E1%BA%BFt%20n%E1%BB%91i%20nhu%20c%E1%BA%A7u/Nh%C3%B3m%20mua%20chung,%20c%C3%A2u%20l%E1%BA%A1c%20b%E1%BB%99%20ti%C3%AAu%20d%C3%B9ng.md)
     - [Cho vay lấy lãi](./K%E1%BA%BFt%20n%E1%BB%91i%20nhu%20c%E1%BA%A7u/T%C3%ADn%20d%E1%BB%A5ng/Cho%20vay%20l%E1%BA%A5y%20l%C3%A3i.md)
     - [Quỹ tín dụng](./K%E1%BA%BFt%20n%E1%BB%91i%20nhu%20c%E1%BA%A7u/T%C3%ADn%20d%E1%BB%A5ng/Qu%E1%BB%B9%20t%C3%ADn%20d%E1%BB%A5ng.md)
     - [Sàn cho vay ngang hàng](./K%E1%BA%BFt%20n%E1%BB%91i%20nhu%20c%E1%BA%A7u/T%C3%ADn%20d%E1%BB%A5ng/S%C3%A0n%20cho%20vay%20ngang%20h%C3%A0ng.md)
+    - [Nhóm mua chung, câu lạc bộ tiêu dùng](./K%E1%BA%BFt%20n%E1%BB%91i%20nhu%20c%E1%BA%A7u/Nh%C3%B3m%20mua%20chung,%20c%C3%A2u%20l%E1%BA%A1c%20b%E1%BB%99%20ti%C3%AAu%20d%C3%B9ng.md)
+    - [Kết nối nhu cầu di chuyển của người khuyết tật](./K%E1%BA%BFt%20n%E1%BB%91i%20nhu%20c%E1%BA%A7u/K%E1%BA%BFt%20n%E1%BB%91i%20nhu%20c%E1%BA%A7u%20di%20chuy%E1%BB%83n%20c%E1%BB%A7a%20ng%C6%B0%E1%BB%9Di%20khuy%E1%BA%BFt%20t%E1%BA%ADt.md)
 
 
 
