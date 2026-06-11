@@ -1,9 +1,8 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2026-06-09T00:02
+updated: 2026-06-11T17:08
 aliases:
-  - Tùy vào đề xuất của bạn
   - kiếm tiền từ Nhật
 ---
 Đây là các tiêu chí để Nhật nhận làm một việc gì đó:
