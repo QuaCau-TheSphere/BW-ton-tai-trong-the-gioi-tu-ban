@@ -1,15 +1,33 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2026-06-07T21:14
+updated: 2026-06-10T19:50
 ---
 Bài chi tiết:: [Bộ thẻ học từ vựng tiếng Anh nâng cao (GRE) – Quả Cầu](https://quảcầu.cc/bo-the-hoc-tu-vung-tieng-anh-nang-cao?utm_source=Vault+B+Tồn+tại+trong+thế+giới+tư+bản+(Tài+nguyên)&utm_medium=Vault&utm_campaign=Tài+nguyên+khác%2Cngôn+ngữ%2Cnét+nghĩa+ẩn%2CHọc+tiếng+Anh%2Ckhoa+học+nhận+thức&utm_content=&utm_term= )
 
 ## Thị trường & đối thủ cạnh tranh
-Những phần mềm học từ vựng nâng cao
+- Những phần mềm học từ vựng nâng cao
+- Những 
 Có nghĩa cho người Việt
 Anki có plugin
 
+có bao nhiêu người học toelf. bán cho chị Tú
+
+bị ảnh hưởng bởi chính sách du học
+gre có social standard hay ko
+muốn đi du học thì nhiều tiền
+
+Nơi nào đang yêu cầu toelf 
+
+ách nào để tăng credit 
+những cái nào giúp thuyết phục nhanh nhất
+
+
+
+3 segment:
+- Trung tâm
+- Dạy solo
+- Người học
 ## Đối tượng phục vụ 
 - Người muốn luyện GRE hoặc TOELF cao, hoặc muốn đọc được các bài phân tích sâu bằng tiếng Anh (có thể có những từ học thuật)
 - Người Việt thì càng tốt
