@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2026-06-08T21:22
+updated: 2026-06-09T23:15
 ---
 ## Vcil gửi 23/4/2026
 Chào anh Lý Minh Nhật,
@@ -242,14 +242,21 @@ Tiến trình đối thoại và đồng thuận của thành viên trong cộng
 
 Thứ duy nhất mình thấy là mình nói và có phạm luật là việc đáo thẻ tín dụng. Mình nói vì mình thấy là các bạn cũng làm tương tự. Điều đó nhất quán với tinh thần thượng tôn pháp luật của các bạn thế nào?
 
-Các bạn nói là những thông tin. Vậy còn những thông tin nào khác?
+Các bạn nói là mình đã chia sẽ "những thông tin...có dấu hiệu vi phạm pháp luật". Vậy ngoài thông tin về đáo thẻ mình còn những thông tin dấu hiệu vi phạm pháp luật nào khác?
 
 Mình biết còn những hội viên khác cũng đi đáo thẻ. Các bạn sẽ xử lý những trường hợp này thế nào?
 
 Xem thêm: [Xử lý một loạt vụ dùng máy POS “rút tiền hoặc đáo hạn thẻ tín dụng” - Cổng Thông tin điện tử thành phố Đà Nẵng](https://danang.gov.vn/vi/w/xu-ly-mot-loat-vu-dung-may-pos-rut-tien-hoac-dao-han-the-tin-dung-i)
 
 ### Thượng tôn pháp luật
+Nếu các bạn chỉ nói là tuân thủ pháp luật, thì mình không có gì để nói thêm. Nhưng vì các bạn nói là "thượng tôn pháp luật", nên mình nghĩ phải nói vài lời. 
+
+Việc tách bạch đạo đức khỏi pháp luật
 Bộ phận thi hành "án" , chứ không phải là một tổng thể mù mờ. Nó không phải là "Việt Nam" hoặc "Nhà nước Việt Nam" sẽ có quyền quyết định, mà là tòa án
+
+Nếu các bạn cũng muốn mọi người có tinh thần thượng tôn pháp luật, thì các bạn cũng nên làm gương trước.
+
+Biết luật chơi
 ### Diễn giải
 > Chúng tôi không có ý định quy kết anh
 

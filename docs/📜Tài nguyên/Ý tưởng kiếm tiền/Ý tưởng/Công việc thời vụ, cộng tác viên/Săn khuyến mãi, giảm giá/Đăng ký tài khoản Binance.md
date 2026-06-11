@@ -2,7 +2,7 @@
 share: true
 description: "Số tiền kiếm được: 200k"
 created: 2025-03-27T17:13
-updated: 2026-02-17T15:20
+updated: 2026-06-11T17:31
 ---
 Mô tả công việc:: Đăng ký tài khoản Binance mới theo link [này](https://www.binance.com/referral/mystery-box/lny-2026/claim?ref=GRO_40244_EOX6Q), kyc, làm nhiệm vụ nhanh 10ph 
 Số tiền kiếm được:: 200k
@@ -39,7 +39,7 @@ Nguyên liệu, nguồn thông tin::
 Nơi làm việc:: [Làm qua mạng](../../../%C4%90%E1%BA%B7c%20%C4%91i%E1%BB%83m%20c%C3%B4ng%20vi%E1%BB%87c/N%C6%A1i%20l%C3%A0m%20vi%E1%BB%87c/L%C3%A0m%20qua%20m%E1%BA%A1ng.md)
 Thời gian làm việc:: [Được chọn thời gian làm trong ngày](../../../%C4%90%E1%BA%B7c%20%C4%91i%E1%BB%83m%20c%C3%B4ng%20vi%E1%BB%87c/Th%E1%BB%9Di%20gian%20l%C3%A0m%20vi%E1%BB%87c/%C4%90%C6%B0%E1%BB%A3c%20ch%E1%BB%8Dn%20th%E1%BB%9Di%20gian%20l%C3%A0m%20trong%20ng%C3%A0y.md)
 Yêu cầu công nghệ:: [Có điện thoại](../../../%C4%90%E1%BA%B7c%20%C4%91i%E1%BB%83m%20c%C3%B4ng%20vi%E1%BB%87c/Y%C3%AAu%20c%E1%BA%A7u%20c%C3%B4ng%20ngh%E1%BB%87/C%C3%B3%20%C4%91i%E1%BB%87n%20tho%E1%BA%A1i.md)
-Thời điểm trả tiền:: [Trả ngay sau khi hoàn thành](../../../%C4%90%E1%BA%B7c%20%C4%91i%E1%BB%83m%20c%C3%B4ng%20vi%E1%BB%87c/Th%E1%BB%9Di%20%C4%91i%E1%BB%83m%20tr%E1%BA%A3%20ti%E1%BB%81n/Tr%E1%BA%A3%20ngay%20sau%20khi%20ho%C3%A0n%20th%C3%A0nh.md)
+Thời điểm trả tiền:: [Trả ngay sau khi hoàn thành công việc](../../../%C4%90%E1%BA%B7c%20%C4%91i%E1%BB%83m%20c%C3%B4ng%20vi%E1%BB%87c/Th%E1%BB%9Di%20%C4%91i%E1%BB%83m%20tr%E1%BA%A3%20ti%E1%BB%81n/Tr%E1%BA%A3%20ngay%20sau%20khi%20ho%C3%A0n%20th%C3%A0nh%20c%C3%B4ng%20vi%E1%BB%87c.md)
 Đặc điểm khác::
 
 ## Nơi thảo luận

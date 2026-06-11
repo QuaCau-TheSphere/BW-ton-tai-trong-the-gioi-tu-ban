@@ -2,7 +2,7 @@
 share: true
 created: 2025-03-27T17:13
 description: "Số tiền kiếm được: "
-updated: 2026-06-08T22:53
+updated: 2026-06-09T02:07
 ---
 Mô tả công việc:: Họp online hoặc lên văn phòng chơi
 Số tiền kiếm được:: Tối thiểu 600k, hoặc 1tr5/tháng
@@ -47,7 +47,11 @@ Bạn sẽ cần cung cấp CCCD để làm hồ sơ xin việc. Bạn có thể
 - Giới thiệu người mới vào làm cùng: 300k
 - Họp đầy đủ 5 ngày trong tuần: 50k
 
-> [!important] Nhìn toàn cảnh
+- cty gia dụng bên TQ, mỗi ngày đi 2-3 cửa hàng chụp hình, lcb 8-10tr,
+- cty nước lọc, lcb 10-12tr, đi khảo sát, chụp hình,
+- sendo farm, quy trình phức tạp, phải rành và biết luồng lách, lương 6-15tr, phải bỏ vốn,
+- smartpay, đi theo data có sẵn, đến để hỏi những ng đã từng xài smartpay hỏi họ có muốn vay k, lên hồ sơ cho họ, lương cứng 12tr+2tr phụ cấp+hoa hồng doanh số lên hs, thử việc 2 tháng nhận đủ lương
+
 Số tiền đầu tư:: 0
 Số tiền đặt cọc:: 
 Số người cần tuyển:: 0
