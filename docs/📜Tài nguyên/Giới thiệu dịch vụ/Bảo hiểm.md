@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-10-09T21:14
-updated: 2026-03-28T16:34
+updated: 2026-06-14T21:29
 description: (1) Bọn mình đứng về người yếu thế, (2) Bọn mình chỉ muốn nâng đỡ lý tính bạn, (3) Bạn không phải trả tiền hoa hồng cho bọn mình, (4) Bạn sẽ được hướng dẫn những cách để xử lý hồ sơ có lợi nhất
 aliases:
   - Tại sao nên mua bảo hiểm từ Quả Cầu?
@@ -61,4 +61,4 @@ Nếu bạn mua combo thì bạn sẽ được:
 Các buổi này sẽ nói đến khi bạn muốn ngừng thì thôi. Nếu bạn không cần có thể chuyển quyền lợi này cho người khác.
 
 > [!important] Nhìn toàn cảnh
-> Công việc này là một phần của dự án [Giúp nhau kiếm tiền](../../%F0%9F%93%90D%E1%BB%B1%20%C3%A1n/Gi%C3%BAp%20nhau%20ki%E1%BA%BFm%20ti%E1%BB%81n/index.md). Đọc bài đó để hiểu thêm về mục tiêu dài hạn của dự án cũng như các lợi ích khác của bạn. Ngoài ra, bạn cũng có thể tham khảo thêm [các công việc kiếm tiền nhanh](../%C3%9D%20t%C6%B0%E1%BB%9Fng%20ki%E1%BA%BFm%20ti%E1%BB%81n/%C3%9D%20t%C6%B0%E1%BB%9Fng/C%C3%B4ng%20vi%E1%BB%87c%20th%E1%BB%9Di%20v%E1%BB%A5,%20c%E1%BB%99ng%20t%C3%A1c%20vi%C3%AAn/index.md) khác.
+> Công việc này là một phần của dự án [Giúp nhau kiếm tiền](../../%F0%9F%93%90D%E1%BB%B1%20%C3%A1n/Gi%C3%BAp%20nhau%20ki%E1%BA%BFm%20ti%E1%BB%81n/index.md). Đọc bài đó để hiểu thêm về mục tiêu dài hạn của dự án cũng như các lợi ích khác của bạn. Ngoài ra, bạn cũng có thể tham khảo thêm [các công việc kiếm tiền nhanh](C%C3%A1c%20c%C3%B4ng%20vi%E1%BB%87c%20ki%E1%BA%BFm%20ti%E1%BB%81n%20nhanh.md) khác.
