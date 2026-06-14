@@ -1,9 +1,9 @@
 ---
 share: true
 created: 2024-08-23T16:39
-updated: 2026-04-15T22:59
+updated: 2026-06-12T20:53
 ---
-Khái niệm:: [App đen, vay nóng](../../../../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Vay,%20n%E1%BB%A3/App%20%C4%91en,%20vay%20n%C3%B3ng.md), [Trung Quốc](../../../../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Trung%20Qu%E1%BB%91c.md)
+Khái niệm:: [App đen, vay nóng](../../../../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/T%C3%ADn%20d%E1%BB%A5ng/Vay,%20n%E1%BB%A3/App%20%C4%91en,%20vay%20n%C3%B3ng.md), [Trung Quốc](../../../../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Nh%C3%A0%20n%C6%B0%E1%BB%9Bc/Trung%20Qu%E1%BB%91c.md)
 
 thoát tội cho vay nặng lãi
 có ai cho vay mà lãi 4000%/ năm ko
@@ -54,3 +54,4 @@ chứ toàn nuôi béo rồi thịt để lấy thành tích
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TisXdOkK6Ac?si=6a3VdDOi6cr1zsjr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hl1MdCfct5c?si=r7x63lTfjx9wOjEj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Ui14IMDJ2Z0?si=4WONYzJ-CmS0qY4L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[Title Unavailable \| Site Unreachable](https://vnexpress.net/canh-sat-dot-kich-bat-83-nguoi-trung-quoc-lap-dai-ban-doanh-lua-dao-tai-tp-hcm-5084968.html?utm_source=facebook&utm_medium=fanpage_VnE&utm_term=mix&utm_campaign=phuonguyen)

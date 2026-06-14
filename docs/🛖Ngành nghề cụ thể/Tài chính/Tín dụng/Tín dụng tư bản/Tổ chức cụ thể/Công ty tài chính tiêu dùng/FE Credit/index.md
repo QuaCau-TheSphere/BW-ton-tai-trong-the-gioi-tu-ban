@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-01-29T18:22
-updated: 2026-06-07T14:18
+updated: 2026-06-14T21:29
 title: FE Credit
 ---
 94QĐ-VH.19 09122019
@@ -36,4 +36,4 @@ Phúc lợi:
 Ngày 31/3/2026, Hiệp hội ngân hàng Việt Nam đã có Quyết định [15/QĐ-HHNH](https://thuvienphapluat.vn/phap-luat/ho-tro-phap-luat/bo-quy-tac-ung-xu-trong-hoat-dong-thu-hoi-no-moi-nhat-duoc-hiep-hoi-ngan-hang-viet-nam-cong-bo-chi--814377-262907.html) năm 2026 ban hành Bộ Quy tắc ứng xử trong hoạt động thu hồi nợ
 
 [VIB không cho nhân viên FE vay](../../Ng%C3%A2n%20h%C3%A0ng/Ch%C3%ADnh%20s%C3%A1ch%20cho%20vay/VIB%20kh%C3%B4ng%20cho%20nh%C3%A2n%20vi%C3%AAn%20FE%20vay.md)
-[Làm nhân viên ảo FE Credit](../../../../../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/%C3%9D%20t%C6%B0%E1%BB%9Fng%20ki%E1%BA%BFm%20ti%E1%BB%81n/%C3%9D%20t%C6%B0%E1%BB%9Fng/C%C3%B4ng%20vi%E1%BB%87c%20th%E1%BB%9Di%20v%E1%BB%A5,%20c%E1%BB%99ng%20t%C3%A1c%20vi%C3%AAn/Nh%C3%B3m%20ch%E1%BA%A1y%20ch%E1%BB%89%20ti%C3%AAu/L%C3%A0m%20nh%C3%A2n%20s%E1%BB%B1%20%E1%BA%A3o/FE%20Credit.md)
+[Làm nhân viên ảo FE Credit](%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/%C3%9D%20t%C6%B0%E1%BB%9Fng%20ki%E1%BA%BFm%20ti%E1%BB%81n/%C3%9D%20t%C6%B0%E1%BB%9Fng/C%C3%A1c%20c%C3%B4ng%20vi%E1%BB%87c%20ki%E1%BA%BFm%20ti%E1%BB%81n%20nhanh/C%C3%B4ng%20vi%E1%BB%87c%20gian%20l%E1%BA%ADn%20c%C3%B4ng%20ty/L%C3%A0m%20nh%C3%A2n%20s%E1%BB%B1%20%E1%BA%A3o/FE%20Credit.md)

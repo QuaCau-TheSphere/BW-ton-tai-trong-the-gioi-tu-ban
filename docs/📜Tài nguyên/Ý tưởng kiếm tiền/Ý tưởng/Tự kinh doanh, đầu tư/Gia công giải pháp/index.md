@@ -1,9 +1,15 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2026-06-05T17:19
+updated: 2026-06-14T20:33
 title: Gia công giải pháp
 ---
+- [Chuyển đổi số cho các dòng họ](./Chuy%E1%BB%83n%20%C4%91%E1%BB%95i%20s%E1%BB%91%20cho%20c%C3%A1c%20d%C3%B2ng%20h%E1%BB%8D.md)
+- [Plugin giúp phân loại dữ liệu cho các chương trình kế toán](./Plugin%20gi%C3%BAp%20ph%C3%A2n%20lo%E1%BA%A1i%20d%E1%BB%AF%20li%E1%BB%87u%20cho%20c%C3%A1c%20ch%C6%B0%C6%A1ng%20tr%C3%ACnh%20k%E1%BA%BF%20to%C3%A1n.md)
+- [Rút gọn liên kết cho các kho dữ liệu](./R%C3%BAt%20g%E1%BB%8Dn%20li%C3%AAn%20k%E1%BA%BFt%20cho%20c%C3%A1c%20kho%20d%E1%BB%AF%20li%E1%BB%87u.md)
+- [Tạo báo cáo tiếp thị quản lý được theo từng cấp](./T%E1%BA%A1o%20b%C3%A1o%20c%C3%A1o%20ti%E1%BA%BFp%20th%E1%BB%8B%20qu%E1%BA%A3n%20l%C3%BD%20%C4%91%C6%B0%E1%BB%A3c%20theo%20t%E1%BB%ABng%20c%E1%BA%A5p.md)
+- [Tổng hợp các sự kiện sắp xảy ra vào Google Calendar](./T%E1%BB%95ng%20h%E1%BB%A3p%20c%C3%A1c%20s%E1%BB%B1%20ki%E1%BB%87n%20s%E1%BA%AFp%20x%E1%BA%A3y%20ra%20v%C3%A0o%20Google%20Calendar.md)
+- [Tổng hợp thông tin khách hàng FE](./T%E1%BB%95ng%20h%E1%BB%A3p%20th%C3%B4ng%20tin%20kh%C3%A1ch%20h%C3%A0ng%20FE.md)
 
 
 Để một cá nhân, tổ chức cần thuê ngoài cần hội đủ các điều kiện sau đây:

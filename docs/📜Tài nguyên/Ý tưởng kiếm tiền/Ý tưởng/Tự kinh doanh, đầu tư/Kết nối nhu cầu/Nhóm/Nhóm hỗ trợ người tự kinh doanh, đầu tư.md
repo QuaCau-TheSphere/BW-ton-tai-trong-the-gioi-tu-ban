@@ -1,12 +1,13 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2026-06-12T15:00
+updated: 2026-06-14T20:36
 aliases:
   - Nhóm agency
 ---
 ## Thị trường & đối thủ cạnh tranh
 Các nhóm agency, các freelancer
+[Giúp nhau kiếm tiền](../../../../../../%F0%9F%93%90D%E1%BB%B1%20%C3%A1n/Gi%C3%BAp%20nhau%20ki%E1%BA%BFm%20ti%E1%BB%81n/index.md)
 
 ## Đối tượng phục vụ 
 Những solo-entrepreneur mà không có trên [Vietnam Solo Expert](https://www.soloexpert.vn), [OnAir](https://onair.today/) (tại sao?), chủ yếu là ở mid-level (tại sao?). B2B (tại sao?)
