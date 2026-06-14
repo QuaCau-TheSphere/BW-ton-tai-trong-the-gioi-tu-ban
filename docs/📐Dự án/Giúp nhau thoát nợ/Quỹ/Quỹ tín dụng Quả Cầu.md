@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2026-06-07T16:25
+updated: 2026-06-14T21:55
 aliases:
   - Xây dựng quỹ tín dụng vi mô
   - Giúp nhau thoát nợ
@@ -39,7 +39,7 @@ Người đóng góp sẽ cùng với các thành viên quỹ thảo luận các
 | Tương tự gửi tiết kiệm              | 10%/năm  | 1 tháng/3 tháng/6 tháng/1 năm           |
 | Tương tự cho vay tín dụng           | 2%/tháng | Hàng tháng                              |
 
-Ngoài lợi ích về tiền lãi họ có thể đề nghị được đáp ứng các yêu cầu khác. Ví dụ như được [giới thiệu dịch vụ](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Gi%E1%BB%9Bi%20thi%E1%BB%87u%20d%E1%BB%8Bch%20v%E1%BB%A5/index.md) của họ, hoặc được hỗ trợ xây dựng hệ thống tự động hóa. Họ cũng có thể trở thành một thành viên quỹ.
+Ngoài lợi ích về tiền lãi họ có thể đề nghị được đáp ứng các yêu cầu khác. Ví dụ như được [Giới thiệu dịch vụ](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Gi%E1%BB%9Bi%20thi%E1%BB%87u%20d%E1%BB%8Bch%20v%E1%BB%A5/index.md) của họ, hoặc được hỗ trợ xây dựng hệ thống tự động hóa. Họ cũng có thể trở thành một thành viên quỹ.
 
 Xem thêm:: [Bản câu hỏi cho người muốn tham gia góp quỹ](../T%C3%A0i%20li%E1%BB%87u/B%E1%BA%A3n%20c%C3%A2u%20h%E1%BB%8Fi/B%E1%BA%A3n%20c%C3%A2u%20h%E1%BB%8Fi%20cho%20ng%C6%B0%E1%BB%9Di%20mu%E1%BB%91n%20tham%20gia%20g%C3%B3p%20qu%E1%BB%B9.md)
 
