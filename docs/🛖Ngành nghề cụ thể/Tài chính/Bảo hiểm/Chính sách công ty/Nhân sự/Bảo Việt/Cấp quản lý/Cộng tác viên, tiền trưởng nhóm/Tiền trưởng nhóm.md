@@ -33,7 +33,7 @@ Chỉ đếm lần đầu tiên
 | Số lượng TVV HĐC               | 1     | 2   | 2   | 3   | 3   | 3   |
 | Doanh thu toàn nhóm (Tổng FYP) | 25 tr | 35  | 45  | 45  | 50  | 50  |
 | Thưởng                         | 10    | 10  | 8   | 5   | 5   | 6   |
-[Số lượng tuyển được cao lắm là 50 phần trăm](../../../../../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/M%C3%B4%20h%C3%ACnh%20nh%C3%A2n%20s%E1%BB%B1/%C4%90%E1%BA%A1i%20l%C3%BD,%20l%C6%B0%C6%A1ng%20kho%C3%A1n,%20KPI/S%E1%BB%91%20l%C6%B0%E1%BB%A3ng%20tuy%E1%BB%83n%20%C4%91%C6%B0%E1%BB%A3c%20cao%20l%E1%BA%AFm%20l%C3%A0%2050%20ph%E1%BA%A7n%20tr%C4%83m.md)
+[Số lượng tuyển được cao lắm là 50 phần trăm](../../../../../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/H%C3%ACnh%20th%E1%BB%A9c%20ki%E1%BA%BFm%20ti%E1%BB%81n/L%C3%A0m%20c%C3%B4ng%20%C4%83n%20l%C6%B0%C6%A1ng/Nh%C3%A2n%20vi%C3%AAn,%20%C4%91%E1%BA%A1i%20l%C3%BD/%C4%90%E1%BA%A1i%20l%C3%BD,%20l%C6%B0%C6%A1ng%20kho%C3%A1n,%20KPI/S%E1%BB%91%20l%C6%B0%E1%BB%A3ng%20tuy%E1%BB%83n%20%C4%91%C6%B0%E1%BB%A3c%20cao%20l%E1%BA%AFm%20l%C3%A0%2050%20ph%E1%BA%A7n%20tr%C4%83m.md)
 ## Quà mừng thăng tiến
 
 
