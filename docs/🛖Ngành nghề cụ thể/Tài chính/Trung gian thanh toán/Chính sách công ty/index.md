@@ -25,7 +25,7 @@ Các cửa hàng được chia thành 3 cấp độ:
 | 3   | Cửa hàng chất lượng | 5 giao dịch có tổng trên 2tr                                                                           | 30k       |
 
 CTV thì bị trừ 10%. 
-[Khác biệt giữa nhân viên, đại lý, cộng tác viên](../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/M%C3%B4%20h%C3%ACnh%20nh%C3%A2n%20s%E1%BB%B1/Kh%C3%A1c%20bi%E1%BB%87t%20gi%E1%BB%AFa%20nh%C3%A2n%20vi%C3%AAn,%20%C4%91%E1%BA%A1i%20l%C3%BD,%20c%E1%BB%99ng%20t%C3%A1c%20vi%C3%AAn.md)
+[Khác biệt giữa nhân viên, đại lý, cộng tác viên](../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/H%C3%ACnh%20th%E1%BB%A9c%20ki%E1%BA%BFm%20ti%E1%BB%81n/L%C3%A0m%20c%C3%B4ng%20%C4%83n%20l%C6%B0%C6%A1ng/Nh%C3%A2n%20vi%C3%AAn,%20%C4%91%E1%BA%A1i%20l%C3%BD/Kh%C3%A1c%20bi%E1%BB%87t%20gi%E1%BB%AFa%20nh%C3%A2n%20vi%C3%AAn,%20%C4%91%E1%BA%A1i%20l%C3%BD,%20c%E1%BB%99ng%20t%C3%A1c%20vi%C3%AAn.md)
 
 - ASM bị áp lực phải tuyển mới
 - Một NV mở sai thanh tra toàn bộ nhóm. Một hình phạt tập thể để ngăn việc chạy ảo
