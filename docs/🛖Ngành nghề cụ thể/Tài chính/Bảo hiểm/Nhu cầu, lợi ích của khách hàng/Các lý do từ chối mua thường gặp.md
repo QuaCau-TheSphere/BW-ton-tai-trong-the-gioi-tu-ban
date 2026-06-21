@@ -26,7 +26,7 @@ aliases:
 ## Không tiền
 > [!question] Tiền ăn chưa có lấy đâu ra
 > Thực ra mình chắc chắn sẽ không chết đói. Nếu người kiếm tiền chính trong nhà gặp rủi ro thì ai lo cho những người còn lại?
-> [Bộ não được thiết kế để loại bỏ mối nguy hiểm ngay bây giờ, không phải trong tương lai](../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/T%C3%A2m%20l%C3%BD%20h%E1%BB%8Dc%20qu%E1%BA%A3n%20l%C3%BD%20v%C3%A0%20lao%20%C4%91%E1%BB%99ng/S%E1%BA%AFp%20x%E1%BA%BFp%20%C4%91%E1%BB%99%20%C6%B0u%20ti%C3%AAn/S%E1%BB%B1%20tr%C3%AC%20ho%C3%A3n/B%E1%BB%99%20n%C3%A3o%20%C4%91%C6%B0%E1%BB%A3c%20thi%E1%BA%BFt%20k%E1%BA%BF%20%C4%91%E1%BB%83%20lo%E1%BA%A1i%20b%E1%BB%8F%20m%E1%BB%91i%20nguy%20hi%E1%BB%83m%20ngay%20b%C3%A2y%20gi%E1%BB%9D,%20kh%C3%B4ng%20ph%E1%BA%A3i%20trong%20t%C6%B0%C6%A1ng%20lai.md)
+> [Bộ não được thiết kế để loại bỏ mối nguy hiểm ngay bây giờ, không phải trong tương lai](../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/V%E1%BA%ADn%20h%C3%A0nh%20doanh%20nghi%E1%BB%87p/T%C3%A2m%20l%C3%BD%20h%E1%BB%8Dc%20qu%E1%BA%A3n%20l%C3%BD%20v%C3%A0%20lao%20%C4%91%E1%BB%99ng/S%E1%BA%AFp%20x%E1%BA%BFp%20%C4%91%E1%BB%99%20%C6%B0u%20ti%C3%AAn/S%E1%BB%B1%20tr%C3%AC%20ho%C3%A3n/B%E1%BB%99%20n%C3%A3o%20%C4%91%C6%B0%E1%BB%A3c%20thi%E1%BA%BFt%20k%E1%BA%BF%20%C4%91%E1%BB%83%20lo%E1%BA%A1i%20b%E1%BB%8F%20m%E1%BB%91i%20nguy%20hi%E1%BB%83m%20ngay%20b%C3%A2y%20gi%E1%BB%9D,%20kh%C3%B4ng%20ph%E1%BA%A3i%20trong%20t%C6%B0%C6%A1ng%20lai.md)
 > nghĩ giữa 2 tháng và 3 tháng
 > khi cần gấp 1 tỷ mà có ngay 500tr
 > tự động trích
