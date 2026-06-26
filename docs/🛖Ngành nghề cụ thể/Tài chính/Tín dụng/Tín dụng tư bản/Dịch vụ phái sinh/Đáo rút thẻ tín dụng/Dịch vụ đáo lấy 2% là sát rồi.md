@@ -1,9 +1,9 @@
 ---
 share: true
 created: 2025-04-15T23:34
-updated: 2026-04-03T14:02
+updated: 2026-06-25T11:06
 ---
-Khái niệm:: [Đáo](../../../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Vay,%20n%E1%BB%A3/%C4%90%C3%A1o.md)
+Khái niệm:: [Đáo](../../../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/T%C3%ADn%20d%E1%BB%A5ng/Vay,%20n%E1%BB%A3/%C4%90%C3%A1o.md)
 Thực chất khi làm đáo là sự hợp tác của 3 bên:
 - Bên cấp máy pos
 - Cửa hàng, đăng ký địa điểm kinh doanh
@@ -12,6 +12,8 @@ Thực chất khi làm đáo là sự hợp tác của 3 bên:
 [Luật cấm rút tiền tại cửa hàng để tránh việc rửa tiền](../../Lu%E1%BA%ADt/Lu%E1%BA%ADt%20c%E1%BA%A5m%20r%C3%BAt%20ti%E1%BB%81n%20t%E1%BA%A1i%20c%E1%BB%ADa%20h%C3%A0ng%20%C4%91%E1%BB%83%20tr%C3%A1nh%20vi%E1%BB%87c%20r%E1%BB%ADa%20ti%E1%BB%81n.md). Các cửa hàng chỉ dám làm một hai lần một tháng, chứ không dám làm thường xuyên.  Thế nên, bên đáo thẻ phải thuê các cửa hàng thật để làm. Mỗi lần là một địa điểm khác nhau.
 
 Các ngân hàng lấy phí POS là 1%. Bên cửa hàng lấy thêm 0.5%. Tới bên đáo là 0.5% nữa. Nên phí 2% là điều dễ hiểu. Những đứa chỉ lấy có 1.x% chỉ có một vài điểm bán. Những đứa này có thể sập bất cứ lúc nào.
+
+Phản ví dụ: [VNC](../../../../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Ch%E1%BB%8Dn%20s%E1%BA%A3n%20ph%E1%BA%A9m%20ph%C3%B9%20h%E1%BB%A3p/Vay%20t%C3%ADn%20ch%E1%BA%A5p/D%E1%BB%B1a%20tr%C3%AAn%20%C4%91i%E1%BB%83m%20t%C3%ADn%20d%E1%BB%A5ng/Ng%C3%A2n%20h%C3%A0ng/Th%E1%BA%BB%20t%C3%ADn%20d%E1%BB%A5ng/D%E1%BB%8Bch%20v%E1%BB%A5%20%C4%91%C3%A1o%20r%C3%BAt.md) phí chỉ có 1.5%
 
 [Cho vay kiếm lời bằng thẻ tín dụng của mình chắc chắn sẽ phạm luật](../../Vay%20n%E1%BB%A3/D%E1%BB%B1a%20tr%C3%AAn%20%C4%91i%E1%BB%83m%20t%C3%ADn%20d%E1%BB%A5ng/Cho%20vay%20ki%E1%BA%BFm%20l%E1%BB%9Di%20b%E1%BA%B1ng%20th%E1%BA%BB%20t%C3%ADn%20d%E1%BB%A5ng%20c%E1%BB%A7a%20m%C3%ACnh%20ch%E1%BA%AFc%20ch%E1%BA%AFn%20s%E1%BA%BD%20ph%E1%BA%A1m%20lu%E1%BA%ADt.md)
 
