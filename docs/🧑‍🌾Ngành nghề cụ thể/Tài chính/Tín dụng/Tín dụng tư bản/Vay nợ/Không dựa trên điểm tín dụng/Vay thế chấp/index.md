@@ -1,0 +1,9 @@
+---
+share: true
+created: 2025-03-27T17:13
+updated: 2026-04-15T20:56
+title: Vay thế chấp
+---
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OteMmvVc7k4?si=1WRdYhlc6z3Q2I0O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
