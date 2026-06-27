@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2026-06-21T16:20
+updated: 2026-06-27T20:26
 aliases:
   - Vấn đề đạo đức khi làm nhân viên ảo
 ---
@@ -17,7 +17,7 @@ Có lẽ đây là một phần trong sự mâu thuẫn giữa hệ quả luận
 Điều này cũng giống như việc [Lừa đảo hội lừa đảo](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/%C3%9D%20t%C6%B0%E1%BB%9Fng%20ki%E1%BA%BFm%20ti%E1%BB%81n/%C3%9D%20t%C6%B0%E1%BB%9Fng/Ki%E1%BA%BFm%20ti%E1%BB%81n%20nhanh/L%E1%BB%ABa%20%C4%91%E1%BA%A3o%20h%E1%BB%99i%20l%E1%BB%ABa%20%C4%91%E1%BA%A3o.md) vậy. Hai cái sai không làm nên cái đúng, nhưng nó cũng bớt tệ hơn một cái sai :-?
 Đạo đức giả
 Xem thêm:: [Lách luật là phạm luật một cách đúng luật](../Lu%E1%BA%ADt%20h%E1%BB%8Dc/L%C3%A1ch%20lu%E1%BA%ADt%20l%C3%A0%20ph%E1%BA%A1m%20lu%E1%BA%ADt%20m%E1%BB%99t%20c%C3%A1ch%20%C4%91%C3%BAng%20lu%E1%BA%ADt.md)
-[Các hình thức của sự tệ](Vi%20ph%E1%BA%A1m%20quy%20%C4%91%E1%BB%8Bnh%20ho%E1%BA%B7c%20thi%E1%BA%BFu%20li%C3%AAm%20ch%C3%ADnh.md)
+[Các hình thức của sự tệ](../../../%F0%9F%92%B8H%C3%ACnh%20th%E1%BB%A9c%20ki%E1%BA%BFm%20ti%E1%BB%81n/Thi%E1%BA%BFu%20li%C3%AAm%20ch%C3%ADnh.%20Ph%E1%BA%A1m%20ph%C3%A1p/index.md)
 
 ## Tôi thấy việc lừa dối người chưa làm hại tôi trước là điều không nên
 Quản lý cũng chỉ là người làm công ăn lương chứ không phải là cổ đông, nên về cơ bản họ cũng chịu sự bóc lột của tư bản. Đáng lẽ nạn nhân thì cần đoàn kết với nhau chứ không phải là lừa dối nhau chứ? Mà sự đoàn kết đòi hỏi sự thành thật. Đặc biệt là với các quản lý thể hiện sự quan tâm thực sự với nhân viên của mình. Cảm giác phải lừa dối người thực sự có quan tâm mình rất là khó chịu.
