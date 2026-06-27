@@ -1,0 +1,10 @@
+---
+share: true
+created: 2025-05-05T21:34
+updated: 2026-06-27T16:43
+---
+Khái niệm:: [Cướp](../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Ki%E1%BA%BFm%20ti%E1%BB%81n/Kh%C3%B4ng%20li%C3%AAm%20ch%C3%ADnh/C%C6%B0%E1%BB%9Bp.md)
+Băng cướp hoạt động bằng thương hiệu. So với lực lượng vũ trang an ninh, thì nếu xảy ra đánh nhau thì người bị thiệt nhiều hơn là chúng, nên chúng cần được mọi người truyền tai nhau rằng chúng rất ác để họ tự động đầu hàng
+
+Nguồn:: <iframe width="560" height="315" src="https://www.youtube.com/embed/3YFeE1eDlD0?si=Mpsj37YqWyRs9HIZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T0fAznO1wA8?si=KF2E6vJDfh0qugbh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

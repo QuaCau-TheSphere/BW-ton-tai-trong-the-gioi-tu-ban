@@ -1,0 +1,9 @@
+---
+share: true
+created: 2025-03-27T17:13
+updated: 2026-06-21T16:04
+---
+Khái niệm:: 
+[Sự kiện pháp lý gắn với sự phát sinh, thay đổi hoặc chấm dứt quan hệ pháp luật cụ thể  khi nó xảy ra. Nó có thể gắn liền với nhiều quan hệ pháp luật khác nhau](../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%C4%90%E1%BA%A1o%20%C4%91%E1%BB%A9c,%20ph%C3%A1p%20lu%E1%BA%ADt/Lu%E1%BA%ADt%20h%E1%BB%8Dc/S%E1%BB%B1%20ki%E1%BB%87n%20ph%C3%A1p%20l%C3%BD%20g%E1%BA%AFn%20v%E1%BB%9Bi%20s%E1%BB%B1%20ph%C3%A1t%20sinh,%20thay%20%C4%91%E1%BB%95i%20ho%E1%BA%B7c%20ch%E1%BA%A5m%20d%E1%BB%A9t%20quan%20h%E1%BB%87%20ph%C3%A1p%20lu%E1%BA%ADt%20c%E1%BB%A5%20th%E1%BB%83%20%20khi%20n%C3%B3%20x%E1%BA%A3y%20ra.%20N%C3%B3%20c%C3%B3%20th%E1%BB%83%20g%E1%BA%AFn%20li%E1%BB%81n%20v%E1%BB%9Bi%20nhi%E1%BB%81u%20quan%20h%E1%BB%87%20ph%C3%A1p%20lu%E1%BA%ADt%20kh%C3%A1c%20nhau.md)
+Nguồn:: <iframe width="560" height="315" src="https://www.youtube.com/embed/f-9AlvhYwPQ?si=Rag13zuff_2eCwN7&t=639" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[Quy phạm là các quy tắc xử sự mang tính bắt buộc do nhà nước ban hành. Chế định là nhóm các quy phạm điều chỉnh một nhóm các quan hệ xã hội cùng loại có quan hệ mật thiết với nhau](./Quy%20ph%E1%BA%A1m%20l%C3%A0%20c%C3%A1c%20quy%20t%E1%BA%AFc%20x%E1%BB%AD%20s%E1%BB%B1%20mang%20t%C3%ADnh%20b%E1%BA%AFt%20bu%E1%BB%99c%20do%20nh%C3%A0%20n%C6%B0%E1%BB%9Bc%20ban%20h%C3%A0nh.%20Ch%E1%BA%BF%20%C4%91%E1%BB%8Bnh%20l%C3%A0%20nh%C3%B3m%20c%C3%A1c%20quy%20ph%E1%BA%A1m%20%C4%91i%E1%BB%81u%20ch%E1%BB%89nh%20m%E1%BB%99t%20nh%C3%B3m%20c%C3%A1c%20quan%20h%E1%BB%87%20x%C3%A3%20h%E1%BB%99i%20c%C3%B9ng%20lo%E1%BA%A1i%20c%C3%B3%20quan%20h%E1%BB%87%20m%E1%BA%ADt%20thi%E1%BA%BFt%20v%E1%BB%9Bi%20nhau.md)
