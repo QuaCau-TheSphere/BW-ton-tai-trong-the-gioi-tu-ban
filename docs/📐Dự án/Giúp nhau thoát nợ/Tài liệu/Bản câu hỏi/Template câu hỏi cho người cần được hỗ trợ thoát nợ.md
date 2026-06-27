@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2026-04-21T00:01
+updated: 2026-06-27T18:20
 ---
 ## Tình hình chung
 ### Tại sao bạn bị nợ? 
@@ -25,13 +25,13 @@ updated: 2026-04-21T00:01
 | ...                 |      |             |             |             |     |
 
 ### Cuộc sống của bạn đã thay đổi thế nào từ lúc có nợ?
-### Bạn đã làm [báo cáo tài chính](../../../../%F0%9F%9B%96Ng%C3%A0nh%20ngh%E1%BB%81%20c%E1%BB%A5%20th%E1%BB%83/T%C3%A0i%20ch%C3%ADnh/K%E1%BA%BF%20to%C3%A1n/B%C3%A1o%20c%C3%A1o/B%C3%A1o%20c%C3%A1o%20t%C3%A0i%20ch%C3%ADnh%20c%C3%A1%20nh%C3%A2n%20g%E1%BB%93m%20b%E1%BA%A3n%20thu%20chi%20c%C3%A1%20nh%C3%A2n%20v%C3%A0%20b%E1%BA%A3n%20c%C3%A2n%20%C4%91%E1%BB%91i%20t%C3%A0i%20s%E1%BA%A3n.md) và [kế hoạch tài chính](../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/N%E1%BB%81n%20kinh%20t%E1%BA%BF%20h%C3%A0ng%20ho%C3%A1/K%E1%BA%BF%20ho%E1%BA%A1ch%20t%C3%A0i%20ch%C3%ADnh/index.md) chưa?
+### Bạn đã làm [báo cáo tài chính](../../../../%F0%9F%A7%91%E2%80%8D%F0%9F%8C%BENg%C3%A0nh%20ngh%E1%BB%81%20c%E1%BB%A5%20th%E1%BB%83/T%C3%A0i%20ch%C3%ADnh/K%E1%BA%BF%20to%C3%A1n/B%C3%A1o%20c%C3%A1o/B%C3%A1o%20c%C3%A1o%20t%C3%A0i%20ch%C3%ADnh%20c%C3%A1%20nh%C3%A2n%20g%E1%BB%93m%20b%E1%BA%A3n%20thu%20chi%20c%C3%A1%20nh%C3%A2n%20v%C3%A0%20b%E1%BA%A3n%20c%C3%A2n%20%C4%91%E1%BB%91i%20t%C3%A0i%20s%E1%BA%A3n.md) và [kế hoạch tài chính](../../../../%F0%9F%93%A6N%E1%BB%81n%20kinh%20t%E1%BA%BF%20h%C3%A0ng%20ho%C3%A1/K%E1%BA%BF%20ho%E1%BA%A1ch%20t%C3%A0i%20ch%C3%ADnh/index.md) chưa?
 ### Chi phí sinh hoạt hàng tháng
 
 | Khoản chi | Số tiền | Ngày chi | 
 | --------- | ------- | -------- |
 |           |         |          |
-### Bạn đánh giá mình thuộc loại nghèo nào? Xem chi tiết ở bài [Việt Nam không ai chết đói, chỉ có nghèo đa chiều](../../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Ch%C3%ADnh%20s%C3%A1ch%20nh%C3%A0%20n%C6%B0%E1%BB%9Bc/Kinh%20t%E1%BA%BF%20v%C4%A9%20m%C3%B4/Hi%E1%BB%87n%20tr%E1%BA%A1ng/Vi%E1%BB%87t%20Nam%20kh%C3%B4ng%20ai%20ch%E1%BA%BFt%20%C4%91%C3%B3i,%20ch%E1%BB%89%20c%C3%B3%20ngh%C3%A8o%20%C4%91a%20chi%E1%BB%81u.md)
+### Bạn đánh giá mình thuộc loại nghèo nào? Xem chi tiết ở bài [Việt Nam không ai chết đói, chỉ có nghèo đa chiều](../../../../%F0%9F%8F%9B%EF%B8%8FTh%E1%BB%83%20ch%E1%BA%BF,%20ch%C3%ADnh%20s%C3%A1ch%20c%C3%B4ng,%20qu%E1%BA%A3n%20tr%E1%BB%8B%20nh%C3%A0%20n%C6%B0%E1%BB%9Bc%20%E1%BB%9F%20Vi%E1%BB%87t%20Nam/Kinh%20t%E1%BA%BF%20v%C4%A9%20m%C3%B4/Hi%E1%BB%87n%20tr%E1%BA%A1ng/Vi%E1%BB%87t%20Nam%20kh%C3%B4ng%20ai%20ch%E1%BA%BFt%20%C4%91%C3%B3i,%20ch%E1%BB%89%20c%C3%B3%20ngh%C3%A8o%20%C4%91a%20chi%E1%BB%81u.md)
 ### Bạn có những đề xuất vay nào?
 
 | STT | Số tiền | Ngày trả | Lãi |
@@ -48,7 +48,7 @@ updated: 2026-04-21T00:01
 ### Bạn có chấp nhận [xù nợ ngân hàng](../X%C3%B9%20n%E1%BB%A3%20ng%C3%A2n%20h%C3%A0ng.md), [xù nợ vay nóng](../X%C3%B9%20n%E1%BB%A3%20vay%20n%C3%B3ng.md) không? Vì sao?
 #### Vì sao bạn không thể [chấp nhận mất điểm tín dụng](../X%C3%B9%20n%E1%BB%A3%20ng%C3%A2n%20h%C3%A0ng.md)?
 #### Giả sử như bạn chấp nhận mất, thì lý do đó có thể là gì?
-### Bạn có chấp nhận [ra khỏi thành phố sống](../Ni%E1%BB%81m%20tin/Ra%20kh%E1%BB%8Fi%20th%C3%A0nh%20ph%E1%BB%91%20s%E1%BB%91ng.md) không? Vì sao?
+### Bạn có chấp nhận [Các lý do để không về quê hoặc không sống ở thành phố lớn](../Ni%E1%BB%81m%20tin/C%C3%A1c%20l%C3%BD%20do%20%C4%91%E1%BB%83%20kh%C3%B4ng%20v%E1%BB%81%20qu%C3%AA%20ho%E1%BA%B7c%20kh%C3%B4ng%20s%E1%BB%91ng%20%E1%BB%9F%20th%C3%A0nh%20ph%E1%BB%91%20l%E1%BB%9Bn.md) không? Vì sao?
 ### Đã có bao nhiêu người biết tình hình của bạn rồi? Thái độ của họ thế nào? 
 ### Bạn đã nhận được những sự hỗ trợ nào?
 
