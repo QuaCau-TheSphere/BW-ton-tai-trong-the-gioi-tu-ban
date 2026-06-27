@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-09-22T08:45
-updated: 2026-06-14T22:09
+updated: 2026-06-16T13:19
 aliases:
   - xvnt
 ---
@@ -13,7 +13,7 @@ Nhà 117/2 Xô Viết Nghệ Tĩnh là nhà 3 tầng, mỗi tầng cho thuê:
 
 Hoa hồng theo thông lệ
 
-[Chính sách hoa hồng](../../%F0%9F%93%90D%E1%BB%B1%20%C3%A1n/Gi%C3%BAp%20nhau%20ki%E1%BA%BFm%20ti%E1%BB%81n/Ch%C3%ADnh%20s%C3%A1ch%20hoa%20h%E1%BB%93ng.md)
+[Giới thiệu dịch vụ](./index.md)
 
 ## Trước cửa
 ![z7024074634381_b8593811c5f9e383562df7fc2d58906f.jpg](../../assets/attachments/z7024074634381_b8593811c5f9e383562df7fc2d58906f.jpg)
