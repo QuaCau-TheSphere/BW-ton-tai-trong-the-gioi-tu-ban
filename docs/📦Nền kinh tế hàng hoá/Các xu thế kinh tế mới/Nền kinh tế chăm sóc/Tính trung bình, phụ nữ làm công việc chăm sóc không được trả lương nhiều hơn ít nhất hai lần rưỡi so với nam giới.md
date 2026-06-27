@@ -1,0 +1,15 @@
+---
+share: true
+created: 2023-05-26T14:51
+updated: 2025-12-19T11:32
+---
+Khái niệm:: [Phụ nữ](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Giai%20c%E1%BA%A5p.%20Ph%C3%A1t%20tri%E1%BB%83n%20b%E1%BB%81n%20v%E1%BB%AFng/Ph%E1%BB%A5%20n%E1%BB%AF.md)
+**Phụ nữ làm 75% khối lượng công việc** chăm sóc không lương trên toàn thế giới, ước tính khoảng **13% GDP toàn cầu**  
+(Nguồn: Viện Nghiên cứu Phát triển: Phân phối lại công việc chăm sóc không lương – Vì sao thuế lại có ý nghĩa đối với quyền của phụ nữ, Số 109 tháng 1/2016)  
+
+Ước tính Công việc chăm sóc không lương đóng góp trên **20% GDP của Việt Nam** (Action Aid, 2016)
+![](https://i.imgur.com/JT6FU4Y.png)
+Nguồn:: [Tài liệu thảo luận chính sách: Công việc chăm sóc không lương: Những vấn đề đặt ra và gợi ý chính sách cho Việt Nam](https://vietnam.un.org/sites/default/files/2019-08/Unpaid_Care_and_Domestic_Work_-_Tieng_Viet.pdf)
+
+100% nhân viên giúp việc của Jupviec là nữ
+Nguồn:: [ABG Open Special 2023](ABG%20Open%20Special%202023.md), Phan Hồng Minh - CEO Jupviec
