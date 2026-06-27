@@ -1,9 +1,11 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2026-06-22T07:50
+updated: 2026-06-27T20:36
 ---
 Khái niệm:: 
+
+Nếu không theo luật quốc tế thì doanh nghiệp nước ngoài không tin tưởng hoặc không nắm được hết luật VN. Nếu theo thì phải tốn chi phí cho luật sư có trình độ quốc tế và cho việc hầu kiện ở nước ngoài
 
 Nguồn:: <iframe width="560" height="315" src="https://www.youtube.com/embed/7Q_QA8WRRZ0?si=cCuKB03_bIkt-Y-L&t=6582" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

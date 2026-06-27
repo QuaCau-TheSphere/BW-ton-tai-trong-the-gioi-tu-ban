@@ -1,9 +1,9 @@
 ---
 share: true
 created: 2024-06-25T13:20
-updated: 2025-12-19T11:32
+updated: 2026-06-27T19:04
 ---
-Một hình thức ít rủi ro hơn là đi [đổi tiền](../../../../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/%C3%9D%20t%C6%B0%E1%BB%9Fng%20ki%E1%BA%BFm%20ti%E1%BB%81n/%C3%9D%20t%C6%B0%E1%BB%9Fng/Ki%E1%BA%BFm%20ti%E1%BB%81n%20nhanh/Gian%20l%E1%BA%ADn%20c%C3%B4ng%20ty/V%C3%AD%20%C4%91i%E1%BB%87n%20t%E1%BB%AD/%C4%90%E1%BB%95i%20ti%E1%BB%81n,%20ch%E1%BB%A5p%20h%C3%ACnh%20bi%E1%BB%83n%20hi%E1%BB%87u,%20d%C3%A1n%20m%C3%A3%20QR.md#Đổi%20tiền).
+Một hình thức ít rủi ro hơn là đi [đổi tiền](../../../../../../%F0%9F%92%B8H%C3%ACnh%20th%E1%BB%A9c%20ki%E1%BA%BFm%20ti%E1%BB%81n/Thi%E1%BA%BFu%20li%C3%AAm%20ch%C3%ADnh.%20Ph%E1%BA%A1m%20ph%C3%A1p/Vi%20ph%E1%BA%A1m%20d%C3%A2n%20s%E1%BB%B1/L%C3%A0m%20k%E1%BA%BFt%20qu%E1%BA%A3%20%E1%BA%A3o/C%C3%A1c%20c%C3%B4ng%20vi%E1%BB%87c/V%C3%AD%20%C4%91i%E1%BB%87n%20t%E1%BB%AD/%C4%90%E1%BB%95i%20ti%E1%BB%81n,%20ch%E1%BB%A5p%20h%C3%ACnh%20bi%E1%BB%83n%20hi%E1%BB%87u,%20d%C3%A1n%20m%C3%A3%20QR.md#Đổi%20tiền).
 ## Yêu cầu
 - Tìm được các chủ cửa hàng chấp nhận trả tiền cho mình
 - Có nhiều tài khoản ngân hàng khác chủ

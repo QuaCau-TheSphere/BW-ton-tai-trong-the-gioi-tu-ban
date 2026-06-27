@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2026-06-21T16:20
+updated: 2026-06-27T20:26
 ---
 
 Có lẽ sẽ có hai quan điểm chính về cách phản ứng khi bị trục lợi:
@@ -22,7 +22,7 @@ Giải pháp thì cũng nhiều người nói rồi. Người bình thường kh
 [Bao nhiêu kẻ phạm tội được viết trên các báo là vì ngày xưa đã bị đẩy vào sự cùng cực](../Bao%20nhi%C3%AAu%20k%E1%BA%BB%20ph%E1%BA%A1m%20t%E1%BB%99i%20%C4%91%C6%B0%E1%BB%A3c%20vi%E1%BA%BFt%20tr%C3%AAn%20c%C3%A1c%20b%C3%A1o%20l%C3%A0%20v%C3%AC%20ng%C3%A0y%20x%C6%B0a%20%C4%91%C3%A3%20b%E1%BB%8B%20%C4%91%E1%BA%A9y%20v%C3%A0o%20s%E1%BB%B1%20c%C3%B9ng%20c%E1%BB%B1c.md)
 
 
-- [Các hình thức của sự tệ](Vi%20ph%E1%BA%A1m%20quy%20%C4%91%E1%BB%8Bnh%20ho%E1%BA%B7c%20thi%E1%BA%BFu%20li%C3%AAm%20ch%C3%ADnh.md)
+- [Các hình thức của sự tệ](../../../%F0%9F%92%B8H%C3%ACnh%20th%E1%BB%A9c%20ki%E1%BA%BFm%20ti%E1%BB%81n/Thi%E1%BA%BFu%20li%C3%AAm%20ch%C3%ADnh.%20Ph%E1%BA%A1m%20ph%C3%A1p/index.md)
 - [Vấn đề đạo đức khi có lợi ích nhóm](./V%E1%BA%A5n%20%C4%91%E1%BB%81%20%C4%91%E1%BA%A1o%20%C4%91%E1%BB%A9c%20khi%20c%C3%B3%20l%E1%BB%A3i%20%C3%ADch%20nh%C3%B3m.md)
 - [Vấn đề đạo đức trong việc lừa dối cấp trên](./V%E1%BA%A5n%20%C4%91%E1%BB%81%20%C4%91%E1%BA%A1o%20%C4%91%E1%BB%A9c%20trong%20vi%E1%BB%87c%20l%E1%BB%ABa%20d%E1%BB%91i%20c%E1%BA%A5p%20tr%C3%AAn.md)
 

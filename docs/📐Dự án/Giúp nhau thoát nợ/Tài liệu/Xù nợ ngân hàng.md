@@ -2,7 +2,7 @@
 share: true
 created: 2025-03-27T17:13
 description: Chuyện gì sẽ xảy ra khi bị liệt là nợ xấu?
-updated: 2026-06-27T19:22
+updated: 2026-06-27T20:56
 aliases:
   - Chuyện gì sẽ xảy ra khi bị liệt là nợ xấu?
   - Lý do không muốn bị mất điểm tín dụng
@@ -62,16 +62,14 @@ Nó không phải là mồ hôi xương máu của người cho vay
 Đáo thì chưa trả ngân hàng, nhưng ngân hàng vẫn thu được gián tiếp từ bên đáo
 
 #### Không công bằng cho những người trả đúng hạn
-Em không trả → ngân hàng chịu lỗ so với cam kết trước chủ sở hữu vốn → họ sẽ tăng lãi suất, siết chặt điều kiện vay cho tất cả khách hàng khác, bao gồm những người lương thiện đang trả đúng hạn. Kết quả là người tốt chịu thiệt, bạn được lợi. Đây chính là vấn đề bất công mà bài viết đang chưa giải quyết được. Cố tình lợi mình mà hại người là một vi phạm đạo đức cơ bản.
-
-Như đã nói, ở đời muốn không va chạm, ma sát thì tốt nhất không tham gia cuộc chơi. Đi tu xuất thế là một cách rời bỏ cuộc chơi vật chất. Còn đã tham gia cuộc chơi rồi thì cần tự chịu trách nhiệm thay vì đổ thừa người khác muốn lừa mình. Sau đó quay qua lừa lại tổ chức. Đây chính là luân hồi trong bể khổ. Và con người lừa nhau bao nhiêu kiếp sống rồi vẫn chưa thoát được
+Có người lập luận rằng việc không trả sẽ làm ngân hàng chịu lỗ so với cam kết trước chủ sở hữu vốn, khiến tăng lãi suất, siết chặt điều kiện vay cho tất cả khách hàng khác, bao gồm những người lương thiện đang trả đúng hạn. Kết quả là người tốt chịu thiệt, bạn được lợi. Cố tình lợi mình mà hại người là một vi phạm đạo đức cơ bản. Đã tham gia cuộc chơi rồi thì cần tự chịu trách nhiệm thay vì đổ thừa người khác muốn lừa mình. Sau đó quay qua lừa lại tổ chức. Đây chính là luân hồi trong bể khổ. Và con người lừa nhau bao nhiêu kiếp sống rồi vẫn chưa thoát được.
 
 ở đây là mình không chủ động lợi mình hại người. Từ đầu mình vẫn trả, chỉ là bây giờ gánh ko nổi nữa. Mình cũng không có lợi gì ở đây, chỉ là giữa hai cái tệ cho mình thì chọn cái bớt tệ hơn. Và người bị thiệt ở đây thì chủ yếu là ngân hàng, và họ ko quá thiệt so với lợi nhuận của họ. Còn với các khách hàng đang vay khác thì cần thêm bằng chứng là họ sẽ bị thiệt nặng. Vì với ngân hàng thì hành động của mình cũng đã được tính từ trước dưới dạng xác suất khách hàng trả chậm rồi
    
 có thể đọc thêm về cuốn Nợ của David Graber
-Tham gia vào các ngân hàng vi mô
 
-[Ngân hàng có lợi nếu nhân viên và khách hàng nghĩ là xù nợ là phạm tội hình sự](../../../%F0%9F%A7%91%E2%80%8D%F0%9F%8C%BENg%C3%A0nh%20ngh%E1%BB%81%20c%E1%BB%A5%20th%E1%BB%83/T%C3%A0i%20ch%C3%ADnh/T%C3%ADn%20d%E1%BB%A5ng/T%C3%ADn%20d%E1%BB%A5ng%20t%C6%B0%20b%E1%BA%A3n/Vay%20n%E1%BB%A3/D%E1%BB%B1a%20tr%C3%AAn%20%C4%91i%E1%BB%83m%20t%C3%ADn%20d%E1%BB%A5ng/Ng%C3%A2n%20h%C3%A0ng%20c%C3%B3%20l%E1%BB%A3i%20n%E1%BA%BFu%20nh%C3%A2n%20vi%C3%AAn%20v%C3%A0%20kh%C3%A1ch%20h%C3%A0ng%20ngh%C4%A9%20l%C3%A0%20x%C3%B9%20n%E1%BB%A3%20l%C3%A0%20ph%E1%BA%A1m%20t%E1%BB%99i%20h%C3%ACnh%20s%E1%BB%B1.md)
+
+[Ngân hàng có lợi nếu nhân viên và khách hàng nghĩ là xù nợ là phạm tội hình sự, hoặc làm bất công với người khác](../../../%F0%9F%A7%91%E2%80%8D%F0%9F%8C%BENg%C3%A0nh%20ngh%E1%BB%81%20c%E1%BB%A5%20th%E1%BB%83/T%C3%A0i%20ch%C3%ADnh/T%C3%ADn%20d%E1%BB%A5ng/T%C3%ADn%20d%E1%BB%A5ng%20t%C6%B0%20b%E1%BA%A3n/Vay%20n%E1%BB%A3/D%E1%BB%B1a%20tr%C3%AAn%20%C4%91i%E1%BB%83m%20t%C3%ADn%20d%E1%BB%A5ng/Ng%C3%A2n%20h%C3%A0ng%20c%C3%B3%20l%E1%BB%A3i%20n%E1%BA%BFu%20nh%C3%A2n%20vi%C3%AAn%20v%C3%A0%20kh%C3%A1ch%20h%C3%A0ng%20ngh%C4%A9%20l%C3%A0%20x%C3%B9%20n%E1%BB%A3%20l%C3%A0%20ph%E1%BA%A1m%20t%E1%BB%99i%20h%C3%ACnh%20s%E1%BB%B1,%20ho%E1%BA%B7c%20l%C3%A0m%20b%E1%BA%A5t%20c%C3%B4ng%20v%E1%BB%9Bi%20ng%C6%B0%E1%BB%9Di%20kh%C3%A1c.md)
 
 ### Lý do 4: Lúc vay mình đã đồng ý rồi. Giờ phá cam kết thì chứng tỏ mình không giữ uy tín, muốn trục lợi
 Lập luận không khác lý do 3 cho lắm. Tại sao lại phải giữ uy tín với người xem mình như là một loại tài nguyên để khai thác? 
@@ -94,7 +92,7 @@ Nếu đồng ý rằng về mặt đạo đức mình đã hoàn thành nghĩa 
 [Điều gì khiến một người không muốn từ bỏ thiết chế tư bản](../Ng%C6%B0%E1%BB%9Di%20th%E1%BB%A5%20h%C6%B0%E1%BB%9Fng/%C4%90i%E1%BB%81u%20g%C3%AC%20khi%E1%BA%BFn%20m%E1%BB%99t%20ng%C6%B0%E1%BB%9Di%20kh%C3%B4ng%20mu%E1%BB%91n%20t%E1%BB%AB%20b%E1%BB%8F%20thi%E1%BA%BFt%20ch%E1%BA%BF%20t%C6%B0%20b%E1%BA%A3n.md)
 
 ### Lý do 7: Muốn được tập trung vào thứ làm mình rực rỡ
-Bạn có thấy mình làm thứ gì đó mà nếu không làm thế giới sẽ phải tiếc nuối không? Nếu không thì có lẽ thế giới cũng không cần phải giữ điểm tín dụng sạch cho bạn làm gì.
+Bạn có thấy mình làm thứ gì đó mà nếu không làm thế giới sẽ phải tiếc nuối không? Nếu không thì có lẽ thế giới cũng không cần phải giữ điểm tín dụng sạch cho bạn làm gì. Nếu cần vay thì hãy tham gia vào các [Tổ chức tài chính vi mô](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Ch%E1%BB%8Dn%20s%E1%BA%A3n%20ph%E1%BA%A9m%20ph%C3%B9%20h%E1%BB%A3p/Vay%20t%C3%ADn%20ch%E1%BA%A5p/Kh%C3%B4ng%20d%E1%BB%B1a%20tr%C3%AAn%20%C4%91i%E1%BB%83m%20t%C3%ADn%20d%E1%BB%A5ng/T%E1%BB%95%20ch%E1%BB%A9c%20t%C3%A0i%20ch%C3%ADnh%20vi%20m%C3%B4/index.md).
 
 #### Giúp đỡ được mọi người tốt hơn
 Có những tổ chức còn nhiều tiền hơn cả bạn bây giờ. Tại sao không vào?
@@ -110,12 +108,13 @@ Bất kể việc giúp đỡ mọi người là một sở thích cá nhân hay
 	- [ ] Quan điểm của họ thế nào?
 	- [ ] Bạn có chấp nhận được việc nhân viên đòi nợ xuống kiếm gia đình mình không?
 	- [ ] Bạn có thể đảm bảo con cái có cuộc sống ổn định không?
-- [ ] Bạn đang được những ai hỗ trợ?
+- [ ] Bạn đang được những ai hỗ trợ? Có những [Tổ chức tài chính vi mô](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Ch%E1%BB%8Dn%20s%E1%BA%A3n%20ph%E1%BA%A9m%20ph%C3%B9%20h%E1%BB%A3p/Vay%20t%C3%ADn%20ch%E1%BA%A5p/Kh%C3%B4ng%20d%E1%BB%B1a%20tr%C3%AAn%20%C4%91i%E1%BB%83m%20t%C3%ADn%20d%E1%BB%A5ng/T%E1%BB%95%20ch%E1%BB%A9c%20t%C3%A0i%20ch%C3%ADnh%20vi%20m%C3%B4/index.md) nào bạn thỏa điều kiện?
 
 ## Vấn đề pháp lý
-[Ngân hàng có lợi nếu nhân viên và khách hàng nghĩ là xù nợ là phạm tội hình sự](../../../%F0%9F%A7%91%E2%80%8D%F0%9F%8C%BENg%C3%A0nh%20ngh%E1%BB%81%20c%E1%BB%A5%20th%E1%BB%83/T%C3%A0i%20ch%C3%ADnh/T%C3%ADn%20d%E1%BB%A5ng/T%C3%ADn%20d%E1%BB%A5ng%20t%C6%B0%20b%E1%BA%A3n/Vay%20n%E1%BB%A3/D%E1%BB%B1a%20tr%C3%AAn%20%C4%91i%E1%BB%83m%20t%C3%ADn%20d%E1%BB%A5ng/Ng%C3%A2n%20h%C3%A0ng%20c%C3%B3%20l%E1%BB%A3i%20n%E1%BA%BFu%20nh%C3%A2n%20vi%C3%AAn%20v%C3%A0%20kh%C3%A1ch%20h%C3%A0ng%20ngh%C4%A9%20l%C3%A0%20x%C3%B9%20n%E1%BB%A3%20l%C3%A0%20ph%E1%BA%A1m%20t%E1%BB%99i%20h%C3%ACnh%20s%E1%BB%B1.md). Thực ra thì nó thế nào?
+[Ngân hàng có lợi nếu nhân viên và khách hàng nghĩ là xù nợ là phạm tội hình sự, hoặc làm bất công với người khác](../../../%F0%9F%A7%91%E2%80%8D%F0%9F%8C%BENg%C3%A0nh%20ngh%E1%BB%81%20c%E1%BB%A5%20th%E1%BB%83/T%C3%A0i%20ch%C3%ADnh/T%C3%ADn%20d%E1%BB%A5ng/T%C3%ADn%20d%E1%BB%A5ng%20t%C6%B0%20b%E1%BA%A3n/Vay%20n%E1%BB%A3/D%E1%BB%B1a%20tr%C3%AAn%20%C4%91i%E1%BB%83m%20t%C3%ADn%20d%E1%BB%A5ng/Ng%C3%A2n%20h%C3%A0ng%20c%C3%B3%20l%E1%BB%A3i%20n%E1%BA%BFu%20nh%C3%A2n%20vi%C3%AAn%20v%C3%A0%20kh%C3%A1ch%20h%C3%A0ng%20ngh%C4%A9%20l%C3%A0%20x%C3%B9%20n%E1%BB%A3%20l%C3%A0%20ph%E1%BA%A1m%20t%E1%BB%99i%20h%C3%ACnh%20s%E1%BB%B1,%20ho%E1%BA%B7c%20l%C3%A0m%20b%E1%BA%A5t%20c%C3%B4ng%20v%E1%BB%9Bi%20ng%C6%B0%E1%BB%9Di%20kh%C3%A1c.md). Thực ra thì nó thế nào?
 
-> [!attention] Nội dung trong phần này chỉ có giá trị giáo dục, không phải là tư vấn luật. Cũng như LLM, chúng tôi có thể sai.
+> [!attention] Nội dung trong phần này chỉ có giá trị giáo dục, không phải là tư vấn luật
+> Cũng như LLM, chúng tôi có thể sai.
 
 Luật không định nghĩa các khái niệm như bùng, quịt, xù, vỡ nợ, mà chỉ phân biệt là có hành vi lừa đảo hay lạm dụng tín nhiệm chiếm đoạt tài sản hay không. Tuy trả nợ khi đến hạn là nghĩa vụ bắt buộc của người đi vay, nhưng nếu bên vay không trả **vì lý do bất đắc dĩ** như phá sản, làm ăn thua lỗ, v.v. thì sẽ **không bị truy cứu trách nhiệm hình sự**. Nhưng nếu bị chứng minh là:
 - có ý định vay để xù ngay từ đầu thì sẽ phạm tội "lừa đảo chiếm đoạt tài sản" (Điều 174 Bộ luật Hình sự)

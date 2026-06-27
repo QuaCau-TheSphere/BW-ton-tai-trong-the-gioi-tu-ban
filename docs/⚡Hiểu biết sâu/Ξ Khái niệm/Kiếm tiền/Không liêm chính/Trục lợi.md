@@ -1,9 +1,9 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2026-06-21T16:20
+updated: 2026-06-27T20:26
 ---
-[Vi phạm quy định hoặc thiếu liêm chính](Vi%20ph%E1%BA%A1m%20quy%20%C4%91%E1%BB%8Bnh%20ho%E1%BA%B7c%20thi%E1%BA%BFu%20li%C3%AAm%20ch%C3%ADnh.md)
+[Thiếu liêm chính. Phạm pháp](../../../../%F0%9F%92%B8H%C3%ACnh%20th%E1%BB%A9c%20ki%E1%BA%BFm%20ti%E1%BB%81n/Thi%E1%BA%BFu%20li%C3%AAm%20ch%C3%ADnh.%20Ph%E1%BA%A1m%20ph%C3%A1p/index.md)
 - \-: 
     - [Ở hiền gặp trục lợi](../../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Ni%E1%BB%81m%20tin,%20di%E1%BB%85n%20ng%C3%B4n/C%C3%A1%20nh%C3%A2n/%E1%BB%9E%20hi%E1%BB%81n%20g%E1%BA%B7p%20tr%E1%BB%A5c%20l%E1%BB%A3i.md)
 

@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-23T17:44
-updated: 2026-06-21T16:20
+updated: 2026-06-27T20:26
 ---
 Đây là giải thích chi tiết cho công việc [Giữ tiền hộ](../../../../%F0%9F%92%B8H%C3%ACnh%20th%E1%BB%A9c%20ki%E1%BA%BFm%20ti%E1%BB%81n/Thi%E1%BA%BFu%20li%C3%AAm%20ch%C3%ADnh.%20Ph%E1%BA%A1m%20ph%C3%A1p/Vi%20ph%E1%BA%A1m%20d%C3%A2n%20s%E1%BB%B1/L%C3%A0m%20k%E1%BA%BFt%20qu%E1%BA%A3%20%E1%BA%A3o/C%C3%A1c%20c%C3%B4ng%20vi%E1%BB%87c/S%C3%A0n%20th%C6%B0%C6%A1ng%20m%E1%BA%A1i%20%C4%91i%E1%BB%87n%20t%E1%BB%AD/Gi%E1%BB%AF%20ti%E1%BB%81n%20h%E1%BB%99.md).
 
@@ -20,7 +20,7 @@ Xem thêm:: [Luật phạt từ 40tr khi cho thuê, mượn tài khoản ngân h
 Nếu bạn sợ lừa đảo thì xem [Cảnh giác lừa đảo](../../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/C%E1%BA%A3nh%20gi%C3%A1c%20l%E1%BB%ABa%20%C4%91%E1%BA%A3o/index.md)
 
 ## Đây là thiếu liêm chính
-Đúng vậy, [Vi phạm quy định hoặc thiếu liêm chính](Vi%20ph%E1%BA%A1m%20quy%20%C4%91%E1%BB%8Bnh%20ho%E1%BA%B7c%20thi%E1%BA%BFu%20li%C3%AAm%20ch%C3%ADnh.md). [Nhóm giúp nhau kiếm tiền](../../index.md)
+Đúng vậy, [Thiếu liêm chính. Phạm pháp](../../../../%F0%9F%92%B8H%C3%ACnh%20th%E1%BB%A9c%20ki%E1%BA%BFm%20ti%E1%BB%81n/Thi%E1%BA%BFu%20li%C3%AAm%20ch%C3%ADnh.%20Ph%E1%BA%A1m%20ph%C3%A1p/index.md). [Nhóm giúp nhau kiếm tiền](../../index.md)
 [Các lý do cho việc giúp đỡ hoặc không giúp đỡ](../../../Gi%C3%BAp%20nhau%20tho%C3%A1t%20n%E1%BB%A3/T%C3%A0i%20li%E1%BB%87u/Ni%E1%BB%81m%20tin/C%C3%A1c%20l%C3%BD%20do%20cho%20vi%E1%BB%87c%20gi%C3%BAp%20%C4%91%E1%BB%A1%20ho%E1%BA%B7c%20kh%C3%B4ng%20gi%C3%BAp%20%C4%91%E1%BB%A1.md)
 
 ## Chuyện gì sẽ xảy ra nếu tôi bị phát hiện là đang tiếp tay cho gian lận?

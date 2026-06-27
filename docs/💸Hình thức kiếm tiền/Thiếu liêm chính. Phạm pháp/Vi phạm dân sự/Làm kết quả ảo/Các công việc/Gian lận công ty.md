@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-10-29T19:32
-updated: 2026-06-27T16:43
+updated: 2026-06-27T20:26
 aliases:
   - chạy chỉ tiêu
   - chơi chính sách
@@ -11,7 +11,7 @@ title: Các công việc gian lận công ty
 Tên gọi khác: chạy chỉ tiêu, chơi chính sách, bào tiền
 Cố gắng là các công việc có mức độ rủi ro pháp lý thấp.
 
-Xem thêm:: [Các hình thức của sự tệ](Vi%20ph%E1%BA%A1m%20quy%20%C4%91%E1%BB%8Bnh%20ho%E1%BA%B7c%20thi%E1%BA%BFu%20li%C3%AAm%20ch%C3%ADnh.md)
+Xem thêm:: [Các hình thức của sự tệ](../../../index.md)
 
 ## Các công việc
 ### Công việc trong [Sàn thương mại điện tử](./S%C3%A0n%20th%C6%B0%C6%A1ng%20m%E1%BA%A1i%20%C4%91i%E1%BB%87n%20t%E1%BB%AD/index.md)
