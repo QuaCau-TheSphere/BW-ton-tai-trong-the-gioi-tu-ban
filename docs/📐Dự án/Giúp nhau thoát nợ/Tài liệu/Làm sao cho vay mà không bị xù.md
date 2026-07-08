@@ -1,7 +1,7 @@
 ---
 share: true
-created: 2025-03-27T17:13
-updated: 2026-06-27T18:08
+updated: 2026-07-06T21:39
+created: 2025-08-17T09:07
 ---
 Sự tin tưởng vào con người trong đô thị Việt Nam đang ở mức thấp, vì không ai kiểm soát được 
 Về việc xù thì quỹ sẽ cư xử văn minh, không thuê ai đòi nợ cả. Một đứa xù thì cả lũ phải chịu. Để điều này xảy ra thì cần giải quyết được hai vấn đề:
@@ -37,7 +37,7 @@ Câu trả lời đơn giản là không cho vay lớn để giảm thiểu tác
 Điều này cũng giải quyết vấn đề chính quyền lo lắng về một hệ thống có dòng tiền lớn nằm ngoài tầm kiểm soát. Vì đơn giản là dòng tiền này không lớn.
 
 Xem thêm:: [Xử lý người xù nợ](./X%E1%BB%AD%20l%C3%BD%20ng%C6%B0%E1%BB%9Di%20x%C3%B9%20n%E1%BB%A3.md)
-Xem thêm:: [Cảnh giác lừa đảo](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/C%E1%BA%A3nh%20gi%C3%A1c%20l%E1%BB%ABa%20%C4%91%E1%BA%A3o/index.md)
+Xem thêm:: [Cảnh giác lừa đảo](../../../%F0%9F%92%B8H%C3%ACnh%20th%E1%BB%A9c%20ki%E1%BA%BFm%20ti%E1%BB%81n/Thi%E1%BA%BFu%20li%C3%AAm%20ch%C3%ADnh.%20Ph%E1%BA%A1m%20ph%C3%A1p/C%E1%BA%A3nh%20gi%C3%A1c%20l%E1%BB%ABa%20%C4%91%E1%BA%A3o/index.md)
 
 ---
 
