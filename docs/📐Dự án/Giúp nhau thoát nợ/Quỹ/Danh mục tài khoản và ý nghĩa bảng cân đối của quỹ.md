@@ -1,7 +1,6 @@
 ---
 share: true
-created: 2025-03-27T17:13
-updated: 2026-06-07T16:25
+updated: 2026-07-06T21:09
 cssClasses: wide-table
 aliases:
   - Xây dựng ontology
@@ -11,7 +10,7 @@ aliases:
 
 Nên hệ thống cần phù hợp cho hệ thống có sự chuyển đổi qua nhiều giai đoạn. PTA. Khi tra bên này bên kia thì cần plaintext
 
- [Tài khoản có thể được phân loại theo người sở hữu, nơi lưu tiền, mục đích sử dụng](../../../%F0%9F%9B%96Ng%C3%A0nh%20ngh%E1%BB%81%20c%E1%BB%A5%20th%E1%BB%83/T%C3%A0i%20ch%C3%ADnh/K%E1%BA%BF%20to%C3%A1n/B%E1%BA%A3n%20ch%E1%BA%A5t%20to%C3%A1n%20h%E1%BB%8Dc,%20h%E1%BB%87%20th%E1%BB%91ng%20th%C3%B4ng%20tin/T%C3%A0i%20kho%E1%BA%A3n%20c%C3%B3%20th%E1%BB%83%20%C4%91%C6%B0%E1%BB%A3c%20ph%C3%A2n%20lo%E1%BA%A1i%20theo%20ng%C6%B0%E1%BB%9Di%20s%E1%BB%9F%20h%E1%BB%AFu,%20n%C6%A1i%20l%C6%B0u%20ti%E1%BB%81n,%20m%E1%BB%A5c%20%C4%91%C3%ADch%20s%E1%BB%AD%20d%E1%BB%A5ng.md). Ban đầu cách tiếp cận egocentricism là thuận tiện, khi mà:
+ [Tài khoản có thể được phân loại theo người sở hữu, nơi lưu tiền, mục đích sử dụng](../../../%F0%9F%A7%91%E2%80%8D%F0%9F%8C%BENg%C3%A0nh%20ngh%E1%BB%81%20c%E1%BB%A5%20th%E1%BB%83/T%C3%A0i%20ch%C3%ADnh/K%E1%BA%BF%20to%C3%A1n/B%E1%BA%A3n%20ch%E1%BA%A5t%20to%C3%A1n%20h%E1%BB%8Dc,%20h%E1%BB%87%20th%E1%BB%91ng%20th%C3%B4ng%20tin/T%C3%A0i%20kho%E1%BA%A3n%20c%C3%B3%20th%E1%BB%83%20%C4%91%C6%B0%E1%BB%A3c%20ph%C3%A2n%20lo%E1%BA%A1i%20theo%20ng%C6%B0%E1%BB%9Di%20s%E1%BB%9F%20h%E1%BB%AFu,%20n%C6%A1i%20l%C6%B0u%20ti%E1%BB%81n,%20m%E1%BB%A5c%20%C4%91%C3%ADch%20s%E1%BB%AD%20d%E1%BB%A5ng.md). Ban đầu cách tiếp cận egocentricism là thuận tiện, khi mà:
 - Các nơi lưu tiền đứng tên mình có thể được liệt kê ra, còn tất cả những nơi lưu tiền của  người khác thì gom chung vào một nơi lưu tiền cũng được
 - Có thể đảm bảo mỗi một nơi lưu tiền chỉ được dùng cho một mục đích
 - Có thể đảm bảo mỗi một mục đích chỉ được dùng cho một nơi lưu tiền
@@ -26,7 +25,7 @@ Tuy nhiên khi các giao dịch càng ngày càng nhiều, các điều kiện t
 	- Khi đi rút tiền để cho mượn thì lấy kèm tiền trong bóp để đỡ phải mất phí rút
 - Chuyển luôn từ người gửi cho người nhận chứ không qua cái của mình
 
-Đánh đổi cái nhức đầu trong tương lai cho cái tiện hiện tại. [Về mặt nhận thức, con người tương lai của chính mình không liên quan gì đến mình](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/T%C3%A2m%20l%C3%BD%20h%E1%BB%8Dc%20qu%E1%BA%A3n%20l%C3%BD%20v%C3%A0%20lao%20%C4%91%E1%BB%99ng/S%E1%BA%AFp%20x%E1%BA%BFp%20%C4%91%E1%BB%99%20%C6%B0u%20ti%C3%AAn/S%E1%BB%B1%20tr%C3%AC%20ho%C3%A3n/V%E1%BB%81%20m%E1%BA%B7t%20nh%E1%BA%ADn%20th%E1%BB%A9c,%20con%20ng%C6%B0%E1%BB%9Di%20t%C6%B0%C6%A1ng%20lai%20c%E1%BB%A7a%20ch%C3%ADnh%20m%C3%ACnh%20kh%C3%B4ng%20li%C3%AAn%20quan%20g%C3%AC%20%C4%91%E1%BA%BFn%20m%C3%ACnh.md). Cho đến khi lý tưởng trở thành thực tế, thì còn nhức đầu 
+Đánh đổi cái nhức đầu trong tương lai cho cái tiện hiện tại. [Về mặt nhận thức, con người tương lai của chính mình không liên quan gì đến mình](../../../%F0%9F%8F%A2V%E1%BA%ADn%20h%C3%A0nh%20doanh%20nghi%E1%BB%87p/T%C3%A2m%20l%C3%BD%20h%E1%BB%8Dc%20qu%E1%BA%A3n%20l%C3%BD%20v%C3%A0%20lao%20%C4%91%E1%BB%99ng/S%E1%BA%AFp%20x%E1%BA%BFp%20%C4%91%E1%BB%99%20%C6%B0u%20ti%C3%AAn/S%E1%BB%B1%20tr%C3%AC%20ho%C3%A3n/V%E1%BB%81%20m%E1%BA%B7t%20nh%E1%BA%ADn%20th%E1%BB%A9c,%20con%20ng%C6%B0%E1%BB%9Di%20t%C6%B0%C6%A1ng%20lai%20c%E1%BB%A7a%20ch%C3%ADnh%20m%C3%ACnh%20kh%C3%B4ng%20li%C3%AAn%20quan%20g%C3%AC%20%C4%91%E1%BA%BFn%20m%C3%ACnh.md). Cho đến khi lý tưởng trở thành thực tế, thì còn nhức đầu 
 
 Để cho tiện, trong bài này "tài khoản" sẽ dùng để gọi cho các tài khoản thuộc loại mục đích sử dụng. Còn các tài khoản thuộc loại nơi lưu tiền sẽ được gọi là "nơi lưu tiền". 
 - Tài khoản: `Giúp:Lộc`. Các cấp độ đều là mục đích
@@ -87,7 +86,7 @@ Dấu của giao dịch:
 	- Chi phí cho việc giúp khi họ chưa trả
 - 0:
 	- Mình trả nợ giùm (nợ của họ với người khác thành nợ của họ với mình)
-	- Mình chuyển tiền giùm, và mục đích của việc chuyển không phải là để trả nợ. VD: [Nhận tiền hộ](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/%C3%9D%20t%C6%B0%E1%BB%9Fng%20ki%E1%BA%BFm%20ti%E1%BB%81n/%C3%9D%20t%C6%B0%E1%BB%9Fng/C%C3%B4ng%20vi%E1%BB%87c%20th%E1%BB%9Di%20v%E1%BB%A5,%20c%E1%BB%99ng%20t%C3%A1c%20vi%C3%AAn/Nh%C3%B3m%20ch%E1%BA%A1y%20ch%E1%BB%89%20ti%C3%AAu/S%C3%A0n%20th%C6%B0%C6%A1ng%20m%E1%BA%A1i%20%C4%91i%E1%BB%87n%20t%E1%BB%AD/Gi%E1%BB%AF%20ti%E1%BB%81n%20h%E1%BB%99.md)
+	- Mình chuyển tiền giùm, và mục đích của việc chuyển không phải là để trả nợ. VD: [Nhận tiền hộ](../../../%F0%9F%92%B8H%C3%ACnh%20th%E1%BB%A9c%20ki%E1%BA%BFm%20ti%E1%BB%81n/Thi%E1%BA%BFu%20li%C3%AAm%20ch%C3%ADnh.%20Ph%E1%BA%A1m%20ph%C3%A1p/C%C3%A1ch%20l%C3%A0m%20c%E1%BB%A5%20th%E1%BB%83/Vi%20ph%E1%BA%A1m%20d%C3%A2n%20s%E1%BB%B1/L%C3%A0m%20k%E1%BA%BFt%20qu%E1%BA%A3%20%E1%BA%A3o/C%C3%A1c%20c%C3%B4ng%20vi%E1%BB%87c/S%C3%A0n%20th%C6%B0%C6%A1ng%20m%E1%BA%A1i%20%C4%91i%E1%BB%87n%20t%E1%BB%AD/Gi%E1%BB%AF%20ti%E1%BB%81n%20h%E1%BB%99.md)
 	- Chi phí cho việc giúp (VD: cà phê, đáo) và họ trả tại chỗ 
 - Dương:
 	- Tiền ủng hộ của mọi người
@@ -99,7 +98,7 @@ Dấu của giao dịch:
 Cơ bản là đồng nhất với dấu giao dịch của thẻ cho họ mượn.
 
 
-[Âm hay dương trong giao dịch là tiền ra hay tiền vào. Âm dương trong cân đối là tiền nợ hay tiền có](../../../%F0%9F%9B%96Ng%C3%A0nh%20ngh%E1%BB%81%20c%E1%BB%A5%20th%E1%BB%83/T%C3%A0i%20ch%C3%ADnh/K%E1%BA%BF%20to%C3%A1n/B%C3%A1o%20c%C3%A1o/%C3%82m%20hay%20d%C6%B0%C6%A1ng%20trong%20giao%20d%E1%BB%8Bch%20l%C3%A0%20ti%E1%BB%81n%20ra%20hay%20ti%E1%BB%81n%20v%C3%A0o.%20%C3%82m%20d%C6%B0%C6%A1ng%20trong%20c%C3%A2n%20%C4%91%E1%BB%91i%20l%C3%A0%20ti%E1%BB%81n%20n%E1%BB%A3%20hay%20ti%E1%BB%81n%20c%C3%B3.md). [Số âm hay dương có ý nghĩa khác nhau tuỳ vào góc nhìn chuyển tiền hay người thực hiện giao dịch](../../../%F0%9F%9B%96Ng%C3%A0nh%20ngh%E1%BB%81%20c%E1%BB%A5%20th%E1%BB%83/T%C3%A0i%20ch%C3%ADnh/K%E1%BA%BF%20to%C3%A1n/B%E1%BA%A3n%20ch%E1%BA%A5t%20to%C3%A1n%20h%E1%BB%8Dc,%20h%E1%BB%87%20th%E1%BB%91ng%20th%C3%B4ng%20tin/S%E1%BB%91%20%C3%A2m%20hay%20d%C6%B0%C6%A1ng%20c%C3%B3%20%C3%BD%20ngh%C4%A9a%20kh%C3%A1c%20nhau%20tu%E1%BB%B3%20v%C3%A0o%20g%C3%B3c%20nh%C3%ACn%20chuy%E1%BB%83n%20ti%E1%BB%81n%20hay%20ng%C6%B0%E1%BB%9Di%20th%E1%BB%B1c%20hi%E1%BB%87n%20giao%20d%E1%BB%8Bch.md)
+[Âm hay dương trong giao dịch là tiền ra hay tiền vào. Âm dương trong cân đối là tiền nợ hay tiền có](../../../%F0%9F%A7%91%E2%80%8D%F0%9F%8C%BENg%C3%A0nh%20ngh%E1%BB%81%20c%E1%BB%A5%20th%E1%BB%83/T%C3%A0i%20ch%C3%ADnh/K%E1%BA%BF%20to%C3%A1n/B%C3%A1o%20c%C3%A1o/%C3%82m%20hay%20d%C6%B0%C6%A1ng%20trong%20giao%20d%E1%BB%8Bch%20l%C3%A0%20ti%E1%BB%81n%20ra%20hay%20ti%E1%BB%81n%20v%C3%A0o.%20%C3%82m%20d%C6%B0%C6%A1ng%20trong%20c%C3%A2n%20%C4%91%E1%BB%91i%20l%C3%A0%20ti%E1%BB%81n%20n%E1%BB%A3%20hay%20ti%E1%BB%81n%20c%C3%B3.md). [Số âm hay dương có ý nghĩa khác nhau tuỳ vào góc nhìn chuyển tiền hay người thực hiện giao dịch](../../../%F0%9F%A7%91%E2%80%8D%F0%9F%8C%BENg%C3%A0nh%20ngh%E1%BB%81%20c%E1%BB%A5%20th%E1%BB%83/T%C3%A0i%20ch%C3%ADnh/K%E1%BA%BF%20to%C3%A1n/B%E1%BA%A3n%20ch%E1%BA%A5t%20to%C3%A1n%20h%E1%BB%8Dc,%20h%E1%BB%87%20th%E1%BB%91ng%20th%C3%B4ng%20tin/S%E1%BB%91%20%C3%A2m%20hay%20d%C6%B0%C6%A1ng%20c%C3%B3%20%C3%BD%20ngh%C4%A9a%20kh%C3%A1c%20nhau%20tu%E1%BB%B3%20v%C3%A0o%20g%C3%B3c%20nh%C3%ACn%20chuy%E1%BB%83n%20ti%E1%BB%81n%20hay%20ng%C6%B0%E1%BB%9Di%20th%E1%BB%B1c%20hi%E1%BB%87n%20giao%20d%E1%BB%8Bch.md)
 
 ## Mô hình biểu diễn dữ liệu (ontology)
 ### Mô hình 1: Ghi người cho vay chuyển qua người vay thông qua quỹ giúp người vay
