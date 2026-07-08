@@ -1,7 +1,7 @@
 ---
 share: true
-created: 2025-03-27T17:13
-updated: 2026-05-21T21:51
+updated: 2026-07-07T13:00
+created: 2026-05-21T21:38
 ---
 Khái niệm:: [Nông nghiệp, nông thôn](../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Giai%20c%E1%BA%A5p.%20Ph%C3%A1t%20tri%E1%BB%83n%20b%E1%BB%81n%20v%E1%BB%AFng/N%C3%B4ng%20nghi%E1%BB%87p,%20n%C3%B4ng%20th%C3%B4n.md)
 
@@ -142,5 +142,5 @@ Hoặc nếu chưa vội thì đơn giản hơn là trồng vài chậu rau trê
 
 Nguồn:: [LÀM NÔNG MÀ KHÔNG ĐẤT, KHÔNG TIỀN,... - Nông Trại Bảo Bảo \| Facebook](https://www.facebook.com/baobao.boiboi.laclac/posts/pfbid02gpGuNP55u31ygYsjzifj76QpN1LuWqZjciD24tsuK9BzjuWxNEPeQwELyFFZCzMMl)
 
-[Nền kinh tế vừa đủ](../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Ph%C3%A1t%20tri%E1%BB%83n%20b%E1%BB%81n%20v%E1%BB%AFng.%20C%C3%A1c%20n%E1%BB%81n%20kinh%20t%E1%BA%BF%20thay%20th%E1%BA%BF/Kinh%20t%E1%BA%BF%20thay%20th%E1%BA%BF/N%E1%BB%81n%20kinh%20t%E1%BA%BF%20v%E1%BB%ABa%20%C4%91%E1%BB%A7/index.md)
+[Nền kinh tế vừa đủ](../../%F0%9F%8E%81Ph%C3%A1t%20tri%E1%BB%83n%20b%E1%BB%81n%20v%E1%BB%AFng.%20C%C3%A1c%20n%E1%BB%81n%20kinh%20t%E1%BA%BF%20thay%20th%E1%BA%BF/Gi%E1%BA%A3i%20ph%C3%A1p/C%C3%A1c%20n%E1%BB%81n%20kinh%20t%E1%BA%BF%20thay%20th%E1%BA%BF/N%E1%BB%81n%20kinh%20t%E1%BA%BF%20v%E1%BB%ABa%20%C4%91%E1%BB%A7/index.md)
 [Nông nghiệp sinh thái ở Việt Nam](./N%C3%B4ng%20nghi%E1%BB%87p%20sinh%20th%C3%A1i%20%E1%BB%9F%20Vi%E1%BB%87t%20Nam.md)
