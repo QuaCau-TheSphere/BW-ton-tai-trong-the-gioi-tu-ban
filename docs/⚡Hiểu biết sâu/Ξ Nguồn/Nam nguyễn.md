@@ -1,7 +1,7 @@
 ---
 share: true
-created: 2025-03-27T17:13
-updated: 2025-12-21T15:44
+updated: 2026-07-07T12:59
+created: 2025-12-13T16:26
 ---
 muốn có 2 điểm quỹ độc lập tự chạy hoàn toàn đã
 anh có tính làm web ko? Lên web thì dễ tìm lại hơn
@@ -16,11 +16,11 @@ Nếu các ông đb đc thì các ông lấy tiền nhà ra mà cho hx vay
 
 em nghĩ anh lên một bài về sự tin tưởng trong việc vay đi. Kiểu vì sao anh ko cho vay mà chỉ cho, và việc bảo lãnh thì ko bằng việc làm quỹ chung
 
-[Người nghèo đô thị bị mất tính cộng đồng, còn người vùng khó khăn thì ít nhiều vẫn còn](../Ph%C3%A1t%20tri%E1%BB%83n%20b%E1%BB%81n%20v%E1%BB%AFng.%20C%C3%A1c%20n%E1%BB%81n%20kinh%20t%E1%BA%BF%20thay%20th%E1%BA%BF/Th%E1%BB%B1c%20tr%E1%BA%A1ng/Ng%C6%B0%E1%BB%9Di%20ngh%C3%A8o/Ng%C6%B0%E1%BB%9Di%20ngh%C3%A8o%20%C4%91%C3%B4%20th%E1%BB%8B%20b%E1%BB%8B%20m%E1%BA%A5t%20t%C3%ADnh%20c%E1%BB%99ng%20%C4%91%E1%BB%93ng,%20c%C3%B2n%20ng%C6%B0%E1%BB%9Di%20v%C3%B9ng%20kh%C3%B3%20kh%C4%83n%20th%C3%AC%20%C3%ADt%20nhi%E1%BB%81u%20v%E1%BA%ABn%20c%C3%B2n.md) đúng ko?
+[Người nghèo đô thị bị mất tính cộng đồng, còn người vùng khó khăn thì ít nhiều vẫn còn](../../%F0%9F%8E%81Ph%C3%A1t%20tri%E1%BB%83n%20b%E1%BB%81n%20v%E1%BB%AFng.%20C%C3%A1c%20n%E1%BB%81n%20kinh%20t%E1%BA%BF%20thay%20th%E1%BA%BF/Th%E1%BB%B1c%20tr%E1%BA%A1ng/Ng%C6%B0%E1%BB%9Di%20ngh%C3%A8o/Ng%C6%B0%E1%BB%9Di%20ngh%C3%A8o%20%C4%91%C3%B4%20th%E1%BB%8B%20b%E1%BB%8B%20m%E1%BA%A5t%20t%C3%ADnh%20c%E1%BB%99ng%20%C4%91%E1%BB%93ng,%20c%C3%B2n%20ng%C6%B0%E1%BB%9Di%20v%C3%B9ng%20kh%C3%B3%20kh%C4%83n%20th%C3%AC%20%C3%ADt%20nhi%E1%BB%81u%20v%E1%BA%ABn%20c%C3%B2n.md) đúng ko?
 
 
 
-[Hụi từng người cầm dễ vỡ, cũng như không tính đến lạm phát](../Ph%C3%A1t%20tri%E1%BB%83n%20b%E1%BB%81n%20v%E1%BB%AFng.%20C%C3%A1c%20n%E1%BB%81n%20kinh%20t%E1%BA%BF%20thay%20th%E1%BA%BF/T%C3%A0i%20ch%C3%ADnh%20vi%20m%C3%B4,%20t%C3%A0i%20ch%C3%ADnh%20thay%20th%E1%BA%BF/H%E1%BB%A5i/H%E1%BB%A5i%20t%E1%BB%ABng%20ng%C6%B0%E1%BB%9Di%20c%E1%BA%A7m%20d%E1%BB%85%20v%E1%BB%A1,%20c%C5%A9ng%20nh%C6%B0%20kh%C3%B4ng%20t%C3%ADnh%20%C4%91%E1%BA%BFn%20l%E1%BA%A1m%20ph%C3%A1t.md)
+[Hụi từng người cầm dễ vỡ, cũng như không tính đến lạm phát](../../%F0%9F%8E%81Ph%C3%A1t%20tri%E1%BB%83n%20b%E1%BB%81n%20v%E1%BB%AFng.%20C%C3%A1c%20n%E1%BB%81n%20kinh%20t%E1%BA%BF%20thay%20th%E1%BA%BF/Gi%E1%BA%A3i%20ph%C3%A1p/T%C3%A0i%20ch%C3%ADnh%20vi%20m%C3%B4,%20t%C3%A0i%20ch%C3%ADnh%20thay%20th%E1%BA%BF/H%E1%BB%A5i/H%E1%BB%A5i%20t%E1%BB%ABng%20ng%C6%B0%E1%BB%9Di%20c%E1%BA%A7m%20d%E1%BB%85%20v%E1%BB%A1,%20c%C5%A9ng%20nh%C6%B0%20kh%C3%B4ng%20t%C3%ADnh%20%C4%91%E1%BA%BFn%20l%E1%BA%A1m%20ph%C3%A1t.md)
 
 anh có bài nào phân tích điểm mạnh điểm yếu các mô hình quỹ cộng đồng khác ko?
 
@@ -152,7 +152,7 @@ Nhưng tư duy nó khác đó nha.
 
 Cái qch nó cộng đồng hơn nhiều
 
-[Hụi hợp với người nghèo đô thị](../Ph%C3%A1t%20tri%E1%BB%83n%20b%E1%BB%81n%20v%E1%BB%AFng.%20C%C3%A1c%20n%E1%BB%81n%20kinh%20t%E1%BA%BF%20thay%20th%E1%BA%BF/T%C3%A0i%20ch%C3%ADnh%20vi%20m%C3%B4,%20t%C3%A0i%20ch%C3%ADnh%20thay%20th%E1%BA%BF/H%E1%BB%A5i/H%E1%BB%A5i%20h%E1%BB%A3p%20v%E1%BB%9Bi%20ng%C6%B0%E1%BB%9Di%20ngh%C3%A8o%20%C4%91%C3%B4%20th%E1%BB%8B.md)
+[Hụi hợp với người nghèo đô thị](../../%F0%9F%8E%81Ph%C3%A1t%20tri%E1%BB%83n%20b%E1%BB%81n%20v%E1%BB%AFng.%20C%C3%A1c%20n%E1%BB%81n%20kinh%20t%E1%BA%BF%20thay%20th%E1%BA%BF/Gi%E1%BA%A3i%20ph%C3%A1p/T%C3%A0i%20ch%C3%ADnh%20vi%20m%C3%B4,%20t%C3%A0i%20ch%C3%ADnh%20thay%20th%E1%BA%BF/H%E1%BB%A5i/H%E1%BB%A5i%20h%E1%BB%A3p%20v%E1%BB%9Bi%20ng%C6%B0%E1%BB%9Di%20ngh%C3%A8o%20%C4%91%C3%B4%20th%E1%BB%8B.md)
 
 Thì cơ bản là làm thay đổi tư duy họ thôi, dựa vào nền tảng họ sẵn có?
 Thay đổi qch dễ hơn
@@ -169,7 +169,7 @@ em nghĩ gọi là quỹ cộng đồng thì mọi người sẽ thấy chung ch
 Ông hiểu thành "cách triển khai mô hình qcđ tại những địa phương khó khăn" rồi
 
 Mà cg thường chỉ thấy những vùng khó khăn mới có vsla/qch thôi
-[Nơi không khó khăn thì không cần tài trợ đối ứng](../Ph%C3%A1t%20tri%E1%BB%83n%20b%E1%BB%81n%20v%E1%BB%AFng.%20C%C3%A1c%20n%E1%BB%81n%20kinh%20t%E1%BA%BF%20thay%20th%E1%BA%BF/T%C3%A0i%20ch%C3%ADnh%20vi%20m%C3%B4,%20t%C3%A0i%20ch%C3%ADnh%20thay%20th%E1%BA%BF/Qu%E1%BB%B9%20c%E1%BB%99ng%20%C4%91%E1%BB%93ng/N%C6%A1i%20kh%C3%B4ng%20kh%C3%B3%20kh%C4%83n%20th%C3%AC%20kh%C3%B4ng%20c%E1%BA%A7n%20t%C3%A0i%20tr%E1%BB%A3%20%C4%91%E1%BB%91i%20%E1%BB%A9ng.md)
+[Nơi không khó khăn thì không cần tài trợ đối ứng](../../%F0%9F%8E%81Ph%C3%A1t%20tri%E1%BB%83n%20b%E1%BB%81n%20v%E1%BB%AFng.%20C%C3%A1c%20n%E1%BB%81n%20kinh%20t%E1%BA%BF%20thay%20th%E1%BA%BF/Gi%E1%BA%A3i%20ph%C3%A1p/T%C3%A0i%20ch%C3%ADnh%20vi%20m%C3%B4,%20t%C3%A0i%20ch%C3%ADnh%20thay%20th%E1%BA%BF/Qu%E1%BB%B9%20c%E1%BB%99ng%20%C4%91%E1%BB%93ng/N%C6%A1i%20kh%C3%B4ng%20kh%C3%B3%20kh%C4%83n%20th%C3%AC%20kh%C3%B4ng%20c%E1%BA%A7n%20t%C3%A0i%20tr%E1%BB%A3%20%C4%91%E1%BB%91i%20%E1%BB%A9ng.md)
 
 
 người nghèo đô thị thì ko ở vùng khó khăn. Vậy họ cũng ko cần qch luôn?
