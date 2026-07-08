@@ -1,7 +1,7 @@
 ---
 share: true
-created: 2025-03-27T17:13
-updated: 2025-12-19T11:32
+updated: 2026-07-07T13:00
+created: 2025-10-03T21:41
 ---
 Khái niệm:: 
 [Tài sản hết khấu hao làm tài sản tăng sốc](./T%C3%A0i%20s%E1%BA%A3n,%20n%E1%BB%A3/T%C3%A0i%20s%E1%BA%A3n%20h%E1%BA%BFt%20kh%E1%BA%A5u%20hao%20l%C3%A0m%20t%C3%A0i%20s%E1%BA%A3n%20t%C4%83ng%20s%E1%BB%91c.md)
