@@ -1,10 +1,10 @@
 ---
 share: true
-created: 2025-03-27T17:13
-updated: 2026-06-27T20:56
+updated: 2026-07-07T12:59
 aliases:
   - quỹ tín dụng vi mô
 description: Dịch vụ cho vay vì người yếu thế
+created: 2025-04-14T12:53
 title: Tổ chức tài chính vi mô
 ---
 Khái niệm:: [Tài chính vi mô](../../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/T%C3%ADn%20d%E1%BB%A5ng/T%C3%A0i%20ch%C3%ADnh%20vi%20m%C3%B4.md)
