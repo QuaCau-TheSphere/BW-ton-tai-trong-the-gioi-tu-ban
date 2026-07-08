@@ -1,12 +1,12 @@
 ---
 share: true
-created: 2025-03-27T17:13
-updated: 2026-04-03T16:55
+updated: 2026-07-07T13:00
 aliases:
   - CBBank sau khi sát nhập vào VCB trở thành VCB Neo
   - DongA Bank sau khi sát nhập vào HDBank trở thành Vikki Bank
   - GPBank được chuyển giao bắt buộc về VPBank
   - OceanBank sau khi sát nhập vào MBBank trở thành MBV
+created: 2026-04-02T16:50
 ---
 Khái niệm:: 
 [Ngân hàng không thể nào phá sản mà chỉ bị sát nhập. Vì nếu để một ngân hàng phá sản thì nó làm mất uy tín của cả ngành](../../../Lu%E1%BA%ADt/Ng%C3%A2n%20h%C3%A0ng%20kh%C3%B4ng%20th%E1%BB%83%20n%C3%A0o%20ph%C3%A1%20s%E1%BA%A3n%20m%C3%A0%20ch%E1%BB%89%20b%E1%BB%8B%20s%C3%A1t%20nh%E1%BA%ADp.%20V%C3%AC%20n%E1%BA%BFu%20%C4%91%E1%BB%83%20m%E1%BB%99t%20ng%C3%A2n%20h%C3%A0ng%20ph%C3%A1%20s%E1%BA%A3n%20th%C3%AC%20n%C3%B3%20l%C3%A0m%20m%E1%BA%A5t%20uy%20t%C3%ADn%20c%E1%BB%A7a%20c%E1%BA%A3%20ng%C3%A0nh.md)
