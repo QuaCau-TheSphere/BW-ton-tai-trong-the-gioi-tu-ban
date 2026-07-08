@@ -1,7 +1,7 @@
 ---
 share: true
 description: Chuyện gì sẽ xảy ra khi bị liệt là nợ xấu?
-updated: 2026-07-06T21:39
+updated: 2026-07-08T21:02
 aliases:
   - Chuyện gì sẽ xảy ra khi bị liệt là nợ xấu?
   - Lý do không muốn bị mất điểm tín dụng
@@ -27,7 +27,7 @@ Nhà nghiên cứu [Helena Norberg-Hodge](https://en.wikipedia.org/wiki/Helena_N
 
 Việc thay đổi cuộc sống nằm ở trong suy nghĩ
 
-Thường giải pháp tối ưu đòi hỏi phải tự làm ra lương thực cho mình. Tức là làm nông. Xem bài [Làm nông không đất, không tiền, không kinh nghiệm thì bắt đầu từ đâu](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/S%E1%BB%91ng%20v%E1%BB%ABa%20%C4%91%E1%BB%A7,%20b%E1%BB%81n%20v%E1%BB%AFng,%20ti%E1%BA%BFt%20ki%E1%BB%87m/L%C3%A0m%20n%C3%B4ng%20kh%C3%B4ng%20%C4%91%E1%BA%A5t,%20kh%C3%B4ng%20ti%E1%BB%81n,%20kh%C3%B4ng%20kinh%20nghi%E1%BB%87m%20th%C3%AC%20b%E1%BA%AFt%20%C4%91%E1%BA%A7u%20t%E1%BB%AB%20%C4%91%C3%A2u.md).
+Thường giải pháp tối ưu đòi hỏi phải tự làm ra lương thực cho mình. Tức là làm nông. Xem bài [Đừng bỏ việc thành phố ngay lập tức. Hãy giữ công việc cũ trong giai đoạn đầu. Cuối tuần về quê làm, tích lũy kinh nghiệm](../../../%F0%9F%8E%81Ph%C3%A1t%20tri%E1%BB%83n%20b%E1%BB%81n%20v%E1%BB%AFng.%20C%C3%A1c%20n%E1%BB%81n%20kinh%20t%E1%BA%BF%20thay%20th%E1%BA%BF/Gi%E1%BA%A3i%20ph%C3%A1p/V%E1%BB%81%20v%C6%B0%E1%BB%9Dn,%20n%C3%B4ng%20nghi%E1%BB%87p%20sinh%20th%C3%A1i/%C4%90%E1%BB%ABng%20b%E1%BB%8F%20vi%E1%BB%87c%20th%C3%A0nh%20ph%E1%BB%91%20ngay%20l%E1%BA%ADp%20t%E1%BB%A9c.%20H%C3%A3y%20gi%E1%BB%AF%20c%C3%B4ng%20vi%E1%BB%87c%20c%C5%A9%20trong%20giai%20%C4%91o%E1%BA%A1n%20%C4%91%E1%BA%A7u.%20Cu%E1%BB%91i%20tu%E1%BA%A7n%20v%E1%BB%81%20qu%C3%AA%20l%C3%A0m,%20t%C3%ADch%20l%C5%A9y%20kinh%20nghi%E1%BB%87m.md).
 
 [Có nhiều lý do để không về quê hoặc không sống ở thành phố lớn](./Ni%E1%BB%81m%20tin/C%C3%A1c%20l%C3%BD%20do%20%C4%91%E1%BB%83%20kh%C3%B4ng%20v%E1%BB%81%20qu%C3%AA%20ho%E1%BA%B7c%20kh%C3%B4ng%20s%E1%BB%91ng%20%E1%BB%9F%20th%C3%A0nh%20ph%E1%BB%91%20l%E1%BB%9Bn.md), và những lý do đó là hợp lý. Nhưng để vừa vẫn ở trong thành phố vừa đạt được ước mơ thay đổi cuộc sống, thì phải cần có thêm bao nhiêu tiền nữa? Giờ giả sử bạn hết nợ và vẫn giữ được điểm tín dụng thì mọi chuyện sẽ khác biệt thế nào, hay là bạn cũng sẽ vay tiền để đầu tư một cái gì đó? Nếu vậy thì chờ thêm 5 năm nữa thì có khác biệt gì?
 
