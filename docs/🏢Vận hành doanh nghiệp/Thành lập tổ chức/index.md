@@ -17,10 +17,10 @@ title: Thành lập tổ chức
     - [Nhà đầu tư đầu tư vào việc kinh doanh, không phải ý tưởng](./Nh%C3%A0%20%C4%91%E1%BA%A7u%20t%C6%B0%20%C4%91%E1%BA%A7u%20t%C6%B0%20v%C3%A0o%20vi%E1%BB%87c%20kinh%20doanh,%20kh%C3%B4ng%20ph%E1%BA%A3i%20%C3%BD%20t%C6%B0%E1%BB%9Fng.md)
     - [Thành lập tổ chức](index.md)
     - [Trách nhiệm hữu hạn là việc tách bạch giữa tài sản của chủ thể kinh doanh và tài sản của chủ sở hữu](./Tr%C3%A1ch%20nhi%E1%BB%87m%20h%E1%BB%AFu%20h%E1%BA%A1n%20l%C3%A0%20vi%E1%BB%87c%20t%C3%A1ch%20b%E1%BA%A1ch%20gi%E1%BB%AFa%20t%C3%A0i%20s%E1%BA%A3n%20c%E1%BB%A7a%20ch%E1%BB%A7%20th%E1%BB%83%20kinh%20doanh%20v%C3%A0%20t%C3%A0i%20s%E1%BA%A3n%20c%E1%BB%A7a%20ch%E1%BB%A7%20s%E1%BB%9F%20h%E1%BB%AFu.md)
+    - [Việc có được khách hàng mới có thể tốn kém hơn từ 5 đến 25 lần so với việc giữ chân một khách hàng hiện có](./Vi%E1%BB%87c%20c%C3%B3%20%C4%91%C6%B0%E1%BB%A3c%20kh%C3%A1ch%20h%C3%A0ng%20m%E1%BB%9Bi%20c%C3%B3%20th%E1%BB%83%20t%E1%BB%91n%20k%C3%A9m%20h%C6%A1n%20t%E1%BB%AB%205%20%C4%91%E1%BA%BFn%2025%20l%E1%BA%A7n%20so%20v%E1%BB%9Bi%20vi%E1%BB%87c%20gi%E1%BB%AF%20ch%C3%A2n%20m%E1%BB%99t%20kh%C3%A1ch%20h%C3%A0ng%20hi%E1%BB%87n%20c%C3%B3.md)
     - [Việc sản xuất truyền thống đòi hỏi phải chấp nhận việc chất lượng không đồng đều](./Vi%E1%BB%87c%20s%E1%BA%A3n%20xu%E1%BA%A5t%20truy%E1%BB%81n%20th%E1%BB%91ng%20%C4%91%C3%B2i%20h%E1%BB%8Fi%20ph%E1%BA%A3i%20ch%E1%BA%A5p%20nh%E1%BA%ADn%20vi%E1%BB%87c%20ch%E1%BA%A5t%20l%C6%B0%E1%BB%A3ng%20kh%C3%B4ng%20%C4%91%E1%BB%93ng%20%C4%91%E1%BB%81u.md)
     - [Đầu tư thì có khả năng mất trắng. Còn kinh doanh thì có thể lỗ nhưng không đến nỗi mất sạch](./%C4%90%E1%BA%A7u%20t%C6%B0%20th%C3%AC%20c%C3%B3%20kh%E1%BA%A3%20n%C4%83ng%20m%E1%BA%A5t%20tr%E1%BA%AFng.%20C%C3%B2n%20kinh%20doanh%20th%C3%AC%20c%C3%B3%20th%E1%BB%83%20l%E1%BB%97%20nh%C6%B0ng%20kh%C3%B4ng%20%C4%91%E1%BA%BFn%20n%E1%BB%97i%20m%E1%BA%A5t%20s%E1%BA%A1ch.md)
     - [Đổi mới sáng tạo là hành vi có chi phí giao dịch cao và quyền sở hữu không hoàn hảo, vì ý tưởng dễ bị sao chép, lợi ích khó định lượng, và rủi ro thất bại cao](./%C4%90%E1%BB%95i%20m%E1%BB%9Bi%20s%C3%A1ng%20t%E1%BA%A1o%20l%C3%A0%20h%C3%A0nh%20vi%20c%C3%B3%20chi%20ph%C3%AD%20giao%20d%E1%BB%8Bch%20cao%20v%C3%A0%20quy%E1%BB%81n%20s%E1%BB%9F%20h%E1%BB%AFu%20kh%C3%B4ng%20ho%C3%A0n%20h%E1%BA%A3o,%20v%C3%AC%20%C3%BD%20t%C6%B0%E1%BB%9Fng%20d%E1%BB%85%20b%E1%BB%8B%20sao%20ch%C3%A9p,%20l%E1%BB%A3i%20%C3%ADch%20kh%C3%B3%20%C4%91%E1%BB%8Bnh%20l%C6%B0%E1%BB%A3ng,%20v%C3%A0%20r%E1%BB%A7i%20ro%20th%E1%BA%A5t%20b%E1%BA%A1i%20cao.md)
-    - [Việc có được khách hàng mới có thể tốn kém hơn từ 5 đến 25 lần so với việc giữ chân một khách hàng hiện có](./Vi%E1%BB%87c%20c%C3%B3%20%C4%91%C6%B0%E1%BB%A3c%20kh%C3%A1ch%20h%C3%A0ng%20m%E1%BB%9Bi%20c%C3%B3%20th%E1%BB%83%20t%E1%BB%91n%20k%C3%A9m%20h%C6%A1n%20t%E1%BB%AB%205%20%C4%91%E1%BA%BFn%2025%20l%E1%BA%A7n%20so%20v%E1%BB%9Bi%20vi%E1%BB%87c%20gi%E1%BB%AF%20ch%C3%A2n%20m%E1%BB%99t%20kh%C3%A1ch%20h%C3%A0ng%20hi%E1%BB%87n%20c%C3%B3.md)
 
 - B2B: 
     - [Hành vi mua hàng trong B2B](./B2B/H%C3%A0nh%20vi%20mua%20h%C3%A0ng%20trong%20B2B.md)
@@ -32,8 +32,8 @@ title: Thành lập tổ chức
 
 - Pháp nhân: 
     - [Các hình thức pháp nhân](./Ph%C3%A1p%20nh%C3%A2n/C%C3%A1c%20h%C3%ACnh%20th%E1%BB%A9c%20ph%C3%A1p%20nh%C3%A2n.md)
-    - [Luật VN không định nghĩa doanh nghiệp, mà chỉ nói về các yếu tố tạo nên nó](./Ph%C3%A1p%20nh%C3%A2n/Lu%E1%BA%ADt%20VN%20kh%C3%B4ng%20%C4%91%E1%BB%8Bnh%20ngh%C4%A9a%20doanh%20nghi%E1%BB%87p,%20m%C3%A0%20ch%E1%BB%89%20n%C3%B3i%20v%E1%BB%81%20c%C3%A1c%20y%E1%BA%BFu%20t%E1%BB%91%20t%E1%BA%A1o%20n%C3%AAn%20n%C3%B3.md)
     - [Hộ kinh doanh với cá nhân kinh doanh là một](./Ph%C3%A1p%20nh%C3%A2n/H%E1%BB%99%20kinh%20doanh%20v%E1%BB%9Bi%20c%C3%A1%20nh%C3%A2n%20kinh%20doanh%20l%C3%A0%20m%E1%BB%99t.md)
+    - [Luật VN không định nghĩa doanh nghiệp, mà chỉ nói về các yếu tố tạo nên nó](./Ph%C3%A1p%20nh%C3%A2n/Lu%E1%BA%ADt%20VN%20kh%C3%B4ng%20%C4%91%E1%BB%8Bnh%20ngh%C4%A9a%20doanh%20nghi%E1%BB%87p,%20m%C3%A0%20ch%E1%BB%89%20n%C3%B3i%20v%E1%BB%81%20c%C3%A1c%20y%E1%BA%BFu%20t%E1%BB%91%20t%E1%BA%A1o%20n%C3%AAn%20n%C3%B3.md)
 
 
 
