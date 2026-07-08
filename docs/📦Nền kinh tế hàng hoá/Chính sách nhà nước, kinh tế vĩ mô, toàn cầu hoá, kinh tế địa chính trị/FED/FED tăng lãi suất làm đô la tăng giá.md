@@ -1,7 +1,7 @@
 ---
 share: true
-created: 2025-03-27T17:13
-updated: 2025-12-19T11:32
+updated: 2026-07-07T13:00
+created: 2025-07-16T23:55
 ---
 Khái niệm:: [Đô la](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/T%C3%A0i%20s%E1%BA%A3n/%C4%90%C3%B4%20la.md)
 [Đô la tăng giá làm lạm phát ở các nước khác tăng](./%C4%90%C3%B4%20la%20t%C4%83ng%20gi%C3%A1%20l%C3%A0m%20l%E1%BA%A1m%20ph%C3%A1t%20%E1%BB%9F%20c%C3%A1c%20n%C6%B0%E1%BB%9Bc%20kh%C3%A1c%20t%C4%83ng.md)
