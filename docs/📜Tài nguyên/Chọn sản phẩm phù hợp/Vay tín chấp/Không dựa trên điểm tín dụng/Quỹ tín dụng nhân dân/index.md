@@ -1,7 +1,7 @@
 ---
 share: true
-created: 2025-03-27T17:13
-updated: 2026-06-07T15:18
+updated: 2026-07-07T12:59
+created: 2026-06-07T15:18
 title: Quỹ tín dụng nhân dân
 ---
 Khái niệm:: 
