@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-08-02T22:30
-updated: 2025-12-19T11:32
+updated: 2026-07-07T12:59
 ---
 Đáp ứng cho nhu cầu: 
 Các chương trình có tính năng này: 
