@@ -1,12 +1,12 @@
 ---
 share: true
-created: 2025-03-27T17:13
-updated: 2026-04-15T20:52
+updated: 2026-07-06T21:39
 aliases:
   - Lê Ngọc Biết
   - VNC
+created: 2025-09-16T09:01
 ---
-[Đáo rút thẻ tín dụng](../../../../../../%F0%9F%9B%96Ng%C3%A0nh%20ngh%E1%BB%81%20c%E1%BB%A5%20th%E1%BB%83/T%C3%A0i%20ch%C3%ADnh/T%C3%ADn%20d%E1%BB%A5ng/T%C3%ADn%20d%E1%BB%A5ng%20t%C6%B0%20b%E1%BA%A3n/D%E1%BB%8Bch%20v%E1%BB%A5%20ph%C3%A1i%20sinh/%C4%90%C3%A1o%20r%C3%BAt%20th%E1%BA%BB%20t%C3%ADn%20d%E1%BB%A5ng/index.md)
+[Đáo rút thẻ tín dụng](../../../../../../%F0%9F%A7%91%E2%80%8D%F0%9F%8C%BENg%C3%A0nh%20ngh%E1%BB%81%20c%E1%BB%A5%20th%E1%BB%83/T%C3%A0i%20ch%C3%ADnh/T%C3%ADn%20d%E1%BB%A5ng/T%C3%ADn%20d%E1%BB%A5ng%20t%C6%B0%20b%E1%BA%A3n/D%E1%BB%8Bch%20v%E1%BB%A5%20ph%C3%A1i%20sinh/%C4%90%C3%A1o%20r%C3%BAt%20th%E1%BA%BB%20t%C3%ADn%20d%E1%BB%A5ng/index.md)
 
 | Tên cơ sở    | Địa chỉ                 | Phí rút | Phí đáo | Ưu đãi   |
 | ------------ | ----------------------- | ------- | ------- | -------- |
