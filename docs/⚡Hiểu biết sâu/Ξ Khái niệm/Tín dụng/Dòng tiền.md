@@ -1,27 +1,27 @@
 ---
 share: true
 created: 2024-09-30T12:08
-updated: 2025-12-19T11:32
+updated: 2026-07-07T12:59
 ---
-- ⚡Hiểu biết sâu/Hình thức kiếm tiền/Làm thuê/Làm kết quả ảo: 
-    - [Làm thật thì không tạo ra dòng tiền. Làm ảo tạo ra dòng tiền](../../H%C3%ACnh%20th%E1%BB%A9c%20ki%E1%BA%BFm%20ti%E1%BB%81n/L%C3%A0m%20thu%C3%AA/L%C3%A0m%20k%E1%BA%BFt%20qu%E1%BA%A3%20%E1%BA%A3o/L%C3%A0m%20th%E1%BA%ADt%20th%C3%AC%20kh%C3%B4ng%20t%E1%BA%A1o%20ra%20d%C3%B2ng%20ti%E1%BB%81n.%20L%C3%A0m%20%E1%BA%A3o%20t%E1%BA%A1o%20ra%20d%C3%B2ng%20ti%E1%BB%81n.md)
+- 💸Hình thức kiếm tiền: 
+    - [Có thêm tiền là cách để có thêm dòng tiền](../../../%F0%9F%92%B8H%C3%ACnh%20th%E1%BB%A9c%20ki%E1%BA%BFm%20ti%E1%BB%81n/K%E1%BA%BF%20ho%E1%BA%A1ch%20t%C3%A0i%20ch%C3%ADnh/Thu%20nh%E1%BA%ADp%20th%E1%BB%A5%20%C4%91%E1%BB%99ng,%20d%C3%B2ng%20ti%E1%BB%81n%20d%C6%B0%C6%A1ng/C%C3%B3%20th%C3%AAm%20ti%E1%BB%81n%20l%C3%A0%20c%C3%A1ch%20%C4%91%E1%BB%83%20c%C3%B3%20th%C3%AAm%20d%C3%B2ng%20ti%E1%BB%81n.md)
+    - [Dòng tiền là bỏ ít công nhất có thể, thu lại đều đặn nhất có thể](../../../%F0%9F%92%B8H%C3%ACnh%20th%E1%BB%A9c%20ki%E1%BA%BFm%20ti%E1%BB%81n/K%E1%BA%BF%20ho%E1%BA%A1ch%20t%C3%A0i%20ch%C3%ADnh/Thu%20nh%E1%BA%ADp%20th%E1%BB%A5%20%C4%91%E1%BB%99ng,%20d%C3%B2ng%20ti%E1%BB%81n%20d%C6%B0%C6%A1ng/D%C3%B2ng%20ti%E1%BB%81n%20l%C3%A0%20b%E1%BB%8F%20%C3%ADt%20c%C3%B4ng%20nh%E1%BA%A5t%20c%C3%B3%20th%E1%BB%83,%20thu%20l%E1%BA%A1i%20%C4%91%E1%BB%81u%20%C4%91%E1%BA%B7n%20nh%E1%BA%A5t%20c%C3%B3%20th%E1%BB%83.md)
+    - [Thu nhập thụ động có hàm ý đã biết chắc chắn ngày nào mình nhận tiền với bao nhiêu tiền. Dòng tiền thì không](../../../%F0%9F%92%B8H%C3%ACnh%20th%E1%BB%A9c%20ki%E1%BA%BFm%20ti%E1%BB%81n/K%E1%BA%BF%20ho%E1%BA%A1ch%20t%C3%A0i%20ch%C3%ADnh/Thu%20nh%E1%BA%ADp%20th%E1%BB%A5%20%C4%91%E1%BB%99ng,%20d%C3%B2ng%20ti%E1%BB%81n%20d%C6%B0%C6%A1ng/Thu%20nh%E1%BA%ADp%20th%E1%BB%A5%20%C4%91%E1%BB%99ng%20c%C3%B3%20h%C3%A0m%20%C3%BD%20%C4%91%C3%A3%20bi%E1%BA%BFt%20ch%E1%BA%AFc%20ch%E1%BA%AFn%20ng%C3%A0y%20n%C3%A0o%20m%C3%ACnh%20nh%E1%BA%ADn%20ti%E1%BB%81n%20v%E1%BB%9Bi%20bao%20nhi%C3%AAu%20ti%E1%BB%81n.%20D%C3%B2ng%20ti%E1%BB%81n%20th%C3%AC%20kh%C3%B4ng.md)
+    - [Thu nhập thụ động thì không theo phần trăm. Dòng tiền thì có thể có](../../../%F0%9F%92%B8H%C3%ACnh%20th%E1%BB%A9c%20ki%E1%BA%BFm%20ti%E1%BB%81n/K%E1%BA%BF%20ho%E1%BA%A1ch%20t%C3%A0i%20ch%C3%ADnh/Thu%20nh%E1%BA%ADp%20th%E1%BB%A5%20%C4%91%E1%BB%99ng,%20d%C3%B2ng%20ti%E1%BB%81n%20d%C6%B0%C6%A1ng/Thu%20nh%E1%BA%ADp%20th%E1%BB%A5%20%C4%91%E1%BB%99ng%20th%C3%AC%20kh%C3%B4ng%20theo%20ph%E1%BA%A7n%20tr%C4%83m.%20D%C3%B2ng%20ti%E1%BB%81n%20th%C3%AC%20c%C3%B3%20th%E1%BB%83%20c%C3%B3.md)
+    - [Điểm yếu của dòng tiền là sẽ khốn đốn khi tiền bị ngâm](../../../%F0%9F%92%B8H%C3%ACnh%20th%E1%BB%A9c%20ki%E1%BA%BFm%20ti%E1%BB%81n/K%E1%BA%BF%20ho%E1%BA%A1ch%20t%C3%A0i%20ch%C3%ADnh/Thu%20nh%E1%BA%ADp%20th%E1%BB%A5%20%C4%91%E1%BB%99ng,%20d%C3%B2ng%20ti%E1%BB%81n%20d%C6%B0%C6%A1ng/%C4%90i%E1%BB%83m%20y%E1%BA%BFu%20c%E1%BB%A7a%20d%C3%B2ng%20ti%E1%BB%81n%20l%C3%A0%20s%E1%BA%BD%20kh%E1%BB%91n%20%C4%91%E1%BB%91n%20khi%20ti%E1%BB%81n%20b%E1%BB%8B%20ng%C3%A2m.md)
+    - [Làm thật thì không tạo ra dòng tiền. Làm ảo tạo ra dòng tiền](../../../%F0%9F%92%B8H%C3%ACnh%20th%E1%BB%A9c%20ki%E1%BA%BFm%20ti%E1%BB%81n/Thi%E1%BA%BFu%20li%C3%AAm%20ch%C3%ADnh.%20Ph%E1%BA%A1m%20ph%C3%A1p/C%C3%A1ch%20l%C3%A0m%20c%E1%BB%A5%20th%E1%BB%83/Vi%20ph%E1%BA%A1m%20d%C3%A2n%20s%E1%BB%B1/L%C3%A0m%20th%E1%BA%ADt%20th%C3%AC%20kh%C3%B4ng%20t%E1%BA%A1o%20ra%20d%C3%B2ng%20ti%E1%BB%81n.%20L%C3%A0m%20%E1%BA%A3o%20t%E1%BA%A1o%20ra%20d%C3%B2ng%20ti%E1%BB%81n.md)
 
-- ⚡Hiểu biết sâu/Nền kinh tế hàng hoá/Kế hoạch tài chính/Thu nhập thụ động, dòng tiền dương: 
-    - [Có thêm tiền là cách để có thêm dòng tiền](../../N%E1%BB%81n%20kinh%20t%E1%BA%BF%20h%C3%A0ng%20ho%C3%A1/K%E1%BA%BF%20ho%E1%BA%A1ch%20t%C3%A0i%20ch%C3%ADnh/Thu%20nh%E1%BA%ADp%20th%E1%BB%A5%20%C4%91%E1%BB%99ng,%20d%C3%B2ng%20ti%E1%BB%81n%20d%C6%B0%C6%A1ng/C%C3%B3%20th%C3%AAm%20ti%E1%BB%81n%20l%C3%A0%20c%C3%A1ch%20%C4%91%E1%BB%83%20c%C3%B3%20th%C3%AAm%20d%C3%B2ng%20ti%E1%BB%81n.md)
-    - [Dòng tiền là bỏ ít công nhất có thể, thu lại đều đặn nhất có thể](../../N%E1%BB%81n%20kinh%20t%E1%BA%BF%20h%C3%A0ng%20ho%C3%A1/K%E1%BA%BF%20ho%E1%BA%A1ch%20t%C3%A0i%20ch%C3%ADnh/Thu%20nh%E1%BA%ADp%20th%E1%BB%A5%20%C4%91%E1%BB%99ng,%20d%C3%B2ng%20ti%E1%BB%81n%20d%C6%B0%C6%A1ng/D%C3%B2ng%20ti%E1%BB%81n%20l%C3%A0%20b%E1%BB%8F%20%C3%ADt%20c%C3%B4ng%20nh%E1%BA%A5t%20c%C3%B3%20th%E1%BB%83,%20thu%20l%E1%BA%A1i%20%C4%91%E1%BB%81u%20%C4%91%E1%BA%B7n%20nh%E1%BA%A5t%20c%C3%B3%20th%E1%BB%83.md)
-    - [Thu nhập thụ động thì không theo phần trăm. Dòng tiền thì có thể có](../../N%E1%BB%81n%20kinh%20t%E1%BA%BF%20h%C3%A0ng%20ho%C3%A1/K%E1%BA%BF%20ho%E1%BA%A1ch%20t%C3%A0i%20ch%C3%ADnh/Thu%20nh%E1%BA%ADp%20th%E1%BB%A5%20%C4%91%E1%BB%99ng,%20d%C3%B2ng%20ti%E1%BB%81n%20d%C6%B0%C6%A1ng/Thu%20nh%E1%BA%ADp%20th%E1%BB%A5%20%C4%91%E1%BB%99ng%20th%C3%AC%20kh%C3%B4ng%20theo%20ph%E1%BA%A7n%20tr%C4%83m.%20D%C3%B2ng%20ti%E1%BB%81n%20th%C3%AC%20c%C3%B3%20th%E1%BB%83%20c%C3%B3.md)
-    - [Thu nhập thụ động có hàm ý đã biết chắc chắn ngày nào mình nhận tiền với bao nhiêu tiền. Dòng tiền thì không](../../N%E1%BB%81n%20kinh%20t%E1%BA%BF%20h%C3%A0ng%20ho%C3%A1/K%E1%BA%BF%20ho%E1%BA%A1ch%20t%C3%A0i%20ch%C3%ADnh/Thu%20nh%E1%BA%ADp%20th%E1%BB%A5%20%C4%91%E1%BB%99ng,%20d%C3%B2ng%20ti%E1%BB%81n%20d%C6%B0%C6%A1ng/Thu%20nh%E1%BA%ADp%20th%E1%BB%A5%20%C4%91%E1%BB%99ng%20c%C3%B3%20h%C3%A0m%20%C3%BD%20%C4%91%C3%A3%20bi%E1%BA%BFt%20ch%E1%BA%AFc%20ch%E1%BA%AFn%20ng%C3%A0y%20n%C3%A0o%20m%C3%ACnh%20nh%E1%BA%ADn%20ti%E1%BB%81n%20v%E1%BB%9Bi%20bao%20nhi%C3%AAu%20ti%E1%BB%81n.%20D%C3%B2ng%20ti%E1%BB%81n%20th%C3%AC%20kh%C3%B4ng.md)
-
-- ⚡Hiểu biết sâu/Nền kinh tế hàng hoá/Thị trường: 
-    - [❓Những thứ có chi phí biên gần như bằng 0 tạo ra dòng tiền](../../N%E1%BB%81n%20kinh%20t%E1%BA%BF%20h%C3%A0ng%20ho%C3%A1/Th%E1%BB%8B%20tr%C6%B0%E1%BB%9Dng/%E2%9D%93Nh%E1%BB%AFng%20th%E1%BB%A9%20c%C3%B3%20chi%20ph%C3%AD%20bi%C3%AAn%20g%E1%BA%A7n%20nh%C6%B0%20b%E1%BA%B1ng%200%20t%E1%BA%A1o%20ra%20d%C3%B2ng%20ti%E1%BB%81n.md)
-
-- 📜Tài nguyên/Niềm tin, diễn ngôn/Tiền/Nghèo: 
+- 📜Tài nguyên: 
     - [Cái cần không phải là có tiền, mà là có dòng tiền](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Ni%E1%BB%81m%20tin,%20di%E1%BB%85n%20ng%C3%B4n/Ti%E1%BB%81n/Ngh%C3%A8o/C%C3%A1i%20c%E1%BA%A7n%20kh%C3%B4ng%20ph%E1%BA%A3i%20l%C3%A0%20c%C3%B3%20ti%E1%BB%81n,%20m%C3%A0%20l%C3%A0%20c%C3%B3%20d%C3%B2ng%20ti%E1%BB%81n.md)
     - [Muốn thoát nghèo cần dòng tiền, chứ không phải là làm công ăn lương](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Ni%E1%BB%81m%20tin,%20di%E1%BB%85n%20ng%C3%B4n/Ti%E1%BB%81n/Ngh%C3%A8o/Mu%E1%BB%91n%20tho%C3%A1t%20ngh%C3%A8o%20c%E1%BA%A7n%20d%C3%B2ng%20ti%E1%BB%81n,%20ch%E1%BB%A9%20kh%C3%B4ng%20ph%E1%BA%A3i%20l%C3%A0%20l%C3%A0m%20c%C3%B4ng%20%C4%83n%20l%C6%B0%C6%A1ng.md)
     - [Việc có được dòng tiền là cánh cửa để đạt được ước mơ thay đổi cuộc sống](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Ni%E1%BB%81m%20tin,%20di%E1%BB%85n%20ng%C3%B4n/Ti%E1%BB%81n/Ngh%C3%A8o/Vi%E1%BB%87c%20c%C3%B3%20%C4%91%C6%B0%E1%BB%A3c%20d%C3%B2ng%20ti%E1%BB%81n%20l%C3%A0%20c%C3%A1nh%20c%E1%BB%ADa%20%C4%91%E1%BB%83%20%C4%91%E1%BA%A1t%20%C4%91%C6%B0%E1%BB%A3c%20%C6%B0%E1%BB%9Bc%20m%C6%A1%20thay%20%C4%91%E1%BB%95i%20cu%E1%BB%99c%20s%E1%BB%91ng.md)
 
-- 📜Tài nguyên/Tình hình ở Việt Nam/Luật, quản lý nhà nước/Tài chính: 
-    - [Chính phủ muốn kiểm soát dòng tiền](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/T%C3%ACnh%20h%C3%ACnh%20%E1%BB%9F%20Vi%E1%BB%87t%20Nam/Lu%E1%BA%ADt,%20qu%E1%BA%A3n%20l%C3%BD%20nh%C3%A0%20n%C6%B0%E1%BB%9Bc/T%C3%A0i%20ch%C3%ADnh/Ch%C3%ADnh%20ph%E1%BB%A7%20mu%E1%BB%91n%20ki%E1%BB%83m%20so%C3%A1t%20d%C3%B2ng%20ti%E1%BB%81n.md)
+- 📦Nền kinh tế hàng hoá: 
+    - [❓Những thứ có chi phí biên gần như bằng 0 tạo ra dòng tiền](../../../%F0%9F%93%A6N%E1%BB%81n%20kinh%20t%E1%BA%BF%20h%C3%A0ng%20ho%C3%A1/Th%E1%BB%8B%20tr%C6%B0%E1%BB%9Dng/%E2%9D%93Nh%E1%BB%AFng%20th%E1%BB%A9%20c%C3%B3%20chi%20ph%C3%AD%20bi%C3%AAn%20g%E1%BA%A7n%20nh%C6%B0%20b%E1%BA%B1ng%200%20t%E1%BA%A1o%20ra%20d%C3%B2ng%20ti%E1%BB%81n.md)
+
+- 🧑‍🌾Ngành nghề cụ thể: 
+    - [Chính phủ muốn kiểm soát dòng tiền](../../../%F0%9F%A7%91%E2%80%8D%F0%9F%8C%BENg%C3%A0nh%20ngh%E1%BB%81%20c%E1%BB%A5%20th%E1%BB%83/T%C3%A0i%20ch%C3%ADnh/Ch%C3%ADnh%20ph%E1%BB%A7%20mu%E1%BB%91n%20ki%E1%BB%83m%20so%C3%A1t%20d%C3%B2ng%20ti%E1%BB%81n.md)
 
 
-GROUP BY split(file.folder, "/")[3]
+
+GROUP BY file.folder
