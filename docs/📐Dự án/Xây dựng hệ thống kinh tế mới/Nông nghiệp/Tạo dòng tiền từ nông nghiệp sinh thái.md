@@ -1,6 +1,7 @@
 ---
 share: true
-updated: 2026-07-06T21:09
+updated: 2026-07-08T21:05
+created: 2025-12-25T16:42
 ---
 Khái niệm:: 
 
@@ -15,4 +16,5 @@ Khái niệm::
 6) Kiên trì và kiên trì. Chi phí cho sự kiên trì là đưa khoản chi về thấp nhất, tăng thu (bằng kỹ năng làm sản phẩm → bán hàng → nuôi vườn) hoặc làm thêm 1 nghề khác để nuôi vườn. Trong 3-5 đầu khoản thu ít
 
 [Nền kinh tế vừa đủ](../../../%F0%9F%8E%81Ph%C3%A1t%20tri%E1%BB%83n%20b%E1%BB%81n%20v%E1%BB%AFng.%20C%C3%A1c%20n%E1%BB%81n%20kinh%20t%E1%BA%BF%20thay%20th%E1%BA%BF/Gi%E1%BA%A3i%20ph%C3%A1p/C%C3%A1c%20n%E1%BB%81n%20kinh%20t%E1%BA%BF%20thay%20th%E1%BA%BF/N%E1%BB%81n%20kinh%20t%E1%BA%BF%20v%E1%BB%ABa%20%C4%91%E1%BB%A7/index.md)
+[Làm nông không đất, không tiền, không kinh nghiệm thì bắt đầu từ đâu?](../../../%F0%9F%8E%81Ph%C3%A1t%20tri%E1%BB%83n%20b%E1%BB%81n%20v%E1%BB%AFng.%20C%C3%A1c%20n%E1%BB%81n%20kinh%20t%E1%BA%BF%20thay%20th%E1%BA%BF/Gi%E1%BA%A3i%20ph%C3%A1p/V%E1%BB%81%20v%C6%B0%E1%BB%9Dn,%20n%C3%B4ng%20nghi%E1%BB%87p%20sinh%20th%C3%A1i/%C4%90%E1%BB%ABng%20b%E1%BB%8F%20vi%E1%BB%87c%20th%C3%A0nh%20ph%E1%BB%91%20ngay%20l%E1%BA%ADp%20t%E1%BB%A9c.%20H%C3%A3y%20gi%E1%BB%AF%20c%C3%B4ng%20vi%E1%BB%87c%20c%C5%A9%20trong%20giai%20%C4%91o%E1%BA%A1n%20%C4%91%E1%BA%A7u.%20Cu%E1%BB%91i%20tu%E1%BA%A7n%20v%E1%BB%81%20qu%C3%AA%20l%C3%A0m,%20t%C3%ADch%20l%C5%A9y%20kinh%20nghi%E1%BB%87m.md)
 Nguồn:: 
