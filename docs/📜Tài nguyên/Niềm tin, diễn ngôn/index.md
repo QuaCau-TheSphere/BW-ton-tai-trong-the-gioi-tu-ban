@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-10-05T16:11
-updated: 2026-03-28T17:22
+updated: 2026-07-07T13:00
 title: Niềm tin, diễn ngôn
 ---
 - \-: 
@@ -9,25 +9,25 @@ title: Niềm tin, diễn ngôn
     - [Vận hành một gia đình không dễ. Ở chung đã khó còn phải ăn uống](./V%E1%BA%ADn%20h%C3%A0nh%20m%E1%BB%99t%20gia%20%C4%91%C3%ACnh%20kh%C3%B4ng%20d%E1%BB%85.%20%E1%BB%9E%20chung%20%C4%91%C3%A3%20kh%C3%B3%20c%C3%B2n%20ph%E1%BA%A3i%20%C4%83n%20u%E1%BB%91ng.md)
 
 - Cá nhân: 
+    - [Không nuôi được con thì đừng sinh con](./C%C3%A1%20nh%C3%A2n/Kh%C3%B4ng%20nu%C3%B4i%20%C4%91%C6%B0%E1%BB%A3c%20con%20th%C3%AC%20%C4%91%E1%BB%ABng%20sinh%20con.md)
     - [Bản chất con người là tham lam](./C%C3%A1%20nh%C3%A2n/B%E1%BA%A3n%20ch%E1%BA%A5t%20con%20ng%C6%B0%E1%BB%9Di%20l%C3%A0%20tham%20lam.md)
     - [Không nghĩ hộ người khác](./C%C3%A1%20nh%C3%A2n/Kh%C3%B4ng%20ngh%C4%A9%20h%E1%BB%99%20ng%C6%B0%E1%BB%9Di%20kh%C3%A1c.md)
-    - [Không nuôi được con thì đừng sinh con](./C%C3%A1%20nh%C3%A2n/Kh%C3%B4ng%20nu%C3%B4i%20%C4%91%C6%B0%E1%BB%A3c%20con%20th%C3%AC%20%C4%91%E1%BB%ABng%20sinh%20con.md)
     - [Lo cho thân mình còn chưa xong thì lo cho ai](./C%C3%A1%20nh%C3%A2n/Lo%20cho%20th%C3%A2n%20m%C3%ACnh%20c%C3%B2n%20ch%C6%B0a%20xong%20th%C3%AC%20lo%20cho%20ai.md)
     - [Thân ai nấy lo](./C%C3%A1%20nh%C3%A2n/Th%C3%A2n%20ai%20n%E1%BA%A5y%20lo.md)
     - [Ở hiền gặp lành](./C%C3%A1%20nh%C3%A2n/%E1%BB%9E%20hi%E1%BB%81n%20g%E1%BA%B7p%20l%C3%A0nh.md)
     - [Ở hiền gặp trục lợi](./C%C3%A1%20nh%C3%A2n/%E1%BB%9E%20hi%E1%BB%81n%20g%E1%BA%B7p%20tr%E1%BB%A5c%20l%E1%BB%A3i.md)
 
 - Chào mời: 
-    - [Để họ có thêm một lựa chọn nghề nghiệp tốt khác, không nhất thiết phải là thứ họ cho là tốt nhất](./Ch%C3%A0o%20m%E1%BB%9Di/Tuy%E1%BB%83n%20d%E1%BB%A5ng/%C4%90%E1%BB%83%20h%E1%BB%8D%20c%C3%B3%20th%C3%AAm%20m%E1%BB%99t%20l%E1%BB%B1a%20ch%E1%BB%8Dn%20ngh%E1%BB%81%20nghi%E1%BB%87p%20t%E1%BB%91t%20kh%C3%A1c,%20kh%C3%B4ng%20nh%E1%BA%A5t%20thi%E1%BA%BFt%20ph%E1%BA%A3i%20l%C3%A0%20th%E1%BB%A9%20h%E1%BB%8D%20cho%20l%C3%A0%20t%E1%BB%91t%20nh%E1%BA%A5t.md)
     - [Kim cương là khan hiếm](./Ch%C3%A0o%20m%E1%BB%9Di/Kim%20c%C6%B0%C6%A1ng%20l%C3%A0%20khan%20hi%E1%BA%BFm.md)
     - [Đi xe buýt thì tới bao giờ mới tới](./Ch%C3%A0o%20m%E1%BB%9Di/%C4%90i%20xe%20bu%C3%BDt%20th%C3%AC%20t%E1%BB%9Bi%20bao%20gi%E1%BB%9D%20m%E1%BB%9Bi%20t%E1%BB%9Bi.md)
+    - [Để họ có thêm một lựa chọn nghề nghiệp tốt khác, không nhất thiết phải là thứ họ cho là tốt nhất](./Ch%C3%A0o%20m%E1%BB%9Di/Tuy%E1%BB%83n%20d%E1%BB%A5ng/%C4%90%E1%BB%83%20h%E1%BB%8D%20c%C3%B3%20th%C3%AAm%20m%E1%BB%99t%20l%E1%BB%B1a%20ch%E1%BB%8Dn%20ngh%E1%BB%81%20nghi%E1%BB%87p%20t%E1%BB%91t%20kh%C3%A1c,%20kh%C3%B4ng%20nh%E1%BA%A5t%20thi%E1%BA%BFt%20ph%E1%BA%A3i%20l%C3%A0%20th%E1%BB%A9%20h%E1%BB%8D%20cho%20l%C3%A0%20t%E1%BB%91t%20nh%E1%BA%A5t.md)
 
 - Đánh giá: 
     - [Không muốn cho người khác biết tình hình nợ vì sợ bị nghĩ là mình vòi tiền](./%C4%90%C3%A1nh%20gi%C3%A1/Kh%C3%B4ng%20mu%E1%BB%91n%20cho%20ng%C6%B0%E1%BB%9Di%20kh%C3%A1c%20bi%E1%BA%BFt%20t%C3%ACnh%20h%C3%ACnh%20n%E1%BB%A3%20v%C3%AC%20s%E1%BB%A3%20b%E1%BB%8B%20ngh%C4%A9%20l%C3%A0%20m%C3%ACnh%20v%C3%B2i%20ti%E1%BB%81n.md)
     - [Không muốn nghe câu em đã bảo rồi, mà muốn nghe kết quả](./%C4%90%C3%A1nh%20gi%C3%A1/Kh%C3%B4ng%20mu%E1%BB%91n%20nghe%20c%C3%A2u%20em%20%C4%91%C3%A3%20b%E1%BA%A3o%20r%E1%BB%93i,%20m%C3%A0%20mu%E1%BB%91n%20nghe%20k%E1%BA%BFt%20qu%E1%BA%A3.md)
-    - [Người khác nhìn vào sẽ nghĩ gì](./%C4%90%C3%A1nh%20gi%C3%A1/Ng%C6%B0%E1%BB%9Di%20kh%C3%A1c%20nh%C3%ACn%20v%C3%A0o%20s%E1%BA%BD%20ngh%C4%A9%20g%C3%AC.md)
     - [Không tự kiếm được tiền nghĩa là còn chưa thể tự lo cho bản thân](./%C4%90%C3%A1nh%20gi%C3%A1/Kh%C3%B4ng%20t%E1%BB%B1%20ki%E1%BA%BFm%20%C4%91%C6%B0%E1%BB%A3c%20ti%E1%BB%81n%20ngh%C4%A9a%20l%C3%A0%20c%C3%B2n%20ch%C6%B0a%20th%E1%BB%83%20t%E1%BB%B1%20lo%20cho%20b%E1%BA%A3n%20th%C3%A2n.md)
     - [Người nghèo không có TV](./%C4%90%C3%A1nh%20gi%C3%A1/Ng%C6%B0%E1%BB%9Di%20ngh%C3%A8o%20kh%C3%B4ng%20c%C3%B3%20TV.md)
+    - [Người khác nhìn vào sẽ nghĩ gì](./%C4%90%C3%A1nh%20gi%C3%A1/Ng%C6%B0%E1%BB%9Di%20kh%C3%A1c%20nh%C3%ACn%20v%C3%A0o%20s%E1%BA%BD%20ngh%C4%A9%20g%C3%AC.md)
     - [Phải nghe hết hai chiều đã](./%C4%90%C3%A1nh%20gi%C3%A1/Ph%E1%BA%A3i%20nghe%20h%E1%BA%BFt%20hai%20chi%E1%BB%81u%20%C4%91%C3%A3.md)
     - [Thái độ hơn trình độ](./%C4%90%C3%A1nh%20gi%C3%A1/Th%C3%A1i%20%C4%91%E1%BB%99%20h%C6%A1n%20tr%C3%ACnh%20%C4%91%E1%BB%99.md)
     - [Tư duy mở mới phát triển](./%C4%90%C3%A1nh%20gi%C3%A1/T%C6%B0%20duy%20m%E1%BB%9F%20m%E1%BB%9Bi%20ph%C3%A1t%20tri%E1%BB%83n.md)
@@ -38,16 +38,16 @@ title: Niềm tin, diễn ngôn
     - [Cuộc sống không bao giờ công bằng. Điều duy nhất mình có thể làm là thích ứng với nó](./Gi%C3%BAp%20%C4%91%E1%BB%A1/Cu%E1%BB%99c%20s%E1%BB%91ng%20kh%C3%B4ng%20bao%20gi%E1%BB%9D%20c%C3%B4ng%20b%E1%BA%B1ng.%20%C4%90i%E1%BB%81u%20duy%20nh%E1%BA%A5t%20m%C3%ACnh%20c%C3%B3%20th%E1%BB%83%20l%C3%A0m%20l%C3%A0%20th%C3%ADch%20%E1%BB%A9ng%20v%E1%BB%9Bi%20n%C3%B3.md)
     - [Các mối quan hệ không thể cho đủ tiền lúc cần kíp nhất](./Gi%C3%BAp%20%C4%91%E1%BB%A1/C%C3%A1c%20m%E1%BB%91i%20quan%20h%E1%BB%87%20kh%C3%B4ng%20th%E1%BB%83%20cho%20%C4%91%E1%BB%A7%20ti%E1%BB%81n%20l%C3%BAc%20c%E1%BA%A7n%20k%C3%ADp%20nh%E1%BA%A5t.md)
     - [Giúp đỡ sẽ tạo ra sự lệ thuộc](./Gi%C3%BAp%20%C4%91%E1%BB%A1/Gi%C3%BAp%20%C4%91%E1%BB%A1%20s%E1%BA%BD%20t%E1%BA%A1o%20ra%20s%E1%BB%B1%20l%E1%BB%87%20thu%E1%BB%99c.md)
-    - [Kinh doanh không phải từ thiện](./Gi%C3%BAp%20%C4%91%E1%BB%A1/Kinh%20doanh%20kh%C3%B4ng%20ph%E1%BA%A3i%20t%E1%BB%AB%20thi%E1%BB%87n.md)
-    - [Người vững vàng là người không phụ thuộc vào người khác](./Gi%C3%BAp%20%C4%91%E1%BB%A1/Ng%C6%B0%E1%BB%9Di%20v%E1%BB%AFng%20v%C3%A0ng%20l%C3%A0%20ng%C6%B0%E1%BB%9Di%20kh%C3%B4ng%20ph%E1%BB%A5%20thu%E1%BB%99c%20v%C3%A0o%20ng%C6%B0%E1%BB%9Di%20kh%C3%A1c.md)
     - [Nếu có người cho không thì đó là họ sẽ thu lại bằng một cách nào khác](./Gi%C3%BAp%20%C4%91%E1%BB%A1/N%E1%BA%BFu%20c%C3%B3%20ng%C6%B0%E1%BB%9Di%20cho%20kh%C3%B4ng%20th%C3%AC%20%C4%91%C3%B3%20l%C3%A0%20h%E1%BB%8D%20s%E1%BA%BD%20thu%20l%E1%BA%A1i%20b%E1%BA%B1ng%20m%E1%BB%99t%20c%C3%A1ch%20n%C3%A0o%20kh%C3%A1c.md)
+    - [Kinh doanh không phải từ thiện](./Gi%C3%BAp%20%C4%91%E1%BB%A1/Kinh%20doanh%20kh%C3%B4ng%20ph%E1%BA%A3i%20t%E1%BB%AB%20thi%E1%BB%87n.md)
     - [Nếu muốn đem lại điều tốt nhất cho họ thì khác gì là áp đặt](./Gi%C3%BAp%20%C4%91%E1%BB%A1/N%E1%BA%BFu%20mu%E1%BB%91n%20%C4%91em%20l%E1%BA%A1i%20%C4%91i%E1%BB%81u%20t%E1%BB%91t%20nh%E1%BA%A5t%20cho%20h%E1%BB%8D%20th%C3%AC%20kh%C3%A1c%20g%C3%AC%20l%C3%A0%20%C3%A1p%20%C4%91%E1%BA%B7t.md)
     - [Phải trả ơn](./Gi%C3%BAp%20%C4%91%E1%BB%A1/Ph%E1%BA%A3i%20tr%E1%BA%A3%20%C6%A1n.md)
     - [Thấy việc nhận sự giúp đỡ là lừa đảo người giúp mình](./Gi%C3%BAp%20%C4%91%E1%BB%A1/Th%E1%BA%A5y%20vi%E1%BB%87c%20nh%E1%BA%ADn%20s%E1%BB%B1%20gi%C3%BAp%20%C4%91%E1%BB%A1%20l%C3%A0%20l%E1%BB%ABa%20%C4%91%E1%BA%A3o%20ng%C6%B0%E1%BB%9Di%20gi%C3%BAp%20m%C3%ACnh.md)
+    - [Người vững vàng là người không phụ thuộc vào người khác](./Gi%C3%BAp%20%C4%91%E1%BB%A1/Ng%C6%B0%E1%BB%9Di%20v%E1%BB%AFng%20v%C3%A0ng%20l%C3%A0%20ng%C6%B0%E1%BB%9Di%20kh%C3%B4ng%20ph%E1%BB%A5%20thu%E1%BB%99c%20v%C3%A0o%20ng%C6%B0%E1%BB%9Di%20kh%C3%A1c.md)
 
 - Kết quả: 
-    - [Có nỗ lực mới có đền đáp](./K%E1%BA%BFt%20qu%E1%BA%A3/C%C3%B3%20n%E1%BB%97%20l%E1%BB%B1c%20m%E1%BB%9Bi%20c%C3%B3%20%C4%91%E1%BB%81n%20%C4%91%C3%A1p.md)
     - [Không làm được là do bản thân thiếu nỗ lực](./K%E1%BA%BFt%20qu%E1%BA%A3/Kh%C3%B4ng%20l%C3%A0m%20%C4%91%C6%B0%E1%BB%A3c%20l%C3%A0%20do%20b%E1%BA%A3n%20th%C3%A2n%20thi%E1%BA%BFu%20n%E1%BB%97%20l%E1%BB%B1c.md)
+    - [Có nỗ lực mới có đền đáp](./K%E1%BA%BFt%20qu%E1%BA%A3/C%C3%B3%20n%E1%BB%97%20l%E1%BB%B1c%20m%E1%BB%9Bi%20c%C3%B3%20%C4%91%E1%BB%81n%20%C4%91%C3%A1p.md)
     - [Nếu không biết mình có làm được hay không thì là vô trách nhiệm](./K%E1%BA%BFt%20qu%E1%BA%A3/N%E1%BA%BFu%20kh%C3%B4ng%20bi%E1%BA%BFt%20m%C3%ACnh%20c%C3%B3%20l%C3%A0m%20%C4%91%C6%B0%E1%BB%A3c%20hay%20kh%C3%B4ng%20th%C3%AC%20l%C3%A0%20v%C3%B4%20tr%C3%A1ch%20nhi%E1%BB%87m.md)
     - [Nỗ lực không quan trọng, quan trọng là kết quả](./K%E1%BA%BFt%20qu%E1%BA%A3/N%E1%BB%97%20l%E1%BB%B1c%20kh%C3%B4ng%20quan%20tr%E1%BB%8Dng,%20quan%20tr%E1%BB%8Dng%20l%C3%A0%20k%E1%BA%BFt%20qu%E1%BA%A3.md)
 
@@ -65,44 +65,42 @@ title: Niềm tin, diễn ngôn
     - [Phải nghĩ mình làm được thì mình mới làm được](./Th%C3%A1ch%20th%E1%BB%A9c,%20%C4%91am%20m%C3%AA,%20ph%C3%A1t%20tri%E1%BB%83n%20b%E1%BA%A3n%20th%C3%A2n/Ph%E1%BA%A3i%20ngh%C4%A9%20m%C3%ACnh%20l%C3%A0m%20%C4%91%C6%B0%E1%BB%A3c%20th%C3%AC%20m%C3%ACnh%20m%E1%BB%9Bi%20l%C3%A0m%20%C4%91%C6%B0%E1%BB%A3c.md)
     - [Thấy người hỏi mình dự tính gì khi thất bại thì là bi quan, bàn lùi](./Th%C3%A1ch%20th%E1%BB%A9c,%20%C4%91am%20m%C3%AA,%20ph%C3%A1t%20tri%E1%BB%83n%20b%E1%BA%A3n%20th%C3%A2n/Th%E1%BA%A5y%20ng%C6%B0%E1%BB%9Di%20h%E1%BB%8Fi%20m%C3%ACnh%20d%E1%BB%B1%20t%C3%ADnh%20g%C3%AC%20khi%20th%E1%BA%A5t%20b%E1%BA%A1i%20th%C3%AC%20l%C3%A0%20bi%20quan,%20b%C3%A0n%20l%C3%B9i.md)
     - [Áp lực tạo kim cương](./Th%C3%A1ch%20th%E1%BB%A9c,%20%C4%91am%20m%C3%AA,%20ph%C3%A1t%20tri%E1%BB%83n%20b%E1%BA%A3n%20th%C3%A2n/%C3%81p%20l%E1%BB%B1c%20t%E1%BA%A1o%20kim%20c%C6%B0%C6%A1ng.md)
-    - [Ở quê không phát triển được](./Th%C3%A1ch%20th%E1%BB%A9c,%20%C4%91am%20m%C3%AA,%20ph%C3%A1t%20tri%E1%BB%83n%20b%E1%BA%A3n%20th%C3%A2n/%E1%BB%9E%20qu%C3%AA%20kh%C3%B4ng%20ph%C3%A1t%20tri%E1%BB%83n%20%C4%91%C6%B0%E1%BB%A3c.md)
 
 - Thuyết phục: 
     - [Cả nể khách hàng là không tốt với khách hàng](./Thuy%E1%BA%BFt%20ph%E1%BB%A5c/C%E1%BA%A3%20n%E1%BB%83%20kh%C3%A1ch%20h%C3%A0ng%20l%C3%A0%20kh%C3%B4ng%20t%E1%BB%91t%20v%E1%BB%9Bi%20kh%C3%A1ch%20h%C3%A0ng.md)
     - [Người mới chưa thành công là vì họ còn thiếu tự tin mà thôi](./Thuy%E1%BA%BFt%20ph%E1%BB%A5c/Ng%C6%B0%E1%BB%9Di%20m%E1%BB%9Bi%20ch%C6%B0a%20th%C3%A0nh%20c%C3%B4ng%20l%C3%A0%20v%C3%AC%20h%E1%BB%8D%20c%C3%B2n%20thi%E1%BA%BFu%20t%E1%BB%B1%20tin%20m%C3%A0%20th%C3%B4i.md)
     - [Nói sao để họ có động lực để làm](./Thuy%E1%BA%BFt%20ph%E1%BB%A5c/N%C3%B3i%20sao%20%C4%91%E1%BB%83%20h%E1%BB%8D%20c%C3%B3%20%C4%91%E1%BB%99ng%20l%E1%BB%B1c%20%C4%91%E1%BB%83%20l%C3%A0m.md)
     - [Phải nói cho tới khi nào họ ngại mình mà đồng ý thì thôi](./Thuy%E1%BA%BFt%20ph%E1%BB%A5c/Ph%E1%BA%A3i%20n%C3%B3i%20cho%20t%E1%BB%9Bi%20khi%20n%C3%A0o%20h%E1%BB%8D%20ng%E1%BA%A1i%20m%C3%ACnh%20m%C3%A0%20%C4%91%E1%BB%93ng%20%C3%BD%20th%C3%AC%20th%C3%B4i.md)
-    - [Phải đổ những cái đã biết đi thì mới tiếp nhận những điều mới lạ](./Thuy%E1%BA%BFt%20ph%E1%BB%A5c/Ph%E1%BA%A3i%20%C4%91%E1%BB%95%20nh%E1%BB%AFng%20c%C3%A1i%20%C4%91%C3%A3%20bi%E1%BA%BFt%20%C4%91i%20th%C3%AC%20m%E1%BB%9Bi%20ti%E1%BA%BFp%20nh%E1%BA%ADn%20nh%E1%BB%AFng%20%C4%91i%E1%BB%81u%20m%E1%BB%9Bi%20l%E1%BA%A1.md)
     - [Thuyết phục được lúc đó thì làm, còn không không nói thêm nữa](./Thuy%E1%BA%BFt%20ph%E1%BB%A5c/Thuy%E1%BA%BFt%20ph%E1%BB%A5c%20%C4%91%C6%B0%E1%BB%A3c%20l%C3%BAc%20%C4%91%C3%B3%20th%C3%AC%20l%C3%A0m,%20c%C3%B2n%20kh%C3%B4ng%20kh%C3%B4ng%20n%C3%B3i%20th%C3%AAm%20n%E1%BB%AFa.md)
+    - [Phải đổ những cái đã biết đi thì mới tiếp nhận những điều mới lạ](./Thuy%E1%BA%BFt%20ph%E1%BB%A5c/Ph%E1%BA%A3i%20%C4%91%E1%BB%95%20nh%E1%BB%AFng%20c%C3%A1i%20%C4%91%C3%A3%20bi%E1%BA%BFt%20%C4%91i%20th%C3%AC%20m%E1%BB%9Bi%20ti%E1%BA%BFp%20nh%E1%BA%ADn%20nh%E1%BB%AFng%20%C4%91i%E1%BB%81u%20m%E1%BB%9Bi%20l%E1%BA%A1.md)
 
 - Tiền: 
     - [Của rẻ là của ôi](./Ti%E1%BB%81n/Gi%C3%A1%20tr%E1%BB%8B/C%E1%BB%A7a%20r%E1%BA%BB%20l%C3%A0%20c%E1%BB%A7a%20%C3%B4i.md)
-    - [Không có gì là miễn phí thực sự cả](./Ti%E1%BB%81n/Gi%C3%A1%20tr%E1%BB%8B/Kh%C3%B4ng%20c%C3%B3%20g%C3%AC%20l%C3%A0%20mi%E1%BB%85n%20ph%C3%AD%20th%E1%BB%B1c%20s%E1%BB%B1%20c%E1%BA%A3.md)
     - [Làm gì có chuyện việc nhẹ lương cao](./Ti%E1%BB%81n/Gi%C3%A1%20tr%E1%BB%8B/L%C3%A0m%20g%C3%AC%20c%C3%B3%20chuy%E1%BB%87n%20vi%E1%BB%87c%20nh%E1%BA%B9%20l%C6%B0%C6%A1ng%20cao.md)
     - [Mua được cái mới sao phải sửa cái cũ chi](./Ti%E1%BB%81n/Gi%C3%A1%20tr%E1%BB%8B/Mua%20%C4%91%C6%B0%E1%BB%A3c%20c%C3%A1i%20m%E1%BB%9Bi%20sao%20ph%E1%BA%A3i%20s%E1%BB%ADa%20c%C3%A1i%20c%C5%A9%20chi.md)
     - [Mới học việc thì đừng đòi lương cao](./Ti%E1%BB%81n/Gi%C3%A1%20tr%E1%BB%8B/M%E1%BB%9Bi%20h%E1%BB%8Dc%20vi%E1%BB%87c%20th%C3%AC%20%C4%91%E1%BB%ABng%20%C4%91%C3%B2i%20l%C6%B0%C6%A1ng%20cao.md)
     - [Tiền là thước đo của thành công](./Ti%E1%BB%81n/Gi%C3%A1%20tr%E1%BB%8B/Ti%E1%BB%81n%20l%C3%A0%20th%C6%B0%E1%BB%9Bc%20%C4%91o%20c%E1%BB%A7a%20th%C3%A0nh%20c%C3%B4ng.md)
     - [Đam mê không kiếm được tiền](./Ti%E1%BB%81n/Gi%C3%A1%20tr%E1%BB%8B/%C4%90am%20m%C3%AA%20kh%C3%B4ng%20ki%E1%BA%BFm%20%C4%91%C6%B0%E1%BB%A3c%20ti%E1%BB%81n.md)
-    - [Cuộc sống của tôi là ở thành phố. Về quê không có gì làm](./Ti%E1%BB%81n/Ki%E1%BA%BFm%20%C4%83n/Cu%E1%BB%99c%20s%E1%BB%91ng%20c%E1%BB%A7a%20t%C3%B4i%20l%C3%A0%20%E1%BB%9F%20th%C3%A0nh%20ph%E1%BB%91.%20V%E1%BB%81%20qu%C3%AA%20kh%C3%B4ng%20c%C3%B3%20g%C3%AC%20l%C3%A0m.md)
+    - [Không có gì là miễn phí thực sự cả](./Ti%E1%BB%81n/Gi%C3%A1%20tr%E1%BB%8B/Kh%C3%B4ng%20c%C3%B3%20g%C3%AC%20l%C3%A0%20mi%E1%BB%85n%20ph%C3%AD%20th%E1%BB%B1c%20s%E1%BB%B1%20c%E1%BA%A3.md)
+    - [Không hỏi về tài sản của người khác](./Ti%E1%BB%81n/Kh%C3%B4ng%20h%E1%BB%8Fi%20v%E1%BB%81%20t%C3%A0i%20s%E1%BA%A3n%20c%E1%BB%A7a%20ng%C6%B0%E1%BB%9Di%20kh%C3%A1c.md)
+    - [Cuộc sống của tôi là ở thành phố. Về quê không có gì làm, không phát triển được](./Ti%E1%BB%81n/Ki%E1%BA%BFm%20%C4%83n/Cu%E1%BB%99c%20s%E1%BB%91ng%20c%E1%BB%A7a%20t%C3%B4i%20l%C3%A0%20%E1%BB%9F%20th%C3%A0nh%20ph%E1%BB%91.%20V%E1%BB%81%20qu%C3%AA%20kh%C3%B4ng%20c%C3%B3%20g%C3%AC%20l%C3%A0m,%20kh%C3%B4ng%20ph%C3%A1t%20tri%E1%BB%83n%20%C4%91%C6%B0%E1%BB%A3c.md)
     - [Không kiếm tiền lấy gì ăn](./Ti%E1%BB%81n/Ki%E1%BA%BFm%20%C4%83n/Kh%C3%B4ng%20ki%E1%BA%BFm%20ti%E1%BB%81n%20l%E1%BA%A5y%20g%C3%AC%20%C4%83n.md)
     - [Không trả tiền lấy gì tạo động lực](./Ti%E1%BB%81n/Ki%E1%BA%BFm%20%C4%83n/Kh%C3%B4ng%20tr%E1%BA%A3%20ti%E1%BB%81n%20l%E1%BA%A5y%20g%C3%AC%20t%E1%BA%A1o%20%C4%91%E1%BB%99ng%20l%E1%BB%B1c.md)
-    - [Kiếm tiền trước, làm việc có ý nghĩa sau](./Ti%E1%BB%81n/Ki%E1%BA%BFm%20%C4%83n/Ki%E1%BA%BFm%20ti%E1%BB%81n%20tr%C6%B0%E1%BB%9Bc,%20l%C3%A0m%20vi%E1%BB%87c%20c%C3%B3%20%C3%BD%20ngh%C4%A9a%20sau.md)
     - [Phá miếng cơm](./Ti%E1%BB%81n/Ki%E1%BA%BFm%20%C4%83n/Ph%C3%A1%20mi%E1%BA%BFng%20c%C6%A1m.md)
+    - [Kiếm tiền trước, làm việc có ý nghĩa sau](./Ti%E1%BB%81n/Ki%E1%BA%BFm%20%C4%83n/Ki%E1%BA%BFm%20ti%E1%BB%81n%20tr%C6%B0%E1%BB%9Bc,%20l%C3%A0m%20vi%E1%BB%87c%20c%C3%B3%20%C3%BD%20ngh%C4%A9a%20sau.md)
     - [Tự nuôi sống bản thân](./Ti%E1%BB%81n/Ki%E1%BA%BFm%20%C4%83n/T%E1%BB%B1%20nu%C3%B4i%20s%E1%BB%91ng%20b%E1%BA%A3n%20th%C3%A2n.md)
     - [Đồng tiền đi liền khúc ruột](./Ti%E1%BB%81n/Ki%E1%BA%BFm%20%C4%83n/%C4%90%E1%BB%93ng%20ti%E1%BB%81n%20%C4%91i%20li%E1%BB%81n%20kh%C3%BAc%20ru%E1%BB%99t.md)
-    - [Không hỏi về tài sản của người khác](./Ti%E1%BB%81n/Kh%C3%B4ng%20h%E1%BB%8Fi%20v%E1%BB%81%20t%C3%A0i%20s%E1%BA%A3n%20c%E1%BB%A7a%20ng%C6%B0%E1%BB%9Di%20kh%C3%A1c.md)
+    - [Nếu việc mua không có nghĩa là sở hữu, thì piracy không có nghĩa là ăn cắp](./Ti%E1%BB%81n/N%E1%BA%BFu%20vi%E1%BB%87c%20mua%20kh%C3%B4ng%20c%C3%B3%20ngh%C4%A9a%20l%C3%A0%20s%E1%BB%9F%20h%E1%BB%AFu,%20th%C3%AC%20piracy%20kh%C3%B4ng%20c%C3%B3%20ngh%C4%A9a%20l%C3%A0%20%C4%83n%20c%E1%BA%AFp.md)
     - [Cái cần không phải là có tiền, mà là có dòng tiền](./Ti%E1%BB%81n/Ngh%C3%A8o/C%C3%A1i%20c%E1%BA%A7n%20kh%C3%B4ng%20ph%E1%BA%A3i%20l%C3%A0%20c%C3%B3%20ti%E1%BB%81n,%20m%C3%A0%20l%C3%A0%20c%C3%B3%20d%C3%B2ng%20ti%E1%BB%81n.md)
     - [Muốn thoát nghèo cần dòng tiền, chứ không phải là làm công ăn lương](./Ti%E1%BB%81n/Ngh%C3%A8o/Mu%E1%BB%91n%20tho%C3%A1t%20ngh%C3%A8o%20c%E1%BA%A7n%20d%C3%B2ng%20ti%E1%BB%81n,%20ch%E1%BB%A9%20kh%C3%B4ng%20ph%E1%BA%A3i%20l%C3%A0%20l%C3%A0m%20c%C3%B4ng%20%C4%83n%20l%C6%B0%C6%A1ng.md)
     - [Người nghèo lười biếng](./Ti%E1%BB%81n/Ngh%C3%A8o/Ng%C6%B0%E1%BB%9Di%20ngh%C3%A8o%20l%C6%B0%E1%BB%9Di%20bi%E1%BA%BFng.md)
-    - [Người nghèo ăn xổi ở thì](./Ti%E1%BB%81n/Ngh%C3%A8o/Ng%C6%B0%E1%BB%9Di%20ngh%C3%A8o%20%C4%83n%20x%E1%BB%95i%20%E1%BB%9F%20th%C3%AC.md)
     - [Việc có được dòng tiền là cánh cửa để đạt được ước mơ thay đổi cuộc sống](./Ti%E1%BB%81n/Ngh%C3%A8o/Vi%E1%BB%87c%20c%C3%B3%20%C4%91%C6%B0%E1%BB%A3c%20d%C3%B2ng%20ti%E1%BB%81n%20l%C3%A0%20c%C3%A1nh%20c%E1%BB%ADa%20%C4%91%E1%BB%83%20%C4%91%E1%BA%A1t%20%C4%91%C6%B0%E1%BB%A3c%20%C6%B0%E1%BB%9Bc%20m%C6%A1%20thay%20%C4%91%E1%BB%95i%20cu%E1%BB%99c%20s%E1%BB%91ng.md)
-    - [Nếu việc mua không có nghĩa là sở hữu, thì piracy không có nghĩa là ăn cắp](./Ti%E1%BB%81n/N%E1%BA%BFu%20vi%E1%BB%87c%20mua%20kh%C3%B4ng%20c%C3%B3%20ngh%C4%A9a%20l%C3%A0%20s%E1%BB%9F%20h%E1%BB%AFu,%20th%C3%AC%20piracy%20kh%C3%B4ng%20c%C3%B3%20ngh%C4%A9a%20l%C3%A0%20%C4%83n%20c%E1%BA%AFp.md)
+    - [Người nghèo ăn xổi ở thì](./Ti%E1%BB%81n/Ngh%C3%A8o/Ng%C6%B0%E1%BB%9Di%20ngh%C3%A8o%20%C4%83n%20x%E1%BB%95i%20%E1%BB%9F%20th%C3%AC.md)
     - [Tiền chỉ là công cụ](./Ti%E1%BB%81n/Ti%E1%BB%81n%20ch%E1%BB%89%20l%C3%A0%20c%C3%B4ng%20c%E1%BB%A5.md)
-    - [Tiền của tôi, tôi muốn xài thế nào là việc của tôi](./Ti%E1%BB%81n/Ti%E1%BB%81n%20c%E1%BB%A7a%20t%C3%B4i,%20t%C3%B4i%20mu%E1%BB%91n%20x%C3%A0i%20th%E1%BA%BF%20n%C3%A0o%20l%C3%A0%20vi%E1%BB%87c%20c%E1%BB%A7a%20t%C3%B4i.md)
     - [Tiền luôn bị kiểm soát](./Ti%E1%BB%81n/Ti%E1%BB%81n%20lu%C3%B4n%20b%E1%BB%8B%20ki%E1%BB%83m%20so%C3%A1t.md)
-    - [Bằng mọi giá phải giữ điểm tín dụng cho sạch](./Ti%E1%BB%81n/Vay,%20n%E1%BB%A3/B%E1%BA%B1ng%20m%E1%BB%8Di%20gi%C3%A1%20ph%E1%BA%A3i%20gi%E1%BB%AF%20%C4%91i%E1%BB%83m%20t%C3%ADn%20d%E1%BB%A5ng%20cho%20s%E1%BA%A1ch.md)
     - [Cho người khác biết tình hình nợ sẽ làm họ nghĩ là mình vòi tiền](./Ti%E1%BB%81n/Vay,%20n%E1%BB%A3/Cho%20ng%C6%B0%E1%BB%9Di%20kh%C3%A1c%20bi%E1%BA%BFt%20t%C3%ACnh%20h%C3%ACnh%20n%E1%BB%A3%20s%E1%BA%BD%20l%C3%A0m%20h%E1%BB%8D%20ngh%C4%A9%20l%C3%A0%20m%C3%ACnh%20v%C3%B2i%20ti%E1%BB%81n.md)
     - [Chuyện nợ nần là chuyện riêng của cá nhân](./Ti%E1%BB%81n/Vay,%20n%E1%BB%A3/Chuy%E1%BB%87n%20n%E1%BB%A3%20n%E1%BA%A7n%20l%C3%A0%20chuy%E1%BB%87n%20ri%C3%AAng%20c%E1%BB%A7a%20c%C3%A1%20nh%C3%A2n.md)
+    - [Bằng mọi giá phải giữ điểm tín dụng cho sạch](./Ti%E1%BB%81n/Vay,%20n%E1%BB%A3/B%E1%BA%B1ng%20m%E1%BB%8Di%20gi%C3%A1%20ph%E1%BA%A3i%20gi%E1%BB%AF%20%C4%91i%E1%BB%83m%20t%C3%ADn%20d%E1%BB%A5ng%20cho%20s%E1%BA%A1ch.md)
     - [Có vay có trả](./Ti%E1%BB%81n/Vay,%20n%E1%BB%A3/C%C3%B3%20vay%20c%C3%B3%20tr%E1%BA%A3.md)
     - [Không cho vay thì mất bạn. Cho vay rồi còn mất nhanh hơn](./Ti%E1%BB%81n/Vay,%20n%E1%BB%A3/Kh%C3%B4ng%20cho%20vay%20th%C3%AC%20m%E1%BA%A5t%20b%E1%BA%A1n.%20Cho%20vay%20r%E1%BB%93i%20c%C3%B2n%20m%E1%BA%A5t%20nhanh%20h%C6%A1n.md)
     - [Cái gì không mua được bằng tiền thì mua được bằng rất nhiều tiền](./Ti%E1%BB%81n/%C4%90%E1%BA%A1o%20%C4%91%E1%BB%A9c/C%C3%A1i%20g%C3%AC%20kh%C3%B4ng%20mua%20%C4%91%C6%B0%E1%BB%A3c%20b%E1%BA%B1ng%20ti%E1%BB%81n%20th%C3%AC%20mua%20%C4%91%C6%B0%E1%BB%A3c%20b%E1%BA%B1ng%20r%E1%BA%A5t%20nhi%E1%BB%81u%20ti%E1%BB%81n.md)
@@ -110,8 +108,10 @@ title: Niềm tin, diễn ngôn
     - [Cứ xem người giàu hút máu thì sẽ mãi chẳng giàu được](./Ti%E1%BB%81n/%C4%90%E1%BA%A1o%20%C4%91%E1%BB%A9c/C%E1%BB%A9%20xem%20ng%C6%B0%E1%BB%9Di%20gi%C3%A0u%20h%C3%BAt%20m%C3%A1u%20th%C3%AC%20s%E1%BA%BD%20m%C3%A3i%20ch%E1%BA%B3ng%20gi%C3%A0u%20%C4%91%C6%B0%E1%BB%A3c.md)
     - [Doanh nhân chỉ biết kiếm tiền](./Ti%E1%BB%81n/%C4%90%E1%BA%A1o%20%C4%91%E1%BB%A9c/Doanh%20nh%C3%A2n%20ch%E1%BB%89%20bi%E1%BA%BFt%20ki%E1%BA%BFm%20ti%E1%BB%81n.md)
     - [Người khôn không làm kinh tế được, chỉ có người ngu mới làm được](./Ti%E1%BB%81n/%C4%90%E1%BA%A1o%20%C4%91%E1%BB%A9c/Ng%C6%B0%E1%BB%9Di%20kh%C3%B4n%20kh%C3%B4ng%20l%C3%A0m%20kinh%20t%E1%BA%BF%20%C4%91%C6%B0%E1%BB%A3c,%20ch%E1%BB%89%20c%C3%B3%20ng%C6%B0%E1%BB%9Di%20ngu%20m%E1%BB%9Bi%20l%C3%A0m%20%C4%91%C6%B0%E1%BB%A3c.md)
+    - [Kinh tế tư nhân là động lực quan trọng nhất cho sự phát triển xã hội](./Ti%E1%BB%81n/%C4%90%E1%BA%A1o%20%C4%91%E1%BB%A9c/Kinh%20t%E1%BA%BF%20t%C6%B0%20nh%C3%A2n%20l%C3%A0%20%C4%91%E1%BB%99ng%20l%E1%BB%B1c%20quan%20tr%E1%BB%8Dng%20nh%E1%BA%A5t%20cho%20s%E1%BB%B1%20ph%C3%A1t%20tri%E1%BB%83n%20x%C3%A3%20h%E1%BB%99i.md)
     - [Tiền không mua được hạnh phúc](./Ti%E1%BB%81n/%C4%90%E1%BA%A1o%20%C4%91%E1%BB%A9c/Ti%E1%BB%81n%20kh%C3%B4ng%20mua%20%C4%91%C6%B0%E1%BB%A3c%20h%E1%BA%A1nh%20ph%C3%BAc.md)
     - [Tiền là nguồn gốc của tội lỗi](./Ti%E1%BB%81n/%C4%90%E1%BA%A1o%20%C4%91%E1%BB%A9c/Ti%E1%BB%81n%20l%C3%A0%20ngu%E1%BB%93n%20g%E1%BB%91c%20c%E1%BB%A7a%20t%E1%BB%99i%20l%E1%BB%97i.md)
+    - [Tiền của tôi, tôi muốn xài thế nào là việc của tôi](./Ti%E1%BB%81n/Ti%E1%BB%81n%20c%E1%BB%A7a%20t%C3%B4i,%20t%C3%B4i%20mu%E1%BB%91n%20x%C3%A0i%20th%E1%BA%BF%20n%C3%A0o%20l%C3%A0%20vi%E1%BB%87c%20c%E1%BB%A7a%20t%C3%B4i.md)
 
 - Vĩ mô: 
     - [Phải biết luật chơi của nó trước](./V%C4%A9%20m%C3%B4/Ph%E1%BA%A3i%20bi%E1%BA%BFt%20lu%E1%BA%ADt%20ch%C6%A1i%20c%E1%BB%A7a%20n%C3%B3%20tr%C6%B0%E1%BB%9Bc.md)
