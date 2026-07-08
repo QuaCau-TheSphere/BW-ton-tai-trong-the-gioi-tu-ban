@@ -1,7 +1,7 @@
 ---
 share: true
-created: 2025-03-27T17:13
-updated: 2026-04-15T21:01
+updated: 2026-07-07T13:00
+created: 2025-05-11T01:48
 ---
 Khái niệm:: [Mua trước trả sau](../../../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/T%C3%ADn%20d%E1%BB%A5ng/Mua%20tr%C6%B0%E1%BB%9Bc%20tr%E1%BA%A3%20sau.md)
 [Thấu chi tính lãi ngày và chỉ được miễn lãi 1 ngày. Nợ thẻ tín dụng được miễn lãi 45 ngày](./Th%E1%BA%A5u%20chi%20t%C3%ADnh%20l%C3%A3i%20ng%C3%A0y%20v%C3%A0%20ch%E1%BB%89%20%C4%91%C6%B0%E1%BB%A3c%20mi%E1%BB%85n%20l%C3%A3i%201%20ng%C3%A0y.%20N%E1%BB%A3%20th%E1%BA%BB%20t%C3%ADn%20d%E1%BB%A5ng%20%C4%91%C6%B0%E1%BB%A3c%20mi%E1%BB%85n%20l%C3%A3i%2045%20ng%C3%A0y.md)
