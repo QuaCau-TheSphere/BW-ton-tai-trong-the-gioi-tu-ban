@@ -1,7 +1,7 @@
 ---
 share: true
-created: 2025-03-27T17:13
-updated: 2025-12-19T11:32
+updated: 2026-07-07T13:00
+created: 2025-11-01T09:57
 ---
 Khái niệm:: [Quảng cáo](../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Ki%E1%BA%BFm%20ti%E1%BB%81n/Qu%E1%BA%A3ng%20c%C3%A1o.md), [Thao túng](../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Ki%E1%BA%BFm%20ti%E1%BB%81n/Kh%C3%B4ng%20li%C3%AAm%20ch%C3%ADnh/Thao%20t%C3%BAng.md), [Khai thác điểm yếu con người](../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Ki%E1%BA%BFm%20ti%E1%BB%81n/Kh%C3%B4ng%20li%C3%AAm%20ch%C3%ADnh/Khai%20th%C3%A1c%20%C4%91i%E1%BB%83m%20y%E1%BA%BFu%20con%20ng%C6%B0%E1%BB%9Di.md)
 [Nhiều bài lên đầu Google không có nhiều nội dung mà chỉ chứa từ khóa để làm tăng thứ hạng](./Nhi%E1%BB%81u%20b%C3%A0i%20l%C3%AAn%20%C4%91%E1%BA%A7u%20Google%20kh%C3%B4ng%20c%C3%B3%20nhi%E1%BB%81u%20n%E1%BB%99i%20dung%20m%C3%A0%20ch%E1%BB%89%20ch%E1%BB%A9a%20t%E1%BB%AB%20kh%C3%B3a%20%C4%91%E1%BB%83%20l%C3%A0m%20t%C4%83ng%20th%E1%BB%A9%20h%E1%BA%A1ng.md)
