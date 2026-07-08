@@ -1,7 +1,7 @@
 ---
 share: true
-created: 2025-03-27T17:13
-updated: 2026-06-27T18:54
+updated: 2026-07-07T12:58
+created: 2026-06-03T15:16
 ---
 Khái niệm:: 
 Do cơ chế giải quyết tranh chấp dân sự còn tồn tại những hạn chế nhất định, như thời gian giải quyết kéo dài, hiệu quả thi hành án chưa cao, khiến các chủ thể có xu hướng tìm đến con đường tố tụng hình sự như một phương thức đạt được kết quả nhanh hơn
