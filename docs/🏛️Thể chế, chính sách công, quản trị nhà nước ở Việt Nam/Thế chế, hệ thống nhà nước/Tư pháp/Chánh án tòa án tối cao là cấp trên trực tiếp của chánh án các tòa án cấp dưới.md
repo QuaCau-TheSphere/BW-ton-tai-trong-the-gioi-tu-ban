@@ -1,7 +1,7 @@
 ---
 share: true
-created: 2025-03-27T17:13
-updated: 2026-06-12T21:25
+updated: 2026-07-07T12:59
+created: 2026-06-12T21:18
 ---
 Khái niệm:: 
 [Nhiệm kỳ của các chánh án là 5 năm](./Nhi%E1%BB%87m%20k%E1%BB%B3%20c%E1%BB%A7a%20c%C3%A1c%20ch%C3%A1nh%20%C3%A1n%20l%C3%A0%205%20n%C4%83m.md)
