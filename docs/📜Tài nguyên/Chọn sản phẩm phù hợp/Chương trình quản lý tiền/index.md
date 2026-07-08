@@ -56,12 +56,12 @@ style 3 fill:lightgreen
     - [Việc phân loại thủ công không phải là vấn đề](./1%20Nhu%20c%E1%BA%A7u%20ng%C6%B0%E1%BB%9Di%20d%C3%B9ng/C%C3%A1ch%20ph%C3%A2n%20lo%E1%BA%A1i/Vi%E1%BB%87c%20ph%C3%A2n%20lo%E1%BA%A1i%20th%E1%BB%A7%20c%C3%B4ng%20kh%C3%B4ng%20ph%E1%BA%A3i%20l%C3%A0%20v%E1%BA%A5n%20%C4%91%E1%BB%81.md)
     - [Việc phân loại thủ công là vấn đề lớn](./1%20Nhu%20c%E1%BA%A7u%20ng%C6%B0%E1%BB%9Di%20d%C3%B9ng/C%C3%A1ch%20ph%C3%A2n%20lo%E1%BA%A1i/Vi%E1%BB%87c%20ph%C3%A2n%20lo%E1%BA%A1i%20th%E1%BB%A7%20c%C3%B4ng%20l%C3%A0%20v%E1%BA%A5n%20%C4%91%E1%BB%81%20l%E1%BB%9Bn.md)
     - [Cần nhập càng nhanh càng tốt](./1%20Nhu%20c%E1%BA%A7u%20ng%C6%B0%E1%BB%9Di%20d%C3%B9ng/C%E1%BA%A7n%20nh%E1%BA%ADp%20c%C3%A0ng%20nhanh%20c%C3%A0ng%20t%E1%BB%91t.md)
-    - [Cần nhập lúc đi đường](./1%20Nhu%20c%E1%BA%A7u%20ng%C6%B0%E1%BB%9Di%20d%C3%B9ng/C%E1%BA%A7n%20nh%E1%BA%ADp%20l%C3%BAc%20%C4%91i%20%C4%91%C6%B0%E1%BB%9Dng.md)
     - [Chỉ cần xét những mục phổ biến](./1%20Nhu%20c%E1%BA%A7u%20ng%C6%B0%E1%BB%9Di%20d%C3%B9ng/H%E1%BB%87%20th%E1%BB%91ng%20ph%C3%A2n%20lo%E1%BA%A1i/Ch%E1%BB%89%20c%E1%BA%A7n%20x%C3%A9t%20nh%E1%BB%AFng%20m%E1%BB%A5c%20ph%E1%BB%95%20bi%E1%BA%BFn.md)
     - [Cần xét cặn kẽ từng hạng mục](./1%20Nhu%20c%E1%BA%A7u%20ng%C6%B0%E1%BB%9Di%20d%C3%B9ng/H%E1%BB%87%20th%E1%BB%91ng%20ph%C3%A2n%20lo%E1%BA%A1i/C%E1%BA%A7n%20x%C3%A9t%20c%E1%BA%B7n%20k%E1%BA%BD%20t%E1%BB%ABng%20h%E1%BA%A1ng%20m%E1%BB%A5c.md)
-    - [Không đủ kiên nhẫn](./1%20Nhu%20c%E1%BA%A7u%20ng%C6%B0%E1%BB%9Di%20d%C3%B9ng/Kh%E1%BA%A3%20n%C4%83ng%20s%E1%BB%AD%20d%E1%BB%A5ng/Kh%C3%B4ng%20%C4%91%E1%BB%A7%20ki%C3%AAn%20nh%E1%BA%ABn.md)
+    - [Cần nhập lúc đi đường](./1%20Nhu%20c%E1%BA%A7u%20ng%C6%B0%E1%BB%9Di%20d%C3%B9ng/C%E1%BA%A7n%20nh%E1%BA%ADp%20l%C3%BAc%20%C4%91i%20%C4%91%C6%B0%E1%BB%9Dng.md)
     - [Cần tích hợp được với các chương trình khác](./1%20Nhu%20c%E1%BA%A7u%20ng%C6%B0%E1%BB%9Di%20d%C3%B9ng/Kh%E1%BA%A3%20n%C4%83ng%20t%C3%ADch%20h%E1%BB%A3p/C%E1%BA%A7n%20t%C3%ADch%20h%E1%BB%A3p%20%C4%91%C6%B0%E1%BB%A3c%20v%E1%BB%9Bi%20c%C3%A1c%20ch%C6%B0%C6%A1ng%20tr%C3%ACnh%20kh%C3%A1c.md)
     - [Không cần tích hợp](./1%20Nhu%20c%E1%BA%A7u%20ng%C6%B0%E1%BB%9Di%20d%C3%B9ng/Kh%E1%BA%A3%20n%C4%83ng%20t%C3%ADch%20h%E1%BB%A3p/Kh%C3%B4ng%20c%E1%BA%A7n%20t%C3%ADch%20h%E1%BB%A3p.md)
+    - [Không đủ kiên nhẫn](./1%20Nhu%20c%E1%BA%A7u%20ng%C6%B0%E1%BB%9Di%20d%C3%B9ng/Kh%E1%BA%A3%20n%C4%83ng%20s%E1%BB%AD%20d%E1%BB%A5ng/Kh%C3%B4ng%20%C4%91%E1%BB%A7%20ki%C3%AAn%20nh%E1%BA%ABn.md)
 
 - 2 Yêu cầu đầu vào: 
     - [Có thể dành thời gian nghiên cứu](./2%20Y%C3%AAu%20c%E1%BA%A7u%20%C4%91%E1%BA%A7u%20v%C3%A0o/C%C3%B3%20th%E1%BB%83%20d%C3%A0nh%20th%E1%BB%9Di%20gian%20nghi%C3%AAn%20c%E1%BB%A9u.md)
@@ -117,9 +117,9 @@ style 3 fill:lightgreen
     - [Template thu chi trên Excel](./4%20Lo%E1%BA%A1i%20ch%C6%B0%C6%A1ng%20tr%C3%ACnh/Template%20thu%20chi%20tr%C3%AAn%20Excel.md)
 
 - 5 Tên chương trình: 
-    - [Momo](./5%20T%C3%AAn%20ch%C6%B0%C6%A1ng%20tr%C3%ACnh/App%20qu%E1%BA%A3n%20l%C3%BD%20chi%20ti%C3%AAu/Momo.md)
-    - [Maybe finance](./5%20T%C3%AAn%20ch%C6%B0%C6%A1ng%20tr%C3%ACnh/App%20qu%E1%BA%A3n%20l%C3%BD%20chi%20ti%C3%AAu/Maybe%20finance.md)
     - [Chương trình quản lý chi tiêu cá nhân từ Trấn Kỳ](./5%20T%C3%AAn%20ch%C6%B0%C6%A1ng%20tr%C3%ACnh/App%20qu%E1%BA%A3n%20l%C3%BD%20chi%20ti%C3%AAu/Ch%C6%B0%C6%A1ng%20tr%C3%ACnh%20qu%E1%BA%A3n%20l%C3%BD%20chi%20ti%C3%AAu%20c%C3%A1%20nh%C3%A2n%20t%E1%BB%AB%20Tr%E1%BA%A5n%20K%E1%BB%B3.md)
+    - [Maybe finance](./5%20T%C3%AAn%20ch%C6%B0%C6%A1ng%20tr%C3%ACnh/App%20qu%E1%BA%A3n%20l%C3%BD%20chi%20ti%C3%AAu/Maybe%20finance.md)
+    - [Momo](./5%20T%C3%AAn%20ch%C6%B0%C6%A1ng%20tr%C3%ACnh/App%20qu%E1%BA%A3n%20l%C3%BD%20chi%20ti%C3%AAu/Momo.md)
     - [MoneyLover](./5%20T%C3%AAn%20ch%C6%B0%C6%A1ng%20tr%C3%ACnh/App%20qu%E1%BA%A3n%20l%C3%BD%20chi%20ti%C3%AAu/MoneyLover.md)
     - [PiPu](./5%20T%C3%AAn%20ch%C6%B0%C6%A1ng%20tr%C3%ACnh/App%20qu%E1%BA%A3n%20l%C3%BD%20chi%20ti%C3%AAu/PiPu.md)
     - [figr](./5%20T%C3%AAn%20ch%C6%B0%C6%A1ng%20tr%C3%ACnh/figr.md)
