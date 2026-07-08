@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-01-20T17:53
-updated: 2026-04-14T14:37
+updated: 2026-07-07T13:00
 title: Các từ "khách hàng", "chăm sóc", "tư vấn", "quà tặng" vốn không có nghĩa là phải chấp nhận điều kiện của mình mới được nhận, nhưng thực chất lại được dùng như vậy trong quá trình bán hàng
 ---
 Khái niệm:: [Quà tặng](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Ki%E1%BA%BFm%20ti%E1%BB%81n/Qu%C3%A0%20t%E1%BA%B7ng.md), [Giảm giá](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Ki%E1%BA%BFm%20ti%E1%BB%81n/Gi%E1%BA%A3m%20gi%C3%A1.md)
