@@ -1,7 +1,7 @@
 ---
 share: true
-created: 2025-03-27T17:13
-updated: 2026-06-21T13:02
+updated: 2026-07-07T12:58
+created: 2026-05-31T22:32
 ---
 Khái niệm:: [Luật](../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Nh%C3%A0%20n%C6%B0%E1%BB%9Bc/Lu%E1%BA%ADt/index.md)
 Trong hệ thống pháp luật, hình sự là công cụ can thiệp mạnh nhất của Nhà nước. Việc áp dụng chế tài hình sự không chỉ nhằm trừng phạt hành vi nguy hiểm cho xã hội, mà còn kéo theo những hệ quả lâu dài như tước bỏ tự do, gián đoạn sự nghiệp, hủy hoại uy tín xã hội và để lại dấu ấn pháp lý khó xóa bỏ đối với cá nhân bị xử lý. Chính vì hệ quả sâu rộng đó, luật hình sự không được thiết kế để trở thành phản xạ mặc định cho mọi sai sót trong quản lý.
