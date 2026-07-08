@@ -1,14 +1,14 @@
 ---
 share: true
-created: 2025-03-27T17:13
-updated: 2026-03-21T20:28
+updated: 2026-07-07T12:59
+created: 2025-11-26T08:47
 ---
 Khái niệm:: 
 ## Đa khủng hoảng
 Làm sao để tiếp cận xã hội
 làm sao để giải quyết được đa khủng hoảng -> mỗi người được ở đúng vị trí của họ
 
-[Không thể yêu cầu những quốc gia chưa đạt được mức phát triển ngừng tăng trưởng được. Phải đủ rồi mới thoái tăng trưởng được](../Ph%C3%A1t%20tri%E1%BB%83n%20b%E1%BB%81n%20v%E1%BB%AFng.%20C%C3%A1c%20n%E1%BB%81n%20kinh%20t%E1%BA%BF%20thay%20th%E1%BA%BF/Kh%C3%B4ng%20th%E1%BB%83%20y%C3%AAu%20c%E1%BA%A7u%20nh%E1%BB%AFng%20qu%E1%BB%91c%20gia%20ch%C6%B0a%20%C4%91%E1%BA%A1t%20%C4%91%C6%B0%E1%BB%A3c%20m%E1%BB%A9c%20ph%C3%A1t%20tri%E1%BB%83n%20ng%E1%BB%ABng%20t%C4%83ng%20tr%C6%B0%E1%BB%9Fng%20%C4%91%C6%B0%E1%BB%A3c.%20Ph%E1%BA%A3i%20%C4%91%E1%BB%A7%20r%E1%BB%93i%20m%E1%BB%9Bi%20tho%C3%A1i%20t%C4%83ng%20tr%C6%B0%E1%BB%9Fng%20%C4%91%C6%B0%E1%BB%A3c.md)
+[Không thể yêu cầu những quốc gia chưa đạt được mức phát triển ngừng tăng trưởng được. Phải đủ rồi mới thoái tăng trưởng được](../../%F0%9F%8E%81Ph%C3%A1t%20tri%E1%BB%83n%20b%E1%BB%81n%20v%E1%BB%AFng.%20C%C3%A1c%20n%E1%BB%81n%20kinh%20t%E1%BA%BF%20thay%20th%E1%BA%BF/Th%E1%BB%B1c%20tr%E1%BA%A1ng/Kh%C3%B4ng%20th%E1%BB%83%20y%C3%AAu%20c%E1%BA%A7u%20nh%E1%BB%AFng%20qu%E1%BB%91c%20gia%20ch%C6%B0a%20%C4%91%E1%BA%A1t%20%C4%91%C6%B0%E1%BB%A3c%20m%E1%BB%A9c%20ph%C3%A1t%20tri%E1%BB%83n%20ng%E1%BB%ABng%20t%C4%83ng%20tr%C6%B0%E1%BB%9Fng%20%C4%91%C6%B0%E1%BB%A3c.%20Ph%E1%BA%A3i%20%C4%91%E1%BB%A7%20r%E1%BB%93i%20m%E1%BB%9Bi%20tho%C3%A1i%20t%C4%83ng%20tr%C6%B0%E1%BB%9Fng%20%C4%91%C6%B0%E1%BB%A3c.md)
 
 ## Hợp tác xã tín dụng
 Hệ sinh thái gồm người gửi tiền, người quản trị, người vay tiền. Ngân hàng đạo đức đòi hỏi các bên vay tiền phải có một báo cáo khác chứ ko chỉ là báo cáo tài chính. Ngân hàng thường chỉ cần nhìn vào báo cáo tài chính là cho vay  hay ko. Phải có nhân sự đủ  khả năng làm các báo cáo này hay không. không chỉ là người gửi tiền, mà phải có con người có khả năng vay tiền, mà để có điều đó thì những người đó phải có hiểu biết về tài chính'
@@ -23,7 +23,7 @@ Khi nào cuộc gặp 500 người, membership 1000 người thì  mới nghĩ �
 ## Các bạn nói về sử dụng gạo bản địa. Hiện tại các bạn đang ở miền Trung. Vậy tại sao các bạn lại nhập gạo chú Tư Việt ở miền Nam?
 thúc đẩy việc chạy ở trong cộng đồng, tiêu dùng có ý thức. Chú tái tạo, bảo tồn có văn hóa
 
-[Phong trào địa phương hóa là sự phản hồi lại sự toàn cầu hóa, không phải là địa phương theo địa lý](../Ph%C3%A1t%20tri%E1%BB%83n%20b%E1%BB%81n%20v%E1%BB%AFng.%20C%C3%A1c%20n%E1%BB%81n%20kinh%20t%E1%BA%BF%20thay%20th%E1%BA%BF/Kinh%20t%E1%BA%BF%20thay%20th%E1%BA%BF/%C4%90%E1%BB%8Ba%20ph%C6%B0%C6%A1ng%20h%C3%B3a/Phong%20tr%C3%A0o%20%C4%91%E1%BB%8Ba%20ph%C6%B0%C6%A1ng%20h%C3%B3a%20l%C3%A0%20s%E1%BB%B1%20ph%E1%BA%A3n%20h%E1%BB%93i%20l%E1%BA%A1i%20s%E1%BB%B1%20to%C3%A0n%20c%E1%BA%A7u%20h%C3%B3a,%20kh%C3%B4ng%20ph%E1%BA%A3i%20l%C3%A0%20%C4%91%E1%BB%8Ba%20ph%C6%B0%C6%A1ng%20theo%20%C4%91%E1%BB%8Ba%20l%C3%BD.md)
+[Phong trào địa phương hóa là sự phản hồi lại sự toàn cầu hóa, không phải là địa phương theo địa lý](../../%F0%9F%8E%81Ph%C3%A1t%20tri%E1%BB%83n%20b%E1%BB%81n%20v%E1%BB%AFng.%20C%C3%A1c%20n%E1%BB%81n%20kinh%20t%E1%BA%BF%20thay%20th%E1%BA%BF/Gi%E1%BA%A3i%20ph%C3%A1p/%C4%90%E1%BB%8Ba%20ph%C6%B0%C6%A1ng%20h%C3%B3a/Phong%20tr%C3%A0o%20%C4%91%E1%BB%8Ba%20ph%C6%B0%C6%A1ng%20h%C3%B3a%20l%C3%A0%20s%E1%BB%B1%20ph%E1%BA%A3n%20h%E1%BB%93i%20l%E1%BA%A1i%20s%E1%BB%B1%20to%C3%A0n%20c%E1%BA%A7u%20h%C3%B3a,%20kh%C3%B4ng%20ph%E1%BA%A3i%20l%C3%A0%20%C4%91%E1%BB%8Ba%20ph%C6%B0%C6%A1ng%20theo%20%C4%91%E1%BB%8Ba%20l%C3%BD.md)
 
 Muốn hỗ trợ người ta 
 Cơ tu ko sản xuất nhiều, không mang xuống nhiều, họ không có nhu cầu bán. khó kết nối về ngôn  ngữ
