@@ -1,7 +1,7 @@
 ---
 share: true
-created: 2025-03-27T17:13
-updated: 2025-12-19T11:32
+updated: 2026-07-06T21:39
+created: 2025-12-01T15:26
 ---
 Khái niệm:: [Kế toán](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/T%C3%ADn%20d%E1%BB%A5ng/K%E1%BA%BF%20to%C3%A1n.md)
 The economic events that involve externalities like waste and pollution will also need to be recorded, as well as the consumption or degradation of all other resources that are not now subsumed under “ownership” like air, water, and soil microbiota. Those records can be interpreted in the light of biocapacity and ecosystem health.
