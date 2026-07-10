@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2026-06-14T21:29
+updated: 2026-07-10T14:49
 aliases:
   - Trục lợi bọn trục lợi
 ---
@@ -20,18 +20,18 @@ Với khách hàng US/UK thì tụi nó mồi tới 50-70$ mỗi lần. Và than
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6nfGwSw-I14?si=kSwo_qgduxYViw0h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 ## Mô tả chi tiết
 ## Thông tin thêm
-[Cảnh giác lừa đảo](../../../../%F0%9F%92%B8H%C3%ACnh%20th%E1%BB%A9c%20ki%E1%BA%BFm%20ti%E1%BB%81n/Thi%E1%BA%BFu%20li%C3%AAm%20ch%C3%ADnh/C%E1%BA%A3nh%20gi%C3%A1c%20l%E1%BB%ABa%20%C4%91%E1%BA%A3o/index.md)
+[Cảnh giác lừa đảo](../../../../%F0%9F%92%B8H%C3%ACnh%20th%E1%BB%A9c%20ki%E1%BA%BFm%20ti%E1%BB%81n/Thi%E1%BA%BFu%20li%C3%AAm%20ch%C3%ADnh.%20Ph%E1%BA%A1m%20ph%C3%A1p/C%E1%BA%A3nh%20gi%C3%A1c%20l%E1%BB%ABa%20%C4%91%E1%BA%A3o/index.md)
 
 ### Vấn đề đạo đức
 Đây là số tiền mà họ đi lừa người khác để có được. Có hợp lẽ nếu mình sử dụng số tiền đó để giúp người khác? Về mặt luật pháp thì chắc vẫn còn cần thêm bằng chứng để có thể nói là mình không rửa tiền, nhưng ở đây chỉ bàn về đạo đức.
 
-Xem thêm:: [Vấn đề đạo đức khi làm ảo](../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%C4%90%E1%BA%A1o%20%C4%91%E1%BB%A9c,%20ph%C3%A1p%20lu%E1%BA%ADt/Trung%20th%E1%BB%B1c/V%E1%BA%A5n%20%C4%91%E1%BB%81%20%C4%91%E1%BA%A1o%20%C4%91%E1%BB%A9c%20trong%20vi%E1%BB%87c%20l%E1%BB%ABa%20d%E1%BB%91i%20c%E1%BA%A5p%20tr%C3%AAn.md)
+Xem thêm:: [Vấn đề đạo đức khi làm ảo](../../../../%F0%9F%92%B8H%C3%ACnh%20th%E1%BB%A9c%20ki%E1%BA%BFm%20ti%E1%BB%81n/Thi%E1%BA%BFu%20li%C3%AAm%20ch%C3%ADnh.%20Ph%E1%BA%A1m%20ph%C3%A1p/Nguy%C3%AAn%20l%C3%BD/T%E1%BA%A1o%20k%E1%BB%B3%20v%E1%BB%8Dng%20sai,%20l%C3%A1ch%20quy%20%C4%91%E1%BB%8Bnh/V%E1%BA%A5n%20%C4%91%E1%BB%81%20%C4%91%E1%BA%A1o%20%C4%91%E1%BB%A9c%20trong%20vi%E1%BB%87c%20l%E1%BB%ABa%20d%E1%BB%91i%20c%E1%BA%A5p%20tr%C3%AAn.md)
 
 Số tiền đầu tư:: 
 Số tiền đặt cọc:: 
 Số người cần tuyển:: 
 Hình thức công việc:: [Các công việc kiếm tiền nhanh](C%C3%A1c%20c%C3%B4ng%20vi%E1%BB%87c%20ki%E1%BA%BFm%20ti%E1%BB%81n%20nhanh.md)
-Kiến thức, kỹ năng:: [Cần biết cách ẩn danh](../../%C4%90%E1%BA%B7c%20%C4%91i%E1%BB%83m%20c%C3%B4ng%20vi%E1%BB%87c/Y%C3%AAu%20c%E1%BA%A7u%20c%C3%B4ng%20ngh%E1%BB%87/C%E1%BA%A7n%20bi%E1%BA%BFt%20c%C3%A1ch%20%E1%BA%A9n%20danh.md)
+Kiến thức, kỹ năng:: [Biết cách ẩn danh](../../%C4%90%E1%BA%B7c%20%C4%91i%E1%BB%83m%20c%C3%B4ng%20vi%E1%BB%87c/Ki%E1%BA%BFn%20th%E1%BB%A9c,%20k%E1%BB%B9%20n%C4%83ng/Bi%E1%BA%BFt%20c%C3%A1ch%20%E1%BA%A9n%20danh.md)
 Nguyên liệu, nguồn thông tin::
 Nơi làm việc:: [Làm qua mạng](../../%C4%90%E1%BA%B7c%20%C4%91i%E1%BB%83m%20c%C3%B4ng%20vi%E1%BB%87c/N%C6%A1i%20l%C3%A0m%20vi%E1%BB%87c/L%C3%A0m%20qua%20m%E1%BA%A1ng.md)
 Thời gian làm việc::
