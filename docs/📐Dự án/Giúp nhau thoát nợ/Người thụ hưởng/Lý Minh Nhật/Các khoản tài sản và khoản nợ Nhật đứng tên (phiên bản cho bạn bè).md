@@ -1,9 +1,9 @@
 ---
 share: true
-created: 2025-03-27T17:13
-updated: 2026-06-07T16:25
+updated: 2026-07-07T12:59
 aliases:
   - nhờ Nhật đứng tên
+created: 2025-08-21T09:20
 ---
 ## Các khoản tiền cho mượn
 - Thịnh: 5tr + nửa chỉ vàng
@@ -37,7 +37,7 @@ Những cái ở dưới đây đã hết hiệu lực
 | Bảo hiểm FWD (Đón đầu thay đổi 3.0)        | 25tr049k/năm | 20/8/2024     | Bạn Lộc        |
 | Sổ tiết kiệm Vietinbank                    | 60tr         |               | Lộc            |
 
-Lộc chọn Vietinbank vì [nó là một trong bốn ngân hàng lớn ở Việt Nam, có vốn nhà nước trên 50%](../../../../%F0%9F%9B%96Ng%C3%A0nh%20ngh%E1%BB%81%20c%E1%BB%A5%20th%E1%BB%83/T%C3%A0i%20ch%C3%ADnh/T%C3%ADn%20d%E1%BB%A5ng/T%C3%ADn%20d%E1%BB%A5ng%20t%C6%B0%20b%E1%BA%A3n/T%E1%BB%95%20ch%E1%BB%A9c%20c%E1%BB%A5%20th%E1%BB%83/Ng%C3%A2n%20h%C3%A0ng/V%E1%BB%91n/Vietcombank,%20VietinBank,%20Agribank,%20v%C3%A0%20BIDV%20l%C3%A0%20c%C3%A1c%20ng%C3%A2n%20h%C3%A0ng%20c%C3%B3%20v%E1%BB%91n%20nh%C3%A0%20n%C6%B0%E1%BB%9Bc%20tr%C3%AAn%2050%25.md). [Nếu vay được từ 4 ngân hàng lớn thì dễ được các ngân hàng khác cho vay hơn](../../../../%F0%9F%9B%96Ng%C3%A0nh%20ngh%E1%BB%81%20c%E1%BB%A5%20th%E1%BB%83/T%C3%A0i%20ch%C3%ADnh/T%C3%ADn%20d%E1%BB%A5ng/T%C3%ADn%20d%E1%BB%A5ng%20t%C6%B0%20b%E1%BA%A3n/T%E1%BB%95%20ch%E1%BB%A9c%20c%E1%BB%A5%20th%E1%BB%83/Ng%C3%A2n%20h%C3%A0ng/Ch%C3%ADnh%20s%C3%A1ch%20cho%20vay/N%E1%BA%BFu%20vay%20%C4%91%C6%B0%E1%BB%A3c%20t%E1%BB%AB%204%20ng%C3%A2n%20h%C3%A0ng%20l%E1%BB%9Bn%20th%C3%AC%20d%E1%BB%85%20%C4%91%C6%B0%E1%BB%A3c%20c%C3%A1c%20ng%C3%A2n%20h%C3%A0ng%20kh%C3%A1c%20cho%20vay%20h%C6%A1n.md)
+Lộc chọn Vietinbank vì [nó là một trong bốn ngân hàng lớn ở Việt Nam, có vốn nhà nước trên 50%](../../../../%F0%9F%A7%91%E2%80%8D%F0%9F%8C%BENg%C3%A0nh%20ngh%E1%BB%81%20c%E1%BB%A5%20th%E1%BB%83/T%C3%A0i%20ch%C3%ADnh/T%C3%ADn%20d%E1%BB%A5ng/T%C3%ADn%20d%E1%BB%A5ng%20t%C6%B0%20b%E1%BA%A3n/T%E1%BB%95%20ch%E1%BB%A9c%20c%E1%BB%A5%20th%E1%BB%83/Ng%C3%A2n%20h%C3%A0ng/V%E1%BB%91n/Vietcombank,%20VietinBank,%20Agribank,%20v%C3%A0%20BIDV%20l%C3%A0%20c%C3%A1c%20ng%C3%A2n%20h%C3%A0ng%20c%C3%B3%20v%E1%BB%91n%20nh%C3%A0%20n%C6%B0%E1%BB%9Bc%20tr%C3%AAn%2050%25.md). [Nếu vay được từ 4 ngân hàng lớn thì dễ được các ngân hàng khác cho vay hơn](../../../../%F0%9F%A7%91%E2%80%8D%F0%9F%8C%BENg%C3%A0nh%20ngh%E1%BB%81%20c%E1%BB%A5%20th%E1%BB%83/T%C3%A0i%20ch%C3%ADnh/T%C3%ADn%20d%E1%BB%A5ng/T%C3%ADn%20d%E1%BB%A5ng%20t%C6%B0%20b%E1%BA%A3n/T%E1%BB%95%20ch%E1%BB%A9c%20c%E1%BB%A5%20th%E1%BB%83/Ng%C3%A2n%20h%C3%A0ng/Ch%C3%ADnh%20s%C3%A1ch%20cho%20vay/N%E1%BA%BFu%20vay%20%C4%91%C6%B0%E1%BB%A3c%20t%E1%BB%AB%204%20ng%C3%A2n%20h%C3%A0ng%20l%E1%BB%9Bn%20th%C3%AC%20d%E1%BB%85%20%C4%91%C6%B0%E1%BB%A3c%20c%C3%A1c%20ng%C3%A2n%20h%C3%A0ng%20kh%C3%A1c%20cho%20vay%20h%C6%A1n.md)
 
 ### Khoản nợ
 | Khoản vay                                                                                    | Người vay | Hạn mức | Lý do                                         |
