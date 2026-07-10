@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-09-12T22:14
-updated: 2026-06-14T21:29
+updated: 2026-07-10T14:48
 ---
 Mô tả công việc:: 
 Số tiền kiếm được:: Sinh từ năm 2001 trở đi thì được 900k, sinh trước năm 2000 thì được 2tr
@@ -34,7 +34,7 @@ Số tiền kiếm được:: Sinh từ năm 2001 trở đi thì được 900k, 
 | `233dk`  | 233 Đồng Khởi (địa chỉ công ty) |
 
 
-Xem thêm:: [Chính sách đại lý](../../../../%F0%9F%9B%96Ng%C3%A0nh%20ngh%E1%BB%81%20c%E1%BB%A5%20th%E1%BB%83/T%C3%A0i%20ch%C3%ADnh/B%E1%BA%A3o%20hi%E1%BB%83m/Ch%C3%ADnh%20s%C3%A1ch%20c%C3%B4ng%20ty/Nh%C3%A2n%20s%E1%BB%B1/B%E1%BA%A3o%20Vi%E1%BB%87t/Ch%C3%ADnh%20s%C3%A1ch%20%C4%91%E1%BA%A1i%20l%C3%BD.md)
+Xem thêm:: [Chính sách đại lý](../../../../%F0%9F%A7%91%E2%80%8D%F0%9F%8C%BENg%C3%A0nh%20ngh%E1%BB%81%20c%E1%BB%A5%20th%E1%BB%83/T%C3%A0i%20ch%C3%ADnh/B%E1%BA%A3o%20hi%E1%BB%83m/Ch%C3%ADnh%20s%C3%A1ch%20c%C3%B4ng%20ty/Nh%C3%A2n%20s%E1%BB%B1/B%E1%BA%A3o%20Vi%E1%BB%87t/Ch%C3%ADnh%20s%C3%A1ch%20%C4%91%E1%BA%A1i%20l%C3%BD.md)
 
 ![Lịch đào tạo Bảo Việt.png](../../../../assets/attachments/L%E1%BB%8Bch%20%C4%91%C3%A0o%20t%E1%BA%A1o%20B%E1%BA%A3o%20Vi%E1%BB%87t.png)
 
@@ -46,7 +46,7 @@ Kiến thức, kỹ năng::
 Nguyên liệu, nguồn thông tin::
 Nơi làm việc:: [Làm văn phòng](../../%C4%90%E1%BA%B7c%20%C4%91i%E1%BB%83m%20c%C3%B4ng%20vi%E1%BB%87c/N%C6%A1i%20l%C3%A0m%20vi%E1%BB%87c/L%C3%A0m%20v%C4%83n%20ph%C3%B2ng.md)
 Thời gian làm việc:: [Tùy vào lịch được cho sẵn](../../%C4%90%E1%BA%B7c%20%C4%91i%E1%BB%83m%20c%C3%B4ng%20vi%E1%BB%87c/Th%E1%BB%9Di%20gian%20l%C3%A0m%20vi%E1%BB%87c/T%C3%B9y%20v%C3%A0o%20l%E1%BB%8Bch%20%C4%91%C6%B0%E1%BB%A3c%20cho%20s%E1%BA%B5n.md)
-Yêu cầu công nghệ:: [Không](../../%C4%90%E1%BA%B7c%20%C4%91i%E1%BB%83m%20c%C3%B4ng%20vi%E1%BB%87c/Y%C3%AAu%20c%E1%BA%A7u%20c%C3%B4ng%20ngh%E1%BB%87/Kh%C3%B4ng.md)
+Yêu cầu công nghệ:: [Không cần máy tính](../../%C4%90%E1%BA%B7c%20%C4%91i%E1%BB%83m%20c%C3%B4ng%20vi%E1%BB%87c/Nguy%C3%AAn%20li%E1%BB%87u,%20ngu%E1%BB%93n%20th%C3%B4ng%20tin/C%C3%B4ng%20ngh%E1%BB%87/Kh%C3%B4ng%20c%E1%BA%A7n%20m%C3%A1y%20t%C3%ADnh.md)
 Thời điểm trả tiền:: [Trả ngay sau khi hoàn thành công việc](../../%C4%90%E1%BA%B7c%20%C4%91i%E1%BB%83m%20c%C3%B4ng%20vi%E1%BB%87c/Th%E1%BB%9Di%20%C4%91i%E1%BB%83m%20tr%E1%BA%A3%20ti%E1%BB%81n/Tr%E1%BA%A3%20ngay%20sau%20khi%20ho%C3%A0n%20th%C3%A0nh%20c%C3%B4ng%20vi%E1%BB%87c.md)
 Đặc điểm khác::
 
