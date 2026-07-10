@@ -1,58 +1,45 @@
 ---
 share: true
-updated: 2026-07-10T15:00
+updated: 2026-07-10T18:32
 created: 2026-07-10T14:15
 ---
-Nếu bạn đang cần tuyển dụng thì bạn có thể đề xuất để được quảng cáo giùm ở đây. Các công việc sẽ được đăng tại [Một số ý tưởng kiếm tiền](./%C3%9D%20t%C6%B0%E1%BB%9Fng/index.md). Nếu bạn cần rao bán thì xem ở bài [Giúp nhau quảng cáo, giới thiệu dịch vụ](../Gi%E1%BB%9Bi%20thi%E1%BB%87u%20d%E1%BB%8Bch%20v%E1%BB%A5/index.md).
+Nếu bạn đang cần tuyển người thì bạn có thể đề xuất để được quảng cáo ở [Một số ý tưởng kiếm tiền](./%C3%9D%20t%C6%B0%E1%BB%9Fng/index.md).
 
-## Hướng dẫn đề xuất
-Tùy vào tính chất công việc mà chọn mẫu phù hợp
-
-### Nếu là công việc chỉ là làm thuê
+## Mẫu đề xuất
 ```
-Mô tả công việc:: [Ghi nhắn gọn]
-Số tiền kiếm được:: [Bao gồm phụ cấp bằng tiền]
+Mô tả công việc:: Ghi nhắn gọn
+Số tiền kiếm được:: Bao gồm cả phụ cấp, phúc lợi bằng tiền
 
 ## Mô tả chi tiết
-[Ghi chi tiết công việc, bao gồm các lợi ích, phụ cấp không bằng tiền, các rủi ro khác]
+- Giới thiệu về công ty, người quản lý trực tiếp
+- Quy trình, khung giờ, văn hóa làm việc
+- Chính sách công ty:
+  - Phụ cấp, phúc lợi
+  - Thưởng, phạt
+  - Quy định khác
+- Rủi ro khi làm việc
+- Các hình ảnh, video, liên kết ngoài
 
 ## Thông tin thêm
 Số tiền đặt cọc:: 
+Số tiền đầu tư::
 Số người cần tuyển:: 
-Kiến thức, kỹ năng:: [VD: Biết tiếng Anh]
-Hình thức công việc:: [[Làm thuê cho người khác]]
-Nơi làm việc:: [Ghi rõ số nhà]
-Thời gian làm việc:: [VD: [Được chọn ngày làm việc, Được chọn thời gian làm trong ngày, Tự chủ động, Tùy vào lịch được cho sẵn, Mỗi tuần lên công ty một buổi, Không phải lúc nào cũng biết lịch trước được]
-Yêu cầu công nghệ:: [VD: Có laptop, Có máy tính đủ mạnh, Có xe máy, Không cần laptop, Không cần xe máy, Không cần điện thoại thông minh]
-Thời điểm trả tiền:: [VD: Trả ngay sau khi hoàn thành công việc, Trả theo giờ, Cuối ngày, Trả theo ngày, Trả theo tuần, Trả theo tháng]
-Đặc điểm khác:: [VD: Không tiếp xúc với con người, Không cần độ tập trung cao, Không cần đi lại, Không cần nói, Không cần nhìn, Không cần nghe]
-Lợi ích cho người giới thiệu:: 
-Công việc liên quan tới công việc này::
+Thời điểm trả tiền:: Ngay sau khi hoàn thành công việc, Theo giờ, Theo ngày, Theo tuần, Theo tháng, v.v.
+Hình thức công việc:: Làm thuê không có hợp đồng, Làm thuê có hợp đồng, Tự kinh doanh, đầu tư, v.v.
+
+Địa chỉ làm việc:: Ghi rõ số nhà
+Môi trường làm việc:: Làm ngoài đường, Làm qua mạng, Làm văn phòng, v.v.
+Thời gian làm việc:: Được chọn ngày làm việc, Được chọn thời gian làm trong ngày, Tự chủ động, Tùy vào lịch được cho sẵn, Mỗi tuần lên công ty một buổi, Không phải lúc nào cũng biết lịch trước được, v.v.
+
+Kiến thức, kỹ năng cần có sẵn:: Tiếng Anh, Lập trình, v.v.
+Tài nguyên, vật dụng cần có sẵn:: Máy tính đủ mạnh, Không cần xe máy, Không cần điện thoại thông minh, v.v.
+Đặc điểm khác:: Không tiếp xúc với con người, Không cần độ tập trung cao, Không cần đi lại, Không cần nói, Không cần nhìn, Không cần nghe, v.v.
+
 Tên gọi khác của công việc::
-```
-
-### Nếu là công việc mang tính đầu tư
-```
-Mô tả công việc:: [Ghi nhắn gọn]
-Số tiền kiếm được:: [Bao gồm lợi ích bằng tiền]
-
-## Mô tả chi tiết
-[Ghi chi tiết công việc, bao gồm các lợi ích không bằng tiền, các rủi ro khác]
-
-## Thông tin thêm
-Số tiền đặt cọc:: 
-Số tiền đầu tư:: 
-Số người cần tuyển:: 
-Hình thức công việc:: [[Tự kinh doanh, đầu tư]]
-Kiến thức, kỹ năng:: [VD: Biết tiếng Anh]
-Nơi làm việc:: [Ghi rõ số nhà]
-Thời gian làm việc:: [VD: [Được chọn ngày làm việc, Được chọn thời gian làm trong ngày, Tự chủ động, Tùy vào lịch được cho sẵn, Mỗi tuần lên công ty một buổi, Không phải lúc nào cũng biết lịch trước được]
-Yêu cầu công nghệ:: [VD: Có laptop, Có máy tính đủ mạnh, Có xe máy, Không cần laptop, Không cần xe máy, Không cần điện thoại thông minh]
-Thời điểm trả tiền:: [VD: Trả ngay sau khi hoàn thành công việc, Trả theo giờ, Cuối ngày, Trả theo ngày, Trả theo tuần, Trả theo tháng]
-Đặc điểm khác:: [VD: Không tiếp xúc với con người, Không cần độ tập trung cao, Không cần đi lại, Không cần nói, Không cần nhìn, Không cần nghe]
-Lợi ích cho người giới thiệu:: 
 Công việc liên quan tới công việc này::
-Tên gọi khác của công việc::
+Lợi ích cho người giới thiệu:: 
+
+## Thông tin liên hệ 
 ```
 
 ## Nhìn toàn cảnh

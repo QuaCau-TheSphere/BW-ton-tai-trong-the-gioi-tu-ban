@@ -1,7 +1,7 @@
 ---
 share: true
 description: "Số tiền kiếm được: 200k"
-updated: 2026-07-10T14:50
+updated: 2026-07-10T18:23
 created: 2025-11-04T11:09
 ---
 Mô tả công việc:: Đăng ký tài khoản Binance mới theo link [này](https://www.binance.com/referral/mystery-box/lny-2026/claim?ref=GRO_40244_EOX6Q), kyc, làm nhiệm vụ nhanh 10ph 
@@ -40,13 +40,13 @@ a sẽ gần như ko biết được kèo nào ngon, việc của mình chỉ l�
 Số tiền đầu tư:: 0
 Số tiền đặt cọc:: 0
 Số người cần tuyển:: 
-Hình thức công việc:: [Làm thuê cho người khác](../../../%C4%90%E1%BA%B7c%20%C4%91i%E1%BB%83m%20c%C3%B4ng%20vi%E1%BB%87c/H%C3%ACnh%20th%E1%BB%A9c%20c%C3%B4ng%20vi%E1%BB%87c/L%C3%A0m%20thu%C3%AA%20cho%20ng%C6%B0%E1%BB%9Di%20kh%C3%A1c.md)
-Kiến thức, kỹ năng:: 
-Nguyên liệu, nguồn thông tin::
-Nơi làm việc:: [Làm qua mạng](../../../%C4%90%E1%BA%B7c%20%C4%91i%E1%BB%83m%20c%C3%B4ng%20vi%E1%BB%87c/N%C6%A1i%20l%C3%A0m%20vi%E1%BB%87c/L%C3%A0m%20qua%20m%E1%BA%A1ng.md)
+Hình thức công việc:: [Làm thuê không có hợp đồng](../../../%C4%90%E1%BA%B7c%20%C4%91i%E1%BB%83m%20c%C3%B4ng%20vi%E1%BB%87c/H%C3%ACnh%20th%E1%BB%A9c%20c%C3%B4ng%20vi%E1%BB%87c/L%C3%A0m%20thu%C3%AA%20kh%C3%B4ng%20c%C3%B3%20h%E1%BB%A3p%20%C4%91%E1%BB%93ng.md)
+Kiến thức, kỹ năng cần có sẵn:: 
+Tài nguyên, vật dụng cần có sẵn::
+Môi trường làm việc:: [Làm qua mạng](../../../%C4%90%E1%BA%B7c%20%C4%91i%E1%BB%83m%20c%C3%B4ng%20vi%E1%BB%87c/M%C3%B4i%20tr%C6%B0%E1%BB%9Dng%20l%C3%A0m%20vi%E1%BB%87c/L%C3%A0m%20qua%20m%E1%BA%A1ng.md)
 Thời gian làm việc:: [Được chọn thời gian làm trong ngày](../../../%C4%90%E1%BA%B7c%20%C4%91i%E1%BB%83m%20c%C3%B4ng%20vi%E1%BB%87c/Th%E1%BB%9Di%20gian%20l%C3%A0m%20vi%E1%BB%87c/%C4%90%C6%B0%E1%BB%A3c%20ch%E1%BB%8Dn%20th%E1%BB%9Di%20gian%20l%C3%A0m%20trong%20ng%C3%A0y.md)
-Yêu cầu công nghệ:: [Có điện thoại thông minh](../../../%C4%90%E1%BA%B7c%20%C4%91i%E1%BB%83m%20c%C3%B4ng%20vi%E1%BB%87c/Nguy%C3%AAn%20li%E1%BB%87u,%20ngu%E1%BB%93n%20th%C3%B4ng%20tin/C%C3%B4ng%20ngh%E1%BB%87/C%C3%B3%20%C4%91i%E1%BB%87n%20tho%E1%BA%A1i%20th%C3%B4ng%20minh.md)
-Thời điểm trả tiền:: [Trả ngay sau khi hoàn thành công việc](../../../%C4%90%E1%BA%B7c%20%C4%91i%E1%BB%83m%20c%C3%B4ng%20vi%E1%BB%87c/Th%E1%BB%9Di%20%C4%91i%E1%BB%83m%20tr%E1%BA%A3%20ti%E1%BB%81n/Tr%E1%BA%A3%20ngay%20sau%20khi%20ho%C3%A0n%20th%C3%A0nh%20c%C3%B4ng%20vi%E1%BB%87c.md)
+Tài nguyên, vật dụng cần có sẵn:: [Có điện thoại thông minh](../../../%C4%90%E1%BA%B7c%20%C4%91i%E1%BB%83m%20c%C3%B4ng%20vi%E1%BB%87c/T%C3%A0i%20nguy%C3%AAn,%20v%E1%BA%ADt%20d%E1%BB%A5ng/C%C3%B4ng%20ngh%E1%BB%87/C%C3%B3%20%C4%91i%E1%BB%87n%20tho%E1%BA%A1i%20th%C3%B4ng%20minh.md)
+Thời điểm trả tiền:: [Ngay sau khi hoàn thành công việc](../../../%C4%90%E1%BA%B7c%20%C4%91i%E1%BB%83m%20c%C3%B4ng%20vi%E1%BB%87c/Th%E1%BB%9Di%20%C4%91i%E1%BB%83m%20tr%E1%BA%A3%20ti%E1%BB%81n/Ngay%20sau%20khi%20ho%C3%A0n%20th%C3%A0nh%20c%C3%B4ng%20vi%E1%BB%87c.md)
 Đặc điểm khác::
 
 ## Nơi thảo luận

@@ -1,7 +1,7 @@
 ---
 share: true
-created: 2025-03-27T17:13
-updated: 2025-12-19T18:27
+updated: 2026-07-07T13:00
+created: 2025-12-19T17:27
 ---
 Khái niệm:: [Di cư](../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Giai%20c%E1%BA%A5p.%20Ph%C3%A1t%20tri%E1%BB%83n%20b%E1%BB%81n%20v%E1%BB%AFng/Di%20c%C6%B0.md)
 Nếu bạn được cử xuống một làng để tìm hiểu về vấn đề làng đó cho dự án phát triển sắp tới. Nhiệm vụ của bạn là tìm hiểu được mọi tiếng nói đa dạng của mọi thành viên của cộng đồng.
