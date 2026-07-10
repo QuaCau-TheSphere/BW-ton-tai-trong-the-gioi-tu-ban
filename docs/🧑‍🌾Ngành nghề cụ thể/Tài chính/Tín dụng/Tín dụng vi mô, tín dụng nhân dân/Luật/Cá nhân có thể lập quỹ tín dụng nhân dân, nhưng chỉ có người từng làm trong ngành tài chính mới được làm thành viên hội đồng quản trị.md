@@ -1,7 +1,7 @@
 ---
 share: true
-created: 2025-03-27T17:13
-updated: 2026-06-07T15:41
+updated: 2026-07-07T13:00
+created: 2026-06-07T15:24
 ---
 Khái niệm:: [Luật các tổ chức tín dụng](../../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Nh%C3%A0%20n%C6%B0%E1%BB%9Bc/Lu%E1%BA%ADt/Lu%E1%BA%ADt%20c%C3%A1c%20t%E1%BB%95%20ch%E1%BB%A9c%20t%C3%ADn%20d%E1%BB%A5ng.md), [Hội đồng quản trị](../../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Lao%20%C4%91%E1%BB%99ng/H%E1%BB%99i%20%C4%91%E1%BB%93ng%20qu%E1%BA%A3n%20tr%E1%BB%8B.md)
 **Điều kiện để được cấp Giấy phép đối với quỹ tín dụng nhân dân**
