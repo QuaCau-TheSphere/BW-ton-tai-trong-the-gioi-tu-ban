@@ -1,7 +1,7 @@
 ---
 share: true
-created: 2025-03-27T17:13
-updated: 2026-03-28T14:50
+updated: 2026-07-07T13:00
+created: 2025-10-25T21:51
 ---
 Khái niệm:: [Luật Việt Nam](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Nh%C3%A0%20n%C6%B0%E1%BB%9Bc/Lu%E1%BA%ADt%20Vi%E1%BB%87t%20Nam.md)
 Việc chứng nhận hữu cơ đòi hỏi: chuẩn hoá đất, nước, phân bón, thuốc bảo vệ thực vật, chu trình canh tác, chuỗi cung ứng, v.v. Với diện tích quá nhỏ, chi phí cho từng ha sẽ rất lớn, kinh tế khó khả thi.
