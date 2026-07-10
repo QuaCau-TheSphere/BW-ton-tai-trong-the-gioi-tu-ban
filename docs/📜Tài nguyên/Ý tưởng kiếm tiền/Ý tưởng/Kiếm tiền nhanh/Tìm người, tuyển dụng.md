@@ -1,7 +1,7 @@
 ---
 share: true
 description: "Số tiền kiếm được: 5% doanh số lương của người tuyển đc hoặc 1 tr hoa hồng sau khi họ làm việc 2 tuần"
-updated: 2026-07-10T14:51
+updated: 2026-07-10T18:23
 created: 2025-10-07T17:12
 ---
 
@@ -18,13 +18,13 @@ created: 2025-10-07T17:12
 Số tiền đầu tư:: 0
 Số tiền đặt cọc:: 0
 Số người cần tuyển:: ∞
-Hình thức công việc:: [Làm thuê cho người khác](../../%C4%90%E1%BA%B7c%20%C4%91i%E1%BB%83m%20c%C3%B4ng%20vi%E1%BB%87c/H%C3%ACnh%20th%E1%BB%A9c%20c%C3%B4ng%20vi%E1%BB%87c/L%C3%A0m%20thu%C3%AA%20cho%20ng%C6%B0%E1%BB%9Di%20kh%C3%A1c.md)
-Kiến thức, kỹ năng::
-Nguyên liệu, nguồn thông tin:: [Có nhiều mối quan hệ cá nhân](../../%C4%90%E1%BA%B7c%20%C4%91i%E1%BB%83m%20c%C3%B4ng%20vi%E1%BB%87c/Nguy%C3%AAn%20li%E1%BB%87u,%20ngu%E1%BB%93n%20th%C3%B4ng%20tin/C%C3%B3%20nhi%E1%BB%81u%20m%E1%BB%91i%20quan%20h%E1%BB%87%20c%C3%A1%20nh%C3%A2n.md)
-Nơi làm việc:: [Làm qua mạng](../../%C4%90%E1%BA%B7c%20%C4%91i%E1%BB%83m%20c%C3%B4ng%20vi%E1%BB%87c/N%C6%A1i%20l%C3%A0m%20vi%E1%BB%87c/L%C3%A0m%20qua%20m%E1%BA%A1ng.md)
+Hình thức công việc:: [Làm thuê không có hợp đồng](../../%C4%90%E1%BA%B7c%20%C4%91i%E1%BB%83m%20c%C3%B4ng%20vi%E1%BB%87c/H%C3%ACnh%20th%E1%BB%A9c%20c%C3%B4ng%20vi%E1%BB%87c/L%C3%A0m%20thu%C3%AA%20kh%C3%B4ng%20c%C3%B3%20h%E1%BB%A3p%20%C4%91%E1%BB%93ng.md)
+Kiến thức, kỹ năng cần có sẵn::
+Tài nguyên, vật dụng cần có sẵn:: [Có nhiều mối quan hệ cá nhân](../../%C4%90%E1%BA%B7c%20%C4%91i%E1%BB%83m%20c%C3%B4ng%20vi%E1%BB%87c/T%C3%A0i%20nguy%C3%AAn,%20v%E1%BA%ADt%20d%E1%BB%A5ng/C%C3%B3%20nhi%E1%BB%81u%20m%E1%BB%91i%20quan%20h%E1%BB%87%20c%C3%A1%20nh%C3%A2n.md)
+Môi trường làm việc:: [Làm qua mạng](../../%C4%90%E1%BA%B7c%20%C4%91i%E1%BB%83m%20c%C3%B4ng%20vi%E1%BB%87c/M%C3%B4i%20tr%C6%B0%E1%BB%9Dng%20l%C3%A0m%20vi%E1%BB%87c/L%C3%A0m%20qua%20m%E1%BA%A1ng.md)
 Thời gian làm việc:: [Tự chủ động](../../%C4%90%E1%BA%B7c%20%C4%91i%E1%BB%83m%20c%C3%B4ng%20vi%E1%BB%87c/Th%E1%BB%9Di%20gian%20l%C3%A0m%20vi%E1%BB%87c/T%E1%BB%B1%20ch%E1%BB%A7%20%C4%91%E1%BB%99ng.md)
-Yêu cầu công nghệ:: [Không cần máy tính](../../%C4%90%E1%BA%B7c%20%C4%91i%E1%BB%83m%20c%C3%B4ng%20vi%E1%BB%87c/Nguy%C3%AAn%20li%E1%BB%87u,%20ngu%E1%BB%93n%20th%C3%B4ng%20tin/C%C3%B4ng%20ngh%E1%BB%87/Kh%C3%B4ng%20c%E1%BA%A7n%20m%C3%A1y%20t%C3%ADnh.md)
-Thời điểm trả tiền:: [Trả ngay sau khi hoàn thành công việc](../../%C4%90%E1%BA%B7c%20%C4%91i%E1%BB%83m%20c%C3%B4ng%20vi%E1%BB%87c/Th%E1%BB%9Di%20%C4%91i%E1%BB%83m%20tr%E1%BA%A3%20ti%E1%BB%81n/Tr%E1%BA%A3%20ngay%20sau%20khi%20ho%C3%A0n%20th%C3%A0nh%20c%C3%B4ng%20vi%E1%BB%87c.md)
+Tài nguyên, vật dụng cần có sẵn:: [Không cần máy tính](../../%C4%90%E1%BA%B7c%20%C4%91i%E1%BB%83m%20c%C3%B4ng%20vi%E1%BB%87c/T%C3%A0i%20nguy%C3%AAn,%20v%E1%BA%ADt%20d%E1%BB%A5ng/C%C3%B4ng%20ngh%E1%BB%87/Kh%C3%B4ng%20c%E1%BA%A7n%20m%C3%A1y%20t%C3%ADnh.md)
+Thời điểm trả tiền:: [Ngay sau khi hoàn thành công việc](../../%C4%90%E1%BA%B7c%20%C4%91i%E1%BB%83m%20c%C3%B4ng%20vi%E1%BB%87c/Th%E1%BB%9Di%20%C4%91i%E1%BB%83m%20tr%E1%BA%A3%20ti%E1%BB%81n/Ngay%20sau%20khi%20ho%C3%A0n%20th%C3%A0nh%20c%C3%B4ng%20vi%E1%BB%87c.md)
 Đặc điểm khác:: [Không cần độ tập trung cao](../../%C4%90%E1%BA%B7c%20%C4%91i%E1%BB%83m%20c%C3%B4ng%20vi%E1%BB%87c/%C4%90%E1%BA%B7c%20%C4%91i%E1%BB%83m%20kh%C3%A1c/Kh%C3%B4ng%20c%E1%BA%A7n%20%C4%91%E1%BB%99%20t%E1%BA%ADp%20trung%20cao.md)
 Công việc liên quan::
 Tên khác::
