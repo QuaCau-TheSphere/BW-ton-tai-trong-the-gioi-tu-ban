@@ -1,18 +1,18 @@
 ---
 share: true
-created: 2025-03-27T17:13
-updated: 2026-06-14T21:53
+updated: 2026-07-07T12:59
 aliases:
   - Xây dựng cộng đồng có chủ đích ở TP.HCM
   - hợp tác xã nhà ở
+created: 2025-10-26T16:55
 ---
 Việc ở ghép ngoài việc tiết kiệm chi phí còn mang lại nhiều lợi ích khác về mặt sinh hoạt. Bạn có thể nhờ họ giúp đỡ những việc cần thiết như nấu ăn, dọn dẹp,..., nhất là khi bạn ốm đau, bệnh tật.
 
 Xem thêm:: [Ý tưởng tìm nhà ở giá rẻ](../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/S%E1%BB%91ng%20v%E1%BB%ABa%20%C4%91%E1%BB%A7,%20b%E1%BB%81n%20v%E1%BB%AFng,%20ti%E1%BA%BFt%20ki%E1%BB%87m/N%C6%A1i%20%E1%BB%9F/%C3%9D%20t%C6%B0%E1%BB%9Fng%20t%C3%ACm%20nh%C3%A0%20%E1%BB%9F%20gi%C3%A1%20r%E1%BA%BB.md)
 
-Sâu xa hơn là xây dựng [Cộng đồng có chủ đích](../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Ph%C3%A1t%20tri%E1%BB%83n%20b%E1%BB%81n%20v%E1%BB%AFng.%20C%C3%A1c%20n%E1%BB%81n%20kinh%20t%E1%BA%BF%20thay%20th%E1%BA%BF/C%E1%BB%99ng%20%C4%91%E1%BB%93ng%20c%C3%B3%20ch%E1%BB%A7%20%C4%91%C3%ADch/index.md)
+Sâu xa hơn là xây dựng [Cộng đồng có chủ đích](../../%F0%9F%8E%81Ph%C3%A1t%20tri%E1%BB%83n%20b%E1%BB%81n%20v%E1%BB%AFng.%20C%C3%A1c%20n%E1%BB%81n%20kinh%20t%E1%BA%BF%20thay%20th%E1%BA%BF/Gi%E1%BA%A3i%20ph%C3%A1p/C%E1%BB%99ng%20%C4%91%E1%BB%93ng%20c%C3%B3%20ch%E1%BB%A7%20%C4%91%C3%ADch/index.md)
 
-Nhà ở [Cho thuê căn 117 Xô Viết Nghệ Tĩnh, TP.HCM](../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Gi%E1%BB%9Bi%20thi%E1%BB%87u%20d%E1%BB%8Bch%20v%E1%BB%A5/Cho%20thu%C3%AA%20c%C4%83n%20117%20X%C3%B4%20Vi%E1%BA%BFt%20Ngh%E1%BB%87%20T%C4%A9nh,%20TP.HCM.md) phù hợp để làm cộng đồng có chủ đích cho khoảng 10 người, nhưng chủ nhà đang tính sửa lại để chỉ cho thuê từng tầng. Nếu gom được nhóm trước khi chủ nhà sửa nhà thì sẽ có lợi.
+Nhà ở [Cho thuê căn 117 Xô Viết Nghệ Tĩnh, TP.HCM](../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Gi%E1%BB%9Bi%20thi%E1%BB%87u%20d%E1%BB%8Bch%20v%E1%BB%A5/B%E1%BA%A5t%20%C4%91%E1%BB%99ng%20s%E1%BA%A3n/Cho%20thu%C3%AA%20c%C4%83n%20117%20X%C3%B4%20Vi%E1%BA%BFt%20Ngh%E1%BB%87%20T%C4%A9nh,%20TP.HCM.md) phù hợp để làm cộng đồng có chủ đích cho khoảng 10 người, nhưng chủ nhà đang tính sửa lại để chỉ cho thuê từng tầng. Nếu gom được nhóm trước khi chủ nhà sửa nhà thì sẽ có lợi.
 
 Có thể thay nhau làm việc nhà, hoặc hùn tiền cho một người làm công việc nội trợ. Người đó có thể kết hợp với các [Các công việc kiếm tiền nhanh](C%C3%A1c%20c%C3%B4ng%20vi%E1%BB%87c%20ki%E1%BA%BFm%20ti%E1%BB%81n%20nhanh.md) hoặc [Bao nuôi](../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Qu%C3%A0%20t%E1%BA%B7ng/Bao%20nu%C3%B4i/index.md)  
 
