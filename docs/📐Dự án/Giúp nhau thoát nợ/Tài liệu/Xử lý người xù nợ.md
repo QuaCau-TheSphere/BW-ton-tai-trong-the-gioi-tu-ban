@@ -1,7 +1,7 @@
 ---
 share: true
-created: 2025-03-27T17:13
-updated: 2026-04-02T13:49
+updated: 2026-07-06T21:39
+created: 2025-08-23T09:44
 ---
 Các tổ chức làm trong ngành tín dụng đều có quy trình đòi nợ. Quy trình đó đã được tối ưu để ép khách trả tiền rồi, mình chỉ cần lấy về học hỏi là được. Thứ khác biệt là mình vẫn làm cho người vay thấy mình muốn nâng đỡ họ chứ không ém thông tin rồi khai thác các điểm yếu của con người.
 
@@ -10,7 +10,7 @@ Quy trình xử lý:
 2. Nếu đã lâu hơn thời hạn sổ trả về tầm 1 tuần thì xác định là đã dùng tiền để làm chuyện khác rồi. Lên nói chuyện với người thân, người bảo lãnh, xem họ có trả được không
 3. Không được nữa thì coi như mất. Đăng thông tin công khai người thân và người bảo lãnh để mọi người biết. (Lúc vay tiền thì phải ký chấp nhận chuyện này). Khởi kiện nếu thấy thái độ không hợp tác.
 
-Xem thêm:: [Phương pháp xử lý PTP gãy](../../../%F0%9F%9B%96Ng%C3%A0nh%20ngh%E1%BB%81%20c%E1%BB%A5%20th%E1%BB%83/T%C3%A0i%20ch%C3%ADnh/T%C3%ADn%20d%E1%BB%A5ng/T%C3%ADn%20d%E1%BB%A5ng%20t%C6%B0%20b%E1%BA%A3n/T%E1%BB%95%20ch%E1%BB%A9c%20c%E1%BB%A5%20th%E1%BB%83/C%C3%B4ng%20ty%20t%C3%A0i%20ch%C3%ADnh%20ti%C3%AAu%20d%C3%B9ng/FE%20Credit/Ph%C6%B0%C6%A1ng%20ph%C3%A1p%20x%E1%BB%AD%20l%C3%BD%20PTP%20g%C3%A3y.md)
+Xem thêm:: [Phương pháp xử lý PTP gãy](../../../%F0%9F%A7%91%E2%80%8D%F0%9F%8C%BENg%C3%A0nh%20ngh%E1%BB%81%20c%E1%BB%A5%20th%E1%BB%83/T%C3%A0i%20ch%C3%ADnh/T%C3%ADn%20d%E1%BB%A5ng/T%C3%ADn%20d%E1%BB%A5ng%20t%C6%B0%20b%E1%BA%A3n/Vay%20n%E1%BB%A3/D%E1%BB%B1a%20tr%C3%AAn%20%C4%91i%E1%BB%83m%20t%C3%ADn%20d%E1%BB%A5ng/Kho%E1%BA%A3n%20vay%20c%E1%BB%A7a%20t%E1%BB%95%20ch%E1%BB%A9c%20t%C3%A0i%20ch%C3%ADnh%20ti%C3%AAu%20d%C3%B9ng/Ph%C6%B0%C6%A1ng%20ph%C3%A1p%20x%E1%BB%AD%20l%C3%BD%20PTP%20g%C3%A3y.md)
 [Làm sao cho vay mà không bị xù](./L%C3%A0m%20sao%20cho%20vay%20m%C3%A0%20kh%C3%B4ng%20b%E1%BB%8B%20x%C3%B9.md)
 
 ## Nơi thảo luận
