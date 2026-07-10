@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-05-03T16:17
-updated: 2026-06-25T11:17
+updated: 2026-07-07T13:00
 aliases:
   - Chủ sđt đăng ký Zalo và chủ cccd để xác thực không cần phải trùng nhau
   - Có thể tự đổi tên tài khoản Zalo mà không bị lưu lịch sử
@@ -24,4 +24,4 @@ aliases:
 | Không biết được SĐT từ tài khoản                                       |                                                                                                                                 |
  
 [Zalo có 23% cổ phần là Tencent](./Zalo%20c%C3%B3%2023%25%20c%E1%BB%95%20ph%E1%BA%A7n%20l%C3%A0%20Tencent.md)
-[Tạo các nhóm Zalo](../../../%F0%9F%92%B8H%C3%ACnh%20th%E1%BB%A9c%20ki%E1%BA%BFm%20ti%E1%BB%81n/Thi%E1%BA%BFu%20li%C3%AAm%20ch%C3%ADnh.%20Ph%E1%BA%A1m%20ph%C3%A1p/Vi%20ph%E1%BA%A1m%20d%C3%A2n%20s%E1%BB%B1/L%C3%A0m%20k%E1%BA%BFt%20qu%E1%BA%A3%20%E1%BA%A3o/C%C3%A1c%20c%C3%B4ng%20vi%E1%BB%87c/T%E1%BA%A1o%20c%C3%A1c%20nh%C3%B3m%20Zalo.md)
+[Tạo các nhóm Zalo](../../../%F0%9F%92%B8H%C3%ACnh%20th%E1%BB%A9c%20ki%E1%BA%BFm%20ti%E1%BB%81n/Thi%E1%BA%BFu%20li%C3%AAm%20ch%C3%ADnh.%20Ph%E1%BA%A1m%20ph%C3%A1p/C%C3%A1ch%20l%C3%A0m%20c%E1%BB%A5%20th%E1%BB%83/Vi%20ph%E1%BA%A1m%20d%C3%A2n%20s%E1%BB%B1/L%C3%A0m%20k%E1%BA%BFt%20qu%E1%BA%A3%20%E1%BA%A3o/C%C3%A1c%20c%C3%B4ng%20vi%E1%BB%87c/T%E1%BA%A1o%20c%C3%A1c%20nh%C3%B3m%20Zalo.md)

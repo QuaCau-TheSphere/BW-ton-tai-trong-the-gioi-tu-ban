@@ -1,7 +1,7 @@
 ---
 share: true
-created: 2025-03-27T17:13
-updated: 2026-06-27T18:54
+updated: 2026-07-07T12:58
+created: 2026-06-03T14:54
 ---
 Khái niệm:: [Luật](../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Nh%C3%A0%20n%C6%B0%E1%BB%9Bc/Lu%E1%BA%ADt/index.md)
 [Nếu không có dấu hiệu gian dối, chiếm đoạt hoặc xâm phạm trật tự quản lý kinh tế một cách nghiêm trọng thì không nên bị xử lý bằng biện pháp hình sự](./N%E1%BA%BFu%20kh%C3%B4ng%20c%C3%B3%20d%E1%BA%A5u%20hi%E1%BB%87u%20gian%20d%E1%BB%91i,%20chi%E1%BA%BFm%20%C4%91o%E1%BA%A1t%20ho%E1%BA%B7c%20x%C3%A2m%20ph%E1%BA%A1m%20tr%E1%BA%ADt%20t%E1%BB%B1%20qu%E1%BA%A3n%20l%C3%BD%20kinh%20t%E1%BA%BF%20m%E1%BB%99t%20c%C3%A1ch%20nghi%C3%AAm%20tr%E1%BB%8Dng%20th%C3%AC%20kh%C3%B4ng%20n%C3%AAn%20b%E1%BB%8B%20x%E1%BB%AD%20l%C3%BD%20b%E1%BA%B1ng%20bi%E1%BB%87n%20ph%C3%A1p%20h%C3%ACnh%20s%E1%BB%B1.md)

@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2026-06-27T18:00
+updated: 2026-07-06T21:10
 ---
 Example: e cần đáo 100tr thẻ vcb
 Rule của 1 số máy pos: <30tr/ giao dịch & <100tr/ ngày
@@ -52,5 +52,7 @@ credit = mình nợ ngân hàng
 [Các dịch vụ đáo rút hoạt động công khai](./C%C3%A1c%20d%E1%BB%8Bch%20v%E1%BB%A5%20%C4%91%C3%A1o%20r%C3%BAt%20ho%E1%BA%A1t%20%C4%91%E1%BB%99ng%20c%C3%B4ng%20khai.md)
 [Đáo thẻ một năm cũng không khác gì trả lãi ngân hàng](./%C4%90%C3%A1o%20th%E1%BA%BB%20m%E1%BB%99t%20n%C4%83m%20c%C5%A9ng%20kh%C3%B4ng%20kh%C3%A1c%20g%C3%AC%20tr%E1%BA%A3%20l%C3%A3i%20ng%C3%A2n%20h%C3%A0ng.md)
 [Tràn lan dịch vụ rút tiền từ thẻ tín dụng: Rủi ro khôn lường](https://kinhtedothi.vn/tran-lan-dich-vu-rut-tien-tu-the-tin-dung-rui-ro-khon-luong.html)
-[Công ty ra chính sách khó cho nhân viên không đơn thuần là vì tham tiền, mà còn là vì nhà đầu tư cần tiền được lưu thông](../../../../../../%F0%9F%92%B8H%C3%ACnh%20th%E1%BB%A9c%20ki%E1%BA%BFm%20ti%E1%BB%81n/Thi%E1%BA%BFu%20li%C3%AAm%20ch%C3%ADnh.%20Ph%E1%BA%A1m%20ph%C3%A1p/Vi%20ph%E1%BA%A1m%20h%C3%ACnh%20s%E1%BB%B1/R%E1%BB%ADa%20ti%E1%BB%81n,%20tr%E1%BB%91n%20thu%E1%BA%BF/C%C3%B4ng%20ty%20ra%20ch%C3%ADnh%20s%C3%A1ch%20kh%C3%B3%20cho%20nh%C3%A2n%20vi%C3%AAn%20kh%C3%B4ng%20%C4%91%C6%A1n%20thu%E1%BA%A7n%20l%C3%A0%20v%C3%AC%20tham%20ti%E1%BB%81n,%20m%C3%A0%20c%C3%B2n%20l%C3%A0%20v%C3%AC%20nh%C3%A0%20%C4%91%E1%BA%A7u%20t%C6%B0%20c%E1%BA%A7n%20ti%E1%BB%81n%20%C4%91%C6%B0%E1%BB%A3c%20l%C6%B0u%20th%C3%B4ng.md)
+[Công ty ra chính sách khó cho nhân viên không đơn thuần là vì tham tiền, mà còn là vì nhà đầu tư cần tiền được lưu thông](../../../../../../%F0%9F%92%B8H%C3%ACnh%20th%E1%BB%A9c%20ki%E1%BA%BFm%20ti%E1%BB%81n/Thi%E1%BA%BFu%20li%C3%AAm%20ch%C3%ADnh.%20Ph%E1%BA%A1m%20ph%C3%A1p/C%C3%A1ch%20l%C3%A0m%20c%E1%BB%A5%20th%E1%BB%83/Vi%20ph%E1%BA%A1m%20h%C3%ACnh%20s%E1%BB%B1/R%E1%BB%ADa%20ti%E1%BB%81n,%20tr%E1%BB%91n%20thu%E1%BA%BF/C%C3%B4ng%20ty%20ra%20ch%C3%ADnh%20s%C3%A1ch%20kh%C3%B3%20cho%20nh%C3%A2n%20vi%C3%AAn%20kh%C3%B4ng%20%C4%91%C6%A1n%20thu%E1%BA%A7n%20l%C3%A0%20v%C3%AC%20tham%20ti%E1%BB%81n,%20m%C3%A0%20c%C3%B2n%20l%C3%A0%20v%C3%AC%20nh%C3%A0%20%C4%91%E1%BA%A7u%20t%C6%B0%20c%E1%BA%A7n%20ti%E1%BB%81n%20%C4%91%C6%B0%E1%BB%A3c%20l%C6%B0u%20th%C3%B4ng.md)
 Tuy vậy, [Momo làm nghiêm túc trong việc bắt đáo rút](../../T%E1%BB%95%20ch%E1%BB%A9c%20c%E1%BB%A5%20th%E1%BB%83/V%C3%AD%20tr%E1%BA%A3%20sau/Momo%20l%C3%A0m%20nghi%C3%AAm%20t%C3%BAc%20trong%20vi%E1%BB%87c%20b%E1%BA%AFt%20%C4%91%C3%A1o%20r%C3%BAt.md)
+
+[Nếu bị phát hiện đáo rút thì ngân hàng sẽ phạt](./N%E1%BA%BFu%20b%E1%BB%8B%20ph%C3%A1t%20hi%E1%BB%87n%20%C4%91%C3%A1o%20r%C3%BAt%20th%C3%AC%20ng%C3%A2n%20h%C3%A0ng%20s%E1%BA%BD%20ph%E1%BA%A1t.md)

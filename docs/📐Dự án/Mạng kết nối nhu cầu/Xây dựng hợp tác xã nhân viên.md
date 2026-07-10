@@ -1,10 +1,10 @@
 ---
 share: true
-created: 2025-03-27T17:13
-updated: 2026-06-16T13:19
+updated: 2026-07-07T12:59
 aliases:
   - săn giá rẻ, khuyến mãi, giảm giá, voucher
   - Làm sao để tìm được thông tin giảm giá tốt nhất?
+created: 2025-11-24T10:16
 ---
 # Làm sao để tìm được thông tin giảm giá tốt nhất? 
 ## Khác gì với mấy trang săn giá rẻ? 
@@ -58,11 +58,11 @@ Chỉ những nhân viên bán hàng không nghĩ rằng mình có thể thay đ
 
 
 
-[❓An sinh xã hội, mối quan hệ với thiên nhiên, các loại vốn phi tài chính là các tài sản vô hình](../../%F0%9F%8E%81Ph%C3%A1t%20tri%E1%BB%83n%20b%E1%BB%81n%20v%E1%BB%AFng.%20C%C3%A1c%20n%E1%BB%81n%20kinh%20t%E1%BA%BF%20thay%20th%E1%BA%BF/Kinh%20t%E1%BA%BF%20thay%20th%E1%BA%BF/%E2%9D%93An%20sinh%20x%C3%A3%20h%E1%BB%99i,%20m%E1%BB%91i%20quan%20h%E1%BB%87%20v%E1%BB%9Bi%20thi%C3%AAn%20nhi%C3%AAn,%20c%C3%A1c%20lo%E1%BA%A1i%20v%E1%BB%91n%20phi%20t%C3%A0i%20ch%C3%ADnh%20l%C3%A0%20c%C3%A1c%20t%C3%A0i%20s%E1%BA%A3n%20v%C3%B4%20h%C3%ACnh.md)
+[❓An sinh xã hội, mối quan hệ với thiên nhiên, các loại vốn phi tài chính là các tài sản vô hình](../../%F0%9F%8E%81Ph%C3%A1t%20tri%E1%BB%83n%20b%E1%BB%81n%20v%E1%BB%AFng.%20C%C3%A1c%20n%E1%BB%81n%20kinh%20t%E1%BA%BF%20thay%20th%E1%BA%BF/Gi%E1%BA%A3i%20ph%C3%A1p/%E2%9D%93An%20sinh%20x%C3%A3%20h%E1%BB%99i,%20m%E1%BB%91i%20quan%20h%E1%BB%87%20v%E1%BB%9Bi%20thi%C3%AAn%20nhi%C3%AAn,%20c%C3%A1c%20lo%E1%BA%A1i%20v%E1%BB%91n%20phi%20t%C3%A0i%20ch%C3%ADnh%20l%C3%A0%20c%C3%A1c%20t%C3%A0i%20s%E1%BA%A3n%20v%C3%B4%20h%C3%ACnh.md)
 Cộng sinh, ký sinh
 Dòng vốn
 Cộng sản là tư bản sinh thái
 
-[Công xã là việc bị đánh thuế 100%](../../%F0%9F%8E%81Ph%C3%A1t%20tri%E1%BB%83n%20b%E1%BB%81n%20v%E1%BB%AFng.%20C%C3%A1c%20n%E1%BB%81n%20kinh%20t%E1%BA%BF%20thay%20th%E1%BA%BF/Kinh%20t%E1%BA%BF%20thay%20th%E1%BA%BF/C%C3%B4ng%20x%C3%A3%20l%C3%A0%20vi%E1%BB%87c%20b%E1%BB%8B%20%C4%91%C3%A1nh%20thu%E1%BA%BF%20100%25.md)
+[Công xã là việc bị đánh thuế 100%](../../%F0%9F%8E%81Ph%C3%A1t%20tri%E1%BB%83n%20b%E1%BB%81n%20v%E1%BB%AFng.%20C%C3%A1c%20n%E1%BB%81n%20kinh%20t%E1%BA%BF%20thay%20th%E1%BA%BF/Gi%E1%BA%A3i%20ph%C3%A1p/C%C3%B4ng%20x%C3%A3%20l%C3%A0%20vi%E1%BB%87c%20b%E1%BB%8B%20%C4%91%C3%A1nh%20thu%E1%BA%BF%20100%25.md)
 Doanh nghiệp xã hội
 [Nhóm mua chung, câu lạc bộ tiêu dùng](../X%C3%A2y%20d%E1%BB%B1ng%20h%E1%BB%87%20th%E1%BB%91ng%20kinh%20t%E1%BA%BF%20m%E1%BB%9Bi/Nh%C3%B3m%20mua%20chung,%20c%C3%A2u%20l%E1%BA%A1c%20b%E1%BB%99%20ti%C3%AAu%20d%C3%B9ng.md)

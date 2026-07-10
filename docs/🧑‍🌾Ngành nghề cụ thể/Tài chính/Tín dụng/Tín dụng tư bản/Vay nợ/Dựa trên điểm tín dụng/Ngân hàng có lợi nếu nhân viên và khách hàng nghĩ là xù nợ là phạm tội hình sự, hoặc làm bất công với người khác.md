@@ -1,7 +1,7 @@
 ---
 share: true
-created: 2025-03-27T17:13
-updated: 2026-06-27T20:51
+updated: 2026-07-07T13:00
+created: 2026-06-07T14:13
 ---
 Khái niệm:: 
 Ko phải là thiếu nguồn lực, mà là có lợi ích nếu nv và khách hàng hiểu theo nghĩa đó

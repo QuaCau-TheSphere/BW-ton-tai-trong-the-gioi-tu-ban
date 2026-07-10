@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-12-30T16:26
-updated: 2026-06-27T17:12
+updated: 2026-07-07T13:00
 title: Công ty tài chính tiêu dùng
 ---
 Khái niệm:: 
@@ -17,4 +17,5 @@ Tốn thời gian nhất là cứ phải làm kyc, nhập thông tin địa ch�
 
 [Dữ liệu cá nhân phản ánh hoạt động, lịch sử hoạt động trên mạng là dữ liệu cá nhân cơ bản chứ không phải là nhạy cảm](../../Vay%20n%E1%BB%A3/D%E1%BB%B1a%20tr%C3%AAn%20%C4%91i%E1%BB%83m%20t%C3%ADn%20d%E1%BB%A5ng/Kho%E1%BA%A3n%20vay%20c%E1%BB%A7a%20t%E1%BB%95%20ch%E1%BB%A9c%20t%C3%A0i%20ch%C3%ADnh%20ti%C3%AAu%20d%C3%B9ng/D%E1%BB%AF%20li%E1%BB%87u%20c%C3%A1%20nh%C3%A2n%20ph%E1%BA%A3n%20%C3%A1nh%20ho%E1%BA%A1t%20%C4%91%E1%BB%99ng,%20l%E1%BB%8Bch%20s%E1%BB%AD%20ho%E1%BA%A1t%20%C4%91%E1%BB%99ng%20tr%C3%AAn%20m%E1%BA%A1ng%20l%C3%A0%20d%E1%BB%AF%20li%E1%BB%87u%20c%C3%A1%20nh%C3%A2n%20c%C6%A1%20b%E1%BA%A3n%20ch%E1%BB%A9%20kh%C3%B4ng%20ph%E1%BA%A3i%20l%C3%A0%20nh%E1%BA%A1y%20c%E1%BA%A3m.md)
 [Cách làm việc của nhân viên thu hồi nợ](../../Vay%20n%E1%BB%A3/D%E1%BB%B1a%20tr%C3%AAn%20%C4%91i%E1%BB%83m%20t%C3%ADn%20d%E1%BB%A5ng/Kho%E1%BA%A3n%20vay%20c%E1%BB%A7a%20t%E1%BB%95%20ch%E1%BB%A9c%20t%C3%A0i%20ch%C3%ADnh%20ti%C3%AAu%20d%C3%B9ng/index.md)
+
 

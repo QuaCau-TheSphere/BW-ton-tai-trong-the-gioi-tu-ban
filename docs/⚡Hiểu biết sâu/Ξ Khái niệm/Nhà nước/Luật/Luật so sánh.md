@@ -1,7 +1,7 @@
 ---
 share: true
-created: 2025-03-27T17:13
-updated: 2026-06-22T14:37
+updated: 2026-07-07T12:58
+created: 2026-06-22T14:36
 ---
 - \-: 
     - [Pháp luật các nước không coi quyền chiếm hữu là một phần của quyền sở hữu như trong luật Việt Nam](../../../../%F0%9F%8F%9B%EF%B8%8FTh%E1%BB%83%20ch%E1%BA%BF,%20ch%C3%ADnh%20s%C3%A1ch%20c%C3%B4ng,%20qu%E1%BA%A3n%20tr%E1%BB%8B%20nh%C3%A0%20n%C6%B0%E1%BB%9Bc%20%E1%BB%9F%20Vi%E1%BB%87t%20Nam/H%E1%BB%87%20th%E1%BB%91ng%20lu%E1%BA%ADt%20ph%C3%A1p/D%C3%A2n%20s%E1%BB%B1/Ph%C3%A1p%20lu%E1%BA%ADt%20c%C3%A1c%20n%C6%B0%E1%BB%9Bc%20kh%C3%B4ng%20coi%20quy%E1%BB%81n%20chi%E1%BA%BFm%20h%E1%BB%AFu%20l%C3%A0%20m%E1%BB%99t%20ph%E1%BA%A7n%20c%E1%BB%A7a%20quy%E1%BB%81n%20s%E1%BB%9F%20h%E1%BB%AFu%20nh%C6%B0%20trong%20lu%E1%BA%ADt%20Vi%E1%BB%87t%20Nam.md)

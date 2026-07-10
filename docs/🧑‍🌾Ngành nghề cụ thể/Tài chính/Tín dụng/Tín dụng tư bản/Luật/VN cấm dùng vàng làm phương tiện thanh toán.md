@@ -1,7 +1,7 @@
 ---
 share: true
-created: 2025-03-27T17:13
-updated: 2026-03-28T16:31
+updated: 2026-07-07T13:00
+created: 2026-03-05T11:58
 ---
 Khái niệm:: [Vàng](../../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/T%C3%A0i%20s%E1%BA%A3n/V%C3%A0ng.md)
 Để tránh người dân dùng vàng trong các giao dịch kinh tế, thì Nhà nước có quy định cấm dùng vàng làm thế chấp, cấm việc huy động và cho vay bằng vàng của ngân hàng, phạt nghiêm việc dùng vàng làm phương tiện thanh toán và siết chặt giao dịch vàng miếng.

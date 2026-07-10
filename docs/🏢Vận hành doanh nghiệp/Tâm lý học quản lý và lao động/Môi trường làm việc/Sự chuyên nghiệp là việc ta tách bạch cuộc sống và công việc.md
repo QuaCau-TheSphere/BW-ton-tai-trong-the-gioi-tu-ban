@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2026-06-21T20:38
+updated: 2026-07-07T12:59
 ---
 Khái niệm:: [Chuyên nghiệp](Chuy%C3%AAn%20nghi%E1%BB%87p.md)
 Nguồn:: [Paul Graham](Paul%20Graham.md), [What Business Can Learn from Open Source](http://www.paulgraham.com/opensource.html)

@@ -1,11 +1,11 @@
 ---
 share: true
-created: 2025-03-27T17:13
-updated: 2026-06-05T18:40
+updated: 2026-07-07T13:00
 aliases:
   - Mua đồ ăn giá rẻ
   - Kiếm đồ ăn miễn phí
   - Tìm nơi tặng đồ ăn
+created: 2025-08-31T16:23
 ---
 ## Mua đồ ăn rẻ 
 - Mua đồ ăn ở chợ đầu mối
@@ -24,4 +24,4 @@ Trước đây có [FoodShare](https://foodshare.id.vn/foods/tat-ca-thuc-pham)nh
 ## Dành cho người không biết nhục
 - Đến ngồi một lúc ở kfc là no đc. Đồ ăn trong thùng rác luôn là đồ ăn mới nên ko sợ bị hư.
 - Lẻn vào các tiệc cưới, tiệc công ty, hội thảo có tổ chức ăn uống. Có thể đóng hộp đồ ăn thừa
-- [Săn phỏng vấn, khảo sát cần tìm đáp viên, sự kiện cần lấp khán giả](../%C3%9D%20t%C6%B0%E1%BB%9Fng%20ki%E1%BA%BFm%20ti%E1%BB%81n/%C3%9D%20t%C6%B0%E1%BB%9Fng/C%C3%B4ng%20vi%E1%BB%87c%20th%E1%BB%9Di%20v%E1%BB%A5,%20c%E1%BB%99ng%20t%C3%A1c%20vi%C3%AAn/S%C4%83n%20ph%E1%BB%8Fng%20v%E1%BA%A5n,%20kh%E1%BA%A3o%20s%C3%A1t%20c%E1%BA%A7n%20t%C3%ACm%20%C4%91%C3%A1p%20vi%C3%AAn,%20s%E1%BB%B1%20ki%E1%BB%87n%20c%E1%BA%A7n%20l%E1%BA%A5p%20kh%C3%A1n%20gi%E1%BA%A3.md)
+- [Săn phỏng vấn, khảo sát cần tìm đáp viên, sự kiện cần lấp khán giả](../../%F0%9F%92%B8H%C3%ACnh%20th%E1%BB%A9c%20ki%E1%BA%BFm%20ti%E1%BB%81n/Thi%E1%BA%BFu%20li%C3%AAm%20ch%C3%ADnh.%20Ph%E1%BA%A1m%20ph%C3%A1p/C%C3%A1ch%20l%C3%A0m%20c%E1%BB%A5%20th%E1%BB%83/Vi%20ph%E1%BA%A1m%20d%C3%A2n%20s%E1%BB%B1/L%C3%A0m%20k%E1%BA%BFt%20qu%E1%BA%A3%20%E1%BA%A3o/C%C3%A1c%20c%C3%B4ng%20vi%E1%BB%87c/S%C4%83n%20ph%E1%BB%8Fng%20v%E1%BA%A5n,%20kh%E1%BA%A3o%20s%C3%A1t%20c%E1%BA%A7n%20t%C3%ACm%20%C4%91%C3%A1p%20vi%C3%AAn,%20s%E1%BB%B1%20ki%E1%BB%87n%20c%E1%BA%A7n%20l%E1%BA%A5p%20kh%C3%A1n%20gi%E1%BA%A3.md)

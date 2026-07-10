@@ -1,7 +1,6 @@
 ---
 share: true
-created: 2025-03-27T17:13
-updated: 2026-04-15T20:41
+updated: 2026-07-06T21:10
 ---
 Khái niệm:: 
 [Đánh giá một số dịch vụ mở khoản vay](./%C4%90%C3%A1nh%20gi%C3%A1%20m%E1%BB%99t%20s%E1%BB%91%20d%E1%BB%8Bch%20v%E1%BB%A5%20m%E1%BB%9F%20kho%E1%BA%A3n%20vay.md)

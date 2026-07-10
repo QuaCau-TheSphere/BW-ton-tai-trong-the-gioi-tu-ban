@@ -1,7 +1,7 @@
 ---
 share: true
-created: 2025-03-27T17:13
-updated: 2026-03-28T23:22
+updated: 2026-07-06T21:39
+created: 2025-08-17T16:19
 ---
 Khái niệm:: [Tài sản vô hình](../../../../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Kinh%20t%E1%BA%BF%20h%E1%BB%8Dc/T%C3%A0i%20s%E1%BA%A3n%20v%C3%B4%20h%C3%ACnh.md)
 

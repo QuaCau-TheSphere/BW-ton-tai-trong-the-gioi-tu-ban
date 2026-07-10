@@ -1,11 +1,10 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2026-06-05T15:14
+updated: 2026-07-10T14:52
 ---
-Tính chất công việc:: [Cần có vốn](../%C3%9D%20t%C6%B0%E1%BB%9Fng%20ki%E1%BA%BFm%20ti%E1%BB%81n/%C4%90%E1%BA%B7c%20%C4%91i%E1%BB%83m%20c%C3%B4ng%20vi%E1%BB%87c/Nguy%C3%AAn%20li%E1%BB%87u,%20ngu%E1%BB%93n%20th%C3%B4ng%20tin/C%E1%BA%A7n%20c%C3%B3%20v%E1%BB%91n.md)
-Tính chất công việc:: [Không tốn diện tích](../%C3%9D%20t%C6%B0%E1%BB%9Fng%20ki%E1%BA%BFm%20ti%E1%BB%81n/%C4%90%E1%BA%B7c%20%C4%91i%E1%BB%83m%20c%C3%B4ng%20vi%E1%BB%87c/Nguy%C3%AAn%20li%E1%BB%87u,%20ngu%E1%BB%93n%20th%C3%B4ng%20tin/Kh%C3%B4ng%20t%E1%BB%91n%20di%E1%BB%87n%20t%C3%ADch.md)
-Hình thức:: [Tự kinh doanh, đầu tư](../%C3%9D%20t%C6%B0%E1%BB%9Fng%20ki%E1%BA%BFm%20ti%E1%BB%81n/%C4%90%E1%BA%B7c%20%C4%91i%E1%BB%83m%20c%C3%B4ng%20vi%E1%BB%87c/H%C3%ACnh%20th%E1%BB%A9c%20c%C3%B4ng%20vi%E1%BB%87c/T%E1%BB%B1%20kinh%20doanh,%20%C4%91%E1%BA%A7u%20t%C6%B0.md)
+Tính chất công việc: Cần có vốn, Không tốn diện tích
+Xem thêm:: [Tự kinh doanh, đầu tư](../%C3%9D%20t%C6%B0%E1%BB%9Fng%20ki%E1%BA%BFm%20ti%E1%BB%81n/%C4%90%E1%BA%B7c%20%C4%91i%E1%BB%83m%20c%C3%B4ng%20vi%E1%BB%87c/H%C3%ACnh%20th%E1%BB%A9c%20c%C3%B4ng%20vi%E1%BB%87c/T%E1%BB%B1%20kinh%20doanh,%20%C4%91%E1%BA%A7u%20t%C6%B0.md)
 
 [Chị Em Kinh Doanh Online](https://www.facebook.com/groups/482840957460226)
 [Kho chuyện khởi nghiệp cho cá nhân kinh doanh nhỏ](https://avayha.com/). [Top 16 ý tưởng kinh doanh online và kinh nghiệm thực tế (cập nhật liên tục) - A Vậy Hả](https://avayha.com/top-y-tuong-kinh-doanh-online-va-kinh-nghiem-thuc-te/)

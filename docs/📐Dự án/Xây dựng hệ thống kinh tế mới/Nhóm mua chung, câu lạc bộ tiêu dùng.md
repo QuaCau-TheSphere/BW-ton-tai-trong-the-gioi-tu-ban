@@ -1,7 +1,6 @@
 ---
 share: true
-created: 2025-03-27T17:13
-updated: 2026-04-14T14:49
+updated: 2026-07-06T21:09
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QR6yMaEwgCs?si=5vdpVdbR3zAqoXLZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 # Tái Hình Dung Hệ Thống Thực Phẩm: Giới Thiệu Câu Lạc Bộ Tiêu Dùng Vcil (Vcil Consumers Club)
