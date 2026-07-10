@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2025-12-19T11:32
+updated: 2026-07-07T13:00
 ---
 Khái niệm:: [Tiền](../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/T%C3%A0i%20s%E1%BA%A3n/Ti%E1%BB%81n.md), [Động lực](%C4%90%E1%BB%99ng%20l%E1%BB%B1c.md)
 [Tiền là một động lực ngoại sinh cực kỳ tốt](./Ti%E1%BB%81n%20l%C3%A0%20m%E1%BB%99t%20%C4%91%E1%BB%99ng%20l%E1%BB%B1c%20ngo%E1%BA%A1i%20sinh%20c%E1%BB%B1c%20k%E1%BB%B3%20t%E1%BB%91t.md)
