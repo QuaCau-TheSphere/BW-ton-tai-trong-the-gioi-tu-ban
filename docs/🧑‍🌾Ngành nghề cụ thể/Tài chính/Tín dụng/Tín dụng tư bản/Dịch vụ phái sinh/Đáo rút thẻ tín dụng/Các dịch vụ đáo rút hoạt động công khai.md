@@ -1,9 +1,9 @@
 ---
 share: true
-created: 2025-03-27T17:13
-updated: 2026-06-03T15:10
+updated: 2026-07-07T13:00
+created: 2025-11-27T12:24
 ---
-Khái niệm:: [Đáo](../../../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/T%C3%ADn%20d%E1%BB%A5ng/Vay,%20n%E1%BB%A3/%C4%90%C3%A1o.md)
+Khái niệm:: [Đáo, rút thẻ tín dụng](../../../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/T%C3%ADn%20d%E1%BB%A5ng/Vay,%20n%E1%BB%A3/%C4%90%C3%A1o,%20r%C3%BAt%20th%E1%BA%BB%20t%C3%ADn%20d%E1%BB%A5ng.md)
 Dù [Luật cấm rút tiền tại cửa hàng để tránh việc rửa tiền](../../Lu%E1%BA%ADt/Lu%E1%BA%ADt%20c%E1%BA%A5m%20r%C3%BAt%20ti%E1%BB%81n%20t%E1%BA%A1i%20c%E1%BB%ADa%20h%C3%A0ng%20%C4%91%E1%BB%83%20tr%C3%A1nh%20vi%E1%BB%87c%20r%E1%BB%ADa%20ti%E1%BB%81n.md)
 
 Một bảng quảng cáo ở một quán cà phê:
