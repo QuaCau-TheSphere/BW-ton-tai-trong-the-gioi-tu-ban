@@ -1,7 +1,7 @@
 ---
 share: true
-created: 2025-03-27T17:13
-updated: 2026-03-04T22:36
+updated: 2026-07-07T13:00
+created: 2025-10-06T21:21
 ---
 Khái niệm:: 
 [Nên công ty công nghệ ít khi lên các sàn này](N%C3%AAn%20c%C3%B4ng%20ty%20c%C3%B4ng%20ngh%E1%BB%87%20%C3%ADt%20khi%20l%C3%AAn%20c%C3%A1c%20s%C3%A0n%20n%C3%A0y.md)
