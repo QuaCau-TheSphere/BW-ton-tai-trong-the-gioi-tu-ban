@@ -1,7 +1,7 @@
 ---
 share: true
 description: "Số tiền kiếm được: "
-updated: 2026-07-07T12:59
+updated: 2026-07-10T14:50
 created: 2025-08-16T22:23
 ---
 Mô tả công việc:: Tải app, đăng ký, nhập mã giới thiệu, nạp tiền, gom nhóm, rút tiền
@@ -20,7 +20,7 @@ Số tiền đặt cọc::
 Số người cần tuyển:: 0
 Hình thức công việc:: [Tự kinh doanh, đầu tư](../../../../../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/%C3%9D%20t%C6%B0%E1%BB%9Fng%20ki%E1%BA%BFm%20ti%E1%BB%81n/%C4%90%E1%BA%B7c%20%C4%91i%E1%BB%83m%20c%C3%B4ng%20vi%E1%BB%87c/H%C3%ACnh%20th%E1%BB%A9c%20c%C3%B4ng%20vi%E1%BB%87c/T%E1%BB%B1%20kinh%20doanh,%20%C4%91%E1%BA%A7u%20t%C6%B0.md)
 Kiến thức, kỹ năng:: 
-Nguyên liệu, nguồn thông tin:: [Cần có sẵn tài khoản ngân hàng](../../../../../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/%C3%9D%20t%C6%B0%E1%BB%9Fng%20ki%E1%BA%BFm%20ti%E1%BB%81n/%C4%90%E1%BA%B7c%20%C4%91i%E1%BB%83m%20c%C3%B4ng%20vi%E1%BB%87c/Nguy%C3%AAn%20li%E1%BB%87u,%20ngu%E1%BB%93n%20th%C3%B4ng%20tin/C%E1%BA%A7n%20c%C3%B3%20s%E1%BA%B5n%20t%C3%A0i%20kho%E1%BA%A3n%20ng%C3%A2n%20h%C3%A0ng.md)
+Nguyên liệu, nguồn thông tin:: [Có sẵn tài khoản ngân hàng](../../../../../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/%C3%9D%20t%C6%B0%E1%BB%9Fng%20ki%E1%BA%BFm%20ti%E1%BB%81n/%C4%90%E1%BA%B7c%20%C4%91i%E1%BB%83m%20c%C3%B4ng%20vi%E1%BB%87c/Nguy%C3%AAn%20li%E1%BB%87u,%20ngu%E1%BB%93n%20th%C3%B4ng%20tin/C%C3%B3%20s%E1%BA%B5n%20t%C3%A0i%20kho%E1%BA%A3n%20ng%C3%A2n%20h%C3%A0ng.md)
 Nơi làm việc:: [Làm qua mạng](../../../../../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/%C3%9D%20t%C6%B0%E1%BB%9Fng%20ki%E1%BA%BFm%20ti%E1%BB%81n/%C4%90%E1%BA%B7c%20%C4%91i%E1%BB%83m%20c%C3%B4ng%20vi%E1%BB%87c/N%C6%A1i%20l%C3%A0m%20vi%E1%BB%87c/L%C3%A0m%20qua%20m%E1%BA%A1ng.md)
 Thời gian làm việc:: [Được chọn thời gian làm trong ngày](../../../../../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/%C3%9D%20t%C6%B0%E1%BB%9Fng%20ki%E1%BA%BFm%20ti%E1%BB%81n/%C4%90%E1%BA%B7c%20%C4%91i%E1%BB%83m%20c%C3%B4ng%20vi%E1%BB%87c/Th%E1%BB%9Di%20gian%20l%C3%A0m%20vi%E1%BB%87c/%C4%90%C6%B0%E1%BB%A3c%20ch%E1%BB%8Dn%20th%E1%BB%9Di%20gian%20l%C3%A0m%20trong%20ng%C3%A0y.md)
 Yêu cầu công nghệ:: 
