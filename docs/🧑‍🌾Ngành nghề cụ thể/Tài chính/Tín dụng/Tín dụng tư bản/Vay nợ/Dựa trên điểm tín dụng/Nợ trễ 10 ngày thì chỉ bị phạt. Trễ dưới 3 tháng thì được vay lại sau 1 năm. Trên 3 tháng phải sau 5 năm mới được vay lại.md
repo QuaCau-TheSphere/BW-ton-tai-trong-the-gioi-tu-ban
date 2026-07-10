@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-01-29T18:45
-updated: 2026-06-27T20:52
+updated: 2026-07-07T13:00
 ---
 Khái niệm:: 
 ![](https://i.imgur.com/zQYMsPQ.png)
