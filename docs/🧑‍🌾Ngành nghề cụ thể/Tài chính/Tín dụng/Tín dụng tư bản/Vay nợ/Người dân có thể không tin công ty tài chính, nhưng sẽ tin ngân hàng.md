@@ -1,7 +1,7 @@
 ---
 share: true
-created: 2025-03-27T17:13
-updated: 2026-03-28T16:54
+updated: 2026-07-07T13:00
+created: 2025-09-03T21:04
 ---
 Khái niệm:: 
 Lý do:: [Mọi người thường lẫn lộn công ty tài chính do ngân hàng lập ra với app đen](./M%E1%BB%8Di%20ng%C6%B0%E1%BB%9Di%20th%C6%B0%E1%BB%9Dng%20l%E1%BA%ABn%20l%E1%BB%99n%20c%C3%B4ng%20ty%20t%C3%A0i%20ch%C3%ADnh%20do%20ng%C3%A2n%20h%C3%A0ng%20l%E1%BA%ADp%20ra%20v%E1%BB%9Bi%20app%20%C4%91en.md)
