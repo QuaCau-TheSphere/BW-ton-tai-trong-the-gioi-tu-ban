@@ -1,9 +1,11 @@
 ---
 share: true
-created: 2025-03-27T17:13
-updated: 2026-06-14T22:11
+updated: 2026-07-10T13:38
+created: 2026-06-14T20:34
 ---
 Có thể đi kèm với [Hợp tác xã nhân viên](./H%E1%BB%A3p%20t%C3%A1c%20x%C3%A3%20nh%C3%A2n%20vi%C3%AAn.md), [Nhóm hỗ trợ người tự kinh doanh, đầu tư](./Nh%C3%B3m%20h%E1%BB%97%20tr%E1%BB%A3%20ng%C6%B0%E1%BB%9Di%20t%E1%BB%B1%20kinh%20doanh,%20%C4%91%E1%BA%A7u%20t%C6%B0.md), [Nhóm mua chung, câu lạc bộ tiêu dùng](./Nh%C3%B3m%20mua%20chung,%20c%C3%A2u%20l%E1%BA%A1c%20b%E1%BB%99%20ti%C3%AAu%20d%C3%B9ng.md)
+
+[Tìm người, tuyển dụng](../../../Ki%E1%BA%BFm%20ti%E1%BB%81n%20nhanh/T%C3%ACm%20ng%C6%B0%E1%BB%9Di,%20tuy%E1%BB%83n%20d%E1%BB%A5ng.md)
 
 ## Thị trường & đối thủ cạnh tranh
 ## Đối tượng phục vụ 
