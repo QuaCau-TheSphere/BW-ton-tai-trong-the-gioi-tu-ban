@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-06-22T18:55
-updated: 2026-07-10T14:22
+updated: 2026-07-10T18:02
 aliases:
   - thời vụ
   - freelance
@@ -15,7 +15,7 @@ description: "Đây là các công việc không phải là nhân viên của m�
 ---
 Đây là các công việc không phải là nhân viên của một công ty: không có hợp đồng lao động, không có bảo hiểm xã hội. Xem thêm: [Khác biệt giữa nhân viên, đại lý, cộng tác viên](../../../../%F0%9F%92%B8H%C3%ACnh%20th%E1%BB%A9c%20ki%E1%BA%BFm%20ti%E1%BB%81n/L%C3%A0m%20c%C3%B4ng%20%C4%83n%20l%C6%B0%C6%A1ng/Nh%C3%A2n%20vi%C3%AAn,%20%C4%91%E1%BA%A1i%20l%C3%BD/Kh%C3%A1c%20bi%E1%BB%87t%20gi%E1%BB%AFa%20nh%C3%A2n%20vi%C3%AAn,%20%C4%91%E1%BA%A1i%20l%C3%BD,%20c%E1%BB%99ng%20t%C3%A1c%20vi%C3%AAn.md)
 
-Tên gọi khác cho những công việc này: thời vụ, cộng tác viên, lương liền, bán thời gian, tạm thời, ngắn hạn, freelance, part-time. Kha khá việc làm trong đây là có thể [làm qua mạng](../../%C4%90%E1%BA%B7c%20%C4%91i%E1%BB%83m%20c%C3%B4ng%20vi%E1%BB%87c/N%C6%A1i%20l%C3%A0m%20vi%E1%BB%87c/L%C3%A0m%20qua%20m%E1%BA%A1ng.md). 
+Tên gọi khác cho những công việc này: thời vụ, cộng tác viên, lương liền, bán thời gian, tạm thời, ngắn hạn, freelance, part-time. Kha khá việc làm trong đây là có thể [Làm qua mạng](../../%C4%90%E1%BA%B7c%20%C4%91i%E1%BB%83m%20c%C3%B4ng%20vi%E1%BB%87c/M%C3%B4i%20tr%C6%B0%E1%BB%9Dng%20l%C3%A0m%20vi%E1%BB%87c/L%C3%A0m%20qua%20m%E1%BA%A1ng.md). 
 
 Cẩn thận với [Lừa đảo tuyển dụng hoặc môi giới việc làm](../../../../%F0%9F%92%B8H%C3%ACnh%20th%E1%BB%A9c%20ki%E1%BA%BFm%20ti%E1%BB%81n/Thi%E1%BA%BFu%20li%C3%AAm%20ch%C3%ADnh.%20Ph%E1%BA%A1m%20ph%C3%A1p/C%E1%BA%A3nh%20gi%C3%A1c%20l%E1%BB%ABa%20%C4%91%E1%BA%A3o/Ph%C6%B0%C6%A1ng%20th%E1%BB%A9c%20l%E1%BB%ABa%20%C4%91%E1%BA%A3o/%C4%90%C3%A1nh%20v%C3%A0o%20giao%20%C6%B0%E1%BB%9Bc%20x%C3%A3%20h%E1%BB%99i/L%E1%BB%ABa%20%C4%91%E1%BA%A3o%20tuy%E1%BB%83n%20d%E1%BB%A5ng%20ho%E1%BA%B7c%20m%C3%B4i%20gi%E1%BB%9Bi%20vi%E1%BB%87c%20l%C3%A0m.md).
 
@@ -36,6 +36,7 @@ Lưu ý xem cột "Số người cần tuyển". Nếu là 0 thì là không cò
 | [Trả lời tin nhắn, tư vấn sản phẩm, dịch vụ](./Tr%E1%BA%A3%20l%E1%BB%9Di%20tin%20nh%E1%BA%AFn,%20t%C6%B0%20v%E1%BA%A5n%20s%E1%BA%A3n%20ph%E1%BA%A9m,%20d%E1%BB%8Bch%20v%E1%BB%A5.md)                         | 60% doanh số                                                            | \-                                                                                                                                                                                             | \-                 |
 | [Tìm người, tuyển dụng](./T%C3%ACm%20ng%C6%B0%E1%BB%9Di,%20tuy%E1%BB%83n%20d%E1%BB%A5ng.md)                                                                   | \-                                                                      | \-                                                                                                                                                                                             | ∞                  |
 | [Đánh giá độ chính xác và chất lượng truy vấn](./%C4%90%C3%A1nh%20gi%C3%A1%20%C4%91%E1%BB%99%20ch%C3%ADnh%20x%C3%A1c%20v%C3%A0%20ch%E1%BA%A5t%20l%C6%B0%E1%BB%A3ng%20truy%20v%E1%BA%A5n.md)                     | 70k/h                                                                   | Đánh giá độ chính xác và chất lượng các truy vấn (queries) của người dùng internet                                                                                                             | ∞                  |
+| [Thi công điện](./Thi%20c%C3%B4ng%20%C4%91i%E1%BB%87n.md)                                                                                   | 450k - 650k/ngày                                                        | Thi công điện như thang máng cáp, kéo cáp, đấu nối                                                                                                                                             | 5                  |
 
 
 - [Làm nhân sự ảo](../../../../%F0%9F%93%90D%E1%BB%B1%20%C3%A1n/Gi%C3%BAp%20nhau%20ki%E1%BA%BFm%20ti%E1%BB%81n/Gi%C3%BAp%20nh%C3%A2n%20vi%C3%AAn%20c%C3%B4ng%20ty%20%C4%91%E1%BA%A1t%20ch%E1%BB%89%20ti%C3%AAu/Ch%C6%A1i%20ch%C3%ADnh%20s%C3%A1ch/L%C3%A0m%20nh%C3%A2n%20s%E1%BB%B1%20%E1%BA%A3o/index.md)
