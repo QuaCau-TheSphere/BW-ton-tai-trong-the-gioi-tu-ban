@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2026-07-10T14:49
+updated: 2026-07-10T17:55
 aliases:
   - Trục lợi bọn trục lợi
 ---
@@ -31,11 +31,11 @@ Số tiền đầu tư::
 Số tiền đặt cọc:: 
 Số người cần tuyển:: 
 Hình thức công việc:: [Các công việc kiếm tiền nhanh](C%C3%A1c%20c%C3%B4ng%20vi%E1%BB%87c%20ki%E1%BA%BFm%20ti%E1%BB%81n%20nhanh.md)
-Kiến thức, kỹ năng:: [Biết cách ẩn danh](../../%C4%90%E1%BA%B7c%20%C4%91i%E1%BB%83m%20c%C3%B4ng%20vi%E1%BB%87c/Ki%E1%BA%BFn%20th%E1%BB%A9c,%20k%E1%BB%B9%20n%C4%83ng/Bi%E1%BA%BFt%20c%C3%A1ch%20%E1%BA%A9n%20danh.md)
-Nguyên liệu, nguồn thông tin::
-Nơi làm việc:: [Làm qua mạng](../../%C4%90%E1%BA%B7c%20%C4%91i%E1%BB%83m%20c%C3%B4ng%20vi%E1%BB%87c/N%C6%A1i%20l%C3%A0m%20vi%E1%BB%87c/L%C3%A0m%20qua%20m%E1%BA%A1ng.md)
+Kiến thức, kỹ năng cần có sẵn:: [Biết cách ẩn danh](../../%C4%90%E1%BA%B7c%20%C4%91i%E1%BB%83m%20c%C3%B4ng%20vi%E1%BB%87c/Ki%E1%BA%BFn%20th%E1%BB%A9c,%20k%E1%BB%B9%20n%C4%83ng/Bi%E1%BA%BFt%20c%C3%A1ch%20%E1%BA%A9n%20danh.md)
+Tài nguyên, vật dụng cần có sẵn::
+Nơi làm việc:: [Làm qua mạng](../../%C4%90%E1%BA%B7c%20%C4%91i%E1%BB%83m%20c%C3%B4ng%20vi%E1%BB%87c/M%C3%B4i%20tr%C6%B0%E1%BB%9Dng%20l%C3%A0m%20vi%E1%BB%87c/L%C3%A0m%20qua%20m%E1%BA%A1ng.md)
 Thời gian làm việc::
-Yêu cầu công nghệ::
+Tài nguyên, vật dụng cần có sẵn::
 Thời điểm trả tiền::
 Đặc điểm khác::
 
