@@ -1,7 +1,7 @@
 ---
 share: true
-created: 2025-03-27T17:13
-updated: 2026-06-27T20:25
+updated: 2026-07-07T12:58
+created: 2026-06-03T14:51
 ---
 Khái niệm:: 
 Những vi phạm phát sinh từ rủi ro kinh doanh thông thường, từ sự thiếu hụt năng lực tài chính hoặc từ việc không thực hiện đúng nghĩa vụ hợp đồng, nếu không có dấu hiệu gian dối, chiếm đoạt hoặc xâm phạm trật tự quản lý kinh tế một cách nghiêm trọng thì không nên bị xử lý bằng biện pháp hình sự. Ngược lại, các hành vi lợi dụng quan hệ kinh tế để thực hiện hành vi gian lận, lừa đảo, trục lợi bất chính thì cần phải bị xử lý nghiêm minh bằng pháp luật hình sự.
