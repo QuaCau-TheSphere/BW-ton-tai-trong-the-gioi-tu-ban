@@ -1,0 +1,8 @@
+---
+share: true
+updated: 2026-07-07T12:59
+created: 2025-09-03T16:08
+---
+Khái niệm:: [Tình hình ở Việt Nam](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Nh%C3%A0%20n%C6%B0%E1%BB%9Bc/T%C3%ACnh%20h%C3%ACnh%20%E1%BB%9F%20Vi%E1%BB%87t%20Nam.md)
+
+Nguồn:: [Vcil Community Membership \| Substack](https://vcilcommunitymembership.substack.com/p/ban-tin-thang-4-nam-2025)
