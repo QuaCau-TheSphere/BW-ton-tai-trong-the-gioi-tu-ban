@@ -1,7 +1,7 @@
 ---
 share: true
-created: 2025-03-27T17:13
-updated: 2026-06-21T16:06
+updated: 2026-07-07T12:58
+created: 2026-06-21T16:06
 ---
 - \-: 
     - [Người dân không có quyền định đoạt đất đai. Nhà nước có quyền lấy lại đất bất cứ lúc nào, và chỉ bồi thường cái nhà trên đất](../../../../%F0%9F%A7%91%E2%80%8D%F0%9F%8C%BENg%C3%A0nh%20ngh%E1%BB%81%20c%E1%BB%A5%20th%E1%BB%83/X%C3%A2y%20d%E1%BB%B1ng,%20b%E1%BA%A5t%20%C4%91%E1%BB%99ng%20s%E1%BA%A3n/Lu%E1%BA%ADt,%20qu%E1%BA%A3n%20l%C3%BD%20nh%C3%A0%20n%C6%B0%E1%BB%9Bc/Ng%C6%B0%E1%BB%9Di%20d%C3%A2n%20kh%C3%B4ng%20c%C3%B3%20quy%E1%BB%81n%20%C4%91%E1%BB%8Bnh%20%C4%91o%E1%BA%A1t%20%C4%91%E1%BA%A5t%20%C4%91ai.%20Nh%C3%A0%20n%C6%B0%E1%BB%9Bc%20c%C3%B3%20quy%E1%BB%81n%20l%E1%BA%A5y%20l%E1%BA%A1i%20%C4%91%E1%BA%A5t%20b%E1%BA%A5t%20c%E1%BB%A9%20l%C3%BAc%20n%C3%A0o,%20v%C3%A0%20ch%E1%BB%89%20b%E1%BB%93i%20th%C6%B0%E1%BB%9Dng%20c%C3%A1i%20nh%C3%A0%20tr%C3%AAn%20%C4%91%E1%BA%A5t.md)
