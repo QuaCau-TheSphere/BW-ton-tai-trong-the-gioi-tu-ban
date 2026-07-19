@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-09-12T22:14
-updated: 2026-07-10T17:54
+updated: 2026-07-14T19:47
 ---
 Mô tả công việc:: 
 Số tiền kiếm được:: Sinh từ năm 2001 trở đi thì được 900k, sinh trước năm 2000 thì được 2tr
@@ -44,9 +44,9 @@ Số người cần tuyển:: ∞
 Hình thức công việc::
 Kiến thức, kỹ năng cần có sẵn::
 Tài nguyên, vật dụng cần có sẵn::
-Nơi làm việc:: [Làm văn phòng](../../%C4%90%E1%BA%B7c%20%C4%91i%E1%BB%83m%20c%C3%B4ng%20vi%E1%BB%87c/M%C3%B4i%20tr%C6%B0%E1%BB%9Dng%20l%C3%A0m%20vi%E1%BB%87c/L%C3%A0m%20v%C4%83n%20ph%C3%B2ng.md)
+Môi trường làm việc:: [Làm văn phòng](../../%C4%90%E1%BA%B7c%20%C4%91i%E1%BB%83m%20c%C3%B4ng%20vi%E1%BB%87c/M%C3%B4i%20tr%C6%B0%E1%BB%9Dng%20l%C3%A0m%20vi%E1%BB%87c/L%C3%A0m%20v%C4%83n%20ph%C3%B2ng.md)
 Thời gian làm việc:: [Tùy vào lịch được cho sẵn](../../%C4%90%E1%BA%B7c%20%C4%91i%E1%BB%83m%20c%C3%B4ng%20vi%E1%BB%87c/Th%E1%BB%9Di%20gian%20l%C3%A0m%20vi%E1%BB%87c/T%C3%B9y%20v%C3%A0o%20l%E1%BB%8Bch%20%C4%91%C6%B0%E1%BB%A3c%20cho%20s%E1%BA%B5n.md)
-Yêu cầu công nghệ:: [Không cần máy tính](../../%C4%90%E1%BA%B7c%20%C4%91i%E1%BB%83m%20c%C3%B4ng%20vi%E1%BB%87c/T%C3%A0i%20nguy%C3%AAn,%20v%E1%BA%ADt%20d%E1%BB%A5ng/C%C3%B4ng%20ngh%E1%BB%87/Kh%C3%B4ng%20c%E1%BA%A7n%20m%C3%A1y%20t%C3%ADnh.md)
+Tài nguyên, vật dụng cần có sẵn:: [Không cần máy tính](../../%C4%90%E1%BA%B7c%20%C4%91i%E1%BB%83m%20c%C3%B4ng%20vi%E1%BB%87c/T%C3%A0i%20nguy%C3%AAn,%20v%E1%BA%ADt%20d%E1%BB%A5ng/C%C3%B4ng%20ngh%E1%BB%87/Kh%C3%B4ng%20c%E1%BA%A7n%20m%C3%A1y%20t%C3%ADnh.md)
 Thời điểm trả tiền:: [Ngay sau khi hoàn thành công việc](../../%C4%90%E1%BA%B7c%20%C4%91i%E1%BB%83m%20c%C3%B4ng%20vi%E1%BB%87c/Th%E1%BB%9Di%20%C4%91i%E1%BB%83m%20tr%E1%BA%A3%20ti%E1%BB%81n/Ngay%20sau%20khi%20ho%C3%A0n%20th%C3%A0nh%20c%C3%B4ng%20vi%E1%BB%87c.md)
 Đặc điểm khác::
 
@@ -55,4 +55,4 @@ Vào Discord Quả Cầu, kênh "Kiếm tiền nhanh" để thảo luận:
 ![](https://i.imgur.com/PffcLkI.png)
 
 > [!important] Nhìn toàn cảnh
-> Công việc này là một phần của dự án [Giúp nhau kiếm tiền](../../../../%F0%9F%93%90D%E1%BB%B1%20%C3%A1n/Gi%C3%BAp%20nhau%20ki%E1%BA%BFm%20ti%E1%BB%81n/index.md). Đọc bài đó để hiểu thêm về mục tiêu dài hạn của dự án cũng như các lợi ích khác của bạn. Ngoài ra, bạn cũng có thể tham khảo thêm [các công việc kiếm tiền nhanh](C%C3%A1c%20c%C3%B4ng%20vi%E1%BB%87c%20ki%E1%BA%BFm%20ti%E1%BB%81n%20nhanh.md) khác.
+> Công việc này là một phần của dự án [Giúp nhau kiếm tiền](../../../../%F0%9F%93%90D%E1%BB%B1%20%C3%A1n/Gi%C3%BAp%20nhau%20ki%E1%BA%BFm%20ti%E1%BB%81n/index.md). Đọc bài đó để hiểu thêm về mục tiêu dài hạn của dự án cũng như các lợi ích khác của bạn. Ngoài ra, bạn cũng có thể tham khảo thêm [các công việc kiếm tiền nhanh](./index.md) khác.
