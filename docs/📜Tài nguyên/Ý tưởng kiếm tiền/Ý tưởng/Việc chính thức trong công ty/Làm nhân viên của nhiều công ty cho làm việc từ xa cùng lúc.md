@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-04-10T01:02
-updated: 2026-07-07T13:00
+updated: 2026-07-14T20:14
 tags:
   - shorts
 ---
@@ -16,5 +16,7 @@ Muốn làm tốt hơn thì tạo thành một nhóm cung cấp dịch vụ (age
 
 ## Xem thêm
 - [Giúp nhau kiếm tiền](../../../../%F0%9F%93%90D%E1%BB%B1%20%C3%A1n/Gi%C3%BAp%20nhau%20ki%E1%BA%BFm%20ti%E1%BB%81n/index.md)
-- [Làm nhân sự ảo](../../../../%F0%9F%93%90D%E1%BB%B1%20%C3%A1n/Gi%C3%BAp%20nhau%20ki%E1%BA%BFm%20ti%E1%BB%81n/Gi%C3%BAp%20nh%C3%A2n%20vi%C3%AAn%20c%C3%B4ng%20ty%20%C4%91%E1%BA%A1t%20ch%E1%BB%89%20ti%C3%AAu/Ch%C6%A1i%20ch%C3%ADnh%20s%C3%A1ch/L%C3%A0m%20nh%C3%A2n%20s%E1%BB%B1%20%E1%BA%A3o/index.md)
+- [Những công việc có thể kết hợp làm chung khi phải di chuyển đến nhiều địa điểm khác nhau](../../%C4%90%E1%BA%B7c%20%C4%91i%E1%BB%83m%20c%C3%B4ng%20vi%E1%BB%87c/M%C3%B4i%20tr%C6%B0%E1%BB%9Dng%20l%C3%A0m%20vi%E1%BB%87c/L%C3%A0m%20ngo%C3%A0i%20%C4%91%C6%B0%E1%BB%9Dng.md)
+- [Nhóm môi giới, đại lý](../T%E1%BB%B1%20kinh%20doanh,%20%C4%91%E1%BA%A7u%20t%C6%B0/K%E1%BA%BFt%20n%E1%BB%91i%20nhu%20c%E1%BA%A7u/Nh%C3%B3m/Nh%C3%B3m%20m%C3%B4i%20gi%E1%BB%9Bi,%20%C4%91%E1%BA%A1i%20l%C3%BD.md)
+- [Làm nhân sự ảo](../../../../%F0%9F%92%B8H%C3%ACnh%20th%E1%BB%A9c%20ki%E1%BA%BFm%20ti%E1%BB%81n/Thi%E1%BA%BFu%20li%C3%AAm%20ch%C3%ADnh.%20Ph%E1%BA%A1m%20ph%C3%A1p/Tr%C6%B0%E1%BB%9Dng%20h%E1%BB%A3p%20c%E1%BB%A5%20th%E1%BB%83/Ch%C6%A1i%20ch%C3%ADnh%20s%C3%A1ch/L%C3%A0m%20nh%C3%A2n%20s%E1%BB%B1%20%E1%BA%A3o/index.md)
 - [Công việc vô nghĩa, tổ chức vô lý](../../../../%F0%9F%93%A6N%E1%BB%81n%20kinh%20t%E1%BA%BF%20h%C3%A0ng%20ho%C3%A1/Kinh%20t%E1%BA%BF%20ch%C3%ADnh%20tr%E1%BB%8B/Ch%E1%BB%A7%20ngh%C4%A9a%20t%C6%B0%20b%E1%BA%A3n,%20t%C3%A2n%20t%E1%BB%B1%20do/C%C3%B4ng%20vi%E1%BB%87c%20v%C3%B4%20ngh%C4%A9a,%20t%E1%BB%95%20ch%E1%BB%A9c%20v%C3%B4%20l%C3%BD.md)
