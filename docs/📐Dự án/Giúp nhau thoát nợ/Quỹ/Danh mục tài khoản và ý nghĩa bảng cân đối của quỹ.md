@@ -1,9 +1,10 @@
 ---
 share: true
-updated: 2026-07-06T21:09
+updated: 2026-07-19T08:45
 cssClasses: wide-table
 aliases:
   - Xây dựng ontology
+created: 2025-10-13T13:45
 ---
 Đây là danh mục tài khoản và ý nghĩa bảng cân đối của [Quỹ tín dụng Quả Cầu](./Qu%E1%BB%B9%20t%C3%ADn%20d%E1%BB%A5ng%20Qu%E1%BA%A3%20C%E1%BA%A7u.md). Yêu cầu của hệ thống là phù hợp cho người muốn giúp đỡ nhưng chỉ có một mình. Ban đầu hệ thống cũng đơn giản, nhưng sau đó phức tạp lên, đặc biệt khi bạn đứng tên dùm và cho nhiều người mượn.
 đứng tên sổ tiết kiệm dùm, đi đáo dùm
@@ -25,7 +26,7 @@ Tuy nhiên khi các giao dịch càng ngày càng nhiều, các điều kiện t
 	- Khi đi rút tiền để cho mượn thì lấy kèm tiền trong bóp để đỡ phải mất phí rút
 - Chuyển luôn từ người gửi cho người nhận chứ không qua cái của mình
 
-Đánh đổi cái nhức đầu trong tương lai cho cái tiện hiện tại. [Về mặt nhận thức, con người tương lai của chính mình không liên quan gì đến mình](../../../%F0%9F%8F%A2V%E1%BA%ADn%20h%C3%A0nh%20doanh%20nghi%E1%BB%87p/T%C3%A2m%20l%C3%BD%20h%E1%BB%8Dc%20qu%E1%BA%A3n%20l%C3%BD%20v%C3%A0%20lao%20%C4%91%E1%BB%99ng/S%E1%BA%AFp%20x%E1%BA%BFp%20%C4%91%E1%BB%99%20%C6%B0u%20ti%C3%AAn/S%E1%BB%B1%20tr%C3%AC%20ho%C3%A3n/V%E1%BB%81%20m%E1%BA%B7t%20nh%E1%BA%ADn%20th%E1%BB%A9c,%20con%20ng%C6%B0%E1%BB%9Di%20t%C6%B0%C6%A1ng%20lai%20c%E1%BB%A7a%20ch%C3%ADnh%20m%C3%ACnh%20kh%C3%B4ng%20li%C3%AAn%20quan%20g%C3%AC%20%C4%91%E1%BA%BFn%20m%C3%ACnh.md). Cho đến khi lý tưởng trở thành thực tế, thì còn nhức đầu 
+Đánh đổi cái nhức đầu trong tương lai cho cái tiện hiện tại. [Về mặt nhận thức, con người tương lai của chính mình không liên quan gì đến mình](../../../%F0%9F%8F%A2V%E1%BA%ADn%20h%C3%A0nh%20doanh%20nghi%E1%BB%87p/Nh%C3%A2n%20s%E1%BB%B1/T%C3%A2m%20l%C3%BD%20h%E1%BB%8Dc%20qu%E1%BA%A3n%20l%C3%BD%20v%C3%A0%20lao%20%C4%91%E1%BB%99ng/S%E1%BA%AFp%20x%E1%BA%BFp%20%C4%91%E1%BB%99%20%C6%B0u%20ti%C3%AAn/S%E1%BB%B1%20tr%C3%AC%20ho%C3%A3n/V%E1%BB%81%20m%E1%BA%B7t%20nh%E1%BA%ADn%20th%E1%BB%A9c,%20con%20ng%C6%B0%E1%BB%9Di%20t%C6%B0%C6%A1ng%20lai%20c%E1%BB%A7a%20ch%C3%ADnh%20m%C3%ACnh%20kh%C3%B4ng%20li%C3%AAn%20quan%20g%C3%AC%20%C4%91%E1%BA%BFn%20m%C3%ACnh.md). Cho đến khi lý tưởng trở thành thực tế, thì còn nhức đầu 
 
 Để cho tiện, trong bài này "tài khoản" sẽ dùng để gọi cho các tài khoản thuộc loại mục đích sử dụng. Còn các tài khoản thuộc loại nơi lưu tiền sẽ được gọi là "nơi lưu tiền". 
 - Tài khoản: `Giúp:Lộc`. Các cấp độ đều là mục đích
@@ -86,7 +87,7 @@ Dấu của giao dịch:
 	- Chi phí cho việc giúp khi họ chưa trả
 - 0:
 	- Mình trả nợ giùm (nợ của họ với người khác thành nợ của họ với mình)
-	- Mình chuyển tiền giùm, và mục đích của việc chuyển không phải là để trả nợ. VD: [Nhận tiền hộ](../../../%F0%9F%92%B8H%C3%ACnh%20th%E1%BB%A9c%20ki%E1%BA%BFm%20ti%E1%BB%81n/Thi%E1%BA%BFu%20li%C3%AAm%20ch%C3%ADnh.%20Ph%E1%BA%A1m%20ph%C3%A1p/C%C3%A1ch%20l%C3%A0m%20c%E1%BB%A5%20th%E1%BB%83/Vi%20ph%E1%BA%A1m%20d%C3%A2n%20s%E1%BB%B1/L%C3%A0m%20k%E1%BA%BFt%20qu%E1%BA%A3%20%E1%BA%A3o/C%C3%A1c%20c%C3%B4ng%20vi%E1%BB%87c/S%C3%A0n%20th%C6%B0%C6%A1ng%20m%E1%BA%A1i%20%C4%91i%E1%BB%87n%20t%E1%BB%AD/Gi%E1%BB%AF%20ti%E1%BB%81n%20h%E1%BB%99.md)
+	- Mình chuyển tiền giùm, và mục đích của việc chuyển không phải là để trả nợ. VD: [Nhận tiền hộ](../../../%F0%9F%92%B8H%C3%ACnh%20th%E1%BB%A9c%20ki%E1%BA%BFm%20ti%E1%BB%81n/Thi%E1%BA%BFu%20li%C3%AAm%20ch%C3%ADnh.%20Ph%E1%BA%A1m%20ph%C3%A1p/C%C3%A1ch%20th%E1%BB%B1c%20hi%E1%BB%87n/L%C3%A0m%20k%E1%BA%BFt%20qu%E1%BA%A3%20%E1%BA%A3o/C%C3%A1c%20c%C3%B4ng%20vi%E1%BB%87c/S%C3%A0n%20th%C6%B0%C6%A1ng%20m%E1%BA%A1i%20%C4%91i%E1%BB%87n%20t%E1%BB%AD/Gi%E1%BB%AF%20ti%E1%BB%81n%20h%E1%BB%99.md)
 	- Chi phí cho việc giúp (VD: cà phê, đáo) và họ trả tại chỗ 
 - Dương:
 	- Tiền ủng hộ của mọi người
