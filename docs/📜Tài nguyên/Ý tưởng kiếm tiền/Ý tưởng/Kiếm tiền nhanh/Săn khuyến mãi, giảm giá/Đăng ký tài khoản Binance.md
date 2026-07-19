@@ -1,7 +1,7 @@
 ---
 share: true
 description: "Số tiền kiếm được: 200k"
-updated: 2026-07-10T18:23
+updated: 2026-07-14T19:47
 created: 2025-11-04T11:09
 ---
 Mô tả công việc:: Đăng ký tài khoản Binance mới theo link [này](https://www.binance.com/referral/mystery-box/lny-2026/claim?ref=GRO_40244_EOX6Q), kyc, làm nhiệm vụ nhanh 10ph 
@@ -54,4 +54,4 @@ Vào Discord Quả Cầu, kênh "Kiếm tiền nhanh" để thảo luận:
 ![](https://i.imgur.com/PffcLkI.png)
 
 > [!important] Nhìn toàn cảnh
-> Công việc này là một phần của dự án [Giúp nhau kiếm tiền](../../../../../%F0%9F%93%90D%E1%BB%B1%20%C3%A1n/Gi%C3%BAp%20nhau%20ki%E1%BA%BFm%20ti%E1%BB%81n/index.md). Đọc bài đó để hiểu thêm về mục tiêu dài hạn của dự án cũng như các lợi ích khác của bạn. Ngoài ra, bạn cũng có thể tham khảo thêm [các công việc kiếm tiền nhanh](C%C3%A1c%20c%C3%B4ng%20vi%E1%BB%87c%20ki%E1%BA%BFm%20ti%E1%BB%81n%20nhanh.md) khác.
+> Công việc này là một phần của dự án [Giúp nhau kiếm tiền](../../../../../%F0%9F%93%90D%E1%BB%B1%20%C3%A1n/Gi%C3%BAp%20nhau%20ki%E1%BA%BFm%20ti%E1%BB%81n/index.md). Đọc bài đó để hiểu thêm về mục tiêu dài hạn của dự án cũng như các lợi ích khác của bạn. Ngoài ra, bạn cũng có thể tham khảo thêm [các công việc kiếm tiền nhanh](../index.md) khác.
