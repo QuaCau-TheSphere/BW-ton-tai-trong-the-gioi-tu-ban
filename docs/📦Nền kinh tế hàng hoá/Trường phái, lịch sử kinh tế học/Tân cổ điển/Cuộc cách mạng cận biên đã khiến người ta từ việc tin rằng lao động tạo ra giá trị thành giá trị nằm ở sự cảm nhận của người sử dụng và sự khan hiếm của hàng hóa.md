@@ -1,9 +1,9 @@
 ---
 share: true
-updated: 2026-07-07T13:00
+updated: 2026-07-12T13:19
 created: 2025-09-03T09:46
 ---
-Khái niệm:: [Giá trị](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Kinh%20t%E1%BA%BF%20h%E1%BB%8Dc/Gi%C3%A1%20tr%E1%BB%8B.md)
+Khái niệm:: [Giá trị](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Kinh%20t%E1%BA%BF%20h%E1%BB%8Dc/Gi%C3%A1%20tr%E1%BB%8B.md), [Khan hiếm](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Kinh%20t%E1%BA%BF%20h%E1%BB%8Dc/Khan%20hi%E1%BA%BFm.md)
 Cuộc cách mạng cận biên giống như một bản remix của kinh tế học cổ điển: nó vẫn tin vào thị trường và tự do trao đổi, nhưng đã đổi nhạc nền từ “lao động tạo ra giá trị” sang “giá trị nằm ở sự cảm nhận của người sử dụng và sự khan hiếm của hàng hóa”. Và cũng từ đây, kinh tế học bắt đầu nói bằng đồ thị đường cong cung – cầu mà hầu hết chúng ta từng thấy ở lớp học phổ thông.
 
 Nguồn:: https://vhlinh.substack.com/p/lich-su-kinh-te-hoc-2-cuoc-cach-mang
