@@ -1,6 +1,6 @@
 ---
 share: true
-updated: 2026-07-08T21:18
+updated: 2026-07-18T20:33
 aliases:
   - làng sinh thái ở Việt Nam
 created: 2025-12-25T16:42
@@ -45,4 +45,4 @@ Sứ mệnh của VCIL hướng tới việc [Địa phương hóa](../../%F0%9F
 Dù nông nghiệp sinh thái dựa vào tri thức bản địa kết hợp với quan sát, bản chất nó cũng là một thực hành khoa học, dù nó không hướng đến sự chính xác cao như người làm khoa học chuyên nghiệp. Điều đó khiến cho nông nghiệp sinh thái không khác mấy với nông nghiệp công nghiệp (sử dụng phân bón, thuốc trừ sâu để kích thích tăng trưởng) và nông nghiệp công nghệ cao. Điều khác biệt ở chỗ người thực hành nông nghiệp sinh thái cho rằng không thể có tăng trưởng vô hạn trên hành tinh hữu hạn, rằng không thể xem kinh tế, xã hội và sinh thái là đồng đẳng với nhau, mà sinh thái phải lớn hơn hẳn. [Tăng trưởng xanh đến nay vẫn chỉ là giấc mơ của mô hình tiêu thụ vô hạn trong một thế giới hữu hạn](../../%F0%9F%93%A6N%E1%BB%81n%20kinh%20t%E1%BA%BF%20h%C3%A0ng%20ho%C3%A1/C%C3%A1c%20xu%20th%E1%BA%BF%20kinh%20t%E1%BA%BF%20m%E1%BB%9Bi/N%E1%BB%81n%20kinh%20t%E1%BA%BF%20xanh/T%C4%83ng%20tr%C6%B0%E1%BB%9Fng%20xanh/T%C4%83ng%20tr%C6%B0%E1%BB%9Fng%20xanh%20%C4%91%E1%BA%BFn%20nay%20v%E1%BA%ABn%20ch%E1%BB%89%20l%C3%A0%20gi%E1%BA%A5c%20m%C6%A1%20c%E1%BB%A7a%20m%C3%B4%20h%C3%ACnh%20ti%C3%AAu%20th%E1%BB%A5%20v%C3%B4%20h%E1%BA%A1n%20trong%20m%E1%BB%99t%20th%E1%BA%BF%20gi%E1%BB%9Bi%20h%E1%BB%AFu%20h%E1%BA%A1n.md).
 
 Khái niệm:: [Nông nghiệp, nông thôn](../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Giai%20c%E1%BA%A5p.%20Ph%C3%A1t%20tri%E1%BB%83n%20b%E1%BB%81n%20v%E1%BB%AFng/N%C3%B4ng%20nghi%E1%BB%87p,%20n%C3%B4ng%20th%C3%B4n.md), [Sinh thái](../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Sinh%20th%C3%A1i.md)
-[Tạo dòng tiền từ nông nghiệp sinh thái](../../%F0%9F%93%90D%E1%BB%B1%20%C3%A1n/X%C3%A2y%20d%E1%BB%B1ng%20h%E1%BB%87%20th%E1%BB%91ng%20kinh%20t%E1%BA%BF%20m%E1%BB%9Bi/N%C3%B4ng%20nghi%E1%BB%87p/T%E1%BA%A1o%20d%C3%B2ng%20ti%E1%BB%81n%20t%E1%BB%AB%20n%C3%B4ng%20nghi%E1%BB%87p%20sinh%20th%C3%A1i.md)
+[Làm sao để kiếm dòng tiền từ tài sản vô hình](../../%F0%9F%93%90D%E1%BB%B1%20%C3%A1n/Gi%C3%BAp%20nhau%20ki%E1%BA%BFm%20ti%E1%BB%81n/L%C3%A0m%20sao%20%C4%91%E1%BB%83%20ki%E1%BA%BFm%20d%C3%B2ng%20ti%E1%BB%81n%20t%E1%BB%AB%20t%C3%A0i%20s%E1%BA%A3n%20v%C3%B4%20h%C3%ACnh.md)
