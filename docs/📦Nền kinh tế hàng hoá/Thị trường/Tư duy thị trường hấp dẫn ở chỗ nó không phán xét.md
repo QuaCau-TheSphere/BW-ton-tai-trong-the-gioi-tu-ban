@@ -1,10 +1,14 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2026-07-07T13:00
+updated: 2026-07-11T12:21
 ---
+Khái niệm:: [Thị trường](../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Kinh%20t%E1%BA%BF%20h%E1%BB%8Dc/Th%E1%BB%8B%20tr%C6%B0%E1%BB%9Dng.md), [Đạo đức](../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/%C4%90%E1%BA%A1o%20%C4%91%E1%BB%A9c.md)
 [Thị trường không chỉ phân bố hàng hoá mà còn bộc lộ, khuyến khích con người có những thái độ nhất định với các loại hàng hoá](./Th%E1%BB%8B%20tr%C6%B0%E1%BB%9Dng%20kh%C3%B4ng%20ch%E1%BB%89%20ph%C3%A2n%20b%E1%BB%91%20h%C3%A0ng%20ho%C3%A1%20m%C3%A0%20c%C3%B2n%20b%E1%BB%99c%20l%E1%BB%99,%20khuy%E1%BA%BFn%20kh%C3%ADch%20con%20ng%C6%B0%E1%BB%9Di%20c%C3%B3%20nh%E1%BB%AFng%20th%C3%A1i%20%C4%91%E1%BB%99%20nh%E1%BA%A5t%20%C4%91%E1%BB%8Bnh%20v%E1%BB%9Bi%20c%C3%A1c%20lo%E1%BA%A1i%20h%C3%A0ng%20ho%C3%A1.md)
 
 > Nếu có người sẵn lòng trả tiền để được phục vụ tình dục hay để mua một quả thận, thì câu hỏi duy nhất các nhà kinh tế học đặt ra là "Bao nhiêu tiền?" Thị trường không chỉ tay vào mặt và bảo: Không được. Nó không phân biệt lựa chọn nào cao quý, lựa chọn nào tầm thường. Mỗi người tham gia giao dịch được tự quyết định mình đặt giá bao nhiêu cho hàng hoá, dịch vụ được đem ra mua bán. 
 
 Nguồn:: [Tiền không mua được gì](../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Ngu%E1%BB%93n/Ti%E1%BB%81n%20kh%C3%B4ng%20mua%20%C4%91%C6%B0%E1%BB%A3c%20g%C3%AC.md)
+
+[Công việc vô nghĩa, tổ chức vô lý](../Kinh%20t%E1%BA%BF%20ch%C3%ADnh%20tr%E1%BB%8B/Ch%E1%BB%A7%20ngh%C4%A9a%20t%C6%B0%20b%E1%BA%A3n,%20t%C3%A2n%20t%E1%BB%B1%20do/C%C3%B4ng%20vi%E1%BB%87c%20v%C3%B4%20ngh%C4%A9a,%20t%E1%BB%95%20ch%E1%BB%A9c%20v%C3%B4%20l%C3%BD.md). [Các hình thức của sự tệ](../../%F0%9F%92%B8H%C3%ACnh%20th%E1%BB%A9c%20ki%E1%BA%BFm%20ti%E1%BB%81n/Thi%E1%BA%BFu%20li%C3%AAm%20ch%C3%ADnh.%20Ph%E1%BA%A1m%20ph%C3%A1p/index.md)
+[Tiền đơn giản hoá quá trình đáp ứng nhu cầu](../Kinh%20t%E1%BA%BF%20h%E1%BB%8Dc%20t%C3%A2m%20l%C3%BD/Ti%E1%BB%81n%20%C4%91%C6%A1n%20gi%E1%BA%A3n%20ho%C3%A1%20qu%C3%A1%20tr%C3%ACnh%20%C4%91%C3%A1p%20%E1%BB%A9ng%20nhu%20c%E1%BA%A7u.md)

@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-09-27T13:00
-updated: 2026-07-10T15:04
+updated: 2026-07-25T15:17
 aliases:
   - Lời mời tham gia nhóm giúp nhau kiếm tiền
 title: Nhóm giúp nhau kiếm tiền
@@ -35,8 +35,9 @@ Vì nhóm vận hành theo [Nền kinh tế quà tặng](../../%F0%9F%8E%81Ph%C3
 
 ## Ai là người được giúp?
 - [Bản câu hỏi cho người cần được hỗ trợ thoát nợ](../Gi%C3%BAp%20nhau%20tho%C3%A1t%20n%E1%BB%A3/T%C3%A0i%20li%E1%BB%87u/B%E1%BA%A3n%20c%C3%A2u%20h%E1%BB%8Fi/B%E1%BA%A3n%20c%C3%A2u%20h%E1%BB%8Fi%20cho%20ng%C6%B0%E1%BB%9Di%20c%E1%BA%A7n%20%C4%91%C6%B0%E1%BB%A3c%20h%E1%BB%97%20tr%E1%BB%A3%20tho%C3%A1t%20n%E1%BB%A3.md)
-- [Làm sao để biết là việc giúp đang không bị lợi dụng](./L%C3%A0m%20sao%20%C4%91%E1%BB%83%20bi%E1%BA%BFt%20l%C3%A0%20vi%E1%BB%87c%20gi%C3%BAp%20%C4%91ang%20kh%C3%B4ng%20b%E1%BB%8B%20l%E1%BB%A3i%20d%E1%BB%A5ng.md)
+- [Làm sao để biết là việc giúp đang không bị lợi dụng](./T%C3%A0i%20li%E1%BB%87u/L%C3%A0m%20sao%20%C4%91%E1%BB%83%20bi%E1%BA%BFt%20l%C3%A0%20vi%E1%BB%87c%20gi%C3%BAp%20%C4%91ang%20kh%C3%B4ng%20b%E1%BB%8B%20l%E1%BB%A3i%20d%E1%BB%A5ng.md)
 - [Các lý do cho việc giúp đỡ hoặc không giúp đỡ](../Gi%C3%BAp%20nhau%20tho%C3%A1t%20n%E1%BB%A3/T%C3%A0i%20li%E1%BB%87u/Ni%E1%BB%81m%20tin/C%C3%A1c%20l%C3%BD%20do%20cho%20vi%E1%BB%87c%20gi%C3%BAp%20%C4%91%E1%BB%A1%20ho%E1%BA%B7c%20kh%C3%B4ng%20gi%C3%BAp%20%C4%91%E1%BB%A1.md)
+- [Tiêu chí giúp đỡ. Mức độ ưu tiên, chấp nhận chịu khó, đánh đổi](../Gi%C3%BAp%20nhau%20tho%C3%A1t%20n%E1%BB%A3/T%C3%A0i%20li%E1%BB%87u/Ti%C3%AAu%20ch%C3%AD%20gi%C3%BAp%20%C4%91%E1%BB%A1.%20M%E1%BB%A9c%20%C4%91%E1%BB%99%20%C6%B0u%20ti%C3%AAn,%20ch%E1%BA%A5p%20nh%E1%BA%ADn%20ch%E1%BB%8Bu%20kh%C3%B3,%20%C4%91%C3%A1nh%20%C4%91%E1%BB%95i.md)
 
 ## Các công việc để phát triển nhóm 
 Các sản phẩm của nhóm sẽ cho bạn cơ hội tiếp xúc các kỹ năng và kiến thức trong các lĩnh vực khác nhau tuỳ theo nhu cầu của bạn. Việc tham gia những hoạt động này là tuỳ chọn.

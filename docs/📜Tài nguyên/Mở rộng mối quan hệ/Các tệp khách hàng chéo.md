@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-04-08T15:16
-updated: 2026-07-07T13:00
+updated: 2026-07-25T15:53
 ---
 ## Khách hàng cá nhân
 - Trung gian thanh toán: Momo, VNPAY, v.v.
@@ -22,4 +22,3 @@ Mua nhóm Zalo tệp người tiêu dùng hay săn voucher Shopee, Lazada, xong 
 ## Khách hàng là người đầu tư mạo hiểm
 - Phù hợp với công ty chứng khoán
 - Còn người đã đầu tư chứng khoán lâu thì tự đầu tư, (VD: bất động  sản) 
-
