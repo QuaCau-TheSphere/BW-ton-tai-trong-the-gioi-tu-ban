@@ -1,13 +1,19 @@
 ---
 share: true
 created: 2023-11-24T16:59
-updated: 2026-07-10T18:25
+updated: 2026-07-25T15:35
 aliases:
   - Các ý tưởng kiếm tiền
   - Danh sách tổng hợp một số ý tưởng kiếm tiền
 description: Các ý tưởng kiếm tiền và yêu cầu đầu vào của chúng
 title: Một số ý tưởng kiếm tiền
 ---
+Đầu tiên phải tự hỏi vì sao mình cần tiền:
+- Để không chết đói? [Việt Nam không ai chết đói](../../../%F0%9F%8F%9B%EF%B8%8FTh%E1%BB%83%20ch%E1%BA%BF,%20ch%C3%ADnh%20s%C3%A1ch%20c%C3%B4ng,%20qu%E1%BA%A3n%20tr%E1%BB%8B%20nh%C3%A0%20n%C6%B0%E1%BB%9Bc%20%E1%BB%9F%20Vi%E1%BB%87t%20Nam/Kinh%20t%E1%BA%BF%20v%C4%A9%20m%C3%B4/Hi%E1%BB%87n%20tr%E1%BA%A1ng/Vi%E1%BB%87t%20Nam%20kh%C3%B4ng%20ai%20ch%E1%BA%BFt%20%C4%91%C3%B3i,%20ch%E1%BB%89%20c%C3%B3%20ngh%C3%A8o%20%C4%91a%20chi%E1%BB%81u.md)
+- Để có cuộc sống thoải mái? 
+
+Sau đó xây dựng [Kế hoạch tài chính](../../../%F0%9F%92%B8H%C3%ACnh%20th%E1%BB%A9c%20ki%E1%BA%BFm%20ti%E1%BB%81n/K%E1%BA%BF%20ho%E1%BA%A1ch%20t%C3%A0i%20ch%C3%ADnh/index.md)
+
 Đọc chi tiết ở các bài sau:
 - [Các công việc kiếm tiền nhanh](./Ki%E1%BA%BFm%20ti%E1%BB%81n%20nhanh/index.md)
 - [Các ý tưởng kinh doanh, đầu tư](./T%E1%BB%B1%20kinh%20doanh,%20%C4%91%E1%BA%A7u%20t%C6%B0/index.md)
