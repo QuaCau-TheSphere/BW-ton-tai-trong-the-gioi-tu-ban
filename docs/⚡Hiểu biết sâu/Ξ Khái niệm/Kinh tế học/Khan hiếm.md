@@ -1,11 +1,20 @@
 ---
 share: true
-updated: 2026-07-07T12:58
+updated: 2026-07-12T13:20
 created: 2025-10-25T11:31
 ---
-- \-: 
+- 🎁Phát triển bền vững. Các nền kinh tế thay thế: 
+    - [Nếu không thấy tài nguyên khan hiếm thì cũng không cần thu nhập thụ động](../../../%F0%9F%8E%81Ph%C3%A1t%20tri%E1%BB%83n%20b%E1%BB%81n%20v%E1%BB%AFng.%20C%C3%A1c%20n%E1%BB%81n%20kinh%20t%E1%BA%BF%20thay%20th%E1%BA%BF/Th%E1%BB%B1c%20tr%E1%BA%A1ng/N%E1%BA%BFu%20kh%C3%B4ng%20th%E1%BA%A5y%20t%C3%A0i%20nguy%C3%AAn%20khan%20hi%E1%BA%BFm%20th%C3%AC%20c%C5%A9ng%20kh%C3%B4ng%20c%E1%BA%A7n%20thu%20nh%E1%BA%ADp%20th%E1%BB%A5%20%C4%91%E1%BB%99ng.md)
     - [Thứ khan hiếm là sự tập trung, còn những nguồn tài nguyên khác thì luôn có](../../../%F0%9F%8E%81Ph%C3%A1t%20tri%E1%BB%83n%20b%E1%BB%81n%20v%E1%BB%AFng.%20C%C3%A1c%20n%E1%BB%81n%20kinh%20t%E1%BA%BF%20thay%20th%E1%BA%BF/Th%E1%BB%B1c%20tr%E1%BA%A1ng/Th%E1%BB%A9%20khan%20hi%E1%BA%BFm%20l%C3%A0%20s%E1%BB%B1%20t%E1%BA%ADp%20trung,%20c%C3%B2n%20nh%E1%BB%AFng%20ngu%E1%BB%93n%20t%C3%A0i%20nguy%C3%AAn%20kh%C3%A1c%20th%C3%AC%20lu%C3%B4n%20c%C3%B3.md)
+
+- 📜Tài nguyên: 
     - [Kim cương là khan hiếm](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Ni%E1%BB%81m%20tin,%20di%E1%BB%85n%20ng%C3%B4n/Ch%C3%A0o%20m%E1%BB%9Di/Kim%20c%C6%B0%C6%A1ng%20l%C3%A0%20khan%20hi%E1%BA%BFm.md)
+    - [Tư duy khan hiếm](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/S%E1%BB%91ng%20v%E1%BB%ABa%20%C4%91%E1%BB%A7,%20b%E1%BB%81n%20v%E1%BB%AFng,%20ti%E1%BA%BFt%20ki%E1%BB%87m/T%C6%B0%20duy%20khan%20hi%E1%BA%BFm.md)
+
+- 📦Nền kinh tế hàng hoá: 
     - [Đi cùng với khái niệm bền vững là khan hiếm](../../../%F0%9F%93%A6N%E1%BB%81n%20kinh%20t%E1%BA%BF%20h%C3%A0ng%20ho%C3%A1/C%C3%A1c%20xu%20th%E1%BA%BF%20kinh%20t%E1%BA%BF%20m%E1%BB%9Bi/%C4%90i%20c%C3%B9ng%20v%E1%BB%9Bi%20kh%C3%A1i%20ni%E1%BB%87m%20b%E1%BB%81n%20v%E1%BB%AFng%20l%C3%A0%20khan%20hi%E1%BA%BFm.md)
+    - [Những tài nguyên vô hạn sẽ làm những tài nguyên không vô hạn đi kèm với nó trở nên khan hiếm hơn](../../../%F0%9F%93%A6N%E1%BB%81n%20kinh%20t%E1%BA%BF%20h%C3%A0ng%20ho%C3%A1/Gi%C3%A1%20tr%E1%BB%8B,%20gi%C3%A1%20c%E1%BA%A3/Nh%E1%BB%AFng%20t%C3%A0i%20nguy%C3%AAn%20v%C3%B4%20h%E1%BA%A1n%20s%E1%BA%BD%20l%C3%A0m%20nh%E1%BB%AFng%20t%C3%A0i%20nguy%C3%AAn%20kh%C3%B4ng%20v%C3%B4%20h%E1%BA%A1n%20%C4%91i%20k%C3%A8m%20v%E1%BB%9Bi%20n%C3%B3%20tr%E1%BB%9F%20n%C3%AAn%20khan%20hi%E1%BA%BFm%20h%C6%A1n.md)
+    - [❓Người làm vì tiền có luôn là người có tư duy khan hiếm không](../../../%F0%9F%93%A6N%E1%BB%81n%20kinh%20t%E1%BA%BF%20h%C3%A0ng%20ho%C3%A1/Nh%C3%A2n%20h%E1%BB%8Dc/%E2%9D%93Ng%C6%B0%E1%BB%9Di%20l%C3%A0m%20v%C3%AC%20ti%E1%BB%81n%20c%C3%B3%20lu%C3%B4n%20l%C3%A0%20ng%C6%B0%E1%BB%9Di%20c%C3%B3%20t%C6%B0%20duy%20khan%20hi%E1%BA%BFm%20kh%C3%B4ng.md)
+    - [Cuộc cách mạng cận biên đã khiến người ta từ việc tin rằng lao động tạo ra giá trị thành giá trị nằm ở sự cảm nhận của người sử dụng và sự khan hiếm của hàng hóa](../../../%F0%9F%93%A6N%E1%BB%81n%20kinh%20t%E1%BA%BF%20h%C3%A0ng%20ho%C3%A1/Tr%C6%B0%E1%BB%9Dng%20ph%C3%A1i,%20l%E1%BB%8Bch%20s%E1%BB%AD%20kinh%20t%E1%BA%BF%20h%E1%BB%8Dc/T%C3%A2n%20c%E1%BB%95%20%C4%91i%E1%BB%83n/Cu%E1%BB%99c%20c%C3%A1ch%20m%E1%BA%A1ng%20c%E1%BA%ADn%20bi%C3%AAn%20%C4%91%C3%A3%20khi%E1%BA%BFn%20ng%C6%B0%E1%BB%9Di%20ta%20t%E1%BB%AB%20vi%E1%BB%87c%20tin%20r%E1%BA%B1ng%20lao%20%C4%91%E1%BB%99ng%20t%E1%BA%A1o%20ra%20gi%C3%A1%20tr%E1%BB%8B%20th%C3%A0nh%20gi%C3%A1%20tr%E1%BB%8B%20n%E1%BA%B1m%20%E1%BB%9F%20s%E1%BB%B1%20c%E1%BA%A3m%20nh%E1%BA%ADn%20c%E1%BB%A7a%20ng%C6%B0%E1%BB%9Di%20s%E1%BB%AD%20d%E1%BB%A5ng%20v%C3%A0%20s%E1%BB%B1%20khan%20hi%E1%BA%BFm%20c%E1%BB%A7a%20h%C3%A0ng%20h%C3%B3a.md)
 
 
