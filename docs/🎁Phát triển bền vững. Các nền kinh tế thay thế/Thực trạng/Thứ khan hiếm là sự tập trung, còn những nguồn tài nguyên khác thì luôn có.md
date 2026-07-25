@@ -1,6 +1,6 @@
 ---
 share: true
-updated: 2026-07-07T12:59
+updated: 2026-07-18T20:33
 created: 2025-10-20T09:52
 ---
 Khái niệm:: [Khan hiếm](../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Kinh%20t%E1%BA%BF%20h%E1%BB%8Dc/Khan%20hi%E1%BA%BFm.md)
@@ -12,3 +12,5 @@ Khái niệm:: [Khan hiếm](../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A
 [Đi cùng với khái niệm bền vững là khan hiếm](../../%F0%9F%93%A6N%E1%BB%81n%20kinh%20t%E1%BA%BF%20h%C3%A0ng%20ho%C3%A1/C%C3%A1c%20xu%20th%E1%BA%BF%20kinh%20t%E1%BA%BF%20m%E1%BB%9Bi/%C4%90i%20c%C3%B9ng%20v%E1%BB%9Bi%20kh%C3%A1i%20ni%E1%BB%87m%20b%E1%BB%81n%20v%E1%BB%AFng%20l%C3%A0%20khan%20hi%E1%BA%BFm.md)
 Nguồn:: 
 [Tài sản vô hình nói chung là không nhất thiết phải chịu đựng những thất bại điển hình của thị trường là không cạnh tranh và không thể loại trừ](../../%F0%9F%93%A6N%E1%BB%81n%20kinh%20t%E1%BA%BF%20h%C3%A0ng%20ho%C3%A1/Th%E1%BB%8B%20tr%C6%B0%E1%BB%9Dng/T%C3%A0i%20s%E1%BA%A3n%20v%C3%B4%20h%C3%ACnh%20n%C3%B3i%20chung%20l%C3%A0%20kh%C3%B4ng%20nh%E1%BA%A5t%20thi%E1%BA%BFt%20ph%E1%BA%A3i%20ch%E1%BB%8Bu%20%C4%91%E1%BB%B1ng%20nh%E1%BB%AFng%20th%E1%BA%A5t%20b%E1%BA%A1i%20%C4%91i%E1%BB%83n%20h%C3%ACnh%20c%E1%BB%A7a%20th%E1%BB%8B%20tr%C6%B0%E1%BB%9Dng%20l%C3%A0%20kh%C3%B4ng%20c%E1%BA%A1nh%20tranh%20v%C3%A0%20kh%C3%B4ng%20th%E1%BB%83%20lo%E1%BA%A1i%20tr%E1%BB%AB.md)
+
+[Làm sao để kiếm dòng tiền từ tài sản vô hình](../../%F0%9F%93%90D%E1%BB%B1%20%C3%A1n/Gi%C3%BAp%20nhau%20ki%E1%BA%BFm%20ti%E1%BB%81n/L%C3%A0m%20sao%20%C4%91%E1%BB%83%20ki%E1%BA%BFm%20d%C3%B2ng%20ti%E1%BB%81n%20t%E1%BB%AB%20t%C3%A0i%20s%E1%BA%A3n%20v%C3%B4%20h%C3%ACnh.md)
