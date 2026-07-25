@@ -1,6 +1,7 @@
 ---
 share: true
-updated: 2026-07-06T21:09
+updated: 2026-07-14T19:47
+created: 2025-09-10T08:45
 ---
 
 ## Miêu tả ngắn gọn về bản thân (ví dụ: sở thích, đam mê, nguyện vọng, ước mơ, định hướng...)  *
@@ -16,16 +17,16 @@ Tôi là Nguyễn Hữu Lộc, sinh ngày 25/06/1999. Tôi thích chạy bộ, �
 
 | Hoạt động của tôi                                                               | Thành phẩm                                                                                                                 |
 | -------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
-| Tạo ra [ các công việc "việc nhẹ lương cao"](C%C3%A1c%20c%C3%B4ng%20vi%E1%BB%87c%20ki%E1%BA%BFm%20ti%E1%BB%81n%20nhanh.md) | Tầm 10 người tham gia                                                                                                      |
+| Tạo ra [ các công việc "việc nhẹ lương cao"](../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/%C3%9D%20t%C6%B0%E1%BB%9Fng%20ki%E1%BA%BFm%20ti%E1%BB%81n/%C3%9D%20t%C6%B0%E1%BB%9Fng/Ki%E1%BA%BFm%20ti%E1%BB%81n%20nhanh/index.md) | Tầm 10 người tham gia                                                                                                      |
 | [Tìm nguồn cho mượn tiền qua đêm](../Gi%C3%BAp%20nhau%20tho%C3%A1t%20n%E1%BB%A3/C%C3%B4ng%20vi%E1%BB%87c/T%C3%ACm%20ngu%E1%BB%93n%20cho%20m%C6%B0%E1%BB%A3n%20ti%E1%BB%81n%20qua%20%C4%91%C3%AAm.md)                                                 | Nhật có [điểm tín dụng hạng 2](../Gi%C3%BAp%20nhau%20tho%C3%A1t%20n%E1%BB%A3/Ng%C6%B0%E1%BB%9Di%20th%E1%BB%A5%20h%C6%B0%E1%BB%9Fng/L%C3%BD%20Minh%20Nh%E1%BA%ADt/H%E1%BB%93%20s%C6%A1%20vay.md) |
-| [Gom tài nguyên làm MMO](../../%F0%9F%92%B8H%C3%ACnh%20th%E1%BB%A9c%20ki%E1%BA%BFm%20ti%E1%BB%81n/Thi%E1%BA%BFu%20li%C3%AAm%20ch%C3%ADnh.%20Ph%E1%BA%A1m%20ph%C3%A1p/C%C3%A1ch%20l%C3%A0m%20c%E1%BB%A5%20th%E1%BB%83/Tr%C3%AAn%20m%E1%BA%A1ng/Gom%20t%C3%A0i%20nguy%C3%AAn%20l%C3%A0m%20MMO.md)                                                       |                                                                                                                            |
+| [Tài nguyên làm MMO](../../%F0%9F%92%B8H%C3%ACnh%20th%E1%BB%A9c%20ki%E1%BA%BFm%20ti%E1%BB%81n/Thi%E1%BA%BFu%20li%C3%AAm%20ch%C3%ADnh.%20Ph%E1%BA%A1m%20ph%C3%A1p/C%C3%B4ng%20c%E1%BB%A5%20th%E1%BB%B1c%20hi%E1%BB%87n/Tr%C3%AAn%20m%E1%BA%A1ng/Ki%E1%BA%BFm%20ti%E1%BB%81n%20tr%E1%BB%B1c%20tuy%E1%BA%BFn%20(MMO)/T%C3%A0i%20nguy%C3%AAn%20l%C3%A0m%20MMO.md)                                                       |                                                                                                                            |
 
 Những hoạt động này là đầu vào để Nhật làm những hoạt động sau:
 
 | Hoạt động của Nhật                                                                       | Thành phẩm                                                                                                                                |
 | ---------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
 | Xây dựng nhóm [Giúp nhau kiếm tiền](../Gi%C3%BAp%20nhau%20ki%E1%BA%BFm%20ti%E1%BB%81n/index.md)                                                    | Có được nhóm 10 người hoạt động                                                                                                           |
-| Ghi chép nhân học nửa mùa                                                                | [Nhóm Biên Hoà](../Gi%C3%BAp%20nhau%20ki%E1%BA%BFm%20ti%E1%BB%81n/Gi%C3%BAp%20nh%C3%A2n%20vi%C3%AAn%20c%C3%B4ng%20ty%20%C4%91%E1%BA%A1t%20ch%E1%BB%89%20ti%C3%AAu/Ch%C6%A1i%20ch%C3%ADnh%20s%C3%A1ch/T%C3%A0i%20li%E1%BB%87u%20v%E1%BB%81%20t%E1%BB%ABng%20c%C3%B4ng%20ty/GM%20Mall/Nh%C3%B3m%20Bi%C3%AAn%20Ho%C3%A0.md)                                                                                                                         |
+| Ghi chép nhân học nửa mùa                                                                | [Nhóm Biên Hoà](../../%F0%9F%92%B8H%C3%ACnh%20th%E1%BB%A9c%20ki%E1%BA%BFm%20ti%E1%BB%81n/Thi%E1%BA%BFu%20li%C3%AAm%20ch%C3%ADnh.%20Ph%E1%BA%A1m%20ph%C3%A1p/Tr%C6%B0%E1%BB%9Dng%20h%E1%BB%A3p%20c%E1%BB%A5%20th%E1%BB%83/Ch%C6%A1i%20ch%C3%ADnh%20s%C3%A1ch/T%C3%A0i%20li%E1%BB%87u%20v%E1%BB%81%20t%E1%BB%ABng%20c%C3%B4ng%20ty/GM%20Mall/Nh%C3%B3m%20Bi%C3%AAn%20Ho%C3%A0.md)                                                                                                                         |
 | Xây dựng mạng kết nối nhu cầu                                                            | [Nhóm Zalo chia sẻ công việc, cơ hội của các nạn nhân của GM Mall](https://zalo.me/g/ojezyd465)                                           |
 | Hỗ trợ cho các tổ chức cùng định hướng                                                   | Chia sẻ các bài truyền thông về các hoạt động của các tổ chức phát triển bền vững khác (như Kulavietnam, SocialLife, VCIL) trong các nhóm |
 | [Xây dựng quỹ tín dụng vi mô](../Gi%C3%BAp%20nhau%20tho%C3%A1t%20n%E1%BB%A3/Qu%E1%BB%B9/Qu%E1%BB%B9%20t%C3%ADn%20d%E1%BB%A5ng%20Qu%E1%BA%A3%20C%E1%BA%A7u.md) | [Quỹ giúp nhau giữ tài sản thế chấp ngân hàng](../Gi%C3%BAp%20nhau%20tho%C3%A1t%20n%E1%BB%A3/Qu%E1%BB%B9/Qu%E1%BB%B9%20gi%C3%BAp%20nhau%20gi%E1%BB%AF%20t%C3%A0i%20s%E1%BA%A3n%20th%E1%BA%BF%20ch%E1%BA%A5p%20ng%C3%A2n%20h%C3%A0ng.md)                                                                                                    |
