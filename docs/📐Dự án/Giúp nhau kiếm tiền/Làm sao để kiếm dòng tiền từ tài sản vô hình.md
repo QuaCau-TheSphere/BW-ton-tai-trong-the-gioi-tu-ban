@@ -1,8 +1,9 @@
 ---
 share: true
-updated: 2026-07-18T20:34
+updated: 2026-07-27T00:07
 created: 2025-12-25T16:42
 ---
 Khái niệm:: [Dòng tiền](../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/T%C3%ADn%20d%E1%BB%A5ng/D%C3%B2ng%20ti%E1%BB%81n.md), [Tài sản vô hình](../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Kinh%20t%E1%BA%BF%20h%E1%BB%8Dc/T%C3%A0i%20s%E1%BA%A3n%20v%C3%B4%20h%C3%ACnh.md)
 [❓Tài sản vô hình có chi phí biên gần như bằng 0](../../%F0%9F%93%A6N%E1%BB%81n%20kinh%20t%E1%BA%BF%20h%C3%A0ng%20ho%C3%A1/Th%E1%BB%8B%20tr%C6%B0%E1%BB%9Dng/%E2%9D%93T%C3%A0i%20s%E1%BA%A3n%20v%C3%B4%20h%C3%ACnh%20c%C3%B3%20chi%20ph%C3%AD%20bi%C3%AAn%20g%E1%BA%A7n%20nh%C6%B0%20b%E1%BA%B1ng%200.md)[❓Những thứ có chi phí biên gần như bằng 0 tạo ra dòng tiền](../../%F0%9F%93%A6N%E1%BB%81n%20kinh%20t%E1%BA%BF%20h%C3%A0ng%20ho%C3%A1/Th%E1%BB%8B%20tr%C6%B0%E1%BB%9Dng/%E2%9D%93Nh%E1%BB%AFng%20th%E1%BB%A9%20c%C3%B3%20chi%20ph%C3%AD%20bi%C3%AAn%20g%E1%BA%A7n%20nh%C6%B0%20b%E1%BA%B1ng%200%20t%E1%BA%A1o%20ra%20d%C3%B2ng%20ti%E1%BB%81n.md)
 [❓Nguyên tắc về định giá tài sản vô hình cũng giống như định giá công sức lao động](../../%F0%9F%93%A6N%E1%BB%81n%20kinh%20t%E1%BA%BF%20h%C3%A0ng%20ho%C3%A1/Th%E1%BB%8B%20tr%C6%B0%E1%BB%9Dng/%E2%9D%93Nguy%C3%AAn%20t%E1%BA%AFc%20v%E1%BB%81%20%C4%91%E1%BB%8Bnh%20gi%C3%A1%20t%C3%A0i%20s%E1%BA%A3n%20v%C3%B4%20h%C3%ACnh%20c%C5%A9ng%20gi%E1%BB%91ng%20nh%C6%B0%20%C4%91%E1%BB%8Bnh%20gi%C3%A1%20c%C3%B4ng%20s%E1%BB%A9c%20lao%20%C4%91%E1%BB%99ng.md)
+[Những tài nguyên vô hạn sẽ làm những tài nguyên không vô hạn đi kèm với nó trở nên khan hiếm hơn](../../%F0%9F%93%A6N%E1%BB%81n%20kinh%20t%E1%BA%BF%20h%C3%A0ng%20ho%C3%A1/Gi%C3%A1%20tr%E1%BB%8B,%20gi%C3%A1%20c%E1%BA%A3/Nh%E1%BB%AFng%20t%C3%A0i%20nguy%C3%AAn%20v%C3%B4%20h%E1%BA%A1n%20s%E1%BA%BD%20l%C3%A0m%20nh%E1%BB%AFng%20t%C3%A0i%20nguy%C3%AAn%20kh%C3%B4ng%20v%C3%B4%20h%E1%BA%A1n%20%C4%91i%20k%C3%A8m%20v%E1%BB%9Bi%20n%C3%B3%20tr%E1%BB%9F%20n%C3%AAn%20khan%20hi%E1%BA%BFm%20h%C6%A1n.md)
