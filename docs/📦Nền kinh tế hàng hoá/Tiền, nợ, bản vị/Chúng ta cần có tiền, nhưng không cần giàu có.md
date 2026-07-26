@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2026-07-07T13:00
+updated: 2026-07-27T00:01
 ---
 Tiền bạc có làm cho người ta hạnh phúc hay không ? Câu trả lời là có. Nhưng với một giới hạn. Giới hạn ấy là mức thu nhập 75 ngàn Đô La một năm ! Đó là kết quả của một nghiên cứu được công bố ngày 7 tháng 9, 2010 trên « Proceedings of the National Academy of Sciences », dựa trên một thống kê được thực hiện bởi viện Gallup, qua 450 ngàn câu trả lời thăm dò mức độ hạnh phúc của 1000 người Mỹ. Phân tích kết quả này, nhà Kinh Tế và Tâm Lý Học Daniel Kahneman (Nobel Kinh tế 2002), và Angus Deaton (Nobel kinh tế 2015), thuộc Đại học Princeton, cho biết là vượt quá mức thu nhập 75 ngàn Đô La một năm, cảm giác hạnh phúc sẽ không gia tăng. Sự bớt lo lắng hay bớt đau khổ cũng sẽ không suy giảm. 
 
@@ -28,3 +28,5 @@ Tiền có mua được hạnh phúc không? Nhiều người hay trích nghiên
 - Bài báo chi tiết: https://www.pnas.org/doi/epdf/10.1073/pnas.2208661120
 
 Khái niệm:: [Tiền](../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/T%C3%A0i%20s%E1%BA%A3n/Ti%E1%BB%81n.md), [Giàu, người giàu](../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Ki%E1%BA%BFm%20ti%E1%BB%81n/Gi%C3%A0u,%20ng%C6%B0%E1%BB%9Di%20gi%C3%A0u.md)
+[Chúng ta đi tìm hạnh phúc trên những máy chạy bộ](../../%F0%9F%8F%A2V%E1%BA%ADn%20h%C3%A0nh%20doanh%20nghi%E1%BB%87p/Nh%C3%A2n%20s%E1%BB%B1/T%C3%A2m%20l%C3%BD%20h%E1%BB%8Dc%20qu%E1%BA%A3n%20l%C3%BD%20v%C3%A0%20lao%20%C4%91%E1%BB%99ng/Ch%C3%BAng%20ta%20%C4%91i%20t%C3%ACm%20h%E1%BA%A1nh%20ph%C3%BAc%20tr%C3%AAn%20nh%E1%BB%AFng%20m%C3%A1y%20ch%E1%BA%A1y%20b%E1%BB%99.md)
+[Tiền không mua được hạnh phúc](../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Ni%E1%BB%81m%20tin,%20di%E1%BB%85n%20ng%C3%B4n/Ti%E1%BB%81n/%C4%90%E1%BA%A1o%20%C4%91%E1%BB%A9c/Ti%E1%BB%81n%20kh%C3%B4ng%20mua%20%C4%91%C6%B0%E1%BB%A3c%20h%E1%BA%A1nh%20ph%C3%BAc.md)
