@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2026-07-07T12:59
+updated: 2026-07-27T00:03
 ---
 ## Quỹ tín dụng
 - [Tổ chức Tài chính Vi mô CEP](https://cep.org.vn/ "Tổ chức Tài chính Vi mô CEP") với [Quỹ Tình Thân](https://www.facebook.com/profile.php?id=100077601589557&v=timeline&lst=100038413598261%3A100077601589557%3A1684514892&eav=AfZ-gv2lqyQB0Aq69YPKH02KBMzxO_jh4u9moWoAnA8pDhYcwmMc0rLzR_dOt0o4jOQ&refid=17&paipv=0 "Facebook") khác nhau thế nào?
@@ -21,4 +21,4 @@ Luật pháp chỉ hiểu về kinh doanh, chứ ko phải là phi lợi nhuận
 - Anh cũng đăng fb, đó có gọi là truyền thông ko? Điều gì khiến anh thấy việc truyền thông là có hại cho việc hữu xạ tự nhiên hương?
 
 [Doanh nhân chỉ biết kiếm tiền](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Ni%E1%BB%81m%20tin,%20di%E1%BB%85n%20ng%C3%B4n/Ti%E1%BB%81n/%C4%90%E1%BA%A1o%20%C4%91%E1%BB%A9c/Doanh%20nh%C3%A2n%20ch%E1%BB%89%20bi%E1%BA%BFt%20ki%E1%BA%BFm%20ti%E1%BB%81n.md)
-Hỏi thêm:: [Phạm Trường Sơn](Ph%E1%BA%A1m%20Tr%C6%B0%E1%BB%9Dng%20S%C6%A1n.md)
+Hỏi thêm:: [PTS](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Ngu%E1%BB%93n/PTS.md)
