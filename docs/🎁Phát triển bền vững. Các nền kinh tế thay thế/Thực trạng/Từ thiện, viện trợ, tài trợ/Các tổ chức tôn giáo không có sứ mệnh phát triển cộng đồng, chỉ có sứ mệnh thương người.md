@@ -1,9 +1,9 @@
 ---
 share: true
 created: 2024-10-04T13:58
-updated: 2026-07-13T18:23
+updated: 2026-07-27T00:03
 ---
 Khái niệm:: 
 LIN theo sứ mệnh quản lý tổ chức, chứ ko phải là phát triển cộng đồng, chỉ có kết nối
 
-Hỏi thêm:: [Phạm Trường Sơn](Ph%E1%BA%A1m%20Tr%C6%B0%E1%BB%9Dng%20S%C6%A1n.md)
+Hỏi thêm:: [PTS](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Ngu%E1%BB%93n/PTS.md)

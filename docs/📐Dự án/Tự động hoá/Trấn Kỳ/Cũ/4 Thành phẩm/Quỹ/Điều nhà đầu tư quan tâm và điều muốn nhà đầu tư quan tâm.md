@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2026-07-07T12:59
+updated: 2026-07-27T00:52
 ---
 # Điều nhà đầu tư quan tâm
 ## Trấn Kỳ là gì
@@ -40,7 +40,7 @@ Theo nhóm tìm hiểu thì Trấn Kỳ là chương trình duy nhất hiện na
 
 Trong lĩnh vực tài chính cá nhân, với những app hiện có, ví dụ như MoneyLover, thì sau 5 năm hoạt động vẫn chỉ có 50k download, chứng tỏ nó vẫn còn quá bé, vẫn chưa chiếm lĩnh được thị trường. Ngoài ra, việc phân loại chi tiêu cũng là bước đầu tiên để một người gia nhập thị trường tài chính. Nó có thể giúp các ngân hàng tiếp cận những người không dùng tài khoản ngân hàng (nhóm unbanked). Nhất là với nhóm đối tượng học sinh, khi họ chưa đủ 18 tuổi để mở tài khoản ngân hàng. Đây là một mỏ dữ liệu cho các nhà đầu tư.
 
-### df
+### JD Everest
 Bọn mình đã lọt được vào sự chú ý của [J.D.Everest](https://www.jdeverest.com/), một công ty tư vấn chiến lược cho các công ty quản lý tài sản gia đình (family office) và quỹ đầu tư tư nhân (private equity investment) ở Việt Nam. Theo [LinkedIn của người sáng lập](https://www.linkedin.com/in/swimano/) thì anh này trước khi sáng lập J.D.Everest thì từng là:
 - Thạc sĩ hệ thống thông tin,
 - Giám đốc điều hành số của [Early Risers Media Group](https://tuoitre.vn/early-risers-ke-hoach-dua-phim-viet-ra-the-gioi-20220424113728409.htm "Early Risers và kế hoạch đưa phim Việt ra thế giới - Tuổi Trẻ Online"), quản lý cho phim *Để Mai Tính*, *Long Ruồi*
@@ -48,7 +48,7 @@ Bọn mình đã lọt được vào sự chú ý của [J.D.Everest](https://ww
 - Đồng sáng lập *Quỹ Đầu tư Khởi nghiệp Quốc gia (Vietnam Startup Investment Fund – VNSIF)*
 
 Bạn có thể xem [các ghi chép của bọn mình khi ngồi nói chuyện với họ](./Nh%C3%A0%20%C4%91%E1%BA%A7u%20t%C6%B0/J.D.%20Everest.md).
-
+[Nhà đầu tư thiên thần mà Nhật biết](../../../../../M%E1%BA%A1ng%20k%E1%BA%BFt%20n%E1%BB%91i%20nhu%20c%E1%BA%A7u/M%E1%BB%9F%20r%E1%BB%99ng%20m%E1%BB%91i%20quan%20h%E1%BB%87/Nh%C3%A0%20%C4%91%E1%BA%A7u%20t%C6%B0%20thi%C3%AAn%20th%E1%BA%A7n%20m%C3%A0%20Nh%E1%BA%ADt%20bi%E1%BA%BFt.md)
 Bên này nói rằng nếu làm app thu chi cá nhân và đánh thị trường Hàn Quốc trước thì khả năng ăn là 70%, vì bọn này mới thắng crypto. Tuy nhiên, một chị khác cũng từng làm fintech cho Hàn Quốc cho rằng fintech HQ đã phát triển trước mình 10 năm rồi, bây giờ tham gia vào thì không dễ ăn.
 
 ## Lịch sử phát triển
@@ -108,18 +108,18 @@ Giúp đỡ Kendy là điều kiện tiên quyết để nhóm xem xét đề ng
 - [Dựa vào KPI thì bộ phận kinh doanh sẽ có tiếng nói lớn nhất, còn đội phát triển sản phẩm rất ít có tiếng nói](D%E1%BB%B1a%20v%C3%A0o%20KPI%20th%C3%AC%20b%E1%BB%99%20ph%E1%BA%ADn%20kinh%20doanh%20s%E1%BA%BD%20c%C3%B3%20ti%E1%BA%BFng%20n%C3%B3i%20l%E1%BB%9Bn%20nh%E1%BA%A5t,%20c%C3%B2n%20%C4%91%E1%BB%99i%20ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m%20r%E1%BA%A5t%20%C3%ADt%20c%C3%B3%20ti%E1%BA%BFng%20n%C3%B3i.md)
 - [Thứ quyết định hiệu quả của việc kinh doanh là văn hoá doanh nghiệp và phản ứng của thị trường về mình](Th%E1%BB%A9%20quy%E1%BA%BFt%20%C4%91%E1%BB%8Bnh%20hi%E1%BB%87u%20qu%E1%BA%A3%20c%E1%BB%A7a%20vi%E1%BB%87c%20kinh%20doanh%20l%C3%A0%20v%C4%83n%20ho%C3%A1%20doanh%20nghi%E1%BB%87p%20v%C3%A0%20ph%E1%BA%A3n%20%E1%BB%A9ng%20c%E1%BB%A7a%20th%E1%BB%8B%20tr%C6%B0%E1%BB%9Dng%20v%E1%BB%81%20m%C3%ACnh.md)
 - [Việc ưu tiên ra quyết định nhanh làm ta thấy thảo luận và dành thời gian xây dựng kế hoạch và nghiên cứu là phí thời gian](Vi%E1%BB%87c%20%C6%B0u%20ti%C3%AAn%20ra%20quy%E1%BA%BFt%20%C4%91%E1%BB%8Bnh%20nhanh%20l%C3%A0m%20ta%20th%E1%BA%A5y%20th%E1%BA%A3o%20lu%E1%BA%ADn%20v%C3%A0%20d%C3%A0nh%20th%E1%BB%9Di%20gian%20x%C3%A2y%20d%E1%BB%B1ng%20k%E1%BA%BF%20ho%E1%BA%A1ch%20v%C3%A0%20nghi%C3%AAn%20c%E1%BB%A9u%20l%C3%A0%20ph%C3%AD%20th%E1%BB%9Di%20gian.md)
-- [Áp lực giết chết sự sáng tạo](../../../../../../%F0%9F%8F%A2V%E1%BA%ADn%20h%C3%A0nh%20doanh%20nghi%E1%BB%87p/T%C3%A2m%20l%C3%BD%20h%E1%BB%8Dc%20qu%E1%BA%A3n%20l%C3%BD%20v%C3%A0%20lao%20%C4%91%E1%BB%99ng/%C3%81p%20l%E1%BB%B1c%20gi%E1%BA%BFt%20ch%E1%BA%BFt%20s%E1%BB%B1%20s%C3%A1ng%20t%E1%BA%A1o.md)
-- [When someone's taking time to do something right in the present, they're a perfectionist with no ability to prioritize, whereas when someone took time to do something right in the past, they're a master artisan of great foresight](../../../../../../%F0%9F%8F%A2V%E1%BA%ADn%20h%C3%A0nh%20doanh%20nghi%E1%BB%87p/T%C3%A2m%20l%C3%BD%20h%E1%BB%8Dc%20qu%E1%BA%A3n%20l%C3%BD%20v%C3%A0%20lao%20%C4%91%E1%BB%99ng/S%E1%BA%AFp%20x%E1%BA%BFp%20%C4%91%E1%BB%99%20%C6%B0u%20ti%C3%AAn/When%20someone's%20taking%20time%20to%20do%20something%20right%20in%20the%20present,%20they're%20a%20perfectionist%20with%20no%20ability%20to%20prioritize,%20whereas%20when%20someone%20took%20time%20to%20do%20something%20right%20in%20the%20past,%20they're%20a%20master%20artisan%20of%20great%20foresight.md)
+- [Áp lực giết chết sự sáng tạo](../../../../../../%F0%9F%8F%A2V%E1%BA%ADn%20h%C3%A0nh%20doanh%20nghi%E1%BB%87p/Nh%C3%A2n%20s%E1%BB%B1/T%C3%A2m%20l%C3%BD%20h%E1%BB%8Dc%20qu%E1%BA%A3n%20l%C3%BD%20v%C3%A0%20lao%20%C4%91%E1%BB%99ng/%C3%81p%20l%E1%BB%B1c%20gi%E1%BA%BFt%20ch%E1%BA%BFt%20s%E1%BB%B1%20s%C3%A1ng%20t%E1%BA%A1o.md)
+- [When someone's taking time to do something right in the present, they're a perfectionist with no ability to prioritize, whereas when someone took time to do something right in the past, they're a master artisan of great foresight](When%20someone's%20taking%20time%20to%20do%20something%20right%20in%20the%20present,%20they're%20a%20perfectionist%20with%20no%20ability%20to%20prioritize,%20whereas%20when%20someone%20took%20time%20to%20do%20something%20right%20in%20the%20past,%20they're%20a%20master%20artisan%20of%20great%20foresight.md)
 - [Nếu bạn nghĩ rằng bạn có thể hoàn thành đúng kế hoạch, có thể bạn đang ngộ nhận](N%E1%BA%BFu%20b%E1%BA%A1n%20ngh%C4%A9%20r%E1%BA%B1ng%20b%E1%BA%A1n%20c%C3%B3%20th%E1%BB%83%20ho%C3%A0n%20th%C3%A0nh%20%C4%91%C3%BAng%20k%E1%BA%BF%20ho%E1%BA%A1ch,%20c%C3%B3%20th%E1%BB%83%20b%E1%BA%A1n%20%C4%91ang%20ng%E1%BB%99%20nh%E1%BA%ADn.md)
 - [Việc mất tiền làm tâm lý con người bị đau dù có thể nó vô lý](../../../../../../%F0%9F%93%A6N%E1%BB%81n%20kinh%20t%E1%BA%BF%20h%C3%A0ng%20ho%C3%A1/Kinh%20t%E1%BA%BF%20h%E1%BB%8Dc%20t%C3%A2m%20l%C3%BD/Vi%E1%BB%87c%20m%E1%BA%A5t%20ti%E1%BB%81n%20l%C3%A0m%20t%C3%A2m%20l%C3%BD%20con%20ng%C6%B0%E1%BB%9Di%20b%E1%BB%8B%20%C4%91au%20d%C3%B9%20c%C3%B3%20th%E1%BB%83%20n%C3%B3%20v%C3%B4%20l%C3%BD.md)
-- [Nỗi ám ảnh với sự hiệu quả có thể đến từ nỗi sợ chết](../../../../../../%F0%9F%8F%A2V%E1%BA%ADn%20h%C3%A0nh%20doanh%20nghi%E1%BB%87p/T%C3%A2m%20l%C3%BD%20h%E1%BB%8Dc%20qu%E1%BA%A3n%20l%C3%BD%20v%C3%A0%20lao%20%C4%91%E1%BB%99ng/T%E1%BB%91i%20%C6%B0u%20ho%C3%A1/N%E1%BB%97i%20%C3%A1m%20%E1%BA%A3nh%20v%E1%BB%9Bi%20s%E1%BB%B1%20hi%E1%BB%87u%20qu%E1%BA%A3%20c%C3%B3%20th%E1%BB%83%20%C4%91%E1%BA%BFn%20t%E1%BB%AB%20n%E1%BB%97i%20s%E1%BB%A3%20ch%E1%BA%BFt.md)
+- [Nỗi ám ảnh với sự hiệu quả có thể đến từ nỗi sợ chết](N%E1%BB%97i%20%C3%A1m%20%E1%BA%A3nh%20v%E1%BB%9Bi%20s%E1%BB%B1%20hi%E1%BB%87u%20qu%E1%BA%A3%20c%C3%B3%20th%E1%BB%83%20%C4%91%E1%BA%BFn%20t%E1%BB%AB%20n%E1%BB%97i%20s%E1%BB%A3%20ch%E1%BA%BFt.md)
 - [Việc thuê ngoài chỉ giải quyết được một lần, trong khi phải thử rất nhiều lần](Vi%E1%BB%87c%20thu%C3%AA%20ngo%C3%A0i%20ch%E1%BB%89%20gi%E1%BA%A3i%20quy%E1%BA%BFt%20%C4%91%C6%B0%E1%BB%A3c%20m%E1%BB%99t%20l%E1%BA%A7n,%20trong%20khi%20ph%E1%BA%A3i%20th%E1%BB%AD%20r%E1%BA%A5t%20nhi%E1%BB%81u%20l%E1%BA%A7n.md)
 ## Sức khoẻ cũng là một loại tài nguyên cần được tối ưu hoá
 - [Phân tích quyết định đa tiêu chí (MCDA) là phương pháp để tìm điểm đánh đổi tối ưu nhất](Ph%C3%A2n%20t%C3%ADch%20quy%E1%BA%BFt%20%C4%91%E1%BB%8Bnh%20%C4%91a%20ti%C3%AAu%20ch%C3%AD%20(MCDA)%20l%C3%A0%20ph%C6%B0%C6%A1ng%20ph%C3%A1p%20%C4%91%E1%BB%83%20t%C3%ACm%20%C4%91i%E1%BB%83m%20%C4%91%C3%A1nh%20%C4%91%E1%BB%95i%20t%E1%BB%91i%20%C6%B0u%20nh%E1%BA%A5t.md) 
 
 ## Động lực nội sinh và sự tin tưởng tạo ra tổ chức đáng làm
 - [Nhìn thấy được người kia đang làm gì làm tăng sự tin tưởng đối với họ](Nh%C3%ACn%20th%E1%BA%A5y%20%C4%91%C6%B0%E1%BB%A3c%20ng%C6%B0%E1%BB%9Di%20kia%20%C4%91ang%20l%C3%A0m%20g%C3%AC%20l%C3%A0m%20t%C4%83ng%20s%E1%BB%B1%20tin%20t%C6%B0%E1%BB%9Fng%20%C4%91%E1%BB%91i%20v%E1%BB%9Bi%20h%E1%BB%8D.md)
-- [Một tổ chức đáng làm tạo ra được động lực nội sinh ở nhân viên](../../../../../../%F0%9F%8F%A2V%E1%BA%ADn%20h%C3%A0nh%20doanh%20nghi%E1%BB%87p/T%C3%A2m%20l%C3%BD%20h%E1%BB%8Dc%20qu%E1%BA%A3n%20l%C3%BD%20v%C3%A0%20lao%20%C4%91%E1%BB%99ng/K%E1%BB%B9%20n%C4%83ng,%20%C4%91%E1%BB%99ng%20l%E1%BB%B1c/M%E1%BB%99t%20t%E1%BB%95%20ch%E1%BB%A9c%20%C4%91%C3%A1ng%20l%C3%A0m%20t%E1%BA%A1o%20ra%20%C4%91%C6%B0%E1%BB%A3c%20%C4%91%E1%BB%99ng%20l%E1%BB%B1c%20n%E1%BB%99i%20sinh%20%E1%BB%9F%20nh%C3%A2n%20vi%C3%AAn.md)
+- [Một tổ chức đáng làm tạo ra được động lực nội sinh ở nhân viên](M%E1%BB%99t%20t%E1%BB%95%20ch%E1%BB%A9c%20%C4%91%C3%A1ng%20l%C3%A0m%20t%E1%BA%A1o%20ra%20%C4%91%C6%B0%E1%BB%A3c%20%C4%91%E1%BB%99ng%20l%E1%BB%B1c%20n%E1%BB%99i%20sinh%20%E1%BB%9F%20nh%C3%A2n%20vi%C3%AAn.md)
 
 ## Quả Cầu là một vùng đất, một sân chơi, một cộng đồng, một mạng lưới, một nền tảng, một hệ sinh thái
 Nó là một khái niệm lơ lửng, một vật thể trong suốt. Quả Cầu hướng đến việc trở thành một tổ chức không có sự phân cấp và người tham gia không làm vì trách nhiệm, lấy nhu cầu của thành viên (vốn nhiều vô kể và thay đổi liên tục) làm mục tiêu của tổ chức, để họ trở thành những người có kỹ năng đa dạng, tư duy liên ngành, và sự khoẻ mạnh và hạnh phúc toàn diện, dựa trên triết học của Deleuze và Guattari, khoa học phức hợp, game phiêu lưu nhập vai, nền kinh tế không dùng tiền, và các công cụ lưu dữ liệu tại máy người dùng.

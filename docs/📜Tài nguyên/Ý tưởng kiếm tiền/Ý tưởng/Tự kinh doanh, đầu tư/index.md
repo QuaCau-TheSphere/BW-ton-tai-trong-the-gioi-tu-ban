@@ -1,6 +1,6 @@
 ---
 share: true
-updated: 2026-07-18T20:49
+updated: 2026-07-26T21:47
 title: Các ý tưởng kinh doanh, đầu tư
 aliases:
   - Đầu tư kinh doanh bán hàng
@@ -15,6 +15,7 @@ created: 2026-06-05T15:13
     - [Kho địa điểm để chọn nơi gặp mặt](./K%E1%BA%BFt%20n%E1%BB%91i%20nhu%20c%E1%BA%A7u/H%E1%BB%87%20th%E1%BB%91ng%20th%C3%B4ng%20tin/Kho%20%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m%20%C4%91%E1%BB%83%20ch%E1%BB%8Dn%20n%C6%A1i%20g%E1%BA%B7p%20m%E1%BA%B7t.md)
     - [Kết nối nhu cầu di chuyển của người khuyết tật](./K%E1%BA%BFt%20n%E1%BB%91i%20nhu%20c%E1%BA%A7u/H%E1%BB%87%20th%E1%BB%91ng%20th%C3%B4ng%20tin/K%E1%BA%BFt%20n%E1%BB%91i%20nhu%20c%E1%BA%A7u%20di%20chuy%E1%BB%83n%20c%E1%BB%A7a%20ng%C6%B0%E1%BB%9Di%20khuy%E1%BA%BFt%20t%E1%BA%ADt.md)
     - [Mạng xã hội nơi mọi người hiểu rõ chính mình](./K%E1%BA%BFt%20n%E1%BB%91i%20nhu%20c%E1%BA%A7u/H%E1%BB%87%20th%E1%BB%91ng%20th%C3%B4ng%20tin/M%E1%BA%A1ng%20x%C3%A3%20h%E1%BB%99i%20n%C6%A1i%20m%E1%BB%8Di%20ng%C6%B0%E1%BB%9Di%20hi%E1%BB%83u%20r%C3%B5%20ch%C3%ADnh%20m%C3%ACnh.md)
+    - [Sàn gây quỹ đám đông](./K%E1%BA%BFt%20n%E1%BB%91i%20nhu%20c%E1%BA%A7u/H%E1%BB%87%20th%E1%BB%91ng%20th%C3%B4ng%20tin/S%C3%A0n%20g%C3%A2y%20qu%E1%BB%B9%20%C4%91%C3%A1m%20%C4%91%C3%B4ng.md)
 
 - Nhóm: 
     - [Hợp tác xã nhân viên](./K%E1%BA%BFt%20n%E1%BB%91i%20nhu%20c%E1%BA%A7u/Nh%C3%B3m/H%E1%BB%A3p%20t%C3%A1c%20x%C3%A3%20nh%C3%A2n%20vi%C3%AAn.md)
@@ -31,8 +32,8 @@ created: 2026-06-05T15:13
 
 ## Học tập, phát triển bản thân
 - [Bộ sưu tập từ điển chuyên ngành](./H%E1%BB%8Dc%20t%E1%BA%ADp,%20ph%C3%A1t%20tri%E1%BB%83n%20b%E1%BA%A3n%20th%C3%A2n/B%E1%BB%99%20s%C6%B0u%20t%E1%BA%ADp%20t%E1%BB%AB%20%C4%91i%E1%BB%83n%20chuy%C3%AAn%20ng%C3%A0nh.md)
-- [Phân loại chi tiêu](./H%E1%BB%8Dc%20t%E1%BA%ADp,%20ph%C3%A1t%20tri%E1%BB%83n%20b%E1%BA%A3n%20th%C3%A2n/Ph%C3%A2n%20lo%E1%BA%A1i%20chi%20ti%C3%AAu.md)
 - [Bộ thẻ học từ vựng tiếng Anh nâng cao (GRE)](./H%E1%BB%8Dc%20t%E1%BA%ADp,%20ph%C3%A1t%20tri%E1%BB%83n%20b%E1%BA%A3n%20th%C3%A2n/B%E1%BB%99%20th%E1%BA%BB%20h%E1%BB%8Dc%20t%E1%BB%AB%20v%E1%BB%B1ng%20ti%E1%BA%BFng%20Anh%20n%C3%A2ng%20cao%20(GRE).md)
+- [Phân loại chi tiêu](./H%E1%BB%8Dc%20t%E1%BA%ADp,%20ph%C3%A1t%20tri%E1%BB%83n%20b%E1%BA%A3n%20th%C3%A2n/Ph%C3%A2n%20lo%E1%BA%A1i%20chi%20ti%C3%AAu.md)
 - [Tổ chức các buổi thảo luận, chia sẻ, huấn luyện, khai vấn, đào tạo](./H%E1%BB%8Dc%20t%E1%BA%ADp,%20ph%C3%A1t%20tri%E1%BB%83n%20b%E1%BA%A3n%20th%C3%A2n/T%E1%BB%95%20ch%E1%BB%A9c%20c%C3%A1c%20bu%E1%BB%95i%20th%E1%BA%A3o%20lu%E1%BA%ADn,%20chia%20s%E1%BA%BB,%20hu%E1%BA%A5n%20luy%E1%BB%87n,%20khai%20v%E1%BA%A5n,%20%C4%91%C3%A0o%20t%E1%BA%A1o.md)
 - [Xem tử vi tự động](./H%E1%BB%8Dc%20t%E1%BA%ADp,%20ph%C3%A1t%20tri%E1%BB%83n%20b%E1%BA%A3n%20th%C3%A2n/Xem%20t%E1%BB%AD%20vi%20t%E1%BB%B1%20%C4%91%E1%BB%99ng.md)
 
@@ -52,7 +53,7 @@ created: 2026-06-05T15:13
 - [Đầu tư thì có khả năng mất trắng. Còn kinh doanh thì có thể lỗ nhưng không đến nỗi mất sạch](../../../../%F0%9F%8F%A2V%E1%BA%ADn%20h%C3%A0nh%20doanh%20nghi%E1%BB%87p/M%C3%B4%20h%C3%ACnh%20ho%E1%BA%A1t%20%C4%91%E1%BB%99ng/%C4%90%E1%BA%A7u%20t%C6%B0%20th%C3%AC%20c%C3%B3%20kh%E1%BA%A3%20n%C4%83ng%20m%E1%BA%A5t%20tr%E1%BA%AFng.%20C%C3%B2n%20kinh%20doanh%20th%C3%AC%20c%C3%B3%20th%E1%BB%83%20l%E1%BB%97%20nh%C6%B0ng%20kh%C3%B4ng%20%C4%91%E1%BA%BFn%20n%E1%BB%97i%20m%E1%BA%A5t%20s%E1%BA%A1ch.md)
 - [Chủ nghĩa tư bản không chỉ phụ thuộc vào việc tạo ra tình trạng bất an trên diện rộng mà còn tái tạo tình trạng bất an này trong chính huyết mạch của nó](../../../../%F0%9F%93%A6N%E1%BB%81n%20kinh%20t%E1%BA%BF%20h%C3%A0ng%20ho%C3%A1/Kinh%20t%E1%BA%BF%20ch%C3%ADnh%20tr%E1%BB%8B/Ch%E1%BB%A7%20ngh%C4%A9a%20t%C6%B0%20b%E1%BA%A3n,%20t%C3%A2n%20t%E1%BB%B1%20do/Ch%E1%BB%A7%20ngh%C4%A9a%20t%C6%B0%20b%E1%BA%A3n%20kh%C3%B4ng%20ch%E1%BB%89%20ph%E1%BB%A5%20thu%E1%BB%99c%20v%C3%A0o%20vi%E1%BB%87c%20t%E1%BA%A1o%20ra%20t%C3%ACnh%20tr%E1%BA%A1ng%20b%E1%BA%A5t%20an%20tr%C3%AAn%20di%E1%BB%87n%20r%E1%BB%99ng%20m%C3%A0%20c%C3%B2n%20t%C3%A1i%20t%E1%BA%A1o%20t%C3%ACnh%20tr%E1%BA%A1ng%20b%E1%BA%A5t%20an%20n%C3%A0y%20trong%20ch%C3%ADnh%20huy%E1%BA%BFt%20m%E1%BA%A1ch%20c%E1%BB%A7a%20n%C3%B3.md)
 - [Tài sản vô hình nói chung là không nhất thiết phải chịu đựng những thất bại điển hình của thị trường là không cạnh tranh và không thể loại trừ](../../../../%F0%9F%93%A6N%E1%BB%81n%20kinh%20t%E1%BA%BF%20h%C3%A0ng%20ho%C3%A1/Th%E1%BB%8B%20tr%C6%B0%E1%BB%9Dng/T%C3%A0i%20s%E1%BA%A3n%20v%C3%B4%20h%C3%ACnh%20n%C3%B3i%20chung%20l%C3%A0%20kh%C3%B4ng%20nh%E1%BA%A5t%20thi%E1%BA%BFt%20ph%E1%BA%A3i%20ch%E1%BB%8Bu%20%C4%91%E1%BB%B1ng%20nh%E1%BB%AFng%20th%E1%BA%A5t%20b%E1%BA%A1i%20%C4%91i%E1%BB%83n%20h%C3%ACnh%20c%E1%BB%A7a%20th%E1%BB%8B%20tr%C6%B0%E1%BB%9Dng%20l%C3%A0%20kh%C3%B4ng%20c%E1%BA%A1nh%20tranh%20v%C3%A0%20kh%C3%B4ng%20th%E1%BB%83%20lo%E1%BA%A1i%20tr%E1%BB%AB.md)
-- 
+
 ## Nơi thảo luận
 Vào [Discord Quả Cầu](https://discord.com/channels/898550123007709204/1249553476745298010), kênh "Tạo dòng tiền, đầu tư, tạo thu nhập thụ động, kinh doanh" để thảo luận:
 [![](https://i.vgy.me/BjXA75.png)](https://discord.com/channels/898550123007709204/1249553476745298010)
