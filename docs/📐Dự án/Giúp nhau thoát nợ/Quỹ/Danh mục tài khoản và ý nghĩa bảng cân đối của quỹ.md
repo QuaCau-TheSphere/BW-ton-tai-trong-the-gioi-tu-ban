@@ -1,6 +1,6 @@
 ---
 share: true
-updated: 2026-07-19T08:45
+updated: 2026-07-27T02:26
 cssClasses: wide-table
 aliases:
   - Xây dựng ontology
@@ -26,7 +26,7 @@ Tuy nhiên khi các giao dịch càng ngày càng nhiều, các điều kiện t
 	- Khi đi rút tiền để cho mượn thì lấy kèm tiền trong bóp để đỡ phải mất phí rút
 - Chuyển luôn từ người gửi cho người nhận chứ không qua cái của mình
 
-Đánh đổi cái nhức đầu trong tương lai cho cái tiện hiện tại. [Về mặt nhận thức, con người tương lai của chính mình không liên quan gì đến mình](../../../%F0%9F%8F%A2V%E1%BA%ADn%20h%C3%A0nh%20doanh%20nghi%E1%BB%87p/Nh%C3%A2n%20s%E1%BB%B1/T%C3%A2m%20l%C3%BD%20h%E1%BB%8Dc%20qu%E1%BA%A3n%20l%C3%BD%20v%C3%A0%20lao%20%C4%91%E1%BB%99ng/S%E1%BA%AFp%20x%E1%BA%BFp%20%C4%91%E1%BB%99%20%C6%B0u%20ti%C3%AAn/S%E1%BB%B1%20tr%C3%AC%20ho%C3%A3n/V%E1%BB%81%20m%E1%BA%B7t%20nh%E1%BA%ADn%20th%E1%BB%A9c,%20con%20ng%C6%B0%E1%BB%9Di%20t%C6%B0%C6%A1ng%20lai%20c%E1%BB%A7a%20ch%C3%ADnh%20m%C3%ACnh%20kh%C3%B4ng%20li%C3%AAn%20quan%20g%C3%AC%20%C4%91%E1%BA%BFn%20m%C3%ACnh.md). Cho đến khi lý tưởng trở thành thực tế, thì còn nhức đầu 
+Đánh đổi cái nhức đầu trong tương lai cho cái tiện hiện tại. [Về mặt nhận thức, con người tương lai của chính mình không liên quan gì đến mình](V%E1%BB%81%20m%E1%BA%B7t%20nh%E1%BA%ADn%20th%E1%BB%A9c,%20con%20ng%C6%B0%E1%BB%9Di%20t%C6%B0%C6%A1ng%20lai%20c%E1%BB%A7a%20ch%C3%ADnh%20m%C3%ACnh%20kh%C3%B4ng%20li%C3%AAn%20quan%20g%C3%AC%20%C4%91%E1%BA%BFn%20m%C3%ACnh.md). Cho đến khi lý tưởng trở thành thực tế, thì còn nhức đầu 
 
 Để cho tiện, trong bài này "tài khoản" sẽ dùng để gọi cho các tài khoản thuộc loại mục đích sử dụng. Còn các tài khoản thuộc loại nơi lưu tiền sẽ được gọi là "nơi lưu tiền". 
 - Tài khoản: `Giúp:Lộc`. Các cấp độ đều là mục đích
