@@ -1,0 +1,11 @@
+---
+share: true
+updated: 2026-07-27T15:06
+created: 2026-07-27T14:53
+---
+Khái niệm:: [Tài sản](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Kinh%20t%E1%BA%BF%20h%E1%BB%8Dc/T%C3%A0i%20s%E1%BA%A3n.md), [Sở hữu](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Kinh%20t%E1%BA%BF%20h%E1%BB%8Dc/S%E1%BB%9F%20h%E1%BB%AFu.md)
+
+Nguồn:: [Asset - Wikipedia](https://en.wikipedia.org/wiki/Asset)
+[Quyền sở hữu là một bó quyền gồm 11 quyền nhỏ](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%C4%90%E1%BA%A1o%20%C4%91%E1%BB%A9c,%20ph%C3%A1p%20lu%E1%BA%ADt/Lu%E1%BA%ADt%20h%E1%BB%8Dc/Quy%E1%BB%81n%20s%E1%BB%9F%20h%E1%BB%AFu%20l%C3%A0%20m%E1%BB%99t%20b%C3%B3%20quy%E1%BB%81n%20g%E1%BB%93m%2011%20quy%E1%BB%81n%20nh%E1%BB%8F.md)
+[Tài sản vô hình là những loại vốn xã hội, vốn biểu tượng, vốn văn hóa](../../../%F0%9F%8E%81Ph%C3%A1t%20tri%E1%BB%83n%20b%E1%BB%81n%20v%E1%BB%AFng.%20C%C3%A1c%20n%E1%BB%81n%20kinh%20t%E1%BA%BF%20thay%20th%E1%BA%BF/Gi%E1%BA%A3i%20ph%C3%A1p/%E2%9D%93An%20sinh%20x%C3%A3%20h%E1%BB%99i,%20m%E1%BB%91i%20quan%20h%E1%BB%87%20v%E1%BB%9Bi%20thi%C3%AAn%20nhi%C3%AAn,%20c%C3%A1c%20lo%E1%BA%A1i%20v%E1%BB%91n%20phi%20t%C3%A0i%20ch%C3%ADnh%20l%C3%A0%20c%C3%A1c%20t%C3%A0i%20s%E1%BA%A3n%20v%C3%B4%20h%C3%ACnh.md)
+[❓Các loại tài sản hữu hình, thời gian, công sức, sự chú ý là các loại tài sản khi dùng là mất. Các loại tài sản còn lại khi dùng là có thêm](../../../%F0%9F%8E%81Ph%C3%A1t%20tri%E1%BB%83n%20b%E1%BB%81n%20v%E1%BB%AFng.%20C%C3%A1c%20n%E1%BB%81n%20kinh%20t%E1%BA%BF%20thay%20th%E1%BA%BF/Gi%E1%BA%A3i%20ph%C3%A1p/%E2%9D%93C%C3%A1c%20lo%E1%BA%A1i%20t%C3%A0i%20s%E1%BA%A3n%20h%E1%BB%AFu%20h%C3%ACnh,%20th%E1%BB%9Di%20gian,%20c%C3%B4ng%20s%E1%BB%A9c,%20s%E1%BB%B1%20ch%C3%BA%20%C3%BD%20l%C3%A0%20c%C3%A1c%20lo%E1%BA%A1i%20t%C3%A0i%20s%E1%BA%A3n%20khi%20d%C3%B9ng%20l%C3%A0%20m%E1%BA%A5t.%20C%C3%A1c%20lo%E1%BA%A1i%20t%C3%A0i%20s%E1%BA%A3n%20c%C3%B2n%20l%E1%BA%A1i%20khi%20d%C3%B9ng%20l%C3%A0%20c%C3%B3%20th%C3%AAm.md)
