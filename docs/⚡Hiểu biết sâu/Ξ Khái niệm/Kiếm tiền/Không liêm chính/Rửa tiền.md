@@ -1,20 +1,20 @@
 ---
 share: true
 created: 2025-04-11T18:41
-updated: 2026-07-07T12:58
+updated: 2026-07-27T02:26
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Ajp_hzsLggE?si=CLceq3_KxViRWHp9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/watch?v=eXXtXEiJM3c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-- Cách làm cụ thể: 
-    - [Không phải công ty dám rửa tiền nào cũng lừa đảo nhân viên và khách hàng](../../../../%F0%9F%92%B8H%C3%ACnh%20th%E1%BB%A9c%20ki%E1%BA%BFm%20ti%E1%BB%81n/Thi%E1%BA%BFu%20li%C3%AAm%20ch%C3%ADnh.%20Ph%E1%BA%A1m%20ph%C3%A1p/C%C3%A1ch%20l%C3%A0m%20c%E1%BB%A5%20th%E1%BB%83/Vi%20ph%E1%BA%A1m%20h%C3%ACnh%20s%E1%BB%B1/R%E1%BB%ADa%20ti%E1%BB%81n,%20tr%E1%BB%91n%20thu%E1%BA%BF/Kh%C3%B4ng%20ph%E1%BA%A3i%20c%C3%B4ng%20ty%20d%C3%A1m%20r%E1%BB%ADa%20ti%E1%BB%81n%20n%C3%A0o%20c%C5%A9ng%20l%E1%BB%ABa%20%C4%91%E1%BA%A3o%20nh%C3%A2n%20vi%C3%AAn%20v%C3%A0%20kh%C3%A1ch%20h%C3%A0ng.md)
-
-- Cảnh giác lừa đảo: 
-    - [GM Mall là sân sau của những quan chức rửa tiền](../../../../%F0%9F%92%B8H%C3%ACnh%20th%E1%BB%A9c%20ki%E1%BA%BFm%20ti%E1%BB%81n/Thi%E1%BA%BFu%20li%C3%AAm%20ch%C3%ADnh.%20Ph%E1%BA%A1m%20ph%C3%A1p/C%E1%BA%A3nh%20gi%C3%A1c%20l%E1%BB%ABa%20%C4%91%E1%BA%A3o/Ph%C6%B0%C6%A1ng%20th%E1%BB%A9c%20l%E1%BB%ABa%20%C4%91%E1%BA%A3o/%C4%90%C3%A1nh%20v%C3%A0o%20mong%20mu%E1%BB%91n%20ki%E1%BA%BFm%20ti%E1%BB%81n%20nhanh/GM/GM%20Mall%20l%C3%A0%20s%C3%A2n%20sau%20c%E1%BB%A7a%20nh%E1%BB%AFng%20quan%20ch%E1%BB%A9c%20r%E1%BB%ADa%20ti%E1%BB%81n.md)
+- Động cơ thực hiện. Điều bị phá vỡ: 
+    - [Không phải công ty dám rửa tiền nào cũng lừa đảo nhân viên và khách hàng](../../../../%F0%9F%92%B8H%C3%ACnh%20th%E1%BB%A9c%20ki%E1%BA%BFm%20ti%E1%BB%81n/Thi%E1%BA%BFu%20li%C3%AAm%20ch%C3%ADnh.%20Ph%E1%BA%A1m%20ph%C3%A1p/%C4%90%E1%BB%99ng%20c%C6%A1%20th%E1%BB%B1c%20hi%E1%BB%87n.%20%C4%90i%E1%BB%81u%20b%E1%BB%8B%20ph%C3%A1%20v%E1%BB%A1/M%E1%BA%A5t/Lu%E1%BA%ADt%20ph%C3%A1p/Lu%E1%BA%ADt%20h%C3%ACnh%20s%E1%BB%B1/R%E1%BB%ADa%20ti%E1%BB%81n,%20tr%E1%BB%91n%20thu%E1%BA%BF/Kh%C3%B4ng%20ph%E1%BA%A3i%20c%C3%B4ng%20ty%20d%C3%A1m%20r%E1%BB%ADa%20ti%E1%BB%81n%20n%C3%A0o%20c%C5%A9ng%20l%E1%BB%ABa%20%C4%91%E1%BA%A3o%20nh%C3%A2n%20vi%C3%AAn%20v%C3%A0%20kh%C3%A1ch%20h%C3%A0ng.md)
 
 - Tín dụng: 
     - [Luật cấm rút tiền tại cửa hàng để tránh việc rửa tiền](../../../../%F0%9F%A7%91%E2%80%8D%F0%9F%8C%BENg%C3%A0nh%20ngh%E1%BB%81%20c%E1%BB%A5%20th%E1%BB%83/T%C3%A0i%20ch%C3%ADnh/T%C3%ADn%20d%E1%BB%A5ng/T%C3%ADn%20d%E1%BB%A5ng%20t%C6%B0%20b%E1%BA%A3n/Lu%E1%BA%ADt/Lu%E1%BA%ADt%20c%E1%BA%A5m%20r%C3%BAt%20ti%E1%BB%81n%20t%E1%BA%A1i%20c%E1%BB%ADa%20h%C3%A0ng%20%C4%91%E1%BB%83%20tr%C3%A1nh%20vi%E1%BB%87c%20r%E1%BB%ADa%20ti%E1%BB%81n.md)
 
 - Trung gian thanh toán: 
     - [Các giao dịch dùng qua ví điện tử sẽ trở thành sạch trong mắt ngân hàng](../../../../%F0%9F%A7%91%E2%80%8D%F0%9F%8C%BENg%C3%A0nh%20ngh%E1%BB%81%20c%E1%BB%A5%20th%E1%BB%83/T%C3%A0i%20ch%C3%ADnh/Trung%20gian%20thanh%20to%C3%A1n/C%C3%A1c%20giao%20d%E1%BB%8Bch%20d%C3%B9ng%20qua%20v%C3%AD%20%C4%91i%E1%BB%87n%20t%E1%BB%AD%20s%E1%BA%BD%20tr%E1%BB%9F%20th%C3%A0nh%20s%E1%BA%A1ch%20trong%20m%E1%BA%AFt%20ng%C3%A2n%20h%C3%A0ng.md)
+
+- Trường hợp cụ thể: 
+    - [GM Mall là sân sau của những quan chức rửa tiền](../../../../%F0%9F%92%B8H%C3%ACnh%20th%E1%BB%A9c%20ki%E1%BA%BFm%20ti%E1%BB%81n/Thi%E1%BA%BFu%20li%C3%AAm%20ch%C3%ADnh.%20Ph%E1%BA%A1m%20ph%C3%A1p/Tr%C6%B0%E1%BB%9Dng%20h%E1%BB%A3p%20c%E1%BB%A5%20th%E1%BB%83/GM/GM%20Mall%20l%C3%A0%20s%C3%A2n%20sau%20c%E1%BB%A7a%20nh%E1%BB%AFng%20quan%20ch%E1%BB%A9c%20r%E1%BB%ADa%20ti%E1%BB%81n.md)
 
 
