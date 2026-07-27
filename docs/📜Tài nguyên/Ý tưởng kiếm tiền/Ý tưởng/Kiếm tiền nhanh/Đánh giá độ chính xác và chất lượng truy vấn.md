@@ -1,7 +1,7 @@
 ---
 share: true
 description: "Số tiền kiếm được: 70k/h"
-updated: 2026-07-10T17:34
+updated: 2026-07-27T02:26
 created: 2025-06-06T12:45
 ---
 Mô tả công việc:: Đánh giá độ chính xác và chất lượng các truy vấn (queries) của người dùng internet 
@@ -37,11 +37,11 @@ Số tiền đầu tư:: 0
 Số tiền đặt cọc:: 0
 Số người cần tuyển:: ∞
 Hình thức công việc:: 
-Kiến thức, kỹ năng:: [Tiếng Anh](../../%C4%90%E1%BA%B7c%20%C4%91i%E1%BB%83m%20c%C3%B4ng%20vi%E1%BB%87c/Ki%E1%BA%BFn%20th%E1%BB%A9c,%20k%E1%BB%B9%20n%C4%83ng/Ti%E1%BA%BFng%20Anh.md)
-Nguyên liệu, nguồn thông tin::
-Nơi làm việc:: [Làm qua mạng](../../%C4%90%E1%BA%B7c%20%C4%91i%E1%BB%83m%20c%C3%B4ng%20vi%E1%BB%87c/M%C3%B4i%20tr%C6%B0%E1%BB%9Dng%20l%C3%A0m%20vi%E1%BB%87c/L%C3%A0m%20qua%20m%E1%BA%A1ng.md)
+Kiến thức, kỹ năng cần có sẵn:: [Tiếng Anh](../../%C4%90%E1%BA%B7c%20%C4%91i%E1%BB%83m%20c%C3%B4ng%20vi%E1%BB%87c/Ki%E1%BA%BFn%20th%E1%BB%A9c,%20k%E1%BB%B9%20n%C4%83ng/Ti%E1%BA%BFng%20Anh.md)
+Tài nguyên, vật dụng cần có sẵn::
+Môi trường làm việc:: [Làm qua mạng](../../%C4%90%E1%BA%B7c%20%C4%91i%E1%BB%83m%20c%C3%B4ng%20vi%E1%BB%87c/M%C3%B4i%20tr%C6%B0%E1%BB%9Dng%20l%C3%A0m%20vi%E1%BB%87c/L%C3%A0m%20qua%20m%E1%BA%A1ng.md)
 Thời gian làm việc::
-Yêu cầu công nghệ::
+Tài nguyên, vật dụng cần có sẵn::
 Thời điểm trả tiền::
 Đặc điểm khác::
 
