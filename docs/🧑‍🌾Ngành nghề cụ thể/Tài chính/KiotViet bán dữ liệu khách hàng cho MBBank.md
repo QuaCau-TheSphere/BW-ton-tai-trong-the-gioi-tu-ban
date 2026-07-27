@@ -1,6 +1,7 @@
 ---
 share: true
-updated: 2026-07-06T21:10
+updated: 2026-07-27T02:22
+created: 2026-02-09T15:15
 ---
 Khái niệm:: 
 [MBBANK](./T%C3%ADn%20d%E1%BB%A5ng/T%C3%ADn%20d%E1%BB%A5ng%20t%C6%B0%20b%E1%BA%A3n/T%E1%BB%95%20ch%E1%BB%A9c%20c%E1%BB%A5%20th%E1%BB%83/Ng%C3%A2n%20h%C3%A0ng/Danh%20s%C3%A1ch%20ng%C3%A2n%20h%C3%A0ng/MBBANK.md)
