@@ -2,7 +2,7 @@
 share: true
 aliases:
   - nơi ở giá rẻ hoặc miễn phí
-updated: 2026-07-07T13:00
+updated: 2026-07-27T02:26
 created: 2025-10-22T08:32
 ---
 Lên chùa tu
@@ -30,7 +30,7 @@ Lao động tỉnh, kỹ thuật viên
 ## Tàu du lịch/vùng xa
 Thích môi trường quốc tế, thích di chuyển
 
-## [Bao nuôi](../../Qu%C3%A0%20t%E1%BA%B7ng/Bao%20nu%C3%B4i/index.md)
+## [Bao nuôi](Bao%20nu%C3%B4i.md)
 
 Xem thêm:: [Các loại hình nhà ở cho mục đích phát triển bền vững](./C%C3%A1c%20lo%E1%BA%A1i%20h%C3%ACnh%20nh%C3%A0%20%E1%BB%9F%20cho%20m%E1%BB%A5c%20%C4%91%C3%ADch%20ph%C3%A1t%20tri%E1%BB%83n%20b%E1%BB%81n%20v%E1%BB%AFng.md)
 
