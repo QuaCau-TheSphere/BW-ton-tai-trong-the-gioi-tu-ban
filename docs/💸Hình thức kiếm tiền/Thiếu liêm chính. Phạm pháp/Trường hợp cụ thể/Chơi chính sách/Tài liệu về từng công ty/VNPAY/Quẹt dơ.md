@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-06-25T13:20
-updated: 2026-07-19T08:45
+updated: 2026-07-27T02:26
 ---
 Một hình thức ít rủi ro hơn là đi [đổi tiền](../../../../C%C3%A1ch%20th%E1%BB%B1c%20hi%E1%BB%87n/L%C3%A0m%20k%E1%BA%BFt%20qu%E1%BA%A3%20%E1%BA%A3o/C%C3%A1c%20c%C3%B4ng%20vi%E1%BB%87c/V%C3%AD%20%C4%91i%E1%BB%87n%20t%E1%BB%AD/%C4%90%E1%BB%95i%20ti%E1%BB%81n,%20ch%E1%BB%A5p%20h%C3%ACnh%20bi%E1%BB%83n%20hi%E1%BB%87u,%20d%C3%A1n%20m%C3%A3%20QR.md#Đổi%20tiền).
 ## Yêu cầu
