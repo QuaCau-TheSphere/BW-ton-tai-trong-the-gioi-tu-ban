@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-10-08T12:01
-updated: 2026-07-26T23:43
+updated: 2026-07-27T14:46
 blog: working
 ---
 Chúng ta ai cũng muốn những người bạn của mình có được cuộc sống khỏe mạnh và hạnh phúc toàn diện. Nên khi bạn mình cần thì tất nhiên là chúng ta sẽ muốn giúp. Nhưng có những điều khiến ta đắn đo:
@@ -25,6 +25,8 @@ Sau đó xây dựng [Kế hoạch tài chính](../../../%F0%9F%92%B8H%C3%ACnh%2
 [Việc phải lựa chọn trong áp lực khiến ta dễ nuông chiều bản thân hơn](../../../%F0%9F%8F%A2V%E1%BA%ADn%20h%C3%A0nh%20doanh%20nghi%E1%BB%87p/Nh%C3%A2n%20s%E1%BB%B1/T%C3%A2m%20l%C3%BD%20h%E1%BB%8Dc%20qu%E1%BA%A3n%20l%C3%BD%20v%C3%A0%20lao%20%C4%91%E1%BB%99ng/Vi%E1%BB%87c%20ph%E1%BA%A3i%20l%E1%BB%B1a%20ch%E1%BB%8Dn%20trong%20%C3%A1p%20l%E1%BB%B1c%20khi%E1%BA%BFn%20ta%20d%E1%BB%85%20nu%C3%B4ng%20chi%E1%BB%81u%20b%E1%BA%A3n%20th%C3%A2n%20h%C6%A1n.md)
 
 Không thấy việc đặt câu hỏi là hữu ích Luôn thấy đói. Nhưng cái đó thì chỉ là từ thiện.
+
+Còn lại là sự đồng cảm. Liệu sự đồng cảm về một thứ có nên là phổ quát không thì chưa biết
 
 Những điều khiến mình không nỡ không giúp tiếp:
 - Cho rằng ai cũng có thể được giúp sau sai lầm
