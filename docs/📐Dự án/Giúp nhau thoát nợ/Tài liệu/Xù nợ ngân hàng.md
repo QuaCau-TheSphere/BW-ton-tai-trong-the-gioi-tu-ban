@@ -1,7 +1,7 @@
 ---
 share: true
 description: Chuyện gì sẽ xảy ra khi bị liệt là nợ xấu?
-updated: 2026-07-25T15:33
+updated: 2026-07-27T02:26
 aliases:
   - Chuyện gì sẽ xảy ra khi bị liệt là nợ xấu?
   - Lý do không muốn bị mất điểm tín dụng
