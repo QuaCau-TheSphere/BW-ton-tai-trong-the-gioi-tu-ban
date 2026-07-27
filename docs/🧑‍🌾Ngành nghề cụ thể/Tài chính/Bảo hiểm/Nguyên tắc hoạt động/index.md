@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-09-06T14:31
-updated: 2026-07-07T13:00
+updated: 2026-07-27T02:26
 title: Nguyên tắc hoạt động của bảo hiểm
 ---
 - [Để một rủi ro được bảo hiểm, nó cần ngẫu nhiên, định lượng bằng tiền được và có số lớn](./%C4%90%E1%BB%83%20m%E1%BB%99t%20r%E1%BB%A7i%20ro%20%C4%91%C6%B0%E1%BB%A3c%20b%E1%BA%A3o%20hi%E1%BB%83m,%20n%C3%B3%20c%E1%BA%A7n%20ng%E1%BA%ABu%20nhi%C3%AAn,%20%C4%91%E1%BB%8Bnh%20l%C6%B0%E1%BB%A3ng%20b%E1%BA%B1ng%20ti%E1%BB%81n%20%C4%91%C6%B0%E1%BB%A3c%20v%C3%A0%20c%C3%B3%20s%E1%BB%91%20l%E1%BB%9Bn.md)
