@@ -1,6 +1,6 @@
 ---
 share: true
-updated: 2026-07-26T21:47
+updated: 2026-07-27T16:32
 title: Các ý tưởng kinh doanh, đầu tư
 aliases:
   - Đầu tư kinh doanh bán hàng
@@ -8,14 +8,16 @@ aliases:
   - Tạo lợi nhuận
 created: 2026-06-05T15:13
 ---
-Ở đây tổng hợp tất cả các ý tưởng kinh doanh từng được đề xuất với Nhật, có thể dùng để [kiếm tiền từ Nhật](../../../../%F0%9F%93%90D%E1%BB%B1%20%C3%A1n/Gi%C3%BAp%20nhau%20ki%E1%BA%BFm%20ti%E1%BB%81n/%C3%9D%20t%C6%B0%E1%BB%9Fng%20ki%E1%BA%BFm%20ti%E1%BB%81n%20t%E1%BB%AB%20Nh%E1%BA%ADt.md). Bấm vào từng ý tưởng để đọc bản đề xuất của nó. Đa số chúng chưa được điền đầy đủ, do Nhật cần thêm thảo luận của mọi người để có thêm ý để bổ sung. Một số đã có bản nháp chi tiết về lý do ra đời của ý tưởng. Bạn cũng có thể điền thêm ý tưởng của mình vào đây.
+Ở đây tổng hợp tất cả các ý tưởng kinh doanh từng được đề xuất với [Nhóm giúp nhau kiếm tiền](../../../../%F0%9F%93%90D%E1%BB%B1%20%C3%A1n/Gi%C3%BAp%20nhau%20ki%E1%BA%BFm%20ti%E1%BB%81n/index.md). Bấm vào từng ý tưởng để đọc bản đề xuất của nó. Đa số chúng chưa được điền đầy đủ, do Nhật cần thêm thảo luận của mọi người để có thêm ý để bổ sung. Một số đã có bản nháp chi tiết về lý do ra đời của ý tưởng. Bạn cũng có thể điền thêm ý tưởng của mình vào đây.
+
+Xem thêm:: [Làm sao để gọi vốn cho ý tưởng kinh doanh của mình?](../../../../%F0%9F%93%90D%E1%BB%B1%20%C3%A1n/Gi%C3%BAp%20nhau%20ki%E1%BA%BFm%20ti%E1%BB%81n/L%C3%A0m%20sao%20%C4%91%E1%BB%83%20g%E1%BB%8Di%20v%E1%BB%91n.md)
 
 ## Kết nối, hợp tác
 - Hệ thống thông tin: 
     - [Kho địa điểm để chọn nơi gặp mặt](./K%E1%BA%BFt%20n%E1%BB%91i%20nhu%20c%E1%BA%A7u/H%E1%BB%87%20th%E1%BB%91ng%20th%C3%B4ng%20tin/Kho%20%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m%20%C4%91%E1%BB%83%20ch%E1%BB%8Dn%20n%C6%A1i%20g%E1%BA%B7p%20m%E1%BA%B7t.md)
     - [Kết nối nhu cầu di chuyển của người khuyết tật](./K%E1%BA%BFt%20n%E1%BB%91i%20nhu%20c%E1%BA%A7u/H%E1%BB%87%20th%E1%BB%91ng%20th%C3%B4ng%20tin/K%E1%BA%BFt%20n%E1%BB%91i%20nhu%20c%E1%BA%A7u%20di%20chuy%E1%BB%83n%20c%E1%BB%A7a%20ng%C6%B0%E1%BB%9Di%20khuy%E1%BA%BFt%20t%E1%BA%ADt.md)
     - [Mạng xã hội nơi mọi người hiểu rõ chính mình](./K%E1%BA%BFt%20n%E1%BB%91i%20nhu%20c%E1%BA%A7u/H%E1%BB%87%20th%E1%BB%91ng%20th%C3%B4ng%20tin/M%E1%BA%A1ng%20x%C3%A3%20h%E1%BB%99i%20n%C6%A1i%20m%E1%BB%8Di%20ng%C6%B0%E1%BB%9Di%20hi%E1%BB%83u%20r%C3%B5%20ch%C3%ADnh%20m%C3%ACnh.md)
-    - [Sàn gây quỹ đám đông](./K%E1%BA%BFt%20n%E1%BB%91i%20nhu%20c%E1%BA%A7u/H%E1%BB%87%20th%E1%BB%91ng%20th%C3%B4ng%20tin/S%C3%A0n%20g%C3%A2y%20qu%E1%BB%B9%20%C4%91%C3%A1m%20%C4%91%C3%B4ng.md)
+    - [Kho tri thức](./K%E1%BA%BFt%20n%E1%BB%91i%20nhu%20c%E1%BA%A7u/H%E1%BB%87%20th%E1%BB%91ng%20th%C3%B4ng%20tin/Kho%20tri%20th%E1%BB%A9c.md)
 
 - Nhóm: 
     - [Hợp tác xã nhân viên](./K%E1%BA%BFt%20n%E1%BB%91i%20nhu%20c%E1%BA%A7u/Nh%C3%B3m/H%E1%BB%A3p%20t%C3%A1c%20x%C3%A3%20nh%C3%A2n%20vi%C3%AAn.md)
@@ -27,6 +29,7 @@ created: 2026-06-05T15:13
     - [Cho vay lấy lãi](./K%E1%BA%BFt%20n%E1%BB%91i%20nhu%20c%E1%BA%A7u/T%C3%ADn%20d%E1%BB%A5ng/Cho%20vay%20l%E1%BA%A5y%20l%C3%A3i.md)
     - [Quỹ tín dụng](./K%E1%BA%BFt%20n%E1%BB%91i%20nhu%20c%E1%BA%A7u/T%C3%ADn%20d%E1%BB%A5ng/Qu%E1%BB%B9%20t%C3%ADn%20d%E1%BB%A5ng.md)
     - [Sàn cho vay ngang hàng](./K%E1%BA%BFt%20n%E1%BB%91i%20nhu%20c%E1%BA%A7u/T%C3%ADn%20d%E1%BB%A5ng/S%C3%A0n%20cho%20vay%20ngang%20h%C3%A0ng.md)
+    - [Sàn gây quỹ đám đông](./K%E1%BA%BFt%20n%E1%BB%91i%20nhu%20c%E1%BA%A7u/T%C3%ADn%20d%E1%BB%A5ng/S%C3%A0n%20g%C3%A2y%20qu%E1%BB%B9%20%C4%91%C3%A1m%20%C4%91%C3%B4ng.md)
 
 
 
@@ -59,4 +62,4 @@ Vào [Discord Quả Cầu](https://discord.com/channels/898550123007709204/12495
 [![](https://i.vgy.me/BjXA75.png)](https://discord.com/channels/898550123007709204/1249553476745298010)
 
 > [!important] Nhìn toàn cảnh
-> Công việc này là một phần của dự án [Giúp nhau kiếm tiền](../../../../%F0%9F%93%90D%E1%BB%B1%20%C3%A1n/Gi%C3%BAp%20nhau%20ki%E1%BA%BFm%20ti%E1%BB%81n/index.md). Đọc bài đó để hiểu thêm về mục tiêu dài hạn của dự án cũng như các lợi ích khác của bạn.
+> Công việc này là một phần của dự án [Nhóm giúp nhau kiếm tiền](../../../../%F0%9F%93%90D%E1%BB%B1%20%C3%A1n/Gi%C3%BAp%20nhau%20ki%E1%BA%BFm%20ti%E1%BB%81n/index.md). Đọc bài đó để hiểu thêm về mục tiêu dài hạn của dự án cũng như các lợi ích khác của bạn.
