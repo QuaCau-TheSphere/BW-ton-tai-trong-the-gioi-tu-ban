@@ -1,6 +1,6 @@
 ---
 share: true
-updated: 2026-07-20T16:09
+updated: 2026-07-27T02:26
 created: 2025-11-11T18:31
 ---
 Khái niệm:: [Tư bản](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Kinh%20t%E1%BA%BF%20h%E1%BB%8Dc/T%C6%B0%20b%E1%BA%A3n.md)
