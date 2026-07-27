@@ -1,6 +1,6 @@
 ---
 share: true
-updated: 2026-07-21T01:42
+updated: 2026-07-27T02:26
 aliases:
   - Mua đồ ăn giá rẻ
   - Kiếm đồ ăn miễn phí
@@ -10,10 +10,10 @@ created: 2025-08-31T16:23
 ## Mua đồ ăn rẻ 
 - Mua đồ ăn ở chợ đầu mối
 - Tham gia các [Nhóm mua chung, câu lạc bộ tiêu dùng](../../%F0%9F%93%90D%E1%BB%B1%20%C3%A1n/X%C3%A2y%20d%E1%BB%B1ng%20h%E1%BB%87%20th%E1%BB%91ng%20kinh%20t%E1%BA%BF%20m%E1%BB%9Bi/Nh%C3%B3m%20mua%20chung,%20c%C3%A2u%20l%E1%BA%A1c%20b%E1%BB%99%20ti%C3%AAu%20d%C3%B9ng.md)
-- Săn [Phiếu giảm giá (voucher)](../Qu%C3%A0%20t%E1%BA%B7ng/Phi%E1%BA%BFu%20gi%E1%BA%A3m%20gi%C3%A1%20(voucher)/index.md)
+- Săn [Phiếu giảm giá (voucher)](../Qu%C3%A0%20t%E1%BA%B7ng/C%C3%B3%20m%E1%BB%A5c%20%C4%91%C3%ADch%20ki%E1%BA%BFm%20ti%E1%BB%81n/Phi%E1%BA%BFu%20gi%E1%BA%A3m%20gi%C3%A1%20(voucher).md)
 - Aeon sau 9h tối bán đồ ăn đại hạ giá
 
-## Đến những nơi [Tặng đồ ăn](../Qu%C3%A0%20t%E1%BA%B7ng/T%E1%BA%B7ng%20%C4%91%E1%BB%93%20%C4%83n.md)
+## Đến những nơi [Tặng đồ ăn](../Qu%C3%A0%20t%E1%BA%B7ng/Kh%C3%B4ng%20m%E1%BB%A5c%20%C4%91%C3%ADch%20ki%E1%BA%BFm%20ti%E1%BB%81n/T%E1%BA%B7ng%20%C4%91%E1%BB%93%20%C4%83n.md)
 - [Ngân hàng thực phẩm Việt Nam - Food Bank Việt Nam](https://foodbankvietnam.com/)
 - [Tổng Hợp Địa Chỉ Bán Cơm Từ Thiện Giá 2,000đ - The Vietnam Foodbanking Network](https://foodbankvietnam.com/tong-hop-dia-chi-ban-com-tu-thien-gia-2000d/). Ở bệnh viện cũng phát đồ ăn từ thiện nhiều
 - Đến các hội chợ, triển lãm, festival ngành nhà hàng, thực phẩm
