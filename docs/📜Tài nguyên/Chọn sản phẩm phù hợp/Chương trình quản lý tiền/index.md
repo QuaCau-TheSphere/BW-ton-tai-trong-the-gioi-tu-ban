@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2026-07-06T21:09
+updated: 2026-07-27T02:26
 description: Điểm giống và khác nhau giữa các chương trình quản lý tiền. Quang cảnh và sơ đồ giữa chúng.
 aliases:
   - Điểm giống và khác nhau giữa các chương trình quản lý tiền
@@ -72,6 +72,9 @@ style 3 fill:lightgreen
     - [Phải thiết lập cấu hình](./2%20Y%C3%AAu%20c%E1%BA%A7u%20%C4%91%E1%BA%A7u%20v%C3%A0o/Ph%E1%BA%A3i%20thi%E1%BA%BFt%20l%E1%BA%ADp%20c%E1%BA%A5u%20h%C3%ACnh.md)
 
 - 3 Tính năng: 
+    - [100k mỗi tháng](./3%20T%C3%ADnh%20n%C4%83ng/Ch%C3%ADnh%20s%C3%A1ch%20gi%C3%A1/100k%20m%E1%BB%97i%20th%C3%A1ng.md)
+    - [Freemium](./3%20T%C3%ADnh%20n%C4%83ng/Ch%C3%ADnh%20s%C3%A1ch%20gi%C3%A1/Freemium.md)
+    - [Miễn phí](./3%20T%C3%ADnh%20n%C4%83ng/Ch%C3%ADnh%20s%C3%A1ch%20gi%C3%A1/Mi%E1%BB%85n%20ph%C3%AD.md)
     - [Nhập liệu bằng giọng nói](./3%20T%C3%ADnh%20n%C4%83ng/C%C3%A1ch%20nh%E1%BA%ADp%20li%E1%BB%87u/Nh%E1%BA%ADp%20li%E1%BB%87u%20b%E1%BA%B1ng%20gi%E1%BB%8Dng%20n%C3%B3i.md)
     - [Nhập liệu được bằng file text](./3%20T%C3%ADnh%20n%C4%83ng/C%C3%A1ch%20nh%E1%BA%ADp%20li%E1%BB%87u/Nh%E1%BA%ADp%20li%E1%BB%87u%20%C4%91%C6%B0%E1%BB%A3c%20b%E1%BA%B1ng%20file%20text.md)
     - [Nhập liệu được trên Google Keep](./3%20T%C3%ADnh%20n%C4%83ng/C%C3%A1ch%20nh%E1%BA%ADp%20li%E1%BB%87u/Nh%E1%BA%ADp%20li%E1%BB%87u%20%C4%91%C6%B0%E1%BB%A3c%20tr%C3%AAn%20Google%20Keep.md)
@@ -79,19 +82,16 @@ style 3 fill:lightgreen
     - [Nhập được bằng tập tin bảng tính](./3%20T%C3%ADnh%20n%C4%83ng/C%C3%A1ch%20nh%E1%BA%ADp%20li%E1%BB%87u/Nh%E1%BA%ADp%20%C4%91%C6%B0%E1%BB%A3c%20b%E1%BA%B1ng%20t%E1%BA%ADp%20tin%20b%E1%BA%A3ng%20t%C3%ADnh.md)
     - [Nhập được trên máy tính](./3%20T%C3%ADnh%20n%C4%83ng/C%C3%A1ch%20nh%E1%BA%ADp%20li%E1%BB%87u/Nh%E1%BA%ADp%20%C4%91%C6%B0%E1%BB%A3c%20tr%C3%AAn%20m%C3%A1y%20t%C3%ADnh.md)
     - [Nhập được trên web](./3%20T%C3%ADnh%20n%C4%83ng/C%C3%A1ch%20nh%E1%BA%ADp%20li%E1%BB%87u/Nh%E1%BA%ADp%20%C4%91%C6%B0%E1%BB%A3c%20tr%C3%AAn%20web.md)
-    - [Tự động lấy thông tin giao dịch ngay lúc quẹt mã](./3%20T%C3%ADnh%20n%C4%83ng/C%C3%A1ch%20nh%E1%BA%ADp%20li%E1%BB%87u/T%E1%BB%B1%20%C4%91%E1%BB%99ng%20l%E1%BA%A5y%20th%C3%B4ng%20tin%20giao%20d%E1%BB%8Bch%20ngay%20l%C3%BAc%20qu%E1%BA%B9t%20m%C3%A3.md)
     - [Nhập được trên điện thoại](./3%20T%C3%ADnh%20n%C4%83ng/C%C3%A1ch%20nh%E1%BA%ADp%20li%E1%BB%87u/Nh%E1%BA%ADp%20%C4%91%C6%B0%E1%BB%A3c%20tr%C3%AAn%20%C4%91i%E1%BB%87n%20tho%E1%BA%A1i.md)
+    - [Tự động lấy thông tin giao dịch ngay lúc quẹt mã](./3%20T%C3%ADnh%20n%C4%83ng/C%C3%A1ch%20nh%E1%BA%ADp%20li%E1%BB%87u/T%E1%BB%B1%20%C4%91%E1%BB%99ng%20l%E1%BA%A5y%20th%C3%B4ng%20tin%20giao%20d%E1%BB%8Bch%20ngay%20l%C3%BAc%20qu%E1%BA%B9t%20m%C3%A3.md)
     - [Điều khiển dễ dàng bằng bàn phím](./3%20T%C3%ADnh%20n%C4%83ng/C%C3%A1ch%20nh%E1%BA%ADp%20li%E1%BB%87u/%C4%90i%E1%BB%81u%20khi%E1%BB%83n%20d%E1%BB%85%20d%C3%A0ng%20b%E1%BA%B1ng%20b%C3%A0n%20ph%C3%ADm.md)
-    - [100k mỗi tháng](./3%20T%C3%ADnh%20n%C4%83ng/Ch%C3%ADnh%20s%C3%A1ch%20gi%C3%A1/100k%20m%E1%BB%97i%20th%C3%A1ng.md)
-    - [Freemium](./3%20T%C3%ADnh%20n%C4%83ng/Ch%C3%ADnh%20s%C3%A1ch%20gi%C3%A1/Freemium.md)
-    - [Miễn phí](./3%20T%C3%ADnh%20n%C4%83ng/Ch%C3%ADnh%20s%C3%A1ch%20gi%C3%A1/Mi%E1%BB%85n%20ph%C3%AD.md)
     - [Phân loại bằng tay](./3%20T%C3%ADnh%20n%C4%83ng/C%C3%A1ch%20ph%C3%A2n%20lo%E1%BA%A1i/Ph%C3%A2n%20lo%E1%BA%A1i%20b%E1%BA%B1ng%20tay.md)
     - [Phân loại tự động theo mô hình ngôn ngữ lớn](./3%20T%C3%ADnh%20n%C4%83ng/C%C3%A1ch%20ph%C3%A2n%20lo%E1%BA%A1i/Ph%C3%A2n%20lo%E1%BA%A1i%20t%E1%BB%B1%20%C4%91%E1%BB%99ng%20theo%20m%C3%B4%20h%C3%ACnh%20ng%C3%B4n%20ng%E1%BB%AF%20l%E1%BB%9Bn.md)
     - [Phân loại tự động theo quy luật](./3%20T%C3%ADnh%20n%C4%83ng/C%C3%A1ch%20ph%C3%A2n%20lo%E1%BA%A1i/Ph%C3%A2n%20lo%E1%BA%A1i%20t%E1%BB%B1%20%C4%91%E1%BB%99ng%20theo%20quy%20lu%E1%BA%ADt.md)
     - [Có GUI](./3%20T%C3%ADnh%20n%C4%83ng/Giao%20di%E1%BB%87n/C%C3%B3%20GUI.md)
     - [Dùng được trên CLI](./3%20T%C3%ADnh%20n%C4%83ng/Giao%20di%E1%BB%87n/D%C3%B9ng%20%C4%91%C6%B0%E1%BB%A3c%20tr%C3%AAn%20CLI.md)
-    - [Game hoá](./3%20T%C3%ADnh%20n%C4%83ng/Kh%C3%A1c/Game%20ho%C3%A1.md)
     - [Có người hỗ trợ sâu](./3%20T%C3%ADnh%20n%C4%83ng/Kh%C3%A1c/C%C3%B3%20ng%C6%B0%E1%BB%9Di%20h%E1%BB%97%20tr%E1%BB%A3%20s%C3%A2u.md)
+    - [Game hoá](./3%20T%C3%ADnh%20n%C4%83ng/Kh%C3%A1c/Game%20ho%C3%A1.md)
     - [Là phần mềm tự do](./3%20T%C3%ADnh%20n%C4%83ng/Kh%C3%A1c/L%C3%A0%20ph%E1%BA%A7n%20m%E1%BB%81m%20t%E1%BB%B1%20do.md)
     - [Sử dụng phương pháp chi tiêu phù hợp hoàn cảnh mỗi người](./3%20T%C3%ADnh%20n%C4%83ng/Kh%C3%A1c/S%E1%BB%AD%20d%E1%BB%A5ng%20ph%C6%B0%C6%A1ng%20ph%C3%A1p%20chi%20ti%C3%AAu%20ph%C3%B9%20h%E1%BB%A3p%20ho%C3%A0n%20c%E1%BA%A3nh%20m%E1%BB%97i%20ng%C6%B0%E1%BB%9Di.md)
     - [Trả tiền để làm phân loại](./3%20T%C3%ADnh%20n%C4%83ng/Kh%C3%A1c/Tr%E1%BA%A3%20ti%E1%BB%81n%20%C4%91%E1%BB%83%20l%C3%A0m%20ph%C3%A2n%20lo%E1%BA%A1i.md)
@@ -112,18 +112,17 @@ style 3 fill:lightgreen
     - [Chương trình kế toán](./4%20Lo%E1%BA%A1i%20ch%C6%B0%C6%A1ng%20tr%C3%ACnh/Ch%C6%B0%C6%A1ng%20tr%C3%ACnh%20k%E1%BA%BF%20to%C3%A1n.md)
     - [Chương trình phân loại dữ liệu tự động](./4%20Lo%E1%BA%A1i%20ch%C6%B0%C6%A1ng%20tr%C3%ACnh/Ch%C6%B0%C6%A1ng%20tr%C3%ACnh%20ph%C3%A2n%20lo%E1%BA%A1i%20d%E1%BB%AF%20li%E1%BB%87u%20t%E1%BB%B1%20%C4%91%E1%BB%99ng.md)
     - [Chương trình quản lý quỹ chung](./4%20Lo%E1%BA%A1i%20ch%C6%B0%C6%A1ng%20tr%C3%ACnh/Ch%C6%B0%C6%A1ng%20tr%C3%ACnh%20qu%E1%BA%A3n%20l%C3%BD%20qu%E1%BB%B9%20chung.md)
-    - [Plugin cho phần mềm khác](./4%20Lo%E1%BA%A1i%20ch%C6%B0%C6%A1ng%20tr%C3%ACnh/Plugin%20cho%20ph%E1%BA%A7n%20m%E1%BB%81m%20kh%C3%A1c.md)
     - [Chương trình tài liệu động](./4%20Lo%E1%BA%A1i%20ch%C6%B0%C6%A1ng%20tr%C3%ACnh/Ch%C6%B0%C6%A1ng%20tr%C3%ACnh%20t%C3%A0i%20li%E1%BB%87u%20%C4%91%E1%BB%99ng.md)
+    - [Plugin cho phần mềm khác](./4%20Lo%E1%BA%A1i%20ch%C6%B0%C6%A1ng%20tr%C3%ACnh/Plugin%20cho%20ph%E1%BA%A7n%20m%E1%BB%81m%20kh%C3%A1c.md)
     - [Template thu chi trên Excel](./4%20Lo%E1%BA%A1i%20ch%C6%B0%C6%A1ng%20tr%C3%ACnh/Template%20thu%20chi%20tr%C3%AAn%20Excel.md)
 
 - 5 Tên chương trình: 
     - [Chương trình quản lý chi tiêu cá nhân từ Trấn Kỳ](./5%20T%C3%AAn%20ch%C6%B0%C6%A1ng%20tr%C3%ACnh/App%20qu%E1%BA%A3n%20l%C3%BD%20chi%20ti%C3%AAu/Ch%C6%B0%C6%A1ng%20tr%C3%ACnh%20qu%E1%BA%A3n%20l%C3%BD%20chi%20ti%C3%AAu%20c%C3%A1%20nh%C3%A2n%20t%E1%BB%AB%20Tr%E1%BA%A5n%20K%E1%BB%B3.md)
-    - [Momo](./5%20T%C3%AAn%20ch%C6%B0%C6%A1ng%20tr%C3%ACnh/App%20qu%E1%BA%A3n%20l%C3%BD%20chi%20ti%C3%AAu/Momo.md)
     - [Maybe finance](./5%20T%C3%AAn%20ch%C6%B0%C6%A1ng%20tr%C3%ACnh/App%20qu%E1%BA%A3n%20l%C3%BD%20chi%20ti%C3%AAu/Maybe%20finance.md)
+    - [Momo](./5%20T%C3%AAn%20ch%C6%B0%C6%A1ng%20tr%C3%ACnh/App%20qu%E1%BA%A3n%20l%C3%BD%20chi%20ti%C3%AAu/Momo.md)
     - [MoneyLover](./5%20T%C3%AAn%20ch%C6%B0%C6%A1ng%20tr%C3%ACnh/App%20qu%E1%BA%A3n%20l%C3%BD%20chi%20ti%C3%AAu/MoneyLover.md)
     - [PiPu](./5%20T%C3%AAn%20ch%C6%B0%C6%A1ng%20tr%C3%ACnh/App%20qu%E1%BA%A3n%20l%C3%BD%20chi%20ti%C3%AAu/PiPu.md)
     - [figr](./5%20T%C3%AAn%20ch%C6%B0%C6%A1ng%20tr%C3%ACnh/figr.md)
-    - [SaveDi](./5%20T%C3%AAn%20ch%C6%B0%C6%A1ng%20tr%C3%ACnh/SaveDi.md)
     - [Beancount, hledger](./5%20T%C3%AAn%20ch%C6%B0%C6%A1ng%20tr%C3%ACnh/K%E1%BA%BF%20to%C3%A1n/Beancount,%20hledger.md)
     - [areg chỉ dùng được cho đúng một tài khoản. Reg có thể nhập nhiều tài khoản vào một báo cáo](./5%20T%C3%AAn%20ch%C6%B0%C6%A1ng%20tr%C3%ACnh/K%E1%BA%BF%20to%C3%A1n/hledger/areg%20ch%E1%BB%89%20d%C3%B9ng%20%C4%91%C6%B0%E1%BB%A3c%20cho%20%C4%91%C3%BAng%20m%E1%BB%99t%20t%C3%A0i%20kho%E1%BA%A3n.%20Reg%20c%C3%B3%20th%E1%BB%83%20nh%E1%BA%ADp%20nhi%E1%BB%81u%20t%C3%A0i%20kho%E1%BA%A3n%20v%C3%A0o%20m%E1%BB%99t%20b%C3%A1o%20c%C3%A1o.md)
     - [areg dùng để đối chiếu tài khoản thật, còn reg là để kiểm tra thu chi](./5%20T%C3%AAn%20ch%C6%B0%C6%A1ng%20tr%C3%ACnh/K%E1%BA%BF%20to%C3%A1n/hledger/areg%20d%C3%B9ng%20%C4%91%E1%BB%83%20%C4%91%E1%BB%91i%20chi%E1%BA%BFu%20t%C3%A0i%20kho%E1%BA%A3n%20th%E1%BA%ADt,%20c%C3%B2n%20reg%20l%C3%A0%20%C4%91%E1%BB%83%20ki%E1%BB%83m%20tra%20thu%20chi.md)
@@ -132,6 +131,7 @@ style 3 fill:lightgreen
     - [Kinh nghiệm dùng hledger](./5%20T%C3%AAn%20ch%C6%B0%C6%A1ng%20tr%C3%ACnh/K%E1%BA%BF%20to%C3%A1n/hledger/Kinh%20nghi%E1%BB%87m%20d%C3%B9ng%20hledger.md)
     - [Ngay cả tác giả của hledger cũng không dùng add](./5%20T%C3%AAn%20ch%C6%B0%C6%A1ng%20tr%C3%ACnh/K%E1%BA%BF%20to%C3%A1n/hledger/Ngay%20c%E1%BA%A3%20t%C3%A1c%20gi%E1%BA%A3%20c%E1%BB%A7a%20hledger%20c%C5%A9ng%20kh%C3%B4ng%20d%C3%B9ng%20add.md)
     - [Misa](./5%20T%C3%AAn%20ch%C6%B0%C6%A1ng%20tr%C3%ACnh/K%E1%BA%BF%20to%C3%A1n/Misa.md)
+    - [SaveDi](./5%20T%C3%AAn%20ch%C6%B0%C6%A1ng%20tr%C3%ACnh/SaveDi.md)
     - [Soulver](./5%20T%C3%AAn%20ch%C6%B0%C6%A1ng%20tr%C3%ACnh/Soulver.md)
     - [Trấn Kỳ (quang cảnh thị trường)](./5%20T%C3%AAn%20ch%C6%B0%C6%A1ng%20tr%C3%ACnh/Tr%E1%BA%A5n%20K%E1%BB%B3%20(quang%20c%E1%BA%A3nh%20th%E1%BB%8B%20tr%C6%B0%E1%BB%9Dng).md)
 
