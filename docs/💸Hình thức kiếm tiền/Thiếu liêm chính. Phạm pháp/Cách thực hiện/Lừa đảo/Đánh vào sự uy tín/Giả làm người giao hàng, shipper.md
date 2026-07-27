@@ -1,6 +1,6 @@
 ---
 share: true
-updated: 2026-07-19T08:57
+updated: 2026-07-27T02:20
 created: 2026-07-17T15:25
 ---
 Nhiều người nhận được cuộc gọi từ người tự xưng là shipper, đọc đúng tên hàng, số tiền cần thanh toán rồi yêu cầu chuyển khoản trước. Vì thông tin nghe rất khớp với đơn đang chờ nhận, không ít người dễ tin và chuyển tiền.
