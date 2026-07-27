@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-05-05T21:34
-updated: 2026-07-19T08:49
+updated: 2026-07-27T02:26
 ---
 Khái niệm:: [Cướp](../../../../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Ki%E1%BA%BFm%20ti%E1%BB%81n/Kh%C3%B4ng%20li%C3%AAm%20ch%C3%ADnh/C%C6%B0%E1%BB%9Bp.md)
 Băng cướp hoạt động bằng thương hiệu. So với lực lượng vũ trang an ninh, thì nếu xảy ra đánh nhau thì người bị thiệt nhiều hơn là chúng, nên chúng cần được mọi người truyền tai nhau rằng chúng rất ác để họ tự động đầu hàng
