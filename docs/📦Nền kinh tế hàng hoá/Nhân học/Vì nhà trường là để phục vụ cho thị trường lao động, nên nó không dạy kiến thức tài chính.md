@@ -1,6 +1,6 @@
 ---
 share: true
-updated: 2026-07-07T13:00
+updated: 2026-07-27T02:26
 created: 2025-10-06T21:51
 ---
 Khái niệm:: [Thị trường](../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Kinh%20t%E1%BA%BF%20h%E1%BB%8Dc/Th%E1%BB%8B%20tr%C6%B0%E1%BB%9Dng.md), [Giáo dục tài chính](../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Ki%E1%BA%BFm%20ti%E1%BB%81n/Gi%C3%A1o%20d%E1%BB%A5c%20t%C3%A0i%20ch%C3%ADnh.md)
