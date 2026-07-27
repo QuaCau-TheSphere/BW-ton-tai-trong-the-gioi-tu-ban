@@ -1,6 +1,6 @@
 ---
 share: true
-updated: 2026-07-07T12:59
+updated: 2026-07-27T02:26
 created: 2025-10-06T15:13
 ---
 [Danh mục tài khoản và ý nghĩa bảng cân đối của quỹ](../../../../../../%F0%9F%93%90D%E1%BB%B1%20%C3%A1n/Gi%C3%BAp%20nhau%20tho%C3%A1t%20n%E1%BB%A3/Qu%E1%BB%B9/Danh%20m%E1%BB%A5c%20t%C3%A0i%20kho%E1%BA%A3n%20v%C3%A0%20%C3%BD%20ngh%C4%A9a%20b%E1%BA%A3ng%20c%C3%A2n%20%C4%91%E1%BB%91i%20c%E1%BB%A7a%20qu%E1%BB%B9.md)
