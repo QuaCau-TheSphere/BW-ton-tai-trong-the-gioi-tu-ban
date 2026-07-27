@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2026-07-10T14:30
+updated: 2026-07-27T02:26
 ---
 Khái niệm:: [App đen, vay nóng](../../../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/T%C3%ADn%20d%E1%BB%A5ng/Vay,%20n%E1%BB%A3/App%20%C4%91en,%20vay%20n%C3%B3ng.md)
 
@@ -13,5 +13,5 @@ Theo mình hiểu thì có những cách sau để lừa người ta lấy KYC m
 
 [⚠️ Hiện đã bắt đầu phát hiện các tổ... - Thông tin Chính phủ \| Facebook](https://www.facebook.com/thongtinchinhphu/posts/pfbid035qhAFddkvSgeKypbAvbuKLRuKhgEsQq7VfweT3PHVyVz2ov83YskiFh9qAwnq8sNl)
 
-[Fake cam, KYC](../../Ki%E1%BA%BFm%20ti%E1%BB%81n%20tr%E1%BB%B1c%20tuy%E1%BA%BFn%20(MMO)/Fake%20cam,%20KYC.md)
+[Fake cam, KYC](../../Fake%20cam,%20KYC.md)
 [Chỉ cần ảnh mặt trước CCCD và SĐT của một người là có thể truy cập được vào tài khoản ngân hàng của họ](../../../%C4%90i%E1%BB%81u%20c%E1%BA%A7n%20%C4%91%E1%BB%83%20%C3%BD/Ch%E1%BB%89%20c%E1%BA%A7n%20%E1%BA%A3nh%20m%E1%BA%B7t%20tr%C6%B0%E1%BB%9Bc%20CCCD%20v%C3%A0%20S%C4%90T%20c%E1%BB%A7a%20m%E1%BB%99t%20ng%C6%B0%E1%BB%9Di%20l%C3%A0%20c%C3%B3%20th%E1%BB%83%20truy%20c%E1%BA%ADp%20%C4%91%C6%B0%E1%BB%A3c%20v%C3%A0o%20t%C3%A0i%20kho%E1%BA%A3n%20ng%C3%A2n%20h%C3%A0ng%20c%E1%BB%A7a%20h%E1%BB%8D.md)
