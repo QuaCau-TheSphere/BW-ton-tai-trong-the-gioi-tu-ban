@@ -1,5 +1,5 @@
 ---
-updated: 2026-07-07T12:59
+updated: 2026-07-27T02:26
 share: true
 created: 2025-05-08T20:28
 ---
@@ -35,7 +35,7 @@ Nếu nhà ở đâu đó gần Q1 thì không hiệu quả, nếu ở TĐ thì 
 Túm lại, chỉ cần là anh chứng minh đc là 4 kh đó a có gặp có tiếp xúc, nói tháng sau đóng tiền và lên tóp úp còn đóng tiền thì có thể luồng lách, quan trọng nhất là quyết tâm Muốn gắn bó với công việc thì sẽ ok liền.
 
 ## Nơi ở
-Xem thêm:: [Bao nuôi](../../../../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Qu%C3%A0%20t%E1%BA%B7ng/Bao%20nu%C3%B4i/index.md)
+Xem thêm:: [Bao nuôi](Bao%20nu%C3%B4i.md)
 Nếu ở xa thì nghiên cứu share phòng 1tr/2 người cỡ 20-24m2 coi xem nó thấy ntn
 
 giả sử được cái phòng 1tr/2 ng 20m2 thì e tính tầm 800-cao lắm là 900k cho tiền nhà,điện,nc,wifi/người
