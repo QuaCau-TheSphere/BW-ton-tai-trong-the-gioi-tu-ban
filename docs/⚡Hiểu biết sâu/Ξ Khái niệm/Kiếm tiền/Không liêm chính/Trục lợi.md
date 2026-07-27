@@ -1,6 +1,6 @@
 ---
 share: true
-updated: 2026-07-07T12:58
+updated: 2026-07-27T02:26
 created: 2025-09-09T10:08
 ---
 [Thiếu liêm chính. Phạm pháp](../../../../%F0%9F%92%B8H%C3%ACnh%20th%E1%BB%A9c%20ki%E1%BA%BFm%20ti%E1%BB%81n/Thi%E1%BA%BFu%20li%C3%AAm%20ch%C3%ADnh.%20Ph%E1%BA%A1m%20ph%C3%A1p/index.md)
