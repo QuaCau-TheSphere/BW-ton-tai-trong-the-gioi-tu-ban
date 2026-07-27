@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-22T17:29
-updated: 2026-07-10T14:30
+updated: 2026-07-27T02:26
 ---
 Đầu năm 2024 có một con bot Telegram [App](https://voz.vn/t/gia-cong-an-phuong-goi-lua-cap-nhat-can-cuoc-cong-dan.910543/). Nó cho ra toàn bộ thông tin của bạn từ CMND đến CCCD đã cập nhật. Facebook, email trả ra luôn. Không chỉ là số của một nhà mạng mà nhiều nhà mạng luôn.
 ![1705770374571.png](../../../../../assets/attachments/1705770374571.png)![1705770381055.png](../../../../../assets/attachments/1705770381055.png)
@@ -67,7 +67,7 @@ Này thì tra cứu nên á như vậy chỉ còn khuôn mặt nữa là xong
 
 
 mà cái này là tự bán, chứ nếu mà tính đến lỗ hổng bảo mật thì còn kinh hơn 
-[An ninh mạng ở Việt Nam rất tệ](../T%E1%BA%A5n%20c%C3%B4ng%20m%E1%BA%A1ng/An%20ninh%20m%E1%BA%A1ng%20%E1%BB%9F%20Vi%E1%BB%87t%20Nam%20r%E1%BA%A5t%20t%E1%BB%87.md)
+[An ninh mạng ở Việt Nam rất tệ](../../%C4%90i%E1%BB%81u%20c%E1%BA%A7n%20%C4%91%E1%BB%83%20%C3%BD/An%20ninh%20m%E1%BA%A1ng/An%20ninh%20m%E1%BA%A1ng%20%E1%BB%9F%20Vi%E1%BB%87t%20Nam%20r%E1%BA%A5t%20t%E1%BB%87.md)
 [❓App đen có người trong các công ty viễn thông nên biết được sim đã xài trong bao lâu](../../../../../%F0%9F%A7%91%E2%80%8D%F0%9F%8C%BENg%C3%A0nh%20ngh%E1%BB%81%20c%E1%BB%A5%20th%E1%BB%83/T%C3%A0i%20ch%C3%ADnh/T%C3%ADn%20d%E1%BB%A5ng/T%C3%ADn%20d%E1%BB%A5ng%20t%C6%B0%20b%E1%BA%A3n/Vay%20n%E1%BB%A3/Kh%C3%B4ng%20d%E1%BB%B1a%20tr%C3%AAn%20%C4%91i%E1%BB%83m%20t%C3%ADn%20d%E1%BB%A5ng/Vay%20n%C3%B3ng/%E2%9D%93App%20%C4%91en%20c%C3%B3%20ng%C6%B0%E1%BB%9Di%20trong%20c%C3%A1c%20c%C3%B4ng%20ty%20vi%E1%BB%85n%20th%C3%B4ng%20n%C3%AAn%20bi%E1%BA%BFt%20%C4%91%C6%B0%E1%BB%A3c%20sim%20%C4%91%C3%A3%20x%C3%A0i%20trong%20bao%20l%C3%A2u.md)
 [Rất nhiều các công ty tài chính tiêu dùng lấy dữ liệu từ Viettel](../../../../../%F0%9F%A7%91%E2%80%8D%F0%9F%8C%BENg%C3%A0nh%20ngh%E1%BB%81%20c%E1%BB%A5%20th%E1%BB%83/T%C3%A0i%20ch%C3%ADnh/T%C3%ADn%20d%E1%BB%A5ng/T%C3%ADn%20d%E1%BB%A5ng%20t%C6%B0%20b%E1%BA%A3n/Vay%20n%E1%BB%A3/D%E1%BB%B1a%20tr%C3%AAn%20%C4%91i%E1%BB%83m%20t%C3%ADn%20d%E1%BB%A5ng/Kho%E1%BA%A3n%20vay%20c%E1%BB%A7a%20t%E1%BB%95%20ch%E1%BB%A9c%20t%C3%A0i%20ch%C3%ADnh%20ti%C3%AAu%20d%C3%B9ng/R%E1%BA%A5t%20nhi%E1%BB%81u%20c%C3%A1c%20c%C3%B4ng%20ty%20t%C3%A0i%20ch%C3%ADnh%20ti%C3%AAu%20d%C3%B9ng%20l%E1%BA%A5y%20d%E1%BB%AF%20li%E1%BB%87u%20t%E1%BB%AB%20Viettel.md)
 [Hacker đánh cắp dữ liệu cá nhân tại CIC](https://vnexpress.net/canh-bao-thu-doan-lua-dao-moi-neu-du-lieu-ca-nhan-tai-cic-bi-lo-4938185.html)
