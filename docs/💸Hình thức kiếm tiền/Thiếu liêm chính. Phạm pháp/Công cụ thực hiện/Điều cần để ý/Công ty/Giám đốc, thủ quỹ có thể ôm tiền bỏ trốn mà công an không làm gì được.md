@@ -1,6 +1,6 @@
 ---
 share: true
-updated: 2026-07-07T12:59
+updated: 2026-07-27T02:26
 created: 2025-12-06T16:59
 ---
 [Trước khi đưa số tiền lớn cần đảm bảo là người cầm tiền không chuồn được](../Chuy%E1%BB%83n%20ti%E1%BB%81n/Tr%C6%B0%E1%BB%9Bc%20khi%20%C4%91%C6%B0a%20s%E1%BB%91%20ti%E1%BB%81n%20l%E1%BB%9Bn%20c%E1%BA%A7n%20%C4%91%E1%BA%A3m%20b%E1%BA%A3o%20l%C3%A0%20ng%C6%B0%E1%BB%9Di%20c%E1%BA%A7m%20ti%E1%BB%81n%20kh%C3%B4ng%20chu%E1%BB%93n%20%C4%91%C6%B0%E1%BB%A3c.md)
