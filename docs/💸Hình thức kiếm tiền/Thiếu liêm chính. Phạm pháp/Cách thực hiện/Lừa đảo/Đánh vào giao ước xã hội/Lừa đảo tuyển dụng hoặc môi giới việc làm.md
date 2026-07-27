@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-05-15T14:44
-updated: 2026-07-19T08:57
+updated: 2026-07-27T02:26
 ---
 Bắt đóng trước tiền đồng phục, tiền giữ chân, tiền làm thẻ, tiền đào tạo, v.v.
 
