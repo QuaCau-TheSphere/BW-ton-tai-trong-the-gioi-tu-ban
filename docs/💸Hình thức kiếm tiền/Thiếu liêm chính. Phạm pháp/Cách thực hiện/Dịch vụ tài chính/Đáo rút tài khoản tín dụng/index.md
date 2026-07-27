@@ -1,6 +1,6 @@
 ---
 share: true
-updated: 2026-07-19T09:00
+updated: 2026-07-27T02:26
 created: 2026-01-12T11:11
 title: Đáo rút tài khoản tín dụng
 ---
@@ -26,6 +26,7 @@ Phí đáo rút cao là một phần lý do nhiều người gãy nợ
     - [Muốn làm dịch vụ đáo rút thì cần tối thiểu 20 tỷ](./Mu%E1%BB%91n%20l%C3%A0m%20d%E1%BB%8Bch%20v%E1%BB%A5%20%C4%91%C3%A1o%20r%C3%BAt%20th%C3%AC%20c%E1%BA%A7n%20t%E1%BB%91i%20thi%E1%BB%83u%2020%20t%E1%BB%B7.md)
     - [Ngân hàng không có động lực bắt đáo vì ngân hàng cũng kiếm được tiền từ việc mình đáo](./Ng%C3%A2n%20h%C3%A0ng%20kh%C3%B4ng%20c%C3%B3%20%C4%91%E1%BB%99ng%20l%E1%BB%B1c%20b%E1%BA%AFt%20%C4%91%C3%A1o%20v%C3%AC%20ng%C3%A2n%20h%C3%A0ng%20c%C5%A9ng%20ki%E1%BA%BFm%20%C4%91%C6%B0%E1%BB%A3c%20ti%E1%BB%81n%20t%E1%BB%AB%20vi%E1%BB%87c%20m%C3%ACnh%20%C4%91%C3%A1o.md)
     - [Nếu bị phát hiện đáo rút thì ngân hàng sẽ phạt](./N%E1%BA%BFu%20b%E1%BB%8B%20ph%C3%A1t%20hi%E1%BB%87n%20%C4%91%C3%A1o%20r%C3%BAt%20th%C3%AC%20ng%C3%A2n%20h%C3%A0ng%20s%E1%BA%BD%20ph%E1%BA%A1t.md)
+    - [Nỗi ám ảnh với sự hiệu quả có thể đến từ nỗi sợ chết](N%E1%BB%97i%20%C3%A1m%20%E1%BA%A3nh%20v%E1%BB%9Bi%20s%E1%BB%B1%20hi%E1%BB%87u%20qu%E1%BA%A3%20c%C3%B3%20th%E1%BB%83%20%C4%91%E1%BA%BFn%20t%E1%BB%AB%20n%E1%BB%97i%20s%E1%BB%A3%20ch%E1%BA%BFt.md)
     - [Đáo rút tài khoản tín dụng](index.md)
 
 - Phí: 
@@ -37,4 +38,5 @@ Phí đáo rút cao là một phần lý do nhiều người gãy nợ
     - [Các thẻ OCB, VPBank, TPBank không chuyển tiền trực tiếp vào thẻ được mà phải vào app](./Th%E1%BA%BB/C%C3%A1c%20th%E1%BA%BB%20OCB,%20VPBank,%20TPBank%20kh%C3%B4ng%20chuy%E1%BB%83n%20ti%E1%BB%81n%20tr%E1%BB%B1c%20ti%E1%BA%BFp%20v%C3%A0o%20th%E1%BA%BB%20%C4%91%C6%B0%E1%BB%A3c%20m%C3%A0%20ph%E1%BA%A3i%20v%C3%A0o%20app.md)
     - [Momo làm nghiêm túc trong việc bắt đáo rút](./Th%E1%BA%BB/Momo%20l%C3%A0m%20nghi%C3%AAm%20t%C3%BAc%20trong%20vi%E1%BB%87c%20b%E1%BA%AFt%20%C4%91%C3%A1o%20r%C3%BAt.md)
     - [Seabank hạn cuối hay chặn POS](./Th%E1%BA%BB/Seabank%20h%E1%BA%A1n%20cu%E1%BB%91i%20hay%20ch%E1%BA%B7n%20POS.md)
+
 
