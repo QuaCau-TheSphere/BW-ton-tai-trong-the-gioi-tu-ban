@@ -1,6 +1,6 @@
 ---
 share: true
-updated: 2026-07-20T14:56
+updated: 2026-07-27T02:26
 created: 2026-06-05T18:29
 ---
 ## Thị trường & đối thủ cạnh tranh
@@ -31,6 +31,7 @@ Bọn mình cho rằng **bạn nên được quyền quyết định giá trị 
 
 ## Thành quả mong muốn
 ## Vai trò thương hiệu
+## Những người tham gia
 Nhật giúp ghi chép, tổng hợp thông tin, hoặc chia sẻ kiến thức, trải nghiệm. Xem chi tiết tại [Lời mời sử dụng nguồn lực của Nhật](https://doi-thoai.deno.dev/6_.7O.1)
 
 ## Thông tin thêm
