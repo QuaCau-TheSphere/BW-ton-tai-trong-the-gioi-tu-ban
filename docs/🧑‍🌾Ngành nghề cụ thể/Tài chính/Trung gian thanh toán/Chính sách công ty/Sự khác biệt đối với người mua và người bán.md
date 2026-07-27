@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-07-04T23:52
-updated: 2026-07-07T13:00
+updated: 2026-07-27T02:27
 ---
 
 ## Khác biệt về sản phẩm
@@ -34,4 +34,4 @@ Các công ty đều có tặng loa
 | Smartpay |            |                                |                                                |                                                                                                                                                                                                                        |                                                                                                       |
 | Ecopay   |            |                                |                                                |                                                                                                                                                                                                                        |                                                                                                       |
 
-Momo và VNPAY là đều cần căn cước + SĐT của người chủ cửa hàng. Nhưng Momo hướng tới những người đã tạo app rồi, nên với những người này họ không thấy là mình phải đưa thông tin cá nhân khi đăng ký mở cửa hàng. Chứ thật ra Momo đã biết thông tin cá nhân của họ rồi. Chính vì như vậy, nên [nhân viên VNPAY nói mình là nhân viên Momo sẽ dễ hơn](../../../../%F0%9F%93%90D%E1%BB%B1%20%C3%A1n/Gi%C3%BAp%20nhau%20ki%E1%BA%BFm%20ti%E1%BB%81n/Gi%C3%BAp%20nh%C3%A2n%20vi%C3%AAn%20c%C3%B4ng%20ty%20%C4%91%E1%BA%A1t%20ch%E1%BB%89%20ti%C3%AAu/Ch%C6%A1i%20ch%C3%ADnh%20s%C3%A1ch/T%C3%A0i%20li%E1%BB%87u%20v%E1%BB%81%20t%E1%BB%ABng%20c%C3%B4ng%20ty/VNPAY/N%C3%B3i%20m%C3%ACnh%20l%C3%A0%20nh%C3%A2n%20vi%C3%AAn%20Momo%20nh%C6%B0ng%20g%E1%BA%AFn%20m%C3%A3%20c%C3%B4ng%20ty%20kh%C3%A1c%20s%E1%BA%BD%20d%E1%BB%85%20h%C6%A1n.md)
+Momo và VNPAY là đều cần căn cước + SĐT của người chủ cửa hàng. Nhưng Momo hướng tới những người đã tạo app rồi, nên với những người này họ không thấy là mình phải đưa thông tin cá nhân khi đăng ký mở cửa hàng. Chứ thật ra Momo đã biết thông tin cá nhân của họ rồi. Chính vì như vậy, nên [nhân viên VNPAY nói mình là nhân viên Momo sẽ dễ hơn](../../../../%F0%9F%92%B8H%C3%ACnh%20th%E1%BB%A9c%20ki%E1%BA%BFm%20ti%E1%BB%81n/Thi%E1%BA%BFu%20li%C3%AAm%20ch%C3%ADnh.%20Ph%E1%BA%A1m%20ph%C3%A1p/Tr%C6%B0%E1%BB%9Dng%20h%E1%BB%A3p%20c%E1%BB%A5%20th%E1%BB%83/Ch%C6%A1i%20ch%C3%ADnh%20s%C3%A1ch/T%C3%A0i%20li%E1%BB%87u%20v%E1%BB%81%20t%E1%BB%ABng%20c%C3%B4ng%20ty/VNPAY/N%C3%B3i%20m%C3%ACnh%20l%C3%A0%20nh%C3%A2n%20vi%C3%AAn%20Momo%20nh%C6%B0ng%20g%E1%BA%AFn%20m%C3%A3%20c%C3%B4ng%20ty%20kh%C3%A1c%20s%E1%BA%BD%20d%E1%BB%85%20h%C6%A1n.md)
