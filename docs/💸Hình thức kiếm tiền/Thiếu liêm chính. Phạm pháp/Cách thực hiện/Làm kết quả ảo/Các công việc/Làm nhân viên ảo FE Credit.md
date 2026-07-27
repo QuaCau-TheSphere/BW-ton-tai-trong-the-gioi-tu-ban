@@ -1,12 +1,12 @@
 ---
 share: true
 created: 2025-01-01T22:31
-updated: 2026-07-19T08:23
+updated: 2026-07-27T15:41
 description: "Số tiền kiếm được: 6tr/tháng"
 ---
 Số tiền kiếm được:: 6tr/tháng
 
-Nếu bạn làm ở [Nhóm Bình Dương 1](../../../Tr%C6%B0%E1%BB%9Dng%20h%E1%BB%A3p%20c%E1%BB%A5%20th%E1%BB%83/Ch%C6%A1i%20ch%C3%ADnh%20s%C3%A1ch/T%C3%A0i%20li%E1%BB%87u%20v%E1%BB%81%20t%E1%BB%ABng%20c%C3%B4ng%20ty/FE%20Credit/Nh%C3%B3m%20B%C3%ACnh%20D%C6%B0%C6%A1ng%201.md) thì sẽ được [bao nuôi](../../../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Qu%C3%A0%20t%E1%BA%B7ng/Bao%20nu%C3%B4i/%E1%BB%9E%20Thu%E1%BA%ADn%20An,%20B%C3%ACnh%20D%C6%B0%C6%A1ng.md).
+Nếu bạn làm ở [Nhóm Bình Dương 1](../../../Tr%C6%B0%E1%BB%9Dng%20h%E1%BB%A3p%20c%E1%BB%A5%20th%E1%BB%83/Ch%C6%A1i%20ch%C3%ADnh%20s%C3%A1ch/T%C3%A0i%20li%E1%BB%87u%20v%E1%BB%81%20t%E1%BB%ABng%20c%C3%B4ng%20ty/FE%20Credit/Nh%C3%B3m%20B%C3%ACnh%20D%C6%B0%C6%A1ng%201.md) thì sẽ được [bao nuôi](%E1%BB%9E%20Thu%E1%BA%ADn%20An,%20B%C3%ACnh%20D%C6%B0%C6%A1ng.md).
 
 ## Mô tả công việc
 ### Chuẩn bị
