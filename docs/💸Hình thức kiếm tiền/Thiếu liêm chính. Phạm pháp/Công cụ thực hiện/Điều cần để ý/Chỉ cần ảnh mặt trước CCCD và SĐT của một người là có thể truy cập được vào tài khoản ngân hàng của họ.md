@@ -1,6 +1,6 @@
 ---
 share: true
-updated: 2026-07-07T12:59
+updated: 2026-07-27T02:26
 created: 2025-09-01T20:07
 ---
 Khái niệm:: 
@@ -39,4 +39,4 @@ A giải thích xem lý do nào hợp lý nhất?
 Công nghệ cgi quá mạnh
 Mà nếu vậy thì là cái Giả thiết deep fake tạo bank ngày xưa là hợp lý. Lúc đó em cứ bảo bọn nó ko cần
 
-[Fake cam, KYC](../Tr%C3%AAn%20m%E1%BA%A1ng/Ki%E1%BA%BFm%20ti%E1%BB%81n%20tr%E1%BB%B1c%20tuy%E1%BA%BFn%20(MMO)/Fake%20cam,%20KYC.md)
+[Fake cam, KYC](../Tr%C3%AAn%20m%E1%BA%A1ng/Fake%20cam,%20KYC.md)
