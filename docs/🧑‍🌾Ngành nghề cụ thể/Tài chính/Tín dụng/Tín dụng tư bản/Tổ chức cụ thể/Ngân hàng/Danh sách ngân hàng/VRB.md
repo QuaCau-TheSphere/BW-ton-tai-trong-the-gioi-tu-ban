@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-08-31T11:15
-updated: 2026-07-07T13:00
+updated: 2026-07-27T02:22
 ---
 Tên thương hiệu:: VRB
 Phân loại:: [Ngân hàng Liên doanh](Ng%C3%A2n%20h%C3%A0ng%20Li%C3%AAn%20doanh.md)
