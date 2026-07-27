@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-08-31T11:15
-updated: 2026-07-07T13:00
+updated: 2026-07-27T02:22
 Aliases:
   - viettin
 ---
@@ -23,7 +23,7 @@ Sau khi đã đóng thẻ tín dụng thì 40 ngày sau mới được mở phon
 Phí đóng thẻ 200k
 
 Chỉ nói là nhân viên thì chắc chắn chỉ hướng dẫn chứ không làm. Không chịu cho coi cam. Không chịu coi cả log lên ngân hàng khi đã nói là hôm đó có lên. Chỉ khi nào có chứng từ rõ ràng thì mới cho coi, mà đúng là không có lưu lại gì. (Nghĩ lại thì cái lấy số thứ tự cũng phải là chứng từ rồi?) Nhưng ít nhất là nó cũng hoàn tiền 333k và cho đóng thẻ mà ko cần phí đóng 200k
-[4 cấp độ bí mật của thông tin](../../../../../../../%F0%9F%92%B8H%C3%ACnh%20th%E1%BB%A9c%20ki%E1%BA%BFm%20ti%E1%BB%81n/Thi%E1%BA%BFu%20li%C3%AAm%20ch%C3%ADnh.%20Ph%E1%BA%A1m%20ph%C3%A1p/C%C3%A1ch%20l%C3%A0m%20c%E1%BB%A5%20th%E1%BB%83/Tr%C3%AAn%20m%E1%BA%A1ng/T%E1%BA%A5n%20c%C3%B4ng%20m%E1%BA%A1ng/4%20c%E1%BA%A5p%20%C4%91%E1%BB%99%20b%C3%AD%20m%E1%BA%ADt%20c%E1%BB%A7a%20th%C3%B4ng%20tin.md)
+[4 cấp độ bí mật của thông tin](../../../../../../../%F0%9F%92%B8H%C3%ACnh%20th%E1%BB%A9c%20ki%E1%BA%BFm%20ti%E1%BB%81n/Thi%E1%BA%BFu%20li%C3%AAm%20ch%C3%ADnh.%20Ph%E1%BA%A1m%20ph%C3%A1p/C%C3%B4ng%20c%E1%BB%A5%20th%E1%BB%B1c%20hi%E1%BB%87n/%C4%90i%E1%BB%81u%20c%E1%BA%A7n%20%C4%91%E1%BB%83%20%C3%BD/An%20ninh%20m%E1%BA%A1ng/4%20c%E1%BA%A5p%20%C4%91%E1%BB%99%20b%C3%AD%20m%E1%BA%ADt%20c%E1%BB%A7a%20th%C3%B4ng%20tin.md)
 
 ## Ghi chú về app
 Không cho thay đổi thiết bị giao dịch iPay vào khung giờ 23h-6h 
