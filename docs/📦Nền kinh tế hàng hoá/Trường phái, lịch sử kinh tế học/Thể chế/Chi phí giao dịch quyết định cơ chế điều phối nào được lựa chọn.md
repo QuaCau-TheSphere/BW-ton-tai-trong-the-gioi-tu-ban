@@ -1,6 +1,6 @@
 ---
 share: true
-updated: 2026-07-07T13:00
+updated: 2026-07-27T02:26
 created: 2025-09-03T09:46
 ---
 Khái niệm:: [Chi phí giao dịch](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Kinh%20t%E1%BA%BF%20h%E1%BB%8Dc/Chi%20ph%C3%AD%20giao%20d%E1%BB%8Bch.md), [Cơ chế điều phối](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Kinh%20t%E1%BA%BF%20h%E1%BB%8Dc/C%C6%A1%20ch%E1%BA%BF%20%C4%91i%E1%BB%81u%20ph%E1%BB%91i.md)
