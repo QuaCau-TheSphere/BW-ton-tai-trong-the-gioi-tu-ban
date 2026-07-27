@@ -1,6 +1,6 @@
 ---
 share: true
-updated: 2026-07-07T13:00
+updated: 2026-07-27T02:22
 created: 2026-01-12T18:40
 ---
 Khái niệm:: [Ví trả sau](../../../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/T%C3%ADn%20d%E1%BB%A5ng/V%C3%AD%20tr%E1%BA%A3%20sau.md), [Thẻ tín dụng](../../../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/T%C3%ADn%20d%E1%BB%A5ng/Vay,%20n%E1%BB%A3/Th%E1%BA%BB%20t%C3%ADn%20d%E1%BB%A5ng.md)
