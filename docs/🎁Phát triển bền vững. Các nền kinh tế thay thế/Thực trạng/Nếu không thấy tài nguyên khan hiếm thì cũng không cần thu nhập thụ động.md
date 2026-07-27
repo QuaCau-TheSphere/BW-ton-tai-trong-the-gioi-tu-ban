@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-10-20T09:52
-updated: 2026-07-12T13:19
+updated: 2026-07-27T02:26
 ---
 Khái niệm:: [Thu nhập thụ động](../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Ki%E1%BA%BFm%20ti%E1%BB%81n/Thu%20nh%E1%BA%ADp%20th%E1%BB%A5%20%C4%91%E1%BB%99ng.md), [Khan hiếm](../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Kinh%20t%E1%BA%BF%20h%E1%BB%8Dc/Khan%20hi%E1%BA%BFm.md)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/watch?v=28AcLdc-QbY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
