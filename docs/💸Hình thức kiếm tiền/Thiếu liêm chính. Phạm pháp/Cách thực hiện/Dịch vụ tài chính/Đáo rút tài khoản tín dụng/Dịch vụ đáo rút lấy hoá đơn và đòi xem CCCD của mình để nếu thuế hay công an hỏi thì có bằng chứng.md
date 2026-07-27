@@ -1,6 +1,6 @@
 ---
 share: true
-updated: 2026-07-07T13:00
+updated: 2026-07-27T02:26
 created: 2025-07-29T07:59
 ---
 Các thẻ tín dụng mặc định là không cần nhập PIN khi đưa qua máy POS. Hiếm có thẻ nào phải nhập PIN mới dùng được. Nên nếu như không xác định được đó có phải là chính chủ hay không mà vẫn cho rút, thì lỡ tiền đó là tiền do phạm tội hay giao dịch trái phép mà thành, thì không chỉ cái POS đó bị khóa ngay lập tức mà chủ của cái POS đó cũng sẽ bị liên đới trách nhiệm trước pháp luật. (Cho nên quy trình lên máy POS cực kỳ khó, không phải khơi khơi chỉ cần có căn cước công dân là lên được. Ngoài cái mặt bằng rõ ràng là chuyện hiển nhiên, thì giấy phép kinh doanh cũng phải rõ ràng, đóng phí đúng hạn đầy đủ, mã số thuế đang còn hoạt động.)
