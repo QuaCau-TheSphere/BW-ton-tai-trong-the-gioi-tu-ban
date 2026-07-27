@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-05-25T21:50
-updated: 2026-07-07T13:00
+updated: 2026-07-27T02:26
 ---
 Khái niệm:: [Ngân hàng trung ương](../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Nh%C3%A0%20n%C6%B0%E1%BB%9Bc/Ng%C3%A2n%20h%C3%A0ng%20trung%20%C6%B0%C6%A1ng.md), [Tiền](../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/T%C3%A0i%20s%E1%BA%A3n/Ti%E1%BB%81n.md)
 Nguồn:: [Tiền – sự thật về thứ không có thật](../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Ngu%E1%BB%93n/Ti%E1%BB%81n%20%E2%80%93%20s%E1%BB%B1%20th%E1%BA%ADt%20v%E1%BB%81%20th%E1%BB%A9%20kh%C3%B4ng%20c%C3%B3%20th%E1%BA%ADt.md)

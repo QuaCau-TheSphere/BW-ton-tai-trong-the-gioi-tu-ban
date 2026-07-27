@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-12-25T10:56
-updated: 2026-07-19T08:58
+updated: 2026-07-27T02:20
 title: Cảnh giác lừa đảo
 ---
 Khái niệm:: [Lừa đảo](../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Ki%E1%BA%BFm%20ti%E1%BB%81n/Kh%C3%B4ng%20li%C3%AAm%20ch%C3%ADnh/L%E1%BB%ABa%20%C4%91%E1%BA%A3o.md), [Khai thác điểm yếu con người](../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Ki%E1%BA%BFm%20ti%E1%BB%81n/Kh%C3%B4ng%20li%C3%AAm%20ch%C3%ADnh/Khai%20th%C3%A1c%20%C4%91i%E1%BB%83m%20y%E1%BA%BFu%20con%20ng%C6%B0%E1%BB%9Di.md)
@@ -52,7 +52,7 @@ Nguồn:: [Scammers Are Innovating. Security Advice Isn’t Keeping Up | Forbes]
 https://www.dauhieuluadao.com/
 
 [Social engineering: tâm lý học và cách thức tấn công](https://drive.google.com/file/d/19eHpzHyx_ozQs_46IjD8-wWShj9alzNf/view)
-[Tội phạm mạng chỉ cần một phần nhỏ các cuộc tấn công thành công (ví dụ, dưới 1%) để có lợi nhuận](../../C%C3%B4ng%20c%E1%BB%A5%20th%E1%BB%B1c%20hi%E1%BB%87n/Tr%C3%AAn%20m%E1%BA%A1ng/T%E1%BA%A5n%20c%C3%B4ng%20m%E1%BA%A1ng/T%E1%BB%99i%20ph%E1%BA%A1m%20m%E1%BA%A1ng%20ch%E1%BB%89%20c%E1%BA%A7n%20m%E1%BB%99t%20ph%E1%BA%A7n%20nh%E1%BB%8F%20c%C3%A1c%20cu%E1%BB%99c%20t%E1%BA%A5n%20c%C3%B4ng%20th%C3%A0nh%20c%C3%B4ng%20(v%C3%AD%20d%E1%BB%A5,%20d%C6%B0%E1%BB%9Bi%201%25)%20%C4%91%E1%BB%83%20c%C3%B3%20l%E1%BB%A3i%20nhu%E1%BA%ADn.md)
+[Tội phạm mạng chỉ cần một phần nhỏ các cuộc tấn công thành công (ví dụ, dưới 1%) để có lợi nhuận](../../C%C3%B4ng%20c%E1%BB%A5%20th%E1%BB%B1c%20hi%E1%BB%87n/%C4%90i%E1%BB%81u%20c%E1%BA%A7n%20%C4%91%E1%BB%83%20%C3%BD/An%20ninh%20m%E1%BA%A1ng/T%E1%BB%99i%20ph%E1%BA%A1m%20m%E1%BA%A1ng%20ch%E1%BB%89%20c%E1%BA%A7n%20m%E1%BB%99t%20ph%E1%BA%A7n%20nh%E1%BB%8F%20c%C3%A1c%20cu%E1%BB%99c%20t%E1%BA%A5n%20c%C3%B4ng%20th%C3%A0nh%20c%C3%B4ng%20(v%C3%AD%20d%E1%BB%A5,%20d%C6%B0%E1%BB%9Bi%201%25)%20%C4%91%E1%BB%83%20c%C3%B3%20l%E1%BB%A3i%20nhu%E1%BA%ADn.md)
 ![Chiêu thức giả danh công an.png](../../../../assets/attachments/Chi%C3%AAu%20th%E1%BB%A9c%20gi%E1%BA%A3%20danh%20c%C3%B4ng%20an.png)
 ![Các thủ đoạn lừa đảo.jpg](../../../../assets/attachments/C%C3%A1c%20th%E1%BB%A7%20%C4%91o%E1%BA%A1n%20l%E1%BB%ABa%20%C4%91%E1%BA%A3o.jpg)
 

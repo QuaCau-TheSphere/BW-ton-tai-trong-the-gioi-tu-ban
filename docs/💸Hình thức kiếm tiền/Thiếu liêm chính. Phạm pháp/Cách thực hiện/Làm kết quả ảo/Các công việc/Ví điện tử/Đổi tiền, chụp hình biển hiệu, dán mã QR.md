@@ -1,6 +1,6 @@
 ---
 share: true
-updated: 2026-07-19T08:23
+updated: 2026-07-27T15:41
 created: 2025-08-16T22:23
 ---
 Tính chất công việc:: [Làm ngoài đường](../../../../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/%C3%9D%20t%C6%B0%E1%BB%9Fng%20ki%E1%BA%BFm%20ti%E1%BB%81n/%C4%90%E1%BA%B7c%20%C4%91i%E1%BB%83m%20c%C3%B4ng%20vi%E1%BB%87c/M%C3%B4i%20tr%C6%B0%E1%BB%9Dng%20l%C3%A0m%20vi%E1%BB%87c/L%C3%A0m%20ngo%C3%A0i%20%C4%91%C6%B0%E1%BB%9Dng.md)

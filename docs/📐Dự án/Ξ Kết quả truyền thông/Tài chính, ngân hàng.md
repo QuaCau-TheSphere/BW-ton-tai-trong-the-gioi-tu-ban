@@ -1,6 +1,6 @@
 ---
 share: true
-updated: 2026-07-06T21:39
+updated: 2026-07-27T02:26
 created: 2025-08-23T15:39
 ---
 ## [Quỹ giúp nhau giữ tài sản thế chấp ngân hàng](../Gi%C3%BAp%20nhau%20tho%C3%A1t%20n%E1%BB%A3/Qu%E1%BB%B9/Qu%E1%BB%B9%20gi%C3%BAp%20nhau%20gi%E1%BB%AF%20t%C3%A0i%20s%E1%BA%A3n%20th%E1%BA%BF%20ch%E1%BA%A5p%20ng%C3%A2n%20h%C3%A0ng.md)

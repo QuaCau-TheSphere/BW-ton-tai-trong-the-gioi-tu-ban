@@ -1,6 +1,6 @@
 ---
 share: true
-updated: 2026-07-14T19:47
+updated: 2026-07-27T02:26
 created: 2025-09-10T08:45
 ---
 
@@ -19,7 +19,7 @@ Tôi là Nguyễn Hữu Lộc, sinh ngày 25/06/1999. Tôi thích chạy bộ, �
 | -------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
 | Tạo ra [ các công việc "việc nhẹ lương cao"](../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/%C3%9D%20t%C6%B0%E1%BB%9Fng%20ki%E1%BA%BFm%20ti%E1%BB%81n/%C3%9D%20t%C6%B0%E1%BB%9Fng/Ki%E1%BA%BFm%20ti%E1%BB%81n%20nhanh/index.md) | Tầm 10 người tham gia                                                                                                      |
 | [Tìm nguồn cho mượn tiền qua đêm](../Gi%C3%BAp%20nhau%20tho%C3%A1t%20n%E1%BB%A3/C%C3%B4ng%20vi%E1%BB%87c/T%C3%ACm%20ngu%E1%BB%93n%20cho%20m%C6%B0%E1%BB%A3n%20ti%E1%BB%81n%20qua%20%C4%91%C3%AAm.md)                                                 | Nhật có [điểm tín dụng hạng 2](../Gi%C3%BAp%20nhau%20tho%C3%A1t%20n%E1%BB%A3/Ng%C6%B0%E1%BB%9Di%20th%E1%BB%A5%20h%C6%B0%E1%BB%9Fng/L%C3%BD%20Minh%20Nh%E1%BA%ADt/H%E1%BB%93%20s%C6%A1%20vay.md) |
-| [Tài nguyên làm MMO](../../%F0%9F%92%B8H%C3%ACnh%20th%E1%BB%A9c%20ki%E1%BA%BFm%20ti%E1%BB%81n/Thi%E1%BA%BFu%20li%C3%AAm%20ch%C3%ADnh.%20Ph%E1%BA%A1m%20ph%C3%A1p/C%C3%B4ng%20c%E1%BB%A5%20th%E1%BB%B1c%20hi%E1%BB%87n/Tr%C3%AAn%20m%E1%BA%A1ng/Ki%E1%BA%BFm%20ti%E1%BB%81n%20tr%E1%BB%B1c%20tuy%E1%BA%BFn%20(MMO)/T%C3%A0i%20nguy%C3%AAn%20l%C3%A0m%20MMO.md)                                                       |                                                                                                                            |
+| [Tài nguyên làm MMO](../../%F0%9F%92%B8H%C3%ACnh%20th%E1%BB%A9c%20ki%E1%BA%BFm%20ti%E1%BB%81n/Thi%E1%BA%BFu%20li%C3%AAm%20ch%C3%ADnh.%20Ph%E1%BA%A1m%20ph%C3%A1p/C%C3%B4ng%20c%E1%BB%A5%20th%E1%BB%B1c%20hi%E1%BB%87n/Tr%C3%AAn%20m%E1%BA%A1ng/C%C3%B4ng%20c%E1%BB%A5%20k%E1%BB%B9%20thu%E1%BA%ADt/T%C3%A0i%20nguy%C3%AAn%20l%C3%A0m%20MMO.md)                                                       |                                                                                                                            |
 
 Những hoạt động này là đầu vào để Nhật làm những hoạt động sau:
 

@@ -1,6 +1,6 @@
 ---
 share: true
-updated: 2026-07-07T13:00
+updated: 2026-07-27T02:26
 aliases:
   - Cách làm việc của nhân viên thu hồi nợ
 created: 2026-06-07T14:17
@@ -17,9 +17,9 @@ title: Khoản vay của tổ chức tài chính tiêu dùng
 - [Muốn vay tín chấp thì ngân hàng đòi hỏi phải sử dụng tài khoản nhiều. Công ty tài chính tiêu dùng thì chỉ cần CCCD](./Mu%E1%BB%91n%20vay%20t%C3%ADn%20ch%E1%BA%A5p%20th%C3%AC%20ng%C3%A2n%20h%C3%A0ng%20%C4%91%C3%B2i%20h%E1%BB%8Fi%20ph%E1%BA%A3i%20s%E1%BB%AD%20d%E1%BB%A5ng%20t%C3%A0i%20kho%E1%BA%A3n%20nhi%E1%BB%81u.%20C%C3%B4ng%20ty%20t%C3%A0i%20ch%C3%ADnh%20ti%C3%AAu%20d%C3%B9ng%20th%C3%AC%20ch%E1%BB%89%20c%E1%BA%A7n%20CCCD.md)
 - [Ngân hàng cho người có ô tô cho vay. Công ty tài chính tiêu dùng cho người có xe máy cho vay](./Ng%C3%A2n%20h%C3%A0ng%20cho%20ng%C6%B0%E1%BB%9Di%20c%C3%B3%20%C3%B4%20t%C3%B4%20cho%20vay.%20C%C3%B4ng%20ty%20t%C3%A0i%20ch%C3%ADnh%20ti%C3%AAu%20d%C3%B9ng%20cho%20ng%C6%B0%E1%BB%9Di%20c%C3%B3%20xe%20m%C3%A1y%20cho%20vay.md)
 - [Nhân viên thu hồi nợ của công ty tài chính gặp khó khăn để thuyết phục hàng xóm, gia đình tác động khách hơn ngân hàng](./Nh%C3%A2n%20vi%C3%AAn%20thu%20h%E1%BB%93i%20n%E1%BB%A3%20c%E1%BB%A7a%20c%C3%B4ng%20ty%20t%C3%A0i%20ch%C3%ADnh%20g%E1%BA%B7p%20kh%C3%B3%20kh%C4%83n%20%C4%91%E1%BB%83%20thuy%E1%BA%BFt%20ph%E1%BB%A5c%20h%C3%A0ng%20x%C3%B3m,%20gia%20%C4%91%C3%ACnh%20t%C3%A1c%20%C4%91%E1%BB%99ng%20kh%C3%A1ch%20h%C6%A1n%20ng%C3%A2n%20h%C3%A0ng.md)
+- [Nợ quá 150 ngày thì nhân viên được phép trao đổi với người thân về việc công ty sẽ gửi yêu cầu xác minh nơi cư trú của khách hàng đến công an](./N%E1%BB%A3%20qu%C3%A1%20150%20ng%C3%A0y%20th%C3%AC%20nh%C3%A2n%20vi%C3%AAn%20%C4%91%C6%B0%E1%BB%A3c%20ph%C3%A9p%20trao%20%C4%91%E1%BB%95i%20v%E1%BB%9Bi%20ng%C6%B0%E1%BB%9Di%20th%C3%A2n%20v%E1%BB%81%20vi%E1%BB%87c%20c%C3%B4ng%20ty%20s%E1%BA%BD%20g%E1%BB%ADi%20y%C3%AAu%20c%E1%BA%A7u%20x%C3%A1c%20minh%20n%C6%A1i%20c%C6%B0%20tr%C3%BA%20c%E1%BB%A7a%20kh%C3%A1ch%20h%C3%A0ng%20%C4%91%E1%BA%BFn%20c%C3%B4ng%20an.md)
 - [Phương pháp xử lý PTP gãy](./Ph%C6%B0%C6%A1ng%20ph%C3%A1p%20x%E1%BB%AD%20l%C3%BD%20PTP%20g%C3%A3y.md)
 - [Rất nhiều các công ty tài chính tiêu dùng lấy dữ liệu từ Viettel](./R%E1%BA%A5t%20nhi%E1%BB%81u%20c%C3%A1c%20c%C3%B4ng%20ty%20t%C3%A0i%20ch%C3%ADnh%20ti%C3%AAu%20d%C3%B9ng%20l%E1%BA%A5y%20d%E1%BB%AF%20li%E1%BB%87u%20t%E1%BB%AB%20Viettel.md)
 - [Thuật ngữ](./Thu%E1%BA%ADt%20ng%E1%BB%AF.md)
-- [Nợ quá 150 ngày thì nhân viên được phép trao đổi với người thân về việc công ty sẽ gửi yêu cầu xác minh nơi cư trú của khách hàng đến công an](./N%E1%BB%A3%20qu%C3%A1%20150%20ng%C3%A0y%20th%C3%AC%20nh%C3%A2n%20vi%C3%AAn%20%C4%91%C6%B0%E1%BB%A3c%20ph%C3%A9p%20trao%20%C4%91%E1%BB%95i%20v%E1%BB%9Bi%20ng%C6%B0%E1%BB%9Di%20th%C3%A2n%20v%E1%BB%81%20vi%E1%BB%87c%20c%C3%B4ng%20ty%20s%E1%BA%BD%20g%E1%BB%ADi%20y%C3%AAu%20c%E1%BA%A7u%20x%C3%A1c%20minh%20n%C6%A1i%20c%C6%B0%20tr%C3%BA%20c%E1%BB%A7a%20kh%C3%A1ch%20h%C3%A0ng%20%C4%91%E1%BA%BFn%20c%C3%B4ng%20an.md)
 - [Để có một lời hứa thanh toán](./%C4%90%E1%BB%83%20c%C3%B3%20m%E1%BB%99t%20l%E1%BB%9Di%20h%E1%BB%A9a%20thanh%20to%C3%A1n.md)
 

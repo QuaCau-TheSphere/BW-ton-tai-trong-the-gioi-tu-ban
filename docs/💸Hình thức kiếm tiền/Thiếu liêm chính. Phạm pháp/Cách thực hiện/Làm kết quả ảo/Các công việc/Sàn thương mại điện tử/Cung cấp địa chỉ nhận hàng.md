@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-05-03T23:44
-updated: 2026-07-19T08:23
+updated: 2026-07-27T15:41
 description: Làm khách hàng ảo bằng việc cung cấp địa chỉ để được nhận hàng miễn phí
 ---
 Tính chất công việc:: [Không cần độ tập trung cao](../../../../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/%C3%9D%20t%C6%B0%E1%BB%9Fng%20ki%E1%BA%BFm%20ti%E1%BB%81n/%C4%90%E1%BA%B7c%20%C4%91i%E1%BB%83m%20c%C3%B4ng%20vi%E1%BB%87c/%C4%90%E1%BA%B7c%20%C4%91i%E1%BB%83m%20kh%C3%A1c/Kh%C3%B4ng%20c%E1%BA%A7n%20%C4%91%E1%BB%99%20t%E1%BA%ADp%20trung%20cao.md), [Làm qua mạng](../../../../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/%C3%9D%20t%C6%B0%E1%BB%9Fng%20ki%E1%BA%BFm%20ti%E1%BB%81n/%C4%90%E1%BA%B7c%20%C4%91i%E1%BB%83m%20c%C3%B4ng%20vi%E1%BB%87c/M%C3%B4i%20tr%C6%B0%E1%BB%9Dng%20l%C3%A0m%20vi%E1%BB%87c/L%C3%A0m%20qua%20m%E1%BA%A1ng.md)

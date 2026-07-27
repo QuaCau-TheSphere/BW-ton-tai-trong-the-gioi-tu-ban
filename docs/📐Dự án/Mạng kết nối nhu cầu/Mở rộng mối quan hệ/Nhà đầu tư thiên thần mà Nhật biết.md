@@ -1,6 +1,6 @@
 ---
 share: true
-updated: 2026-07-27T00:53
+updated: 2026-07-27T02:26
 created: 2026-07-25T19:19
 ---
 Nhật biết duy nhất công ty JD Everest. Nhật biết đến vì bạn cấp 2 của Nhật, [Lê Nhựt Minh](https://www.facebook.com/nhut.minh.73), là người làm trong đây.

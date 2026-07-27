@@ -1,6 +1,6 @@
 ---
 share: true
-updated: 2026-07-14T19:47
+updated: 2026-07-27T15:54
 aliases:
   - Mua trái phiếu
 created: 2025-03-27T17:13
@@ -28,6 +28,7 @@ Tỉ lệ trễ hạn: 0%
 Lãi: 
 
 ## Vai trò thương hiệu
+## Những người tham gia
 Nhật giúp ghi chép, tổng hợp thông tin, hoặc chia sẻ kiến thức, trải nghiệm. Xem chi tiết tại [Lời mời sử dụng nguồn lực của Nhật](https://doi-thoai.deno.dev/6_.7O.1)
 
 ## Thông tin thêm
@@ -37,10 +38,14 @@ Thời gian làm việc:: [Được chọn thời gian làm trong ngày](../../.
 Tài nguyên, vật dụng cần có sẵn:: 
 Đặc điểm khác:: [Không cần độ tập trung cao](../../../../%C4%90%E1%BA%B7c%20%C4%91i%E1%BB%83m%20c%C3%B4ng%20vi%E1%BB%87c/%C4%90%E1%BA%B7c%20%C4%91i%E1%BB%83m%20kh%C3%A1c/Kh%C3%B4ng%20c%E1%BA%A7n%20%C4%91%E1%BB%99%20t%E1%BA%ADp%20trung%20cao.md)
 
+Các hình thức huy động vốn tương tự, có thể kết hợp làm chung:
+- [Quỹ tín dụng](./Qu%E1%BB%B9%20t%C3%ADn%20d%E1%BB%A5ng.md)
+- [Sàn cho vay ngang hàng](./S%C3%A0n%20cho%20vay%20ngang%20h%C3%A0ng.md)
+- [Sàn gây quỹ đám đông](./S%C3%A0n%20g%C3%A2y%20qu%E1%BB%B9%20%C4%91%C3%A1m%20%C4%91%C3%B4ng.md)
+
+
+Tất cả những cái này là một phần của dự án [Giúp nhau kiếm tiền](../../../../../../%F0%9F%93%90D%E1%BB%B1%20%C3%A1n/Gi%C3%BAp%20nhau%20ki%E1%BA%BFm%20ti%E1%BB%81n/index.md).
+
 ## Nơi thảo luận
 Vào [Discord Quả Cầu](https://discord.com/channels/898550123007709204/1249553476745298010), kênh "Tạo dòng tiền, đầu tư, tạo thu nhập thụ động, kinh doanh" để thảo luận:
 [![](https://i.vgy.me/BjXA75.png)](https://discord.com/channels/898550123007709204/1249553476745298010)
-
-> [!important] Nhìn toàn cảnh
-> Công việc này là một phần của dự án [Giúp nhau kiếm tiền](../../../../../../%F0%9F%93%90D%E1%BB%B1%20%C3%A1n/Gi%C3%BAp%20nhau%20ki%E1%BA%BFm%20ti%E1%BB%81n/index.md). Đọc bài đó để hiểu thêm về mục tiêu dài hạn của dự án cũng như các lợi ích khác của bạn. Ngoài ra, bạn cũng có thể tham khảo thêm [các công việc kiếm tiền nhanh](../../../Ki%E1%BA%BFm%20ti%E1%BB%81n%20nhanh/index.md) khác.
-

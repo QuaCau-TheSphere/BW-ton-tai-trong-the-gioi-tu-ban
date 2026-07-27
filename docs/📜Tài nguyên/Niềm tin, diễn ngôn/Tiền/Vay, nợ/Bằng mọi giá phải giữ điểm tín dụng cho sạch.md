@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-12-04T11:55
-updated: 2026-07-07T13:00
+updated: 2026-07-27T02:26
 ---
 Khái niệm:: 
 Lý do:: [Muốn vay nợ cần có uy tín](../../../../%F0%9F%A7%91%E2%80%8D%F0%9F%8C%BENg%C3%A0nh%20ngh%E1%BB%81%20c%E1%BB%A5%20th%E1%BB%83/T%C3%A0i%20ch%C3%ADnh/T%C3%ADn%20d%E1%BB%A5ng/Mu%E1%BB%91n%20vay%20n%E1%BB%A3%20c%E1%BA%A7n%20c%C3%B3%20uy%20t%C3%ADn.md), [Có thêm tiền là cách để có thêm dòng tiền](../../../../%F0%9F%92%B8H%C3%ACnh%20th%E1%BB%A9c%20ki%E1%BA%BFm%20ti%E1%BB%81n/K%E1%BA%BF%20ho%E1%BA%A1ch%20t%C3%A0i%20ch%C3%ADnh/Thu%20nh%E1%BA%ADp%20th%E1%BB%A5%20%C4%91%E1%BB%99ng,%20d%C3%B2ng%20ti%E1%BB%81n%20d%C6%B0%C6%A1ng/C%C3%B3%20th%C3%AAm%20ti%E1%BB%81n%20l%C3%A0%20c%C3%A1ch%20%C4%91%E1%BB%83%20c%C3%B3%20th%C3%AAm%20d%C3%B2ng%20ti%E1%BB%81n.md), [Muốn thoát nghèo cần dòng tiền, chứ không phải là làm công ăn lương](../Ngh%C3%A8o/Mu%E1%BB%91n%20tho%C3%A1t%20ngh%C3%A8o%20c%E1%BA%A7n%20d%C3%B2ng%20ti%E1%BB%81n,%20ch%E1%BB%A9%20kh%C3%B4ng%20ph%E1%BA%A3i%20l%C3%A0%20l%C3%A0m%20c%C3%B4ng%20%C4%83n%20l%C6%B0%C6%A1ng.md)

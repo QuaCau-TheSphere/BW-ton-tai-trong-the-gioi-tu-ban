@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-09-29T14:00
-updated: 2026-07-07T12:59
+updated: 2026-07-27T02:26
 ---
 Khái niệm:: [Lương](../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Ki%E1%BA%BFm%20ti%E1%BB%81n/L%C6%B0%C6%A1ng.md), [KPI, doanh số, chỉ tiêu](../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Ki%E1%BA%BFm%20ti%E1%BB%81n/KPI,%20doanh%20s%E1%BB%91,%20ch%E1%BB%89%20ti%C3%AAu.md)
 [Khác biệt giữa nhân viên, đại lý, cộng tác viên](../Kh%C3%A1c%20bi%E1%BB%87t%20gi%E1%BB%AFa%20nh%C3%A2n%20vi%C3%AAn,%20%C4%91%E1%BA%A1i%20l%C3%BD,%20c%E1%BB%99ng%20t%C3%A1c%20vi%C3%AAn.md)

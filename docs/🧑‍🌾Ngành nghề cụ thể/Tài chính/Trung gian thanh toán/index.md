@@ -1,6 +1,6 @@
 ---
 share: true
-updated: 2026-07-14T19:53
+updated: 2026-07-27T02:22
 created: 2026-07-14T19:52
 title: Trung gian thanh toán
 ---
@@ -37,4 +37,5 @@ title: Trung gian thanh toán
     - [VNPAY dùng GMV và active để hạn chế chạy ảo](./Ch%C3%ADnh%20s%C3%A1ch%20c%C3%B4ng%20ty/VNPAY/VNPAY%20d%C3%B9ng%20GMV%20v%C3%A0%20active%20%C4%91%E1%BB%83%20h%E1%BA%A1n%20ch%E1%BA%BF%20ch%E1%BA%A1y%20%E1%BA%A3o.md)
     - [VNPAY tập trung vào những cửa hàng lớn đủ để có nhu cầu dùng máy POS](./Ch%C3%ADnh%20s%C3%A1ch%20c%C3%B4ng%20ty/VNPAY/VNPAY%20t%E1%BA%ADp%20trung%20v%C3%A0o%20nh%E1%BB%AFng%20c%E1%BB%ADa%20h%C3%A0ng%20l%E1%BB%9Bn%20%C4%91%E1%BB%A7%20%C4%91%E1%BB%83%20c%C3%B3%20nhu%20c%E1%BA%A7u%20d%C3%B9ng%20m%C3%A1y%20POS.md)
     - [VNPAY ở Hà Nội mở được ở mọi nơi](./Ch%C3%ADnh%20s%C3%A1ch%20c%C3%B4ng%20ty/VNPAY/VNPAY%20%E1%BB%9F%20H%C3%A0%20N%E1%BB%99i%20m%E1%BB%9F%20%C4%91%C6%B0%E1%BB%A3c%20%E1%BB%9F%20m%E1%BB%8Di%20n%C6%A1i.md)
+
 

@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-11-03T21:33
-updated: 2026-07-07T13:00
+updated: 2026-07-27T02:26
 ---
 Khái niệm:: [Hoa hồng](../../../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Ki%E1%BA%BFm%20ti%E1%BB%81n/Hoa%20h%E1%BB%93ng.md) 
 Lý do:: [Hoa hồng cao là để đại lý trích một phần mua quà chăm sóc khách](../../../../../../%F0%9F%92%B8H%C3%ACnh%20th%E1%BB%A9c%20ki%E1%BA%BFm%20ti%E1%BB%81n/L%C3%A0m%20c%C3%B4ng%20%C4%83n%20l%C6%B0%C6%A1ng/B%C3%A1n%20h%C3%A0ng/%C4%90%E1%BA%A1i%20l%C3%BD/Hoa%20h%E1%BB%93ng%20cao%20l%C3%A0%20%C4%91%E1%BB%83%20%C4%91%E1%BA%A1i%20l%C3%BD%20tr%C3%ADch%20m%E1%BB%99t%20ph%E1%BA%A7n%20mua%20qu%C3%A0%20ch%C4%83m%20s%C3%B3c%20kh%C3%A1ch.md)

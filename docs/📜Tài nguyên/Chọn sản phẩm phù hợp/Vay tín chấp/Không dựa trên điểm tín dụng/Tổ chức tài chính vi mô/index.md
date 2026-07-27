@@ -1,6 +1,6 @@
 ---
 share: true
-updated: 2026-07-10T22:24
+updated: 2026-07-27T16:37
 aliases:
   - quỹ tín dụng vi mô
 description: Dịch vụ cho vay vì người yếu thế
@@ -14,7 +14,7 @@ Các quỹ phù hợp cho người ở thành thị:
 - [Tình Thân](./T%C3%ACnh%20Th%C3%A2n.md)
 - [Quỹ tín dụng Quả Cầu](../../../../../%F0%9F%93%90D%E1%BB%B1%20%C3%A1n/Gi%C3%BAp%20nhau%20tho%C3%A1t%20n%E1%BB%A3/Qu%E1%BB%B9/Qu%E1%BB%B9%20t%C3%ADn%20d%E1%BB%A5ng%20Qu%E1%BA%A3%20C%E1%BA%A7u.md)
 - [Quỹ Đồng Hành](./Qu%E1%BB%B9%20%C4%90%E1%BB%93ng%20H%C3%A0nh.md)
-- [Các ngân hàng quà tặng, mạng kết nối nhu cầu](../../../../Qu%C3%A0%20t%E1%BA%B7ng/C%C3%A1c%20ng%C3%A2n%20h%C3%A0ng%20qu%C3%A0%20t%E1%BA%B7ng,%20m%E1%BA%A1ng%20k%E1%BA%BFt%20n%E1%BB%91i%20nhu%20c%E1%BA%A7u.md)
+- [Các ngân hàng quà tặng, mạng kết nối nhu cầu](../../../../Qu%C3%A0%20t%E1%BA%B7ng/Kh%C3%B4ng%20m%E1%BB%A5c%20%C4%91%C3%ADch%20ki%E1%BA%BFm%20ti%E1%BB%81n/C%C3%A1c%20ng%C3%A2n%20h%C3%A0ng%20qu%C3%A0%20t%E1%BA%B7ng,%20m%E1%BA%A1ng%20k%E1%BA%BFt%20n%E1%BB%91i%20nhu%20c%E1%BA%A7u.md)
 
 Đa phần các quỹ khác chủ yếu cho nông thôn hoặc vùng sâu vùng xa, dân tộc thiểu số. Hoạt động nổi trội nhất cho nhóm đối tượng này có lẽ là [Quỹ Đồng Lòng](./Qu%E1%BB%B9%20%C4%90%E1%BB%93ng%20L%C3%B2ng.md). Xem thêm [Danh bạ các tổ chức Tài chính vi mô](https://microfinance.com.vn/du-an-project/danh-ba-cac-to-chuc-tai-chinh-vi-mo/).
 

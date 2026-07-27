@@ -1,6 +1,6 @@
 ---
 share: true
-updated: 2026-07-19T08:59
+updated: 2026-07-27T02:26
 aliases:
   - Làm thẻ
   - Làm giấy tờ vay nợ

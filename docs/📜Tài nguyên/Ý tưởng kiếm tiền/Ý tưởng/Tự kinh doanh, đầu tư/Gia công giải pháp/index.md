@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2026-07-07T13:00
+updated: 2026-07-27T02:26
 title: Gia công giải pháp
 ---
 - [Chuyển đổi số cho các dòng họ](./Chuy%E1%BB%83n%20%C4%91%E1%BB%95i%20s%E1%BB%91%20cho%20c%C3%A1c%20d%C3%B2ng%20h%E1%BB%8D.md)

@@ -1,6 +1,6 @@
 ---
 share: true
-updated: 2026-07-07T12:58
+updated: 2026-07-27T02:26
 created: 2025-11-01T10:23
 ---
 Khái niệm:: [Thao túng](./Kh%C3%B4ng%20li%C3%AAm%20ch%C3%ADnh/Thao%20t%C3%BAng.md), [Khai thác điểm yếu con người](./Kh%C3%B4ng%20li%C3%AAm%20ch%C3%ADnh/Khai%20th%C3%A1c%20%C4%91i%E1%BB%83m%20y%E1%BA%BFu%20con%20ng%C6%B0%E1%BB%9Di.md)

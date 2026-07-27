@@ -1,6 +1,6 @@
 ---
 share: true
-updated: 2026-07-07T13:00
+updated: 2026-07-27T16:38
 created: 2026-06-07T15:24
 ---
 Khái niệm:: [Luật các tổ chức tín dụng](../../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Nh%C3%A0%20n%C6%B0%E1%BB%9Bc/Lu%E1%BA%ADt/Lu%E1%BA%ADt%20c%C3%A1c%20t%E1%BB%95%20ch%E1%BB%A9c%20t%C3%ADn%20d%E1%BB%A5ng.md), [Hội đồng quản trị](../../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Lao%20%C4%91%E1%BB%99ng/H%E1%BB%99i%20%C4%91%E1%BB%93ng%20qu%E1%BA%A3n%20tr%E1%BB%8B.md)
@@ -43,3 +43,4 @@ Là pháp nhân (trừ Quỹ xã hội, Quỹ từ thiện) đang hoạt động
 Người đại diện của pháp nhân tham gia thành viên của quỹ tín dụng nhân dân là người đại diện theo pháp luật của pháp nhân hoặc cá nhân được người đại diện theo pháp luật của pháp nhân ủy quyền tham gia.
 Nguồn:: [Điều kiện cấp giấy phép đối với quỹ tín dụng nhân dân, tổ chức tài chính vi mô](https://tapchinganhang.gov.vn/dieu-kien-cap-giay-phep-doi-voi-quy-tin-dung-nhan-dan-to-chuc-tai-chinh-vi-mo-1.html)
 
+[Quỹ tín dụng nhân dân](../../../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Ch%E1%BB%8Dn%20s%E1%BA%A3n%20ph%E1%BA%A9m%20ph%C3%B9%20h%E1%BB%A3p/Vay%20t%C3%ADn%20ch%E1%BA%A5p/Kh%C3%B4ng%20d%E1%BB%B1a%20tr%C3%AAn%20%C4%91i%E1%BB%83m%20t%C3%ADn%20d%E1%BB%A5ng/Qu%E1%BB%B9%20t%C3%ADn%20d%E1%BB%A5ng%20nh%C3%A2n%20d%C3%A2n/index.md)

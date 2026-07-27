@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-08-13T17:17
-updated: 2026-07-07T13:00
+updated: 2026-07-27T02:26
 ---
 Loại dịch vụ:: [Vay nóng](../../Vay%20n%E1%BB%A3/Kh%C3%B4ng%20d%E1%BB%B1a%20tr%C3%AAn%20%C4%91i%E1%BB%83m%20t%C3%ADn%20d%E1%BB%A5ng/Vay%20n%C3%B3ng/index.md)
 

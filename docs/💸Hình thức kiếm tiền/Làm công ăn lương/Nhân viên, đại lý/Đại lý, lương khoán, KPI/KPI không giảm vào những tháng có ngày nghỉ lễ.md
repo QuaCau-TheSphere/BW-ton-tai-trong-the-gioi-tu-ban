@@ -1,6 +1,6 @@
 ---
 share: true
-updated: 2026-07-07T12:59
+updated: 2026-07-27T02:26
 created: 2025-03-27T17:13
 ---
 Khái niệm:: [KPI, doanh số, chỉ tiêu](../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Ki%E1%BA%BFm%20ti%E1%BB%81n/KPI,%20doanh%20s%E1%BB%91,%20ch%E1%BB%89%20ti%C3%AAu.md)

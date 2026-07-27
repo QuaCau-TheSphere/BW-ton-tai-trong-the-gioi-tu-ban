@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-09-02T21:22
-updated: 2026-07-12T14:08
+updated: 2026-07-27T02:26
 title: Điều gì khiến một người không muốn từ bỏ thiết chế tư bản?
 Aliases:
   - Lý do, tại sao, vì sao
@@ -20,7 +20,7 @@ Bài chi tiết:: [Khi nào thì việc giúp một người sẽ có lợi cho 
 ### Dịp để kiểm tra tính ưu việt của hệ thống thay thế
 [Muốn thoát nghèo cần dòng tiền, chứ không phải là làm công ăn lương](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Ni%E1%BB%81m%20tin,%20di%E1%BB%85n%20ng%C3%B4n/Ti%E1%BB%81n/Ngh%C3%A8o/Mu%E1%BB%91n%20tho%C3%A1t%20ngh%C3%A8o%20c%E1%BA%A7n%20d%C3%B2ng%20ti%E1%BB%81n,%20ch%E1%BB%A9%20kh%C3%B4ng%20ph%E1%BA%A3i%20l%C3%A0%20l%C3%A0m%20c%C3%B4ng%20%C4%83n%20l%C6%B0%C6%A1ng.md). [Công ty ra chính sách khó cho nhân viên không đơn thuần là vì tham tiền, mà còn là vì nhà đầu tư cần tiền được lưu thông](../../../%F0%9F%92%B8H%C3%ACnh%20th%E1%BB%A9c%20ki%E1%BA%BFm%20ti%E1%BB%81n/Thi%E1%BA%BFu%20li%C3%AAm%20ch%C3%ADnh.%20Ph%E1%BA%A1m%20ph%C3%A1p/%C4%90%E1%BB%99ng%20c%C6%A1%20th%E1%BB%B1c%20hi%E1%BB%87n.%20%C4%90i%E1%BB%81u%20b%E1%BB%8B%20ph%C3%A1%20v%E1%BB%A1/M%E1%BA%A5t/Lu%E1%BA%ADt%20ph%C3%A1p/Lu%E1%BA%ADt%20h%C3%ACnh%20s%E1%BB%B1/R%E1%BB%ADa%20ti%E1%BB%81n,%20tr%E1%BB%91n%20thu%E1%BA%BF/C%C3%B4ng%20ty%20ra%20ch%C3%ADnh%20s%C3%A1ch%20kh%C3%B3%20cho%20nh%C3%A2n%20vi%C3%AAn%20kh%C3%B4ng%20%C4%91%C6%A1n%20thu%E1%BA%A7n%20l%C3%A0%20v%C3%AC%20tham%20ti%E1%BB%81n,%20m%C3%A0%20c%C3%B2n%20l%C3%A0%20v%C3%AC%20nh%C3%A0%20%C4%91%E1%BA%A7u%20t%C6%B0%20c%E1%BA%A7n%20ti%E1%BB%81n%20%C4%91%C6%B0%E1%BB%A3c%20l%C6%B0u%20th%C3%B4ng.md). [Chính phủ muốn kiểm soát dòng tiền](../../../%F0%9F%A7%91%E2%80%8D%F0%9F%8C%BENg%C3%A0nh%20ngh%E1%BB%81%20c%E1%BB%A5%20th%E1%BB%83/T%C3%A0i%20ch%C3%ADnh/Ch%C3%ADnh%20ph%E1%BB%A7%20mu%E1%BB%91n%20ki%E1%BB%83m%20so%C3%A1t%20d%C3%B2ng%20ti%E1%BB%81n.md). Xen ra để thoát nghèo không thể không có hiểu biết về bản đồ dòng tiền. Càng lên được các vị trí cao càng thấy được đang có những nhóm lợi ích nào tranh giành quyền lợi. Có quan hệ gần gũi một người có những thông tin như vậy sẽ hữu ích.
 
-Một cách nữa để có dòng tiền là [chơi MMO](../../../%F0%9F%92%B8H%C3%ACnh%20th%E1%BB%A9c%20ki%E1%BA%BFm%20ti%E1%BB%81n/Thi%E1%BA%BFu%20li%C3%AAm%20ch%C3%ADnh.%20Ph%E1%BA%A1m%20ph%C3%A1p/C%C3%B4ng%20c%E1%BB%A5%20th%E1%BB%B1c%20hi%E1%BB%87n/Tr%C3%AAn%20m%E1%BA%A1ng/Ki%E1%BA%BFm%20ti%E1%BB%81n%20tr%E1%BB%B1c%20tuy%E1%BA%BFn%20(MMO)/index.md). Do đặc tính của phần mềm là có chi phí biên bằng 0 nên cũng không cần bóc lột thặng dư lao động của một vài người (trừ thằng dev và vài người làm cùng), nên cũng không phải tham gia sâu vào hệ thống tư bản cho lắm. Chỉ cần có kiến thức công nghệ thông tin trong một số mảng nhất định là làm được. 
+Một cách nữa để có dòng tiền là [chơi MMO](../../../%F0%9F%92%B8H%C3%ACnh%20th%E1%BB%A9c%20ki%E1%BA%BFm%20ti%E1%BB%81n/Thi%E1%BA%BFu%20li%C3%AAm%20ch%C3%ADnh.%20Ph%E1%BA%A1m%20ph%C3%A1p/C%C3%B4ng%20c%E1%BB%A5%20th%E1%BB%B1c%20hi%E1%BB%87n/Tr%C3%AAn%20m%E1%BA%A1ng/Ki%E1%BA%BFm%20ti%E1%BB%81n%20tr%E1%BB%B1c%20tuy%E1%BA%BFn%20(MMO).md). Do đặc tính của phần mềm là có chi phí biên bằng 0 nên cũng không cần bóc lột thặng dư lao động của một vài người (trừ thằng dev và vài người làm cùng), nên cũng không phải tham gia sâu vào hệ thống tư bản cho lắm. Chỉ cần có kiến thức công nghệ thông tin trong một số mảng nhất định là làm được. 
 
 Những ý ở trên chỉ là tầm nhìn bao quát, chưa nói được hành động cụ thể. Nó chưa phải là SMART, chưa phải là 5W1H. Ai, ở đâu, khi nào, cái gì, bằng cách nào, tại sao, bao nhiêu; những thông tin này Lộc có. 
 

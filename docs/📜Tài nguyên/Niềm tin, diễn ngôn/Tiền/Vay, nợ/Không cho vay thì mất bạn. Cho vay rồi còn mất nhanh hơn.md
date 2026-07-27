@@ -1,6 +1,6 @@
 ---
 share: true
-updated: 2026-07-07T13:00
+updated: 2026-07-27T02:26
 created: 2025-12-11T18:08
 ---
 [Các khó khăn của người cần vay và lý do từ chối cho vay](../../../../%F0%9F%93%90D%E1%BB%B1%20%C3%A1n/Gi%C3%BAp%20nhau%20tho%C3%A1t%20n%E1%BB%A3/T%C3%A0i%20li%E1%BB%87u/C%C3%A1c%20kh%C3%B3%20kh%C4%83n%20c%E1%BB%A7a%20ng%C6%B0%E1%BB%9Di%20c%E1%BA%A7n%20vay%20v%C3%A0%20l%C3%BD%20do%20t%E1%BB%AB%20ch%E1%BB%91i%20cho%20vay.md)

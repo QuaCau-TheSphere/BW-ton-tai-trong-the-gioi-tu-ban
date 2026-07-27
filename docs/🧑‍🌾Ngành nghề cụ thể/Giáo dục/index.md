@@ -1,13 +1,13 @@
 ---
 share: true
-updated: 2026-07-11T15:14
+updated: 2026-07-27T02:26
 created: 2026-07-11T15:09
 title: Giáo dục
 ---
 - \-: 
+    - [Campus toàn được thuê tầm 20 năm](./Campus%20to%C3%A0n%20%C4%91%C6%B0%E1%BB%A3c%20thu%C3%AA%20t%E1%BA%A7m%2020%20n%C4%83m.md)
     - [Dữ liệu trong trường thì gần như 100% là thật (hoặc chỉ là lỗi vô ý), chỉ là hành động (chứ không phải là lời nói), và là thời gian thực](./D%E1%BB%AF%20li%E1%BB%87u%20trong%20tr%C6%B0%E1%BB%9Dng%20th%C3%AC%20g%E1%BA%A7n%20nh%C6%B0%20100%25%20l%C3%A0%20th%E1%BA%ADt%20(ho%E1%BA%B7c%20ch%E1%BB%89%20l%C3%A0%20l%E1%BB%97i%20v%C3%B4%20%C3%BD),%20ch%E1%BB%89%20l%C3%A0%20h%C3%A0nh%20%C4%91%E1%BB%99ng%20(ch%E1%BB%A9%20kh%C3%B4ng%20ph%E1%BA%A3i%20l%C3%A0%20l%E1%BB%9Di%20n%C3%B3i),%20v%C3%A0%20l%C3%A0%20th%E1%BB%9Di%20gian%20th%E1%BB%B1c.md)
     - [Giáo dục](index.md)
-    - [Campus toàn được thuê tầm 20 năm](./Campus%20to%C3%A0n%20%C4%91%C6%B0%E1%BB%A3c%20thu%C3%AA%20t%E1%BA%A7m%2020%20n%C4%83m.md)
 
 - Giảng dạy: 
     - [Giáo viên khi dự giờ có khuynh hướng phô diễn, nhưng không nhất thiết là có hiệu quả](./Gi%E1%BA%A3ng%20d%E1%BA%A1y/Gi%C3%A1o%20vi%C3%AAn%20khi%20d%E1%BB%B1%20gi%E1%BB%9D%20c%C3%B3%20khuynh%20h%C6%B0%E1%BB%9Bng%20ph%C3%B4%20di%E1%BB%85n,%20nh%C6%B0ng%20kh%C3%B4ng%20nh%E1%BA%A5t%20thi%E1%BA%BFt%20l%C3%A0%20c%C3%B3%20hi%E1%BB%87u%20qu%E1%BA%A3.md)
@@ -23,4 +23,5 @@ title: Giáo dục
     - [Phụ huynh nhiều khi đã biết hết triết lý của trường rồi, nhưng vẫn muốn nghe chính miệng hiệu trưởng nói điều đó](./Tuy%E1%BB%83n%20sinh/Ph%E1%BB%A5%20huynh%20nhi%E1%BB%81u%20khi%20%C4%91%C3%A3%20bi%E1%BA%BFt%20h%E1%BA%BFt%20tri%E1%BA%BFt%20l%C3%BD%20c%E1%BB%A7a%20tr%C6%B0%E1%BB%9Dng%20r%E1%BB%93i,%20nh%C6%B0ng%20v%E1%BA%ABn%20mu%E1%BB%91n%20nghe%20ch%C3%ADnh%20mi%E1%BB%87ng%20hi%E1%BB%87u%20tr%C6%B0%E1%BB%9Fng%20n%C3%B3i%20%C4%91i%E1%BB%81u%20%C4%91%C3%B3.md)
     - [Trường tư phân khúc thấp không thể cạnh tranh lại được với trường công](./Tuy%E1%BB%83n%20sinh/Tr%C6%B0%E1%BB%9Dng%20t%C6%B0%20ph%C3%A2n%20kh%C3%BAc%20th%E1%BA%A5p%20kh%C3%B4ng%20th%E1%BB%83%20c%E1%BA%A1nh%20tranh%20l%E1%BA%A1i%20%C4%91%C6%B0%E1%BB%A3c%20v%E1%BB%9Bi%20tr%C6%B0%E1%BB%9Dng%20c%C3%B4ng.md)
     - [Tỉ lệ quay lại của trường học so với ở trung tâm là rất cao](./Tuy%E1%BB%83n%20sinh/T%E1%BB%89%20l%E1%BB%87%20quay%20l%E1%BA%A1i%20c%E1%BB%A7a%20tr%C6%B0%E1%BB%9Dng%20h%E1%BB%8Dc%20so%20v%E1%BB%9Bi%20%E1%BB%9F%20trung%20t%C3%A2m%20l%C3%A0%20r%E1%BA%A5t%20cao.md)
+
 

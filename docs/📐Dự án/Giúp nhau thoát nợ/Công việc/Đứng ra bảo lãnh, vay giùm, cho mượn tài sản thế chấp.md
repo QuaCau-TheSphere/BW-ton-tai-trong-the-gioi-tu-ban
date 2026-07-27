@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-01-14T18:51
-updated: 2026-07-07T12:59
+updated: 2026-07-27T02:26
 ---
 Khi nào thì nhận vay giùm, khi nào thì chỉ nhận bảo lãnh?
 [Quỹ tín dụng Quả Cầu](../Qu%E1%BB%B9/Qu%E1%BB%B9%20t%C3%ADn%20d%E1%BB%A5ng%20Qu%E1%BA%A3%20C%E1%BA%A7u.md)

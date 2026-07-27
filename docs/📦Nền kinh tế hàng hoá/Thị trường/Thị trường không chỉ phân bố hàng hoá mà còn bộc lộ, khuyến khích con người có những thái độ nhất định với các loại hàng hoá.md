@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2026-07-11T12:21
+updated: 2026-07-27T02:26
 ---
 Khái niệm:: [Thị trường](../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Kinh%20t%E1%BA%BF%20h%E1%BB%8Dc/Th%E1%BB%8B%20tr%C6%B0%E1%BB%9Dng.md), [Đạo đức](../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/%C4%90%E1%BA%A1o%20%C4%91%E1%BB%A9c.md)
 [Đôi khi, giá trị thị trường lấn át những giá trị phi thị trường đáng quan tâm](./%C4%90%C3%B4i%20khi,%20gi%C3%A1%20tr%E1%BB%8B%20th%E1%BB%8B%20tr%C6%B0%E1%BB%9Dng%20l%E1%BA%A5n%20%C3%A1t%20nh%E1%BB%AFng%20gi%C3%A1%20tr%E1%BB%8B%20phi%20th%E1%BB%8B%20tr%C6%B0%E1%BB%9Dng%20%C4%91%C3%A1ng%20quan%20t%C3%A2m.md)

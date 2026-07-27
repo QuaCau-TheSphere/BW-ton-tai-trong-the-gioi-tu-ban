@@ -1,6 +1,6 @@
 ---
 share: true
-updated: 2026-07-18T20:28
+updated: 2026-07-27T14:57
 created: 2026-06-22T14:04
 ---
 Khái niệm:: [Sở hữu](../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Kinh%20t%E1%BA%BF%20h%E1%BB%8Dc/S%E1%BB%9F%20h%E1%BB%AFu.md), [Tài sản](../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Kinh%20t%E1%BA%BF%20h%E1%BB%8Dc/T%C3%A0i%20s%E1%BA%A3n.md)

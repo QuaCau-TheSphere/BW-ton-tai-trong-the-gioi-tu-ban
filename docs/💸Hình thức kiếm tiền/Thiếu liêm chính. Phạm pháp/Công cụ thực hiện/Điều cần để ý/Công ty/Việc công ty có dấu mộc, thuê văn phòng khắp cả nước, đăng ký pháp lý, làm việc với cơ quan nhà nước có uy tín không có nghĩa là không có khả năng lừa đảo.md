@@ -1,6 +1,6 @@
 ---
 share: true
-updated: 2026-07-19T08:45
+updated: 2026-07-27T15:43
 created: 2025-07-13T21:51
 ---
 Khái niệm:: 
@@ -24,4 +24,4 @@ Nguồn:: [Lucky Shop - 🌟 LUCKY SHOP LÀM VIỆC VỚI ỦY BAN CHỨNG KHOÁ
 [Văn bản đóng mộc cũng có thể bị làm giả](../V%C4%83n%20b%E1%BA%A3n%20%C4%91%C3%B3ng%20m%E1%BB%99c%20c%C5%A9ng%20c%C3%B3%20th%E1%BB%83%20b%E1%BB%8B%20l%C3%A0m%20gi%E1%BA%A3.md)
 [Giám đốc, thủ quỹ có thể ôm tiền bỏ trốn mà công an không làm gì được](./Gi%C3%A1m%20%C4%91%E1%BB%91c,%20th%E1%BB%A7%20qu%E1%BB%B9%20c%C3%B3%20th%E1%BB%83%20%C3%B4m%20ti%E1%BB%81n%20b%E1%BB%8F%20tr%E1%BB%91n%20m%C3%A0%20c%C3%B4ng%20an%20kh%C3%B4ng%20l%C3%A0m%20g%C3%AC%20%C4%91%C6%B0%E1%BB%A3c.md)
 [Không phải công ty dám rửa tiền nào cũng lừa đảo nhân viên và khách hàng](../../../%C4%90%E1%BB%99ng%20c%C6%A1%20th%E1%BB%B1c%20hi%E1%BB%87n.%20%C4%90i%E1%BB%81u%20b%E1%BB%8B%20ph%C3%A1%20v%E1%BB%A1/M%E1%BA%A5t/Lu%E1%BA%ADt%20ph%C3%A1p/Lu%E1%BA%ADt%20h%C3%ACnh%20s%E1%BB%B1/R%E1%BB%ADa%20ti%E1%BB%81n,%20tr%E1%BB%91n%20thu%E1%BA%BF/Kh%C3%B4ng%20ph%E1%BA%A3i%20c%C3%B4ng%20ty%20d%C3%A1m%20r%E1%BB%ADa%20ti%E1%BB%81n%20n%C3%A0o%20c%C5%A9ng%20l%E1%BB%ABa%20%C4%91%E1%BA%A3o%20nh%C3%A2n%20vi%C3%AAn%20v%C3%A0%20kh%C3%A1ch%20h%C3%A0ng.md)
-[Việc công ty dung dưỡng cho mình gian lận sẽ làm cho mình không dám tố cáo công ty lừa đảo](../../../C%C3%A1ch%20th%E1%BB%B1c%20hi%E1%BB%87n/L%C3%A0m%20k%E1%BA%BFt%20qu%E1%BA%A3%20%E1%BA%A3o/Vi%E1%BB%87c%20c%C3%B4ng%20ty%20dung%20d%C6%B0%E1%BB%A1ng%20cho%20m%C3%ACnh%20gian%20l%E1%BA%ADn%20s%E1%BA%BD%20l%C3%A0m%20cho%20m%C3%ACnh%20kh%C3%B4ng%20d%C3%A1m%20t%E1%BB%91%20c%C3%A1o%20c%C3%B4ng%20ty%20l%E1%BB%ABa%20%C4%91%E1%BA%A3o.md)
+[Việc công ty dung dưỡng cho mình gian lận sẽ làm cho mình không dám tố cáo công ty lừa đảo](../../../Nguy%C3%AAn%20l%C3%BD,%20b%E1%BA%A3n%20ch%E1%BA%A5t%20h%C3%A0nh%20vi/Tham%20nh%C5%A9ng,%20l%E1%BB%A3i%20%C3%ADch%20nh%C3%B3m/Trong%20c%C3%B4ng%20ty/Vi%E1%BB%87c%20c%C3%B4ng%20ty%20dung%20d%C6%B0%E1%BB%A1ng%20cho%20m%C3%ACnh%20gian%20l%E1%BA%ADn%20s%E1%BA%BD%20l%C3%A0m%20cho%20m%C3%ACnh%20kh%C3%B4ng%20d%C3%A1m%20t%E1%BB%91%20c%C3%A1o%20c%C3%B4ng%20ty%20l%E1%BB%ABa%20%C4%91%E1%BA%A3o.md)

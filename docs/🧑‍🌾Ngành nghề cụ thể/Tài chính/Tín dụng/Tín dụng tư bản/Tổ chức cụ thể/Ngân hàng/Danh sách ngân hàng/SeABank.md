@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-08-31T11:15
-updated: 2026-07-06T21:10
+updated: 2026-07-27T02:26
 ---
 Tên thương hiệu:: SeABank
 Phân loại:: [Thương mại Cổ phần](Th%C6%B0%C6%A1ng%20m%E1%BA%A1i%20C%E1%BB%95%20ph%E1%BA%A7n.md)
@@ -46,4 +46,4 @@ Hoàn tiền trực tiếp vào thẻ luôn. Khi nào đóng thẻ rồi thì m�
 - Đăng nhập bằng vân tay dễ
 - Vừa thoát app là bắt đăng nhập lại
 
-[Seabank hạn cuối hay chặn POS](../../../D%E1%BB%8Bch%20v%E1%BB%A5%20ph%C3%A1i%20sinh/%C4%90%C3%A1o%20r%C3%BAt%20th%E1%BA%BB%20t%C3%ADn%20d%E1%BB%A5ng/Seabank%20h%E1%BA%A1n%20cu%E1%BB%91i%20hay%20ch%E1%BA%B7n%20POS.md)
+[Seabank hạn cuối hay chặn POS](../../../../../../../%F0%9F%92%B8H%C3%ACnh%20th%E1%BB%A9c%20ki%E1%BA%BFm%20ti%E1%BB%81n/Thi%E1%BA%BFu%20li%C3%AAm%20ch%C3%ADnh.%20Ph%E1%BA%A1m%20ph%C3%A1p/C%C3%A1ch%20th%E1%BB%B1c%20hi%E1%BB%87n/D%E1%BB%8Bch%20v%E1%BB%A5%20t%C3%A0i%20ch%C3%ADnh/%C4%90%C3%A1o%20r%C3%BAt%20t%C3%A0i%20kho%E1%BA%A3n%20t%C3%ADn%20d%E1%BB%A5ng/Th%E1%BA%BB/Seabank%20h%E1%BA%A1n%20cu%E1%BB%91i%20hay%20ch%E1%BA%B7n%20POS.md)

@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-10-02T13:49
-updated: 2026-07-18T21:28
+updated: 2026-07-27T02:26
 title: Thuế
 ---
 Khái niệm:: [Thuế](index.md)

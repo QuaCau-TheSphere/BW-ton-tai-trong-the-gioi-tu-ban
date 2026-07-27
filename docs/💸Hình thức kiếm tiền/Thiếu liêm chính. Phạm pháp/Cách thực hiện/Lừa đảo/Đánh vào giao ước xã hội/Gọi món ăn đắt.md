@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-01-17T21:52
-updated: 2026-07-19T08:57
+updated: 2026-07-27T02:26
 ---
 Tình huống: Bạn đi hỗ trợ khách hàng. Khách kêu thôi cũng đói nên đi ăn chung luôn. Vào trong quán khách chỉ menu coi lật lật lật nhanh. Xong rồi  Vô gọi tùm lum thứ mà không để ý. Biên lai ra 8tr
 

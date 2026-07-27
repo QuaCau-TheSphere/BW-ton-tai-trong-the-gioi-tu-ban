@@ -1,6 +1,6 @@
 ---
 share: true
-updated: 2026-07-12T12:18
+updated: 2026-07-27T02:26
 created: 2026-07-11T16:11
 ---
 [Phụ huynh chỉ tìm kiếm sự yên tâm ở giáo viên](./Ph%E1%BB%A5%20huynh%20ch%E1%BB%89%20t%C3%ACm%20ki%E1%BA%BFm%20s%E1%BB%B1%20y%C3%AAn%20t%C3%A2m%20%E1%BB%9F%20gi%C3%A1o%20vi%C3%AAn.md)

@@ -1,9 +1,10 @@
 ---
 share: true
-updated: 2026-07-12T13:20
+updated: 2026-07-27T02:26
 created: 2025-10-25T11:31
 ---
 - 🎁Phát triển bền vững. Các nền kinh tế thay thế: 
+    - [❓Các loại tài sản hữu hình, thời gian, công sức, sự chú ý là các loại tài sản khi dùng là mất. Các loại tài sản còn lại khi dùng là có thêm](../../../%F0%9F%8E%81Ph%C3%A1t%20tri%E1%BB%83n%20b%E1%BB%81n%20v%E1%BB%AFng.%20C%C3%A1c%20n%E1%BB%81n%20kinh%20t%E1%BA%BF%20thay%20th%E1%BA%BF/Gi%E1%BA%A3i%20ph%C3%A1p/%E2%9D%93C%C3%A1c%20lo%E1%BA%A1i%20t%C3%A0i%20s%E1%BA%A3n%20h%E1%BB%AFu%20h%C3%ACnh,%20th%E1%BB%9Di%20gian,%20c%C3%B4ng%20s%E1%BB%A9c,%20s%E1%BB%B1%20ch%C3%BA%20%C3%BD%20l%C3%A0%20c%C3%A1c%20lo%E1%BA%A1i%20t%C3%A0i%20s%E1%BA%A3n%20khi%20d%C3%B9ng%20l%C3%A0%20m%E1%BA%A5t.%20C%C3%A1c%20lo%E1%BA%A1i%20t%C3%A0i%20s%E1%BA%A3n%20c%C3%B2n%20l%E1%BA%A1i%20khi%20d%C3%B9ng%20l%C3%A0%20c%C3%B3%20th%C3%AAm.md)
     - [Nếu không thấy tài nguyên khan hiếm thì cũng không cần thu nhập thụ động](../../../%F0%9F%8E%81Ph%C3%A1t%20tri%E1%BB%83n%20b%E1%BB%81n%20v%E1%BB%AFng.%20C%C3%A1c%20n%E1%BB%81n%20kinh%20t%E1%BA%BF%20thay%20th%E1%BA%BF/Th%E1%BB%B1c%20tr%E1%BA%A1ng/N%E1%BA%BFu%20kh%C3%B4ng%20th%E1%BA%A5y%20t%C3%A0i%20nguy%C3%AAn%20khan%20hi%E1%BA%BFm%20th%C3%AC%20c%C5%A9ng%20kh%C3%B4ng%20c%E1%BA%A7n%20thu%20nh%E1%BA%ADp%20th%E1%BB%A5%20%C4%91%E1%BB%99ng.md)
     - [Thứ khan hiếm là sự tập trung, còn những nguồn tài nguyên khác thì luôn có](../../../%F0%9F%8E%81Ph%C3%A1t%20tri%E1%BB%83n%20b%E1%BB%81n%20v%E1%BB%AFng.%20C%C3%A1c%20n%E1%BB%81n%20kinh%20t%E1%BA%BF%20thay%20th%E1%BA%BF/Th%E1%BB%B1c%20tr%E1%BA%A1ng/Th%E1%BB%A9%20khan%20hi%E1%BA%BFm%20l%C3%A0%20s%E1%BB%B1%20t%E1%BA%ADp%20trung,%20c%C3%B2n%20nh%E1%BB%AFng%20ngu%E1%BB%93n%20t%C3%A0i%20nguy%C3%AAn%20kh%C3%A1c%20th%C3%AC%20lu%C3%B4n%20c%C3%B3.md)
 

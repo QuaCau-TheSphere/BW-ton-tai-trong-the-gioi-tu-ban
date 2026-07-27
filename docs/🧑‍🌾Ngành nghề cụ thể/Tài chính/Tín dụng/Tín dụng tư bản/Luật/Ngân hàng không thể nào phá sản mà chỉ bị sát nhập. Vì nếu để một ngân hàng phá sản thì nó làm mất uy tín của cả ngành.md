@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-01-16T14:51
-updated: 2026-07-07T13:00
+updated: 2026-07-27T02:26
 ---
 Khái niệm:: [Phá sản](../../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Ki%E1%BA%BFm%20ti%E1%BB%81n/Ph%C3%A1%20s%E1%BA%A3n.md)
 Lý do:: [Để người dân nghi ngờ một ngân hàng sẽ làm sụp đổ cả hệ thống ngân hàng](../Vay%20n%E1%BB%A3/%C4%90%E1%BB%83%20ng%C6%B0%E1%BB%9Di%20d%C3%A2n%20nghi%20ng%E1%BB%9D%20m%E1%BB%99t%20ng%C3%A2n%20h%C3%A0ng%20s%E1%BA%BD%20l%C3%A0m%20s%E1%BB%A5p%20%C4%91%E1%BB%95%20c%E1%BA%A3%20h%E1%BB%87%20th%E1%BB%91ng%20ng%C3%A2n%20h%C3%A0ng.md). Mà [Ngân hàng chính là kênh huy động tiền của nhà nước](./Ng%C3%A2n%20h%C3%A0ng%20ch%C3%ADnh%20l%C3%A0%20k%C3%AAnh%20huy%20%C4%91%E1%BB%99ng%20ti%E1%BB%81n%20c%E1%BB%A7a%20nh%C3%A0%20n%C6%B0%E1%BB%9Bc.md)

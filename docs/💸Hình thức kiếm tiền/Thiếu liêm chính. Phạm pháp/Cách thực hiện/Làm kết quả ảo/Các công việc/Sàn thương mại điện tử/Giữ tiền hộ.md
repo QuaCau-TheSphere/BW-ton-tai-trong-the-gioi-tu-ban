@@ -1,6 +1,6 @@
 ---
 share: true
-updated: 2026-07-19T08:23
+updated: 2026-07-27T15:41
 description: "Chuyển dùm tiền được gửi về tài khoản ngân hàng của bạn sang tài khoản khác. Số tiền kiếm được: 60k/stk ngân hàng"
 aliases:
   - Nhận tiền hộ
@@ -15,7 +15,7 @@ Nhân viên các sàn thương mại điện tử được áp đặt chỉ tiê
 Ngày bắt đầu làm bạn sẽ nhận được tiền chuyển khoản vào tài khoản ngân hàng của bạn. Công việc của bạn chỉ đơn giản là chuyển lại số tiền đó vào tài khoản của người làm thật.
 
 Bài chi tiết:: [Các câu hỏi khi làm cộng tác viên cho nhân viên chơi chính sách](../../../../Tr%C6%B0%E1%BB%9Dng%20h%E1%BB%A3p%20c%E1%BB%A5%20th%E1%BB%83/Ch%C6%A1i%20ch%C3%ADnh%20s%C3%A1ch/C%C3%A1c%20c%C3%A2u%20h%E1%BB%8Fi%20khi%20l%C3%A0m%20c%E1%BB%99ng%20t%C3%A1c%20vi%C3%AAn%20cho%20nh%C3%A2n%20vi%C3%AAn%20ch%C6%A1i%20ch%C3%ADnh%20s%C3%A1ch.md)
-Bài chi tiết:: [Đặt đơn ảo, đơn khống](../../%C4%90%E1%BA%B7t%20%C4%91%C6%A1n%20%E1%BA%A3o,%20%C4%91%C6%A1n%20kh%E1%BB%91ng.md)
+Bài chi tiết:: [Đặt đơn ảo, đơn khống](../../Tr%C3%AAn%20m%E1%BA%A1ng/%C4%90%E1%BA%B7t%20%C4%91%C6%A1n%20%E1%BA%A3o,%20%C4%91%C6%A1n%20kh%E1%BB%91ng.md)
 
 ## Yêu cầu
 - Có tối thiểu 5 stk, không giới hạn tối đa

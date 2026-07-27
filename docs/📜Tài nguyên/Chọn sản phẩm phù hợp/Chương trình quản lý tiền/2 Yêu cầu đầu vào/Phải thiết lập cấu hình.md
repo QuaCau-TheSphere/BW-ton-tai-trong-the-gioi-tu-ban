@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2026-07-07T12:59
+updated: 2026-07-27T02:26
 ---
 Yêu cầu đầu vào:: [Có thể dành thời gian nghiên cứu](./C%C3%B3%20th%E1%BB%83%20d%C3%A0nh%20th%E1%BB%9Di%20gian%20nghi%C3%AAn%20c%E1%BB%A9u.md)
 - 2 Yêu cầu đầu vào: [Không cần dữ liệu huấn luyện](./Kh%C3%B4ng%20c%E1%BA%A7n%20d%E1%BB%AF%20li%E1%BB%87u%20hu%E1%BA%A5n%20luy%E1%BB%87n.md)

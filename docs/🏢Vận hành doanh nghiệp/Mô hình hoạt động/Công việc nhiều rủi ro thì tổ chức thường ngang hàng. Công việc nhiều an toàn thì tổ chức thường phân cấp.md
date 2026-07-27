@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-05-05T22:01
-updated: 2026-07-07T12:59
+updated: 2026-07-27T02:26
 ---
 Khái niệm:: [Rủi ro](../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/R%E1%BB%A7i%20ro.md)
 [Công việc nào ít rủi ro hoặc rủi ro nhiều nhưng việc bỏ trốn hoặc phản kháng khó tránh khỏi sự trừng phạt thì cấp trên sẽ có phần thưởng cao hơn nhiều](../../%F0%9F%92%B8H%C3%ACnh%20th%E1%BB%A9c%20ki%E1%BA%BFm%20ti%E1%BB%81n/L%C3%A0m%20c%C3%B4ng%20%C4%83n%20l%C6%B0%C6%A1ng/B%C3%A1n%20h%C3%A0ng/Ch%E1%BA%A1y%20s%E1%BB%91/C%C3%B4ng%20vi%E1%BB%87c%20n%C3%A0o%20%C3%ADt%20r%E1%BB%A7i%20ro%20ho%E1%BA%B7c%20r%E1%BB%A7i%20ro%20nhi%E1%BB%81u%20nh%C6%B0ng%20vi%E1%BB%87c%20b%E1%BB%8F%20tr%E1%BB%91n%20ho%E1%BA%B7c%20ph%E1%BA%A3n%20kh%C3%A1ng%20kh%C3%B3%20tr%C3%A1nh%20kh%E1%BB%8Fi%20s%E1%BB%B1%20tr%E1%BB%ABng%20ph%E1%BA%A1t%20th%C3%AC%20c%E1%BA%A5p%20tr%C3%AAn%20s%E1%BA%BD%20c%C3%B3%20ph%E1%BA%A7n%20th%C6%B0%E1%BB%9Fng%20cao%20h%C6%A1n%20nhi%E1%BB%81u.md)

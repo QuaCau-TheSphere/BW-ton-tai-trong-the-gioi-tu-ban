@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2026-07-25T15:41
+updated: 2026-07-27T15:20
 aliases:
   - Làm nhân viên ảo là làm gì?
   - Làm đại lý ảo là làm gì?
@@ -48,7 +48,7 @@ Với Cueball:
 - [Công việc vô nghĩa, tổ chức vô lý](../../../%F0%9F%93%A6N%E1%BB%81n%20kinh%20t%E1%BA%BF%20h%C3%A0ng%20ho%C3%A1/Kinh%20t%E1%BA%BF%20ch%C3%ADnh%20tr%E1%BB%8B/Ch%E1%BB%A7%20ngh%C4%A9a%20t%C6%B0%20b%E1%BA%A3n,%20t%C3%A2n%20t%E1%BB%B1%20do/C%C3%B4ng%20vi%E1%BB%87c%20v%C3%B4%20ngh%C4%A9a,%20t%E1%BB%95%20ch%E1%BB%A9c%20v%C3%B4%20l%C3%BD.md)
 - [Vấn đề đạo đức khi làm nhân viên ảo](../Nguy%C3%AAn%20l%C3%BD,%20b%E1%BA%A3n%20ch%E1%BA%A5t%20h%C3%A0nh%20vi/T%E1%BA%A1o%20s%E1%BB%B1%20hi%E1%BB%83u%20nh%E1%BA%A7m.%20L%C3%A1ch%20ch%C3%ADnh%20s%C3%A1ch,%20quy%20%C4%91%E1%BB%8Bnh,%20cam%20k%E1%BA%BFt/V%E1%BA%A5n%20%C4%91%E1%BB%81%20%C4%91%E1%BA%A1o%20%C4%91%E1%BB%A9c%20trong%20vi%E1%BB%87c%20l%E1%BB%ABa%20d%E1%BB%91i%20c%E1%BA%A5p%20tr%C3%AAn.md)
 - [Làm nhân viên của nhiều công ty cho làm việc từ xa cùng lúc](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/%C3%9D%20t%C6%B0%E1%BB%9Fng%20ki%E1%BA%BFm%20ti%E1%BB%81n/%C3%9D%20t%C6%B0%E1%BB%9Fng/Vi%E1%BB%87c%20ch%C3%ADnh%20th%E1%BB%A9c%20trong%20c%C3%B4ng%20ty/L%C3%A0m%20nh%C3%A2n%20vi%C3%AAn%20c%E1%BB%A7a%20nhi%E1%BB%81u%20c%C3%B4ng%20ty%20cho%20l%C3%A0m%20vi%E1%BB%87c%20t%E1%BB%AB%20xa%20c%C3%B9ng%20l%C3%BAc.md)
-- [Bao nuôi](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Qu%C3%A0%20t%E1%BA%B7ng/Bao%20nu%C3%B4i/index.md)
+- [Bao nuôi](Bao%20nu%C3%B4i.md)
 
 > [!important] Nhìn toàn cảnh
 > Công việc này là một phần của dự án [Giúp nhau kiếm tiền](../../../%F0%9F%93%90D%E1%BB%B1%20%C3%A1n/Gi%C3%BAp%20nhau%20ki%E1%BA%BFm%20ti%E1%BB%81n/index.md). Đọc bài đó để hiểu thêm về mục tiêu dài hạn của dự án cũng như các lợi ích khác của bạn. Ngoài ra, bạn cũng có thể tham khảo thêm [các công việc kiếm tiền nhanh](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/%C3%9D%20t%C6%B0%E1%BB%9Fng%20ki%E1%BA%BFm%20ti%E1%BB%81n/%C3%9D%20t%C6%B0%E1%BB%9Fng/Ki%E1%BA%BFm%20ti%E1%BB%81n%20nhanh/index.md) khác.

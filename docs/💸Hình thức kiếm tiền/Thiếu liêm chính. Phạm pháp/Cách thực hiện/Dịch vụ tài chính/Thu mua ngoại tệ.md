@@ -1,8 +1,9 @@
 ---
 share: true
-updated: 2026-07-06T21:10
+updated: 2026-07-27T02:26
 aliases:
   - Mua đô
+created: 2026-03-28T17:29
 ---
 Cho cả người đến rước. Bắt điểm danh sớm. Vé, visa chỉ là tờ giấy photo. 
 

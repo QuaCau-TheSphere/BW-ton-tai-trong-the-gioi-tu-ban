@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2026-07-27T00:52
+updated: 2026-07-27T02:26
 ---
 # Điều nhà đầu tư quan tâm
 ## Trấn Kỳ là gì

@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-09-30T20:57
-updated: 2026-07-07T12:59
+updated: 2026-07-27T02:26
 ---
 Khái niệm:: [Chạy ảo, làm ảo, nhân sự ảo](../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Ki%E1%BA%BFm%20ti%E1%BB%81n/Ch%E1%BA%A1y%20%E1%BA%A3o,%20l%C3%A0m%20%E1%BA%A3o,%20nh%C3%A2n%20s%E1%BB%B1%20%E1%BA%A3o.md), [Rủi ro](../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/R%E1%BB%A7i%20ro.md)
 Một người tuyển mình vào làm quản lý ảo là để họ có đạt được chỉ tiêu tuyển dụng, từ đó giữ được vị trí quản lý cấp cao của mình. Tuy nhiên, họ cũng có chỉ tiêu bán hàng, và họ không thể đẩy cho mình khi họ cũng chưa làm cho mình xong.

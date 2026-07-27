@@ -1,6 +1,6 @@
 ---
 share: true
-updated: 2026-07-16T15:01
+updated: 2026-07-27T02:26
 created: 2025-11-03T19:22
 ---
 Khái niệm:: [Sở hữu](../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Kinh%20t%E1%BA%BF%20h%E1%BB%8Dc/S%E1%BB%9F%20h%E1%BB%AFu.md)

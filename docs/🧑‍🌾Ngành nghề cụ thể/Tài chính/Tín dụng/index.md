@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-04-14T17:18
-updated: 2026-07-22T15:05
+updated: 2026-07-27T02:27
 title: Tín dụng
 ---
 Khái niệm:: 

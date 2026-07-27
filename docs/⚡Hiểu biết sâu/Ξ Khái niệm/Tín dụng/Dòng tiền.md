@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-09-30T12:08
-updated: 2026-07-07T12:59
+updated: 2026-07-27T02:26
 ---
 - 💸Hình thức kiếm tiền: 
     - [Có thêm tiền là cách để có thêm dòng tiền](../../../%F0%9F%92%B8H%C3%ACnh%20th%E1%BB%A9c%20ki%E1%BA%BFm%20ti%E1%BB%81n/K%E1%BA%BF%20ho%E1%BA%A1ch%20t%C3%A0i%20ch%C3%ADnh/Thu%20nh%E1%BA%ADp%20th%E1%BB%A5%20%C4%91%E1%BB%99ng,%20d%C3%B2ng%20ti%E1%BB%81n%20d%C6%B0%C6%A1ng/C%C3%B3%20th%C3%AAm%20ti%E1%BB%81n%20l%C3%A0%20c%C3%A1ch%20%C4%91%E1%BB%83%20c%C3%B3%20th%C3%AAm%20d%C3%B2ng%20ti%E1%BB%81n.md)
@@ -9,7 +9,10 @@ updated: 2026-07-07T12:59
     - [Thu nhập thụ động có hàm ý đã biết chắc chắn ngày nào mình nhận tiền với bao nhiêu tiền. Dòng tiền thì không](../../../%F0%9F%92%B8H%C3%ACnh%20th%E1%BB%A9c%20ki%E1%BA%BFm%20ti%E1%BB%81n/K%E1%BA%BF%20ho%E1%BA%A1ch%20t%C3%A0i%20ch%C3%ADnh/Thu%20nh%E1%BA%ADp%20th%E1%BB%A5%20%C4%91%E1%BB%99ng,%20d%C3%B2ng%20ti%E1%BB%81n%20d%C6%B0%C6%A1ng/Thu%20nh%E1%BA%ADp%20th%E1%BB%A5%20%C4%91%E1%BB%99ng%20c%C3%B3%20h%C3%A0m%20%C3%BD%20%C4%91%C3%A3%20bi%E1%BA%BFt%20ch%E1%BA%AFc%20ch%E1%BA%AFn%20ng%C3%A0y%20n%C3%A0o%20m%C3%ACnh%20nh%E1%BA%ADn%20ti%E1%BB%81n%20v%E1%BB%9Bi%20bao%20nhi%C3%AAu%20ti%E1%BB%81n.%20D%C3%B2ng%20ti%E1%BB%81n%20th%C3%AC%20kh%C3%B4ng.md)
     - [Thu nhập thụ động thì không theo phần trăm. Dòng tiền thì có thể có](../../../%F0%9F%92%B8H%C3%ACnh%20th%E1%BB%A9c%20ki%E1%BA%BFm%20ti%E1%BB%81n/K%E1%BA%BF%20ho%E1%BA%A1ch%20t%C3%A0i%20ch%C3%ADnh/Thu%20nh%E1%BA%ADp%20th%E1%BB%A5%20%C4%91%E1%BB%99ng,%20d%C3%B2ng%20ti%E1%BB%81n%20d%C6%B0%C6%A1ng/Thu%20nh%E1%BA%ADp%20th%E1%BB%A5%20%C4%91%E1%BB%99ng%20th%C3%AC%20kh%C3%B4ng%20theo%20ph%E1%BA%A7n%20tr%C4%83m.%20D%C3%B2ng%20ti%E1%BB%81n%20th%C3%AC%20c%C3%B3%20th%E1%BB%83%20c%C3%B3.md)
     - [Điểm yếu của dòng tiền là sẽ khốn đốn khi tiền bị ngâm](../../../%F0%9F%92%B8H%C3%ACnh%20th%E1%BB%A9c%20ki%E1%BA%BFm%20ti%E1%BB%81n/K%E1%BA%BF%20ho%E1%BA%A1ch%20t%C3%A0i%20ch%C3%ADnh/Thu%20nh%E1%BA%ADp%20th%E1%BB%A5%20%C4%91%E1%BB%99ng,%20d%C3%B2ng%20ti%E1%BB%81n%20d%C6%B0%C6%A1ng/%C4%90i%E1%BB%83m%20y%E1%BA%BFu%20c%E1%BB%A7a%20d%C3%B2ng%20ti%E1%BB%81n%20l%C3%A0%20s%E1%BA%BD%20kh%E1%BB%91n%20%C4%91%E1%BB%91n%20khi%20ti%E1%BB%81n%20b%E1%BB%8B%20ng%C3%A2m.md)
-    - [Làm thật thì không tạo ra dòng tiền. Làm ảo tạo ra dòng tiền](../../../%F0%9F%92%B8H%C3%ACnh%20th%E1%BB%A9c%20ki%E1%BA%BFm%20ti%E1%BB%81n/Thi%E1%BA%BFu%20li%C3%AAm%20ch%C3%ADnh.%20Ph%E1%BA%A1m%20ph%C3%A1p/C%C3%A1ch%20l%C3%A0m%20c%E1%BB%A5%20th%E1%BB%83/Vi%20ph%E1%BA%A1m%20d%C3%A2n%20s%E1%BB%B1/L%C3%A0m%20th%E1%BA%ADt%20th%C3%AC%20kh%C3%B4ng%20t%E1%BA%A1o%20ra%20d%C3%B2ng%20ti%E1%BB%81n.%20L%C3%A0m%20%E1%BA%A3o%20t%E1%BA%A1o%20ra%20d%C3%B2ng%20ti%E1%BB%81n.md)
+    - [Làm thật thì không tạo ra dòng tiền. Làm ảo tạo ra dòng tiền](../../../%F0%9F%92%B8H%C3%ACnh%20th%E1%BB%A9c%20ki%E1%BA%BFm%20ti%E1%BB%81n/Thi%E1%BA%BFu%20li%C3%AAm%20ch%C3%ADnh.%20Ph%E1%BA%A1m%20ph%C3%A1p/Nguy%C3%AAn%20l%C3%BD,%20b%E1%BA%A3n%20ch%E1%BA%A5t%20h%C3%A0nh%20vi/Tham%20nh%C5%A9ng,%20l%E1%BB%A3i%20%C3%ADch%20nh%C3%B3m/Trong%20c%C3%B4ng%20ty/L%C3%A0m%20th%E1%BA%ADt%20th%C3%AC%20kh%C3%B4ng%20t%E1%BA%A1o%20ra%20d%C3%B2ng%20ti%E1%BB%81n.%20L%C3%A0m%20%E1%BA%A3o%20t%E1%BA%A1o%20ra%20d%C3%B2ng%20ti%E1%BB%81n.md)
+
+- 📐Dự án: 
+    - [Làm sao để kiếm dòng tiền từ tài sản vô hình](../../../%F0%9F%93%90D%E1%BB%B1%20%C3%A1n/Gi%C3%BAp%20nhau%20ki%E1%BA%BFm%20ti%E1%BB%81n/L%C3%A0m%20sao%20%C4%91%E1%BB%83%20ki%E1%BA%BFm%20d%C3%B2ng%20ti%E1%BB%81n%20t%E1%BB%AB%20t%C3%A0i%20s%E1%BA%A3n%20v%C3%B4%20h%C3%ACnh.md)
 
 - 📜Tài nguyên: 
     - [Cái cần không phải là có tiền, mà là có dòng tiền](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Ni%E1%BB%81m%20tin,%20di%E1%BB%85n%20ng%C3%B4n/Ti%E1%BB%81n/Ngh%C3%A8o/C%C3%A1i%20c%E1%BA%A7n%20kh%C3%B4ng%20ph%E1%BA%A3i%20l%C3%A0%20c%C3%B3%20ti%E1%BB%81n,%20m%C3%A0%20l%C3%A0%20c%C3%B3%20d%C3%B2ng%20ti%E1%BB%81n.md)

@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-05-27T20:18
-updated: 2026-07-07T13:00
+updated: 2026-07-27T16:41
 aliases:
   - Sàn cho vay ngang hàng
 title: Vay ngang hàng
@@ -11,4 +11,8 @@ title: Vay ngang hàng
 [Cho vay ngang hàng: Đưa vào khuôn khổ - Tuổi Trẻ Online](https://tuoitre.vn/cho-vay-ngang-hang-dua-vao-khuon-kho-20220411082233424.htm)
 [Hoạt động cho vay ngang hàng tại Việt Nam](https://tapchinganhang.gov.vn/hoat-dong-cho-vay-ngang-hang-tai-viet-nam.htm)
 
+- [Cho vay ngang hàng kết nối trực tiếp người đi vay với người cho vay mà không thông qua các tổ chức trung gian tài chính](./Cho%20vay%20ngang%20h%C3%A0ng%20k%E1%BA%BFt%20n%E1%BB%91i%20tr%E1%BB%B1c%20ti%E1%BA%BFp%20ng%C6%B0%E1%BB%9Di%20%C4%91i%20vay%20v%E1%BB%9Bi%20ng%C6%B0%E1%BB%9Di%20cho%20vay%20m%C3%A0%20kh%C3%B4ng%20th%C3%B4ng%20qua%20c%C3%A1c%20t%E1%BB%95%20ch%E1%BB%A9c%20trung%20gian%20t%C3%A0i%20ch%C3%ADnh.md)
+- [Các hình thức biến tướng](./C%C3%A1c%20h%C3%ACnh%20th%E1%BB%A9c%20bi%E1%BA%BFn%20t%C6%B0%E1%BB%9Bng.md)
 
+
+[Sàn cho vay ngang hàng](../../../../../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/%C3%9D%20t%C6%B0%E1%BB%9Fng%20ki%E1%BA%BFm%20ti%E1%BB%81n/%C3%9D%20t%C6%B0%E1%BB%9Fng/T%E1%BB%B1%20kinh%20doanh,%20%C4%91%E1%BA%A7u%20t%C6%B0/K%E1%BA%BFt%20n%E1%BB%91i%20nhu%20c%E1%BA%A7u/T%C3%ADn%20d%E1%BB%A5ng/S%C3%A0n%20cho%20vay%20ngang%20h%C3%A0ng.md)

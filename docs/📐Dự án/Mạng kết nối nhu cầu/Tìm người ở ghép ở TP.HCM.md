@@ -1,6 +1,6 @@
 ---
 share: true
-updated: 2026-07-14T19:47
+updated: 2026-07-27T02:26
 aliases:
   - Xây dựng cộng đồng có chủ đích ở TP.HCM
   - hợp tác xã nhà ở
@@ -14,7 +14,7 @@ Sâu xa hơn là xây dựng [Cộng đồng có chủ đích](../../%F0%9F%8E%8
 
 Nhà ở [Cho thuê căn 117 Xô Viết Nghệ Tĩnh, TP.HCM](../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Gi%E1%BB%9Bi%20thi%E1%BB%87u%20d%E1%BB%8Bch%20v%E1%BB%A5/B%E1%BA%A5t%20%C4%91%E1%BB%99ng%20s%E1%BA%A3n/Cho%20thu%C3%AA%20c%C4%83n%20117%20X%C3%B4%20Vi%E1%BA%BFt%20Ngh%E1%BB%87%20T%C4%A9nh,%20TP.HCM.md) phù hợp để làm cộng đồng có chủ đích cho khoảng 10 người, nhưng chủ nhà đang tính sửa lại để chỉ cho thuê từng tầng. Nếu gom được nhóm trước khi chủ nhà sửa nhà thì sẽ có lợi.
 
-Có thể thay nhau làm việc nhà, hoặc hùn tiền cho một người làm công việc nội trợ. Người đó có thể kết hợp với các [Kiếm tiền nhanh](../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/%C3%9D%20t%C6%B0%E1%BB%9Fng%20ki%E1%BA%BFm%20ti%E1%BB%81n/%C3%9D%20t%C6%B0%E1%BB%9Fng/Ki%E1%BA%BFm%20ti%E1%BB%81n%20nhanh/index.md) hoặc [Bao nuôi](../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Qu%C3%A0%20t%E1%BA%B7ng/Bao%20nu%C3%B4i/index.md)  
+Có thể thay nhau làm việc nhà, hoặc hùn tiền cho một người làm công việc nội trợ. Người đó có thể kết hợp với các [Kiếm tiền nhanh](../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/%C3%9D%20t%C6%B0%E1%BB%9Fng%20ki%E1%BA%BFm%20ti%E1%BB%81n/%C3%9D%20t%C6%B0%E1%BB%9Fng/Ki%E1%BA%BFm%20ti%E1%BB%81n%20nhanh/index.md) hoặc [Bao nuôi](Bao%20nu%C3%B4i.md)  
 
 [Vận hành một gia đình không dễ. Ở chung đã khó còn phải ăn uống](../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Ni%E1%BB%81m%20tin,%20di%E1%BB%85n%20ng%C3%B4n/V%E1%BA%ADn%20h%C3%A0nh%20m%E1%BB%99t%20gia%20%C4%91%C3%ACnh%20kh%C3%B4ng%20d%E1%BB%85.%20%E1%BB%9E%20chung%20%C4%91%C3%A3%20kh%C3%B3%20c%C3%B2n%20ph%E1%BA%A3i%20%C4%83n%20u%E1%BB%91ng.md)
 [Các công việc thường cung cấp chỗ ở](../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/S%E1%BB%91ng%20v%E1%BB%ABa%20%C4%91%E1%BB%A7,%20b%E1%BB%81n%20v%E1%BB%AFng,%20ti%E1%BA%BFt%20ki%E1%BB%87m/N%C6%A1i%20%E1%BB%9F/C%C3%A1c%20c%C3%B4ng%20vi%E1%BB%87c%20th%C6%B0%E1%BB%9Dng%20cung%20c%E1%BA%A5p%20ch%E1%BB%97%20%E1%BB%9F.md)

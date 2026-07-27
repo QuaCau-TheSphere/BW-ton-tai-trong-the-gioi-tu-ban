@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-05-06T14:07
-updated: 2026-07-07T13:00
+updated: 2026-07-27T02:26
 ---
 Khái niệm:: [Nhà nước](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Nh%C3%A0%20n%C6%B0%E1%BB%9Bc/index.md), [Tư bản](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Kinh%20t%E1%BA%BF%20h%E1%BB%8Dc/T%C6%B0%20b%E1%BA%A3n.md)
 Lý do:: [Nhận một nghìn đô la từ một người tốt hơn nhiều thay vì mười đô la từ một trăm người khác nhau](./Nh%E1%BA%ADn%20m%E1%BB%99t%20ngh%C3%ACn%20%C4%91%C3%B4%20la%20t%E1%BB%AB%20m%E1%BB%99t%20ng%C6%B0%E1%BB%9Di%20t%E1%BB%91t%20h%C6%A1n%20nhi%E1%BB%81u%20thay%20v%C3%AC%20m%C6%B0%E1%BB%9Di%20%C4%91%C3%B4%20la%20t%E1%BB%AB%20m%E1%BB%99t%20tr%C4%83m%20ng%C6%B0%E1%BB%9Di%20kh%C3%A1c%20nhau.md)

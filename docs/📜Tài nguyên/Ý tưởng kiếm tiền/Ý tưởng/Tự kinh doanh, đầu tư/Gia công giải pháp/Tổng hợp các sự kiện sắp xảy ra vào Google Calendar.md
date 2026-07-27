@@ -1,6 +1,6 @@
 ---
 share: true
-updated: 2026-07-07T13:00
+updated: 2026-07-27T02:26
 created: 2025-03-27T17:13
 ---
 Bài chi tiết:: [Tổng hợp sự kiện trên mạng](../../../../../%F0%9F%93%90D%E1%BB%B1%20%C3%A1n/T%E1%BB%B1%20%C4%91%E1%BB%99ng%20ho%C3%A1/T%E1%BB%95ng%20h%E1%BB%A3p%20s%E1%BB%B1%20ki%E1%BB%87n%20tr%C3%AAn%20m%E1%BA%A1ng.md)
@@ -13,6 +13,7 @@ Bài chi tiết:: [Tổng hợp sự kiện trên mạng](../../../../../%F0%9F%
 ## Sản phẩm, giải pháp 
 ## Thành quả mong muốn
 ## Vai trò thương hiệu
+## Những người tham gia
 Nhật giúp ghi chép, tổng hợp thông tin, hoặc chia sẻ kiến thức, trải nghiệm. Xem chi tiết tại [Lời mời sử dụng nguồn lực của Nhật](https://doi-thoai.deno.dev/6_.7O.1)
 
 ## Thông tin thêm

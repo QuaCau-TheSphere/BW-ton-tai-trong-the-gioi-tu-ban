@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-06-05T12:03
-updated: 2026-07-27T00:25
+updated: 2026-07-27T02:26
 ---
 Khái niệm:: [Công nghệ](../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/C%C3%B4ng%20ngh%E1%BB%87.md)
 AI chỉ là một trong số rất nhiều các công nghệ mới sau:

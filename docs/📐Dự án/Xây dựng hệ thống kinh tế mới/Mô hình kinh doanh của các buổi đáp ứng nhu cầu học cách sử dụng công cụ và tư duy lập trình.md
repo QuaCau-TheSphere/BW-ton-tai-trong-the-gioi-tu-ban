@@ -2,7 +2,7 @@
 share: true
 blog: done
 created: 2023-09-05T16:17
-updated: 2026-07-27T00:14
+updated: 2026-07-27T02:26
 aliases:
   - Khi nào thì chiến lược định giá "trả tuỳ tâm" đạt được sự bền vững?
   - Mô hình kinh doanh của các buổi đáp ứng nhu cầu học cách sử dụng công cụ và tư duy lập trình

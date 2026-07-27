@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-06-01T15:11
-updated: 2026-07-19T08:23
+updated: 2026-07-27T02:26
 ---
 Khái niệm:: [Lợi ích nhóm](../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/L%E1%BB%A3i%20%C3%ADch%20nh%C3%B3m.md)
 Lý do:: [Bởi vì không ai quản trị một mình, nên lợi ích nhóm là điều không tránh khỏi](./B%E1%BB%9Fi%20v%C3%AC%20kh%C3%B4ng%20ai%20qu%E1%BA%A3n%20tr%E1%BB%8B%20m%E1%BB%99t%20m%C3%ACnh,%20n%C3%AAn%20l%E1%BB%A3i%20%C3%ADch%20nh%C3%B3m%20l%C3%A0%20%C4%91i%E1%BB%81u%20kh%C3%B4ng%20tr%C3%A1nh%20kh%E1%BB%8Fi.md)

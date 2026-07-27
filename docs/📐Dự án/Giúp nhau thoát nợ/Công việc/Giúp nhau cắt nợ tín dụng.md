@@ -1,6 +1,6 @@
 ---
 share: true
-updated: 2026-07-07T12:59
+updated: 2026-07-27T02:26
 created: 2025-08-23T16:50
 ---
 Khi bạn lên các ngân hàng thương mại hoặc công ty tài chính tiêu dùng (sau đây gọi tắt là ngân hàng) để vay tiền, họ sẽ đánh giá mức độ đáng tin của bạn thông qua một chỉ số gọi là *điểm tín dụng*. Nếu bạn có được điểm tín dụng tốt thì bạn sẽ được vay với lãi thấp hơn và hạn mức cao hơn. Một lần trả nợ trễ hạn là điểm tín dụng của bạn sẽ bị đánh xấu cho cả 5 năm tiếp theo, và sẽ không được ngân hàng nào cho vay cả. Điểm này do Trung tâm Tín dụng Quốc gia (CIC) quản lý, nên cũng hay được gọi là điểm CIC. 

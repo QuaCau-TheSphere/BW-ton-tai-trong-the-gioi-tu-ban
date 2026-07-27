@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-04-29T10:55
-updated: 2026-07-07T12:58
+updated: 2026-07-27T02:26
 ---
 - Chính sách công ty: 
     - [Quản lý ép chỉ tiêu cả chủ nhật](../../../%F0%9F%A7%91%E2%80%8D%F0%9F%8C%BENg%C3%A0nh%20ngh%E1%BB%81%20c%E1%BB%A5%20th%E1%BB%83/T%C3%A0i%20ch%C3%ADnh/B%E1%BA%A3o%20hi%E1%BB%83m/Ch%C3%ADnh%20s%C3%A1ch%20c%C3%B4ng%20ty/Nh%C3%A2n%20s%E1%BB%B1/Cathay/Ch%C3%ADnh%20s%C3%A1ch%20cho%20%C4%91%E1%BA%A1i%20l%C3%BD/Qu%E1%BA%A3n%20l%C3%BD%20%C3%A9p%20ch%E1%BB%89%20ti%C3%AAu%20c%E1%BA%A3%20ch%E1%BB%A7%20nh%E1%BA%ADt.md)

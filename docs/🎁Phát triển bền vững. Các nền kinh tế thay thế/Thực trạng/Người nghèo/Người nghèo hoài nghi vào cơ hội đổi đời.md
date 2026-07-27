@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-10-24T17:33
-updated: 2026-07-07T12:59
+updated: 2026-07-27T02:26
 ---
 Khái niệm:: [Nghèo, người nghèo](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Giai%20c%E1%BA%A5p.%20Ph%C3%A1t%20tri%E1%BB%83n%20b%E1%BB%81n%20v%E1%BB%AFng/Ngh%C3%A8o,%20ng%C6%B0%E1%BB%9Di%20ngh%C3%A8o.md)
 [Những thứ giúp cuộc sống đỡ nhàm chán là ưu tiên đối với người nghèo](./Nh%E1%BB%AFng%20th%E1%BB%A9%20gi%C3%BAp%20cu%E1%BB%99c%20s%E1%BB%91ng%20%C4%91%E1%BB%A1%20nh%C3%A0m%20ch%C3%A1n%20l%C3%A0%20%C6%B0u%20ti%C3%AAn%20%C4%91%E1%BB%91i%20v%E1%BB%9Bi%20ng%C6%B0%E1%BB%9Di%20ngh%C3%A8o.md)

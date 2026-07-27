@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-08-31T16:22
-updated: 2026-07-07T13:00
+updated: 2026-07-27T02:26
 ---
 - [Các lý do để không về quê hoặc không sống ở thành phố lớn](../../../%F0%9F%93%90D%E1%BB%B1%20%C3%A1n/Gi%C3%BAp%20nhau%20tho%C3%A1t%20n%E1%BB%A3/T%C3%A0i%20li%E1%BB%87u/Ni%E1%BB%81m%20tin/C%C3%A1c%20l%C3%BD%20do%20%C4%91%E1%BB%83%20kh%C3%B4ng%20v%E1%BB%81%20qu%C3%AA%20ho%E1%BA%B7c%20kh%C3%B4ng%20s%E1%BB%91ng%20%E1%BB%9F%20th%C3%A0nh%20ph%E1%BB%91%20l%E1%BB%9Bn.md)
 - Ở ngoại ô và gần các bến xe, ga tàu

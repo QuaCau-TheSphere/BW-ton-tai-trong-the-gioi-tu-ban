@@ -1,6 +1,6 @@
 ---
 share: true
-updated: 2026-07-08T20:51
+updated: 2026-07-27T02:26
 created: 2026-01-27T14:38
 ---
 Khái niệm:: [Thu nhập thụ động](../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Ki%E1%BA%BFm%20ti%E1%BB%81n/Thu%20nh%E1%BA%ADp%20th%E1%BB%A5%20%C4%91%E1%BB%99ng.md)

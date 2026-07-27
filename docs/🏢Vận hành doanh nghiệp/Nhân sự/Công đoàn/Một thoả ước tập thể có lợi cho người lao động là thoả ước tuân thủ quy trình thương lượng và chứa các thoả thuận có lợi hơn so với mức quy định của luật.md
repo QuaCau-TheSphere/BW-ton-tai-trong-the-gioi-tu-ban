@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-08-08T12:01
-updated: 2026-07-18T21:28
+updated: 2026-07-27T02:26
 ---
 Khái niệm:: [Thương lượng tập thể](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Giai%20c%E1%BA%A5p.%20Ph%C3%A1t%20tri%E1%BB%83n%20b%E1%BB%81n%20v%E1%BB%AFng/Th%C6%B0%C6%A1ng%20l%C6%B0%E1%BB%A3ng%20t%E1%BA%ADp%20th%E1%BB%83.md), [Thoả ước tập thể](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Giai%20c%E1%BA%A5p.%20Ph%C3%A1t%20tri%E1%BB%83n%20b%E1%BB%81n%20v%E1%BB%AFng/Tho%E1%BA%A3%20%C6%B0%E1%BB%9Bc%20t%E1%BA%ADp%20th%E1%BB%83.md)
 
