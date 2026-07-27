@@ -1,6 +1,6 @@
 ---
 share: true
-updated: 2026-07-27T00:05
+updated: 2026-07-27T02:26
 created: 2025-12-20T15:31
 ---
 Khái niệm:: [Chi phí biên](../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Kinh%20t%E1%BA%BF%20h%E1%BB%8Dc/Chi%20ph%C3%AD%20bi%C3%AAn.md), [Dòng tiền](../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/T%C3%ADn%20d%E1%BB%A5ng/D%C3%B2ng%20ti%E1%BB%81n.md)
