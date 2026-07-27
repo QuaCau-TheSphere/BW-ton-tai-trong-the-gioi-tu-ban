@@ -1,6 +1,6 @@
 ---
 share: true
-updated: 2026-07-07T12:59
+updated: 2026-07-27T02:26
 aliases:
   - Hồ sơ vay của Lý Minh Nhật
 created: 2025-09-18T09:33
