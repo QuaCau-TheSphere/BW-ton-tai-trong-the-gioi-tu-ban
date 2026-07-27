@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-10-09T16:50
-updated: 2026-07-07T12:59
+updated: 2026-07-27T02:26
 ---
 Khái niệm:: [Hoa hồng](../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Ki%E1%BA%BFm%20ti%E1%BB%81n/Hoa%20h%E1%BB%93ng.md)
 Chính vì như vậy, nên:
