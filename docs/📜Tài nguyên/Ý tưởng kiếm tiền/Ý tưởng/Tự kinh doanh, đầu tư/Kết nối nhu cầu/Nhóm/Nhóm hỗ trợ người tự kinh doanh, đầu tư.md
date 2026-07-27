@@ -1,12 +1,10 @@
 ---
 share: true
-updated: 2026-07-19T16:33
+updated: 2026-07-27T15:55
 aliases:
   - Nhóm agency
 created: 2026-06-05T16:58
 ---
-Có thể đi kèm với [Hợp tác xã nhân viên](./H%E1%BB%A3p%20t%C3%A1c%20x%C3%A3%20nh%C3%A2n%20vi%C3%AAn.md), [Nhóm môi giới, đại lý](./Nh%C3%B3m%20m%C3%B4i%20gi%E1%BB%9Bi,%20%C4%91%E1%BA%A1i%20l%C3%BD.md), [Nhóm mua chung, câu lạc bộ tiêu dùng](./Nh%C3%B3m%20mua%20chung,%20c%C3%A2u%20l%E1%BA%A1c%20b%E1%BB%99%20ti%C3%AAu%20d%C3%B9ng.md), [Nhóm giúp nhau kiếm tiền](../../../../../../%F0%9F%93%90D%E1%BB%B1%20%C3%A1n/Gi%C3%BAp%20nhau%20ki%E1%BA%BFm%20ti%E1%BB%81n/index.md)
-
 ## Thị trường & đối thủ cạnh tranh
 Các nhóm agency, các freelancer
 [Nhóm giúp nhau kiếm tiền](../../../../../../%F0%9F%93%90D%E1%BB%B1%20%C3%A1n/Gi%C3%BAp%20nhau%20ki%E1%BA%BFm%20ti%E1%BB%81n/index.md)
@@ -40,6 +38,7 @@ Công việc:
 - Tìm điểm đau
 
 ## Vai trò thương hiệu
+## Những người tham gia
 Nhật giúp ghi chép, tổng hợp thông tin, hoặc chia sẻ kiến thức, trải nghiệm. Xem chi tiết tại [Lời mời sử dụng nguồn lực của Nhật](https://doi-thoai.deno.dev/6_.7O.1)
 
 ## Thông tin thêm
@@ -49,9 +48,14 @@ Thời gian làm việc:: [Được chọn thời gian làm trong ngày](../../.
 Tài nguyên, vật dụng cần có sẵn:: 
 Đặc điểm khác:: 
 
+Các hình thức hỗ trợ tổ nhóm tương tự, có thể kết hợp làm chung:
+- [Hợp tác xã nhân viên](./H%E1%BB%A3p%20t%C3%A1c%20x%C3%A3%20nh%C3%A2n%20vi%C3%AAn.md)
+- [Nhóm mua chung, câu lạc bộ tiêu dùng](./Nh%C3%B3m%20mua%20chung,%20c%C3%A2u%20l%E1%BA%A1c%20b%E1%BB%99%20ti%C3%AAu%20d%C3%B9ng.md)
+- [Nhóm môi giới, đại lý](./Nh%C3%B3m%20m%C3%B4i%20gi%E1%BB%9Bi,%20%C4%91%E1%BA%A1i%20l%C3%BD.md)
+
+
+Tất cả những cái này là một phần của dự án [Nhóm giúp nhau kiếm tiền](../../../../../../%F0%9F%93%90D%E1%BB%B1%20%C3%A1n/Gi%C3%BAp%20nhau%20ki%E1%BA%BFm%20ti%E1%BB%81n/index.md).
+
 ## Nơi thảo luận
 Vào [Discord Quả Cầu](https://discord.com/channels/898550123007709204/1249553476745298010), kênh "Tạo dòng tiền, đầu tư, tạo thu nhập thụ động, kinh doanh" để thảo luận:
 [![](https://i.vgy.me/BjXA75.png)](https://discord.com/channels/898550123007709204/1249553476745298010)
-
-> [!important] Nhìn toàn cảnh
-> Công việc này là một phần của dự án [Nhóm giúp nhau kiếm tiền](../../../../../../%F0%9F%93%90D%E1%BB%B1%20%C3%A1n/Gi%C3%BAp%20nhau%20ki%E1%BA%BFm%20ti%E1%BB%81n/index.md). Đọc bài đó để hiểu thêm về mục tiêu dài hạn của dự án cũng như các lợi ích khác của bạn.
