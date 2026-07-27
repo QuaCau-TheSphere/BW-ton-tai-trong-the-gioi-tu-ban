@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-10-26T21:32
-updated: 2026-07-19T08:28
+updated: 2026-07-27T02:26
 aliases:
   - Khi nào thì việc đi bán bảo hiểm là lựa chọn của một người?
 ---
@@ -43,7 +43,7 @@ Người nghèo tưởng là phù hợp nhưng thực ra là không.
 Con nợ 
 
 Khó khăn:: Họ có nhiều mối quan hệ để có thể làm tốt không? Nếu đã có nhiều mối quan hệ thì tại sao lại không thể mượn được?
-[Mở rộng mối quan hệ](../../../../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/M%E1%BB%9F%20r%E1%BB%99ng%20m%E1%BB%91i%20quan%20h%E1%BB%87/index.md)
+[Mở rộng mối quan hệ](../../../../../M%E1%BA%A1ng%20k%E1%BA%BFt%20n%E1%BB%91i%20nhu%20c%E1%BA%A7u/M%E1%BB%9F%20r%E1%BB%99ng%20m%E1%BB%91i%20quan%20h%E1%BB%87/index.md)
 
 ### Người thuộc dạng làm được nhưng hay bị nản, cần người cùng đồng hành
 [Chủ quản bị rà soát rất gắt gao trong việc đào tạo và hỗ trợ người mới](../../../../../../%F0%9F%A7%91%E2%80%8D%F0%9F%8C%BENg%C3%A0nh%20ngh%E1%BB%81%20c%E1%BB%A5%20th%E1%BB%83/T%C3%A0i%20ch%C3%ADnh/B%E1%BA%A3o%20hi%E1%BB%83m/Ch%C3%ADnh%20s%C3%A1ch%20c%C3%B4ng%20ty/Nh%C3%A2n%20s%E1%BB%B1/Cathay/Minh%20b%E1%BA%A1ch%20v%C3%A0%20r%C3%A0ng%20bu%E1%BB%99c/Ch%E1%BB%A7%20qu%E1%BA%A3n%20b%E1%BB%8B%20r%C3%A0%20so%C3%A1t%20r%E1%BA%A5t%20g%E1%BA%AFt%20gao%20trong%20vi%E1%BB%87c%20%C4%91%C3%A0o%20t%E1%BA%A1o%20v%C3%A0%20h%E1%BB%97%20tr%E1%BB%A3%20ng%C6%B0%E1%BB%9Di%20m%E1%BB%9Bi.md)
