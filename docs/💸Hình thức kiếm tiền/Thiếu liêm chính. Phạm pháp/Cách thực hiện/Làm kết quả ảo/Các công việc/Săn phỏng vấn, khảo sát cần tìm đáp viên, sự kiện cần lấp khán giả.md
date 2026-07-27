@@ -1,7 +1,7 @@
 ---
 share: true
 description: "Số tiền kiếm được: "
-updated: 2026-07-19T08:23
+updated: 2026-07-27T15:41
 aliases:
   - Làm đáp viên cho phỏng vấn, khảo sát. Làm khán giả cho sự kiện
 created: 2025-04-27T19:16
@@ -26,7 +26,7 @@ Có những chỗ sẽ rất đông. Có chỗ lại nhanh
 Cũng nhiều
 Cùng lắm là bị đuổi việc
 
-[Làm sao để kiếm người nhận làm phỏng vấn?](../../../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/M%E1%BB%9F%20r%E1%BB%99ng%20m%E1%BB%91i%20quan%20h%E1%BB%87/Ki%E1%BA%BFm%20ng%C6%B0%E1%BB%9Di%20s%E1%BA%B5n%20s%C3%A0ng%20cho%20m%C3%ACnh%20h%E1%BB%8Fi.md)
+[Làm sao để kiếm người nhận làm phỏng vấn?](../../../../../%F0%9F%93%90D%E1%BB%B1%20%C3%A1n/M%E1%BA%A1ng%20k%E1%BA%BFt%20n%E1%BB%91i%20nhu%20c%E1%BA%A7u/M%E1%BB%9F%20r%E1%BB%99ng%20m%E1%BB%91i%20quan%20h%E1%BB%87/Ki%E1%BA%BFm%20ng%C6%B0%E1%BB%9Di%20s%E1%BA%B5n%20s%C3%A0ng%20cho%20m%C3%ACnh%20h%E1%BB%8Fi.md)
 ![Săn khảo sát, phỏng vấn.jpg](../../../../../assets/attachments/S%C4%83n%20kh%E1%BA%A3o%20s%C3%A1t,%20ph%E1%BB%8Fng%20v%E1%BA%A5n.jpg)
 
 Như trưa nay cho ý kiến đóng góp TVC quảng cáo về thương hiệu Panasonic 
