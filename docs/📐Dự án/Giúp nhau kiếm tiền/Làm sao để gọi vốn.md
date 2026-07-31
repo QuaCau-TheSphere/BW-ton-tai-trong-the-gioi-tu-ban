@@ -1,7 +1,7 @@
 ---
 share: true
 blog: working
-updated: 2026-07-29T21:39
+updated: 2026-07-31T18:54
 created: 2026-07-27T14:38
 title: Làm sao để gọi vốn cho ý tưởng kinh doanh của mình?
 ---

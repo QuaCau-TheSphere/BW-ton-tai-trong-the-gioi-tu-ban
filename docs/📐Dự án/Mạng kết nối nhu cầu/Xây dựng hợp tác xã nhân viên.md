@@ -1,6 +1,6 @@
 ---
 share: true
-updated: 2026-07-27T02:40
+updated: 2026-07-31T18:51
 aliases:
   - săn giá rẻ, khuyến mãi, giảm giá, voucher
   - Làm sao để tìm được thông tin giảm giá tốt nhất?
@@ -10,7 +10,10 @@ created: 2025-11-24T10:16
 ## Khác gì với mấy trang săn giá rẻ? 
 [Trang chủ - Vé máy bay trực tuyến giá rẻ](https://sanvere.com/)
 [TheBank - Chuyên gia tài chính của bạn](https://thebank.vn)
-Những thông tin không dễ để biết. Không phải vì nó nội bộ. Không được chỉ mục trên Google. Giảm giá phim từ ngân hàng, ví điện tử
+Những thông tin không dễ để biết. Không phải vì nó là thông tin nội bộ, mà vì khó mà biết đến nó một cách dễ dàng được. Có thể là vì có đăng trên website nhưng không lên được đầu Google. Có thể là chỉ đăng trong app riêng. 
+Nếu vậy thì có thể viết chương trình để cào thông tin từ các web. Nếu là trong app thì có thể dùng tasker để lấy qua thông báo điện thoại.
+
+Giảm giá phim từ ngân hàng, ví điện tử
 
 Điều gì khiến nhân viên ngân hàng không đăng lên các nhóm xem phim? Có được thông tin tức thời về các nhu cầu khác nhau. Phim thì chỉ là nhóm phim, muốn đồ ăn thì phải qua nhóm đồ ăn. Tức là vẫn phải chịu khó săn. Còn cái này là như một cổng thông tin, hỏi và được trả lời. 
 
