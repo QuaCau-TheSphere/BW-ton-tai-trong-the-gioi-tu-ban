@@ -1,7 +1,8 @@
 ---
 share: true
+blog: working
 created: 20o25-03-27T17:13
-updated: 2026-07-27T02:20
+updated: 2026-07-29T21:40
 ---
 [Muốn bán hàng tốt cần có mối quan hệ](../../../%F0%9F%92%B8H%C3%ACnh%20th%E1%BB%A9c%20ki%E1%BA%BFm%20ti%E1%BB%81n/L%C3%A0m%20c%C3%B4ng%20%C4%83n%20l%C6%B0%C6%A1ng/B%C3%A1n%20h%C3%A0ng/Mu%E1%BB%91n%20b%C3%A1n%20h%C3%A0ng%20t%E1%BB%91t%20c%E1%BA%A7n%20c%C3%B3%20m%E1%BB%91i%20quan%20h%E1%BB%87.md). Đây là các giai đoạn của việc thiết lập mối quan hệ:
 ```mermaid
