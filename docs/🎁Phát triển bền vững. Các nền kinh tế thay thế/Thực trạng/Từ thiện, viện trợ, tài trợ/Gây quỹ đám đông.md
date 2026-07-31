@@ -1,6 +1,6 @@
 ---
 share: true
-updated: 2026-07-27T14:39
+updated: 2026-07-31T18:43
 aliases:
   - gọi vốn tập thể
   - crowdfunding
