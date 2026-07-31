@@ -1,63 +1,23 @@
 ---
 share: true
-updated: 2026-07-31T18:55
+updated: 2026-07-31T21:22
 created: 2026-07-26T21:45
 ---
-[Gây quỹ đám đông](../../../../../../%F0%9F%8E%81Ph%C3%A1t%20tri%E1%BB%83n%20b%E1%BB%81n%20v%E1%BB%AFng.%20C%C3%A1c%20n%E1%BB%81n%20kinh%20t%E1%BA%BF%20thay%20th%E1%BA%BF/Th%E1%BB%B1c%20tr%E1%BA%A1ng/T%E1%BB%AB%20thi%E1%BB%87n,%20vi%E1%BB%87n%20tr%E1%BB%A3,%20t%C3%A0i%20tr%E1%BB%A3/G%C3%A2y%20qu%E1%BB%B9%20%C4%91%C3%A1m%20%C4%91%C3%B4ng.md)
+Bài chi tiết:: [Gây quỹ đám đông](../../../../../../%F0%9F%8E%81Ph%C3%A1t%20tri%E1%BB%83n%20b%E1%BB%81n%20v%E1%BB%AFng.%20C%C3%A1c%20n%E1%BB%81n%20kinh%20t%E1%BA%BF%20thay%20th%E1%BA%BF/Th%E1%BB%B1c%20tr%E1%BA%A1ng/T%E1%BB%AB%20thi%E1%BB%87n,%20vi%E1%BB%87n%20tr%E1%BB%A3,%20t%C3%A0i%20tr%E1%BB%A3/G%C3%A2y%20qu%E1%BB%B9%20%C4%91%C3%A1m%20%C4%91%C3%B4ng.md)
 Làm sao để nơi gây quỹ không có chuyện rửa tiền, lừa đảo
 Là quản lý quỹ đầu tư mang tính chất mạo hiểm, được huy động thông qua gọi vốn cộng đồng. Hình thức mở rộng nguồn vốn từ chính sách nhà nước, TP, tỉnh.
 
 Tài năng ở bất kỳ nơi đâu
-[Làm sao để gọi vốn cho ý tưởng kinh doanh của mình?](../../../../../../%F0%9F%93%90D%E1%BB%B1%20%C3%A1n/Gi%C3%BAp%20nhau%20ki%E1%BA%BFm%20ti%E1%BB%81n/L%C3%A0m%20sao%20%C4%91%E1%BB%83%20g%E1%BB%8Di%20v%E1%BB%91n.md)
-
-## Các bên liên quan
-- Nhóm khởi tạo dự án
-- Nhóm đầu tư
-- Nhóm hoạch định, kết nối chính sách
-- Nhóm tổ chức gây quỹ và quản lý vốn
-- Nhóm sử dụng, tiêu dùng, tiêu thụ và có lợi ích từ dự án
-
-## Vai trò, công việc
-### Nhóm khởi tạo dự án
-- Lên ý tưởng
-- Xác định nhu cầu thị trường
-- 5W+H
-- Solo hay nhóm
-- Năng lực chuyên môn
-- Mối quan hệ của họ với các nhóm khác
-
-Lòng tham/sự quyết tâm được thúc đẩy bởi các bên liên quan khác 
-
-### Nhóm đầu tư
-- Nghiên cứu dự án
-- Nguồn vốn
-- Lợi ích từ dự án
-- Đánh giá nhu cầu thị trường, ưu đãi từ chính sách
-
-### Nhóm hoạch định, kết nối chính sách
-- Cố vấn chính sách cho nhóm khởi tạo dự án
-- Khai thác, tiếp cận, đề xuất chính sách khu vực, tỉnh, TP
-- Diễn giả tọa đàm
-
-### Nhóm tổ chức gây quỹ và quản lý vốn
-- Xây dựng nền tảng, phương pháp gọi vốn
-- Xây dựng đội ngũ pháp lý 
-- Quản lý vốn
-- Thu hút và kết nối các bên liên quan 
-
-### Nhóm sử dụng, tiêu dùng, tiêu thụ và có lợi ích từ dự án
-Người tìm kiếm giải pháp để giải quyết nhu cầu:
-- Người tiêu dùng
-- Doanh nghiệp, B2B
-Người góp nguồn lực vào dự án
+Xem thêm:: [Làm sao để gọi vốn cho ý tưởng kinh doanh của mình?](../../../../../../%F0%9F%93%90D%E1%BB%B1%20%C3%A1n/Gi%C3%BAp%20nhau%20ki%E1%BA%BFm%20ti%E1%BB%81n/L%C3%A0m%20sao%20%C4%91%E1%BB%83%20g%E1%BB%8Di%20v%E1%BB%91n.md)
 
 ## Thị trường & đối thủ cạnh tranh
-
+Sàn gây quỹ đám đông:
 - Comicola thiên về nghệ thuật
 - GoFundMe 
 - Kickstarter thiên về game, đồ dùng
+
 Vườn ươm:
-- [Trang chủ - SIHUB](https://sihub.gov.vn/)
+- [SIHUB](https://sihub.gov.vn/)
 - Trường đại học  
 
 ## Đối tượng phục vụ 

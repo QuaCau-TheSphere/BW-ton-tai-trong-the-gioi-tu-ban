@@ -1,9 +1,11 @@
 ---
 share: true
 blog: working
-updated: 2026-07-31T18:54
+updated: 2026-07-31T21:28
 created: 2026-07-27T14:38
-title: Làm sao để gọi vốn cho ý tưởng kinh doanh của mình?
+title: Làm sao để kêu gọi mọi người đầu tư vào mình?
+aliases:
+  - Làm sao để gọi vốn cho ý tưởng kinh doanh của mình?
 ---
 Cách gọi vốn tốt nhất là từ chính khách hàng của mình. Để làm được như vậy thì tốt nhất chắc là tổ chức các buổi gặp mặt khách hàng tiềm năng của mình, trình bày ý tưởng, rồi mọi người đăng ký hỗ trợ. Có thể là dưới hình thức cho vay (trái phiếu), nhận tiền lời (cổ phiếu), hoặc được quyền tham gia điều hành (cổ đông). Hoặc cũng có thể là chưa thấy tiềm năng của dự án, nhưng thấy tiềm năng của các buổi gặp mặt này, nên tham gia xây dựng để có các buổi gặp mặt như thế này.
 
