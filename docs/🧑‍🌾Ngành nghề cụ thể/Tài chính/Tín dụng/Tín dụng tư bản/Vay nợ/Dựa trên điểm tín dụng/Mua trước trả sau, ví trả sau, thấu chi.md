@@ -1,9 +1,9 @@
 ---
 share: true
-updated: 2026-07-27T02:22
+updated: 2026-07-30T16:34
 created: 2025-05-11T01:48
 ---
-Khái niệm:: [Mua trước trả sau](../../../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/T%C3%ADn%20d%E1%BB%A5ng/Mua%20tr%C6%B0%E1%BB%9Bc%20tr%E1%BA%A3%20sau.md)
+Khái niệm:: [Mua trước trả sau. Ví trả sau](../../../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/T%C3%ADn%20d%E1%BB%A5ng/Vay,%20n%E1%BB%A3/Mua%20tr%C6%B0%E1%BB%9Bc%20tr%E1%BA%A3%20sau.%20V%C3%AD%20tr%E1%BA%A3%20sau.md)
 [Thấu chi tính lãi ngày và chỉ được miễn lãi 1 ngày. Nợ thẻ tín dụng được miễn lãi 45 ngày](./Th%E1%BA%A5u%20chi%20t%C3%ADnh%20l%C3%A3i%20ng%C3%A0y%20v%C3%A0%20ch%E1%BB%89%20%C4%91%C6%B0%E1%BB%A3c%20mi%E1%BB%85n%20l%C3%A3i%201%20ng%C3%A0y.%20N%E1%BB%A3%20th%E1%BA%BB%20t%C3%ADn%20d%E1%BB%A5ng%20%C4%91%C6%B0%E1%BB%A3c%20mi%E1%BB%85n%20l%C3%A3i%2045%20ng%C3%A0y.md)
 [❓Sự khác biệt giữa mua trái phiếu và sổ tiết kiệm, giữa phát hành trái phiếu và vay nợ](./%E2%9D%93S%E1%BB%B1%20kh%C3%A1c%20bi%E1%BB%87t%20gi%E1%BB%AFa%20mua%20tr%C3%A1i%20phi%E1%BA%BFu%20v%C3%A0%20s%E1%BB%95%20ti%E1%BA%BFt%20ki%E1%BB%87m,%20gi%E1%BB%AFa%20ph%C3%A1t%20h%C3%A0nh%20tr%C3%A1i%20phi%E1%BA%BFu%20v%C3%A0%20vay%20n%E1%BB%A3.md)
 

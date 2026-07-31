@@ -1,10 +1,25 @@
 ---
 share: true
-updated: 2026-07-27T02:26
+updated: 2026-07-29T21:31
 created: 2026-04-02T23:20
+aliases:
+  - SĐT
+  - SIM
+  - Thuê bao
+  - Nhà mạng
 ---
-- Tín dụng tư bản: 
+- 💸Hình thức kiếm tiền: 
+    - [Sim bank](../../%F0%9F%92%B8H%C3%ACnh%20th%E1%BB%A9c%20ki%E1%BA%BFm%20ti%E1%BB%81n/Thi%E1%BA%BFu%20li%C3%AAm%20ch%C3%ADnh.%20Ph%E1%BA%A1m%20ph%C3%A1p/C%C3%B4ng%20c%E1%BB%A5%20th%E1%BB%B1c%20hi%E1%BB%87n,%20k%C3%AAnh%20t%E1%BA%A5n%20c%C3%B4ng/Tr%C3%AAn%20m%E1%BA%A1ng/Tr%E1%BA%A1i%20%C4%91i%E1%BB%87n%20tho%E1%BA%A1i/Sim%20bank.md)
+
+- 🧑‍🌾Ngành nghề cụ thể: 
+    - [Người thụ hưởng sẽ biết là mình được nhận tiền vì phải dùng SIM chính chủ](../../%F0%9F%A7%91%E2%80%8D%F0%9F%8C%BENg%C3%A0nh%20ngh%E1%BB%81%20c%E1%BB%A5%20th%E1%BB%83/T%C3%A0i%20ch%C3%ADnh/B%E1%BA%A3o%20hi%E1%BB%83m/Lu%E1%BA%ADt/Ng%C6%B0%E1%BB%9Di%20th%E1%BB%A5%20h%C6%B0%E1%BB%9Fng%20s%E1%BA%BD%20bi%E1%BA%BFt%20l%C3%A0%20m%C3%ACnh%20%C4%91%C6%B0%E1%BB%A3c%20nh%E1%BA%ADn%20ti%E1%BB%81n%20v%C3%AC%20ph%E1%BA%A3i%20d%C3%B9ng%20SIM%20ch%C3%ADnh%20ch%E1%BB%A7.md)
+    - [Ngân hàng kiểm tra SĐT có phải là chính chủ hay không, nhưng không kiểm tra email có chính chủ hay không](../../%F0%9F%A7%91%E2%80%8D%F0%9F%8C%BENg%C3%A0nh%20ngh%E1%BB%81%20c%E1%BB%A5%20th%E1%BB%83/T%C3%A0i%20ch%C3%ADnh/T%C3%ADn%20d%E1%BB%A5ng/T%C3%ADn%20d%E1%BB%A5ng%20t%C6%B0%20b%E1%BA%A3n/T%E1%BB%95%20ch%E1%BB%A9c%20c%E1%BB%A5%20th%E1%BB%83/Ng%C3%A2n%20h%C3%A0ng/Quy%20tr%C3%ACnh,%20nghi%E1%BB%87p%20v%E1%BB%A5/Ng%C3%A2n%20h%C3%A0ng%20ki%E1%BB%83m%20tra%20S%C4%90T%20c%C3%B3%20ph%E1%BA%A3i%20l%C3%A0%20ch%C3%ADnh%20ch%E1%BB%A7%20hay%20kh%C3%B4ng,%20nh%C6%B0ng%20kh%C3%B4ng%20ki%E1%BB%83m%20tra%20email%20c%C3%B3%20ch%C3%ADnh%20ch%E1%BB%A7%20hay%20kh%C3%B4ng.md)
     - [Momo không cho đổi SĐT](../../%F0%9F%A7%91%E2%80%8D%F0%9F%8C%BENg%C3%A0nh%20ngh%E1%BB%81%20c%E1%BB%A5%20th%E1%BB%83/T%C3%A0i%20ch%C3%ADnh/T%C3%ADn%20d%E1%BB%A5ng/T%C3%ADn%20d%E1%BB%A5ng%20t%C6%B0%20b%E1%BA%A3n/T%E1%BB%95%20ch%E1%BB%A9c%20c%E1%BB%A5%20th%E1%BB%83/V%C3%AD%20tr%E1%BA%A3%20sau/Momo%20kh%C3%B4ng%20cho%20%C4%91%E1%BB%95i%20S%C4%90T.md)
     - [SĐT cho Momo và Momo Ví trả sau có thể khác nhau](../../%F0%9F%A7%91%E2%80%8D%F0%9F%8C%BENg%C3%A0nh%20ngh%E1%BB%81%20c%E1%BB%A5%20th%E1%BB%83/T%C3%A0i%20ch%C3%ADnh/T%C3%ADn%20d%E1%BB%A5ng/T%C3%ADn%20d%E1%BB%A5ng%20t%C6%B0%20b%E1%BA%A3n/T%E1%BB%95%20ch%E1%BB%A9c%20c%E1%BB%A5%20th%E1%BB%83/V%C3%AD%20tr%E1%BA%A3%20sau/S%C4%90T%20cho%20Momo%20v%C3%A0%20Momo%20V%C3%AD%20tr%E1%BA%A3%20sau%20c%C3%B3%20th%E1%BB%83%20kh%C3%A1c%20nhau.md)
-
+    - [Chỉ có thể lắp một sim vào một điện thoại, nhưng có thể điều khiển điện thoại từ xa](../../%F0%9F%A7%91%E2%80%8D%F0%9F%8C%BENg%C3%A0nh%20ngh%E1%BB%81%20c%E1%BB%A5%20th%E1%BB%83/Vi%E1%BB%85n%20th%C3%B4ng/SIM/Ch%E1%BB%89%20c%C3%B3%20th%E1%BB%83%20l%E1%BA%AFp%20m%E1%BB%99t%20sim%20v%C3%A0o%20m%E1%BB%99t%20%C4%91i%E1%BB%87n%20tho%E1%BA%A1i,%20nh%C6%B0ng%20c%C3%B3%20th%E1%BB%83%20%C4%91i%E1%BB%81u%20khi%E1%BB%83n%20%C4%91i%E1%BB%87n%20tho%E1%BA%A1i%20t%E1%BB%AB%20xa.md)
+    - [SIM sau 2 tháng không sử dụng sẽ bị thu hồi](../../%F0%9F%A7%91%E2%80%8D%F0%9F%8C%BENg%C3%A0nh%20ngh%E1%BB%81%20c%E1%BB%A5%20th%E1%BB%83/Vi%E1%BB%85n%20th%C3%B4ng/SIM/SIM%20sau%202%20th%C3%A1ng%20kh%C3%B4ng%20s%E1%BB%AD%20d%E1%BB%A5ng%20s%E1%BA%BD%20b%E1%BB%8B%20thu%20h%E1%BB%93i.md)
+    - [Số điện thoại đã bỏ thì thông tin các dịch vụ do chủ cũ đăng ký vẫn sẽ được gửi về cho chủ mới, hoặc bị người lưu số chủ cũ gọi nhầm số](../../%F0%9F%A7%91%E2%80%8D%F0%9F%8C%BENg%C3%A0nh%20ngh%E1%BB%81%20c%E1%BB%A5%20th%E1%BB%83/Vi%E1%BB%85n%20th%C3%B4ng/SIM/S%E1%BB%91%20%C4%91i%E1%BB%87n%20tho%E1%BA%A1i%20%C4%91%C3%A3%20b%E1%BB%8F%20th%C3%AC%20th%C3%B4ng%20tin%20c%C3%A1c%20d%E1%BB%8Bch%20v%E1%BB%A5%20do%20ch%E1%BB%A7%20c%C5%A9%20%C4%91%C4%83ng%20k%C3%BD%20v%E1%BA%ABn%20s%E1%BA%BD%20%C4%91%C6%B0%E1%BB%A3c%20g%E1%BB%ADi%20v%E1%BB%81%20cho%20ch%E1%BB%A7%20m%E1%BB%9Bi,%20ho%E1%BA%B7c%20b%E1%BB%8B%20ng%C6%B0%E1%BB%9Di%20l%C6%B0u%20s%E1%BB%91%20ch%E1%BB%A7%20c%C5%A9%20g%E1%BB%8Di%20nh%E1%BA%A7m%20s%E1%BB%91.md)
+    - [Thuê bao bị khóa 2 chiều được giữ số trong 30 ngày](../../%F0%9F%A7%91%E2%80%8D%F0%9F%8C%BENg%C3%A0nh%20ngh%E1%BB%81%20c%E1%BB%A5%20th%E1%BB%83/Vi%E1%BB%85n%20th%C3%B4ng/SIM/Thu%C3%AA%20bao%20b%E1%BB%8B%20kh%C3%B3a%202%20chi%E1%BB%81u%20%C4%91%C6%B0%E1%BB%A3c%20gi%E1%BB%AF%20s%E1%BB%91%20trong%2030%20ng%C3%A0y.md)
+    - [Thuê bao trả sau là do tỉnh quản lý. Nên nhà mạng có thể thay đổi thông tin](../../%F0%9F%A7%91%E2%80%8D%F0%9F%8C%BENg%C3%A0nh%20ngh%E1%BB%81%20c%E1%BB%A5%20th%E1%BB%83/Vi%E1%BB%85n%20th%C3%B4ng/SIM/Thu%C3%AA%20bao%20tr%E1%BA%A3%20sau%20l%C3%A0%20do%20t%E1%BB%89nh%20qu%E1%BA%A3n%20l%C3%BD.%20N%C3%AAn%20nh%C3%A0%20m%E1%BA%A1ng%20c%C3%B3%20th%E1%BB%83%20thay%20%C4%91%E1%BB%95i%20th%C3%B4ng%20tin.md)
+    - [Thuê bao trả trước phải quản lý bằng căn cước, nên thông tin phải giống như trên đó. Kể cả khi thông tin đó không còn đúng nữa thì nhà mạng cũng không thể sửa đổi](../../%F0%9F%A7%91%E2%80%8D%F0%9F%8C%BENg%C3%A0nh%20ngh%E1%BB%81%20c%E1%BB%A5%20th%E1%BB%83/Vi%E1%BB%85n%20th%C3%B4ng/SIM/Thu%C3%AA%20bao%20tr%E1%BA%A3%20tr%C6%B0%E1%BB%9Bc%20ph%E1%BA%A3i%20qu%E1%BA%A3n%20l%C3%BD%20b%E1%BA%B1ng%20c%C4%83n%20c%C6%B0%E1%BB%9Bc,%20n%C3%AAn%20th%C3%B4ng%20tin%20ph%E1%BA%A3i%20gi%E1%BB%91ng%20nh%C6%B0%20tr%C3%AAn%20%C4%91%C3%B3.%20K%E1%BB%83%20c%E1%BA%A3%20khi%20th%C3%B4ng%20tin%20%C4%91%C3%B3%20kh%C3%B4ng%20c%C3%B2n%20%C4%91%C3%BAng%20n%E1%BB%AFa%20th%C3%AC%20nh%C3%A0%20m%E1%BA%A1ng%20c%C5%A9ng%20kh%C3%B4ng%20th%E1%BB%83%20s%E1%BB%ADa%20%C4%91%E1%BB%95i.md)
 

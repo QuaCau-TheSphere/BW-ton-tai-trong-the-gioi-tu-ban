@@ -1,10 +1,49 @@
 ---
 share: true
-updated: 2026-07-27T15:53
+updated: 2026-07-31T17:36
 created: 2026-07-26T21:45
 ---
 [Gây quỹ đám đông](../../../../../../%F0%9F%8E%81Ph%C3%A1t%20tri%E1%BB%83n%20b%E1%BB%81n%20v%E1%BB%AFng.%20C%C3%A1c%20n%E1%BB%81n%20kinh%20t%E1%BA%BF%20thay%20th%E1%BA%BF/Th%E1%BB%B1c%20tr%E1%BA%A1ng/T%E1%BB%AB%20thi%E1%BB%87n,%20vi%E1%BB%87n%20tr%E1%BB%A3,%20t%C3%A0i%20tr%E1%BB%A3/G%C3%A2y%20qu%E1%BB%B9%20%C4%91%C3%A1m%20%C4%91%C3%B4ng.md)
 Làm sao để nơi gây quỹ không có chuyện rửa tiền, lừa đảo
+Là quản lý quỹ đầu tư mang tính chất mạo hiểm, được huy động thông qua gọi vốn cộng đồng. Hình thức mở rộng nguồn vốn từ chính sách nhà nước, TP, tỉnh.
+
+## Các bên liên quan
+- Nhóm khởi tạo dự án
+- Nhóm đầu tư
+- Nhóm hoạch định, kết nối chính sách
+- Nhóm tổ chức gây quỹ và quản lý vốn
+- Nhóm sử dụng, tiêu dùng, tiêu thụ và có lợi ích từ dự án
+
+## Vai trò, công việc
+### Nhóm khởi tạo dự án
+- Lên ý tưởng
+- Xác định nhu cầu thị trường
+- 5W+H
+- Solo hay nhóm
+- Năng lực chuyên môn
+- Mối quan hệ của họ với các nhóm khác
+
+Lòng tham/sự quyết tâm được thúc đẩy bởi các bên liên quan khác 
+
+### Nhóm đầu tư
+- Nghiên cứu dự án
+- Nguồn vốn
+- Lợi ích từ dự án
+- Đánh giá nhu cầu thị trường, ưu đãi từ chính sách
+
+### Nhóm hoạch định, kết nối chính sách
+- Cố vấn chính sách cho nhóm khởi tạo dự án
+- Khai thác, tiếp cận, đề xuất chính sách khu vực, tỉnh, TP
+- Diễn giả tọa đàm
+
+### Nhóm tổ chức gây quỹ và quản lý vốn
+- Xây dựng nền tảng, phương pháp gọi vốn
+- Xây dựng đội ngũ pháp lý 
+- Quản lý vốn
+- Thu hút và kết nối các bên liên quan 
+
+### Nhóm sử dụng, tiêu dùng, tiêu thụ và có lợi ích từ dự án
+
 
 ## Thị trường & đối thủ cạnh tranh
 Comicola thiên về nghệ thuật
@@ -28,9 +67,9 @@ Tài nguyên, vật dụng cần có sẵn::
 Đặc điểm khác:: [Không cần độ tập trung cao](../../../../%C4%90%E1%BA%B7c%20%C4%91i%E1%BB%83m%20c%C3%B4ng%20vi%E1%BB%87c/%C4%90%E1%BA%B7c%20%C4%91i%E1%BB%83m%20kh%C3%A1c/Kh%C3%B4ng%20c%E1%BA%A7n%20%C4%91%E1%BB%99%20t%E1%BA%ADp%20trung%20cao.md)
 
 Các hình thức huy động vốn tương tự, có thể kết hợp làm chung:
-- [Cho vay lấy lãi](./Cho%20vay%20l%E1%BA%A5y%20l%C3%A3i.md)
 - [Quỹ tín dụng](./Qu%E1%BB%B9%20t%C3%ADn%20d%E1%BB%A5ng.md)
 - [Sàn cho vay ngang hàng](./S%C3%A0n%20cho%20vay%20ngang%20h%C3%A0ng.md)
+- [Cho vay lấy lãi](./Cho%20vay%20l%E1%BA%A5y%20l%C3%A3i.md)
 
 
 Tất cả những cái này là một phần của dự án [Giúp nhau kiếm tiền](../../../../../../%F0%9F%93%90D%E1%BB%B1%20%C3%A1n/Gi%C3%BAp%20nhau%20ki%E1%BA%BFm%20ti%E1%BB%81n/index.md).
