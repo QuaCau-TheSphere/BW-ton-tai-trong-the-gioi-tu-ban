@@ -1,7 +1,7 @@
 ---
 share: true
 description: Chuyện gì sẽ xảy ra khi bị liệt là nợ xấu?
-updated: 2026-07-27T02:26
+updated: 2026-07-30T16:34
 aliases:
   - Chuyện gì sẽ xảy ra khi bị liệt là nợ xấu?
   - Lý do không muốn bị mất điểm tín dụng
@@ -9,7 +9,7 @@ aliases:
   - bùng, quịt, mất khả năng trả nợ, vỡ nợ
 created: 2026-07-25T15:28
 ---
-[Điểm tín dụng là cách để các ngân hàng đánh giá khả năng trả nợ của mình](../../../%F0%9F%A7%91%E2%80%8D%F0%9F%8C%BENg%C3%A0nh%20ngh%E1%BB%81%20c%E1%BB%A5%20th%E1%BB%83/T%C3%A0i%20ch%C3%ADnh/T%C3%ADn%20d%E1%BB%A5ng/T%C3%ADn%20d%E1%BB%A5ng%20t%C6%B0%20b%E1%BA%A3n/Th%C3%B4ng%20tin%20t%C3%ADn%20d%E1%BB%A5ng/%C4%90i%E1%BB%83m%20t%C3%ADn%20d%E1%BB%A5ng%20l%C3%A0%20c%C3%A1ch%20%C4%91%E1%BB%83%20c%C3%A1c%20ng%C3%A2n%20h%C3%A0ng%20%C4%91%C3%A1nh%20gi%C3%A1%20kh%E1%BA%A3%20n%C4%83ng%20tr%E1%BA%A3%20n%E1%BB%A3%20c%E1%BB%A7a%20m%C3%ACnh.md). Các công ty có dịch vụ [ví trả sau](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/T%C3%ADn%20d%E1%BB%A5ng/V%C3%AD%20tr%E1%BA%A3%20sau.md) hoặc cho vay tiêu dùng cũng dùng điểm tín dụng để đánh giá khả năng vay của khách hàng. Và bản chất là tiền vay từ các công ty này cũng do ngân hàng cấp. Nên các loại nợ này cũng có thể được hiểu là nợ ngân hàng. Khi không trả thì hệ quả cũng không khác gì nhau: bị mất điểm tín dụng (bị liệt là nợ xấu), và bị nhân viên đến đòi nợ.
+[Điểm tín dụng là cách để các ngân hàng đánh giá khả năng trả nợ của mình](../../../%F0%9F%A7%91%E2%80%8D%F0%9F%8C%BENg%C3%A0nh%20ngh%E1%BB%81%20c%E1%BB%A5%20th%E1%BB%83/T%C3%A0i%20ch%C3%ADnh/T%C3%ADn%20d%E1%BB%A5ng/T%C3%ADn%20d%E1%BB%A5ng%20t%C6%B0%20b%E1%BA%A3n/Th%C3%B4ng%20tin%20t%C3%ADn%20d%E1%BB%A5ng/%C4%90i%E1%BB%83m%20t%C3%ADn%20d%E1%BB%A5ng%20l%C3%A0%20c%C3%A1ch%20%C4%91%E1%BB%83%20c%C3%A1c%20ng%C3%A2n%20h%C3%A0ng%20%C4%91%C3%A1nh%20gi%C3%A1%20kh%E1%BA%A3%20n%C4%83ng%20tr%E1%BA%A3%20n%E1%BB%A3%20c%E1%BB%A7a%20m%C3%ACnh.md). Các công ty có dịch vụ [Mua trước trả sau. Ví trả sau](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/T%C3%ADn%20d%E1%BB%A5ng/Vay,%20n%E1%BB%A3/Mua%20tr%C6%B0%E1%BB%9Bc%20tr%E1%BA%A3%20sau.%20V%C3%AD%20tr%E1%BA%A3%20sau.md) hoặc cho vay tiêu dùng cũng dùng điểm tín dụng để đánh giá khả năng vay của khách hàng. Và bản chất là tiền vay từ các công ty này cũng do ngân hàng cấp. Nên các loại nợ này cũng có thể được hiểu là nợ ngân hàng. Khi không trả thì hệ quả cũng không khác gì nhau: bị mất điểm tín dụng (bị liệt là nợ xấu), và bị nhân viên đến đòi nợ.
 
 ## Các lý do không muốn mất điểm tín dụng, và các phản hồi về các lý do đó
 Tại sao [Bằng mọi giá phải giữ điểm tín dụng cho sạch](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Ni%E1%BB%81m%20tin,%20di%E1%BB%85n%20ng%C3%B4n/Ti%E1%BB%81n/Vay,%20n%E1%BB%A3/B%E1%BA%B1ng%20m%E1%BB%8Di%20gi%C3%A1%20ph%E1%BA%A3i%20gi%E1%BB%AF%20%C4%91i%E1%BB%83m%20t%C3%ADn%20d%E1%BB%A5ng%20cho%20s%E1%BA%A1ch.md)? Nhất là khi việc giữ nó làm mình rất căng thẳng, còn việc mất nó thì mình vẫn đi làm được bình thường, không bị mất tài sản gì khác?
