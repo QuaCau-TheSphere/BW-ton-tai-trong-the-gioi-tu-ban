@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2026-08-02T03:43
+updated: 2026-08-02T17:23
 blog: working
 aliases:
   - Sự khác biệt giữa từ thiện, kinh tế quà tặng, trả cho người sau, làm việc vừa sức, dựa vào cộng đồng, gọi vốn cộng đồng, ưu tiên việc khẩn cấp, giúp người không tự giúp mình được, thu nhập cơ bản vô điều kiện
@@ -9,7 +9,7 @@ aliases:
 cssClasses:
   - wide-table
 ---
-Khái niệm:: [Quà tặng](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Ki%E1%BA%BFm%20ti%E1%BB%81n/Qu%C3%A0%20t%E1%BA%B7ng.md), [Từ thiện](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Giai%20c%E1%BA%A5p.%20Ph%C3%A1t%20tri%E1%BB%83n%20b%E1%BB%81n%20v%E1%BB%AFng/T%E1%BB%AB%20thi%E1%BB%87n.md)
+Khái niệm:: [Quà tặng](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Ki%E1%BA%BFm%20ti%E1%BB%81n/Qu%C3%A0%20t%E1%BA%B7ng.md), [Từ thiện](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Giai%20c%E1%BA%A5p.%20Ph%C3%A1t%20tri%E1%BB%83n%20b%E1%BB%81n%20v%E1%BB%AFng/T%E1%BB%AB%20thi%E1%BB%87n.md), 
 Nếu xét theo hướng công bằng xã hội, đạo đức cá nhân, thì dù có thiếu bền vững đến mấy cũng phải làm. Và đó không phải là cảm tính
 
 [Từ thiện có thể gây ra việc lệ thuộc ở người nhận, và ganh tị ở người không được nhận, từ đó phá vỡ cộng đồng](./T%E1%BB%AB%20thi%E1%BB%87n%20c%C3%B3%20th%E1%BB%83%20g%C3%A2y%20ra%20vi%E1%BB%87c%20l%E1%BB%87%20thu%E1%BB%99c%20%E1%BB%9F%20ng%C6%B0%E1%BB%9Di%20nh%E1%BA%ADn,%20v%C3%A0%20ganh%20t%E1%BB%8B%20%E1%BB%9F%20ng%C6%B0%E1%BB%9Di%20kh%C3%B4ng%20%C4%91%C6%B0%E1%BB%A3c%20nh%E1%BA%ADn,%20t%E1%BB%AB%20%C4%91%C3%B3%20ph%C3%A1%20v%E1%BB%A1%20c%E1%BB%99ng%20%C4%91%E1%BB%93ng.md)
