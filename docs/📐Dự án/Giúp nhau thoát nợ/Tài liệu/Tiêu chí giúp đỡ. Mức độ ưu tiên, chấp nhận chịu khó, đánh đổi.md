@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-10-08T12:01
-updated: 2026-07-31T22:08
+updated: 2026-08-02T02:37
 blog: working
 ---
 Chúng ta ai cũng muốn những người bạn của mình có được cuộc sống khỏe mạnh và hạnh phúc toàn diện. Nên khi bạn mình cần thì tất nhiên là chúng ta sẽ muốn giúp. Nhưng có những điều khiến ta đắn đo:
@@ -82,6 +82,10 @@ Cố gắng thoát nợ thì cũng không khác gì đánh cược thêm
 [Điều gì khiến một người không muốn từ bỏ thiết chế tư bản?](../Ng%C6%B0%E1%BB%9Di%20th%E1%BB%A5%20h%C6%B0%E1%BB%9Fng/%C4%90i%E1%BB%81u%20g%C3%AC%20khi%E1%BA%BFn%20m%E1%BB%99t%20ng%C6%B0%E1%BB%9Di%20kh%C3%B4ng%20mu%E1%BB%91n%20t%E1%BB%AB%20b%E1%BB%8F%20thi%E1%BA%BFt%20ch%E1%BA%BF%20t%C6%B0%20b%E1%BA%A3n.md)
 
 ## Mong muốn và chấp nhận
+Khi nghĩ tới những điều như vậy, thì là mình sẵn sàng đốt tiền cho họ, để có thể kiên nhẫn với họ thêm một lần nữa. , sự trắc ẩn, sự chấp nhận họ là người như vậy.
+
+Liệu đó có phải là bài học họ tự phải học lấy không? 
+
 Lý do cho việc muốn đóng góp lại:
 - Tránh sự lệ thuộc vào mình, không muốn từ thiện
 - Thay đổi cấu trúc đòi hỏi phải xây dựng cộng đồng 
@@ -98,4 +102,4 @@ Lý do cho việc chấp nhận không đóng góp lại:
 [📐Dự án](../../index.md)
 [Các lý do cho việc giúp đỡ hoặc không giúp đỡ](./Ni%E1%BB%81m%20tin/C%C3%A1c%20l%C3%BD%20do%20cho%20vi%E1%BB%87c%20gi%C3%BAp%20%C4%91%E1%BB%A1%20ho%E1%BA%B7c%20kh%C3%B4ng%20gi%C3%BAp%20%C4%91%E1%BB%A1.md)
 
-- [Làm sao để biết là việc giúp đang không bị lợi dụng](../../Gi%C3%BAp%20nhau%20ki%E1%BA%BFm%20ti%E1%BB%81n/T%C3%A0i%20li%E1%BB%87u/L%C3%A0m%20sao%20%C4%91%E1%BB%83%20bi%E1%BA%BFt%20l%C3%A0%20vi%E1%BB%87c%20gi%C3%BAp%20%C4%91ang%20kh%C3%B4ng%20b%E1%BB%8B%20l%E1%BB%A3i%20d%E1%BB%A5ng.md)
+- [Làm sao để biết là việc giúp đang không bị lợi dụng](../../Gi%C3%BAp%20nhau%20ki%E1%BA%BFm%20ti%E1%BB%81n/L%C3%A0m%20sao%20%C4%91%E1%BB%83%20bi%E1%BA%BFt%20l%C3%A0%20vi%E1%BB%87c%20gi%C3%BAp%20%C4%91ang%20kh%C3%B4ng%20b%E1%BB%8B%20l%E1%BB%A3i%20d%E1%BB%A5ng.md)
