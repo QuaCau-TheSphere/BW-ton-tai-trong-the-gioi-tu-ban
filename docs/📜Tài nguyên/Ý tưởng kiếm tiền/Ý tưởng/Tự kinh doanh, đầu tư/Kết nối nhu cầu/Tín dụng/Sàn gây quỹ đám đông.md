@@ -1,26 +1,22 @@
 ---
 share: true
-updated: 2026-07-31T23:30
+updated: 2026-08-03T14:29
 created: 2026-07-26T21:45
 ---
 Bài chi tiết:: [Gây quỹ đám đông](../../../../../../%F0%9F%93%90D%E1%BB%B1%20%C3%A1n/Gi%C3%BAp%20nhau%20ki%E1%BA%BFm%20ti%E1%BB%81n/Gi%C3%BAp%20nhau%20g%E1%BB%8Di%20v%E1%BB%91n/G%C3%A2y%20qu%E1%BB%B9%20%C4%91%C3%A1m%20%C4%91%C3%B4ng.md)
-Làm sao để nơi gây quỹ không có chuyện rửa tiền, lừa đảo
-Là quản lý quỹ đầu tư mang tính chất mạo hiểm, được huy động thông qua gọi vốn cộng đồng. Hình thức mở rộng nguồn vốn từ chính sách nhà nước, TP, tỉnh.
 
+## Mô tả
 Khởi đầu từ câu nói trong phim Ratatouille: "Không phải ai cũng có thể trở thành một nghệ sĩ tài ba, nhưng một nghệ sĩ tài ba có thể đến từ bất kỳ đâu".
 
-Xem thêm:: [Làm sao để gọi vốn cho ý tưởng kinh doanh của mình?](../../../../../../%F0%9F%93%90D%E1%BB%B1%20%C3%A1n/Gi%C3%BAp%20nhau%20ki%E1%BA%BFm%20ti%E1%BB%81n/Gi%C3%BAp%20nhau%20g%E1%BB%8Di%20v%E1%BB%91n/L%C3%A0m%20sao%20%C4%91%E1%BB%83%20g%E1%BB%8Di%20v%E1%BB%91n.md)
+Tránh việc bị dùng làm nơi rửa tiền, lừa đảo
+
+Là quản lý quỹ đầu tư mang tính chất mạo hiểm, được huy động thông qua gọi vốn cộng đồng. Hình thức mở rộng nguồn vốn từ chính sách nhà nước, TP, tỉnh.
+
+Xem thêm:
+- [Làm sao để gọi vốn cho ý tưởng kinh doanh của mình?](../../../../../../%F0%9F%93%90D%E1%BB%B1%20%C3%A1n/Gi%C3%BAp%20nhau%20ki%E1%BA%BFm%20ti%E1%BB%81n/Gi%C3%BAp%20nhau%20g%E1%BB%8Di%20v%E1%BB%91n/L%C3%A0m%20sao%20%C4%91%E1%BB%83%20g%E1%BB%8Di%20v%E1%BB%91n.md)
+- [GitHub - DungAnhVan/goivoncongdong · GitHub](https://github.com/DungAnhVan/goivoncongdong)
 
 ## Thị trường & đối thủ cạnh tranh
-Sàn gây quỹ đám đông:
-- Comicola thiên về nghệ thuật
-- GoFundMe 
-- Kickstarter thiên về game, đồ dùng
-
-Vườn ươm:
-- [SIHUB](https://sihub.gov.vn/)
-- Trường đại học  
-
 ## Đối tượng phục vụ 
 Những người [Tự kinh doanh, đầu tư](../../../../%C4%90%E1%BA%B7c%20%C4%91i%E1%BB%83m%20c%C3%B4ng%20vi%E1%BB%87c/H%C3%ACnh%20th%E1%BB%A9c%20c%C3%B4ng%20vi%E1%BB%87c/T%E1%BB%B1%20kinh%20doanh,%20%C4%91%E1%BA%A7u%20t%C6%B0.md)
 
@@ -40,9 +36,10 @@ Tài nguyên, vật dụng cần có sẵn::
 Đặc điểm khác:: [Không cần độ tập trung cao](../../../../%C4%90%E1%BA%B7c%20%C4%91i%E1%BB%83m%20c%C3%B4ng%20vi%E1%BB%87c/%C4%90%E1%BA%B7c%20%C4%91i%E1%BB%83m%20kh%C3%A1c/Kh%C3%B4ng%20c%E1%BA%A7n%20%C4%91%E1%BB%99%20t%E1%BA%ADp%20trung%20cao.md)
 
 Các hình thức huy động vốn tương tự, có thể kết hợp làm chung:
-- [Quỹ tín dụng](./Qu%E1%BB%B9%20t%C3%ADn%20d%E1%BB%A5ng.md)
-- [Sàn cho vay ngang hàng](./S%C3%A0n%20cho%20vay%20ngang%20h%C3%A0ng.md)
 - [Cho vay lấy lãi](./Cho%20vay%20l%E1%BA%A5y%20l%C3%A3i.md)
+- [Quỹ cho vay](./Qu%E1%BB%B9%20cho%20vay.md)
+- [Quỹ đầu tư](./Qu%E1%BB%B9%20%C4%91%E1%BA%A7u%20t%C6%B0.md)
+- [Sàn cho vay ngang hàng](./S%C3%A0n%20cho%20vay%20ngang%20h%C3%A0ng.md)
 
 
 Tất cả những cái này là một phần của dự án [Giúp nhau kiếm tiền](../../../../../../%F0%9F%93%90D%E1%BB%B1%20%C3%A1n/Gi%C3%BAp%20nhau%20ki%E1%BA%BFm%20ti%E1%BB%81n/index.md).
