@@ -1,11 +1,11 @@
 ---
 share: true
 created: 2025-10-08T12:01
-updated: 2026-08-02T02:37
+updated: 2026-08-05T15:37
 blog: working
 ---
 Chúng ta ai cũng muốn những người bạn của mình có được cuộc sống khỏe mạnh và hạnh phúc toàn diện. Nên khi bạn mình cần thì tất nhiên là chúng ta sẽ muốn giúp. Nhưng có những điều khiến ta đắn đo:
-- Liệu mình có khả năng đáp ứng không?
+- Liệu ta có khả năng đáp ứng không?
 - Liệu điều đó có phải là điều tốt nhất cho họ không?
 - Liệu điều đó có gây hại cho người khác không?
 
@@ -80,7 +80,7 @@ Cố gắng thoát nợ thì cũng không khác gì đánh cược thêm
 
 [Chủ nghĩa tư bản không chỉ phụ thuộc vào việc tạo ra tình trạng bất an trên diện rộng mà còn tái tạo tình trạng bất an này trong chính huyết mạch của nó](../../../%F0%9F%93%A6N%E1%BB%81n%20kinh%20t%E1%BA%BF%20h%C3%A0ng%20ho%C3%A1/Kinh%20t%E1%BA%BF%20ch%C3%ADnh%20tr%E1%BB%8B/Ch%E1%BB%A7%20ngh%C4%A9a%20t%C6%B0%20b%E1%BA%A3n,%20t%C3%A2n%20t%E1%BB%B1%20do/Ch%E1%BB%A7%20ngh%C4%A9a%20t%C6%B0%20b%E1%BA%A3n%20kh%C3%B4ng%20ch%E1%BB%89%20ph%E1%BB%A5%20thu%E1%BB%99c%20v%C3%A0o%20vi%E1%BB%87c%20t%E1%BA%A1o%20ra%20t%C3%ACnh%20tr%E1%BA%A1ng%20b%E1%BA%A5t%20an%20tr%C3%AAn%20di%E1%BB%87n%20r%E1%BB%99ng%20m%C3%A0%20c%C3%B2n%20t%C3%A1i%20t%E1%BA%A1o%20t%C3%ACnh%20tr%E1%BA%A1ng%20b%E1%BA%A5t%20an%20n%C3%A0y%20trong%20ch%C3%ADnh%20huy%E1%BA%BFt%20m%E1%BA%A1ch%20c%E1%BB%A7a%20n%C3%B3.md)
 [Điều gì khiến một người không muốn từ bỏ thiết chế tư bản?](../Ng%C6%B0%E1%BB%9Di%20th%E1%BB%A5%20h%C6%B0%E1%BB%9Fng/%C4%90i%E1%BB%81u%20g%C3%AC%20khi%E1%BA%BFn%20m%E1%BB%99t%20ng%C6%B0%E1%BB%9Di%20kh%C3%B4ng%20mu%E1%BB%91n%20t%E1%BB%AB%20b%E1%BB%8F%20thi%E1%BA%BFt%20ch%E1%BA%BF%20t%C6%B0%20b%E1%BA%A3n.md)
-
+[Làm sao để biết là việc giúp đang không bị lợi dụng](../../Gi%C3%BAp%20nhau%20ki%E1%BA%BFm%20ti%E1%BB%81n/L%C3%A0m%20sao%20%C4%91%E1%BB%83%20bi%E1%BA%BFt%20l%C3%A0%20vi%E1%BB%87c%20gi%C3%BAp%20%C4%91ang%20kh%C3%B4ng%20b%E1%BB%8B%20l%E1%BB%A3i%20d%E1%BB%A5ng.md)
 ## Mong muốn và chấp nhận
 Khi nghĩ tới những điều như vậy, thì là mình sẵn sàng đốt tiền cho họ, để có thể kiên nhẫn với họ thêm một lần nữa. , sự trắc ẩn, sự chấp nhận họ là người như vậy.
 

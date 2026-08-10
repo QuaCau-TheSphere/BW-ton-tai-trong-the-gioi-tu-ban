@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-11-15T19:50
-updated: 2026-07-27T02:26
+updated: 2026-08-05T15:35
 ---
 # Nguyễn Hữu Lộc
 ## Thông tin cơ bản

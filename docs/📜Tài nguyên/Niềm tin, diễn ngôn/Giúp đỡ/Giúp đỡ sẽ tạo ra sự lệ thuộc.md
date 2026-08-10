@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-04-03T15:19
-updated: 2026-07-27T02:26
+updated: 2026-08-05T16:43
 ---
 [Tiền là một động lực ngoại sinh cực kỳ tốt](../../../%F0%9F%93%A6N%E1%BB%81n%20kinh%20t%E1%BA%BF%20h%C3%A0ng%20ho%C3%A1/Kinh%20t%E1%BA%BF%20h%E1%BB%8Dc%20t%C3%A2m%20l%C3%BD/Ti%E1%BB%81n%20l%C3%A0%20m%E1%BB%99t%20%C4%91%E1%BB%99ng%20l%E1%BB%B1c%20ngo%E1%BA%A1i%20sinh%20c%E1%BB%B1c%20k%E1%BB%B3%20t%E1%BB%91t.md)
 [Công ty thấy việc trả tiền là đã đủ để nhân viên phải cống hiến cho mình](../../../%F0%9F%93%A6N%E1%BB%81n%20kinh%20t%E1%BA%BF%20h%C3%A0ng%20ho%C3%A1/Kinh%20t%E1%BA%BF%20ch%C3%ADnh%20tr%E1%BB%8B/Ch%E1%BB%A7%20ngh%C4%A9a%20t%C6%B0%20b%E1%BA%A3n,%20t%C3%A2n%20t%E1%BB%B1%20do/C%C3%B4ng%20ty%20th%E1%BA%A5y%20vi%E1%BB%87c%20tr%E1%BA%A3%20ti%E1%BB%81n%20l%C3%A0%20%C4%91%C3%A3%20%C4%91%E1%BB%A7%20%C4%91%E1%BB%83%20nh%C3%A2n%20vi%C3%AAn%20ph%E1%BA%A3i%20c%E1%BB%91ng%20hi%E1%BA%BFn%20cho%20m%C3%ACnh.md)
@@ -17,3 +17,4 @@ tạo tiền đề để họ không ở trong trạng thái nỗ lực tối đ
 
 [Các mối quan hệ không thể cho đủ tiền lúc cần kíp nhất](./C%C3%A1c%20m%E1%BB%91i%20quan%20h%E1%BB%87%20kh%C3%B4ng%20th%E1%BB%83%20cho%20%C4%91%E1%BB%A7%20ti%E1%BB%81n%20l%C3%BAc%20c%E1%BA%A7n%20k%C3%ADp%20nh%E1%BA%A5t.md)
 [Từ thiện và những thứ có vẻ giống như nó](../../../%F0%9F%8E%81Ph%C3%A1t%20tri%E1%BB%83n%20b%E1%BB%81n%20v%E1%BB%AFng.%20C%C3%A1c%20n%E1%BB%81n%20kinh%20t%E1%BA%BF%20thay%20th%E1%BA%BF/Th%E1%BB%B1c%20tr%E1%BA%A1ng/T%E1%BB%AB%20thi%E1%BB%87n,%20vi%E1%BB%87n%20tr%E1%BB%A3,%20t%C3%A0i%20tr%E1%BB%A3/T%E1%BB%AB%20thi%E1%BB%87n%20v%C3%A0%20nh%E1%BB%AFng%20th%E1%BB%A9%20c%C3%B3%20v%E1%BA%BB%20gi%E1%BB%91ng%20nh%C6%B0%20n%C3%B3.md)
+[Không bao giờ cho không thứ gì](./Kh%C3%B4ng%20bao%20gi%E1%BB%9D%20cho%20kh%C3%B4ng%20th%E1%BB%A9%20g%C3%AC.md)

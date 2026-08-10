@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2026-08-02T17:23
+updated: 2026-08-05T16:43
 blog: working
 aliases:
   - Sự khác biệt giữa từ thiện, kinh tế quà tặng, trả cho người sau, làm việc vừa sức, dựa vào cộng đồng, gọi vốn cộng đồng, ưu tiên việc khẩn cấp, giúp người không tự giúp mình được, thu nhập cơ bản vô điều kiện
@@ -14,6 +14,7 @@ Nếu xét theo hướng công bằng xã hội, đạo đức cá nhân, thì d
 
 [Từ thiện có thể gây ra việc lệ thuộc ở người nhận, và ganh tị ở người không được nhận, từ đó phá vỡ cộng đồng](./T%E1%BB%AB%20thi%E1%BB%87n%20c%C3%B3%20th%E1%BB%83%20g%C3%A2y%20ra%20vi%E1%BB%87c%20l%E1%BB%87%20thu%E1%BB%99c%20%E1%BB%9F%20ng%C6%B0%E1%BB%9Di%20nh%E1%BA%ADn,%20v%C3%A0%20ganh%20t%E1%BB%8B%20%E1%BB%9F%20ng%C6%B0%E1%BB%9Di%20kh%C3%B4ng%20%C4%91%C6%B0%E1%BB%A3c%20nh%E1%BA%ADn,%20t%E1%BB%AB%20%C4%91%C3%B3%20ph%C3%A1%20v%E1%BB%A1%20c%E1%BB%99ng%20%C4%91%E1%BB%93ng.md)
 Nếu chưa phân biệt được rõ ràng, thì kể cả khi thừa nhận là việc làm từ thiện là gây hại, thì cũng không có cơ sở để lên án người làm từ thiện được? 
+[Không bao giờ cho không thứ gì](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Ni%E1%BB%81m%20tin,%20di%E1%BB%85n%20ng%C3%B4n/Gi%C3%BAp%20%C4%91%E1%BB%A1/Kh%C3%B4ng%20bao%20gi%E1%BB%9D%20cho%20kh%C3%B4ng%20th%E1%BB%A9%20g%C3%AC.md)
 
 | Hình thức                                                                                                     | Thấy người nhận đáng thương | Muốn làm người nhận vui | Thấy cảm hứng bởi sự hào phóng | Tin vào sự trù phú | Xây dựng nội lực của người nhận | Thấy người nhận đang làm điều mình muốn có | Công bằng xã hội | Thay đổi hệ thống | Công sức người cho phải bỏ ra để cho được | Công sức người nhận phải bỏ ra để nhận được |
 | ------------------------------------------------------------------------------------------------------------- | --------------------------- | ----------------------- | ------------------------------ | ------------------ | ------------------------------- | ------------------------------------------ | ---------------- | ----------------- | ----------------------------------------- | ------------------------------------------- |
