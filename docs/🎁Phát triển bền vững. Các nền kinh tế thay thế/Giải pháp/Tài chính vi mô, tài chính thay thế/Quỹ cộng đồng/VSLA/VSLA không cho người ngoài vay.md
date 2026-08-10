@@ -1,9 +1,0 @@
----
-share: true
-updated: 2026-07-27T02:26
-created: 2025-12-17T11:40
----
-Khái niệm:: 
-Tuy biết là cần đảm bảo một cơ chế tương đối cân bằng, nhưng vẫn chưa rõ vì sao cho người ngoài vay lãi cao hơn thì mất cân bằng. Nếu người ta tin thì kệ chứ. Mình nghĩ là bên CARE họ cũng muốn linh hoạt. Nên nếu họ phải làm cho nó kém linh hoạt thì nó phải có lý do gì đó. Không biết đánh đổi của họ là gì
-
-Nguồn:: [Nam nguyễn](../../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Ngu%E1%BB%93n/Nam%20nguy%E1%BB%85n.md)
