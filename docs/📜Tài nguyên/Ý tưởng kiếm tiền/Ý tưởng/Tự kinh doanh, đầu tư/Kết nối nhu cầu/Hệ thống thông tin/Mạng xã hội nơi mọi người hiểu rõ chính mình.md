@@ -1,6 +1,6 @@
 ---
 share: true
-updated: 2026-07-27T02:26
+updated: 2026-08-06T20:48
 created: 2026-06-05T17:26
 ---
 ## Thị trường & đối thủ cạnh tranh
