@@ -1,0 +1,57 @@
+---
+share: true
+updated: 2026-07-27T15:52
+created: 2026-06-05T16:38
+---
+
+
+## Thị trường & đối thủ cạnh tranh
+[Các dịch vụ vay tín chấp](../../../../../Ch%E1%BB%8Dn%20s%E1%BA%A3n%20ph%E1%BA%A9m%20ph%C3%B9%20h%E1%BB%A3p/Vay%20t%C3%ADn%20ch%E1%BA%A5p/index.md) khác.
+
+## Đối tượng phục vụ 
+
+## Hiểu biết sâu
+[Quỹ cộng đồng](../../../../../../%F0%9F%8E%81Ph%C3%A1t%20tri%E1%BB%83n%20b%E1%BB%81n%20v%E1%BB%AFng.%20C%C3%A1c%20n%E1%BB%81n%20kinh%20t%E1%BA%BF%20thay%20th%E1%BA%BF/Gi%E1%BA%A3i%20ph%C3%A1p/T%C3%A0i%20ch%C3%ADnh%20vi%20m%C3%B4,%20t%C3%A0i%20ch%C3%ADnh%20thay%20th%E1%BA%BF/Qu%E1%BB%B9%20c%E1%BB%99ng%20%C4%91%E1%BB%93ng/index.md)
+[Gần một nửa người VN có vay, trong đó lượng vay tổ chức tài chính là 18.45%](../../../../../../%F0%9F%A7%91%E2%80%8D%F0%9F%8C%BENg%C3%A0nh%20ngh%E1%BB%81%20c%E1%BB%A5%20th%E1%BB%83/T%C3%A0i%20ch%C3%ADnh/T%C3%ADn%20d%E1%BB%A5ng/T%C3%ADn%20d%E1%BB%A5ng%20t%C6%B0%20b%E1%BA%A3n/Vay%20n%E1%BB%A3/G%E1%BA%A7n%20m%E1%BB%99t%20n%E1%BB%ADa%20ng%C6%B0%E1%BB%9Di%20VN%20c%C3%B3%20vay,%20trong%20%C4%91%C3%B3%20l%C6%B0%E1%BB%A3ng%20vay%20t%E1%BB%95%20ch%E1%BB%A9c%20t%C3%A0i%20ch%C3%ADnh%20l%C3%A0%2018.45%25.md)
+[Cho vay theo nhóm bền vững hơn, ít bị xù hơn. Cho vay cá nhân nhiều lợi nhuận hơn, dễ mở rộng phạm vi hoạt động hơn](../../../../../../%F0%9F%A7%91%E2%80%8D%F0%9F%8C%BENg%C3%A0nh%20ngh%E1%BB%81%20c%E1%BB%A5%20th%E1%BB%83/T%C3%A0i%20ch%C3%ADnh/T%C3%ADn%20d%E1%BB%A5ng/Cho%20vay%20theo%20nh%C3%B3m%20b%E1%BB%81n%20v%E1%BB%AFng%20h%C6%A1n,%20%C3%ADt%20b%E1%BB%8B%20x%C3%B9%20h%C6%A1n.%20Cho%20vay%20c%C3%A1%20nh%C3%A2n%20nhi%E1%BB%81u%20l%E1%BB%A3i%20nhu%E1%BA%ADn%20h%C6%A1n,%20d%E1%BB%85%20m%E1%BB%9F%20r%E1%BB%99ng%20ph%E1%BA%A1m%20vi%20ho%E1%BA%A1t%20%C4%91%E1%BB%99ng%20h%C6%A1n.md) 
+
+## Chiến lược tiếp cận
+[Cho vay theo nhóm bền vững hơn, ít bị xù hơn. Cho vay cá nhân nhiều lợi nhuận hơn, dễ mở rộng phạm vi hoạt động hơn](../../../../../../%F0%9F%A7%91%E2%80%8D%F0%9F%8C%BENg%C3%A0nh%20ngh%E1%BB%81%20c%E1%BB%A5%20th%E1%BB%83/T%C3%A0i%20ch%C3%ADnh/T%C3%ADn%20d%E1%BB%A5ng/Cho%20vay%20theo%20nh%C3%B3m%20b%E1%BB%81n%20v%E1%BB%AFng%20h%C6%A1n,%20%C3%ADt%20b%E1%BB%8B%20x%C3%B9%20h%C6%A1n.%20Cho%20vay%20c%C3%A1%20nh%C3%A2n%20nhi%E1%BB%81u%20l%E1%BB%A3i%20nhu%E1%BA%ADn%20h%C6%A1n,%20d%E1%BB%85%20m%E1%BB%9F%20r%E1%BB%99ng%20ph%E1%BA%A1m%20vi%20ho%E1%BA%A1t%20%C4%91%E1%BB%99ng%20h%C6%A1n.md)
+[Các hình thức tổ chức cho vay](../../../../../../%F0%9F%A7%91%E2%80%8D%F0%9F%8C%BENg%C3%A0nh%20ngh%E1%BB%81%20c%E1%BB%A5%20th%E1%BB%83/T%C3%A0i%20ch%C3%ADnh/T%C3%ADn%20d%E1%BB%A5ng/T%C3%ADn%20d%E1%BB%A5ng%20t%C6%B0%20b%E1%BA%A3n/Vay%20n%E1%BB%A3/C%C3%A1c%20h%C3%ACnh%20th%E1%BB%A9c%20t%E1%BB%95%20ch%E1%BB%A9c%20cho%20vay.md)
+
+## Sản phẩm, giải pháp 
+- [Quỹ tín dụng Quả Cầu](../../../../../../%F0%9F%93%90D%E1%BB%B1%20%C3%A1n/Gi%C3%BAp%20nhau%20tho%C3%A1t%20n%E1%BB%A3/Qu%E1%BB%B9/Qu%E1%BB%B9%20t%C3%ADn%20d%E1%BB%A5ng%20Qu%E1%BA%A3%20C%E1%BA%A7u.md)
+- [Quỹ giúp nhau giữ tài sản thế chấp ngân hàng](../../../../../../%F0%9F%93%90D%E1%BB%B1%20%C3%A1n/Gi%C3%BAp%20nhau%20tho%C3%A1t%20n%E1%BB%A3/Qu%E1%BB%B9/Qu%E1%BB%B9%20gi%C3%BAp%20nhau%20gi%E1%BB%AF%20t%C3%A0i%20s%E1%BA%A3n%20th%E1%BA%BF%20ch%E1%BA%A5p%20ng%C3%A2n%20h%C3%A0ng.md)
+
+## Thành quả mong muốn
+| Hoạt động của MFI | Chỉ số đại diện |
+| ----------------- | --------------- |
+| Chất lượng nợ     | PAR30           |
+| Hiệu quả          | OER             |
+| Lợi nhuận         | ROE, ROA, PY    |
+| Bền vững          | OSS             |
+| Quản lý tài chính | DER             |
+[Tài chính vi mô, tài chính thay thế](../../../../../../%F0%9F%8E%81Ph%C3%A1t%20tri%E1%BB%83n%20b%E1%BB%81n%20v%E1%BB%AFng.%20C%C3%A1c%20n%E1%BB%81n%20kinh%20t%E1%BA%BF%20thay%20th%E1%BA%BF/Gi%E1%BA%A3i%20ph%C3%A1p/T%C3%A0i%20ch%C3%ADnh%20vi%20m%C3%B4,%20t%C3%A0i%20ch%C3%ADnh%20thay%20th%E1%BA%BF/index.md)
+
+## Vai trò thương hiệu
+Nhật giúp ghi chép, tổng hợp thông tin, hoặc chia sẻ kiến thức, trải nghiệm, góp vốn. Xem chi tiết tại [Lời mời sử dụng nguồn lực của Nhật](https://doi-thoai.deno.dev/6_.7O.1)
+
+## Thông tin thêm
+Kiến thức, kỹ năng cần có sẵn::
+Môi trường làm việc:: [Không cần đi lại](../../../../%C4%90%E1%BA%B7c%20%C4%91i%E1%BB%83m%20c%C3%B4ng%20vi%E1%BB%87c/%C4%90%E1%BA%B7c%20%C4%91i%E1%BB%83m%20kh%C3%A1c/Kh%C3%B4ng%20c%E1%BA%A7n%20%C4%91i%20l%E1%BA%A1i.md), [Làm qua mạng](../../../../%C4%90%E1%BA%B7c%20%C4%91i%E1%BB%83m%20c%C3%B4ng%20vi%E1%BB%87c/M%C3%B4i%20tr%C6%B0%E1%BB%9Dng%20l%C3%A0m%20vi%E1%BB%87c/L%C3%A0m%20qua%20m%E1%BA%A1ng.md)
+Thời gian làm việc:: [Được chọn thời gian làm trong ngày](../../../../%C4%90%E1%BA%B7c%20%C4%91i%E1%BB%83m%20c%C3%B4ng%20vi%E1%BB%87c/Th%E1%BB%9Di%20gian%20l%C3%A0m%20vi%E1%BB%87c/%C4%90%C6%B0%E1%BB%A3c%20ch%E1%BB%8Dn%20th%E1%BB%9Di%20gian%20l%C3%A0m%20trong%20ng%C3%A0y.md)
+Tài nguyên, vật dụng cần có sẵn:: 
+Đặc điểm khác:: [Không cần độ tập trung cao](../../../../%C4%90%E1%BA%B7c%20%C4%91i%E1%BB%83m%20c%C3%B4ng%20vi%E1%BB%87c/%C4%90%E1%BA%B7c%20%C4%91i%E1%BB%83m%20kh%C3%A1c/Kh%C3%B4ng%20c%E1%BA%A7n%20%C4%91%E1%BB%99%20t%E1%BA%ADp%20trung%20cao.md)
+
+Các hình thức huy động vốn tương tự, có thể kết hợp làm chung:
+- [Cho vay lấy lãi](./Cho%20vay%20l%E1%BA%A5y%20l%C3%A3i.md)
+- [Quỹ đầu tư](./Qu%E1%BB%B9%20%C4%91%E1%BA%A7u%20t%C6%B0.md)
+- [Sàn cho vay ngang hàng](./S%C3%A0n%20cho%20vay%20ngang%20h%C3%A0ng.md)
+- [Sàn gây quỹ đám đông](./S%C3%A0n%20g%C3%A2y%20qu%E1%BB%B9%20%C4%91%C3%A1m%20%C4%91%C3%B4ng.md)
+
+
+Tất cả những cái này là một phần của dự án [Giúp nhau kiếm tiền](../../../../../../%F0%9F%93%90D%E1%BB%B1%20%C3%A1n/Gi%C3%BAp%20nhau%20ki%E1%BA%BFm%20ti%E1%BB%81n/index.md).
+
+## Nơi thảo luận
+Vào [Discord Quả Cầu](https://discord.com/channels/898550123007709204/1249553476745298010), kênh "Tạo dòng tiền, đầu tư, tạo thu nhập thụ động, kinh doanh" để thảo luận:
+[![](https://i.vgy.me/BjXA75.png)](https://discord.com/channels/898550123007709204/1249553476745298010)
