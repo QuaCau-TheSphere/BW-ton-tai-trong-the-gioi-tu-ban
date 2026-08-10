@@ -1,19 +1,18 @@
 ---
 share: true
 created: 2025-01-19T16:13
-updated: 2026-07-27T02:41
+updated: 2026-08-04T21:58
 ---
 Khái niệm:: [Giảm giá](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Ki%E1%BA%BFm%20ti%E1%BB%81n/Gi%E1%BA%A3m%20gi%C3%A1.md)
 
 Khuyến khích việc khai thác, không phải khuyến khích việc quan tâm lại
-[Giảm giá không phải là quà, vì quà thì không cần phải đáp ứng ngược lại gì](../../../%F0%9F%92%B8H%C3%ACnh%20th%E1%BB%A9c%20ki%E1%BA%BFm%20ti%E1%BB%81n/L%C3%A0m%20c%C3%B4ng%20%C4%83n%20l%C6%B0%C6%A1ng/B%C3%A1n%20h%C3%A0ng/Gi%E1%BA%A3m%20gi%C3%A1%20kh%C3%B4ng%20ph%E1%BA%A3i%20l%C3%A0%20qu%C3%A0,%20v%C3%AC%20qu%C3%A0%20th%C3%AC%20kh%C3%B4ng%20c%E1%BA%A7n%20ph%E1%BA%A3i%20%C4%91%C3%A1p%20%E1%BB%A9ng%20ng%C6%B0%E1%BB%A3c%20l%E1%BA%A1i%20g%C3%AC.md)
+[Giảm giá không phải là quà, vì quà thì không cần phải đáp ứng ngược lại gì](../../../%F0%9F%92%B8H%C3%ACnh%20th%E1%BB%A9c%20ki%E1%BA%BFm%20ti%E1%BB%81n/Thi%E1%BA%BFu%20li%C3%AAm%20ch%C3%ADnh.%20Ph%E1%BA%A1m%20ph%C3%A1p/C%C3%A1ch%20th%E1%BB%B1c%20hi%E1%BB%87n/B%C3%A1n%20h%C3%A0ng/Gi%E1%BA%A3m%20gi%C3%A1%20kh%C3%B4ng%20ph%E1%BA%A3i%20l%C3%A0%20qu%C3%A0,%20v%C3%AC%20qu%C3%A0%20th%C3%AC%20kh%C3%B4ng%20c%E1%BA%A7n%20ph%E1%BA%A3i%20%C4%91%C3%A1p%20%E1%BB%A9ng%20ng%C6%B0%E1%BB%A3c%20l%E1%BA%A1i%20g%C3%AC.md)
 
 Trừ các voucher siêu thị, đa phần các voucher không thực sự đáp ứng những nhu cầu thiết yếu, chỉ đáp ứng những thứ giải trí, những thứ không khó để có
 
 [Làm sao để tìm được thông tin giảm giá tốt nhất?](../../../%F0%9F%93%90D%E1%BB%B1%20%C3%A1n/M%E1%BA%A1ng%20k%E1%BA%BFt%20n%E1%BB%91i%20nhu%20c%E1%BA%A7u/X%C3%A2y%20d%E1%BB%B1ng%20h%E1%BB%A3p%20t%C3%A1c%20x%C3%A3%20nh%C3%A2n%20vi%C3%AAn.md)
 
 Mỗi 2 tuần Cathay TP.HCM mời vé xem phim lúc 18h30 tại rạp ở Hai Bà Trưng
-[Tổ chức các buổi ăn uống chung](../../../%F0%9F%93%90D%E1%BB%B1%20%C3%A1n/M%E1%BA%A1ng%20k%E1%BA%BFt%20n%E1%BB%91i%20nhu%20c%E1%BA%A7u/M%E1%BB%9F%20r%E1%BB%99ng%20m%E1%BB%91i%20quan%20h%E1%BB%87/T%E1%BB%95%20ch%E1%BB%A9c%20c%C3%A1c%20bu%E1%BB%95i%20%C4%83n%20u%E1%BB%91ng%20chung.md)
-[Tổ chức buổi xem phim](../../../%F0%9F%93%90D%E1%BB%B1%20%C3%A1n/M%E1%BA%A1ng%20k%E1%BA%BFt%20n%E1%BB%91i%20nhu%20c%E1%BA%A7u/T%E1%BB%95%20ch%E1%BB%A9c%20bu%E1%BB%95i%20xem%20phim.md)
+[Tổ chức buổi xem phim](../../../%F0%9F%93%90D%E1%BB%B1%20%C3%A1n/M%E1%BB%9F%20r%E1%BB%99ng%20m%E1%BB%91i%20quan%20h%E1%BB%87/C%C3%B4ng%20vi%E1%BB%87c/T%E1%BB%95%20ch%E1%BB%A9c%20bu%E1%BB%95i%20xem%20phim.md)
 
 [Săn voucher](../../%C3%9D%20t%C6%B0%E1%BB%9Fng%20ki%E1%BA%BFm%20ti%E1%BB%81n/%C3%9D%20t%C6%B0%E1%BB%9Fng/Ki%E1%BA%BFm%20ti%E1%BB%81n%20nhanh/S%C4%83n%20khuy%E1%BA%BFn%20m%C3%A3i,%20gi%E1%BA%A3m%20gi%C3%A1/S%C4%83n%20voucher.md)
