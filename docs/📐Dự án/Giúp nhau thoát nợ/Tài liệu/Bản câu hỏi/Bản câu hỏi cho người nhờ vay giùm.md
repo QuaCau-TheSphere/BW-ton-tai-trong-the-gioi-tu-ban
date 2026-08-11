@@ -1,6 +1,6 @@
 ---
 share: true
-updated: 2026-07-27T02:26
+updated: 2026-08-11T02:24
 created: 2026-02-13T12:58
 ---
 Khái niệm:: 
@@ -9,4 +9,3 @@ Khái niệm::
 - Họ nên biết bao nhiêu thông tin về bạn?
 - Vì sao không nên cho biết nhiều hơn?
 - Nếu họ hỏi trực tiếp câu hỏi thì nên trả lời thế nào? Tại sao lại như vậy?
-Nguồn:: 
