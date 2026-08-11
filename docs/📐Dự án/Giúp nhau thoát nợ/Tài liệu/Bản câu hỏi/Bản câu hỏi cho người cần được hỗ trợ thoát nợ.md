@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2026-07-27T02:26
+updated: 2026-08-12T00:17
 ---
 ## Tình hình chung
 - Tại sao bạn bị nợ? 
@@ -52,17 +52,19 @@ $$\text{Lãi suất theo tháng} = \frac{\text{Lãi suất}}{\text{Số tháng p
 - Bạn có chấp nhận [xù nợ ngân hàng](../X%C3%B9%20n%E1%BB%A3%20ng%C3%A2n%20h%C3%A0ng.md), [xù nợ vay nóng](../X%C3%B9%20n%E1%BB%A3%20vay%20n%C3%B3ng.md) không? Vì sao?
 	- Vì sao bạn không thể [chấp nhận mất điểm tín dụng](../X%C3%B9%20n%E1%BB%A3%20ng%C3%A2n%20h%C3%A0ng.md)?
 	- Giả sử như bạn chấp nhận mất, thì lý do đó có thể là gì?
-- Bạn có chấp nhận [Các lý do để không về quê hoặc không sống ở thành phố lớn](../Ni%E1%BB%81m%20tin/C%C3%A1c%20l%C3%BD%20do%20%C4%91%E1%BB%83%20kh%C3%B4ng%20v%E1%BB%81%20qu%C3%AA%20ho%E1%BA%B7c%20kh%C3%B4ng%20s%E1%BB%91ng%20%E1%BB%9F%20th%C3%A0nh%20ph%E1%BB%91%20l%E1%BB%9Bn.md) không? Vì sao?
+- Bạn có chấp nhận [về quê hoặc không sống ở thành phố lớn](../Ni%E1%BB%81m%20tin/C%C3%A1c%20l%C3%BD%20do%20%C4%91%E1%BB%83%20kh%C3%B4ng%20v%E1%BB%81%20qu%C3%AA%20ho%E1%BA%B7c%20kh%C3%B4ng%20s%E1%BB%91ng%20%E1%BB%9F%20th%C3%A0nh%20ph%E1%BB%91%20l%E1%BB%9Bn.md) không? Vì sao?
 - Đã có bao nhiêu người biết tình hình của bạn rồi? Thái độ của họ thế nào? 
-- Bạn đã nhận được những sự hỗ trợ từ những ai? Sự hỗ trợ không nhất thiết là tiền
+- Có những ai bạn nghĩ là họ nên được biết tình hình của bạn nhưng bạn chưa cho họ biết? Vì sao bạn chưa cho họ biết?
+- Bạn đã nhận được những sự hỗ trợ từ những ai? (Sự hỗ trợ không nhất thiết là tiền)
 
-| STT | Họ tên | SĐT | Mối quan hệ | Thứ họ hỗ trợ |
-| --- | ------ | --- | ----------- | ------------- |
-|     |        |     |             |               |
+| STT | Họ tên | SĐT | Mối quan hệ | Điều họ hỗ trợ | Giới hạn của sự hỗ trợ |
+| --- | ------ | --- | ----------- | -------------- | ---------------------- |
+|     |        |     |             |                |                        |
+
 - Họ đã thử vay giùm bạn chưa? Nếu chưa thì tại sao? Nếu rồi thì như thế nào?
 
 ## Năng lực xoay sở
-- Bạn nghĩ sao về quan điểm [Áp lực tạo kim cương](../../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Ni%E1%BB%81m%20tin,%20di%E1%BB%85n%20ng%C3%B4n/Th%C3%A1ch%20th%E1%BB%A9c,%20%C4%91am%20m%C3%AA,%20ph%C3%A1t%20tri%E1%BB%83n%20b%E1%BA%A3n%20th%C3%A2n/%C3%81p%20l%E1%BB%B1c%20t%E1%BA%A1o%20kim%20c%C6%B0%C6%A1ng.md)? Bạn có nghĩa rằng [nếu không có ai giúp đỡ thì bạn sẽ làm được những điều đến chính bạn cũng ngạc nhiên](../../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Ni%E1%BB%81m%20tin,%20di%E1%BB%85n%20ng%C3%B4n/Th%C3%A1ch%20th%E1%BB%A9c,%20%C4%91am%20m%C3%AA,%20ph%C3%A1t%20tri%E1%BB%83n%20b%E1%BA%A3n%20th%C3%A2n/Con%20ng%C6%B0%E1%BB%9Di%20th%C6%B0%E1%BB%9Dng%20kh%C3%B4ng%20bi%E1%BA%BFt%20%C4%91%C6%B0%E1%BB%A3c%20n%C4%83ng%20l%E1%BB%B1c%20c%E1%BB%A7a%20m%C3%ACnh.%20Khi%20b%E1%BB%8B%20%C3%A9p%20v%C3%A0o%20%C4%91%C6%B0%E1%BB%9Dng%20c%C3%B9ng%20h%E1%BB%8D%20s%E1%BA%BD%20l%C3%A0m%20%C4%91%C6%B0%E1%BB%A3c%20nh%E1%BB%AFng%20%C4%91i%E1%BB%81u%20%C4%91%E1%BA%BFn%20ch%C3%ADnh%20h%E1%BB%8D%20c%C5%A9ng%20ng%E1%BA%A1c%20nhi%C3%AAn.md)?
+- Bạn nghĩ sao về quan điểm [áp lực tạo kim cương](../../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Ni%E1%BB%81m%20tin,%20di%E1%BB%85n%20ng%C3%B4n/Th%C3%A1ch%20th%E1%BB%A9c,%20%C4%91am%20m%C3%AA,%20ph%C3%A1t%20tri%E1%BB%83n%20b%E1%BA%A3n%20th%C3%A2n/%C3%81p%20l%E1%BB%B1c%20t%E1%BA%A1o%20kim%20c%C6%B0%C6%A1ng.md)? Bạn có nghĩa rằng [nếu không có ai giúp đỡ thì bạn sẽ làm được những điều đến chính bạn cũng ngạc nhiên](../../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Ni%E1%BB%81m%20tin,%20di%E1%BB%85n%20ng%C3%B4n/Th%C3%A1ch%20th%E1%BB%A9c,%20%C4%91am%20m%C3%AA,%20ph%C3%A1t%20tri%E1%BB%83n%20b%E1%BA%A3n%20th%C3%A2n/Con%20ng%C6%B0%E1%BB%9Di%20th%C6%B0%E1%BB%9Dng%20kh%C3%B4ng%20bi%E1%BA%BFt%20%C4%91%C6%B0%E1%BB%A3c%20n%C4%83ng%20l%E1%BB%B1c%20c%E1%BB%A7a%20m%C3%ACnh.%20Khi%20b%E1%BB%8B%20%C3%A9p%20v%C3%A0o%20%C4%91%C6%B0%E1%BB%9Dng%20c%C3%B9ng%20h%E1%BB%8D%20s%E1%BA%BD%20l%C3%A0m%20%C4%91%C6%B0%E1%BB%A3c%20nh%E1%BB%AFng%20%C4%91i%E1%BB%81u%20%C4%91%E1%BA%BFn%20ch%C3%ADnh%20h%E1%BB%8D%20c%C5%A9ng%20ng%E1%BA%A1c%20nhi%C3%AAn.md)?
 - Việc mượn nợ đầu này để đắp đầu kia (xoay nợ, đảo nợ) đến khi nào thì mới chấm dứt? Điều gì khiến cho lãi không sinh ra lãi?
 - Với số lượng nợ lớn thế này, điều gì đảm bảo rằng bạn sẽ trả đúng hạn khi được cho vay nữa? 
 - Tại sao bạn chưa thấy mình mất khả năng trả nợ? Chuyện gì sẽ xảy ra nếu bạn thừa nhận việc đó?
@@ -85,10 +87,10 @@ $$\text{Lãi suất theo tháng} = \frac{\text{Lãi suất}}{\text{Số tháng p
 - Mức độ bí mật của những thông tin bạn chia sẻ ở đây là gì? Ai sẽ là người bạn cảm thấy thoải mái khi họ biết được những gì bạn chia sẻ? Vì sao?
   - Với các yêu cầu bạn đưa ra, bạn nghĩ gì về việc nó sẽ tạo khó khăn cho người muốn giúp bạn?
   - Có phải bạn thấy rằng các lý do bạn đưa ra quan trọng hơn việc giúp bạn hiệu quả hơn đúng không? Vì sao?
-- Bạn muốn ai sẽ hỗ trợ bạn?
+- Bạn muốn ai sẽ hỗ trợ bạn? Làm sao để họ nói chuyện được với bạn?
 - Bạn thấy việc ghép nhóm vay cho bạn có những khó khăn gì không?
 
 ## Nơi thảo luận
 ![](https://imagizer.imageshack.com/a/img923/1273/jQAnX6.png)
 
-[Template câu hỏi cho người cần được hỗ trợ thoát nợ](./Template%20c%C3%A2u%20h%E1%BB%8Fi%20cho%20ng%C6%B0%E1%BB%9Di%20c%E1%BA%A7n%20%C4%91%C6%B0%E1%BB%A3c%20h%E1%BB%97%20tr%E1%BB%A3%20tho%C3%A1t%20n%E1%BB%A3.md)
+[Bản mẫu câu hỏi cho người cần được hỗ trợ thoát nợ](./B%E1%BA%A3n%20m%E1%BA%ABu%20c%C3%A2u%20h%E1%BB%8Fi%20cho%20ng%C6%B0%E1%BB%9Di%20c%E1%BA%A7n%20%C4%91%C6%B0%E1%BB%A3c%20h%E1%BB%97%20tr%E1%BB%A3%20tho%C3%A1t%20n%E1%BB%A3.md)
