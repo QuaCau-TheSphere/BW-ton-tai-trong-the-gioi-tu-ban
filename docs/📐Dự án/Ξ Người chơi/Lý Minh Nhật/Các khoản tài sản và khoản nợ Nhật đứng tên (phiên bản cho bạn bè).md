@@ -1,11 +1,11 @@
 ---
 share: true
-updated: 2026-08-05T15:34
+updated: 2026-08-11T17:05
 aliases:
   - nhờ Nhật đứng tên
 created: 2025-08-21T09:20
 ---
-[Quy định sử dụng tài sản của Lý Minh Nhật](./Quy%20%C4%91%E1%BB%8Bnh%20s%E1%BB%AD%20d%E1%BB%A5ng%20t%C3%A0i%20s%E1%BA%A3n%20c%E1%BB%A7a%20L%C3%BD%20Minh%20Nh%E1%BA%ADt.md)
+[Hướng dẫn sử dụng nguồn lực của Lý Minh Nhật](./H%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn%20s%E1%BB%AD%20d%E1%BB%A5ng%20ngu%E1%BB%93n%20l%E1%BB%B1c%20c%E1%BB%A7a%20L%C3%BD%20Minh%20Nh%E1%BA%ADt.md)
 ## Các khoản tiền cho mượn
 - Thịnh: 5tr + nửa chỉ vàng
 
