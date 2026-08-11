@@ -1,9 +1,10 @@
 ---
 share: true
 created: 2025-04-04T22:48
-updated: 2026-07-27T02:26
+updated: 2026-08-12T00:03
 blog: done
 aliases:
+  - về quê hoặc không sống ở thành phố lớn
   - ra khỏi thành phố sống
   - không sống ở đô thị
 ---
