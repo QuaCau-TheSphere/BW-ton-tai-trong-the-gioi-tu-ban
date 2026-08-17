@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-08-31T11:15
-updated: 2026-07-27T02:26
+updated: 2026-08-17T17:03
 ---
 Tên thương hiệu:: SeABank
 Phân loại:: [Thương mại Cổ phần](Th%C6%B0%C6%A1ng%20m%E1%BA%A1i%20C%E1%BB%95%20ph%E1%BA%A7n.md)
@@ -30,6 +30,7 @@ Hoàn tiền trực tiếp vào thẻ luôn. Khi nào đóng thẻ rồi thì m�
 ## Thẻ tín dụng
 - `Thu no`: nếu trả vào ngày 5 thì là tiền hoàn, còn các ngày khác thì là tiền mình thanh toán thẻ
 - `Lai giao dich SALE`: tiền lãi vay thẻ. Do cuối tháng mới chốt sao kê, nên lãi tháng này bị trừ vào cuối tháng sau. Ví dụ, lãi của tháng 10 thì sẽ được ghi vào ngày 30/11 chứ không phải 1/11
+- [Hay chặn pos quanh ngày đáo](Hay%20ch%E1%BA%B7n%20pos%20quanh%20ng%C3%A0y%20%C4%91%C3%A1o.md)
 
 ## Tài khoản thanh toán
 - `Thu phi thu phi tkhd`: thu phí tài khoản thanh toán hoạt động. 7k7 1 tháng. Lúc mới mở tài khoản thì là do không có đồng nên nó không trừ được. Khi nào bỏ tiền vào thì sẽ trừ. Nếu mở xong để đó, 3 tháng sau bỏ tiền vào thì tự động trừ 22k. 
