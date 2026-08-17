@@ -1,33 +1,50 @@
 ---
 share: true
-updated: 2026-08-11T17:31
+updated: 2026-08-17T22:28
 created: 2026-08-08T14:16
 ---
 ## Phần 1: Định nghĩa
-1. [Tài sản là loại nguồn lực được sở hữu và kiểm soát bởi thực thể kinh tế](../../../%F0%9F%92%B8H%C3%ACnh%20th%E1%BB%A9c%20ki%E1%BA%BFm%20ti%E1%BB%81n/K%E1%BA%BF%20ho%E1%BA%A1ch%20t%C3%A0i%20ch%C3%ADnh/T%C3%A0i%20s%E1%BA%A3n/T%C3%A0i%20s%E1%BA%A3n%20l%C3%A0%20lo%E1%BA%A1i%20ngu%E1%BB%93n%20l%E1%BB%B1c%20%C4%91%C6%B0%E1%BB%A3c%20s%E1%BB%9F%20h%E1%BB%AFu%20v%C3%A0%20ki%E1%BB%83m%20so%C3%A1t%20b%E1%BB%9Fi%20th%E1%BB%B1c%20th%E1%BB%83%20kinh%20t%E1%BA%BF.md). VD: thời gian, tiền bạc, đồ đạc, điểm tín dụng, uy tín cá nhân, v.v.
-2. [Quyền sở hữu là một bó quyền gồm 11 quyền nhỏ](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%C4%90%E1%BA%A1o%20%C4%91%E1%BB%A9c,%20ph%C3%A1p%20lu%E1%BA%ADt/Lu%E1%BA%ADt%20h%E1%BB%8Dc/Quy%E1%BB%81n%20s%E1%BB%9F%20h%E1%BB%AFu%20l%C3%A0%20m%E1%BB%99t%20b%C3%B3%20quy%E1%BB%81n%20g%E1%BB%93m%2011%20quy%E1%BB%81n%20nh%E1%BB%8F.md) theo định nghĩa của Honoré. Đây không phải là quyền sở hữu theo cách luật Việt Nam quy định
-3. Văn bản này hướng dẫn mọi cách sử dụng mọi loại tài sản của một thực thể kinh tế cụ thể tên là Lý Minh Nhật (gọi tắt là Nhật)
-4. Mượn tiền là hình thức vay tiền không có lãi và không có kỳ hạn. Tức là trả lúc nào cũng được và trả đúng số tiền ban đầu là được
-5. Trong văn bản này, những người vay, mượn tiền của Nhật sẽ gọi chung là người vay (gọi mỹ miều thì là khách hàng, gọi dân đã thì là con nợ). Những người Nhật vay, mượn tiền sẽ gọi chung là người được vay (gọi mỹ miều thì là đối tác làm ăn, gọi dân đã thì là chủ nợ)
+1. Văn bản này hướng dẫn mọi cách sử dụng mọi loại tài sản/nguồn lực/ tài nguyên mà được xem là thuộc sở hữu của Lý Minh Nhật (gọi tắt là Nhật). Chúng bao gồm:
+	- Thời gian
+	- Tiền bạc
+	- Sự chú ý
+	- Đồ vật
+	- Uy tín
+	- Điểm tín dụng
+	- Thông tin
+2. Đặc điểm của những loại nguồn lực có tổng bằng 0 như thời gian, tiền bạc, sự chú ý, đồ vật là một khi sử dụng chúng vào một vấn đề thì nó sẽ bị mất đi không lấy lại được
+3. Mượn tiền là hình thức vay tiền không có lãi và không có kỳ hạn. Tức là trả lúc nào cũng được và trả đúng số tiền ban đầu là được
+4. Trong văn bản này, những người vay, mượn tiền của Nhật sẽ gọi chung là người vay (gọi mỹ miều thì là khách hàng, gọi bình dân thì là con nợ). Những người Nhật vay, mượn tiền sẽ gọi chung là người được vay (gọi mỹ miều thì là đối tác làm ăn, gọi bình dân thì là chủ nợ)
 
-## Tinh thần, quan niệm
-1. Tài sản của Nhật là tài sản của tất cả mọi người, được dùng với mục đích đem lại điều tốt nhất cho mọi người một cách bền vững nhất
-2. Nhìn chung, Nhật không có vấn đề gì khi cho mượn tài sản của mình, và cũng không có vấn đề gì khi đi vay giùm hoặc đứng ra bảo lãnh cho người vay. Khi nào có vấn đề thì Nhật sẽ đặt câu hỏi để nghe ý kiến của họ
-3. Điểm tín dụng và uy tín cá nhân của Nhật là tài sản chung của tất cả mọi người
-4. Bất kỳ ai cũng có quyền tham gia cuộc thảo luận về việc nên làm gì với các tài sản của Nhật
-5. Phán quyết của tòa án Nhà nước Việt Nam là phán quyết cuối cùng
+## Tinh thần chung
+1. Nguồn lực của Nhật là nguồn lực của tất cả mọi người, được dùng với mục đích đem lại điều tốt nhất cho mọi người một cách bền vững nhất
+2. Thế nào là "mọi người", "điều tốt nhất", "bền vững nhất", hay bất kỳ chủ đề nào có liên quan sẽ được thống nhất trong các cuộc thảo luận. Những người tham gia thảo luận cần sẵn sàng cho việc thay đổi quan điểm của bản thân. Bất kỳ ai cũng có quyền tham gia thảo luận
+3. Nhật sẽ chọn quan điểm Nhật cảm thấy có lý nhất để ra quyết định. Chỗ nào Nhật thấy chưa hợp lý thì Nhật sẽ phải hỏi lại. Trong trường hợp cần hành động nhanh thì Nhật sẽ giải trình quyết định của mình sau
+4. Mọi thông tin đều được ghi chú đầy đủ và công khai. Nếu không được công khai thì phải có lý do tại sao, và lý do đó phải được công khai
+5. Có thể có những lúc hệ thống có vấn đề hoặc chưa ghi lại nên không phải lúc nào thông tin cũng cập nhật hoặc truy cập được. Những lúc đó cứ hỏi trực tiếp thì sẽ được trả lời
+6. Nhật giữ quyền duy nhất cập nhật, chỉnh sửa văn bản này
+7. Phán quyết của tòa án Nhà nước Việt Nam là phán quyết cuối cùng
 
-## Công việc 
-3. Việc không cung cấp câu trả lời 
-4. thì tùy vào quyết định của bên cho vay
-5. Tất cả những người vay, mượn phải chịu trách nhiệm cho người vay khác
-6. Mọi chi phí phát sinh từ khoản vay (VD: phí, lãi , phạt) người vay phải chịu, trừ các loại tiền phục vụ cho việc thảo luận, như ăn uống, đi lại. Nhưng những lúc Nhật hết tiền thì cũng cần một ai đó trả
-7. Việc nhận tiền đồng nghĩa là chấp nhận các 
-8. Thông tin về khoản vay, lý do vay, người vay và người được vay đều được ghi lại và công khai
+## Vay, nợ
+1. thì tùy vào quyết định của bên cho vay
+2. Tất cả những người vay, mượn phải chịu trách nhiệm cho người vay khác
+3. Mọi chi phí phát sinh từ khoản vay (VD: phí, lãi , phạt) người vay phải chịu, trừ các loại tiền phục vụ cho việc thảo luận, như ăn uống, đi lại. Nhưng những lúc Nhật hết tiền thì cũng cần một ai đó trả
+4. Việc nhận tiền đồng nghĩa là chấp nhận các 
+5. Nhật khuyến khích bạn tìm đến các loại quỹ khác
 
-## Hướng dẫn về việc thông báo
-4. Có thể có những lúc có vấn đề hệ thống hoặc Nhật chưa ghi lại nên không phải lúc nào thông tin cũng cập nhật hoặc truy cập được. Những lúc đó cứ hỏi trực tiếp thì Nhật sẽ trả lời
-5. 
+## Sử dụng thời gian 
+1. Nếu không làm cho Nhật thấy được vì sao bạn cần gấp thì Nhật sẽ giúp bạn khi tiện
+2. Nhật sẽ tập trung vào câu hỏi Nhật thấy là quan trọng hơn 
+3. Thứ quan trọng phụ thuộc vào nhiều yếu tố, bao gồm trí nhớ
+4. Nếu không giải thích được vì sao bạn bận, thì mặc định là họ rảnh
+5. Tình trạng khẩn cấp tạm thời
+6. Ưu tiên buổi sáng. Kết hợp đi nhiều việc
+7. Không phải lúc nào cũng suy
 
-6. Quỹ tín dụng Lý Minh Nhật do duy nhất Nhật quản lý và ra quyết định
-7. Nhật khuyến khích bạn tìm đến các loại quỹ khác
+## Sự chú ý
+
+
+## kênh liên lạc
+
+## Việc phổ biến hướng dẫn này
+Trong những lúc đó, Nhật sẽ im lặng
