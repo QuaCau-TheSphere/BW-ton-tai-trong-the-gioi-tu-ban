@@ -1,8 +1,9 @@
 ---
 share: true
-updated: 2026-08-12T00:17
+updated: 2026-08-12T09:56
 created: 2025-12-09T17:23
 ---
+# Bản câu hỏi cho người cần được hỗ trợ thoát nợ
 ## Tình hình chung
 ### Tại sao bạn bị nợ? 
 ### Tình hình nợ hiện nay:
