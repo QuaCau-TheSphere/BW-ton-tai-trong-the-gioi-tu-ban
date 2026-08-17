@@ -5,7 +5,7 @@ created: 2025-12-13T12:14
 aliases:
   - gọi vốn tập thể
   - crowdfunding
-updated: 2026-08-06T20:48
+updated: 2026-08-16T20:26
 ---
 [Làm sao để kêu gọi mọi người đầu tư vào mình?](./L%C3%A0m%20sao%20%C4%91%E1%BB%83%20g%E1%BB%8Di%20v%E1%BB%91n.md) Một trong những cách đó là gây quỹ đám đông.
 
@@ -123,3 +123,8 @@ Vườn ươm:
 - [Vườn ươm kinh doanh](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/%C3%9D%20t%C6%B0%E1%BB%9Fng%20ki%E1%BA%BFm%20ti%E1%BB%81n/%C3%9D%20t%C6%B0%E1%BB%9Fng/T%E1%BB%B1%20kinh%20doanh,%20%C4%91%E1%BA%A7u%20t%C6%B0/K%E1%BA%BFt%20n%E1%BB%91i%20nhu%20c%E1%BA%A7u/Nh%C3%B3m/V%C6%B0%E1%BB%9Dn%20%C6%B0%C6%A1m%20kinh%20doanh.md)
 
 Tất cả những cái này là một phần của dự án [Giúp nhau kiếm tiền](../index.md).
+
+
+cần pilot, chỉ xây dựng bộ  khung, chưa có mang tính thực thi  rõ ràng. Muốn trong thời gian  sớm nhất thì xây dựng website  cụ thể hơn. Những dự án tham gia cần có  sự giải trình rõ ràng.
+
+Một người tin vào kỹ năng của một người nhưng không có nghĩa là tin  vào kỹ năng quản trị của họ
