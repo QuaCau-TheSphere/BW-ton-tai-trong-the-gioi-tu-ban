@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-08-31T11:15
-updated: 2026-07-29T00:55
+updated: 2026-08-17T15:46
 ---
 Tên thương hiệu:: VIB
 Phân loại:: [Thương mại Cổ phần](Th%C6%B0%C6%A1ng%20m%E1%BA%A1i%20C%E1%BB%95%20ph%E1%BA%A7n.md)
@@ -14,7 +14,7 @@ Vốn điều lệ (tỷ đồng):: 29,791.00
 
 ## App
 - App hay bị văng ra ngoài
-- Không đòi đăng nhập ngay khi chuyển qua app khác
+- [Không đòi đăng nhập ngay khi chuyển qua app khác](../%C4%90%E1%BA%B7c%20%C4%91i%E1%BB%83m%20app/Kh%C3%B4ng%20%C4%91%C3%B2i%20%C4%91%C4%83ng%20nh%E1%BA%ADp%20ngay%20khi%20chuy%E1%BB%83n%20qua%20app%20kh%C3%A1c.md)
 - Không cần KYC để đăng nhập 
 - Không tạo đc nhiều số tài khoản 
 - Đổi tên đăng nhập chỉ được 1 lần
