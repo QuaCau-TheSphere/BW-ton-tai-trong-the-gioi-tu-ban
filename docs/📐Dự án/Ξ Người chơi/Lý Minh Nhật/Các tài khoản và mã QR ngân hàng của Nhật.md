@@ -1,6 +1,6 @@
 ---
 share: true
-updated: 2026-08-10T23:58
+updated: 2026-08-17T15:39
 created: 2026-08-05T14:23
 slug: qr-nhat
 ---
@@ -24,4 +24,4 @@ STK: 0331000438307
 ## [SeABank](../../../%F0%9F%A7%91%E2%80%8D%F0%9F%8C%BENg%C3%A0nh%20ngh%E1%BB%81%20c%E1%BB%A5%20th%E1%BB%83/T%C3%A0i%20ch%C3%ADnh/T%C3%ADn%20d%E1%BB%A5ng/T%C3%ADn%20d%E1%BB%A5ng%20t%C6%B0%20b%E1%BA%A3n/T%E1%BB%95%20ch%E1%BB%A9c%20c%E1%BB%A5%20th%E1%BB%83/Ng%C3%A2n%20h%C3%A0ng/Danh%20s%C3%A1ch%20ng%C3%A2n%20h%C3%A0ng/SeABank.md)
 ![QR_CODE1786118678285.jpeg](../../../assets/attachments/QR_CODE1786118678285.jpeg)
 
-
+## [VIB](../../../%F0%9F%A7%91%E2%80%8D%F0%9F%8C%BENg%C3%A0nh%20ngh%E1%BB%81%20c%E1%BB%A5%20th%E1%BB%83/T%C3%A0i%20ch%C3%ADnh/T%C3%ADn%20d%E1%BB%A5ng/T%C3%ADn%20d%E1%BB%A5ng%20t%C6%B0%20b%E1%BA%A3n/T%E1%BB%95%20ch%E1%BB%A9c%20c%E1%BB%A5%20th%E1%BB%83/Ng%C3%A2n%20h%C3%A0ng/Danh%20s%C3%A1ch%20ng%C3%A2n%20h%C3%A0ng/VIB.md)
