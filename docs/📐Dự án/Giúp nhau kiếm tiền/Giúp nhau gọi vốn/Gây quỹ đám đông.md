@@ -5,7 +5,7 @@ created: 2025-12-13T12:14
 aliases:
   - gọi vốn tập thể
   - crowdfunding
-updated: 2026-08-16T20:26
+updated: 2026-08-20T02:15
 ---
 [Làm sao để kêu gọi mọi người đầu tư vào mình?](./L%C3%A0m%20sao%20%C4%91%E1%BB%83%20g%E1%BB%8Di%20v%E1%BB%91n.md) Một trong những cách đó là gây quỹ đám đông.
 
@@ -114,8 +114,8 @@ Vườn ươm:
 ## Các hình thức hỗ trợ tương tự
 Đây là những hình thức có thể kết hợp làm chung, hoặc khởi đầu từ đó rồi lấn sân qua đây. Về cơ bản thì các hình thức này cũng là những cách để đáp ứng nhu cầu huy động vốn.
 
-- [Cho vay lấy lãi](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/%C3%9D%20t%C6%B0%E1%BB%9Fng%20ki%E1%BA%BFm%20ti%E1%BB%81n/%C3%9D%20t%C6%B0%E1%BB%9Fng/T%E1%BB%B1%20kinh%20doanh,%20%C4%91%E1%BA%A7u%20t%C6%B0/K%E1%BA%BFt%20n%E1%BB%91i%20nhu%20c%E1%BA%A7u/T%C3%ADn%20d%E1%BB%A5ng/Cho%20vay%20l%E1%BA%A5y%20l%C3%A3i.md)
 - [Quỹ cho vay](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/%C3%9D%20t%C6%B0%E1%BB%9Fng%20ki%E1%BA%BFm%20ti%E1%BB%81n/%C3%9D%20t%C6%B0%E1%BB%9Fng/T%E1%BB%B1%20kinh%20doanh,%20%C4%91%E1%BA%A7u%20t%C6%B0/K%E1%BA%BFt%20n%E1%BB%91i%20nhu%20c%E1%BA%A7u/T%C3%ADn%20d%E1%BB%A5ng/Qu%E1%BB%B9%20cho%20vay.md)
+- [Cho vay lấy lãi](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/%C3%9D%20t%C6%B0%E1%BB%9Fng%20ki%E1%BA%BFm%20ti%E1%BB%81n/%C3%9D%20t%C6%B0%E1%BB%9Fng/T%E1%BB%B1%20kinh%20doanh,%20%C4%91%E1%BA%A7u%20t%C6%B0/K%E1%BA%BFt%20n%E1%BB%91i%20nhu%20c%E1%BA%A7u/T%C3%ADn%20d%E1%BB%A5ng/Cho%20vay%20l%E1%BA%A5y%20l%C3%A3i.md)
 - [Quỹ đầu tư](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/%C3%9D%20t%C6%B0%E1%BB%9Fng%20ki%E1%BA%BFm%20ti%E1%BB%81n/%C3%9D%20t%C6%B0%E1%BB%9Fng/T%E1%BB%B1%20kinh%20doanh,%20%C4%91%E1%BA%A7u%20t%C6%B0/K%E1%BA%BFt%20n%E1%BB%91i%20nhu%20c%E1%BA%A7u/T%C3%ADn%20d%E1%BB%A5ng/Qu%E1%BB%B9%20%C4%91%E1%BA%A7u%20t%C6%B0.md)
 - [Sàn cho vay ngang hàng](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/%C3%9D%20t%C6%B0%E1%BB%9Fng%20ki%E1%BA%BFm%20ti%E1%BB%81n/%C3%9D%20t%C6%B0%E1%BB%9Fng/T%E1%BB%B1%20kinh%20doanh,%20%C4%91%E1%BA%A7u%20t%C6%B0/K%E1%BA%BFt%20n%E1%BB%91i%20nhu%20c%E1%BA%A7u/T%C3%ADn%20d%E1%BB%A5ng/S%C3%A0n%20cho%20vay%20ngang%20h%C3%A0ng.md)
 - [Sàn gây quỹ đám đông](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/%C3%9D%20t%C6%B0%E1%BB%9Fng%20ki%E1%BA%BFm%20ti%E1%BB%81n/%C3%9D%20t%C6%B0%E1%BB%9Fng/T%E1%BB%B1%20kinh%20doanh,%20%C4%91%E1%BA%A7u%20t%C6%B0/K%E1%BA%BFt%20n%E1%BB%91i%20nhu%20c%E1%BA%A7u/T%C3%ADn%20d%E1%BB%A5ng/S%C3%A0n%20g%C3%A2y%20qu%E1%BB%B9%20%C4%91%C3%A1m%20%C4%91%C3%B4ng.md)
@@ -128,3 +128,5 @@ Tất cả những cái này là một phần của dự án [Giúp nhau kiếm 
 cần pilot, chỉ xây dựng bộ  khung, chưa có mang tính thực thi  rõ ràng. Muốn trong thời gian  sớm nhất thì xây dựng website  cụ thể hơn. Những dự án tham gia cần có  sự giải trình rõ ràng.
 
 Một người tin vào kỹ năng của một người nhưng không có nghĩa là tin  vào kỹ năng quản trị của họ
+["Crowd trước Fund sau"](https://duocmoi.vn/)
+ là quyển sách đầy đủ nhất Việt Nam về gọi vốn cộng đồng. Không chỉ nói về quá trình gọi vốn cộng đồng, mà còn cả trước và sau, là toàn cảnh của việc vận hành một dự án, từ ý tưởng tới khi kết thúc.

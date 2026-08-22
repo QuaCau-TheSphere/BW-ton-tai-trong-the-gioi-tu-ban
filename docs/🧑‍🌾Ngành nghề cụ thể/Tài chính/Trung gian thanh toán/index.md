@@ -1,6 +1,6 @@
 ---
 share: true
-updated: 2026-07-27T02:22
+updated: 2026-08-18T22:48
 created: 2026-07-14T19:52
 title: Trung gian thanh toán
 ---
@@ -11,13 +11,14 @@ title: Trung gian thanh toán
     - [Smartpay làm ảo tốt hơn. VNPAY làm thiệt tốt hơn](./Ch%C3%ADnh%20s%C3%A1ch%20c%C3%B4ng%20ty/Smartpay%20l%C3%A0m%20%E1%BA%A3o%20t%E1%BB%91t%20h%C6%A1n.%20VNPAY%20l%C3%A0m%20thi%E1%BB%87t%20t%E1%BB%91t%20h%C6%A1n.md)
     - [Sự khác biệt về chính sách mở mới](./Ch%C3%ADnh%20s%C3%A1ch%20c%C3%B4ng%20ty/S%E1%BB%B1%20kh%C3%A1c%20bi%E1%BB%87t%20v%E1%BB%81%20ch%C3%ADnh%20s%C3%A1ch%20m%E1%BB%9F%20m%E1%BB%9Bi.md)
     - [Sự khác biệt đối với người mua và người bán](./Ch%C3%ADnh%20s%C3%A1ch%20c%C3%B4ng%20ty/S%E1%BB%B1%20kh%C3%A1c%20bi%E1%BB%87t%20%C4%91%E1%BB%91i%20v%E1%BB%9Bi%20ng%C6%B0%E1%BB%9Di%20mua%20v%C3%A0%20ng%C6%B0%E1%BB%9Di%20b%C3%A1n.md)
-    - [Các giao dịch dùng qua ví điện tử sẽ trở thành sạch trong mắt ngân hàng](./C%C3%A1c%20giao%20d%E1%BB%8Bch%20d%C3%B9ng%20qua%20v%C3%AD%20%C4%91i%E1%BB%87n%20t%E1%BB%AD%20s%E1%BA%BD%20tr%E1%BB%9F%20th%C3%A0nh%20s%E1%BA%A1ch%20trong%20m%E1%BA%AFt%20ng%C3%A2n%20h%C3%A0ng.md)
     - [Dùng loa thông báo sẽ đỡ phải kiểm tra xem tiền khách chuyển vào có tới được chưa](./D%C3%B9ng%20loa%20th%C3%B4ng%20b%C3%A1o%20s%E1%BA%BD%20%C4%91%E1%BB%A1%20ph%E1%BA%A3i%20ki%E1%BB%83m%20tra%20xem%20ti%E1%BB%81n%20kh%C3%A1ch%20chuy%E1%BB%83n%20v%C3%A0o%20c%C3%B3%20t%E1%BB%9Bi%20%C4%91%C6%B0%E1%BB%A3c%20ch%C6%B0a.md)
-    - [GMV là tổng số tiền cửa hàng bán được trong tháng](./GMV%20l%C3%A0%20t%E1%BB%95ng%20s%E1%BB%91%20ti%E1%BB%81n%20c%E1%BB%ADa%20h%C3%A0ng%20b%C3%A1n%20%C4%91%C6%B0%E1%BB%A3c%20trong%20th%C3%A1ng.md)
+    - [Các giao dịch dùng qua ví điện tử sẽ trở thành sạch trong mắt ngân hàng](./C%C3%A1c%20giao%20d%E1%BB%8Bch%20d%C3%B9ng%20qua%20v%C3%AD%20%C4%91i%E1%BB%87n%20t%E1%BB%AD%20s%E1%BA%BD%20tr%E1%BB%9F%20th%C3%A0nh%20s%E1%BA%A1ch%20trong%20m%E1%BA%AFt%20ng%C3%A2n%20h%C3%A0ng.md)
     - [Muốn được cấp máy POS thì phải có giấy phép kinh doanh](./Mu%E1%BB%91n%20%C4%91%C6%B0%E1%BB%A3c%20c%E1%BA%A5p%20m%C3%A1y%20POS%20th%C3%AC%20ph%E1%BA%A3i%20c%C3%B3%20gi%E1%BA%A5y%20ph%C3%A9p%20kinh%20doanh.md)
     - [QR thì thu ngân dùng là chính. SPOS chủ dùng là chính](./QR%20th%C3%AC%20thu%20ng%C3%A2n%20d%C3%B9ng%20l%C3%A0%20ch%C3%ADnh.%20SPOS%20ch%E1%BB%A7%20d%C3%B9ng%20l%C3%A0%20ch%C3%ADnh.md)
     - [Trung gian thanh toán](index.md)
+    - [Nhiều người sợ trả lại tiền bị chuyển nhầm, vì nếu tài khoản chuyển nhầm và tài khoản trả lại là khác nhau, thì chủ tài khoản chuyển nhầm có thể bị nói là chiếm đoạt tài sản](./Nhi%E1%BB%81u%20ng%C6%B0%E1%BB%9Di%20s%E1%BB%A3%20tr%E1%BA%A3%20l%E1%BA%A1i%20ti%E1%BB%81n%20b%E1%BB%8B%20chuy%E1%BB%83n%20nh%E1%BA%A7m,%20v%C3%AC%20n%E1%BA%BFu%20t%C3%A0i%20kho%E1%BA%A3n%20chuy%E1%BB%83n%20nh%E1%BA%A7m%20v%C3%A0%20t%C3%A0i%20kho%E1%BA%A3n%20tr%E1%BA%A3%20l%E1%BA%A1i%20l%C3%A0%20kh%C3%A1c%20nhau,%20th%C3%AC%20ch%E1%BB%A7%20t%C3%A0i%20kho%E1%BA%A3n%20chuy%E1%BB%83n%20nh%E1%BA%A7m%20c%C3%B3%20th%E1%BB%83%20b%E1%BB%8B%20n%C3%B3i%20l%C3%A0%20chi%E1%BA%BFm%20%C4%91o%E1%BA%A1t%20t%C3%A0i%20s%E1%BA%A3n.md)
     - [Trả tiền bằng mã QR có lợi nếu cần bán tốc độ](./Tr%E1%BA%A3%20ti%E1%BB%81n%20b%E1%BA%B1ng%20m%C3%A3%20QR%20c%C3%B3%20l%E1%BB%A3i%20n%E1%BA%BFu%20c%E1%BA%A7n%20b%C3%A1n%20t%E1%BB%91c%20%C4%91%E1%BB%99.md)
+    - [GMV là tổng số tiền cửa hàng bán được trong tháng](./GMV%20l%C3%A0%20t%E1%BB%95ng%20s%E1%BB%91%20ti%E1%BB%81n%20c%E1%BB%ADa%20h%C3%A0ng%20b%C3%A1n%20%C4%91%C6%B0%E1%BB%A3c%20trong%20th%C3%A1ng.md)
     - [Ở ví trả sau, thuế được trừ tự động mỗi giao dịch. Ở thẻ tín dụng thì cuối tháng mới trừ](./%E1%BB%9E%20v%C3%AD%20tr%E1%BA%A3%20sau,%20thu%E1%BA%BF%20%C4%91%C6%B0%E1%BB%A3c%20tr%E1%BB%AB%20t%E1%BB%B1%20%C4%91%E1%BB%99ng%20m%E1%BB%97i%20giao%20d%E1%BB%8Bch.%20%E1%BB%9E%20th%E1%BA%BB%20t%C3%ADn%20d%E1%BB%A5ng%20th%C3%AC%20cu%E1%BB%91i%20th%C3%A1ng%20m%E1%BB%9Bi%20tr%E1%BB%AB.md)
 
 - Momo: 
@@ -25,9 +26,9 @@ title: Trung gian thanh toán
 
 - Smartpay: 
     - [ASM không có lợi ích gì trong việc phát hiện nhân viên có chạy ảo hay không](./Ch%C3%ADnh%20s%C3%A1ch%20c%C3%B4ng%20ty/Smartpay/ASM,%20RSM/ASM%20kh%C3%B4ng%20c%C3%B3%20l%E1%BB%A3i%20%C3%ADch%20g%C3%AC%20trong%20vi%E1%BB%87c%20ph%C3%A1t%20hi%E1%BB%87n%20nh%C3%A2n%20vi%C3%AAn%20c%C3%B3%20ch%E1%BA%A1y%20%E1%BA%A3o%20hay%20kh%C3%B4ng.md)
+    - [Việc giám sát không trực tiếp đem lại KPI cho ASM](./Ch%C3%ADnh%20s%C3%A1ch%20c%C3%B4ng%20ty/Smartpay/ASM,%20RSM/Vi%E1%BB%87c%20gi%C3%A1m%20s%C3%A1t%20kh%C3%B4ng%20tr%E1%BB%B1c%20ti%E1%BA%BFp%20%C4%91em%20l%E1%BA%A1i%20KPI%20cho%20ASM.md)
     - [ASM, RSM](./Ch%C3%ADnh%20s%C3%A1ch%20c%C3%B4ng%20ty/Smartpay/ASM,%20RSM/index.md)
     - [RSM chỉ gây áp lực mồm cho ASM về việc ngăn nhân viên chạy ảo, chứ không gây áp lực qua KPI](./Ch%C3%ADnh%20s%C3%A1ch%20c%C3%B4ng%20ty/Smartpay/ASM,%20RSM/RSM%20ch%E1%BB%89%20g%C3%A2y%20%C3%A1p%20l%E1%BB%B1c%20m%E1%BB%93m%20cho%20ASM%20v%E1%BB%81%20vi%E1%BB%87c%20ng%C4%83n%20nh%C3%A2n%20vi%C3%AAn%20ch%E1%BA%A1y%20%E1%BA%A3o,%20ch%E1%BB%A9%20kh%C3%B4ng%20g%C3%A2y%20%C3%A1p%20l%E1%BB%B1c%20qua%20KPI.md)
-    - [Việc giám sát không trực tiếp đem lại KPI cho ASM](./Ch%C3%ADnh%20s%C3%A1ch%20c%C3%B4ng%20ty/Smartpay/ASM,%20RSM/Vi%E1%BB%87c%20gi%C3%A1m%20s%C3%A1t%20kh%C3%B4ng%20tr%E1%BB%B1c%20ti%E1%BA%BFp%20%C4%91em%20l%E1%BA%A1i%20KPI%20cho%20ASM.md)
     - [Máy POS của Smartpay quẹt mỗi tháng hơn 30tr thì không mất phí](./Ch%C3%ADnh%20s%C3%A1ch%20c%C3%B4ng%20ty/Smartpay/M%C3%A1y%20POS%20c%E1%BB%A7a%20Smartpay%20qu%E1%BA%B9t%20m%E1%BB%97i%20th%C3%A1ng%20h%C6%A1n%2030tr%20th%C3%AC%20kh%C3%B4ng%20m%E1%BA%A5t%20ph%C3%AD.md)
     - [SmartPay làm nhiều lĩnh vực](./Ch%C3%ADnh%20s%C3%A1ch%20c%C3%B4ng%20ty/Smartpay/SmartPay%20l%C3%A0m%20nhi%E1%BB%81u%20l%C4%A9nh%20v%E1%BB%B1c.md)
 
