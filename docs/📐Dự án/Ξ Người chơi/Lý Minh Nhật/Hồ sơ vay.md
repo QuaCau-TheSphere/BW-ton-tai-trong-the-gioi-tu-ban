@@ -1,11 +1,10 @@
 ---
 share: true
-updated: 2026-08-05T15:35
+updated: 2026-09-16T20:54
 created: 2025-09-18T09:33
-aliases:
-  - Hồ sơ vay của Lý Minh Nhật
+title: Hồ sơ vay của Lý Minh Nhật
 ---
-## Các khoản vay
+## Các khoản vay hiện tại
 | Khoản vay                                                                                               | Hạn mức |
 | ------------------------------------------------------------------------------------------------------- | ------- |
 | [SeaBank GRB Elite](https://www.seabank.com.vn/ca-nhan/the/the-tin-dung-quoc-te/the-tin-dung-brg-elite) | 30tr    |
