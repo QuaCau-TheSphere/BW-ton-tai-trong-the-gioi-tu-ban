@@ -1,7 +1,7 @@
 ---
 share: true
 description: Chuyện gì sẽ xảy ra khi bị liệt là nợ xấu?
-updated: 2026-07-30T16:34
+updated: 2026-09-16T20:32
 aliases:
   - Chuyện gì sẽ xảy ra khi bị liệt là nợ xấu?
   - Lý do không muốn bị mất điểm tín dụng
@@ -125,7 +125,7 @@ Luật không định nghĩa các khái niệm như bùng, quịt, xù, vỡ n�
 
 Đối với những người kích động, xúi giục, chỉ cách lừa đảo hoặc cung cấp những điều kiện cần thiết cho người thực hiện hành vi lừa đảo có thể sẽ bị xử lý hình sự với vai trò đồng phạm.
 
-Xét về mặt rủi ro, bạn không phải là người duy nhất mất khả năng trả nợ. Tùy vào động lực của nhân viên đòi nợ và ngân hàng mà có muốn theo đuổi vụ kiện hay không. Tốt nhất là cứ ra ngân hàng thông báo là mình mất khả năng trả nợ để tránh việc [các quan hệ dân sự có thể bị xem xét và xử lý theo hướng hình sự do thiếu thiếu cơ sở pháp lý cụ thể để nhận diện bản chất hành vi](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%C4%90%E1%BA%A1o%20%C4%91%E1%BB%A9c,%20ph%C3%A1p%20lu%E1%BA%ADt/Lu%E1%BA%ADt%20h%E1%BB%8Dc/H%C3%ACnh%20s%E1%BB%B1/Khi%20thi%E1%BA%BFu%20c%C6%A1%20s%E1%BB%9F%20ph%C3%A1p%20l%C3%BD%20c%E1%BB%A5%20th%E1%BB%83%20%C4%91%E1%BB%83%20nh%E1%BA%ADn%20di%E1%BB%87n%20b%E1%BA%A3n%20ch%E1%BA%A5t%20h%C3%A0nh%20vi,%20c%C3%A1c%20quan%20h%E1%BB%87%20d%C3%A2n%20s%E1%BB%B1%20c%C3%B3%20th%E1%BB%83%20b%E1%BB%8B%20xem%20x%C3%A9t%20v%C3%A0%20x%E1%BB%AD%20l%C3%BD%20theo%20h%C6%B0%E1%BB%9Bng%20h%C3%ACnh%20s%E1%BB%B1.md).
+Xét về mặt rủi ro, bạn không phải là người duy nhất mất khả năng trả nợ. Tùy vào động lực của nhân viên đòi nợ và ngân hàng mà có muốn theo đuổi vụ kiện hay không. Tốt nhất là cứ ra ngân hàng thông báo là mình mất khả năng trả nợ để tránh việc [các quan hệ dân sự có thể bị xem xét và xử lý theo hướng hình sự do thiếu cơ sở pháp lý cụ thể để nhận diện bản chất hành vi](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%C4%90%E1%BA%A1o%20%C4%91%E1%BB%A9c,%20ph%C3%A1p%20lu%E1%BA%ADt/Lu%E1%BA%ADt%20h%E1%BB%8Dc/H%C3%ACnh%20s%E1%BB%B1/Khi%20thi%E1%BA%BFu%20c%C6%A1%20s%E1%BB%9F%20ph%C3%A1p%20l%C3%BD%20c%E1%BB%A5%20th%E1%BB%83%20%C4%91%E1%BB%83%20nh%E1%BA%ADn%20di%E1%BB%87n%20b%E1%BA%A3n%20ch%E1%BA%A5t%20h%C3%A0nh%20vi,%20c%C3%A1c%20quan%20h%E1%BB%87%20d%C3%A2n%20s%E1%BB%B1%20c%C3%B3%20th%E1%BB%83%20b%E1%BB%8B%20xem%20x%C3%A9t%20v%C3%A0%20x%E1%BB%AD%20l%C3%BD%20theo%20h%C6%B0%E1%BB%9Bng%20h%C3%ACnh%20s%E1%BB%B1.md).
 
 ## Nơi thảo luận
 ![](https://imagizer.imageshack.com/a/img923/1273/jQAnX6.png)
