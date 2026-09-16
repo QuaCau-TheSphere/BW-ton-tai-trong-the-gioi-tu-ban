@@ -5,7 +5,7 @@ created: 2025-12-13T12:14
 aliases:
   - gọi vốn tập thể
   - crowdfunding
-updated: 2026-08-20T02:15
+updated: 2026-08-23T14:21
 ---
 [Làm sao để kêu gọi mọi người đầu tư vào mình?](./L%C3%A0m%20sao%20%C4%91%E1%BB%83%20g%E1%BB%8Di%20v%E1%BB%91n.md) Một trong những cách đó là gây quỹ đám đông.
 
@@ -49,7 +49,7 @@ Lòng tham/sự quyết tâm được thúc đẩy bởi các bên liên quan kh
 - Tìm kiếm người khởi tạo đang gặp khó khăn, làm cho sự minh bạch được dễ dàng hơn
 - Xây dựng nền tảng, phương pháp gọi vốn
 - Xây dựng đội ngũ pháp lý 
-- Quản lý vốn, quản lý dòng tiền [Valueflows](../../../%F0%9F%8E%81Ph%C3%A1t%20tri%E1%BB%83n%20b%E1%BB%81n%20v%E1%BB%AFng.%20C%C3%A1c%20n%E1%BB%81n%20kinh%20t%E1%BA%BF%20thay%20th%E1%BA%BF/Gi%E1%BA%A3i%20ph%C3%A1p/Valueflows/index.md)
+- Quản lý vốn, quản lý dòng tiền [Hệ thống thông tin (Valueflows)](../../../%F0%9F%8E%81Ph%C3%A1t%20tri%E1%BB%83n%20b%E1%BB%81n%20v%E1%BB%AFng.%20C%C3%A1c%20n%E1%BB%81n%20kinh%20t%E1%BA%BF%20thay%20th%E1%BA%BF/Gi%E1%BA%A3i%20ph%C3%A1p/H%E1%BB%87%20th%E1%BB%91ng%20th%C3%B4ng%20tin%20(Valueflows)/index.md)
 - Thu hút và kết nối các bên liên quan. [Các buổi gặp mặt giao lưu, mở rộng mối quan hệ](../../M%E1%BB%9F%20r%E1%BB%99ng%20m%E1%BB%91i%20quan%20h%E1%BB%87/index.md). Nhưng lâu dài hơn là xây dựng cộng đồng
 
 ### Nhóm sử dụng, tiêu dùng, tiêu thụ và có lợi ích từ dự án
@@ -117,6 +117,7 @@ Vườn ươm:
 - [Quỹ cho vay](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/%C3%9D%20t%C6%B0%E1%BB%9Fng%20ki%E1%BA%BFm%20ti%E1%BB%81n/%C3%9D%20t%C6%B0%E1%BB%9Fng/T%E1%BB%B1%20kinh%20doanh,%20%C4%91%E1%BA%A7u%20t%C6%B0/K%E1%BA%BFt%20n%E1%BB%91i%20nhu%20c%E1%BA%A7u/T%C3%ADn%20d%E1%BB%A5ng/Qu%E1%BB%B9%20cho%20vay.md)
 - [Cho vay lấy lãi](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/%C3%9D%20t%C6%B0%E1%BB%9Fng%20ki%E1%BA%BFm%20ti%E1%BB%81n/%C3%9D%20t%C6%B0%E1%BB%9Fng/T%E1%BB%B1%20kinh%20doanh,%20%C4%91%E1%BA%A7u%20t%C6%B0/K%E1%BA%BFt%20n%E1%BB%91i%20nhu%20c%E1%BA%A7u/T%C3%ADn%20d%E1%BB%A5ng/Cho%20vay%20l%E1%BA%A5y%20l%C3%A3i.md)
 - [Quỹ đầu tư](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/%C3%9D%20t%C6%B0%E1%BB%9Fng%20ki%E1%BA%BFm%20ti%E1%BB%81n/%C3%9D%20t%C6%B0%E1%BB%9Fng/T%E1%BB%B1%20kinh%20doanh,%20%C4%91%E1%BA%A7u%20t%C6%B0/K%E1%BA%BFt%20n%E1%BB%91i%20nhu%20c%E1%BA%A7u/T%C3%ADn%20d%E1%BB%A5ng/Qu%E1%BB%B9%20%C4%91%E1%BA%A7u%20t%C6%B0.md)
+- [Tư vấn du học](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/%C3%9D%20t%C6%B0%E1%BB%9Fng%20ki%E1%BA%BFm%20ti%E1%BB%81n/%C3%9D%20t%C6%B0%E1%BB%9Fng/T%E1%BB%B1%20kinh%20doanh,%20%C4%91%E1%BA%A7u%20t%C6%B0/K%E1%BA%BFt%20n%E1%BB%91i%20nhu%20c%E1%BA%A7u/T%C3%ADn%20d%E1%BB%A5ng/T%C6%B0%20v%E1%BA%A5n%20du%20h%E1%BB%8Dc.md)
 - [Sàn cho vay ngang hàng](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/%C3%9D%20t%C6%B0%E1%BB%9Fng%20ki%E1%BA%BFm%20ti%E1%BB%81n/%C3%9D%20t%C6%B0%E1%BB%9Fng/T%E1%BB%B1%20kinh%20doanh,%20%C4%91%E1%BA%A7u%20t%C6%B0/K%E1%BA%BFt%20n%E1%BB%91i%20nhu%20c%E1%BA%A7u/T%C3%ADn%20d%E1%BB%A5ng/S%C3%A0n%20cho%20vay%20ngang%20h%C3%A0ng.md)
 - [Sàn gây quỹ đám đông](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/%C3%9D%20t%C6%B0%E1%BB%9Fng%20ki%E1%BA%BFm%20ti%E1%BB%81n/%C3%9D%20t%C6%B0%E1%BB%9Fng/T%E1%BB%B1%20kinh%20doanh,%20%C4%91%E1%BA%A7u%20t%C6%B0/K%E1%BA%BFt%20n%E1%BB%91i%20nhu%20c%E1%BA%A7u/T%C3%ADn%20d%E1%BB%A5ng/S%C3%A0n%20g%C3%A2y%20qu%E1%BB%B9%20%C4%91%C3%A1m%20%C4%91%C3%B4ng.md)
 
