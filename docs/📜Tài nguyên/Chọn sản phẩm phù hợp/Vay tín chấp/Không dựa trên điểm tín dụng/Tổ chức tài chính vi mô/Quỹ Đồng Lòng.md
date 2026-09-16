@@ -1,6 +1,6 @@
 ---
 share: true
-updated: 2026-07-27T02:26
+updated: 2026-09-16T20:28
 created: 2025-12-13T17:58
 ---
 THE LOCAL COMMUNITY FUND MODEL

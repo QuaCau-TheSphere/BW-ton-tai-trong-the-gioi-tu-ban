@@ -1,8 +1,8 @@
 ---
 share: true
-updated: 2026-08-14T13:48
+updated: 2026-09-09T17:33
 description: Thử nghiệm trong việc tư duy lại hệ thống kinh tế và tiền tệ
-created: 2025-08-31T16:59
+created: 2025-08-31T17:13
 aliases:
   - gift bank
   - vcil
@@ -100,3 +100,7 @@ Bất cứ khi nào anh/chị muốn rút tiền từ “ngân hàng" này vui l
 *[https://forms.gle/75zj2sRCkTRPAbcX8](https://forms.gle/75zj2sRCkTRPAbcX8?fbclid=IwZXh0bgNhZW0CMTAAAR2xFkye6mYZwGKdav3kU69XqfbOUQfcxKiKE6gkl0NbYIotmTqe0YN5bTs_aem_JspY-gngi5A1YpK-x7eGHA)*
 
 
+Khái niệm:: 
+[Ngân hàng quà tặng](Ng%C3%A2n%20h%C3%A0ng%20qu%C3%A0%20t%E1%BA%B7ng.md)
+[Tổ chức tài chính vi mô](../../Ch%E1%BB%8Dn%20s%E1%BA%A3n%20ph%E1%BA%A9m%20ph%C3%B9%20h%E1%BB%A3p/Vay%20t%C3%ADn%20ch%E1%BA%A5p/Kh%C3%B4ng%20d%E1%BB%B1a%20tr%C3%AAn%20%C4%91i%E1%BB%83m%20t%C3%ADn%20d%E1%BB%A5ng/T%E1%BB%95%20ch%E1%BB%A9c%20t%C3%A0i%20ch%C3%ADnh%20vi%20m%C3%B4/index.md)
+Nguồn:: 
