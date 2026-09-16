@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-10-22T08:32
-updated: 2026-09-16T21:19
+updated: 2026-09-16T22:19
 aliases:
   - Xây dựng quỹ tín dụng vi mô
   - Giúp nhau thoát nợ
@@ -19,21 +19,21 @@ Ai cũng biết giải pháp cho chuyện này là góp gió thành bão, nhiề
 
 Một giải pháp cho tình trạng này là thành lập một quỹ vi mô với mục đích giúp đỡ nhau hơn là kiếm tiền, nhưng vẫn đem lại lợi ích hợp lý cho người cho vay. Nếu bạn đã từng cho người thân, bạn bè mình vay mượn tài sản hoặc [đứng ra bảo lãnh cho khoản vay của họ, hoặc thay mặt họ vay mượn tiền, tài sản của bạn bè bạn](../C%C3%B4ng%20vi%E1%BB%87c/%C4%90%E1%BB%A9ng%20ra%20b%E1%BA%A3o%20l%C3%A3nh,%20vay%20gi%C3%B9m,%20cho%20m%C6%B0%E1%BB%A3n%20t%C3%A0i%20s%E1%BA%A3n%20th%E1%BA%BF%20ch%E1%BA%A5p.md) và muốn những vấn đề như vậy được giải quyết một cách hiệu quả hơn, bạn có thể cân nhắc tham gia quỹ.
 
-Đây là một phần của việc xây dựng [các hình thức kinh tế thay thế phi tư bản](../../../%F0%9F%8E%81Ph%C3%A1t%20tri%E1%BB%83n%20b%E1%BB%81n%20v%E1%BB%AFng.%20C%C3%A1c%20n%E1%BB%81n%20kinh%20t%E1%BA%BF%20thay%20th%E1%BA%BF/Gi%E1%BA%A3i%20ph%C3%A1p/C%C3%A1c%20n%E1%BB%81n%20kinh%20t%E1%BA%BF%20thay%20th%E1%BA%BF/index.md), thông qua việc xây dựng các sản phẩm [Tài chính vi mô, tài chính thay thế](../../../%F0%9F%8E%81Ph%C3%A1t%20tri%E1%BB%83n%20b%E1%BB%81n%20v%E1%BB%AFng.%20C%C3%A1c%20n%E1%BB%81n%20kinh%20t%E1%BA%BF%20thay%20th%E1%BA%BF/Gi%E1%BA%A3i%20ph%C3%A1p/T%C3%A0i%20ch%C3%ADnh%20vi%20m%C3%B4,%20t%C3%A0i%20ch%C3%ADnh%20thay%20th%E1%BA%BF/index.md). Ở Việt Nam đã có các [Tổ chức tài chính vi mô](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Ch%E1%BB%8Dn%20s%E1%BA%A3n%20ph%E1%BA%A9m%20ph%C3%B9%20h%E1%BB%A3p/Vay%20t%C3%ADn%20ch%E1%BA%A5p/Kh%C3%B4ng%20d%E1%BB%B1a%20tr%C3%AAn%20%C4%91i%E1%BB%83m%20t%C3%ADn%20d%E1%BB%A5ng/T%E1%BB%95%20ch%E1%BB%A9c%20t%C3%A0i%20ch%C3%ADnh%20vi%20m%C3%B4/index.md), tuy nhiên có vẻ chưa có tổ chức nào có độ mở cho những người đóng góp quyết định.
+Đây là một phần của việc xây dựng [các hình thức kinh tế thay thế phi tư bản](../../../%F0%9F%8E%81Ph%C3%A1t%20tri%E1%BB%83n%20b%E1%BB%81n%20v%E1%BB%AFng.%20C%C3%A1c%20n%E1%BB%81n%20kinh%20t%E1%BA%BF%20thay%20th%E1%BA%BF/Gi%E1%BA%A3i%20ph%C3%A1p/C%C3%A1c%20n%E1%BB%81n%20kinh%20t%E1%BA%BF%20thay%20th%E1%BA%BF/index.md), thông qua việc xây dựng các sản phẩm [Tài chính vi mô, tài chính thay thế](../../../%F0%9F%8E%81Ph%C3%A1t%20tri%E1%BB%83n%20b%E1%BB%81n%20v%E1%BB%AFng.%20C%C3%A1c%20n%E1%BB%81n%20kinh%20t%E1%BA%BF%20thay%20th%E1%BA%BF/Gi%E1%BA%A3i%20ph%C3%A1p/T%C3%A0i%20ch%C3%ADnh%20vi%20m%C3%B4,%20t%C3%A0i%20ch%C3%ADnh%20thay%20th%E1%BA%BF/index.md). Ở Việt Nam đã có các [Tổ chức tài chính vi mô](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Ch%E1%BB%8Dn%20s%E1%BA%A3n%20ph%E1%BA%A9m%20ph%C3%B9%20h%E1%BB%A3p/Vay%20t%C3%ADn%20ch%E1%BA%A5p/Kh%C3%B4ng%20d%E1%BB%B1a%20tr%C3%AAn%20%C4%91i%E1%BB%83m%20t%C3%ADn%20d%E1%BB%A5ng/T%E1%BB%95%20ch%E1%BB%A9c%20t%C3%A0i%20ch%C3%ADnh%20vi%20m%C3%B4/index.md), tuy nhiên có vẻ chưa có tổ chức nào cho người góp vốn nhiều quyền quyết định trong việc tham gia của họ, cũng như hướng đến việc liên kết những người cho vay độc lập lại với nhau.
 
 ## Mô hình hoạt động
 ### Thành viên quỹ
 Mọi thành viên của quỹ sẽ được tham gia vào mọi quyết định của quỹ. Cách thức ra quyết định sẽ theo hướng dẫn trong [Sổ tay Enspiral](https://handbook.enspiral.com/agreements/decisions.html).
 
-### Người đóng góp
-Người đóng góp sẽ cùng với các thành viên quỹ thảo luận cách thức tham gia của mình, có thể dưới hình thức mua cổ phiếu hoặc trái phiếu. Đơn giản nhất là như việc gửi tiết kiệm trong ngân hàng. VD:
+### Người góp vốn
+Người góp vốn sẽ cùng với các thành viên quỹ thảo luận cách thức tham gia của mình, có thể dưới hình thức mua cổ phiếu hoặc trái phiếu. Đơn giản nhất là tương tự việc gửi tiết kiệm trong ngân hàng. VD:
 
-|                                     | Lãi suất | Thời gian trả                           |
-| ----------------------------------- | -------- | --------------------------------------- |
-| Cho mượn                            | 0        | ∞                                       |
-| Tương tự gửi tiết kiệm không kỳ hạn | 1%/năm   | Bất kỳ lúc nào (thông báo trước 1 tuần) |
-| Tương tự gửi tiết kiệm              | 10%/năm  | 1 tháng/3 tháng/6 tháng/1 năm           |
-| Tương tự cho vay tín dụng           | 2%/tháng | Hàng tháng                              |
+|                                                         | Lãi suất | Thời gian trả                           |
+| ------------------------------------------------------- | -------- | --------------------------------------- |
+| Cho mượn                                                | 0        | ∞                                       |
+| Tương tự gửi tài khoản ngân hàng/tiết kiệm không kỳ hạn | 1%/năm   | Bất kỳ lúc nào (thông báo trước 1 ngày) |
+| Tương tự gửi tiết kiệm                                  | 10%/năm  | 1 tháng/3 tháng/6 tháng/1 năm           |
+| Tương tự cho vay tín dụng                               | 2%/tháng | Hàng tháng                              |
 
 Ngoài lợi ích về tiền lãi họ có thể đề xuất được đáp ứng các nhu cầu khác. Họ cũng có thể trở thành một thành viên quỹ nếu muốn.
 
@@ -49,7 +49,7 @@ Trong công tác xã hội thì đây được gọi là các nhóm đồng đ�
 Xem thêm:: [Làm sao cho vay mà không bị xù](../T%C3%A0i%20li%E1%BB%87u/L%C3%A0m%20sao%20cho%20vay%20m%C3%A0%20kh%C3%B4ng%20b%E1%BB%8B%20x%C3%B9.md)
 
 ### Hệ thống thông tin
-Quỹ hiện tại đang sử dụng [hledger](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Ch%E1%BB%8Dn%20s%E1%BA%A3n%20ph%E1%BA%A9m%20ph%C3%B9%20h%E1%BB%A3p/Ch%C6%B0%C6%A1ng%20tr%C3%ACnh%20qu%E1%BA%A3n%20l%C3%BD%20ti%E1%BB%81n/5%20T%C3%AAn%20ch%C6%B0%C6%A1ng%20tr%C3%ACnh/K%E1%BA%BF%20to%C3%A1n/hledger/Kinh%20nghi%E1%BB%87m%20d%C3%B9ng%20hledger.md), một [chương trình kế toán chữ trơn](https://plaintextaccounting.org/What-is-Plain-Text-Accounting) để quản lý dòng tiền, nhưng có thể sẽ cần xây dựng hệ thống riêng. Để đảm bảo tính toàn vẹn và minh bạch của thông tin, quỹ sử dụng [git](https://obsidian.quảcầu.cc/📜Tài%20nguyên/Giải%20pháp%20kỹ%20thuật/Học%20Git?utm_source=Vault+B+Tồn+tại+trong+thế+giới+tư+bản+(Dự+án)&utm_medium=Vault&utm_campaign=C1&utm_content=📐Dự+án%2FGiúp+nhau+thoát+nợ%2FQuỹ%2FNgân+hàng+mini+và+mạng+lưới+cho+vay+ngang+hàng.md&utm_term=), một chương trình quản lý phiên bản. Trong tương lai sẽ hướng đến việc sử dụng giao thức Các Tín dụng Chung ([Credit Commons protocol](https://creditcommons.net/)) cho việc kết nối, liên minh giữa các quỹ. Xa hơn nữa là sử dụng mô hình biểu diễn dữ liệu (ontology) [Valeflows](../../../%F0%9F%8E%81Ph%C3%A1t%20tri%E1%BB%83n%20b%E1%BB%81n%20v%E1%BB%AFng.%20C%C3%A1c%20n%E1%BB%81n%20kinh%20t%E1%BA%BF%20thay%20th%E1%BA%BF/Gi%E1%BA%A3i%20ph%C3%A1p/H%E1%BB%87%20th%E1%BB%91ng%20th%C3%B4ng%20tin%20(Valueflows)/index.md) thay vì bút toán kép như hiện tại.
+Quỹ hiện tại đang sử dụng [hledger](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Ch%E1%BB%8Dn%20s%E1%BA%A3n%20ph%E1%BA%A9m%20ph%C3%B9%20h%E1%BB%A3p/Ch%C6%B0%C6%A1ng%20tr%C3%ACnh%20qu%E1%BA%A3n%20l%C3%BD%20ti%E1%BB%81n/5%20T%C3%AAn%20ch%C6%B0%C6%A1ng%20tr%C3%ACnh/K%E1%BA%BF%20to%C3%A1n/hledger/Kinh%20nghi%E1%BB%87m%20d%C3%B9ng%20hledger.md), một [chương trình kế toán dùng định dạng đơn giản](https://plaintextaccounting.org/What-is-Plain-Text-Accounting) để quản lý dòng tiền, nhưng có thể sẽ cần xây dựng hệ thống riêng. Để đảm bảo tính toàn vẹn và minh bạch của thông tin, quỹ sử dụng [git](https://obsidian.quảcầu.cc/📜Tài%20nguyên/Giải%20pháp%20kỹ%20thuật/Học%20Git?utm_source=Vault+B+Tồn+tại+trong+thế+giới+tư+bản+(Dự+án)&utm_medium=Vault&utm_campaign=C1&utm_content=📐Dự+án%2FGiúp+nhau+thoát+nợ%2FQuỹ%2FNgân+hàng+mini+và+mạng+lưới+cho+vay+ngang+hàng.md&utm_term=), một chương trình quản lý phiên bản. Trong tương lai sẽ hướng đến việc sử dụng giao thức Các Tín dụng Chung ([Credit Commons protocol](https://creditcommons.net/)) cho việc kết nối, liên minh giữa các quỹ. Xa hơn nữa là sử dụng mô hình biểu diễn dữ liệu (ontology) [Valeflows](../../../%F0%9F%8E%81Ph%C3%A1t%20tri%E1%BB%83n%20b%E1%BB%81n%20v%E1%BB%AFng.%20C%C3%A1c%20n%E1%BB%81n%20kinh%20t%E1%BA%BF%20thay%20th%E1%BA%BF/Gi%E1%BA%A3i%20ph%C3%A1p/H%E1%BB%87%20th%E1%BB%91ng%20th%C3%B4ng%20tin%20(Valueflows)/index.md) thay vì bút toán kép như hiện tại.
 
 Xem thêm:: [Danh mục tài khoản và ý nghĩa bảng cân đối của quỹ](./Danh%20m%E1%BB%A5c%20t%C3%A0i%20kho%E1%BA%A3n%20v%C3%A0%20%C3%BD%20ngh%C4%A9a%20b%E1%BA%A3ng%20c%C3%A2n%20%C4%91%E1%BB%91i%20c%E1%BB%A7a%20qu%E1%BB%B9.md)
 
@@ -78,7 +78,7 @@ Dòng tiền cụ thể nửa cuối năm 2025. Đơn vị: 1,000 đ:
 Xem cụ thể tại [Nhật](../../%CE%9E%20Ng%C6%B0%E1%BB%9Di%20ch%C6%A1i/L%C3%BD%20Minh%20Nh%E1%BA%ADt/C%C3%A1c%20kho%E1%BA%A3n%20t%C3%A0i%20s%E1%BA%A3n%20v%C3%A0%20kho%E1%BA%A3n%20n%E1%BB%A3%20Nh%E1%BA%ADt%20%C4%91%E1%BB%A9ng%20t%C3%AAn%20(phi%C3%AAn%20b%E1%BA%A3n%20cho%20b%E1%BA%A1n%20b%C3%A8).md)
 
 ### Nhu cầu của những người vay hiện tại
-Trong 6 tháng tiếp theo mỗi tháng vẫn tiếp tục cho vay tiếp 15tr, với mục tiêu giữ điểm tín dụng cho những người vay. Giả sử mỗi người đóng góp 1tr thì mỗi tháng cần 15 người tham gia. Mời bạn đề xuất khoản cho vay bạn thấy phù hợp và an toàn với bạn.
+Trong 6 tháng tiếp theo mỗi tháng vẫn tiếp tục cho vay tiếp 15tr, với mục tiêu giữ điểm tín dụng cho những người vay. Giả sử mỗi người góp vốn 1tr thì mỗi tháng cần 15 người tham gia. Mời bạn đề xuất khoản cho vay bạn thấy phù hợp và an toàn với bạn.
 
 Tham khảo [đề xuất vay nợ của một bạn](../Ng%C6%B0%E1%BB%9Di%20th%E1%BB%A5%20h%C6%B0%E1%BB%9Fng/Nguy%E1%BB%85n%20H%E1%BB%AFu%20L%E1%BB%99c/%C4%90%E1%BB%81%20xu%E1%BA%A5t%20vay%20n%E1%BB%A3.md) để hiểu thêm.
 
@@ -99,14 +99,15 @@ Tham khảo [đề xuất vay nợ của một bạn](../Ng%C6%B0%E1%BB%9Di%20th
 - Kết nối trực tiếp giữa người vay và người cho vay. Nếu người vay xù thì quỹ không phải trả cho người cho vay. Hình thức này không khác gì một sàn cho vay ngang hàng
 
 ## Nguồn lực cần có
-- Vốn: để cho vay và trả công cho người nhân sự
-- Nhân sự: kế toán, pháp lý, truyền thông
+- Vốn: cho vay, trả công cho người nhân sự
+- Nhân sự: kế toán, pháp lý, quan hệ công chúng
 
-## Đo lường
-Mỗi tháng có thêm 15tr
-→ Mỗi tháng 15 người mới tham gia 1tr
-→ Mỗi tháng 150 người mới biết về dự án
+## Mục tiêu đo lường được
+Mỗi tháng có thêm 1 người góp vốn
 
 ## Nơi thảo luận
+[![](https://i.vgy.me/yDZqby.png)](https://discord.com/channels/898550123007709204/1512100659992727725)
+
+
 ![](https://i.imgur.com/RNcEBe4.png)
 ![](https://imagizer.imageshack.com/a/img923/1273/jQAnX6.png)
