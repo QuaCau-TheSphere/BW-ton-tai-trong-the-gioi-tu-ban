@@ -1,6 +1,6 @@
 ---
 share: true
-updated: 2026-07-27T15:52
+updated: 2026-09-18T16:10
 created: 2026-06-05T16:38
 ---
 
@@ -46,8 +46,9 @@ Tài nguyên, vật dụng cần có sẵn::
 Các hình thức huy động vốn tương tự, có thể kết hợp làm chung:
 - [Cho vay lấy lãi](./Cho%20vay%20l%E1%BA%A5y%20l%C3%A3i.md)
 - [Quỹ đầu tư](./Qu%E1%BB%B9%20%C4%91%E1%BA%A7u%20t%C6%B0.md)
-- [Sàn cho vay ngang hàng](./S%C3%A0n%20cho%20vay%20ngang%20h%C3%A0ng.md)
 - [Sàn gây quỹ đám đông](./S%C3%A0n%20g%C3%A2y%20qu%E1%BB%B9%20%C4%91%C3%A1m%20%C4%91%C3%B4ng.md)
+- [Tư vấn du học](./T%C6%B0%20v%E1%BA%A5n%20du%20h%E1%BB%8Dc.md)
+- [Sàn cho vay ngang hàng](./S%C3%A0n%20cho%20vay%20ngang%20h%C3%A0ng.md)
 
 
 Tất cả những cái này là một phần của dự án [Giúp nhau kiếm tiền](../../../../../../%F0%9F%93%90D%E1%BB%B1%20%C3%A1n/Gi%C3%BAp%20nhau%20ki%E1%BA%BFm%20ti%E1%BB%81n/index.md).
