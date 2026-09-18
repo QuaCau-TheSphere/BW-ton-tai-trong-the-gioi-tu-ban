@@ -1,6 +1,6 @@
 ---
 share: true
-updated: 2026-09-09T17:33
+updated: 2026-09-16T23:09
 aliases:
   - quỹ tín dụng vi mô
 description: Dịch vụ cho vay vì người yếu thế
@@ -25,3 +25,4 @@ Các quỹ phù hợp cho người ở thành thị:
 
 [Các hình thức tổ chức cho vay](../../../../../%F0%9F%A7%91%E2%80%8D%F0%9F%8C%BENg%C3%A0nh%20ngh%E1%BB%81%20c%E1%BB%A5%20th%E1%BB%83/T%C3%A0i%20ch%C3%ADnh/T%C3%ADn%20d%E1%BB%A5ng/T%C3%ADn%20d%E1%BB%A5ng%20t%C6%B0%20b%E1%BA%A3n/Vay%20n%E1%BB%A3/C%C3%A1c%20h%C3%ACnh%20th%E1%BB%A9c%20t%E1%BB%95%20ch%E1%BB%A9c%20cho%20vay.md)
 [Quỹ tín dụng nhân dân](../Qu%E1%BB%B9%20t%C3%ADn%20d%E1%BB%A5ng%20nh%C3%A2n%20d%C3%A2n/index.md)
+[Tài chính vi mô, tài chính thay thế](../../../../../%F0%9F%8E%81Ph%C3%A1t%20tri%E1%BB%83n%20b%E1%BB%81n%20v%E1%BB%AFng.%20C%C3%A1c%20n%E1%BB%81n%20kinh%20t%E1%BA%BF%20thay%20th%E1%BA%BF/Gi%E1%BA%A3i%20ph%C3%A1p/T%C3%A0i%20ch%C3%ADnh%20vi%20m%C3%B4,%20t%C3%A0i%20ch%C3%ADnh%20thay%20th%E1%BA%BF/index.md)
