@@ -1,8 +1,8 @@
 ---
 share: true
-updated: 2026-07-27T02:26
+updated: 2026-09-18T21:56
 created: 2025-09-08T18:09
 ---
-Khái niệm:: [Thuế](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Ki%E1%BA%BFm%20ti%E1%BB%81n/Thu%E1%BA%BF.md), [Độ co dãn](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Kinh%20t%E1%BA%BF%20h%E1%BB%8Dc/%C4%90%E1%BB%99%20co%20d%C3%A3n.md)
+Khái niệm:: 
 
 Nguồn:: [Lịch sử Kinh tế học (2): Cuộc Cách mạng cận biên và kinh tế học tân cổ điển](https://vhlinh.substack.com/p/lich-su-kinh-te-hoc-2-cuoc-cach-mang)
