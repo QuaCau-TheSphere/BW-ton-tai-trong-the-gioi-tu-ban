@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-01-01T12:22
-updated: 2026-08-05T16:42
+updated: 2026-09-21T18:48
 aliases:
   - Không có bữa ăn miễn phí
 ---
@@ -14,3 +14,4 @@ aliases:
 
 
 [Không bao giờ cho không thứ gì](../../Gi%C3%BAp%20%C4%91%E1%BB%A1/Kh%C3%B4ng%20bao%20gi%E1%BB%9D%20cho%20kh%C3%B4ng%20th%E1%BB%A9%20g%C3%AC.md)
+[Của cho là của nợ](./C%E1%BB%A7a%20cho%20l%C3%A0%20c%E1%BB%A7a%20n%E1%BB%A3.md)
