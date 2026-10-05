@@ -1,9 +1,9 @@
 ---
 share: true
 created: 2025-05-16T21:38
-updated: 2026-07-27T02:26
+updated: 2026-09-18T21:55
 ---
-Khái niệm:: [Thuế](./index.md)
+Khái niệm:: [Thuế Việt Nam](../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Ki%E1%BA%BFm%20ti%E1%BB%81n/Thu%E1%BA%BF%20Vi%E1%BB%87t%20Nam.md)
 Thuế TNCN khác hoàn toàn so với Thuế VAT. Để dễ hiểu thì có thể giải thích như sau:
 
 - Thuế TNCN là 10% giá trị HD đã bao gồm thuế.
