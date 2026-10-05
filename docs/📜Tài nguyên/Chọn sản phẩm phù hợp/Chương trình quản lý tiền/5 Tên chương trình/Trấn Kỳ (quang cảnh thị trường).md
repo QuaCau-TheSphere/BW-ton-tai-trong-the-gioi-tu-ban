@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2026-07-27T02:26
+updated: 2026-10-05T19:46
 ---
 Tính năng:: [Nhập liệu được trên Google Keep](../3%20T%C3%ADnh%20n%C4%83ng/C%C3%A1ch%20nh%E1%BA%ADp%20li%E1%BB%87u/Nh%E1%BA%ADp%20li%E1%BB%87u%20%C4%91%C6%B0%E1%BB%A3c%20tr%C3%AAn%20Google%20Keep.md)
 Tính năng:: [Nhập liệu được bằng file text](../3%20T%C3%ADnh%20n%C4%83ng/C%C3%A1ch%20nh%E1%BA%ADp%20li%E1%BB%87u/Nh%E1%BA%ADp%20li%E1%BB%87u%20%C4%91%C6%B0%E1%BB%A3c%20b%E1%BA%B1ng%20file%20text.md)
@@ -24,7 +24,7 @@ Tính năng:: [Là phần mềm tự do](../3%20T%C3%ADnh%20n%C4%83ng/Kh%C3%A1c/
 
 Loại chương trình: [Chương trình phân loại dữ liệu tự động](../4%20Lo%E1%BA%A1i%20ch%C6%B0%C6%A1ng%20tr%C3%ACnh/Ch%C6%B0%C6%A1ng%20tr%C3%ACnh%20ph%C3%A2n%20lo%E1%BA%A1i%20d%E1%BB%AF%20li%E1%BB%87u%20t%E1%BB%B1%20%C4%91%E1%BB%99ng.md)
 
-Làm sao để đưa VNPAY vào luồng hoạt động của cửa hàng?: https://doi-thoai.deno.dev/VNPAY.discordQC#c2.1
+Làm sao để đưa VNPAY vào luồng hoạt động của cửa hàng?
 
 Xem thêm:: [Trấn Kỳ](../../../../%F0%9F%93%90D%E1%BB%B1%20%C3%A1n/T%E1%BB%B1%20%C4%91%E1%BB%99ng%20ho%C3%A1/Tr%E1%BA%A5n%20K%E1%BB%B3/index.md)
 
