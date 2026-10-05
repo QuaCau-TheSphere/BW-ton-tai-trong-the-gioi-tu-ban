@@ -1,0 +1,17 @@
+---
+share: true
+updated: 2026-09-18T21:30
+created: 2025-10-02T13:49
+---
+- Tài chính: 
+    - [Tại sao doanh nghiệp khi mua bảo hiểm nhân thọ cho nhân viên lại không bị tính vào thuế thu nhập doanh nghiệp](../../../%F0%9F%A7%91%E2%80%8D%F0%9F%8C%BENg%C3%A0nh%20ngh%E1%BB%81%20c%E1%BB%A5%20th%E1%BB%83/T%C3%A0i%20ch%C3%ADnh/B%E1%BA%A3o%20hi%E1%BB%83m/Lu%E1%BA%ADt/T%E1%BA%A1i%20sao%20doanh%20nghi%E1%BB%87p%20khi%20mua%20b%E1%BA%A3o%20hi%E1%BB%83m%20nh%C3%A2n%20th%E1%BB%8D%20cho%20nh%C3%A2n%20vi%C3%AAn%20l%E1%BA%A1i%20kh%C3%B4ng%20b%E1%BB%8B%20t%C3%ADnh%20v%C3%A0o%20thu%E1%BA%BF%20thu%20nh%E1%BA%ADp%20doanh%20nghi%E1%BB%87p.md)
+    - [Ở ví trả sau, thuế được trừ tự động mỗi giao dịch. Ở thẻ tín dụng thì cuối tháng mới trừ](../../../%F0%9F%A7%91%E2%80%8D%F0%9F%8C%BENg%C3%A0nh%20ngh%E1%BB%81%20c%E1%BB%A5%20th%E1%BB%83/T%C3%A0i%20ch%C3%ADnh/Trung%20gian%20thanh%20to%C3%A1n/%E1%BB%9E%20v%C3%AD%20tr%E1%BA%A3%20sau,%20thu%E1%BA%BF%20%C4%91%C6%B0%E1%BB%A3c%20tr%E1%BB%AB%20t%E1%BB%B1%20%C4%91%E1%BB%99ng%20m%E1%BB%97i%20giao%20d%E1%BB%8Bch.%20%E1%BB%9E%20th%E1%BA%BB%20t%C3%ADn%20d%E1%BB%A5ng%20th%C3%AC%20cu%E1%BB%91i%20th%C3%A1ng%20m%E1%BB%9Bi%20tr%E1%BB%AB.md)
+
+- Thuế: 
+    - [Doanh thu dưới 3 tỷ thì tính thuế theo doanh thu, trên 3 tỷ thì tính theo lợi nhuận](../../../%F0%9F%8F%A2V%E1%BA%ADn%20h%C3%A0nh%20doanh%20nghi%E1%BB%87p/Thu%E1%BA%BF/Doanh%20thu%20d%C6%B0%E1%BB%9Bi%203%20t%E1%BB%B7%20th%C3%AC%20t%C3%ADnh%20thu%E1%BA%BF%20theo%20doanh%20thu,%20tr%C3%AAn%203%20t%E1%BB%B7%20th%C3%AC%20t%C3%ADnh%20theo%20l%E1%BB%A3i%20nhu%E1%BA%ADn.md)
+    - [Muốn chi phí được trừ khi tính thuế thì phải là thanh toán không tiền mặt, trừ những khoản chi đặc thù](../../../%F0%9F%8F%A2V%E1%BA%ADn%20h%C3%A0nh%20doanh%20nghi%E1%BB%87p/Thu%E1%BA%BF/Mu%E1%BB%91n%20chi%20ph%C3%AD%20%C4%91%C6%B0%E1%BB%A3c%20tr%E1%BB%AB%20khi%20t%C3%ADnh%20thu%E1%BA%BF%20th%C3%AC%20ph%E1%BA%A3i%20l%C3%A0%20thanh%20to%C3%A1n%20kh%C3%B4ng%20ti%E1%BB%81n%20m%E1%BA%B7t,%20tr%E1%BB%AB%20nh%E1%BB%AFng%20kho%E1%BA%A3n%20chi%20%C4%91%E1%BA%B7c%20th%C3%B9.md)
+    - [Thuế TNCN là 10% giá trị HD đã bao gồm thuế. Thuế VAT là 10% trên phần giá trị hợp đồng trước thuế](../../../%F0%9F%8F%A2V%E1%BA%ADn%20h%C3%A0nh%20doanh%20nghi%E1%BB%87p/Thu%E1%BA%BF/Thu%E1%BA%BF%20TNCN%20l%C3%A0%2010%25%20gi%C3%A1%20tr%E1%BB%8B%20HD%20%C4%91%C3%A3%20bao%20g%E1%BB%93m%20thu%E1%BA%BF.%20Thu%E1%BA%BF%20VAT%20l%C3%A0%2010%25%20tr%C3%AAn%20ph%E1%BA%A7n%20gi%C3%A1%20tr%E1%BB%8B%20h%E1%BB%A3p%20%C4%91%E1%BB%93ng%20tr%C6%B0%E1%BB%9Bc%20thu%E1%BA%BF.md)
+    - [Thời điểm xuất hóa đơn là thời điểm hoàn thành việc cung cấp dịch vụ, không phân biệt đã thu được tiền hay chưa thu được tiền](../../../%F0%9F%8F%A2V%E1%BA%ADn%20h%C3%A0nh%20doanh%20nghi%E1%BB%87p/Thu%E1%BA%BF/Th%E1%BB%9Di%20%C4%91i%E1%BB%83m%20xu%E1%BA%A5t%20h%C3%B3a%20%C4%91%C6%A1n%20l%C3%A0%20th%E1%BB%9Di%20%C4%91i%E1%BB%83m%20ho%C3%A0n%20th%C3%A0nh%20vi%E1%BB%87c%20cung%20c%E1%BA%A5p%20d%E1%BB%8Bch%20v%E1%BB%A5,%20kh%C3%B4ng%20ph%C3%A2n%20bi%E1%BB%87t%20%C4%91%C3%A3%20thu%20%C4%91%C6%B0%E1%BB%A3c%20ti%E1%BB%81n%20hay%20ch%C6%B0a%20thu%20%C4%91%C6%B0%E1%BB%A3c%20ti%E1%BB%81n.md)
+    - [Các loại chuyển khoản không phải nộp thuế thu nhập cá nhân](../../../%F0%9F%8F%A2V%E1%BA%ADn%20h%C3%A0nh%20doanh%20nghi%E1%BB%87p/Thu%E1%BA%BF/Thu%20nh%E1%BA%ADp%20c%C3%A1%20nh%C3%A2n/C%C3%A1c%20lo%E1%BA%A1i%20chuy%E1%BB%83n%20kho%E1%BA%A3n%20kh%C3%B4ng%20ph%E1%BA%A3i%20n%E1%BB%99p%20thu%E1%BA%BF%20thu%20nh%E1%BA%ADp%20c%C3%A1%20nh%C3%A2n.md)
+
+

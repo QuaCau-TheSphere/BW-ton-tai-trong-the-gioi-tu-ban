@@ -1,9 +1,11 @@
 ---
 share: true
-updated: 2026-07-27T02:26
+updated: 2026-09-26T16:16
 created: 2025-12-20T15:28
 ---
 Khái niệm:: [Tài sản vô hình](../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Kinh%20t%E1%BA%BF%20h%E1%BB%8Dc/T%C3%A0i%20s%E1%BA%A3n%20v%C3%B4%20h%C3%ACnh.md), [Chi phí biên](../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Kinh%20t%E1%BA%BF%20h%E1%BB%8Dc/Chi%20ph%C3%AD%20bi%C3%AAn.md)
 [❓Những thứ có chi phí biên gần như bằng 0 tạo ra dòng tiền](./%E2%9D%93Nh%E1%BB%AFng%20th%E1%BB%A9%20c%C3%B3%20chi%20ph%C3%AD%20bi%C3%AAn%20g%E1%BA%A7n%20nh%C6%B0%20b%E1%BA%B1ng%200%20t%E1%BA%A1o%20ra%20d%C3%B2ng%20ti%E1%BB%81n.md)
 [Công ty hết tiền thì chết. Cộng đồng chỉ chết khi không còn cùng niềm tin](../../%F0%9F%8E%81Ph%C3%A1t%20tri%E1%BB%83n%20b%E1%BB%81n%20v%E1%BB%AFng.%20C%C3%A1c%20n%E1%BB%81n%20kinh%20t%E1%BA%BF%20thay%20th%E1%BA%BF/C%C3%B4ng%20ty%20h%E1%BA%BFt%20ti%E1%BB%81n%20th%C3%AC%20ch%E1%BA%BFt.%20C%E1%BB%99ng%20%C4%91%E1%BB%93ng%20ch%E1%BB%89%20ch%E1%BA%BFt%20khi%20kh%C3%B4ng%20c%C3%B2n%20c%C3%B9ng%20ni%E1%BB%81m%20tin.md)
 Nguồn:: 
+
+[Tài sản vô hình nói chung là không nhất thiết phải chịu đựng những thất bại điển hình của thị trường là không cạnh tranh và không thể loại trừ](./T%C3%A0i%20s%E1%BA%A3n%20v%C3%B4%20h%C3%ACnh%20n%C3%B3i%20chung%20l%C3%A0%20kh%C3%B4ng%20nh%E1%BA%A5t%20thi%E1%BA%BFt%20ph%E1%BA%A3i%20ch%E1%BB%8Bu%20%C4%91%E1%BB%B1ng%20nh%E1%BB%AFng%20th%E1%BA%A5t%20b%E1%BA%A1i%20%C4%91i%E1%BB%83n%20h%C3%ACnh%20c%E1%BB%A7a%20th%E1%BB%8B%20tr%C6%B0%E1%BB%9Dng%20l%C3%A0%20kh%C3%B4ng%20c%E1%BA%A1nh%20tranh%20v%C3%A0%20kh%C3%B4ng%20th%E1%BB%83%20lo%E1%BA%A1i%20tr%E1%BB%AB.md)

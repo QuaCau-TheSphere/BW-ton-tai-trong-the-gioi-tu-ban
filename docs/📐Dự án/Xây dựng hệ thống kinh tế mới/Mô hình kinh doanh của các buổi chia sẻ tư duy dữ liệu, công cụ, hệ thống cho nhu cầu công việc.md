@@ -2,7 +2,7 @@
 share: true
 blog: done
 created: 2023-09-05T16:17
-updated: 2026-09-18T18:19
+updated: 2026-09-21T23:12
 aliases:
   - Khi nào thì chiến lược định giá "trả tuỳ tâm" đạt được sự bền vững?
   - Mô hình kinh doanh của các buổi đáp ứng nhu cầu học cách sử dụng công cụ và tư duy lập trình
@@ -16,7 +16,7 @@ Theo quyển [Smart Pricing: How Google, Priceline, and Leading Businesses Use P
 4. Người mua và người bán có mối quan hệ tốt
 5. Thị trường rất cạnh tranh
 
-## [Các buổi chia sẻ tư duy dữ liệu, công cụ, hệ thống cho nhu cầu công việc](../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/%C3%9D%20t%C6%B0%E1%BB%9Fng%20ki%E1%BA%BFm%20ti%E1%BB%81n/%C3%9D%20t%C6%B0%E1%BB%9Fng/T%E1%BB%B1%20kinh%20doanh,%20%C4%91%E1%BA%A7u%20t%C6%B0/H%E1%BB%8Dc%20t%E1%BA%ADp,%20ph%C3%A1t%20tri%E1%BB%83n%20b%E1%BA%A3n%20th%C3%A2n/C%C3%A1c%20bu%E1%BB%95i%20chia%20s%E1%BA%BB%20t%C6%B0%20duy%20d%E1%BB%AF%20li%E1%BB%87u,%20c%C3%B4ng%20c%E1%BB%A5,%20h%E1%BB%87%20th%E1%BB%91ng%20cho%20nhu%20c%E1%BA%A7u%20c%C3%B4ng%20vi%E1%BB%87c.md) đáp ứng các đặc điểm này thế nào?
+## [Các buổi thảo luận, đáp ứng nhu cầu công việc, nhu cầu công nghệ](../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/%C3%9D%20t%C6%B0%E1%BB%9Fng%20ki%E1%BA%BFm%20ti%E1%BB%81n/%C3%9D%20t%C6%B0%E1%BB%9Fng/T%E1%BB%B1%20kinh%20doanh,%20%C4%91%E1%BA%A7u%20t%C6%B0/H%E1%BB%8Dc%20t%E1%BA%ADp,%20ph%C3%A1t%20tri%E1%BB%83n%20b%E1%BA%A3n%20th%C3%A2n/C%C3%A1c%20bu%E1%BB%95i%20th%E1%BA%A3o%20lu%E1%BA%ADn,%20%C4%91%C3%A1p%20%E1%BB%A9ng%20nhu%20c%E1%BA%A7u%20c%C3%B4ng%20vi%E1%BB%87c,%20nhu%20c%E1%BA%A7u%20c%C3%B4ng%20ngh%E1%BB%87.md) đáp ứng các đặc điểm này thế nào?
 ### Chi phí biên thấp
 Chi phí biên là chi phí để sản xuất thêm một sản phẩm. Do ta không thể sản xuất đại trà các buổi này như nhà máy làm hàng loạt sản phẩm nên chắc chắn chi phí biên không thấp rồi. Nhưng nó cũng không quá cao như là bán xe. Hơn nữa việc làm việc trực tiếp cũng là cần thiết cho việc phỏng vấn, nên chắc cũng không gọi là cao.
 
@@ -45,7 +45,7 @@ Việc tạo thiện cảm cho khách hàng làm họ tự động muốn họ t
 
  Điểm: 7/10
  
-### Thị trường rất cạnh tranh                                                             
+### Thị trường rất cạnh tranh         
 Đã có hằng hà sa số khoá học lập trình rồi, cả miễn phí lẫn có phí, online lẫn offline, tiếng Việt lẫn tiếng Anh. Việc dùng mô hình này khiến ta không phải cạnh tranh về giá với các khoá học đó. 
 
 Điểm: 7/10
@@ -80,3 +80,8 @@ Không thể kết luận được gì, nhưng có thể dùng cho việc làm c
 
 [Trực giác là việc nhìn ra mẫu hình không hơn không kém](Tr%E1%BB%B1c%20gi%C3%A1c%20l%C3%A0%20vi%E1%BB%87c%20nh%C3%ACn%20ra%20m%E1%BA%ABu%20h%C3%ACnh%20kh%C3%B4ng%20h%C6%A1n%20kh%C3%B4ng%20k%C3%A9m.md)
 [Sự chuyên gia đến từ việc nhìn ra mẫu hình](S%E1%BB%B1%20chuy%C3%AAn%20gia%20%C4%91%E1%BA%BFn%20t%E1%BB%AB%20vi%E1%BB%87c%20nh%C3%ACn%20ra%20m%E1%BA%ABu%20h%C3%ACnh.md)
+
+- Muốn ưu tiên những người khó khăn về tiền bạc
+- Muốn cho 
+- Muốn tập trung việc đem lại thứ tốt nhất mà họ cần mà mình biết đến cho họ, ko phải để chọn giải pháp dễ. Có những chướng ngại họ cần vượt qua, và mình ngồi đó để sự vượt qua dễ dàng hơn
+- được ở bên cạnh bạn là đã đủ rồi

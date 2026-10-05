@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2026-07-27T02:26
+updated: 2026-10-02T13:59
 aliases:
   - Trục lợi bọn trục lợi
 ---
@@ -20,12 +20,12 @@ Với khách hàng US/UK thì tụi nó mồi tới 50-70$ mỗi lần. Và than
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6nfGwSw-I14?si=kSwo_qgduxYViw0h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 ## Mô tả chi tiết
 ## Thông tin thêm
-[Lừa đảo](../../../../%F0%9F%92%B8H%C3%ACnh%20th%E1%BB%A9c%20ki%E1%BA%BFm%20ti%E1%BB%81n/Thi%E1%BA%BFu%20li%C3%AAm%20ch%C3%ADnh.%20Ph%E1%BA%A1m%20ph%C3%A1p/C%C3%A1ch%20th%E1%BB%B1c%20hi%E1%BB%87n/L%E1%BB%ABa%20%C4%91%E1%BA%A3o/index.md)
+[Lừa đảo](../../../../%F0%9F%92%B8H%C3%ACnh%20th%E1%BB%A9c%20ki%E1%BA%BFm%20ti%E1%BB%81n/Thi%E1%BA%BFu%20li%C3%AAm%20ch%C3%ADnh.%20Ph%E1%BA%A1m%20ph%C3%A1p/M%E1%BA%B7t%20kh%C3%A1ch%20quan/C%C3%A1ch%20th%E1%BB%B1c%20hi%E1%BB%87n/L%E1%BB%ABa%20%C4%91%E1%BA%A3o/index.md)
 
 ### Vấn đề đạo đức
 Đây là số tiền mà họ đi lừa người khác để có được. Có hợp lẽ nếu mình sử dụng số tiền đó để giúp người khác? Về mặt luật pháp thì chắc vẫn còn cần thêm bằng chứng để có thể nói là mình không rửa tiền, nhưng ở đây chỉ bàn về đạo đức.
 
-Xem thêm:: [Vấn đề đạo đức khi làm ảo](../../../../%F0%9F%92%B8H%C3%ACnh%20th%E1%BB%A9c%20ki%E1%BA%BFm%20ti%E1%BB%81n/Thi%E1%BA%BFu%20li%C3%AAm%20ch%C3%ADnh.%20Ph%E1%BA%A1m%20ph%C3%A1p/Nguy%C3%AAn%20l%C3%BD,%20b%E1%BA%A3n%20ch%E1%BA%A5t%20h%C3%A0nh%20vi/T%E1%BA%A1o%20s%E1%BB%B1%20hi%E1%BB%83u%20nh%E1%BA%A7m.%20L%C3%A1ch%20ch%C3%ADnh%20s%C3%A1ch,%20quy%20%C4%91%E1%BB%8Bnh,%20cam%20k%E1%BA%BFt/V%E1%BA%A5n%20%C4%91%E1%BB%81%20%C4%91%E1%BA%A1o%20%C4%91%E1%BB%A9c%20trong%20vi%E1%BB%87c%20l%E1%BB%ABa%20d%E1%BB%91i%20c%E1%BA%A5p%20tr%C3%AAn.md)
+Xem thêm:: [Vấn đề đạo đức khi làm ảo](../../../../%F0%9F%92%B8H%C3%ACnh%20th%E1%BB%A9c%20ki%E1%BA%BFm%20ti%E1%BB%81n/Thi%E1%BA%BFu%20li%C3%AAm%20ch%C3%ADnh.%20Ph%E1%BA%A1m%20ph%C3%A1p/M%E1%BA%B7t%20kh%C3%A1ch%20quan/Nguy%C3%AAn%20l%C3%BD,%20b%E1%BA%A3n%20ch%E1%BA%A5t%20h%C3%A0nh%20vi/T%E1%BA%A1o%20s%E1%BB%B1%20hi%E1%BB%83u%20nh%E1%BA%A7m.%20L%C3%A1ch%20ch%C3%ADnh%20s%C3%A1ch,%20quy%20%C4%91%E1%BB%8Bnh,%20cam%20k%E1%BA%BFt/V%E1%BA%A5n%20%C4%91%E1%BB%81%20%C4%91%E1%BA%A1o%20%C4%91%E1%BB%A9c%20trong%20vi%E1%BB%87c%20l%E1%BB%ABa%20d%E1%BB%91i%20c%E1%BA%A5p%20tr%C3%AAn.md)
 
 Số tiền đầu tư:: 
 Số tiền đặt cọc:: 

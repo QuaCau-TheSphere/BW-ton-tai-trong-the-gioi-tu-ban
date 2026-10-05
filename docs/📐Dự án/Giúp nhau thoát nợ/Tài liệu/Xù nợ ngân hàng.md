@@ -1,10 +1,11 @@
 ---
 share: true
 description: Chuyện gì sẽ xảy ra khi bị liệt là nợ xấu?
-updated: 2026-09-16T20:32
+updated: 2026-09-24T14:29
 aliases:
   - Chuyện gì sẽ xảy ra khi bị liệt là nợ xấu?
-  - Lý do không muốn bị mất điểm tín dụng
+  - Các lý do không muốn bị mất điểm tín dụng
+  - Các lý do việc mất điểm tín dụng không đáng sợ đến thế
   - mất điểm tín dụng
   - bùng, quịt, mất khả năng trả nợ, vỡ nợ
 created: 2026-07-25T15:28
@@ -38,7 +39,7 @@ Tài sản vô hình tạo ra dòng tiền
 dòng tiền, [Tài sản vô hình nói chung là không nhất thiết phải chịu đựng những thất bại điển hình của thị trường là không cạnh tranh và không thể loại trừ](../../../%F0%9F%93%A6N%E1%BB%81n%20kinh%20t%E1%BA%BF%20h%C3%A0ng%20ho%C3%A1/Th%E1%BB%8B%20tr%C6%B0%E1%BB%9Dng/T%C3%A0i%20s%E1%BA%A3n%20v%C3%B4%20h%C3%ACnh%20n%C3%B3i%20chung%20l%C3%A0%20kh%C3%B4ng%20nh%E1%BA%A5t%20thi%E1%BA%BFt%20ph%E1%BA%A3i%20ch%E1%BB%8Bu%20%C4%91%E1%BB%B1ng%20nh%E1%BB%AFng%20th%E1%BA%A5t%20b%E1%BA%A1i%20%C4%91i%E1%BB%83n%20h%C3%ACnh%20c%E1%BB%A7a%20th%E1%BB%8B%20tr%C6%B0%E1%BB%9Dng%20l%C3%A0%20kh%C3%B4ng%20c%E1%BA%A1nh%20tranh%20v%C3%A0%20kh%C3%B4ng%20th%E1%BB%83%20lo%E1%BA%A1i%20tr%E1%BB%AB.md). Dòng tiền được tạo từ những cái đó cũng có.
 [❓Tài sản vô hình có chi phí biên gần như bằng 0](../../../%F0%9F%93%A6N%E1%BB%81n%20kinh%20t%E1%BA%BF%20h%C3%A0ng%20ho%C3%A1/Th%E1%BB%8B%20tr%C6%B0%E1%BB%9Dng/%E2%9D%93T%C3%A0i%20s%E1%BA%A3n%20v%C3%B4%20h%C3%ACnh%20c%C3%B3%20chi%20ph%C3%AD%20bi%C3%AAn%20g%E1%BA%A7n%20nh%C6%B0%20b%E1%BA%B1ng%200.md)
 [❓Có hình thức kinh tế nào hoạt động tốt ở đô thị không, hay toàn chỉ ở nông thôn](../../../%F0%9F%8E%81Ph%C3%A1t%20tri%E1%BB%83n%20b%E1%BB%81n%20v%E1%BB%AFng.%20C%C3%A1c%20n%E1%BB%81n%20kinh%20t%E1%BA%BF%20thay%20th%E1%BA%BF/Gi%E1%BA%A3i%20ph%C3%A1p/C%C3%A1c%20n%E1%BB%81n%20kinh%20t%E1%BA%BF%20thay%20th%E1%BA%BF/%E2%9D%93C%C3%B3%20h%C3%ACnh%20th%E1%BB%A9c%20kinh%20t%E1%BA%BF%20n%C3%A0o%20ho%E1%BA%A1t%20%C4%91%E1%BB%99ng%20t%E1%BB%91t%20%E1%BB%9F%20%C4%91%C3%B4%20th%E1%BB%8B%20kh%C3%B4ng,%20hay%20to%C3%A0n%20ch%E1%BB%89%20%E1%BB%9F%20n%C3%B4ng%20th%C3%B4n.md)
-Hơn nữa, việc mất điểm tín dụng khác với việc không vay được ngân hàng. Các [dịch vụ mở khoản vay](../../../%F0%9F%92%B8H%C3%ACnh%20th%E1%BB%A9c%20ki%E1%BA%BFm%20ti%E1%BB%81n/Thi%E1%BA%BFu%20li%C3%AAm%20ch%C3%ADnh.%20Ph%E1%BA%A1m%20ph%C3%A1p/C%C3%A1ch%20th%E1%BB%B1c%20hi%E1%BB%87n/D%E1%BB%8Bch%20v%E1%BB%A5%20t%C3%A0i%20ch%C3%ADnh/M%E1%BB%9F%20kho%E1%BA%A3n%20vay/%C4%90%C3%A1nh%20gi%C3%A1%20m%E1%BB%99t%20s%E1%BB%91%20d%E1%BB%8Bch%20v%E1%BB%A5%20m%E1%BB%9F%20kho%E1%BA%A3n%20vay.md) vẫn làm được cho khách hàng nợ xấu. Ngay chính cả Nhật dù có điểm tín dụng đạt mức cấp 2 vẫn phải qua dịch vụ mới vay được, chứ tự làm thì cũng không được. Nếu có điểm cũng không chắc vay được, mà mất điểm thì cũng vẫn vay được, thì có điểm để làm gì?
+Hơn nữa, việc mất điểm tín dụng khác với việc không vay được ngân hàng. Các [dịch vụ mở khoản vay](../../../%F0%9F%92%B8H%C3%ACnh%20th%E1%BB%A9c%20ki%E1%BA%BFm%20ti%E1%BB%81n/Thi%E1%BA%BFu%20li%C3%AAm%20ch%C3%ADnh.%20Ph%E1%BA%A1m%20ph%C3%A1p/M%E1%BA%B7t%20kh%C3%A1ch%20quan/C%C3%A1ch%20th%E1%BB%B1c%20hi%E1%BB%87n/D%E1%BB%8Bch%20v%E1%BB%A5%20t%C3%A0i%20ch%C3%ADnh/M%E1%BB%9F%20kho%E1%BA%A3n%20vay/%C4%90%C3%A1nh%20gi%C3%A1%20m%E1%BB%99t%20s%E1%BB%91%20d%E1%BB%8Bch%20v%E1%BB%A5%20m%E1%BB%9F%20kho%E1%BA%A3n%20vay.md) vẫn làm được cho khách hàng nợ xấu. Ngay chính cả Nhật dù có điểm tín dụng đạt mức cấp 2 vẫn phải qua dịch vụ mới vay được, chứ tự làm thì cũng không được. Nếu có điểm cũng không chắc vay được, mà mất điểm thì cũng vẫn vay được, thì có điểm để làm gì?
 
 ### Lý do 2: Không muốn người thân bị làm phiền
 Một trong [các kỹ thuật gây áp lực với khách hàng của nhân viên đòi nợ](../../../%F0%9F%A7%91%E2%80%8D%F0%9F%8C%BENg%C3%A0nh%20ngh%E1%BB%81%20c%E1%BB%A5%20th%E1%BB%83/T%C3%A0i%20ch%C3%ADnh/T%C3%ADn%20d%E1%BB%A5ng/T%C3%ADn%20d%E1%BB%A5ng%20t%C6%B0%20b%E1%BA%A3n/Vay%20n%E1%BB%A3/D%E1%BB%B1a%20tr%C3%AAn%20%C4%91i%E1%BB%83m%20t%C3%ADn%20d%E1%BB%A5ng/Kho%E1%BA%A3n%20vay%20c%E1%BB%A7a%20t%E1%BB%95%20ch%E1%BB%A9c%20t%C3%A0i%20ch%C3%ADnh%20ti%C3%AAu%20d%C3%B9ng/C%C3%A1c%20k%E1%BB%B9%20thu%E1%BA%ADt%20g%C3%A2y%20%C3%A1p%20l%E1%BB%B1c%20v%E1%BB%9Bi%20kh%C3%A1ch%20h%C3%A0ng%20c%E1%BB%A7a%20nh%C3%A2n%20vi%C3%AAn%20%C4%91%C3%B2i%20n%E1%BB%A3,%20v%C3%A0%20c%C3%A1ch%20ph%E1%BA%A3n%20h%E1%BB%93i%20ch%C3%BAng.md) là tác động lên người thân. Điều này có thể làm họ bị phiền, gây khó khăn cho công việc, buồn phiền
@@ -77,7 +78,7 @@ Lập luận không khác lý do 3 cho lắm. Tại sao lại phải giữ uy t�
 
 Cụ thể hơn, khi các nhân viên bán hàng đến thuyết phục, không phải lúc nào họ cũng là người nâng đỡ suy nghĩ lý tính của khách hàng. Khi được đào tạo họ đều được học rằng [Khai thác điểm yếu con người](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Ki%E1%BA%BFm%20ti%E1%BB%81n/Kh%C3%B4ng%20li%C3%AAm%20ch%C3%ADnh/Khai%20th%C3%A1c%20%C4%91i%E1%BB%83m%20y%E1%BA%BFu%20con%20ng%C6%B0%E1%BB%9Di.md). Tại sao một người như vậy lại xứng đáng được giữ uy tín?
 
-[Có hai quan điểm chính khi bị trục lợi](../../../%F0%9F%92%B8H%C3%ACnh%20th%E1%BB%A9c%20ki%E1%BA%BFm%20ti%E1%BB%81n/Thi%E1%BA%BFu%20li%C3%AAm%20ch%C3%ADnh.%20Ph%E1%BA%A1m%20ph%C3%A1p/Nguy%C3%AAn%20l%C3%BD,%20b%E1%BA%A3n%20ch%E1%BA%A5t%20h%C3%A0nh%20vi/T%E1%BA%A1o%20s%E1%BB%B1%20hi%E1%BB%83u%20nh%E1%BA%A7m.%20L%C3%A1ch%20ch%C3%ADnh%20s%C3%A1ch,%20quy%20%C4%91%E1%BB%8Bnh,%20cam%20k%E1%BA%BFt/C%C3%B3%20hai%20quan%20%C4%91i%E1%BB%83m%20ch%C3%ADnh%20khi%20b%E1%BB%8B%20tr%E1%BB%A5c%20l%E1%BB%A3i.md)
+[Có hai quan điểm chính khi bị trục lợi](../../../%F0%9F%92%B8H%C3%ACnh%20th%E1%BB%A9c%20ki%E1%BA%BFm%20ti%E1%BB%81n/Thi%E1%BA%BFu%20li%C3%AAm%20ch%C3%ADnh.%20Ph%E1%BA%A1m%20ph%C3%A1p/M%E1%BA%B7t%20kh%C3%A1ch%20quan/Nguy%C3%AAn%20l%C3%BD,%20b%E1%BA%A3n%20ch%E1%BA%A5t%20h%C3%A0nh%20vi/T%E1%BA%A1o%20s%E1%BB%B1%20hi%E1%BB%83u%20nh%E1%BA%A7m.%20L%C3%A1ch%20ch%C3%ADnh%20s%C3%A1ch,%20quy%20%C4%91%E1%BB%8Bnh,%20cam%20k%E1%BA%BFt/C%C3%B3%20hai%20quan%20%C4%91i%E1%BB%83m%20ch%C3%ADnh%20khi%20b%E1%BB%8B%20tr%E1%BB%A5c%20l%E1%BB%A3i.md)
 [Nếu khách hàng không rõ ngay từ đầu thì sao còn ký. Nếu đã ký thì là biết rõ rồi](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Ni%E1%BB%81m%20tin,%20di%E1%BB%85n%20ng%C3%B4n/Lu%E1%BA%ADt%20ph%C3%A1p/N%E1%BA%BFu%20kh%C3%A1ch%20h%C3%A0ng%20kh%C3%B4ng%20r%C3%B5%20ngay%20t%E1%BB%AB%20%C4%91%E1%BA%A7u%20th%C3%AC%20sao%20c%C3%B2n%20k%C3%BD.%20N%E1%BA%BFu%20%C4%91%C3%A3%20k%C3%BD%20th%C3%AC%20l%C3%A0%20bi%E1%BA%BFt%20r%C3%B5%20r%E1%BB%93i.md)
 
 Cho vay là một hình thức đầu tư. 
@@ -117,15 +118,15 @@ Bất kể việc giúp đỡ mọi người là một sở thích cá nhân hay
 > [!attention] Nội dung trong phần này chỉ có giá trị giáo dục, không phải là tư vấn luật
 > Cũng như LLM, chúng tôi có thể sai.
 
-Luật không định nghĩa các khái niệm như bùng, quịt, xù, vỡ nợ, mà chỉ phân biệt là có hành vi lừa đảo hay lạm dụng tín nhiệm chiếm đoạt tài sản hay không. Tuy trả nợ khi đến hạn là nghĩa vụ bắt buộc của người đi vay, nhưng nếu bên vay không trả **vì lý do bất đắc dĩ** như phá sản, làm ăn thua lỗ, v.v. thì sẽ **không bị truy cứu trách nhiệm hình sự**. Nhưng nếu bị chứng minh là:
-- có ý định vay để xù ngay từ đầu thì sẽ phạm tội "lừa đảo chiếm đoạt tài sản" (Điều 174 Bộ luật Hình sự)
-- có điều kiện để trả mà không trả thì sẽ phạm tội "lạm dụng tín nhiệm chiếm đoạt tài sản" (Điều 175 Bộ luật Hình sự) 
+Luật không định nghĩa các khái niệm như bùng, quịt, xù nợ, mà chỉ phân biệt là có hành vi lừa đảo hay lạm dụng tín nhiệm chiếm đoạt tài sản hay không. Tuy trả nợ khi đến hạn là nghĩa vụ bắt buộc của người đi vay, nhưng nếu bên vay không trả **vì lý do bất đắc dĩ** như phá sản, làm ăn thua lỗ, v.v. thì sẽ **không bị truy cứu trách nhiệm hình sự**. Nhưng nếu bị chứng minh là:
+- có ý định vay để không trả ngay từ đầu thì sẽ phạm tội "lừa đảo chiếm đoạt tài sản" (Điều 174 Bộ luật Hình sự)
+- có điều kiện, khả năng để trả nhưng cố tình không trả, hoặc dùng cho mục đích bất hợp pháp dẫn đến mất khả năng trả, thì sẽ phạm tội "lạm dụng tín nhiệm chiếm đoạt tài sản" (Điều 175 Bộ luật Hình sự) 
 
 [Làm ăn thua lỗ, không trả được nợ có phải đi tù không?](https://luatvietnam.vn/tin-phap-luat/lam-an-thua-lo-khong-tra-duoc-no-co-phai-di-tu-khong-230-34052-article.html)
 
 Đối với những người kích động, xúi giục, chỉ cách lừa đảo hoặc cung cấp những điều kiện cần thiết cho người thực hiện hành vi lừa đảo có thể sẽ bị xử lý hình sự với vai trò đồng phạm.
 
-Xét về mặt rủi ro, bạn không phải là người duy nhất mất khả năng trả nợ. Tùy vào động lực của nhân viên đòi nợ và ngân hàng mà có muốn theo đuổi vụ kiện hay không. Tốt nhất là cứ ra ngân hàng thông báo là mình mất khả năng trả nợ để tránh việc [các quan hệ dân sự có thể bị xem xét và xử lý theo hướng hình sự do thiếu cơ sở pháp lý cụ thể để nhận diện bản chất hành vi](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%C4%90%E1%BA%A1o%20%C4%91%E1%BB%A9c,%20ph%C3%A1p%20lu%E1%BA%ADt/Lu%E1%BA%ADt%20h%E1%BB%8Dc/H%C3%ACnh%20s%E1%BB%B1/Khi%20thi%E1%BA%BFu%20c%C6%A1%20s%E1%BB%9F%20ph%C3%A1p%20l%C3%BD%20c%E1%BB%A5%20th%E1%BB%83%20%C4%91%E1%BB%83%20nh%E1%BA%ADn%20di%E1%BB%87n%20b%E1%BA%A3n%20ch%E1%BA%A5t%20h%C3%A0nh%20vi,%20c%C3%A1c%20quan%20h%E1%BB%87%20d%C3%A2n%20s%E1%BB%B1%20c%C3%B3%20th%E1%BB%83%20b%E1%BB%8B%20xem%20x%C3%A9t%20v%C3%A0%20x%E1%BB%AD%20l%C3%BD%20theo%20h%C6%B0%E1%BB%9Bng%20h%C3%ACnh%20s%E1%BB%B1.md).
+Xét về mặt rủi ro, bạn không phải là người duy nhất mất khả năng trả nợ. Tùy vào động lực của nhân viên đòi nợ và ngân hàng mà có muốn theo đuổi vụ kiện hay không. Tốt nhất là cứ ra ngân hàng thông báo là mình mất khả năng trả nợ để tránh việc [các quan hệ dân sự có thể bị xem xét và xử lý theo hướng hình sự do thiếu cơ sở pháp lý cụ thể để nhận diện bản chất hành vi](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Lu%E1%BA%ADt%20h%E1%BB%8Dc/H%C3%ACnh%20s%E1%BB%B1/Khi%20thi%E1%BA%BFu%20c%C6%A1%20s%E1%BB%9F%20ph%C3%A1p%20l%C3%BD%20c%E1%BB%A5%20th%E1%BB%83%20%C4%91%E1%BB%83%20nh%E1%BA%ADn%20di%E1%BB%87n%20b%E1%BA%A3n%20ch%E1%BA%A5t%20h%C3%A0nh%20vi,%20c%C3%A1c%20quan%20h%E1%BB%87%20d%C3%A2n%20s%E1%BB%B1%20c%C3%B3%20th%E1%BB%83%20b%E1%BB%8B%20xem%20x%C3%A9t%20v%C3%A0%20x%E1%BB%AD%20l%C3%BD%20theo%20h%C6%B0%E1%BB%9Bng%20h%C3%ACnh%20s%E1%BB%B1.md).
 
 ## Nơi thảo luận
 ![](https://imagizer.imageshack.com/a/img923/1273/jQAnX6.png)
