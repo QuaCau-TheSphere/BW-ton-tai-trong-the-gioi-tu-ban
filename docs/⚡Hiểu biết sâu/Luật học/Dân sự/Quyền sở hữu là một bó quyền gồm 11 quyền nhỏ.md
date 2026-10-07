@@ -1,9 +1,9 @@
 ---
 share: true
-updated: 2026-09-25T16:08
+updated: 2026-10-05T20:52
 created: 2026-06-22T14:16
 ---
-Khái niệm:: [Sở hữu](../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Kinh%20t%E1%BA%BF%20h%E1%BB%8Dc/S%E1%BB%9F%20h%E1%BB%AFu.md)
+Khái niệm:: [Chiếm hữu, sở hữu](../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Kinh%20t%E1%BA%BF%20h%E1%BB%8Dc/Chi%E1%BA%BFm%20h%E1%BB%AFu,%20s%E1%BB%9F%20h%E1%BB%AFu.md)
 
 Quyền sở hữu là gì? - Giới thiệu lý thuyết "bó quyền” của A. M. Honoré
 
