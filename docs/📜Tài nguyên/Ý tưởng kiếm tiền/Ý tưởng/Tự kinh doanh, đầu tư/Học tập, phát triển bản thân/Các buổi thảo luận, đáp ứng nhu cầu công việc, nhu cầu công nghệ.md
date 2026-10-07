@@ -1,13 +1,13 @@
 ---
 share: true
-updated: 2026-09-21T14:15
+updated: 2026-10-07T14:37
 created: 2026-06-05T18:29
 ---
 ## Vấn đề đang giải quyết
 Tri thức là sức mạnh, nhưng nhiều người khi muốn có tri thức thì:
 - Hoang mang khi không biết mình cần phải bắt đầu từ đâu
 - Ngộp bởi quá nhiều thuật ngữ khi tự tìm hiểu
-- Không thấy LLM đáng tin
+- Không thấy việc sử dụng LLM đem lại hiệu quả
 - Không tìm được người có kỹ năng làm, đáng tin tưởng và chịu nhận làm. Không phải lúc nào cũng có tiền để thuê người làm
 
 ## Giải pháp
@@ -51,8 +51,13 @@ Chúng là những thứ mà bạn ước rằng ngày xưa có ai nói với m�
 
 ## Con đường tiếp cận khách hàng
 Thông qua việc tham gia vào các nhóm, mạng lưới hướng tới việc học tập, kết nối lẫn nhau. Nếu có hỗ trợ việc truyền thông cho người tham gia thì càng tốt. VD:
-- HCM Thành phố học tập
-- ABG Alumni
+- HCM Thành phố học tập, ABG Alumni
+- Các trang kết nối cố vấn: [Mentori](https://mentori.vn/), [Vietnam Solo Expert](https://www.soloexpert.vn), [OnAir](https://onair.today/) 
+- Facebook
+
+TOT
+[Các buổi gặp mặt giao lưu, mở rộng mối quan hệ](../../../../../%F0%9F%93%90D%E1%BB%B1%20%C3%A1n/M%E1%BB%9F%20r%E1%BB%99ng%20m%E1%BB%91i%20quan%20h%E1%BB%87/index.md)
+
 
 ## Phân khúc khách hàng
 Những người muốn hiểu cách tư duy của người làm chuyên nghiệp và cách hệ thống vận hành. Họ không cần phải hiểu hết những kỹ thuật để làm được công việc của người họ thuê, nhưng cần phải hiểu đủ để có thể tự xử lý những thứ nhỏ. Họ cần kiếm nguồn thực sự hiểu chứ không có xác suất sai, hoặc cần biết công cụ tốt để không phải mất thời gian học công cụ phổ biến rồi nhận ra là nó có nhiều vấn đề về sau.
