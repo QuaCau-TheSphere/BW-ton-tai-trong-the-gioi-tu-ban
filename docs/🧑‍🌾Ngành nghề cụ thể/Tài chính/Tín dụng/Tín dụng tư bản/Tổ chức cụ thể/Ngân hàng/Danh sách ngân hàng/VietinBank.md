@@ -23,7 +23,7 @@ Sau khi đã đóng thẻ tín dụng thì 40 ngày sau mới được mở phon
 Phí đóng thẻ 200k
 
 Chỉ nói là nhân viên thì chắc chắn chỉ hướng dẫn chứ không làm. Không chịu cho coi cam. Không chịu coi cả log lên ngân hàng khi đã nói là hôm đó có lên. Chỉ khi nào có chứng từ rõ ràng thì mới cho coi, mà đúng là không có lưu lại gì. (Nghĩ lại thì cái lấy số thứ tự cũng phải là chứng từ rồi?) Nhưng ít nhất là nó cũng hoàn tiền 333k và cho đóng thẻ mà ko cần phí đóng 200k
-[4 cấp độ bí mật của thông tin](../../../../../../An%20ninh/An%20ninh%20m%E1%BA%A1ng/4%20c%E1%BA%A5p%20%C4%91%E1%BB%99%20b%C3%AD%20m%E1%BA%ADt%20c%E1%BB%A7a%20th%C3%B4ng%20tin.md)
+[4 cấp độ bí mật của thông tin](../../../../../../Khu%20v%E1%BB%B1c%203/An%20ninh/An%20ninh%20m%E1%BA%A1ng/4%20c%E1%BA%A5p%20%C4%91%E1%BB%99%20b%C3%AD%20m%E1%BA%ADt%20c%E1%BB%A7a%20th%C3%B4ng%20tin.md)
 
 ## Ghi chú về app
 Không cho thay đổi thiết bị giao dịch iPay vào khung giờ 23h-6h 
