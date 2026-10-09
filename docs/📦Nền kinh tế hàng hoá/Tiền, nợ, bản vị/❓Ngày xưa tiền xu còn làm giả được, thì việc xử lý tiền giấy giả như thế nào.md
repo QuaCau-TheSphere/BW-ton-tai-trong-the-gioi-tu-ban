@@ -1,8 +1,0 @@
----
-share: true
-updated: 2026-07-27T02:26
-created: 2025-08-29T08:30
----
-Khái niệm:: 
-
-Nguồn:: [Tiền – sự thật về thứ không có thật](../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Ngu%E1%BB%93n/Ti%E1%BB%81n%20%E2%80%93%20s%E1%BB%B1%20th%E1%BA%ADt%20v%E1%BB%81%20th%E1%BB%A9%20kh%C3%B4ng%20c%C3%B3%20th%E1%BA%ADt.md)
