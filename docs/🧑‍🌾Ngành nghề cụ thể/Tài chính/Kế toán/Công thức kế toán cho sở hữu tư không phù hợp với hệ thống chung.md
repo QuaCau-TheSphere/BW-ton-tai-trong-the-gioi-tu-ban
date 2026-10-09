@@ -16,4 +16,4 @@ ALOE, based on capital ownership, does not make sense for a commons-oriented acc
 
 Nguồn:: [From private ownership accounting to commons accounting](https://mikorizal.org/Fromprivateownershipaccountingtocommonsaccoun.html)
 
-[REA phù hợp cho chuỗi cung ứng](./B%E1%BA%A3n%20ch%E1%BA%A5t%20to%C3%A1n%20h%E1%BB%8Dc,%20h%E1%BB%87%20th%E1%BB%91ng%20th%C3%B4ng%20tin/REA%20ph%C3%B9%20h%E1%BB%A3p%20cho%20chu%E1%BB%97i%20cung%20%E1%BB%A9ng.md)
+[REA phù hợp cho chuỗi cung ứng](./H%E1%BB%87%20th%E1%BB%91ng%20th%C3%B4ng%20tin/REA%20ph%C3%B9%20h%E1%BB%A3p%20cho%20chu%E1%BB%97i%20cung%20%E1%BB%A9ng.md)
