@@ -1,7 +1,7 @@
 ---
 share: true
 blog: working
-updated: 2026-10-07T11:02
+updated: 2026-10-09T14:22
 created: 2026-07-27T14:38
 title: Làm sao để kêu gọi mọi người đầu tư vào mình?
 aliases:
@@ -21,7 +21,7 @@ Như vậy trước hết là phải bắt đầu bằng [các buổi gặp mặ
 
 Xa hơn là xây dựng [quỹ tín dụng vi mô](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Ch%E1%BB%8Dn%20s%E1%BA%A3n%20ph%E1%BA%A9m%20ph%C3%B9%20h%E1%BB%A3p/Vay%20t%C3%ADn%20ch%E1%BA%A5p/Kh%C3%B4ng%20d%E1%BB%B1a%20tr%C3%AAn%20%C4%91i%E1%BB%83m%20t%C3%ADn%20d%E1%BB%A5ng/T%E1%BB%95%20ch%E1%BB%A9c%20t%C3%A0i%20ch%C3%ADnh%20vi%20m%C3%B4/index.md), [Sàn gây quỹ đám đông](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/%C3%9D%20t%C6%B0%E1%BB%9Fng%20ki%E1%BA%BFm%20ti%E1%BB%81n/%C3%9D%20t%C6%B0%E1%BB%9Fng/T%E1%BB%B1%20kinh%20doanh,%20%C4%91%E1%BA%A7u%20t%C6%B0/K%E1%BA%BFt%20n%E1%BB%91i%20nhu%20c%E1%BA%A7u/T%C3%ADn%20d%E1%BB%A5ng/S%C3%A0n%20g%C3%A2y%20qu%E1%BB%B9%20%C4%91%C3%A1m%20%C4%91%C3%B4ng.md), [Sàn cho vay ngang hàng](../../../%F0%9F%A7%91%E2%80%8D%F0%9F%8C%BENg%C3%A0nh%20ngh%E1%BB%81%20c%E1%BB%A5%20th%E1%BB%83/T%C3%A0i%20ch%C3%ADnh/T%C3%ADn%20d%E1%BB%A5ng/T%C3%ADn%20d%E1%BB%A5ng%20t%C6%B0%20b%E1%BA%A3n/Vay%20n%E1%BB%A3/Kh%C3%B4ng%20d%E1%BB%B1a%20tr%C3%AAn%20%C4%91i%E1%BB%83m%20t%C3%ADn%20d%E1%BB%A5ng/Vay%20ngang%20h%C3%A0ng/index.md).
 
-
+[nic.gov.vn/img/wpuploads/2023/04/BC-huy-dong-nguon-von.pdf](https://nic.gov.vn/img/wpuploads/2023/04/BC-huy-dong-nguon-von.pdf)
 [Vay vốn doanh nghiệp vừa và nhỏ Tín chấp - Validus Việt Nam](https://validus.vn/#)
 [Làm sao để kiếm dòng tiền từ tài sản vô hình](../L%C3%A0m%20sao%20%C4%91%E1%BB%83%20ki%E1%BA%BFm%20d%C3%B2ng%20ti%E1%BB%81n%20t%E1%BB%AB%20t%C3%A0i%20s%E1%BA%A3n%20v%C3%B4%20h%C3%ACnh.md)
 
