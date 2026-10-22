@@ -3,7 +3,7 @@ share: true
 created: 2023-09-05T16:17
 updated: 2026-09-18T18:19
 ---
-[Khi nào thì chiến lược định giá "trả tuỳ tâm" đạt được sự bền vững?](../../../%F0%9F%93%90D%E1%BB%B1%20%C3%A1n/X%C3%A2y%20d%E1%BB%B1ng%20h%E1%BB%87%20th%E1%BB%91ng%20kinh%20t%E1%BA%BF%20m%E1%BB%9Bi/M%C3%B4%20h%C3%ACnh%20kinh%20doanh%20c%E1%BB%A7a%20c%C3%A1c%20bu%E1%BB%95i%20chia%20s%E1%BA%BB%20t%C6%B0%20duy%20d%E1%BB%AF%20li%E1%BB%87u,%20c%C3%B4ng%20c%E1%BB%A5,%20h%E1%BB%87%20th%E1%BB%91ng%20cho%20nhu%20c%E1%BA%A7u%20c%C3%B4ng%20vi%E1%BB%87c.md)
+[Khi nào thì chiến lược định giá "trả tuỳ tâm" đạt được sự bền vững?](../../../%F0%9F%93%90D%E1%BB%B1%20%C3%A1n/X%C3%A2y%20d%E1%BB%B1ng%20h%E1%BB%87%20th%E1%BB%91ng%20kinh%20t%E1%BA%BF%20m%E1%BB%9Bi/Khi%20n%C3%A0o%20th%C3%AC%20chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20%C4%91%E1%BB%8Bnh%20gi%C3%A1%20tr%E1%BA%A3%20tu%E1%BB%B3%20t%C3%A2m%20%C4%91%E1%BA%A1t%20%C4%91%C6%B0%E1%BB%A3c%20s%E1%BB%B1%20b%E1%BB%81n%20v%E1%BB%AFng.md)
 # Miễn phí
 Phản đối:
 - Cho miễn phí thì chỉ là tò mò
@@ -65,7 +65,7 @@ Phản ví dụ:
 Ví dụ:
 - Wikipedia, deno, docker
 
-[Mô hình kinh doanh Trấn Kỳ](../../../%F0%9F%93%90D%E1%BB%B1%20%C3%A1n/T%E1%BB%B1%20%C4%91%E1%BB%99ng%20ho%C3%A1/Tr%E1%BA%A5n%20K%E1%BB%B3/C%C5%A9/9%20Blog/M%C3%B4%20h%C3%ACnh%20kinh%20doanh%20Tr%E1%BA%A5n%20K%E1%BB%B3.md)
+[Mô hình kinh doanh Trấn Kỳ](../../../%F0%9F%93%90D%E1%BB%B1%20%C3%A1n/T%E1%BB%B1%20%C4%91%E1%BB%99ng%20ho%C3%A1/Tr%E1%BA%A5n%20K%E1%BB%B3/Blog/M%C3%B4%20h%C3%ACnh%20kinh%20doanh%20Tr%E1%BA%A5n%20K%E1%BB%B3.md)
 [Chỉ khi có sự trao đổi thì giá cả mới xuất hiện](../../../%F0%9F%93%A6N%E1%BB%81n%20kinh%20t%E1%BA%BF%20h%C3%A0ng%20ho%C3%A1/Gi%C3%A1%20tr%E1%BB%8B,%20gi%C3%A1%20c%E1%BA%A3/Ch%E1%BB%89%20khi%20c%C3%B3%20s%E1%BB%B1%20trao%20%C4%91%E1%BB%95i%20th%C3%AC%20gi%C3%A1%20c%E1%BA%A3%20m%E1%BB%9Bi%20xu%E1%BA%A5t%20hi%E1%BB%87n.md) 
 
 Pricing strategy

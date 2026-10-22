@@ -1,7 +1,6 @@
 ---
 share: true
 created: 2024-09-06T14:31
-updated: 2026-10-22T20:13
 title: Nguyên tắc hoạt động của bảo hiểm
 ---
 - [Để một rủi ro được bảo hiểm, nó cần ngẫu nhiên, định lượng bằng tiền được và có số lớn](./%C4%90%E1%BB%83%20m%E1%BB%99t%20r%E1%BB%A7i%20ro%20%C4%91%C6%B0%E1%BB%A3c%20b%E1%BA%A3o%20hi%E1%BB%83m,%20n%C3%B3%20c%E1%BA%A7n%20ng%E1%BA%ABu%20nhi%C3%AAn,%20%C4%91%E1%BB%8Bnh%20l%C6%B0%E1%BB%A3ng%20b%E1%BA%B1ng%20ti%E1%BB%81n%20%C4%91%C6%B0%E1%BB%A3c%20v%C3%A0%20c%C3%B3%20s%E1%BB%91%20l%E1%BB%9Bn.md)
@@ -26,7 +25,6 @@ title: Nguyên tắc hoạt động của bảo hiểm
     - [Để một rủi ro được bảo hiểm, nó cần ngẫu nhiên, định lượng bằng tiền được và có số lớn](./%C4%90%E1%BB%83%20m%E1%BB%99t%20r%E1%BB%A7i%20ro%20%C4%91%C6%B0%E1%BB%A3c%20b%E1%BA%A3o%20hi%E1%BB%83m,%20n%C3%B3%20c%E1%BA%A7n%20ng%E1%BA%ABu%20nhi%C3%AAn,%20%C4%91%E1%BB%8Bnh%20l%C6%B0%E1%BB%A3ng%20b%E1%BA%B1ng%20ti%E1%BB%81n%20%C4%91%C6%B0%E1%BB%A3c%20v%C3%A0%20c%C3%B3%20s%E1%BB%91%20l%E1%BB%9Bn.md)
     - [Để được bảo hiểm bệnh có sẵn thì phải chờ 3 năm](./%C4%90%E1%BB%83%20%C4%91%C6%B0%E1%BB%A3c%20b%E1%BA%A3o%20hi%E1%BB%83m%20b%E1%BB%87nh%20c%C3%B3%20s%E1%BA%B5n%20th%C3%AC%20ph%E1%BA%A3i%20ch%E1%BB%9D%203%20n%C4%83m.md)
     - [Bồi thường là trả tiền trên hoá đơn thực tế. Khoán là do người mua tự định giá của sinh mạng mình ngay từ đầu](./B%E1%BB%93i%20th%C6%B0%E1%BB%9Dng%20l%C3%A0%20tr%E1%BA%A3%20ti%E1%BB%81n%20tr%C3%AAn%20ho%C3%A1%20%C4%91%C6%A1n%20th%E1%BB%B1c%20t%E1%BA%BF.%20Kho%C3%A1n%20l%C3%A0%20do%20ng%C6%B0%E1%BB%9Di%20mua%20t%E1%BB%B1%20%C4%91%E1%BB%8Bnh%20gi%C3%A1%20c%E1%BB%A7a%20sinh%20m%E1%BA%A1ng%20m%C3%ACnh%20ngay%20t%E1%BB%AB%20%C4%91%E1%BA%A7u.md)
-    - [Nguyên tắc hoạt động.sync-conflict-20261022-204836-KEIORUM](./Nguy%C3%AAn%20t%E1%BA%AFc%20ho%E1%BA%A1t%20%C4%91%E1%BB%99ng.sync-conflict-20261022-204836-KEIORUM.md)
 
 - Công ty, đại lý, hợp đồng: 
     - [Các bên cung cấp dịch vụ phụ trợ bảo hiểm đảm bảo là doanh nghiệp bảo hiểm không làm khó mình để từ chối](./C%C3%B4ng%20ty,%20%C4%91%E1%BA%A1i%20l%C3%BD,%20h%E1%BB%A3p%20%C4%91%E1%BB%93ng/C%C3%A1c%20b%C3%AAn%20cung%20c%E1%BA%A5p%20d%E1%BB%8Bch%20v%E1%BB%A5%20ph%E1%BB%A5%20tr%E1%BB%A3%20b%E1%BA%A3o%20hi%E1%BB%83m%20%C4%91%E1%BA%A3m%20b%E1%BA%A3o%20l%C3%A0%20doanh%20nghi%E1%BB%87p%20b%E1%BA%A3o%20hi%E1%BB%83m%20kh%C3%B4ng%20l%C3%A0m%20kh%C3%B3%20m%C3%ACnh%20%C4%91%E1%BB%83%20t%E1%BB%AB%20ch%E1%BB%91i.md)
