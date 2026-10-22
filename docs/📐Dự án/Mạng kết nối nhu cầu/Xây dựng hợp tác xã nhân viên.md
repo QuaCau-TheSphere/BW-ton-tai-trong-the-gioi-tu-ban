@@ -38,7 +38,7 @@ Liên minh những người nằm vùng
 
 Với người nhận, nó không khác gì một nhóm giới thiệu việc làm. tư vấn kiếm tiền
 Không phải sản phẩm nào cũng có thể được đánh giá bởi một tiêu chí. Bởi vì nó nhiều chức năng và ưu đãi khác nhau.
-- [review hợp đồng bảo hiểm](../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Ch%E1%BB%8Dn%20s%E1%BA%A3n%20ph%E1%BA%A9m%20ph%C3%B9%20h%E1%BB%A3p/B%E1%BA%A3o%20hi%E1%BB%83m/index.md)
+- [review hợp đồng bảo hiểm](../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Ch%E1%BB%8Dn%20s%E1%BA%A3n%20ph%E1%BA%A9m%20ph%C3%B9%20h%E1%BB%A3p/B%E1%BA%A3o%20hi%E1%BB%83m%20nh%C3%A2n%20th%E1%BB%8D/index.md)
 - [Ý tưởng kiếm tiền](../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/%C3%9D%20t%C6%B0%E1%BB%9Fng%20ki%E1%BA%BFm%20ti%E1%BB%81n/index.md)
 - [Nhóm giúp nhau kiếm tiền](../Gi%C3%BAp%20nhau%20ki%E1%BA%BFm%20ti%E1%BB%81n/index.md)
 - [Xây dựng công đoàn](../%C4%90%E1%BB%91i%20tho%E1%BA%A1i%20v%E1%BB%9Bi%20t%C6%B0%20b%E1%BA%A3n/X%C3%A2y%20d%E1%BB%B1ng%20c%C3%B4ng%20%C4%91o%C3%A0n.md)
@@ -57,7 +57,7 @@ Tại sao không phải là [Các ý tưởng kiếm tiền](../../%F0%9F%93%9CT
 
 Không phải là cần tiền, mà là cần tiếp tục ở trong hệ thống tư bản, khi mà
 Chỉ những nhân viên bán hàng không nghĩ rằng mình có thể thay đổi công việc mới cần
-[Công việc bán hàng có thu nhập đột biến, không bị trói buộc thời gian và luôn tuyển dụng](../../%F0%9F%92%B8H%C3%ACnh%20th%E1%BB%A9c%20ki%E1%BA%BFm%20ti%E1%BB%81n/Thi%E1%BA%BFu%20li%C3%AAm%20ch%C3%ADnh.%20Ph%E1%BA%A1m%20ph%C3%A1p/C%C3%A1ch%20th%E1%BB%B1c%20hi%E1%BB%87n/B%C3%A1n%20h%C3%A0ng/C%C3%B4ng%20vi%E1%BB%87c%20b%C3%A1n%20h%C3%A0ng%20c%C3%B3%20thu%20nh%E1%BA%ADp%20%C4%91%E1%BB%99t%20bi%E1%BA%BFn,%20kh%C3%B4ng%20b%E1%BB%8B%20tr%C3%B3i%20bu%E1%BB%99c%20th%E1%BB%9Di%20gian%20v%C3%A0%20lu%C3%B4n%20tuy%E1%BB%83n%20d%E1%BB%A5ng.md)
+[Công việc bán hàng có thu nhập đột biến, không bị trói buộc thời gian và luôn tuyển dụng](../../%F0%9F%92%B8H%C3%ACnh%20th%E1%BB%A9c%20ki%E1%BA%BFm%20ti%E1%BB%81n/Thi%E1%BA%BFu%20li%C3%AAm%20ch%C3%ADnh.%20Ph%E1%BA%A1m%20ph%C3%A1p/M%E1%BA%B7t%20kh%C3%A1ch%20quan/C%C3%A1ch%20th%E1%BB%B1c%20hi%E1%BB%87n/B%C3%A1n%20h%C3%A0ng/C%C3%B4ng%20vi%E1%BB%87c%20b%C3%A1n%20h%C3%A0ng%20c%C3%B3%20thu%20nh%E1%BA%ADp%20%C4%91%E1%BB%99t%20bi%E1%BA%BFn,%20kh%C3%B4ng%20b%E1%BB%8B%20tr%C3%B3i%20bu%E1%BB%99c%20th%E1%BB%9Di%20gian%20v%C3%A0%20lu%C3%B4n%20tuy%E1%BB%83n%20d%E1%BB%A5ng.md)
 
 
 
