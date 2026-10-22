@@ -1,9 +1,9 @@
 ---
 share: true
-updated: 2026-07-27T02:26
+updated: 2026-10-16T14:48
 created: 2025-07-17T00:01
 ---
-Khái niệm:: [Đô la](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/T%C3%A0i%20s%E1%BA%A3n/%C4%90%C3%B4%20la.md)
+Khái niệm:: [Đô la](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/T%C3%A0i%20s%E1%BA%A3n/%C4%90%C3%B4%20la.md), [Lạm phát](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Kinh%20t%E1%BA%BF%20h%E1%BB%8Dc/Kinh%20t%E1%BA%BF%20v%C4%A9%20m%C3%B4/L%E1%BA%A1m%20ph%C3%A1t.md)
 Bởi vì [FED tăng lãi suất làm đô la tăng giá](./FED%20t%C4%83ng%20l%C3%A3i%20su%E1%BA%A5t%20l%C3%A0m%20%C4%91%C3%B4%20la%20t%C4%83ng%20gi%C3%A1.md), nên khi FED tăng lãi suất ngân hàng trung ương các nước khác cũng phải tăng lãi suất theo
 Nguồn:: <iframe width="560" height="315" src="https://www.youtube.com/embed/Zv91-zuaZCo?si=jaDE1JKtyBCi6Unm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6RNeUAsEPjU?si=Vdy2JjneAkS506aG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

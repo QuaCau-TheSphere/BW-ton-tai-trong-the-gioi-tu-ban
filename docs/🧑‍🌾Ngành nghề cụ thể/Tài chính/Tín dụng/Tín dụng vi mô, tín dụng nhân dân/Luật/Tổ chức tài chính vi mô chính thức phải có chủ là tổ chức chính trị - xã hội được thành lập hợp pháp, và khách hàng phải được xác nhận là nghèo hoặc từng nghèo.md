@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-04-15T00:49
-updated: 2026-07-27T02:22
+updated: 2026-07-27T02:27
 ---
 Khái niệm:: [Tài chính vi mô](../../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/T%C3%ADn%20d%E1%BB%A5ng/T%C3%A0i%20ch%C3%ADnh%20vi%20m%C3%B4.md)
 
@@ -17,7 +17,7 @@ Hoặc có ít nhất một thành viên sáng lập là:
 
 <sub>(Điều 8, Thông tư 03/2018/TT – NHNN)</sub>
 
-Xem thêm:: [Ở VN chỉ có duy nhất 1 tổ chức chính trị và 5 tổ chức chính trị - xã hội](../../../../../%F0%9F%8F%9B%EF%B8%8FTh%E1%BB%83%20ch%E1%BA%BF,%20ch%C3%ADnh%20s%C3%A1ch%20c%C3%B4ng,%20qu%E1%BA%A3n%20tr%E1%BB%8B%20nh%C3%A0%20n%C6%B0%E1%BB%9Bc%20%E1%BB%9F%20Vi%E1%BB%87t%20Nam/Th%E1%BA%BF%20ch%E1%BA%BF,%20h%E1%BB%87%20th%E1%BB%91ng%20nh%C3%A0%20n%C6%B0%E1%BB%9Bc/%E1%BB%9E%20VN%20ch%E1%BB%89%20c%C3%B3%20duy%20nh%E1%BA%A5t%201%20t%E1%BB%95%20ch%E1%BB%A9c%20ch%C3%ADnh%20tr%E1%BB%8B%20v%C3%A0%205%20t%E1%BB%95%20ch%E1%BB%A9c%20ch%C3%ADnh%20tr%E1%BB%8B%20-%20x%C3%A3%20h%E1%BB%99i.md)
+Xem thêm:: [Ở VN chỉ có duy nhất 1 tổ chức chính trị và 5 tổ chức chính trị - xã hội](../../../../../%F0%9F%8F%9B%EF%B8%8FTh%E1%BB%83%20ch%E1%BA%BF,%20ch%C3%ADnh%20s%C3%A1ch%20c%C3%B4ng,%20qu%E1%BA%A3n%20tr%E1%BB%8B%20nh%C3%A0%20n%C6%B0%E1%BB%9Bc%20%E1%BB%9F%20Vi%E1%BB%87t%20Nam/Th%E1%BA%BF%20ch%E1%BA%BF,%20h%E1%BB%87%20th%E1%BB%91ng%20nh%C3%A0%20n%C6%B0%E1%BB%9Bc,%20t%E1%BB%95%20ch%E1%BB%A9c%20ch%C3%ADnh%20ph%E1%BB%A7/%E1%BB%9E%20VN%20ch%E1%BB%89%20c%C3%B3%20duy%20nh%E1%BA%A5t%201%20t%E1%BB%95%20ch%E1%BB%A9c%20ch%C3%ADnh%20tr%E1%BB%8B%20v%C3%A0%205%20t%E1%BB%95%20ch%E1%BB%A9c%20ch%C3%ADnh%20tr%E1%BB%8B%20-%20x%C3%A3%20h%E1%BB%99i.md)
 
 ## Khách hàng tài chính vi mô 
 Là:

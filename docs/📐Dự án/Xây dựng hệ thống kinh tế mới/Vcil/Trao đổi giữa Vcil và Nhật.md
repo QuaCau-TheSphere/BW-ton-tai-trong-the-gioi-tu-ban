@@ -350,4 +350,6 @@ Nó tạo ra cảm giác không công bằng.
 Những gì các bạn giải thích không có gì mâu thuẫn với những lời mình nói cả.
 việc không minh bạch là thứ gây ra sự thiếu đoàn kết
 
+Dừng ở việc tìm hiểu pháp luật là đc rồi. Không muốn tìm hiểu thêm về sự trượt nghĩa
 
+Không nghĩ là nên hỗ trợ những nơi không minh bạch và không thấy mình có nghĩa vụ hay trách nhiệm hỏi lại trước khi phán xét người khác.
