@@ -23,6 +23,6 @@ Không tìm cách để đạt được cái mình thấy là sự tương xứn
 Cách đóng góp tốt nhất có lẽ là cho bọn mình có được cơ hội để hiểu thêm bạn.
 
 [Truyện ngụ ngôn về những người mong đợi](Truy%E1%BB%87n%20ng%E1%BB%A5%20ng%C3%B4n%20v%E1%BB%81%20nh%E1%BB%AFng%20ng%C6%B0%E1%BB%9Di%20mong%20%C4%91%E1%BB%A3i.md)
-[Làm sao để kiếm dòng tiền từ tài sản vô hình](../Gi%C3%BAp%20nhau%20ki%E1%BA%BFm%20ti%E1%BB%81n/L%C3%A0m%20sao%20%C4%91%E1%BB%83%20ki%E1%BA%BFm%20d%C3%B2ng%20ti%E1%BB%81n%20t%E1%BB%AB%20t%C3%A0i%20s%E1%BA%A3n%20v%C3%B4%20h%C3%ACnh.md)
+[Làm sao để kiếm tiền từ tài sản vô hình](./L%C3%A0m%20sao%20%C4%91%E1%BB%83%20ki%E1%BA%BFm%20ti%E1%BB%81n%20t%E1%BB%AB%20t%C3%A0i%20s%E1%BA%A3n%20v%C3%B4%20h%C3%ACnh.md)
 
-[Làm sao để vận hành một nền kinh tế quà tặng một cách hiệu quả](./L%C3%A0m%20sao%20%C4%91%E1%BB%83%20v%E1%BA%ADn%20h%C3%A0nh%20m%E1%BB%99t%20n%E1%BB%81n%20kinh%20t%E1%BA%BF%20qu%C3%A0%20t%E1%BA%B7ng%20m%E1%BB%99t%20c%C3%A1ch%20hi%E1%BB%87u%20qu%E1%BA%A3.md)
+[Làm sao để kiếm tiền từ tài sản vô hình](./L%C3%A0m%20sao%20%C4%91%E1%BB%83%20ki%E1%BA%BFm%20ti%E1%BB%81n%20t%E1%BB%AB%20t%C3%A0i%20s%E1%BA%A3n%20v%C3%B4%20h%C3%ACnh.md)
