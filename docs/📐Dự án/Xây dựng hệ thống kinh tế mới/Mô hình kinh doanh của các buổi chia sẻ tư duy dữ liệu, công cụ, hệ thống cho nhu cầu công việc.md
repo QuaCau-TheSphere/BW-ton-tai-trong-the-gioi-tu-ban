@@ -16,7 +16,7 @@ Theo quyển [Smart Pricing: How Google, Priceline, and Leading Businesses Use P
 4. Người mua và người bán có mối quan hệ tốt
 5. Thị trường rất cạnh tranh
 
-## [Các buổi thảo luận, đáp ứng nhu cầu công việc, nhu cầu công nghệ](../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/%C3%9D%20t%C6%B0%E1%BB%9Fng%20ki%E1%BA%BFm%20ti%E1%BB%81n/%C3%9D%20t%C6%B0%E1%BB%9Fng/T%E1%BB%B1%20kinh%20doanh,%20%C4%91%E1%BA%A7u%20t%C6%B0/H%E1%BB%8Dc%20t%E1%BA%ADp,%20ph%C3%A1t%20tri%E1%BB%83n%20b%E1%BA%A3n%20th%C3%A2n/C%C3%A1c%20bu%E1%BB%95i%20th%E1%BA%A3o%20lu%E1%BA%ADn,%20%C4%91%C3%A1p%20%E1%BB%A9ng%20nhu%20c%E1%BA%A7u%20c%C3%B4ng%20vi%E1%BB%87c,%20nhu%20c%E1%BA%A7u%20c%C3%B4ng%20ngh%E1%BB%87.md) đáp ứng các đặc điểm này thế nào?
+## [Các buổi thảo luận, định hướng, hỗ trợ giải pháp cho các nhu cầu công việc và công nghệ](../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/%C3%9D%20t%C6%B0%E1%BB%9Fng%20ki%E1%BA%BFm%20ti%E1%BB%81n/%C3%9D%20t%C6%B0%E1%BB%9Fng/T%E1%BB%B1%20kinh%20doanh,%20%C4%91%E1%BA%A7u%20t%C6%B0/H%E1%BB%8Dc%20t%E1%BA%ADp,%20ph%C3%A1t%20tri%E1%BB%83n%20b%E1%BA%A3n%20th%C3%A2n/C%C3%A1c%20bu%E1%BB%95i%20th%E1%BA%A3o%20lu%E1%BA%ADn,%20%C4%91%E1%BB%8Bnh%20h%C6%B0%E1%BB%9Bng,%20h%E1%BB%97%20tr%E1%BB%A3%20gi%E1%BA%A3i%20ph%C3%A1p%20cho%20c%C3%A1c%20nhu%20c%E1%BA%A7u%20c%C3%B4ng%20vi%E1%BB%87c%20v%C3%A0%20c%C3%B4ng%20ngh%E1%BB%87.md) đáp ứng các đặc điểm này thế nào?
 ### Chi phí biên thấp
 Chi phí biên là chi phí để sản xuất thêm một sản phẩm. Do ta không thể sản xuất đại trà các buổi này như nhà máy làm hàng loạt sản phẩm nên chắc chắn chi phí biên không thấp rồi. Nhưng nó cũng không quá cao như là bán xe. Hơn nữa việc làm việc trực tiếp cũng là cần thiết cho việc phỏng vấn, nên chắc cũng không gọi là cao.
 
