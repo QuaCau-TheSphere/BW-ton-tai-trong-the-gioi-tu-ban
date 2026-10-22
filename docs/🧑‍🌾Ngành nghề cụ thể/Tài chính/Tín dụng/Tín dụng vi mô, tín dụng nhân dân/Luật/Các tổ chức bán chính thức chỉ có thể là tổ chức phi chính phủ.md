@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-04-15T01:49
-updated: 2026-07-27T02:22
+updated: 2026-07-27T02:27
 ---
 Khái niệm:: 
 Các đối tượng được phép hoạt động TCVM:
@@ -11,7 +11,7 @@ Các đối tượng được phép hoạt động TCVM:
 
 <sub>(Khoản 1 Điều 2 Quyết định 20/2017/QĐ-TTg)</sub>
 
-[Ở VN chỉ có duy nhất 1 tổ chức chính trị và 5 tổ chức chính trị - xã hội](../../../../../%F0%9F%8F%9B%EF%B8%8FTh%E1%BB%83%20ch%E1%BA%BF,%20ch%C3%ADnh%20s%C3%A1ch%20c%C3%B4ng,%20qu%E1%BA%A3n%20tr%E1%BB%8B%20nh%C3%A0%20n%C6%B0%E1%BB%9Bc%20%E1%BB%9F%20Vi%E1%BB%87t%20Nam/Th%E1%BA%BF%20ch%E1%BA%BF,%20h%E1%BB%87%20th%E1%BB%91ng%20nh%C3%A0%20n%C6%B0%E1%BB%9Bc/%E1%BB%9E%20VN%20ch%E1%BB%89%20c%C3%B3%20duy%20nh%E1%BA%A5t%201%20t%E1%BB%95%20ch%E1%BB%A9c%20ch%C3%ADnh%20tr%E1%BB%8B%20v%C3%A0%205%20t%E1%BB%95%20ch%E1%BB%A9c%20ch%C3%ADnh%20tr%E1%BB%8B%20-%20x%C3%A3%20h%E1%BB%99i.md). Theo Hiến pháp 2013, tổ chức chính trị duy nhất ở Việt Nam là Đảng Cộng sản Việt Nam. Tổ chức này không tham gia vào hoạt động TCVM. 5 tổ chức chính trị - xã hội không đáp ứng được các điều kiện đăng ký cấp phép: 
+[Ở VN chỉ có duy nhất 1 tổ chức chính trị và 5 tổ chức chính trị - xã hội](../../../../../%F0%9F%8F%9B%EF%B8%8FTh%E1%BB%83%20ch%E1%BA%BF,%20ch%C3%ADnh%20s%C3%A1ch%20c%C3%B4ng,%20qu%E1%BA%A3n%20tr%E1%BB%8B%20nh%C3%A0%20n%C6%B0%E1%BB%9Bc%20%E1%BB%9F%20Vi%E1%BB%87t%20Nam/Th%E1%BA%BF%20ch%E1%BA%BF,%20h%E1%BB%87%20th%E1%BB%91ng%20nh%C3%A0%20n%C6%B0%E1%BB%9Bc,%20t%E1%BB%95%20ch%E1%BB%A9c%20ch%C3%ADnh%20ph%E1%BB%A7/%E1%BB%9E%20VN%20ch%E1%BB%89%20c%C3%B3%20duy%20nh%E1%BA%A5t%201%20t%E1%BB%95%20ch%E1%BB%A9c%20ch%C3%ADnh%20tr%E1%BB%8B%20v%C3%A0%205%20t%E1%BB%95%20ch%E1%BB%A9c%20ch%C3%ADnh%20tr%E1%BB%8B%20-%20x%C3%A3%20h%E1%BB%99i.md). Theo Hiến pháp 2013, tổ chức chính trị duy nhất ở Việt Nam là Đảng Cộng sản Việt Nam. Tổ chức này không tham gia vào hoạt động TCVM. 5 tổ chức chính trị - xã hội không đáp ứng được các điều kiện đăng ký cấp phép: 
 - Không có tư cách pháp nhân độc lập được thành lập theo khuôn khổ pháp luật quy định; 
 - Không có vốn góp vì loại hình này hưởng kinh phí cấp từ Ngân sách nhà nước cấp, không được phép góp vốn bằng nguồn từ ngân sách theo Luật doanh nghiệp; Luật Ngân sách nhà nước; 
 - Không có kiến thức và kỹ năng về quản lý hoạt động TCVM
