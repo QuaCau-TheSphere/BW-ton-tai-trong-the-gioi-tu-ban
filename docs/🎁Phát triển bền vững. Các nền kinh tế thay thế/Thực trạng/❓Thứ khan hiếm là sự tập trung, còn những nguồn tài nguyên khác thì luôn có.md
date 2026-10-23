@@ -1,0 +1,17 @@
+---
+share: true
+updated: 2026-07-27T15:06
+created: 2025-10-20T09:52
+---
+Khái niệm:: [Khan hiếm](../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Kinh%20t%E1%BA%BF%20h%E1%BB%8Dc/Khan%20hi%E1%BA%BFm.md)
+[Ở nhà gia đình nuôi](%E1%BB%9E%20nh%C3%A0%20gia%20%C4%91%C3%ACnh%20nu%C3%B4i.md)
+[Từ thiện và những thứ có vẻ giống như nó](./T%E1%BB%AB%20thi%E1%BB%87n,%20vi%E1%BB%87n%20tr%E1%BB%A3,%20t%C3%A0i%20tr%E1%BB%A3/T%E1%BB%AB%20thi%E1%BB%87n%20v%C3%A0%20nh%E1%BB%AFng%20th%E1%BB%A9%20c%C3%B3%20v%E1%BA%BB%20gi%E1%BB%91ng%20nh%C6%B0%20n%C3%B3.md)
+[Tư duy khan hiếm](../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/S%E1%BB%91ng%20v%E1%BB%ABa%20%C4%91%E1%BB%A7,%20b%E1%BB%81n%20v%E1%BB%AFng,%20ti%E1%BA%BFt%20ki%E1%BB%87m/T%C6%B0%20duy%20khan%20hi%E1%BA%BFm.md)
+[Sở hữu chung không phải là sở hữu riêng và cũng không phải là sở hữu công](./S%E1%BB%9F%20h%E1%BB%AFu%20chung%20kh%C3%B4ng%20ph%E1%BA%A3i%20l%C3%A0%20s%E1%BB%9F%20h%E1%BB%AFu%20ri%C3%AAng%20v%C3%A0%20c%C5%A9ng%20kh%C3%B4ng%20ph%E1%BA%A3i%20l%C3%A0%20s%E1%BB%9F%20h%E1%BB%AFu%20c%C3%B4ng.md)
+[❓Tài sản vô hình và hàng hoá vô hình là giống nhau](../../%F0%9F%93%A6N%E1%BB%81n%20kinh%20t%E1%BA%BF%20h%C3%A0ng%20ho%C3%A1/Th%E1%BB%8B%20tr%C6%B0%E1%BB%9Dng/%E2%9D%93T%C3%A0i%20s%E1%BA%A3n%20v%C3%B4%20h%C3%ACnh%20v%C3%A0%20h%C3%A0ng%20ho%C3%A1%20v%C3%B4%20h%C3%ACnh%20l%C3%A0%20gi%E1%BB%91ng%20nhau.md)
+[Đi cùng với khái niệm bền vững là khan hiếm](../../%F0%9F%93%A6N%E1%BB%81n%20kinh%20t%E1%BA%BF%20h%C3%A0ng%20ho%C3%A1/C%C3%A1c%20xu%20th%E1%BA%BF%20kinh%20t%E1%BA%BF%20m%E1%BB%9Bi/%C4%90i%20c%C3%B9ng%20v%E1%BB%9Bi%20kh%C3%A1i%20ni%E1%BB%87m%20b%E1%BB%81n%20v%E1%BB%AFng%20l%C3%A0%20khan%20hi%E1%BA%BFm.md)
+Nguồn:: 
+[Tài sản vô hình nói chung là không nhất thiết phải chịu đựng những thất bại điển hình của thị trường là không cạnh tranh và không thể loại trừ](../../%F0%9F%93%A6N%E1%BB%81n%20kinh%20t%E1%BA%BF%20h%C3%A0ng%20ho%C3%A1/Th%E1%BB%8B%20tr%C6%B0%E1%BB%9Dng/T%C3%A0i%20s%E1%BA%A3n%20v%C3%B4%20h%C3%ACnh%20n%C3%B3i%20chung%20l%C3%A0%20kh%C3%B4ng%20nh%E1%BA%A5t%20thi%E1%BA%BFt%20ph%E1%BA%A3i%20ch%E1%BB%8Bu%20%C4%91%E1%BB%B1ng%20nh%E1%BB%AFng%20th%E1%BA%A5t%20b%E1%BA%A1i%20%C4%91i%E1%BB%83n%20h%C3%ACnh%20c%E1%BB%A7a%20th%E1%BB%8B%20tr%C6%B0%E1%BB%9Dng%20l%C3%A0%20kh%C3%B4ng%20c%E1%BA%A1nh%20tranh%20v%C3%A0%20kh%C3%B4ng%20th%E1%BB%83%20lo%E1%BA%A1i%20tr%E1%BB%AB.md)
+
+[Làm sao để tham gia vào kinh tế không dùng tiền ở đô thị](../../%F0%9F%93%90D%E1%BB%B1%20%C3%A1n/X%C3%A2y%20d%E1%BB%B1ng%20h%E1%BB%87%20th%E1%BB%91ng%20kinh%20t%E1%BA%BF%20m%E1%BB%9Bi/L%C3%A0m%20sao%20%C4%91%E1%BB%83%20tham%20gia%20v%C3%A0o%20kinh%20t%E1%BA%BF%20kh%C3%B4ng%20d%C3%B9ng%20ti%E1%BB%81n%20%E1%BB%9F%20%C4%91%C3%B4%20th%E1%BB%8B.md)
+[❓Các loại tài sản hữu hình, thời gian, công sức, sự chú ý là các loại nguồn lực khi dùng là mất. Các loại nguồn lực còn lại khi dùng là có thêm](../Gi%E1%BA%A3i%20ph%C3%A1p/%E2%9D%93C%C3%A1c%20lo%E1%BA%A1i%20t%C3%A0i%20s%E1%BA%A3n%20h%E1%BB%AFu%20h%C3%ACnh,%20th%E1%BB%9Di%20gian,%20c%C3%B4ng%20s%E1%BB%A9c,%20s%E1%BB%B1%20ch%C3%BA%20%C3%BD%20l%C3%A0%20c%C3%A1c%20lo%E1%BA%A1i%20ngu%E1%BB%93n%20l%E1%BB%B1c%20khi%20d%C3%B9ng%20l%C3%A0%20m%E1%BA%A5t.%20C%C3%A1c%20lo%E1%BA%A1i%20ngu%E1%BB%93n%20l%E1%BB%B1c%20c%C3%B2n%20l%E1%BA%A1i%20khi%20d%C3%B9ng%20l%C3%A0%20c%C3%B3%20th%C3%AAm.md)
