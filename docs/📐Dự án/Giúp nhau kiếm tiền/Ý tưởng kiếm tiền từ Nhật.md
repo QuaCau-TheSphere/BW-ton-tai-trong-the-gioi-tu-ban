@@ -20,4 +20,4 @@ aliases:
 Xem thêm:
 - [Nhóm giúp nhau kiếm tiền](./index.md)
 - [Ý tưởng tiết kiệm](../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/S%E1%BB%91ng%20v%E1%BB%ABa%20%C4%91%E1%BB%A7,%20b%E1%BB%81n%20v%E1%BB%AFng,%20ti%E1%BA%BFt%20ki%E1%BB%87m/index.md)
-- [Làm sao để kiếm tiền từ tài sản vô hình?](../X%C3%A2y%20d%E1%BB%B1ng%20h%E1%BB%87%20th%E1%BB%91ng%20kinh%20t%E1%BA%BF%20m%E1%BB%9Bi/L%C3%A0m%20sao%20%C4%91%E1%BB%83%20ki%E1%BA%BFm%20ti%E1%BB%81n%20t%E1%BB%AB%20t%C3%A0i%20s%E1%BA%A3n%20v%C3%B4%20h%C3%ACnh.md)
+- [Làm sao để kiếm tiền từ tài sản vô hình?](../X%C3%A2y%20d%E1%BB%B1ng%20h%E1%BB%87%20th%E1%BB%91ng%20kinh%20t%E1%BA%BF%20m%E1%BB%9Bi/L%C3%A0m%20sao%20%C4%91%E1%BB%83%20tham%20gia%20v%C3%A0o%20kinh%20t%E1%BA%BF%20kh%C3%B4ng%20d%C3%B9ng%20ti%E1%BB%81n%20%E1%BB%9F%20%C4%91%C3%B4%20th%E1%BB%8B.md)
