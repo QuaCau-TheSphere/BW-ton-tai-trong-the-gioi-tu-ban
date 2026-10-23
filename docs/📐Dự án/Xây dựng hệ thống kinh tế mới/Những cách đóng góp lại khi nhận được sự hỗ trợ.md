@@ -23,6 +23,6 @@ Không tìm cách để đạt được cái mình thấy là sự tương xứn
 Cách đóng góp tốt nhất có lẽ là cho bọn mình có được cơ hội để hiểu thêm bạn.
 
 [Truyện ngụ ngôn về những người mong đợi](Truy%E1%BB%87n%20ng%E1%BB%A5%20ng%C3%B4n%20v%E1%BB%81%20nh%E1%BB%AFng%20ng%C6%B0%E1%BB%9Di%20mong%20%C4%91%E1%BB%A3i.md)
-[Làm sao để kiếm tiền từ tài sản vô hình](./L%C3%A0m%20sao%20%C4%91%E1%BB%83%20ki%E1%BA%BFm%20ti%E1%BB%81n%20t%E1%BB%AB%20t%C3%A0i%20s%E1%BA%A3n%20v%C3%B4%20h%C3%ACnh.md)
+[Làm sao để tham gia vào kinh tế không dùng tiền ở đô thị](./L%C3%A0m%20sao%20%C4%91%E1%BB%83%20tham%20gia%20v%C3%A0o%20kinh%20t%E1%BA%BF%20kh%C3%B4ng%20d%C3%B9ng%20ti%E1%BB%81n%20%E1%BB%9F%20%C4%91%C3%B4%20th%E1%BB%8B.md)
 
-[Làm sao để kiếm tiền từ tài sản vô hình](./L%C3%A0m%20sao%20%C4%91%E1%BB%83%20ki%E1%BA%BFm%20ti%E1%BB%81n%20t%E1%BB%AB%20t%C3%A0i%20s%E1%BA%A3n%20v%C3%B4%20h%C3%ACnh.md)
+[Làm sao để tham gia vào kinh tế không dùng tiền ở đô thị](./L%C3%A0m%20sao%20%C4%91%E1%BB%83%20tham%20gia%20v%C3%A0o%20kinh%20t%E1%BA%BF%20kh%C3%B4ng%20d%C3%B9ng%20ti%E1%BB%81n%20%E1%BB%9F%20%C4%91%C3%B4%20th%E1%BB%8B.md)

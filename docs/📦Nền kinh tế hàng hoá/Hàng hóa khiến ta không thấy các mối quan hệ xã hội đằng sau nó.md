@@ -1,9 +1,10 @@
 ---
 share: true
-updated: 2026-07-27T14:41
+updated: 2026-10-22T23:23
 created: 2025-10-20T09:52
 ---
 Khái niệm:: [Hàng hoá](../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Kinh%20t%E1%BA%BF%20h%E1%BB%8Dc/H%C3%A0ng%20ho%C3%A1.md), [Mối quan hệ](../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/M%E1%BB%91i%20quan%20h%E1%BB%87.md)
-Đây có phải là lý do khiến ta có [Thứ khan hiếm là sự tập trung, còn những nguồn tài nguyên khác thì luôn có](../%F0%9F%8E%81Ph%C3%A1t%20tri%E1%BB%83n%20b%E1%BB%81n%20v%E1%BB%AFng.%20C%C3%A1c%20n%E1%BB%81n%20kinh%20t%E1%BA%BF%20thay%20th%E1%BA%BF/Th%E1%BB%B1c%20tr%E1%BA%A1ng/Th%E1%BB%A9%20khan%20hi%E1%BA%BFm%20l%C3%A0%20s%E1%BB%B1%20t%E1%BA%ADp%20trung,%20c%C3%B2n%20nh%E1%BB%AFng%20ngu%E1%BB%93n%20t%C3%A0i%20nguy%C3%AAn%20kh%C3%A1c%20th%C3%AC%20lu%C3%B4n%20c%C3%B3.md) không?
+Đây có phải là lý do khiến ta có [❓Thứ khan hiếm là sự tập trung, còn những nguồn tài nguyên khác thì luôn có](../%F0%9F%8E%81Ph%C3%A1t%20tri%E1%BB%83n%20b%E1%BB%81n%20v%E1%BB%AFng.%20C%C3%A1c%20n%E1%BB%81n%20kinh%20t%E1%BA%BF%20thay%20th%E1%BA%BF/Th%E1%BB%B1c%20tr%E1%BA%A1ng/%E2%9D%93Th%E1%BB%A9%20khan%20hi%E1%BA%BFm%20l%C3%A0%20s%E1%BB%B1%20t%E1%BA%ADp%20trung,%20c%C3%B2n%20nh%E1%BB%AFng%20ngu%E1%BB%93n%20t%C3%A0i%20nguy%C3%AAn%20kh%C3%A1c%20th%C3%AC%20lu%C3%B4n%20c%C3%B3.md) không?
 [❓Kinh tế dùng tiền và kinh tế hàng hóa khác nhau thế nào](./%E2%9D%93Kinh%20t%E1%BA%BF%20d%C3%B9ng%20ti%E1%BB%81n%20v%C3%A0%20kinh%20t%E1%BA%BF%20h%C3%A0ng%20h%C3%B3a%20kh%C3%A1c%20nhau%20th%E1%BA%BF%20n%C3%A0o.md)
 Nguồn:: 
+[Tiền làm thay đổi mối quan hệ từ việc đáp ứng nhu cầu lẫn nhau sang trao đổi hàng hoá](./Kinh%20t%E1%BA%BF%20h%E1%BB%8Dc%20t%C3%A2m%20l%C3%BD/Ti%E1%BB%81n%20l%C3%A0m%20thay%20%C4%91%E1%BB%95i%20m%E1%BB%91i%20quan%20h%E1%BB%87%20t%E1%BB%AB%20vi%E1%BB%87c%20%C4%91%C3%A1p%20%E1%BB%A9ng%20nhu%20c%E1%BA%A7u%20l%E1%BA%ABn%20nhau%20sang%20trao%20%C4%91%E1%BB%95i%20h%C3%A0ng%20ho%C3%A1.md)

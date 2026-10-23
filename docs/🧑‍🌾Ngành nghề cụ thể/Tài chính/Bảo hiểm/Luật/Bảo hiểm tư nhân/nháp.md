@@ -37,7 +37,7 @@ ngân hàng tư cũng nhiều mà Tư cũng incharged bởi công thôi Cơ bả
 [Gửi tiền vào bảo hiểm tuy ít lãi hơn nhưng có thể rút ra dùng tạm lúc nào cũng được. Gửi vào ngân hàng nhiều lãi hơn nhưng bị khoá](G%E1%BB%ADi%20ti%E1%BB%81n%20v%C3%A0o%20b%E1%BA%A3o%20hi%E1%BB%83m%20tuy%20%C3%ADt%20l%C3%A3i%20h%C6%A1n%20nh%C6%B0ng%20c%C3%B3%20th%E1%BB%83%20r%C3%BAt%20ra%20d%C3%B9ng%20t%E1%BA%A1m%20l%C3%BAc%20n%C3%A0o%20c%C5%A9ng%20%C4%91%C6%B0%E1%BB%A3c.%20G%E1%BB%ADi%20v%C3%A0o%20ng%C3%A2n%20h%C3%A0ng%20nhi%E1%BB%81u%20l%C3%A3i%20h%C6%A1n%20nh%C6%B0ng%20b%E1%BB%8B%20kho%C3%A1.md)
 
 
-[Giá trị hoàn lại chỉ bắt đầu có vào năm thứ 3](../Nguy%C3%AAn%20t%E1%BA%AFc%20ho%E1%BA%A1t%20%C4%91%E1%BB%99ng/Gi%C3%A1%20tr%E1%BB%8B%20ho%C3%A0n%20l%E1%BA%A1i%20ch%E1%BB%89%20b%E1%BA%AFt%20%C4%91%E1%BA%A7u%20c%C3%B3%20v%C3%A0o%20n%C4%83m%20th%E1%BB%A9%203.md)
+[Giá trị hoàn lại chỉ bắt đầu có vào năm thứ 3](../../Nguy%C3%AAn%20t%E1%BA%AFc%20ho%E1%BA%A1t%20%C4%91%E1%BB%99ng/Gi%C3%A1%20tr%E1%BB%8B%20ho%C3%A0n%20l%E1%BA%A1i%20ch%E1%BB%89%20b%E1%BA%AFt%20%C4%91%E1%BA%A7u%20c%C3%B3%20v%C3%A0o%20n%C4%83m%20th%E1%BB%A9%203.md)
 
 [Cathay Life - Chi tiết sản phẩm](https://www.cathaylife.com.vn/cathay/product-A16.html)
 
