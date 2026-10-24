@@ -1,6 +1,6 @@
 ---
 share: true
-updated: 2026-10-24T22:34
+updated: 2026-10-24T23:27
 created: 2026-10-20T21:15
 title: Làm sao để không phải đòi hỏi người tiếp cận các nguồn lực của mình phải trả tiền?
 description: Làm sao để tham gia vào kinh tế quà tặng mà vẫn đủ sống?
@@ -8,6 +8,7 @@ aliases:
   - Làm sao để tham gia vào kinh tế quà tặng mà vẫn đủ sống?
   - Làm sao để tham gia vào kinh tế không dùng tiền ở đô thị?
 ---
+# Làm sao để không phải đòi hỏi người tiếp cận các nguồn lực của mình phải trả tiền?
 Tôi thấy có hai loại nguồn lực: [nguồn lực mất đi khi đưa cho người khác và nguồn lực không mất đi khi đưa cho người khác](../../%F0%9F%8E%81Ph%C3%A1t%20tri%E1%BB%83n%20b%E1%BB%81n%20v%E1%BB%AFng.%20C%C3%A1c%20n%E1%BB%81n%20kinh%20t%E1%BA%BF%20thay%20th%E1%BA%BF/Gi%E1%BA%A3i%20ph%C3%A1p/%E2%9D%93C%C3%A1c%20lo%E1%BA%A1i%20t%C3%A0i%20s%E1%BA%A3n%20h%E1%BB%AFu%20h%C3%ACnh,%20th%E1%BB%9Di%20gian,%20c%C3%B4ng%20s%E1%BB%A9c,%20s%E1%BB%B1%20ch%C3%BA%20%C3%BD%20l%C3%A0%20c%C3%A1c%20lo%E1%BA%A1i%20ngu%E1%BB%93n%20l%E1%BB%B1c%20khi%20d%C3%B9ng%20l%C3%A0%20m%E1%BA%A5t.%20C%C3%A1c%20lo%E1%BA%A1i%20ngu%E1%BB%93n%20l%E1%BB%B1c%20c%C3%B2n%20l%E1%BA%A1i%20khi%20d%C3%B9ng%20l%C3%A0%20c%C3%B3%20th%C3%AAm.md). Thời gian, công sức, sự chú ý, tiền bạc, vật dụng là các loại nguồn lực mất đi khi đưa cho người khác. A đưa cho B một số tiền thì A sẽ không sử dụng được số tiền đó. B đưa cho A một món đồ thì B sẽ không sử dụng được món đồ đó. Một khi đã đưa cho người khác thì nguồn lực ta đang nắm giữ sẽ mất đi. Tôi nghĩ ta có thể nói đây là loại nguồn lực có tổng bằng 0.
 
 Còn mối quan hệ, sự hiểu biết, phần mềm máy tính là các nguồn lực không mất đi khi đưa cho người khác. ([Kinh tế học có lẽ sẽ bảo đây là các tài sản vô hình, với đặc tính là có chi phí biên bằng 0](../../%F0%9F%93%A6N%E1%BB%81n%20kinh%20t%E1%BA%BF%20h%C3%A0ng%20ho%C3%A1/Th%E1%BB%8B%20tr%C6%B0%E1%BB%9Dng/%E2%9D%93T%C3%A0i%20s%E1%BA%A3n%20v%C3%B4%20h%C3%ACnh%20c%C3%B3%20chi%20ph%C3%AD%20bi%C3%AAn%20g%E1%BA%A7n%20nh%C6%B0%20b%E1%BA%B1ng%200.md).) A đưa cho B một sự hiểu biết thì sự hiểu biết đó vẫn nằm trong đầu A. B giúp A có thêm một mối quan hệ thì B cũng không mất đi mối quan hệ nào. Thậm chí có khi chúng lại còn tốt hơn. Nếu A đưa sự hiểu biết cho B và B đưa sự hiểu biết cho A, thì có khi trong đầu mỗi người không phải là hai sự hiểu biết riêng lẻ mà là một sự hiểu biết mới mạnh mẽ hơn. Nếu B giúp A có thêm mối quan hệ với C thì có khi mối quan hệ giữa B và C sẽ lại chặt chẽ hơn. Tôi nghĩ ta có thể nói đây là loại nguồn lực có tổng lớn hơn 0.
