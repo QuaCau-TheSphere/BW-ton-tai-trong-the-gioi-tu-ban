@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2026-09-19T15:21
+updated: 2026-10-24T22:06
 blog: working
 aliases:
   - Sự khác biệt giữa từ thiện, kinh tế quà tặng, trả cho người sau, làm việc vừa sức, dựa vào cộng đồng, gọi vốn cộng đồng, ưu tiên việc khẩn cấp, giúp người không tự giúp mình được, thu nhập cơ bản vô điều kiện
@@ -9,7 +9,7 @@ aliases:
 cssClasses:
   - wide-table
 ---
-Khái niệm:: [Quà tặng](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Ki%E1%BA%BFm%20ti%E1%BB%81n/Qu%C3%A0%20t%E1%BA%B7ng.md), [Từ thiện](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Giai%20c%E1%BA%A5p.%20Ph%C3%A1t%20tri%E1%BB%83n%20b%E1%BB%81n%20v%E1%BB%AFng/T%E1%BB%AB%20thi%E1%BB%87n.md), 
+Khái niệm:: [Quà tặng](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Ki%E1%BA%BFm%20ti%E1%BB%81n/Qu%C3%A0%20t%E1%BA%B7ng.md), [Từ thiện](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Giai%20c%E1%BA%A5p.%20Ph%C3%A1t%20tri%E1%BB%83n%20b%E1%BB%81n%20v%E1%BB%AFng/T%E1%BB%AB%20thi%E1%BB%87n.md)
 Nếu xét theo hướng công bằng xã hội, đạo đức cá nhân, thì dù có thiếu bền vững đến mấy cũng phải làm. Và đó không phải là cảm tính
 
 [Từ thiện có thể gây ra việc lệ thuộc ở người nhận, và ganh tị ở người không được nhận, từ đó phá vỡ cộng đồng](./T%E1%BB%AB%20thi%E1%BB%87n%20c%C3%B3%20th%E1%BB%83%20g%C3%A2y%20ra%20vi%E1%BB%87c%20l%E1%BB%87%20thu%E1%BB%99c%20%E1%BB%9F%20ng%C6%B0%E1%BB%9Di%20nh%E1%BA%ADn,%20v%C3%A0%20ganh%20t%E1%BB%8B%20%E1%BB%9F%20ng%C6%B0%E1%BB%9Di%20kh%C3%B4ng%20%C4%91%C6%B0%E1%BB%A3c%20nh%E1%BA%ADn,%20t%E1%BB%AB%20%C4%91%C3%B3%20ph%C3%A1%20v%E1%BB%A1%20c%E1%BB%99ng%20%C4%91%E1%BB%93ng.md)
@@ -30,7 +30,7 @@ Nếu chưa phân biệt được rõ ràng, thì kể cả khi thừa nhận l�
 | Giảm giá, cho miễn phí                                                                                        |                             |                         |                                |                    |                                 |                                            |                  |                   |                                           |                                             |                                                               |
 | [Gây quỹ đám đông](../../../%F0%9F%93%90D%E1%BB%B1%20%C3%A1n/Gi%C3%BAp%20nhau%20ki%E1%BA%BFm%20ti%E1%BB%81n/Gi%C3%BAp%20nhau%20g%E1%BB%8Di%20v%E1%BB%91n/G%C3%A2y%20qu%E1%BB%B9%20%C4%91%C3%A1m%20%C4%91%C3%B4ng.md)                                                                                          |                             |                         |                                |                    |                                 | ✔                                          |                  |                   | Ít                                        | Nhiều                                       |                                                               |
 | [Thu nhập cơ bản vô điều kiện](../../Gi%E1%BA%A3i%20ph%C3%A1p/Thu%20nh%E1%BA%ADp%20c%C6%A1%20b%E1%BA%A3n%20v%C3%B4%20%C4%91i%E1%BB%81u%20ki%E1%BB%87n%20kh%C3%B4ng%20b%E1%BA%B1ng%20%C4%91%C3%A1p%20%E1%BB%A9ng%20nhu%20c%E1%BA%A7u%20c%C6%A1%20b%E1%BA%A3n%20v%C3%B4%20%C4%91i%E1%BB%81u%20ki%E1%BB%87n.md) |                             |                         |                                |                    |                                 |                                            | ✔                | ✔                 | Ít                                        | Ít                                          |                                                               |
-| [Nền kinh tế quà tặng](../../Gi%E1%BA%A3i%20ph%C3%A1p/C%C3%A1c%20n%E1%BB%81n%20kinh%20t%E1%BA%BF%20thay%20th%E1%BA%BF/N%E1%BB%81n%20kinh%20t%E1%BA%BF%20qu%C3%A0%20t%E1%BA%B7ng.md)                                                                                      |                             |                         | ✔                              | ✔                  |                                 |                                            |                  |                   | Ít                                        | Ít                                          |                                                               |
+| [Nền kinh tế quà tặng](../../Gi%E1%BA%A3i%20ph%C3%A1p/C%C3%A1c%20n%E1%BB%81n%20kinh%20t%E1%BA%BF%20thay%20th%E1%BA%BF/N%E1%BB%81n%20kinh%20t%E1%BA%BF%20kh%C3%B4ng%20d%C3%B9ng%20ti%E1%BB%81n/N%E1%BB%81n%20kinh%20t%E1%BA%BF%20qu%C3%A0%20t%E1%BA%B7ng.md)                                                                                      |                             |                         | ✔                              | ✔                  |                                 |                                            |                  |                   | Ít                                        | Ít                                          |                                                               |
 | Nghĩa vụ đạo đức                                                                                              |                             |                         |                                |                    |                                 |                                            | ✔                |                   |                                           |                                             |                                                               |
 | Hình thức                                                                                                     | Thấy người nhận đáng thương | Muốn làm người nhận vui | Thấy cảm hứng bởi sự hào phóng | Tin vào sự trù phú | Xây dựng nội lực của người nhận | Thấy người nhận đang làm điều mình muốn có | Công bằng xã hội | Thay đổi hệ thống | Công sức người cho phải bỏ ra để cho được | Công sức người nhận phải bỏ ra để nhận được | Theo dõi sát sao và rút dần hỗ trợ khi đã cải thiện tình hình |
 
@@ -47,13 +47,14 @@ Nếu chưa phân biệt được rõ ràng, thì kể cả khi thừa nhận l�
 | [Bánh mì treo](https://plo.vn/banh-mi-treo-sua-treo-o-sai-gon-ai-du-thi-treo-ai-can-thi-lay-post874398.html) | ✔                           |                         |                                | ✔                  |                                 |                                            |                  |                   |                                           |                                             |                                                               |
 | [Free Money Day](https://freemoneyday.org/why-free-money-day/)                                               |                             |                         |                                |                    |                                 |                                            |                  | ✔                 |                                           |                                             |                                                               |
 | [The Offers and Needs Market](https://offersandneeds.com/)                                                   |                             |                         |                                |                    |                                 |                                            |                  | ✔                 |                                           |                                             |                                                               |
-| [Tặng đồ ăn](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Qu%C3%A0%20t%E1%BA%B7ng/Kh%C3%B4ng%20m%E1%BB%A5c%20%C4%91%C3%ADch%20ki%E1%BA%BFm%20ti%E1%BB%81n/T%E1%BA%B7ng%20%C4%91%E1%BB%93%20%C4%83n.md), [Tặng đồ đạc](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Qu%C3%A0%20t%E1%BA%B7ng/Kh%C3%B4ng%20m%E1%BB%A5c%20%C4%91%C3%ADch%20ki%E1%BA%BFm%20ti%E1%BB%81n/T%E1%BA%B7ng%20%C4%91%E1%BB%93%20%C4%91%E1%BA%A1c.md)                                                                              | Tùy                         | ✔                       | ✔                              | ✔                  |                                 |                                            |                  |                   |                                           |                                             |                                                               |
+| [Tặng đồ ăn](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Qu%C3%A0%20t%E1%BA%B7ng/T%E1%BA%B7ng%20%C4%91%E1%BB%93%20%C4%83n.md), [Tặng đồ đạc](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Qu%C3%A0%20t%E1%BA%B7ng/T%E1%BA%B7ng%20%C4%91%E1%BB%93%20%C4%91%E1%BA%A1c.md)                                                                              | Tùy                         | ✔                       | ✔                              | ✔                  |                                 |                                            |                  |                   |                                           |                                             |                                                               |
 
 Họ cần gì thì làm đúng điều đó
 Hành động dựa trên thống kê
- [Ý tưởng tặng quà cho các đam mê khác nhau](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Qu%C3%A0%20t%E1%BA%B7ng/Kh%C3%B4ng%20m%E1%BB%A5c%20%C4%91%C3%ADch%20ki%E1%BA%BFm%20ti%E1%BB%81n/%C3%9D%20t%C6%B0%E1%BB%9Fng%20t%E1%BA%B7ng%20qu%C3%A0%20cho%20c%C3%A1c%20%C4%91am%20m%C3%AA%20kh%C3%A1c%20nhau.md)
+ [Ý tưởng tặng quà cho các đam mê khác nhau](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Qu%C3%A0%20t%E1%BA%B7ng/%C3%9D%20t%C6%B0%E1%BB%9Fng%20t%E1%BA%B7ng%20qu%C3%A0%20cho%20c%C3%A1c%20%C4%91am%20m%C3%AA%20kh%C3%A1c%20nhau.md)
 
 [Việc tham gia vào nền kinh tế quà tặng sẽ giúp xây dựng thương hiệu](../../Gi%E1%BA%A3i%20ph%C3%A1p/C%C3%A1c%20n%E1%BB%81n%20kinh%20t%E1%BA%BF%20thay%20th%E1%BA%BF/N%E1%BB%81n%20kinh%20t%E1%BA%BF%20kh%C3%B4ng%20d%C3%B9ng%20ti%E1%BB%81n/Vi%E1%BB%87c%20tham%20gia%20v%C3%A0o%20n%E1%BB%81n%20kinh%20t%E1%BA%BF%20qu%C3%A0%20t%E1%BA%B7ng%20s%E1%BA%BD%20gi%C3%BAp%20x%C3%A2y%20d%E1%BB%B1ng%20th%C6%B0%C6%A1ng%20hi%E1%BB%87u.md)
+[Làm sao để không phải đòi hỏi người tiếp cận các nguồn lực của mình phải trả tiền?](../../../%F0%9F%93%90D%E1%BB%B1%20%C3%A1n/X%C3%A2y%20d%E1%BB%B1ng%20h%E1%BB%87%20th%E1%BB%91ng%20kinh%20t%E1%BA%BF%20m%E1%BB%9Bi/L%C3%A0m%20sao%20%C4%91%E1%BB%83%20kh%C3%B4ng%20ph%E1%BA%A3i%20%C4%91%C3%B2i%20h%E1%BB%8Fi%20ng%C6%B0%E1%BB%9Di%20ti%E1%BA%BFp%20c%E1%BA%ADn%20c%C3%A1c%20ngu%E1%BB%93n%20l%E1%BB%B1c%20c%E1%BB%A7a%20m%C3%ACnh%20ph%E1%BA%A3i%20tr%E1%BA%A3%20ti%E1%BB%81n.md)
 
 Là cách đơn giản nhất để giúp người không tự giúp mình được và không đáp ứng nhu cầu cộng đồng một cách nhanh nhất và dễ vừa sức
 Y học, CTXH là việc giúp người không thể tự giúp mình
@@ -101,11 +102,11 @@ Phản đối:
 4. A strong relationship between buyer and seller
 5. A very competitive marketplace
 
-1. Chi phí biên thấp
-2. Khách hàng có ý định sòng phẳng
-3. Sản phẩm có thể bán được ở nhiều mức giá khác nhau (VD: người mua $3, $10 hay $20 đều có cái lý của họ) 
-4. Người mua và người bán có mối quan hệ tốt
-5. Thị trường rất cạnh tranh
+6. Chi phí biên thấp
+7. Khách hàng có ý định sòng phẳng
+8. Sản phẩm có thể bán được ở nhiều mức giá khác nhau (VD: người mua $3, $10 hay $20 đều có cái lý của họ) 
+9. Người mua và người bán có mối quan hệ tốt
+10. Thị trường rất cạnh tranh
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1ju8-agpCAQ?si=gH4N6nhv10oHHMy3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Phiên bản
@@ -146,4 +147,3 @@ Ownership on their labour would increase their *intrinsic motivation* to volunte
 
 [Chinese Restaurant Adopts "Pay What You Want" Policy, Loses 15000 in a Week](https://www.odditycentral.com/news/chinese-restaurant-adopts-pay-what-you-want-policy-loses-15000-in-a-week.html)
 [microeconomics - What stops the pay-what-you-want pricing strategy from being more popular? - Economics Stack Exchange](https://economics.stackexchange.com/q/57273/45941)
-
