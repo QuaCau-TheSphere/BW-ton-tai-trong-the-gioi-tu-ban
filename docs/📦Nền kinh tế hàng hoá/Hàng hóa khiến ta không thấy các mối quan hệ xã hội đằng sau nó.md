@@ -1,6 +1,6 @@
 ---
 share: true
-updated: 2026-10-22T23:23
+updated: 2026-10-24T18:12
 created: 2025-10-20T09:52
 ---
 Khái niệm:: [Hàng hoá](../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Kinh%20t%E1%BA%BF%20h%E1%BB%8Dc/H%C3%A0ng%20ho%C3%A1.md), [Mối quan hệ](../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/M%E1%BB%91i%20quan%20h%E1%BB%87.md)
@@ -8,3 +8,4 @@ Khái niệm:: [Hàng hoá](../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%
 [❓Kinh tế dùng tiền và kinh tế hàng hóa khác nhau thế nào](./%E2%9D%93Kinh%20t%E1%BA%BF%20d%C3%B9ng%20ti%E1%BB%81n%20v%C3%A0%20kinh%20t%E1%BA%BF%20h%C3%A0ng%20h%C3%B3a%20kh%C3%A1c%20nhau%20th%E1%BA%BF%20n%C3%A0o.md)
 Nguồn:: 
 [Tiền làm thay đổi mối quan hệ từ việc đáp ứng nhu cầu lẫn nhau sang trao đổi hàng hoá](./Kinh%20t%E1%BA%BF%20h%E1%BB%8Dc%20t%C3%A2m%20l%C3%BD/Ti%E1%BB%81n%20l%C3%A0m%20thay%20%C4%91%E1%BB%95i%20m%E1%BB%91i%20quan%20h%E1%BB%87%20t%E1%BB%AB%20vi%E1%BB%87c%20%C4%91%C3%A1p%20%E1%BB%A9ng%20nhu%20c%E1%BA%A7u%20l%E1%BA%ABn%20nhau%20sang%20trao%20%C4%91%E1%BB%95i%20h%C3%A0ng%20ho%C3%A1.md)
+[Quyền sở hữu cá nhân là phản ứng tất yếu trước áp lực giảm chi phí giao dịch trong xã hội ngày càng phức tạp](./Tr%C6%B0%E1%BB%9Dng%20ph%C3%A1i,%20l%E1%BB%8Bch%20s%E1%BB%AD%20kinh%20t%E1%BA%BF%20h%E1%BB%8Dc/Th%E1%BB%83%20ch%E1%BA%BF/Quy%E1%BB%81n%20s%E1%BB%9F%20h%E1%BB%AFu%20c%C3%A1%20nh%C3%A2n%20l%C3%A0%20ph%E1%BA%A3n%20%E1%BB%A9ng%20t%E1%BA%A5t%20y%E1%BA%BFu%20tr%C6%B0%E1%BB%9Bc%20%C3%A1p%20l%E1%BB%B1c%20gi%E1%BA%A3m%20chi%20ph%C3%AD%20giao%20d%E1%BB%8Bch%20trong%20x%C3%A3%20h%E1%BB%99i%20ng%C3%A0y%20c%C3%A0ng%20ph%E1%BB%A9c%20t%E1%BA%A1p.md)
