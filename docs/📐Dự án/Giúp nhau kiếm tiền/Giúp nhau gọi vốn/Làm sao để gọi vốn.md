@@ -1,7 +1,7 @@
 ---
 share: true
 blog: working
-updated: 2026-10-09T14:22
+updated: 2026-10-24T22:01
 created: 2026-07-27T14:38
 title: Làm sao để kêu gọi mọi người đầu tư vào mình?
 aliases:
@@ -11,7 +11,7 @@ Cách gọi vốn tốt nhất là từ chính khách hàng của mình. Để l
 
 Giả sử có hai ba dự án như vậy từ những người trong nhóm, thì nó sẽ thành một dạng hợp tác xã cộng đồng. Một người có thể đảm nhiệm nhiều vai trò các nhau trong một dự án hoặc nhiều dự án. Sau khi phát triển hơn thì sẽ bắt đầu có những dự án B2B trong cộng đồng, như [nhóm agency](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/%C3%9D%20t%C6%B0%E1%BB%9Fng%20ki%E1%BA%BFm%20ti%E1%BB%81n/%C3%9D%20t%C6%B0%E1%BB%9Fng/T%E1%BB%B1%20kinh%20doanh,%20%C4%91%E1%BA%A7u%20t%C6%B0/K%E1%BA%BFt%20n%E1%BB%91i%20nhu%20c%E1%BA%A7u/Nh%C3%B3m/Nh%C3%B3m%20h%E1%BB%97%20tr%E1%BB%A3%20ng%C6%B0%E1%BB%9Di%20t%E1%BB%B1%20kinh%20doanh,%20%C4%91%E1%BA%A7u%20t%C6%B0.md), [nhóm mua chung, câu lạc bộ tiêu dùng](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/%C3%9D%20t%C6%B0%E1%BB%9Fng%20ki%E1%BA%BFm%20ti%E1%BB%81n/%C3%9D%20t%C6%B0%E1%BB%9Fng/T%E1%BB%B1%20kinh%20doanh,%20%C4%91%E1%BA%A7u%20t%C6%B0/K%E1%BA%BFt%20n%E1%BB%91i%20nhu%20c%E1%BA%A7u/Nh%C3%B3m/Nh%C3%B3m%20mua%20chung,%20c%C3%A2u%20l%E1%BA%A1c%20b%E1%BB%99%20ti%C3%AAu%20d%C3%B9ng.md).
 
-Như vậy trước hết là phải bắt đầu bằng [các buổi gặp mặt giao lưu](../../M%E1%BB%9F%20r%E1%BB%99ng%20m%E1%BB%91i%20quan%20h%E1%BB%87/index.md), để mọi người không chỉ biết đến nhau, mà còn tin được nhau. Lý do dễ nhất để một người đến với buổi đó là vì họ thân thiết với một người đến với buổi đó, và khi được rủ thì sẵn sàng dành thời gian đi cùng. Nói cách khác, đây là các buổi chia sẻ mối quan hệ với nhau. Bạn chia sẻ mối quan hệ của mình cho người khác, bạn sẽ nhận lại được mối quan hệ mới, đồng thời cũng không bị mất đi mối quan hệ cũ. Tức là bạn càng dùng nó, càng cho đi, thì bạn lại càng có thêm. Đây là cách [Nền kinh tế quà tặng](../../../%F0%9F%8E%81Ph%C3%A1t%20tri%E1%BB%83n%20b%E1%BB%81n%20v%E1%BB%AFng.%20C%C3%A1c%20n%E1%BB%81n%20kinh%20t%E1%BA%BF%20thay%20th%E1%BA%BF/Gi%E1%BA%A3i%20ph%C3%A1p/C%C3%A1c%20n%E1%BB%81n%20kinh%20t%E1%BA%BF%20thay%20th%E1%BA%BF/N%E1%BB%81n%20kinh%20t%E1%BA%BF%20qu%C3%A0%20t%E1%BA%B7ng.md) hoạt động. Điều này trái ngược với cách tiền bạc hoạt động: bạn dùng tiền hoặc cho tiền là bạn mất tiền.
+Như vậy trước hết là phải bắt đầu bằng [các buổi gặp mặt giao lưu](../../M%E1%BB%9F%20r%E1%BB%99ng%20m%E1%BB%91i%20quan%20h%E1%BB%87/index.md), để mọi người không chỉ biết đến nhau, mà còn tin được nhau. Lý do dễ nhất để một người đến với buổi đó là vì họ thân thiết với một người đến với buổi đó, và khi được rủ thì sẵn sàng dành thời gian đi cùng. Nói cách khác, đây là các buổi chia sẻ mối quan hệ với nhau. Bạn chia sẻ mối quan hệ của mình cho người khác, bạn sẽ nhận lại được mối quan hệ mới, đồng thời cũng không bị mất đi mối quan hệ cũ. Tức là bạn càng dùng nó, càng cho đi, thì bạn lại càng có thêm. Đây là cách [Nền kinh tế quà tặng](../../../%F0%9F%8E%81Ph%C3%A1t%20tri%E1%BB%83n%20b%E1%BB%81n%20v%E1%BB%AFng.%20C%C3%A1c%20n%E1%BB%81n%20kinh%20t%E1%BA%BF%20thay%20th%E1%BA%BF/Gi%E1%BA%A3i%20ph%C3%A1p/C%C3%A1c%20n%E1%BB%81n%20kinh%20t%E1%BA%BF%20thay%20th%E1%BA%BF/N%E1%BB%81n%20kinh%20t%E1%BA%BF%20kh%C3%B4ng%20d%C3%B9ng%20ti%E1%BB%81n/N%E1%BB%81n%20kinh%20t%E1%BA%BF%20qu%C3%A0%20t%E1%BA%B7ng.md) hoạt động. Điều này trái ngược với cách tiền bạc hoạt động: bạn dùng tiền hoặc cho tiền là bạn mất tiền.
 
 Ý tưởng này có mấy vấn đề sau:
 - Muốn tin nhau nhiều khi phải chơi với nhau đủ lâu
@@ -23,7 +23,7 @@ Xa hơn là xây dựng [quỹ tín dụng vi mô](../../../%F0%9F%93%9CT%C3%A0i
 
 [nic.gov.vn/img/wpuploads/2023/04/BC-huy-dong-nguon-von.pdf](https://nic.gov.vn/img/wpuploads/2023/04/BC-huy-dong-nguon-von.pdf)
 [Vay vốn doanh nghiệp vừa và nhỏ Tín chấp - Validus Việt Nam](https://validus.vn/#)
-[Làm sao để tham gia vào kinh tế không dùng tiền ở đô thị](../../X%C3%A2y%20d%E1%BB%B1ng%20h%E1%BB%87%20th%E1%BB%91ng%20kinh%20t%E1%BA%BF%20m%E1%BB%9Bi/L%C3%A0m%20sao%20%C4%91%E1%BB%83%20tham%20gia%20v%C3%A0o%20kinh%20t%E1%BA%BF%20kh%C3%B4ng%20d%C3%B9ng%20ti%E1%BB%81n%20%E1%BB%9F%20%C4%91%C3%B4%20th%E1%BB%8B.md)
+[Làm sao để không phải đòi hỏi người tiếp cận các nguồn lực của mình phải trả tiền?](../../X%C3%A2y%20d%E1%BB%B1ng%20h%E1%BB%87%20th%E1%BB%91ng%20kinh%20t%E1%BA%BF%20m%E1%BB%9Bi/L%C3%A0m%20sao%20%C4%91%E1%BB%83%20kh%C3%B4ng%20ph%E1%BA%A3i%20%C4%91%C3%B2i%20h%E1%BB%8Fi%20ng%C6%B0%E1%BB%9Di%20ti%E1%BA%BFp%20c%E1%BA%ADn%20c%C3%A1c%20ngu%E1%BB%93n%20l%E1%BB%B1c%20c%E1%BB%A7a%20m%C3%ACnh%20ph%E1%BA%A3i%20tr%E1%BA%A3%20ti%E1%BB%81n.md)
 
 Đây là một phần của dự án [giúp nhau kiếm tiền](../index.md). Đọc bài đó để hiểu thêm về mục tiêu dài hạn của dự án cũng như các lợi ích khác của bạn. 
 
