@@ -34,7 +34,7 @@ kỹ năng sống + âm tiền: R&D + chuyên môn hóa?
 Giải trình, minh bạch cản trở việc giải ngân. [Khả năng tiếp cận vốn quan trọng hơn giá vốn](../../../%F0%9F%A7%91%E2%80%8D%F0%9F%8C%BENg%C3%A0nh%20ngh%E1%BB%81%20c%E1%BB%A5%20th%E1%BB%83/T%C3%A0i%20ch%C3%ADnh/T%C3%ADn%20d%E1%BB%A5ng/Kh%E1%BA%A3%20n%C4%83ng%20ti%E1%BA%BFp%20c%E1%BA%ADn%20v%E1%BB%91n%20quan%20tr%E1%BB%8Dng%20h%C6%A1n%20gi%C3%A1%20v%E1%BB%91n.md)
 
 
-## [Tìm người ở ghép ở TP.HCM](../../../%F0%9F%93%90D%E1%BB%B1%20%C3%A1n/M%E1%BA%A1ng%20k%E1%BA%BFt%20n%E1%BB%91i%20nhu%20c%E1%BA%A7u/T%C3%ACm%20ng%C6%B0%E1%BB%9Di%20%E1%BB%9F%20gh%C3%A9p%20%E1%BB%9F%20TP.HCM.md)
-[Tìm người ở ghép ở TP.HCM](../../../%F0%9F%93%90D%E1%BB%B1%20%C3%A1n/M%E1%BA%A1ng%20k%E1%BA%BFt%20n%E1%BB%91i%20nhu%20c%E1%BA%A7u/T%C3%ACm%20ng%C6%B0%E1%BB%9Di%20%E1%BB%9F%20gh%C3%A9p%20%E1%BB%9F%20TP.HCM.md)
+## [Lập nhóm sống chung nhà](../../../%F0%9F%93%90D%E1%BB%B1%20%C3%A1n/M%E1%BA%A1ng%20k%E1%BA%BFt%20n%E1%BB%91i%20nhu%20c%E1%BA%A7u/L%E1%BA%ADp%20nh%C3%B3m%20s%E1%BB%91ng%20chung%20nh%C3%A0.md)
+[Lập nhóm sống chung nhà](../../../%F0%9F%93%90D%E1%BB%B1%20%C3%A1n/M%E1%BA%A1ng%20k%E1%BA%BFt%20n%E1%BB%91i%20nhu%20c%E1%BA%A7u/L%E1%BA%ADp%20nh%C3%B3m%20s%E1%BB%91ng%20chung%20nh%C3%A0.md)
 
 cơ chế lừa là gì. Trước đó vẫn đi đổi đc

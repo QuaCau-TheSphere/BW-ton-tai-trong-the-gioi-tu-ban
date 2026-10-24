@@ -1,6 +1,6 @@
 ---
 share: true
-updated: 2026-08-05T21:22
+updated: 2026-10-24T15:12
 aliases:
   - đồng cư, hợp tác xã nhà ở, quỹ nhà ở vi mô
   - làng sinh thái, công xã
@@ -12,7 +12,7 @@ title: Cộng đồng có chủ đích
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PfAsblgWXtg?si=HRFiWadJ1c9AS0pC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-[Cộng đồng có chủ đích được hình thành khi một nhóm người quyết định sống đủ gần nhau để thực hành một lối sống chung và để đạt được mục đích chung](./C%E1%BB%99ng%20%C4%91%E1%BB%93ng%20c%C3%B3%20ch%E1%BB%A7%20%C4%91%C3%ADch%20%C4%91%C6%B0%E1%BB%A3c%20h%C3%ACnh%20th%C3%A0nh%20khi%20m%E1%BB%99t%20nh%C3%B3m%20ng%C6%B0%E1%BB%9Di%20quy%E1%BA%BFt%20%C4%91%E1%BB%8Bnh%20s%E1%BB%91ng%20%C4%91%E1%BB%A7%20g%E1%BA%A7n%20nhau%20%C4%91%E1%BB%83%20th%E1%BB%B1c%20h%C3%A0nh%20m%E1%BB%99t%20l%E1%BB%91i%20s%E1%BB%91ng%20chung%20v%C3%A0%20%C4%91%E1%BB%83%20%C4%91%E1%BA%A1t%20%C4%91%C6%B0%E1%BB%A3c%20m%E1%BB%A5c%20%C4%91%C3%ADch%20chung.md). Đây là một số mục đích cơ bản mà cộng đồng nào cũng có:
+[Cộng đồng có chủ đích được hình thành khi một nhóm người quyết định sống cùng nhau hoặc đủ gần nhau để thực hành một lối sống chung, bên trong một văn hóa chung, để đạt được một mục đích chung](./C%E1%BB%99ng%20%C4%91%E1%BB%93ng%20c%C3%B3%20ch%E1%BB%A7%20%C4%91%C3%ADch%20%C4%91%C6%B0%E1%BB%A3c%20h%C3%ACnh%20th%C3%A0nh%20khi%20m%E1%BB%99t%20nh%C3%B3m%20ng%C6%B0%E1%BB%9Di%20quy%E1%BA%BFt%20%C4%91%E1%BB%8Bnh%20s%E1%BB%91ng%20%C4%91%E1%BB%A7%20g%E1%BA%A7n%20nhau%20%C4%91%E1%BB%83%20th%E1%BB%B1c%20h%C3%A0nh%20m%E1%BB%99t%20l%E1%BB%91i%20s%E1%BB%91ng%20chung%20v%C3%A0%20%C4%91%E1%BB%83%20%C4%91%E1%BA%A1t%20%C4%91%C6%B0%E1%BB%A3c%20m%E1%BB%A5c%20%C4%91%C3%ADch%20chung.md). Đây là một số mục đích cơ bản mà cộng đồng nào cũng có:
 - Tiết kiệm chi phí sinh hoạt
 - Có thêm các mối quan hệ thân mật
 - Thử nghiệm các cách tổ chức xã hội phi chủ lưu
@@ -73,17 +73,10 @@ Về các cộng đồng có chủ đích ở Việt Nam thì đọc bài chi ti
 
 Xem thêm:: [❓Các câu hỏi về cộng đồng có chủ đích bên ngoài đô thị](./C%E1%BB%99ng%20%C4%91%E1%BB%93ng%20ngo%C3%A0i%20%C4%91%C3%B4%20th%E1%BB%8B/%E2%9D%93C%C3%A1c%20c%C3%A2u%20h%E1%BB%8Fi%20v%E1%BB%81%20c%E1%BB%99ng%20%C4%91%E1%BB%93ng%20c%C3%B3%20ch%E1%BB%A7%20%C4%91%C3%ADch%20b%C3%AAn%20ngo%C3%A0i%20%C4%91%C3%B4%20th%E1%BB%8B.md)
 
-## Xây dựng cộng đồng có chủ đích ở đô thị
-Ý tưởng xây dựng cộng đồng sống chung nhà:
-- Gom nhóm 4, 5 người cùng thuê một căn hộ chung cư
-- Gom nhóm 10 người trở lên cùng thuê một căn nhà nhiều tầng
-
-Bài chi tiết:: [Xây dựng cộng đồng có chủ đích ở TP.HCM](../../../%F0%9F%93%90D%E1%BB%B1%20%C3%A1n/M%E1%BA%A1ng%20k%E1%BA%BFt%20n%E1%BB%91i%20nhu%20c%E1%BA%A7u/T%C3%ACm%20ng%C6%B0%E1%BB%9Di%20%E1%BB%9F%20gh%C3%A9p%20%E1%BB%9F%20TP.HCM.md)
-
-Nhà của một gia đình thông thường chỉ có một nhà bếp và các nhà vệ sinh ở các tầng. Điều này cũng phù hợp với cách sinh hoạt của cộng đồng có chủ đích. Tuy nhiên, vì khó kiếm khách thuê nhà nguyên căn hơn khách tầng hoặc thuê phòng, nên chủ nhà có xu hướng muốn tách căn nhà thành nhiều phòng nhỏ có bếp và nhà vệ sinh riêng. Cộng đồng vào những căn nhà này sẽ bị giảm diện tích sinh hoạt tối ưu.
-
-Ý tưởng xây dựng hợp tác xã nhà ở:
-- Thuyết phục chủ chung cư mini bán cổ phần cho người thuê
+## Xây dựng cộng đồng có chủ đích ở đô thị cho người không có nhiều tiền
+Một số ý tưởng để triển khai:
+- [Lập nhóm sống chung nhà](../../../%F0%9F%93%90D%E1%BB%B1%20%C3%A1n/M%E1%BA%A1ng%20k%E1%BA%BFt%20n%E1%BB%91i%20nhu%20c%E1%BA%A7u/L%E1%BA%ADp%20nh%C3%B3m%20s%E1%BB%91ng%20chung%20nh%C3%A0.md)
+- Xây dựng hợp tác xã nhà ở: thuyết phục chủ chung cư mini bán cổ phần cho người thuê
 
 ## Cộng đồng có chủ đích không phải là gì?
 Không phải cứ đến sống chung với nhau là trở thành một cộng đồng có chủ đích. Những người sống ở ghép nhưng mỗi người có cuộc sống riêng, không chia sẻ một lối sống chung, thì dù cũng có cùng mục tiêu là tiết kiệm tiền nhà, cũng không phải là cộng đồng có chủ đích.
@@ -95,4 +88,3 @@ Không phải cứ đến sống chung và gắn bó với nhau là trở thành
 Các đoàn diễn lưu động, đoàn thám hiểm, trại nghiên cứu, toán quân du kích có nhiều nét giống cộng đồng có chủ đích hơn, khi họ phải sống chung với nhau, chia sẻ một lối sống chung và có tiếng nói với nhau. [Công việc nhiều rủi ro thì tổ chức thường ngang hàng. Công việc nhiều an toàn thì tổ chức thường phân cấp](../../../%F0%9F%8F%A2V%E1%BA%ADn%20h%C3%A0nh%20doanh%20nghi%E1%BB%87p/M%C3%B4%20h%C3%ACnh%20ho%E1%BA%A1t%20%C4%91%E1%BB%99ng/C%C3%B4ng%20vi%E1%BB%87c%20nhi%E1%BB%81u%20r%E1%BB%A7i%20ro%20th%C3%AC%20t%E1%BB%95%20ch%E1%BB%A9c%20th%C6%B0%E1%BB%9Dng%20ngang%20h%C3%A0ng.%20C%C3%B4ng%20vi%E1%BB%87c%20nhi%E1%BB%81u%20an%20to%C3%A0n%20th%C3%AC%20t%E1%BB%95%20ch%E1%BB%A9c%20th%C6%B0%E1%BB%9Dng%20ph%C3%A2n%20c%E1%BA%A5p.md). Ở những nhóm này, nếu các thành viên không đồng ý với người lãnh đạo thì họ có thể chọn ra một người mới mà người cũ không làm được gì, vì người lãnh đạo chỉ là thiểu số. Tuy nhiên có thể người cũ đã được chỉ định bởi một thiết chế bên ngoài nào đó, và họ phải chịu phản ứng của thiết chế đó cho quyết định của mình. Họ có những lúc có được sự tự trị, nhưng không chắc là luôn luôn.
 
 Nếu họ chỉ phải chịu trách nhiệm cho những quyết định của mình, giống như [băng hải tặc mũ rơm](https://youtu.be/5SzMEPJBHzE?si=JLWCE2EXcnLzz40o), thì có thể xem họ là cộng đồng có chủ đích. Điểm khác biệt duy nhất với các cộng đồng có chủ đích điển hình là ở điểm kết thúc của nó. Các mục tiêu như sống gần nhau, giảm chi phí sinh hoạt, nuôi con, dưỡng già, kết nối tâm linh có thể nói là không bao giờ hoàn thành. Các cộng đồng như này tồn tại vì các thành viên muốn có một cộng đồng như này tồn tại. Còn với các sứ mệnh như nghiên cứu học thuật, thực hành nghệ thuật, v.v., khi hoàn thành thì cộng đồng sẽ tan rã, hoặc phải bổ sung thêm mục tiêu khác để duy trì.
-
