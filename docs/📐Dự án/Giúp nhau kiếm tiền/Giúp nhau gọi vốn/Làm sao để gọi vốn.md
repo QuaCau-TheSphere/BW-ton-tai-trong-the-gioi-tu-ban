@@ -1,7 +1,7 @@
 ---
 share: true
 blog: working
-updated: 2026-10-24T22:01
+updated: 2026-10-25T15:30
 created: 2026-07-27T14:38
 title: Làm sao để kêu gọi mọi người đầu tư vào mình?
 aliases:
@@ -23,7 +23,8 @@ Xa hơn là xây dựng [quỹ tín dụng vi mô](../../../%F0%9F%93%9CT%C3%A0i
 
 [nic.gov.vn/img/wpuploads/2023/04/BC-huy-dong-nguon-von.pdf](https://nic.gov.vn/img/wpuploads/2023/04/BC-huy-dong-nguon-von.pdf)
 [Vay vốn doanh nghiệp vừa và nhỏ Tín chấp - Validus Việt Nam](https://validus.vn/#)
-[Làm sao để không phải đòi hỏi người tiếp cận các nguồn lực của mình phải trả tiền?](../../X%C3%A2y%20d%E1%BB%B1ng%20h%E1%BB%87%20th%E1%BB%91ng%20kinh%20t%E1%BA%BF%20m%E1%BB%9Bi/L%C3%A0m%20sao%20%C4%91%E1%BB%83%20kh%C3%B4ng%20ph%E1%BA%A3i%20%C4%91%C3%B2i%20h%E1%BB%8Fi%20ng%C6%B0%E1%BB%9Di%20ti%E1%BA%BFp%20c%E1%BA%ADn%20c%C3%A1c%20ngu%E1%BB%93n%20l%E1%BB%B1c%20c%E1%BB%A7a%20m%C3%ACnh%20ph%E1%BA%A3i%20tr%E1%BA%A3%20ti%E1%BB%81n.md)
+[Làm sao để không phải đòi hỏi người tiếp cận các nguồn lực của mình phải trả tiền?](../../X%C3%A2y%20d%E1%BB%B1ng%20h%E1%BB%87%20th%E1%BB%91ng%20kinh%20t%E1%BA%BF%20m%E1%BB%9Bi/L%C3%A0m%20sao%20%C4%91%E1%BB%83%20kh%C3%B4ng%20ph%E1%BA%A3i%20%C4%91%C3%B2i%20h%E1%BB%8Fi%20ng%C6%B0%E1%BB%9Di%20ti%E1%BA%BFp%20c%E1%BA%ADn%20c%C3%A1c%20t%C3%A0i%20nguy%C3%AAn%20c%E1%BB%A7a%20m%C3%ACnh%20ph%E1%BA%A3i%20tr%E1%BA%A3%20ti%E1%BB%81n%20m%C3%A0%20v%E1%BA%ABn%20%C4%91%E1%BB%A7%20s%E1%BB%91ng.md)
+[Làm sao để kiếm tiền từ các tài nguyên có tổng lớn hơn 0?](../../X%C3%A2y%20d%E1%BB%B1ng%20h%E1%BB%87%20th%E1%BB%91ng%20kinh%20t%E1%BA%BF%20m%E1%BB%9Bi/L%C3%A0m%20sao%20%C4%91%E1%BB%83%20ki%E1%BA%BFm%20ti%E1%BB%81n%20t%E1%BB%AB%20c%C3%A1c%20t%C3%A0i%20nguy%C3%AAn%20kh%C3%B4ng%20m%E1%BA%A5t%20%C4%91i%20khi%20%C4%91%C6%B0a%20cho%20ng%C6%B0%E1%BB%9Di%20kh%C3%A1c.md)
 
 Đây là một phần của dự án [giúp nhau kiếm tiền](../index.md). Đọc bài đó để hiểu thêm về mục tiêu dài hạn của dự án cũng như các lợi ích khác của bạn. 
 
