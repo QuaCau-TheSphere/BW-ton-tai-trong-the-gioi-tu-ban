@@ -1,9 +1,10 @@
 ---
 share: true
 created: 2026-10-24T17:27
-updated: 2026-10-25T17:37
+updated: 2026-10-25T19:40
 title: Tại sao phải đi kiếm tiền?
 ---
+# Tại sao phải đi kiếm tiền?
 Rõ ràng là trước khi tiền được phát minh ra thì con người vẫn sống vui, sống khỏe, sống hạnh phúc. Và ngay cả bây giờ, vẫn có những người không cần đi kiếm tiền vẫn sống tốt. Trừ những người chưa có hoặc không còn khả năng kiếm tiền và xã hội sẽ phải chăm sóc họ (VD: trẻ em, người già, người mất năng lực hành vi, người bị bệnh, tai nạn, v.v.), và những người có sẵn một khoản tài sản đủ để tự đáp ứng nhu cầu của họ (VD: người giàu, người có dòng tiền ổn định), tôi nghĩ có thể chia ra thành 2 loại sau:
 - **Người tìm được người sẵn lòng cung cấp nhu cầu cho họ vì những điều họ theo đuổi.** VD: người đi tu, người đi phượt, nghệ sĩ, v.v.
 - **Người tự sản xuất được các sản phẩm cho các nhu cầu của mình, hoặc trao đổi sản phẩm không cần phải qua hình thức mua bán.** VD: người sống dựa vào tự nhiên, người sống trong các cộng đồng tự cung tự cấp, v.v.
