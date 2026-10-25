@@ -1,9 +1,9 @@
 ---
 share: true
-updated: 2026-07-27T02:26
+updated: 2026-10-25T14:40
 created: 2025-09-03T09:46
 ---
-Khái niệm:: [Giá trị](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Kinh%20t%E1%BA%BF%20h%E1%BB%8Dc/Gi%C3%A1%20tr%E1%BB%8B.md), [Khan hiếm](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Kinh%20t%E1%BA%BF%20h%E1%BB%8Dc/Khan%20hi%E1%BA%BFm.md)
+Khái niệm:: [Giá trị](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Kinh%20t%E1%BA%BF%20h%E1%BB%8Dc/Gi%C3%A1%20tr%E1%BB%8B.md), [Khan hiếm](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Kinh%20t%E1%BA%BF%20h%E1%BB%8Dc/Khan%20hi%E1%BA%BFm.md), [Hàng hoá](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Kinh%20t%E1%BA%BF%20h%E1%BB%8Dc/H%C3%A0ng%20ho%C3%A1.md), [Lao động](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Lao%20%C4%91%E1%BB%99ng/index.md)
 Cuộc cách mạng cận biên giống như một bản remix của kinh tế học cổ điển: nó vẫn tin vào thị trường và tự do trao đổi, nhưng đã đổi nhạc nền từ “lao động tạo ra giá trị” sang “giá trị nằm ở sự cảm nhận của người sử dụng và sự khan hiếm của hàng hóa”. Và cũng từ đây, kinh tế học bắt đầu nói bằng đồ thị đường cong cung – cầu mà hầu hết chúng ta từng thấy ở lớp học phổ thông.
 
-Nguồn:: https://vhlinh.substack.com/p/lich-su-kinh-te-hoc-2-cuoc-cach-mang
+Nguồn:: [Lịch sử Kinh tế học (2): Cuộc Cách mạng cận biên và kinh tế học tân cổ điển](https://vhlinh.substack.com/p/lich-su-kinh-te-hoc-2-cuoc-cach-mang)
