@@ -61,7 +61,7 @@ Chỉ những nhân viên bán hàng không nghĩ rằng mình có thể thay đ
 
 
 
-[❓An sinh xã hội, mối quan hệ với thiên nhiên, các loại vốn phi tài chính là các tài sản vô hình](../../%F0%9F%8E%81Ph%C3%A1t%20tri%E1%BB%83n%20b%E1%BB%81n%20v%E1%BB%AFng.%20C%C3%A1c%20n%E1%BB%81n%20kinh%20t%E1%BA%BF%20thay%20th%E1%BA%BF/Gi%E1%BA%A3i%20ph%C3%A1p/%E2%9D%93An%20sinh%20x%C3%A3%20h%E1%BB%99i,%20m%E1%BB%91i%20quan%20h%E1%BB%87%20v%E1%BB%9Bi%20thi%C3%AAn%20nhi%C3%AAn,%20c%C3%A1c%20lo%E1%BA%A1i%20v%E1%BB%91n%20phi%20t%C3%A0i%20ch%C3%ADnh%20l%C3%A0%20c%C3%A1c%20t%C3%A0i%20s%E1%BA%A3n%20v%C3%B4%20h%C3%ACnh.md)
+[An sinh xã hội, mối quan hệ với thiên nhiên, các loại vốn phi tài chính cũng có tác dụng như các tài sản vô hình, nhưng không được kinh tế chủ lưu để ý tới](../../%F0%9F%8E%81Ph%C3%A1t%20tri%E1%BB%83n%20b%E1%BB%81n%20v%E1%BB%AFng.%20C%C3%A1c%20n%E1%BB%81n%20kinh%20t%E1%BA%BF%20thay%20th%E1%BA%BF/Gi%E1%BA%A3i%20ph%C3%A1p/An%20sinh%20x%C3%A3%20h%E1%BB%99i,%20m%E1%BB%91i%20quan%20h%E1%BB%87%20v%E1%BB%9Bi%20thi%C3%AAn%20nhi%C3%AAn,%20c%C3%A1c%20lo%E1%BA%A1i%20v%E1%BB%91n%20phi%20t%C3%A0i%20ch%C3%ADnh%20c%C5%A9ng%20c%C3%B3%20t%C3%A1c%20d%E1%BB%A5ng%20nh%C6%B0%20c%C3%A1c%20t%C3%A0i%20s%E1%BA%A3n%20v%C3%B4%20h%C3%ACnh,%20nh%C6%B0ng%20kh%C3%B4ng%20%C4%91%C6%B0%E1%BB%A3c%20kinh%20t%E1%BA%BF%20ch%E1%BB%A7%20l%C6%B0u%20%C4%91%E1%BB%83%20%C3%BD%20t%E1%BB%9Bi.md)
 Cộng sinh, ký sinh
 Dòng vốn
 Cộng sản là tư bản sinh thái
@@ -69,7 +69,7 @@ Cộng sản là tư bản sinh thái
 [Công xã là việc bị đánh thuế 100%](../../%F0%9F%8E%81Ph%C3%A1t%20tri%E1%BB%83n%20b%E1%BB%81n%20v%E1%BB%AFng.%20C%C3%A1c%20n%E1%BB%81n%20kinh%20t%E1%BA%BF%20thay%20th%E1%BA%BF/Gi%E1%BA%A3i%20ph%C3%A1p/C%C3%B4ng%20x%C3%A3%20l%C3%A0%20vi%E1%BB%87c%20b%E1%BB%8B%20%C4%91%C3%A1nh%20thu%E1%BA%BF%20100%25.md)
 Doanh nghiệp xã hội
 [Nhóm mua chung, câu lạc bộ tiêu dùng](../X%C3%A2y%20d%E1%BB%B1ng%20h%E1%BB%87%20th%E1%BB%91ng%20kinh%20t%E1%BA%BF%20m%E1%BB%9Bi/Nh%C3%B3m%20mua%20chung,%20c%C3%A2u%20l%E1%BA%A1c%20b%E1%BB%99%20ti%C3%AAu%20d%C3%B9ng.md)
-[Phiếu giảm giá (voucher)](../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Qu%C3%A0%20t%E1%BA%B7ng/C%C3%B3%20m%E1%BB%A5c%20%C4%91%C3%ADch%20ki%E1%BA%BFm%20ti%E1%BB%81n/Phi%E1%BA%BFu%20gi%E1%BA%A3m%20gi%C3%A1%20(voucher).md)
+[Phiếu giảm giá (voucher)](../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Gi%E1%BB%9Bi%20thi%E1%BB%87u%20d%E1%BB%8Bch%20v%E1%BB%A5/T%C3%A0i%20ch%C3%ADnh/B%E1%BA%A3o%20hi%E1%BB%83m/Phi%E1%BA%BFu%20gi%E1%BA%A3m%20gi%C3%A1%20(voucher).md)
 
 ## Nhìn toàn cảnh
 Đây là một phần của dự án [giúp nhau kiếm tiền](../Gi%C3%BAp%20nhau%20ki%E1%BA%BFm%20ti%E1%BB%81n/index.md). Đọc bài đó để hiểu thêm về mục tiêu dài hạn của dự án cũng như các lợi ích khác của bạn. 
