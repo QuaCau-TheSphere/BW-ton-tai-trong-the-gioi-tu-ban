@@ -1,13 +1,13 @@
 ---
 share: true
-updated: 2026-10-24T15:12
+updated: 2026-10-25T17:08
+created: 2025-10-20T09:52
 aliases:
   - đồng cư, hợp tác xã nhà ở, quỹ nhà ở vi mô
   - làng sinh thái, công xã
   - intentional community
   - Cộng đồng địa phương, offline
 description: Khái niệm, phân loại, nguồn lực, hướng dẫn ghé thăm, dự án xây dựng một cộng đồng như vậy, và các phản ví dụ
-created: 2025-10-20T09:52
 title: Cộng đồng có chủ đích
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PfAsblgWXtg?si=HRFiWadJ1c9AS0pC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
