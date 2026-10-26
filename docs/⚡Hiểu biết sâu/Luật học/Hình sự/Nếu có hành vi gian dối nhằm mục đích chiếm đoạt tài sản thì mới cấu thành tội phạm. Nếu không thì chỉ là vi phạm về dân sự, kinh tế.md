@@ -1,6 +1,6 @@
 ---
 share: true
-updated: 2026-09-25T16:08
+updated: 2026-10-26T14:02
 created: 2026-06-03T15:45
 ---
 Khái niệm:: 
@@ -14,3 +14,4 @@ Nguồn:: [Đi tìm nguyên nhân những vụ doanh nhân bị hình sự hóa]
 [Nếu không có dấu hiệu gian dối, chiếm đoạt hoặc xâm phạm trật tự quản lý kinh tế một cách nghiêm trọng thì không nên bị xử lý bằng biện pháp hình sự](./N%E1%BA%BFu%20kh%C3%B4ng%20c%C3%B3%20d%E1%BA%A5u%20hi%E1%BB%87u%20gian%20d%E1%BB%91i,%20chi%E1%BA%BFm%20%C4%91o%E1%BA%A1t%20ho%E1%BA%B7c%20x%C3%A2m%20ph%E1%BA%A1m%20tr%E1%BA%ADt%20t%E1%BB%B1%20qu%E1%BA%A3n%20l%C3%BD%20kinh%20t%E1%BA%BF%20m%E1%BB%99t%20c%C3%A1ch%20nghi%C3%AAm%20tr%E1%BB%8Dng%20th%C3%AC%20kh%C3%B4ng%20n%C3%AAn%20b%E1%BB%8B%20x%E1%BB%AD%20l%C3%BD%20b%E1%BA%B1ng%20bi%E1%BB%87n%20ph%C3%A1p%20h%C3%ACnh%20s%E1%BB%B1.md)
 [Xù nợ ngân hàng](../../../%F0%9F%93%90D%E1%BB%B1%20%C3%A1n/Gi%C3%BAp%20nhau%20tho%C3%A1t%20n%E1%BB%A3/T%C3%A0i%20li%E1%BB%87u/X%C3%B9%20n%E1%BB%A3%20ng%C3%A2n%20h%C3%A0ng.md)
 [Khi thiếu cơ sở pháp lý cụ thể để nhận diện bản chất hành vi, các quan hệ dân sự có thể bị xem xét và xử lý theo hướng hình sự](./Khi%20thi%E1%BA%BFu%20c%C6%A1%20s%E1%BB%9F%20ph%C3%A1p%20l%C3%BD%20c%E1%BB%A5%20th%E1%BB%83%20%C4%91%E1%BB%83%20nh%E1%BA%ADn%20di%E1%BB%87n%20b%E1%BA%A3n%20ch%E1%BA%A5t%20h%C3%A0nh%20vi,%20c%C3%A1c%20quan%20h%E1%BB%87%20d%C3%A2n%20s%E1%BB%B1%20c%C3%B3%20th%E1%BB%83%20b%E1%BB%8B%20xem%20x%C3%A9t%20v%C3%A0%20x%E1%BB%AD%20l%C3%BD%20theo%20h%C6%B0%E1%BB%9Bng%20h%C3%ACnh%20s%E1%BB%B1.md)
+[Gian dối để vi phạm nghĩa vụ hợp đồng thì không phải là tội hình sự](../D%C3%A2n%20s%E1%BB%B1/Gian%20d%E1%BB%91i%20%C4%91%E1%BB%83%20vi%20ph%E1%BA%A1m%20ngh%C4%A9a%20v%E1%BB%A5%20h%E1%BB%A3p%20%C4%91%E1%BB%93ng%20th%C3%AC%20kh%C3%B4ng%20ph%E1%BA%A3i%20l%C3%A0%20t%E1%BB%99i%20h%C3%ACnh%20s%E1%BB%B1.md)
