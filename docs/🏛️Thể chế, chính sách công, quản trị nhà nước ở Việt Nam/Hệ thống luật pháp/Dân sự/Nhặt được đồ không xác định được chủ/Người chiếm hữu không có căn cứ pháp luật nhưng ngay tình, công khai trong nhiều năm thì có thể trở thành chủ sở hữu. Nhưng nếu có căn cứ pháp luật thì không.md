@@ -1,8 +1,9 @@
 ---
 share: true
 created: 2026-10-11T20:56
-updated: 2026-10-20T17:50
+updated: 2026-10-27T15:55
 ---
-Khái niệm:: 
+Khái niệm:: [Luật Việt Nam](../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Nh%C3%A0%20n%C6%B0%E1%BB%9Bc/Lu%E1%BA%ADt%20Vi%E1%BB%87t%20Nam.md), [Luật dân sự](../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Nh%C3%A0%20n%C6%B0%E1%BB%9Bc/Lu%E1%BA%ADt/Lu%E1%BA%ADt%20d%C3%A2n%20s%E1%BB%B1.md), [Chiếm hữu, sở hữu](../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Kinh%20t%E1%BA%BF%20h%E1%BB%8Dc/Chi%E1%BA%BFm%20h%E1%BB%AFu,%20s%E1%BB%9F%20h%E1%BB%AFu.md)
 
 [Nếu không biết chủ là ai mà cũng không thông báo cho công an, thì sau 1 năm chủ đến đòi vẫn phải trả lại. Chủ phải trả lại công bảo quản](./N%E1%BA%BFu%20kh%C3%B4ng%20bi%E1%BA%BFt%20ch%E1%BB%A7%20l%C3%A0%20ai%20m%C3%A0%20c%C5%A9ng%20kh%C3%B4ng%20th%C3%B4ng%20b%C3%A1o%20cho%20c%C3%B4ng%20an,%20th%C3%AC%20sau%201%20n%C4%83m%20ch%E1%BB%A7%20%C4%91%E1%BA%BFn%20%C4%91%C3%B2i%20v%E1%BA%ABn%20ph%E1%BA%A3i%20tr%E1%BA%A3%20l%E1%BA%A1i.%20Ch%E1%BB%A7%20ph%E1%BA%A3i%20tr%E1%BA%A3%20l%E1%BA%A1i%20c%C3%B4ng%20b%E1%BA%A3o%20qu%E1%BA%A3n.md)
+[❓Chiếm hữu không có căn cứ pháp luật là lấy đồ không xác định được chủ. Chiếm hữu bất hợp pháp là lấy đồ biết ai là chủ nhưng không trả](./%E2%9D%93Chi%E1%BA%BFm%20h%E1%BB%AFu%20kh%C3%B4ng%20c%C3%B3%20c%C4%83n%20c%E1%BB%A9%20ph%C3%A1p%20lu%E1%BA%ADt%20l%C3%A0%20l%E1%BA%A5y%20%C4%91%E1%BB%93%20kh%C3%B4ng%20x%C3%A1c%20%C4%91%E1%BB%8Bnh%20%C4%91%C6%B0%E1%BB%A3c%20ch%E1%BB%A7.%20Chi%E1%BA%BFm%20h%E1%BB%AFu%20b%E1%BA%A5t%20h%E1%BB%A3p%20ph%C3%A1p%20l%C3%A0%20l%E1%BA%A5y%20%C4%91%E1%BB%93%20bi%E1%BA%BFt%20ai%20l%C3%A0%20ch%E1%BB%A7%20nh%C6%B0ng%20kh%C3%B4ng%20tr%E1%BA%A3.md)
