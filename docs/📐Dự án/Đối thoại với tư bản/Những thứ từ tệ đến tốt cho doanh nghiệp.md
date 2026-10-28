@@ -1,0 +1,33 @@
+---
+share: true
+created: 2025-05-04T15:54
+updated: 2026-10-27T16:18
+tags:
+  - DecentWork
+---
+1. [ ] Vi phạm đạo đức 
+2. [ ] Vi phạm pháp luật
+3. [ ] Mức thù lao ngang với thị trường 
+4. [ ] Mức thù lao tốt hơn thị trường 
+5. [ ] Không ép chỉ tiêu
+6. [ ] [Không khai thác điểm yếu khách hàng](../../%F0%9F%93%A6N%E1%BB%81n%20kinh%20t%E1%BA%BF%20h%C3%A0ng%20ho%C3%A1/Kinh%20t%E1%BA%BF%20ch%C3%ADnh%20tr%E1%BB%8B/Ch%E1%BB%A7%20ngh%C4%A9a%20t%C6%B0%20b%E1%BA%A3n,%20t%C3%A2n%20t%E1%BB%B1%20do/Vi%E1%BB%87c%20khai%20th%C3%A1c%20%C4%91i%E1%BB%83m%20y%E1%BA%BFu%20c%E1%BB%A7a%20con%20ng%C6%B0%E1%BB%9Di%20%C4%91em%20l%E1%BA%A1i%20l%E1%BB%A3i%20nhu%E1%BA%ADn.md)
+7. [ ] Tham gia [ESG](../../%F0%9F%8E%81Ph%C3%A1t%20tri%E1%BB%83n%20b%E1%BB%81n%20v%E1%BB%AFng.%20C%C3%A1c%20n%E1%BB%81n%20kinh%20t%E1%BA%BF%20thay%20th%E1%BA%BF/Gi%E1%BA%A3i%20ph%C3%A1p/%C4%90%C3%B4%20th%E1%BB%8B%20b%E1%BB%81n%20v%E1%BB%AFng/ESG.md)
+8. [ ] Minh bạch chiến lược
+9. [ ] Được tham gia quyết định
+10. [ ] Không sử dụng dịch vụ của những nơi tệ
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zyApRta3ZNQ?si=ethxsICNd-3f8v_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Tại sao ít lợi nhuận hơn thì sẽ bị giết chết trên thị trường?
+[r/antiwork FAQ: All About Anti-Work](https://www.reddit.com/r/antiwork/wiki/index/)
+
+[Các hình thức của sự tệ](../../%F0%9F%92%B8H%C3%ACnh%20th%E1%BB%A9c%20ki%E1%BA%BFm%20ti%E1%BB%81n/Thi%E1%BA%BFu%20li%C3%AAm%20ch%C3%ADnh.%20Ph%E1%BA%A1m%20ph%C3%A1p/index.md)
+Việc làm thỏa đáng không chỉ là thu nhập, mà còn là:
+- Điều kiện làm việc an toàn
+- Lương đủ sống
+- An sinh xã hội
+- Đối xử công bằng
+- Quyền được nghỉ ngơi
+- [\[English below\] Ai cũng xứng đáng có một công việc mà mình có thể làm việc với sự an tâm và sống với phẩm giá. Đó là tinh thần của việc làm thỏa đáng! Nhân Ngày Thế giới về Việc làm Thỏa đáng (7/10), ILO tiếp tục đồng hành cùng chính phủ, đại điện người lao động và người sử dụng lao động để thúc đẩy việc làm thỏa đáng, năng suất và công bằng cho tất cả mọi người. -- Everyone deserves work that allows them to work with security and live with dignity. That is the spirit of decent work. On World Day for #DecentWork (7 October), the ILO continues to work with the government, representatives of workers and employers to advance decent work, productive employment and equal opportunities for... - Tổ chức Lao động Quốc tế - International Labour Organization \| Facebook](https://www.facebook.com/share/p/1CRzfx3tZX/)
+- 
+
+[95% quyết định mua hàng diễn ra trong tiềm thức](../../%F0%9F%93%A6N%E1%BB%81n%20kinh%20t%E1%BA%BF%20h%C3%A0ng%20ho%C3%A1/Kinh%20t%E1%BA%BF%20h%E1%BB%8Dc%20t%C3%A2m%20l%C3%BD/Quy%E1%BA%BFt%20%C4%91%E1%BB%8Bnh%20mua%20h%C3%A0ng/95%25%20quy%E1%BA%BFt%20%C4%91%E1%BB%8Bnh%20mua%20h%C3%A0ng%20di%E1%BB%85n%20ra%20trong%20ti%E1%BB%81m%20th%E1%BB%A9c.md)
