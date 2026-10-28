@@ -1,6 +1,6 @@
 ---
 share: true
-updated: 2026-08-14T13:50
+updated: 2026-10-26T19:59
 created: 2026-04-24T23:19
 ---
 ## Vcil gửi 23/4/2026
@@ -353,3 +353,6 @@ việc không minh bạch là thứ gây ra sự thiếu đoàn kết
 Dừng ở việc tìm hiểu pháp luật là đc rồi. Không muốn tìm hiểu thêm về sự trượt nghĩa
 
 Không nghĩ là nên hỗ trợ những nơi không minh bạch và không thấy mình có nghĩa vụ hay trách nhiệm hỏi lại trước khi phán xét người khác.
+
+Các bạn hay nói về sở hữu chung. Nay tại sao lại nói là của riêng các bạn?
+[Sở hữu chung không phải là sở hữu riêng và cũng không phải là sở hữu công](../../../%F0%9F%8E%81Ph%C3%A1t%20tri%E1%BB%83n%20b%E1%BB%81n%20v%E1%BB%AFng.%20C%C3%A1c%20n%E1%BB%81n%20kinh%20t%E1%BA%BF%20thay%20th%E1%BA%BF/Th%E1%BB%B1c%20tr%E1%BA%A1ng/S%E1%BB%9F%20h%E1%BB%AFu%20chung%20kh%C3%B4ng%20ph%E1%BA%A3i%20l%C3%A0%20s%E1%BB%9F%20h%E1%BB%AFu%20ri%C3%AAng%20v%C3%A0%20c%C5%A9ng%20kh%C3%B4ng%20ph%E1%BA%A3i%20l%C3%A0%20s%E1%BB%9F%20h%E1%BB%AFu%20c%C3%B4ng.md)
