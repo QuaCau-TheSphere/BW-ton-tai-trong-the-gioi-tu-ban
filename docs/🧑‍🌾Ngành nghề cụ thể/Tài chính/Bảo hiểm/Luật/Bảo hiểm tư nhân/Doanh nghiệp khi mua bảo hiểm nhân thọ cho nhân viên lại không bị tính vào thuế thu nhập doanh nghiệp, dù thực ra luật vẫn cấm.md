@@ -20,7 +20,7 @@ Hãy quay lại cách một công ty bảo hiểm được thành lập. Để m
 
 Cần nhớ rằng sản phẩm này được bán một cách đường hoàng, đúng luật chứ không phải là bán chui. Có doanh nghiệp mua một lần 16 cái hợp đồng như vậy. Tháng vừa qua Cathay về rất nhiều hợp đồng này dù chưa tới chương trình tặng vàng, vì nhiều công ty cần tất toán thuế cuối năm, chứ mấy chỉ vàng khuyến mãi chẳng đáng là bao. Và tại sao chương trình khuyến mãi lại chạy đến hết tháng 2? Vì tháng 3 là hạn chót để doanh nghiệp quyết toán thuế. 
 
-Vậy thì mấy chỉ vàng này dùng để làm gì? Để cắt hoa hồng cho khách. Có thể dùng nó để hối lộ kế toán, để kế toán thuyết phục giám đốc quyết định mua sản phẩm này. [Luật cấm đại lý trích hoa hồng để giảm giá](./C%E1%BA%A5m%20%C4%91%E1%BA%A1i%20l%C3%BD%20tr%C3%ADch%20hoa%20h%E1%BB%93ng%20%C4%91%E1%BB%83%20gi%E1%BA%A3m%20gi%C3%A1.md), nhưng ai kiểm tra được điều này?
+Vậy thì mấy chỉ vàng này dùng để làm gì? Để cắt hoa hồng cho khách. Có thể dùng nó để hối lộ kế toán, để kế toán thuyết phục giám đốc quyết định mua sản phẩm này. [Luật cấm đại lý trích hoa hồng để giảm giá](./%E2%9D%93C%E1%BA%A5m%20%C4%91%E1%BA%A1i%20l%C3%BD%20tr%C3%ADch%20hoa%20h%E1%BB%93ng%20%C4%91%E1%BB%83%20gi%E1%BA%A3m%20s%E1%BB%91%20ph%C3%AD%20b%E1%BA%A3o%20hi%E1%BB%83m%20ph%E1%BA%A3i%20%C4%91%C3%B3ng.md), nhưng ai kiểm tra được điều này?
 
 Những ai làm doanh nghiệp chắc cũng ít khi nghe thấy quảng cáo sản phẩm này. Tại sao Cathay không quảng cáo nhiều hơn? Vì vốn dĩ cái này chỉ dành cho ai có tiền, mà người có tiền người ta không cần nghe quảng cáo. Người ta cần thấy lợi ích. Hơn nữa quảng cáo cần phải dễ hiểu, nghe cái biết mình có cần hay không. Còn với những thứ phức tạp thì cần đại lý đi tiếp thị. 
 

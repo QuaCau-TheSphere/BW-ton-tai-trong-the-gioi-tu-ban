@@ -1,8 +1,9 @@
 ---
 share: true
 created: 2026-10-19T23:27
-updated: 2026-10-19T23:31
+updated: 2026-10-27T15:55
 ---
+Khái niệm:: [Luật Việt Nam](../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Nh%C3%A0%20n%C6%B0%E1%BB%9Bc/Lu%E1%BA%ADt%20Vi%E1%BB%87t%20Nam.md), [Luật dân sự](../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Nh%C3%A0%20n%C6%B0%E1%BB%9Bc/Lu%E1%BA%ADt/Lu%E1%BA%ADt%20d%C3%A2n%20s%E1%BB%B1.md), [Chiếm hữu, sở hữu](../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Kinh%20t%E1%BA%BF%20h%E1%BB%8Dc/Chi%E1%BA%BFm%20h%E1%BB%AFu,%20s%E1%BB%9F%20h%E1%BB%AFu.md)
 [Nhặt được đồ không xác định được chủ thì được lấy hết. Nếu đó là đồ bỏ quên, đánh rơi thì được lấy tối đa 25tr cộng với một nửa phần còn lại](./Nh%E1%BA%B7t%20%C4%91%C6%B0%E1%BB%A3c%20%C4%91%E1%BB%93%20kh%C3%B4ng%20x%C3%A1c%20%C4%91%E1%BB%8Bnh%20%C4%91%C6%B0%E1%BB%A3c%20ch%E1%BB%A7%20th%C3%AC%20%C4%91%C6%B0%E1%BB%A3c%20l%E1%BA%A5y%20h%E1%BA%BFt.%20N%E1%BA%BFu%20%C4%91%C3%B3%20l%C3%A0%20%C4%91%E1%BB%93%20b%E1%BB%8F%20qu%C3%AAn,%20%C4%91%C3%A1nh%20r%C6%A1i%20th%C3%AC%20%C4%91%C6%B0%E1%BB%A3c%20l%E1%BA%A5y%20t%E1%BB%91i%20%C4%91a%2025tr%20c%E1%BB%99ng%20v%E1%BB%9Bi%20m%E1%BB%99t%20n%E1%BB%ADa%20ph%E1%BA%A7n%20c%C3%B2n%20l%E1%BA%A1i.md)
 
 Nguồn:: <iframe width="560" height="315" src="https://www.youtube.com/embed/aSEUnr16iLI?si=t8GXRDyS2lA7AEZB&t=2458" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -1,10 +1,10 @@
 ---
 share: true
-updated: 2026-09-23T13:11
+updated: 2026-10-28T16:28
 description: "Chuyển dùm tiền được gửi về tài khoản ngân hàng của bạn sang tài khoản khác. Số tiền kiếm được: 60k/stk ngân hàng"
 aliases:
   - Nhận tiền hộ
-created: 2025-08-16T22:23
+created: 2026-10-28T16:26
 ---
 Mô tả công việc:: Chuyển dùm tiền được gửi về tài khoản ngân hàng của bạn sang tài khoản khác
 Số tiền kiếm được:: 60k/stk ngân hàng
@@ -25,12 +25,12 @@ Bài chi tiết:: [Đặt đơn ảo, đơn khống](../../Tr%C3%AAn%20m%E1%BA%A
 ## Thông tin thêm
 - Được chọn ngày bạn muốn làm
 - Một tài khoản ngân hàng có thể có nhiều stk khác nhau. Hầu hết ngân hàng đều mở được tối thiểu 2 stk từ cùng một tài khoản. Với MBBank thì được 3 cái, TPBank được 4 cái.
-- [Công việc nhận tiền hộ không phải là thuê tài khoản, vì không phải đăng nhập vào tài khoản người dùng](../../../../../../../%F0%9F%A7%91%E2%80%8D%F0%9F%8C%BENg%C3%A0nh%20ngh%E1%BB%81%20c%E1%BB%A5%20th%E1%BB%83/T%C3%A0i%20ch%C3%ADnh/T%C3%ADn%20d%E1%BB%A5ng/T%C3%ADn%20d%E1%BB%A5ng%20t%C6%B0%20b%E1%BA%A3n/Lu%E1%BA%ADt/C%C3%B4ng%20vi%E1%BB%87c%20nh%E1%BA%ADn%20ti%E1%BB%81n%20h%E1%BB%99%20kh%C3%B4ng%20ph%E1%BA%A3i%20l%C3%A0%20thu%C3%AA%20t%C3%A0i%20kho%E1%BA%A3n,%20v%C3%AC%20kh%C3%B4ng%20ph%E1%BA%A3i%20%C4%91%C4%83ng%20nh%E1%BA%ADp%20v%C3%A0o%20t%C3%A0i%20kho%E1%BA%A3n%20ng%C6%B0%E1%BB%9Di%20d%C3%B9ng.md)
+- [Việc nhận tiền hộ không phải là thuê tài khoản, vì không phải đăng nhập vào tài khoản người dùng](../../../../../../../%F0%9F%A7%91%E2%80%8D%F0%9F%8C%BENg%C3%A0nh%20ngh%E1%BB%81%20c%E1%BB%A5%20th%E1%BB%83/T%C3%A0i%20ch%C3%ADnh/T%C3%ADn%20d%E1%BB%A5ng/T%C3%ADn%20d%E1%BB%A5ng%20t%C6%B0%20b%E1%BA%A3n/Lu%E1%BA%ADt/Vi%E1%BB%87c%20nh%E1%BA%ADn%20ti%E1%BB%81n%20h%E1%BB%99%20kh%C3%B4ng%20ph%E1%BA%A3i%20l%C3%A0%20thu%C3%AA%20t%C3%A0i%20kho%E1%BA%A3n,%20v%C3%AC%20kh%C3%B4ng%20ph%E1%BA%A3i%20%C4%91%C4%83ng%20nh%E1%BA%ADp%20v%C3%A0o%20t%C3%A0i%20kho%E1%BA%A3n%20ng%C6%B0%E1%BB%9Di%20d%C3%B9ng.md)
 
 Số tiền đầu tư:: 
 Số tiền đặt cọc:: 
 Số người cần tuyển:: 0
-Hình thức công v[Làm thuê không có hợp đồng](../../../../../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/%C3%9D%20t%C6%B0%E1%BB%9Fng%20ki%E1%BA%BFm%20ti%E1%BB%81n/%C4%90%E1%BA%B7c%20%C4%91i%E1%BB%83m%20c%C3%B4ng%20vi%E1%BB%87c/H%C3%ACnh%20th%E1%BB%A9c%20c%C3%B4ng%20vi%E1%BB%87c/L%C3%A0m%20thu%C3%AA%20kh%C3%B4ng%20c%C3%B3%20h%E1%BB%A3p%20%C4%91%E1%BB%93ng.md)khác]]
+Hình thức công việc:: [Làm thuê không có hợp đồng](../../../../../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/%C3%9D%20t%C6%B0%E1%BB%9Fng%20ki%E1%BA%BFm%20ti%E1%BB%81n/%C4%90%E1%BA%B7c%20%C4%91i%E1%BB%83m%20c%C3%B4ng%20vi%E1%BB%87c/H%C3%ACnh%20th%E1%BB%A9c%20c%C3%B4ng%20vi%E1%BB%87c/L%C3%A0m%20thu%C3%AA%20kh%C3%B4ng%20c%C3%B3%20h%E1%BB%A3p%20%C4%91%E1%BB%93ng.md)
 Kiến thức, kỹ năng cần có sẵn::
 Tài nguyên, vật dụng cần có sẵn::  [Có sẵn tài khoản ngân hàng](../../../../../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/%C3%9D%20t%C6%B0%E1%BB%9Fng%20ki%E1%BA%BFm%20ti%E1%BB%81n/%C4%90%E1%BA%B7c%20%C4%91i%E1%BB%83m%20c%C3%B4ng%20vi%E1%BB%87c/T%C3%A0i%20nguy%C3%AAn,%20v%E1%BA%ADt%20d%E1%BB%A5ng/C%C3%B3%20s%E1%BA%B5n%20t%C3%A0i%20kho%E1%BA%A3n%20ng%C3%A2n%20h%C3%A0ng.md)
 Môi trường làm việc:: [Làm qua mạng](../../../../../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/%C3%9D%20t%C6%B0%E1%BB%9Fng%20ki%E1%BA%BFm%20ti%E1%BB%81n/%C4%90%E1%BA%B7c%20%C4%91i%E1%BB%83m%20c%C3%B4ng%20vi%E1%BB%87c/M%C3%B4i%20tr%C6%B0%E1%BB%9Dng%20l%C3%A0m%20vi%E1%BB%87c/L%C3%A0m%20qua%20m%E1%BA%A1ng.md)
@@ -44,6 +44,3 @@ Tên khác::
 ## Nơi thảo luận
 Vào Discord Quả Cầu, kênh "Kiếm tiền nhanh" để thảo luận:
 ![](https://i.imgur.com/PffcLkI.png)
-
-> [!important] Nhìn toàn cảnh
-> Công việc này là một phần của [Nhóm bào tiền sàn thương mại điện tử](./index.md), vốn là một phần của dự án [Giúp nhau kiếm tiền](../../../../../../../%F0%9F%93%90D%E1%BB%B1%20%C3%A1n/Gi%C3%BAp%20nhau%20ki%E1%BA%BFm%20ti%E1%BB%81n/index.md). Đọc bài đầu tiên để được giải đáp các thắc mắc như độ an toàn của công việc, cách vận hành nhóm, cách thức tham gia, v.v. Đọc bài thứ hai để hiểu thêm về mục tiêu dài hạn của dự án cũng như các lợi ích khác của bạn. Ngoài ra, bạn cũng có thể tham khảo thêm [các công việc kiếm tiền nhanh](../../../../../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/%C3%9D%20t%C6%B0%E1%BB%9Fng%20ki%E1%BA%BFm%20ti%E1%BB%81n/%C3%9D%20t%C6%B0%E1%BB%9Fng/Ki%E1%BA%BFm%20ti%E1%BB%81n%20nhanh/index.md) khác.

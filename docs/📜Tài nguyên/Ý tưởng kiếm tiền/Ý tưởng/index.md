@@ -1,14 +1,14 @@
 ---
 share: true
 created: 2023-11-24T16:59
-updated: 2026-10-07T15:06
+updated: 2026-10-28T15:50
 aliases:
   - Các ý tưởng kiếm tiền
   - Danh sách tổng hợp một số ý tưởng kiếm tiền
 description: Các ý tưởng kiếm tiền và yêu cầu đầu vào của chúng
 title: Một số ý tưởng kiếm tiền
 ---
-Tuy nhiên, khi bạn cần tiền, điều đầu tiên cần hỏi không phải là kiếm tiền thế nào, mà là xây dựng [Kế hoạch tài chính](../../../%F0%9F%92%B8H%C3%ACnh%20th%E1%BB%A9c%20ki%E1%BA%BFm%20ti%E1%BB%81n/K%E1%BA%BF%20ho%E1%BA%A1ch%20t%C3%A0i%20ch%C3%ADnh/index.md). Sau khi đã trả lời rồi, lúc đó bạn có thể chọn hình thức kiếm tiền phù hợp với bạn:
+Trước khi hỏi kiếm tiền thế nào, hãy hỏi [Tại sao phải đi kiếm tiền?](../../../%F0%9F%93%90D%E1%BB%B1%20%C3%A1n/X%C3%A2y%20d%E1%BB%B1ng%20h%E1%BB%87%20th%E1%BB%91ng%20kinh%20t%E1%BA%BF%20m%E1%BB%9Bi/T%E1%BA%A1i%20sao%20ph%E1%BA%A3i%20%C4%91i%20ki%E1%BA%BFm%20ti%E1%BB%81n.md), sau đó là xây dựng [Kế hoạch tài chính](../../../%F0%9F%92%B8H%C3%ACnh%20th%E1%BB%A9c%20ki%E1%BA%BFm%20ti%E1%BB%81n/K%E1%BA%BF%20ho%E1%BA%A1ch%20t%C3%A0i%20ch%C3%ADnh/index.md). Sau khi đã trả lời rồi, lúc đó bạn có thể chọn hình thức kiếm tiền phù hợp với bạn:
 - [Kiếm tiền nhanh](./Ki%E1%BA%BFm%20ti%E1%BB%81n%20nhanh/index.md)
 - [Tự kinh doanh, đầu tư](./T%E1%BB%B1%20kinh%20doanh,%20%C4%91%E1%BA%A7u%20t%C6%B0/index.md)
 - [Làm nhân viên chính thức trong công ty](./Vi%E1%BB%87c%20ch%C3%ADnh%20th%E1%BB%A9c%20trong%20c%C3%B4ng%20ty/index.md)

@@ -1,6 +1,6 @@
 ---
 share: true
-updated: 2026-10-24T18:12
+updated: 2026-10-28T13:40
 created: 2026-06-22T14:16
 ---
 Khái niệm:: [Chiếm hữu, sở hữu](../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Kinh%20t%E1%BA%BF%20h%E1%BB%8Dc/Chi%E1%BA%BFm%20h%E1%BB%AFu,%20s%E1%BB%9F%20h%E1%BB%AFu.md)
@@ -48,3 +48,5 @@ https://pmc.ncbi.nlm.nih.gov/articles/PMC2598107
 11) the incident of residuarity. 
 
 [Quyền sở hữu cá nhân là phản ứng tất yếu trước áp lực giảm chi phí giao dịch trong xã hội ngày càng phức tạp](../../../../%F0%9F%93%A6N%E1%BB%81n%20kinh%20t%E1%BA%BF%20h%C3%A0ng%20ho%C3%A1/Tr%C6%B0%E1%BB%9Dng%20ph%C3%A1i,%20l%E1%BB%8Bch%20s%E1%BB%AD%20kinh%20t%E1%BA%BF%20h%E1%BB%8Dc/Th%E1%BB%83%20ch%E1%BA%BF/Quy%E1%BB%81n%20s%E1%BB%9F%20h%E1%BB%AFu%20c%C3%A1%20nh%C3%A2n%20l%C3%A0%20ph%E1%BA%A3n%20%E1%BB%A9ng%20t%E1%BA%A5t%20y%E1%BA%BFu%20tr%C6%B0%E1%BB%9Bc%20%C3%A1p%20l%E1%BB%B1c%20gi%E1%BA%A3m%20chi%20ph%C3%AD%20giao%20d%E1%BB%8Bch%20trong%20x%C3%A3%20h%E1%BB%99i%20ng%C3%A0y%20c%C3%A0ng%20ph%E1%BB%A9c%20t%E1%BA%A1p.md)
+
+[Cảm giác mất mát là cảm giác tiêu cực](../../../../%F0%9F%93%A6N%E1%BB%81n%20kinh%20t%E1%BA%BF%20h%C3%A0ng%20ho%C3%A1/Kinh%20t%E1%BA%BF%20h%E1%BB%8Dc%20t%C3%A2m%20l%C3%BD/C%E1%BA%A3m%20gi%C3%A1c%20m%E1%BA%A5t%20m%C3%A1t%20l%C3%A0%20c%E1%BA%A3m%20gi%C3%A1c%20ti%C3%AAu%20c%E1%BB%B1c.md)

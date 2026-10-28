@@ -3,7 +3,7 @@ share: true
 created: 2025-03-23T17:44
 updated: 2026-10-02T13:59
 ---
-Đây là giải thích chi tiết cho công việc [Giữ tiền hộ](%F0%9F%92%B8H%C3%ACnh%20th%E1%BB%A9c%20ki%E1%BA%BFm%20ti%E1%BB%81n/Thi%E1%BA%BFu%20li%C3%AAm%20ch%C3%ADnh.%20Ph%E1%BA%A1m%20ph%C3%A1p/C%C3%A1ch%20th%E1%BB%B1c%20hi%E1%BB%87n/L%C3%A0m%20k%E1%BA%BFt%20qu%E1%BA%A3%20%E1%BA%A3o/C%C3%A1c%20c%C3%B4ng%20vi%E1%BB%87c/S%C3%A0n%20th%C6%B0%C6%A1ng%20m%E1%BA%A1i%20%C4%91i%E1%BB%87n%20t%E1%BB%AD/Gi%E1%BB%AF%20ti%E1%BB%81n%20h%E1%BB%99.md).
+Đây là giải thích chi tiết cho công việc [Giữ tiền hộ](../../M%E1%BA%B7t%20kh%C3%A1ch%20quan/C%C3%A1ch%20th%E1%BB%B1c%20hi%E1%BB%87n/L%C3%A0m%20k%E1%BA%BFt%20qu%E1%BA%A3%20%E1%BA%A3o/C%C3%A1c%20c%C3%B4ng%20vi%E1%BB%87c/S%C3%A0n%20th%C6%B0%C6%A1ng%20m%E1%BA%A1i%20%C4%91i%E1%BB%87n%20t%E1%BB%AD/Gi%E1%BB%AF%20ti%E1%BB%81n%20h%E1%BB%99.md).
 
 ## Sao lại cần tài khoản đứng tên của tôi?
 Ví dụ như ở các sàn thương mại điện tử, nhân viên thị trường được áp đặt chỉ tiêu tạo khách hàng mới mỗi tháng. Các tài khoản khách hàng này cần phải được hoạt động, và sau khi hoạt động thì sẽ có tiền. Họ không thể chuyển tiền tất cả các tài khoản khách này vào tài khoản của mình vì sẽ bị nghi ngờ gian lận, nên cần những tài khoản ngân hàng có tên khác để nhận giùm rồi chuyển lại cho họ.
