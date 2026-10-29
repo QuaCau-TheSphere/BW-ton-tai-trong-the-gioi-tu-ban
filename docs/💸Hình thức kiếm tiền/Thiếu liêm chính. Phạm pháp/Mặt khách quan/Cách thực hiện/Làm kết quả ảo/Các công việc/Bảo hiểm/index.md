@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2026-09-23T13:11
+updated: 2026-10-29T21:49
 aliases:
   - Làm tư vấn viên bảo hiểm ảo
 title: Làm đại lý bảo hiểm ảo
@@ -21,12 +21,14 @@ Một số công ty có đại lý thật muốn tuyển đại lý ảo:
 > Khi đăng ký làm đại lý bạn sẽ được Bộ Tài chính cấp một mã số đại lý. Mã số này gắn liền với công ty bạn đăng ký. Khi muốn làm đại lý cho công ty khác thì phải cắt mã số ở công ty cũ. Muốn có mã số mới thì phải đi học lại và thi lại.
 
 ## Thi chứng chỉ
-Điểm đậu: 30/40. Thời gian thi: 60 phút. Làm chậm thì 30 phút là xong. Thuộc hết đề rồi thì chỉ 10 phút là xong.
+Bài thi có 40 câu, làm đúng 30 câu là đậu. Thời gian thi là 60 phút. Nếu làm chậm thì 30 phút là xong, còn thuộc hết đề rồi thì chỉ 10 phút là xong.
 
 - [Trang thi thử chính thức](https://olt-exam.mof.gov.vn/Portal.IU.Exam/DoTest.aspx?key=ktfmo)
 - Cơ quan tổ chức thi: [Viện Phát triển Bảo hiểm Việt Nam](https://vidi-e.mof.gov.vn/index.html "Trang chủ | VIDI")
 
-Công ty sẽ không dám ăn gian cục. Nếu bị phát hiện thì cả công ty sẽ bị cấm tuyển dụng từ 1 tháng đến 3 tháng. 
+Công ty sẽ không dám ăn gian cục. Nếu bị phát hiện thì cả công ty sẽ bị cấm tuyển dụng từ 1 đến 3 tháng. 
+
+![Chứng chỉ đại lý bảo hiểm.png](../../../../../../../assets/attachments/Ch%E1%BB%A9ng%20ch%E1%BB%89%20%C4%91%E1%BA%A1i%20l%C3%BD%20b%E1%BA%A3o%20hi%E1%BB%83m.png)
 
 > [!important] Nhìn toàn cảnh
 > Công việc này là một phần của dự án [Giúp nhau kiếm tiền](../../../../../../../%F0%9F%93%90D%E1%BB%B1%20%C3%A1n/Gi%C3%BAp%20nhau%20ki%E1%BA%BFm%20ti%E1%BB%81n/index.md). Đọc bài đó để hiểu thêm về mục tiêu dài hạn của dự án cũng như các lợi ích khác của bạn. Ngoài ra, bạn cũng có thể tham khảo thêm [các công việc kiếm tiền nhanh](../../../../../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/%C3%9D%20t%C6%B0%E1%BB%9Fng%20ki%E1%BA%BFm%20ti%E1%BB%81n/%C3%9D%20t%C6%B0%E1%BB%9Fng/Ki%E1%BA%BFm%20ti%E1%BB%81n%20nhanh/index.md) khác
