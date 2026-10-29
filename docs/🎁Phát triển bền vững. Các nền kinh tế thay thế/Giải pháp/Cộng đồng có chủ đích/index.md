@@ -1,6 +1,6 @@
 ---
 share: true
-updated: 2026-10-25T17:08
+updated: 2026-10-28T18:19
 created: 2025-10-20T09:52
 aliases:
   - đồng cư, hợp tác xã nhà ở, quỹ nhà ở vi mô
