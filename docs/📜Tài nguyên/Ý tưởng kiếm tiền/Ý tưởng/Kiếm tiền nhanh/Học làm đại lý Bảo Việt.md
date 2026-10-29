@@ -1,9 +1,9 @@
 ---
 share: true
 created: 2024-09-12T22:14
-updated: 2026-07-27T02:26
+updated: 2026-10-29T21:45
 ---
-Mô tả công việc:: 
+Mô tả công việc:: Đi học làm đại lý nhân thọ
 Số tiền kiếm được:: Sinh từ năm 2001 trở đi thì được 900k, sinh trước năm 2000 thì được 2tr
 
 ## Mô tả chi tiết
@@ -19,6 +19,7 @@ Số tiền kiếm được:: Sinh từ năm 2001 trở đi thì được 900k, 
 
 [Điều khoản hợp đồng đại lý (PDF)](https://www.baovietnhantho.com.vn/storage/9732811b-4911-4e32-b18e-533b77e8d948/Dieu-khoan-H%C4%90%C4%90L_phienban092022.pdf)
 
+## Các phần mềm cần dùng
 | Mục tiêu                    | Tên gọi và URL                                            | Ghi chú                                 |
 | --------------------------- | --------------------------------------------------------- | --------------------------------------- |
 | Luyện thi                   | [LotusLMS Learn](https://bvl.lotuslms.com/student)        | Có app đt. Tên miền: `bvl.lotuslms.com` |
@@ -32,7 +33,6 @@ Số tiền kiếm được:: Sinh từ năm 2001 trở đi thì được 900k, 
 | `bvl`    | Bảo Việt Life                   |
 | `dlntsg` | Đại lý nhân thọ Sài Gòn         |
 | `233dk`  | 233 Đồng Khởi (địa chỉ công ty) |
-
 
 Xem thêm:: [Chính sách đại lý](../../../../%F0%9F%A7%91%E2%80%8D%F0%9F%8C%BENg%C3%A0nh%20ngh%E1%BB%81%20c%E1%BB%A5%20th%E1%BB%83/T%C3%A0i%20ch%C3%ADnh/B%E1%BA%A3o%20hi%E1%BB%83m/Ch%C3%ADnh%20s%C3%A1ch%20c%C3%B4ng%20ty/Nh%C3%A2n%20s%E1%BB%B1/B%E1%BA%A3o%20Vi%E1%BB%87t/Ch%C3%ADnh%20s%C3%A1ch%20%C4%91%E1%BA%A1i%20l%C3%BD.md)
 
