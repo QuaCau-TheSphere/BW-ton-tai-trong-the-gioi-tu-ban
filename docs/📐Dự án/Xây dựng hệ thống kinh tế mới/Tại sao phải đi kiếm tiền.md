@@ -9,8 +9,9 @@ Rõ ràng là trước khi tiền được phát minh ra thì con người vẫn
 - **Người tìm được người sẵn lòng cung cấp nhu cầu cho họ vì những điều họ theo đuổi.** VD: người đi tu, người đi phượt, nghệ sĩ, v.v.
 - **Người tự sản xuất được các sản phẩm cho các nhu cầu của mình, hoặc trao đổi sản phẩm không cần phải qua hình thức mua bán.** VD: người sống dựa vào tự nhiên, người sống trong các cộng đồng tự cung tự cấp, v.v.
 
-Một người khi không cần phải đi kiếm tiền thường là tổ hợp của các lý do trên. Lúc này, để trả lời câu hỏi "tại sao phải đi kiếm tiền?" ta sẽ phải trả lời các câu hỏi sau:
-- Việc trở thành những người như vậy có những ưu điểm và nhược điểm gì?
+Một người khi không cần phải đi kiếm tiền thường là tổ hợp của các lý do trên. Lúc này, để trả lời câu hỏi "tại sao tôi phải đi kiếm tiền?" ta sẽ phải trả lời các câu hỏi sau:
+- Tôi hiểu tới đâu về cuộc sống của họ? 
+- Cách sống đó có những ưu điểm và nhược điểm gì?
 - Tôi có thể đạt được như họ không?
 - Tôi có muốn trở thành như họ không?
 
