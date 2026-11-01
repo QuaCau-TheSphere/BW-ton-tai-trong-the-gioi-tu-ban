@@ -1,0 +1,8 @@
+---
+share: true
+created: 2026-10-31T20:03
+updated: 2026-10-31T20:03
+---
+Khái niệm:: [Nhân học](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Nh%C3%A2n%20h%E1%BB%8Dc.md)
+Nghề nuôi tôm đem về khoảng 4.5 tỉ đô la Mỹ nỗi năm từ xuất khẩu. Là sinh kế của hàng trăm nghìn hộ dân ở vùng ĐBSCL. Diễn giả hỏi những người nuôi tôm là nếu họ không nuôi tôm nữa thì họ sẽ làm gì không? [Nông nghiệp làm quy mô nhỏ thì không có hiệu quả về năng suất, không có sản lượng, không có khả năng điều tiết giá cả, chuỗi cung ứng](../N%C3%B4ng%20nghi%E1%BB%87p%20l%C3%A0m%20quy%20m%C3%B4%20nh%E1%BB%8F%20th%C3%AC%20kh%C3%B4ng%20c%C3%B3%20hi%E1%BB%87u%20qu%E1%BA%A3%20v%E1%BB%81%20n%C4%83ng%20su%E1%BA%A5t,%20kh%C3%B4ng%20c%C3%B3%20s%E1%BA%A3n%20l%C6%B0%E1%BB%A3ng,%20kh%C3%B4ng%20c%C3%B3%20kh%E1%BA%A3%20n%C4%83ng%20%C4%91i%E1%BB%81u%20ti%E1%BA%BFt%20gi%C3%A1%20c%E1%BA%A3,%20chu%E1%BB%97i%20cung%20%E1%BB%A9ng.md). Những cường quốc về nông nghiệp như Mỹ, Trung Quốc, Hà Lan, đều làm nông nghiệp ở quy mô lớn. Khi đã nuôi công nghiệp thì phải sử dụng nguồn giống chọn lọc. Nghề nuôi heo, hay nuôi gia cầm đã đi trước nghề nuôi tôm cả mấy trăm năm. Những con heo hay con gà đang được nuôi cũng không phải là những con sống trong tự nhiên mà đã được chọn lọc để có ưu thế về năng suất. Một con gà từ lúc nở ra cho tới lúc lên bàn mổ là khoảng 35-40 ngày. Và nó hoàn toàn ở trong chuồng, không thấy ánh mặt trời. Con tôm không phải là con bị đối xử tệ nhất trong các con vật đang được nuôi công nghiệp.
+Nguồn:: 
