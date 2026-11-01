@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-10-22T08:32
-updated: 2026-09-17T08:52
+updated: 2026-11-01T22:13
 aliases:
   - Xây dựng quỹ tín dụng vi mô
   - Giúp nhau thoát nợ
@@ -26,7 +26,7 @@ Một giải pháp cho tình trạng này là thành lập một quỹ vi mô v�
 Mọi thành viên của quỹ sẽ được tham gia vào mọi quyết định của quỹ. Cách thức ra quyết định sẽ theo hướng dẫn trong [Sổ tay Enspiral](https://handbook.enspiral.com/agreements/decisions.html).
 
 ### Người góp vốn
-Người góp vốn sẽ cùng với các thành viên quỹ thảo luận cách thức tham gia của mình, có thể dưới hình thức mua cổ phiếu hoặc trái phiếu. Đơn giản nhất là tương tự việc gửi tiết kiệm trong ngân hàng. VD:
+Người góp vốn sẽ cùng với các thành viên quỹ thảo luận cách thức tham gia của mình, có thể dưới hình thức mua cổ phiếu hoặc trái phiếu. Đơn giản nhất là bạn cho quỹ vay với mức lãi suất do bạn quyết định. VD:
 
 |                                                         | Lãi suất | Thời gian trả                           |
 | ------------------------------------------------------- | -------- | --------------------------------------- |
@@ -37,6 +37,8 @@ Người góp vốn sẽ cùng với các thành viên quỹ thảo luận cách
 
 Ngoài lợi ích về tiền lãi họ có thể đề xuất được đáp ứng các nhu cầu khác. Họ cũng có thể trở thành một thành viên quỹ nếu muốn.
 
+Trong trường hợp họ muốn cho một người vay cụ thể vay, quỹ sẽ vận hành tương tự một [sàn cho vay ngang hàng](../../../%F0%9F%A7%91%E2%80%8D%F0%9F%8C%BENg%C3%A0nh%20ngh%E1%BB%81%20c%E1%BB%A5%20th%E1%BB%83/T%C3%A0i%20ch%C3%ADnh/T%C3%ADn%20d%E1%BB%A5ng/T%C3%ADn%20d%E1%BB%A5ng%20t%C6%B0%20b%E1%BA%A3n/Vay%20n%E1%BB%A3/Kh%C3%B4ng%20d%E1%BB%B1a%20tr%C3%AAn%20%C4%91i%E1%BB%83m%20t%C3%ADn%20d%E1%BB%A5ng/Vay%20ngang%20h%C3%A0ng/index.md).
+
 Xem thêm:: [Bản câu hỏi cho người muốn tham gia góp quỹ](../T%C3%A0i%20li%E1%BB%87u/B%E1%BA%A3n%20c%C3%A2u%20h%E1%BB%8Fi/B%E1%BA%A3n%20c%C3%A2u%20h%E1%BB%8Fi%20cho%20ng%C6%B0%E1%BB%9Di%20mu%E1%BB%91n%20tham%20gia%20g%C3%B3p%20qu%E1%BB%B9.md)
 
 ### Người vay
@@ -44,7 +46,7 @@ Sự tin tưởng là cái nền tảng quan trọng nhất để cho vay. Khôn
 
 Để đảm bảo việc khả năng trả nợ cũng như thúc đẩy việc xây dựng cộng đồng và nhân rộng mô hình, những người vay sẽ được khuyến khích [vay theo nhóm hơn là vay cá nhân](../../../%F0%9F%A7%91%E2%80%8D%F0%9F%8C%BENg%C3%A0nh%20ngh%E1%BB%81%20c%E1%BB%A5%20th%E1%BB%83/T%C3%A0i%20ch%C3%ADnh/T%C3%ADn%20d%E1%BB%A5ng/Cho%20vay%20theo%20nh%C3%B3m%20b%E1%BB%81n%20v%E1%BB%AFng%20h%C6%A1n,%20%C3%ADt%20b%E1%BB%8B%20x%C3%B9%20h%C6%A1n.%20Cho%20vay%20c%C3%A1%20nh%C3%A2n%20nhi%E1%BB%81u%20l%E1%BB%A3i%20nhu%E1%BA%ADn%20h%C6%A1n,%20d%E1%BB%85%20m%E1%BB%9F%20r%E1%BB%99ng%20ph%E1%BA%A1m%20vi%20ho%E1%BA%A1t%20%C4%91%E1%BB%99ng%20h%C6%A1n.md). Nếu một người trong nhóm xù, những người còn lại sẽ phải gánh. Người bảo lãnh cũng sẽ cùng nhóm với người vay. Lúc này có thể hiểu là người vay không vay quỹ, mà là vay của từng người trong nhóm. Nhóm càng gắn bó với nhau càng đáng tin để cho vay hơn.
 
-Trong công tác xã hội thì đây được gọi là các nhóm đồng đẳng. Nhóm này cơ bản là một quỹ con của quỹ, chờ đợi một ngày đạt được sự đa dạng nguồn thu để có thể tách ra hoạt động độc lập.
+Trong công tác xã hội thì đây có lẽ được gọi là các nhóm đồng đẳng. Nhóm này cơ bản là một quỹ con của quỹ, chờ đợi một ngày đạt được sự đa dạng nguồn thu để có thể tách ra hoạt động độc lập.
 
 Xem thêm:: [Làm sao cho vay mà không bị xù](../T%C3%A0i%20li%E1%BB%87u/L%C3%A0m%20sao%20cho%20vay%20m%C3%A0%20kh%C3%B4ng%20b%E1%BB%8B%20x%C3%B9.md)
 
@@ -64,34 +66,33 @@ Nhưng nếu nó có hệ thống thông tin tốt thì chỉ cần là một nh
 [Quy định về hoạt động cho vay phục vụ kinh doanh và nhu cầu đời sống](https://thuvienphapluat.vn/chinh-sach-phap-luat-moi/vn/ho-tro-phap-luat/tu-van-phap-luat/44527/quy-dinh-ve-hoat-dong-cho-vay-phuc-vu-kinh-doanh-va-nhu-cau-doi-song)
 
 ## Tình hình tài chính
-Hiện tại nguồn vốn đang đến từ [Nhật](../../%CE%9E%20Ng%C6%B0%E1%BB%9Di%20ch%C6%A1i/L%C3%BD%20Minh%20Nh%E1%BA%ADt/C%C3%A1c%20kho%E1%BA%A3n%20t%C3%A0i%20s%E1%BA%A3n%20v%C3%A0%20kho%E1%BA%A3n%20n%E1%BB%A3%20Nh%E1%BA%ADt%20%C4%91%E1%BB%A9ng%20t%C3%AAn%20(phi%C3%AAn%20b%E1%BA%A3n%20cho%20b%E1%BA%A1n%20b%C3%A8).md). Hiện tại đang cho 3 bạn vay gần 50tr, trong đó gồm các khoản vay từ thẻ tín dụng sau:
+Hiện tại nguồn vốn đang đến từ một người, và đang cho 3 người vay hơn 60tr, trong đó gồm các khoản vay từ thẻ tín dụng sau:
 
 | Khoản vay                                                                                               | Hạn mức |
 | ------------------------------------------------------------------------------------------------------- | ------- |
-| [SeaBank GRB Elite](https://www.seabank.com.vn/ca-nhan/the/the-tin-dung-quoc-te/the-tin-dung-brg-elite) | 30tr    | 
+| [SeaBank GRB Elite](https://www.seabank.com.vn/ca-nhan/the/the-tin-dung-quoc-te/the-tin-dung-brg-elite) | 30tr    |
 | [OCB Lifestyle](https://www.ocb.com.vn/vi/ca-nhan/the/the-tin-dung/ocb-mastercard-lifestyle)            | 6tr     |
 | Vietcombank JCB                                                                                         | 5tr     |
+| Zalo Pay/SFinance                                                                                       | 9tr     |
 
-![Dòng tiền cụ thể nửa cuối năm 2025.png](../../../assets/attachments/D%C3%B2ng%20ti%E1%BB%81n%20c%E1%BB%A5%20th%E1%BB%83%20n%E1%BB%ADa%20cu%E1%BB%91i%20n%C4%83m%202025.png)
 Dòng tiền cụ thể nửa cuối năm 2025. Đơn vị: 1,000 đ:
+![Dòng tiền cụ thể nửa cuối năm 2025.png](../../../assets/attachments/D%C3%B2ng%20ti%E1%BB%81n%20c%E1%BB%A5%20th%E1%BB%83%20n%E1%BB%ADa%20cu%E1%BB%91i%20n%C4%83m%202025.png)
 
-Xem cụ thể tại [Nhật](../../%CE%9E%20Ng%C6%B0%E1%BB%9Di%20ch%C6%A1i/L%C3%BD%20Minh%20Nh%E1%BA%ADt/C%C3%A1c%20kho%E1%BA%A3n%20t%C3%A0i%20s%E1%BA%A3n%20v%C3%A0%20kho%E1%BA%A3n%20n%E1%BB%A3%20Nh%E1%BA%ADt%20%C4%91%E1%BB%A9ng%20t%C3%AAn%20(phi%C3%AAn%20b%E1%BA%A3n%20cho%20b%E1%BA%A1n%20b%C3%A8).md)
+Xem cụ thể tại [Các khoản tài sản và khoản nợ Nhật đứng tên (phiên bản cho bạn bè)](../../%CE%9E%20Ng%C6%B0%E1%BB%9Di%20ch%C6%A1i/L%C3%BD%20Minh%20Nh%E1%BA%ADt/C%C3%A1c%20kho%E1%BA%A3n%20t%C3%A0i%20s%E1%BA%A3n%20v%C3%A0%20kho%E1%BA%A3n%20n%E1%BB%A3%20Nh%E1%BA%ADt%20%C4%91%E1%BB%A9ng%20t%C3%AAn%20(phi%C3%AAn%20b%E1%BA%A3n%20cho%20b%E1%BA%A1n%20b%C3%A8).md).
 
-### Nhu cầu của những người vay hiện tại
-Trong 6 tháng tiếp theo mỗi tháng vẫn tiếp tục cho vay tiếp 15tr, với mục tiêu giữ điểm tín dụng cho những người vay. Giả sử mỗi người góp vốn 1tr thì mỗi tháng cần 15 người tham gia. Mời bạn đề xuất khoản cho vay bạn thấy phù hợp và an toàn với bạn.
-
-Tham khảo [đề xuất vay nợ của một bạn](../Ng%C6%B0%E1%BB%9Di%20th%E1%BB%A5%20h%C6%B0%E1%BB%9Fng/Nguy%E1%BB%85n%20H%E1%BB%AFu%20L%E1%BB%99c/%C4%90%E1%BB%81%20xu%E1%BA%A5t%20vay%20n%E1%BB%A3.md) để hiểu thêm.
+### Hồ sơ đề xuất vay nợ công khai
+[Đề xuất vay nợ của Nguyễn Hữu Lộc](../Ng%C6%B0%E1%BB%9Di%20th%E1%BB%A5%20h%C6%B0%E1%BB%9Fng/Nguy%E1%BB%85n%20H%E1%BB%AFu%20L%E1%BB%99c/%C4%90%E1%BB%81%20xu%E1%BA%A5t%20vay%20n%E1%BB%A3.md)
 
 ## Công việc
 ### Nhóm công việc tìm kiếm người cho vay
+- Phỏng vấn những người từng cho bạn bè mình vay
 - [Truyền thông](./Truy%E1%BB%81n%20th%C3%B4ng.md)
-- Phỏng vấn người chơi hụi
+- Tham gia vào các [Sàn gây quỹ đám đông](../../Gi%C3%BAp%20nhau%20ki%E1%BA%BFm%20ti%E1%BB%81n/Gi%C3%BAp%20nhau%20g%E1%BB%8Di%20v%E1%BB%91n/G%C3%A2y%20qu%E1%BB%B9%20%C4%91%C3%A1m%20%C4%91%C3%B4ng.md)
 
 ### Nhóm công việc hỗ trợ người vay
 - Hỗ trợ người cần vay hoàn thành [Bản câu hỏi cho người cần được hỗ trợ thoát nợ](../T%C3%A0i%20li%E1%BB%87u/B%E1%BA%A3n%20c%C3%A2u%20h%E1%BB%8Fi/B%E1%BA%A3n%20c%C3%A2u%20h%E1%BB%8Fi%20cho%20ng%C6%B0%E1%BB%9Di%20c%E1%BA%A7n%20%C4%91%C6%B0%E1%BB%A3c%20h%E1%BB%97%20tr%E1%BB%A3%20tho%C3%A1t%20n%E1%BB%A3.md) để tăng sự minh bạch, giải trình. Hướng đến sự tự trị dữ liệu để người cần vay có thể chủ động xây dựng quỹ tín dụng của họ với các mối quan hệ của mình
 - Hỗ trợ [tạo sinh kế, thu nhập, dòng tiền](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/%C3%9D%20t%C6%B0%E1%BB%9Fng%20ki%E1%BA%BFm%20ti%E1%BB%81n/%C3%9D%20t%C6%B0%E1%BB%9Fng/index.md) và [mở rộng mối quan hệ](../../M%E1%BB%9F%20r%E1%BB%99ng%20m%E1%BB%91i%20quan%20h%E1%BB%87/index.md)
-- [Hỗ trợ nâng hạn mức, điểm tín dụng](../../M%E1%BA%A1ng%20k%E1%BA%BFt%20n%E1%BB%91i%20nhu%20c%E1%BA%A7u/C%C3%A1c%20c%C3%A1ch%20th%E1%BB%A9c%20n%C3%A2ng%20h%E1%BA%A1n%20m%E1%BB%A9c%20th%E1%BA%BB%20t%C3%ADn%20d%E1%BB%A5ng.md)
-- Hỗ trợ [thương lượng với chủ nợ](../C%C3%B4ng%20vi%E1%BB%87c/Th%C6%B0%C6%A1ng%20l%C6%B0%E1%BB%A3ng%20v%E1%BB%9Bi%20ch%E1%BB%A7%20n%E1%BB%A3.md) để giảm lãi
+- Hỗ trợ [Thảo luận với chủ nợ để tìm cách thức cho vay dễ thở hơn với người vay](../C%C3%B4ng%20vi%E1%BB%87c/Th%E1%BA%A3o%20lu%E1%BA%ADn%20v%E1%BB%9Bi%20ch%E1%BB%A7%20n%E1%BB%A3%20%C4%91%E1%BB%83%20t%C3%ACm%20c%C3%A1ch%20th%E1%BB%A9c%20cho%20vay%20d%E1%BB%85%20th%E1%BB%9F%20h%C6%A1n%20v%E1%BB%9Bi%20ng%C6%B0%E1%BB%9Di%20vay.md)
 
 ### Nhóm công việc vận hành
 - Hoàn thiện hệ thống thông tin
