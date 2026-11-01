@@ -1,6 +1,6 @@
 ---
 share: true
-updated: 2026-08-23T19:09
+updated: 2026-11-01T21:30
 created: 2026-07-26T21:45
 ---
 [Sàn cho vay ngang hàng](../../../../../../%F0%9F%A7%91%E2%80%8D%F0%9F%8C%BENg%C3%A0nh%20ngh%E1%BB%81%20c%E1%BB%A5%20th%E1%BB%83/T%C3%A0i%20ch%C3%ADnh/T%C3%ADn%20d%E1%BB%A5ng/T%C3%ADn%20d%E1%BB%A5ng%20t%C6%B0%20b%E1%BA%A3n/Vay%20n%E1%BB%A3/Kh%C3%B4ng%20d%E1%BB%B1a%20tr%C3%AAn%20%C4%91i%E1%BB%83m%20t%C3%ADn%20d%E1%BB%A5ng/Vay%20ngang%20h%C3%A0ng/index.md)
@@ -29,10 +29,9 @@ Tài nguyên, vật dụng cần có sẵn::
 
 Các hình thức huy động vốn tương tự, có thể kết hợp làm chung:
 - [Quỹ cho vay](./Qu%E1%BB%B9%20cho%20vay.md)
-- [Cho vay lấy lãi](./Cho%20vay%20l%E1%BA%A5y%20l%C3%A3i.md)
 - [Quỹ đầu tư](./Qu%E1%BB%B9%20%C4%91%E1%BA%A7u%20t%C6%B0.md)
-- [Tư vấn du học](./T%C6%B0%20v%E1%BA%A5n%20du%20h%E1%BB%8Dc.md)
 - [Sàn gây quỹ đám đông](./S%C3%A0n%20g%C3%A2y%20qu%E1%BB%B9%20%C4%91%C3%A1m%20%C4%91%C3%B4ng.md)
+- [Nhóm hỗ trợ các nhóm hỗ trợ người mắc nợ](./Nh%C3%B3m%20h%E1%BB%97%20tr%E1%BB%A3%20c%C3%A1c%20nh%C3%B3m%20h%E1%BB%97%20tr%E1%BB%A3%20ng%C6%B0%E1%BB%9Di%20m%E1%BA%AFc%20n%E1%BB%A3.md)
 
 
 Tất cả những cái này là một phần của dự án [Giúp nhau kiếm tiền](../../../../../../%F0%9F%93%90D%E1%BB%B1%20%C3%A1n/Gi%C3%BAp%20nhau%20ki%E1%BA%BFm%20ti%E1%BB%81n/index.md).
