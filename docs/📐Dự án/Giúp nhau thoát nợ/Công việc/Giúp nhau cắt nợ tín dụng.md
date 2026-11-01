@@ -17,7 +17,7 @@ Chính vì vậy, mình đề xuất một quỹ tài chính vi mô với sứ m
 - [Quỹ giúp nhau giữ tài sản thế chấp ngân hàng](../Qu%E1%BB%B9/Qu%E1%BB%B9%20gi%C3%BAp%20nhau%20gi%E1%BB%AF%20t%C3%A0i%20s%E1%BA%A3n%20th%E1%BA%BF%20ch%E1%BA%A5p%20ng%C3%A2n%20h%C3%A0ng.md)
 - [Quỹ tín dụng Quả Cầu](../Qu%E1%BB%B9/Qu%E1%BB%B9%20t%C3%ADn%20d%E1%BB%A5ng%20Qu%E1%BA%A3%20C%E1%BA%A7u.md)
 
-[Xù nợ ngân hàng](../T%C3%A0i%20li%E1%BB%87u/X%C3%B9%20n%E1%BB%A3%20ng%C3%A2n%20h%C3%A0ng.md)
+[Mất điểm tín dụng](../T%C3%A0i%20li%E1%BB%87u/M%E1%BA%A5t%20%C4%91i%E1%BB%83m%20t%C3%ADn%20d%E1%BB%A5ng.md)
 
 ## Nơi thảo luận
 ![](https://imagizer.imageshack.com/a/img923/1273/jQAnX6.png)
