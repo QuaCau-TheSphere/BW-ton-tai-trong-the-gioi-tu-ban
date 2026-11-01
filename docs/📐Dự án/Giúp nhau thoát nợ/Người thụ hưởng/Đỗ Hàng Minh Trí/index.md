@@ -45,7 +45,7 @@ Hiện tại đang làm [Đại lý bảo hiểm](%C4%90%E1%BA%A1i%20l%C3%BD%20b
 Các ý tưởng khác đều có thứ bị mắc kẹt
 ### Trí nghĩ gì về [các ý tưởng tiết kiệm](../../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/S%E1%BB%91ng%20v%E1%BB%ABa%20%C4%91%E1%BB%A7,%20b%E1%BB%81n%20v%E1%BB%AFng,%20ti%E1%BA%BFt%20ki%E1%BB%87m/index.md) này?
 ### Trí đã dùng tới [Vay tín chấp](../../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Ch%E1%BB%8Dn%20s%E1%BA%A3n%20ph%E1%BA%A9m%20ph%C3%B9%20h%E1%BB%A3p/Vay%20t%C3%ADn%20ch%E1%BA%A5p/index.md) nào? Vì sao chúng không phù hợp với Trí?
-### Trí có chấp nhận [Xù nợ ngân hàng](../../T%C3%A0i%20li%E1%BB%87u/X%C3%B9%20n%E1%BB%A3%20ng%C3%A2n%20h%C3%A0ng.md), [Xù nợ vay nóng](../../T%C3%A0i%20li%E1%BB%87u/X%C3%B9%20n%E1%BB%A3%20vay%20n%C3%B3ng.md) không? Vì sao?
+### Trí có chấp nhận [Mất điểm tín dụng](../../T%C3%A0i%20li%E1%BB%87u/M%E1%BA%A5t%20%C4%91i%E1%BB%83m%20t%C3%ADn%20d%E1%BB%A5ng.md), [Xù nợ vay nóng](../../T%C3%A0i%20li%E1%BB%87u/X%C3%B9%20n%E1%BB%A3%20vay%20n%C3%B3ng.md) không? Vì sao?
 Đã chấp nhận vỡ nợ trên ngân hàng, bị ghi nợ xấu trên CIC. Không dám xù nợ app đen vì sợ ảnh hưởng đến công việc, gia đình. (Đã đưa thông tin thật về chỗ làm việc, tạm trú để có được hạn mức lớn)
 
 ### Trí có chấp nhận ra khỏi thành phố sống không? Vì sao?

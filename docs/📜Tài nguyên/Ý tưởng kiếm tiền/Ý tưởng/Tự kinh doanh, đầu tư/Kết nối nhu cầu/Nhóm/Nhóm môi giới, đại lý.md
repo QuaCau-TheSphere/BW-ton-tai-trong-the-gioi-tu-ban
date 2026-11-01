@@ -11,7 +11,7 @@ Có nhiều công việc có thể làm chung với nhau, nhưng một người 
 [Làm nhân viên của nhiều công ty cho làm việc từ xa cùng lúc](../../../Vi%E1%BB%87c%20ch%C3%ADnh%20th%E1%BB%A9c%20trong%20c%C3%B4ng%20ty/L%C3%A0m%20nh%C3%A2n%20vi%C3%AAn%20c%E1%BB%A7a%20nhi%E1%BB%81u%20c%C3%B4ng%20ty%20cho%20l%C3%A0m%20vi%E1%BB%87c%20t%E1%BB%AB%20xa%20c%C3%B9ng%20l%C3%BAc.md)
 Muốn làm tốt hơn thì tạo thành một nhóm cung cấp dịch vụ (agency). 
 
-Cũng có thể hiểu là một dạng [bán việc cho nhau](../../../../../../%F0%9F%92%B8H%C3%ACnh%20th%E1%BB%A9c%20ki%E1%BA%BFm%20ti%E1%BB%81n/L%C3%A0m%20c%C3%B4ng%20%C4%83n%20l%C6%B0%C6%A1ng/Nh%C3%A2n%20vi%C3%AAn,%20%C4%91%E1%BA%A1i%20l%C3%BD/%C4%90%E1%BB%91i%20v%E1%BB%9Bi%20c%C3%B4ng%20ty,%20nh%C3%A2n%20s%E1%BB%B1%20c%C3%B3%20c%E1%BB%99ng%20t%C3%A1c%20vi%C3%AAn%20ri%C3%AAng,%20nh%C3%A2n%20s%E1%BB%B1%20%E1%BA%A3o,%20ng%C6%B0%E1%BB%9Di%20%C4%91%E1%BA%A1i%20di%E1%BB%87n%20nh%C3%B3m%20cung%20c%E1%BA%A5p%20d%E1%BB%8Bch%20v%E1%BB%A5,%20b%C3%A1n%20vi%E1%BB%87c%20l%C3%A0%20nh%E1%BB%AFng%20c%C3%A1i%20t%C3%AAn%20kh%C3%A1c%20nhau%20cho%20c%C3%B9ng%20m%E1%BB%99t%20th%E1%BB%A9.md)
+Cũng có thể hiểu là một dạng [bán việc cho nhau](../../../../../../%F0%9F%92%B8H%C3%ACnh%20th%E1%BB%A9c%20ki%E1%BA%BFm%20ti%E1%BB%81n/L%C3%A0m%20c%C3%B4ng%20%C4%83n%20l%C6%B0%C6%A1ng/Nh%C3%A2n%20vi%C3%AAn,%20%C4%91%E1%BA%A1i%20l%C3%BD/N%E1%BA%BFu%20xem%20k%E1%BA%BFt%20qu%E1%BA%A3%20c%C3%B4ng%20vi%E1%BB%87c%20l%C3%A0%20th%E1%BB%A9%20duy%20nh%E1%BA%A5t%20quan%20tr%E1%BB%8Dng,%20th%C3%AC%20nh%C3%A2n%20s%E1%BB%B1%20c%C3%B3%20c%E1%BB%99ng%20t%C3%A1c%20vi%C3%AAn%20ri%C3%AAng,%20nh%C3%A2n%20s%E1%BB%B1%20%E1%BA%A3o,%20ng%C6%B0%E1%BB%9Di%20%C4%91%E1%BA%A1i%20di%E1%BB%87n%20nh%C3%B3m%20cung%20c%E1%BA%A5p%20d%E1%BB%8Bch%20v%E1%BB%A5,%20nh%C3%A2n%20s%E1%BB%B1%20b%C3%A1n%20vi%E1%BB%87c%20%C4%91%E1%BB%81u%20kh%C3%B4ng%20kh%C3%A1c%20g%C3%AC%20nhau.md)
 
 ## Đối tượng phục vụ 
 ## Hiểu biết sâu
@@ -30,9 +30,10 @@ Tài nguyên, vật dụng cần có sẵn::
 Đặc điểm khác:: [Không cần độ tập trung cao](../../../../%C4%90%E1%BA%B7c%20%C4%91i%E1%BB%83m%20c%C3%B4ng%20vi%E1%BB%87c/%C4%90%E1%BA%B7c%20%C4%91i%E1%BB%83m%20kh%C3%A1c/Kh%C3%B4ng%20c%E1%BA%A7n%20%C4%91%E1%BB%99%20t%E1%BA%ADp%20trung%20cao.md)
 
 Các hình thức hỗ trợ tổ nhóm tương tự, có thể kết hợp làm chung:
-- [Hợp tác xã nhân viên](./H%E1%BB%A3p%20t%C3%A1c%20x%C3%A3%20nh%C3%A2n%20vi%C3%AAn.md)
 - [Nhóm hỗ trợ người tự kinh doanh, đầu tư](./Nh%C3%B3m%20h%E1%BB%97%20tr%E1%BB%A3%20ng%C6%B0%E1%BB%9Di%20t%E1%BB%B1%20kinh%20doanh,%20%C4%91%E1%BA%A7u%20t%C6%B0.md)
 - [Nhóm mua chung, câu lạc bộ tiêu dùng](./Nh%C3%B3m%20mua%20chung,%20c%C3%A2u%20l%E1%BA%A1c%20b%E1%BB%99%20ti%C3%AAu%20d%C3%B9ng.md)
+- [Hợp tác xã nhân viên](./H%E1%BB%A3p%20t%C3%A1c%20x%C3%A3%20nh%C3%A2n%20vi%C3%AAn.md)
+- [Vườn ươm kinh doanh](./V%C6%B0%E1%BB%9Dn%20%C6%B0%C6%A1m%20kinh%20doanh.md)
 
 
 Tất cả những cái này là một phần của dự án [Giúp nhau kiếm tiền](../../../../../../%F0%9F%93%90D%E1%BB%B1%20%C3%A1n/Gi%C3%BAp%20nhau%20ki%E1%BA%BFm%20ti%E1%BB%81n/index.md).

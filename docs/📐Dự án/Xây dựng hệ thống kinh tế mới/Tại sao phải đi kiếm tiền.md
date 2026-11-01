@@ -74,6 +74,6 @@ Sức hấp dẫn của việc dùng tiền là không phải nghĩ nhiều. Có
 [Ý tưởng tiết kiệm](../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/S%E1%BB%91ng%20v%E1%BB%ABa%20%C4%91%E1%BB%A7,%20b%E1%BB%81n%20v%E1%BB%AFng,%20ti%E1%BA%BFt%20ki%E1%BB%87m/index.md)
 ## Xem thêm
 Khái niệm:: [Kiếm tiền](../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Ki%E1%BA%BFm%20ti%E1%BB%81n/index.md)
-- [Các lý do không muốn bị mất điểm tín dụng](../Gi%C3%BAp%20nhau%20tho%C3%A1t%20n%E1%BB%A3/T%C3%A0i%20li%E1%BB%87u/X%C3%B9%20n%E1%BB%A3%20ng%C3%A2n%20h%C3%A0ng.md)
+- [Các lý do không muốn bị mất điểm tín dụng](../Gi%C3%BAp%20nhau%20tho%C3%A1t%20n%E1%BB%A3/T%C3%A0i%20li%E1%BB%87u/M%E1%BA%A5t%20%C4%91i%E1%BB%83m%20t%C3%ADn%20d%E1%BB%A5ng.md)
 - [Kiếm tiền không xấu](../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Ni%E1%BB%81m%20tin,%20di%E1%BB%85n%20ng%C3%B4n/Ti%E1%BB%81n/%C4%90%E1%BA%A1o%20%C4%91%E1%BB%A9c/Ki%E1%BA%BFm%20ti%E1%BB%81n%20kh%C3%B4ng%20x%E1%BA%A5u.md)
 - [Làm sao để kiếm tiền từ các tài nguyên không mất đi khi đưa cho người khác?](./L%C3%A0m%20sao%20%C4%91%E1%BB%83%20ki%E1%BA%BFm%20ti%E1%BB%81n%20t%E1%BB%AB%20c%C3%A1c%20t%C3%A0i%20nguy%C3%AAn%20kh%C3%B4ng%20m%E1%BA%A5t%20%C4%91i%20khi%20%C4%91%C6%B0a%20cho%20ng%C6%B0%E1%BB%9Di%20kh%C3%A1c.md)

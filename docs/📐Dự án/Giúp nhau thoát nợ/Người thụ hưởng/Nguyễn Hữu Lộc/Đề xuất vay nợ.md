@@ -32,8 +32,8 @@ Thấy mình cầm đằng chuôi của GM nên nhảy vào. Ai ngờ nó cao ta
 ### Bạn đã thử tham gia vào [các ý tưởng kiếm tiền](../../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/%C3%9D%20t%C6%B0%E1%BB%9Fng%20ki%E1%BA%BFm%20ti%E1%BB%81n/%C3%9D%20t%C6%B0%E1%BB%9Fng/index.md) nào? Độ hiệu quả của chúng thế nào?
 ### Bạn nghĩ gì về [các ý tưởng tiết kiệm](../../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/S%E1%BB%91ng%20v%E1%BB%ABa%20%C4%91%E1%BB%A7,%20b%E1%BB%81n%20v%E1%BB%AFng,%20ti%E1%BA%BFt%20ki%E1%BB%87m/index.md) này?
 ### Bạn đã dùng tới [Vay tín chấp](../../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Ch%E1%BB%8Dn%20s%E1%BA%A3n%20ph%E1%BA%A9m%20ph%C3%B9%20h%E1%BB%A3p/Vay%20t%C3%ADn%20ch%E1%BA%A5p/index.md) nào? Vì sao chúng không phù hợp với bạn?
-### Bạn có chấp nhận [xù nợ ngân hàng](../../T%C3%A0i%20li%E1%BB%87u/X%C3%B9%20n%E1%BB%A3%20ng%C3%A2n%20h%C3%A0ng.md), [xù nợ vay nóng](../../T%C3%A0i%20li%E1%BB%87u/X%C3%B9%20n%E1%BB%A3%20vay%20n%C3%B3ng.md) không? Vì sao?
-#### Vì sao bạn không thể [chấp nhận mất điểm tín dụng](../../T%C3%A0i%20li%E1%BB%87u/X%C3%B9%20n%E1%BB%A3%20ng%C3%A2n%20h%C3%A0ng.md)?
+### Bạn có chấp nhận [Mất điểm tín dụng](../../T%C3%A0i%20li%E1%BB%87u/M%E1%BA%A5t%20%C4%91i%E1%BB%83m%20t%C3%ADn%20d%E1%BB%A5ng.md), [xù nợ vay nóng](../../T%C3%A0i%20li%E1%BB%87u/X%C3%B9%20n%E1%BB%A3%20vay%20n%C3%B3ng.md) không? Vì sao?
+#### Vì sao bạn không thể [chấp nhận mất điểm tín dụng](../../T%C3%A0i%20li%E1%BB%87u/M%E1%BA%A5t%20%C4%91i%E1%BB%83m%20t%C3%ADn%20d%E1%BB%A5ng.md)?
 #### Giả sử như bạn chấp nhận mất, thì lý do đó có thể là gì?
 ### Bạn có chấp nhận [Các lý do để không về quê hoặc không sống ở thành phố lớn](../../T%C3%A0i%20li%E1%BB%87u/Ni%E1%BB%81m%20tin/C%C3%A1c%20l%C3%BD%20do%20%C4%91%E1%BB%83%20kh%C3%B4ng%20v%E1%BB%81%20qu%C3%AA%20ho%E1%BA%B7c%20kh%C3%B4ng%20s%E1%BB%91ng%20%E1%BB%9F%20th%C3%A0nh%20ph%E1%BB%91%20l%E1%BB%9Bn.md) không? Vì sao?
 ### Đã có bao nhiêu người biết tình hình của bạn rồi? Thái độ của họ thế nào? 

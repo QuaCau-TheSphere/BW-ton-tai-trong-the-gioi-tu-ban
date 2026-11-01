@@ -24,7 +24,7 @@ Xem thêm:: [Các hình thức của sự tệ](../../../../index.md)
 | ---- | ----------------- | --------------- |
 
 
-### Công việc [Làm nhân sự ảo](../../L%C3%A0m%20nh%C3%A2n%20s%E1%BB%B1%20%E1%BA%A3o.md) khác
+### Công việc [Làm nhân sự ảo cho nhân sự thật](../../L%C3%A0m%20nh%C3%A2n%20s%E1%BB%B1%20%E1%BA%A3o%20cho%20nh%C3%A2n%20s%E1%BB%B1%20th%E1%BA%ADt.md) khác
 - [Làm đại lý bảo hiểm ảo](%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/%C3%9D%20t%C6%B0%E1%BB%9Fng%20ki%E1%BA%BFm%20ti%E1%BB%81n/%C3%9D%20t%C6%B0%E1%BB%9Fng/Ki%E1%BA%BFm%20ti%E1%BB%81n%20nhanh/Gian%20l%E1%BA%ADn%20c%C3%B4ng%20ty/B%E1%BA%A3o%20hi%E1%BB%83m/B%E1%BA%A3o%20hi%E1%BB%83m.md)
 - [Làm nhân viên ảo FE Credit](./L%C3%A0m%20nh%C3%A2n%20vi%C3%AAn%20%E1%BA%A3o%20FE%20Credit.md)
 

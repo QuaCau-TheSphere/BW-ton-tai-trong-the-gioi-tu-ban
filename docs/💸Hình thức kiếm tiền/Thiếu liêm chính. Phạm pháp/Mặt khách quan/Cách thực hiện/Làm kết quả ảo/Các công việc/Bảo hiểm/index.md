@@ -8,7 +8,7 @@ title: Làm đại lý bảo hiểm ảo
 ---
 Đại lý ảo tức là có đại lý thật khác đẩy doanh số cho bạn, như thể bạn là người tạo ra doanh số đó. Hay nói cách khác thì bạn sẽ làm một danh tính khác của họ. Làm như vậy thì họ sẽ có thêm chỉ tiêu về tuyển dụng mới. Công ty bảo hiểm sẽ trả tiền cho bạn để khuyến khích bạn đi học, và bạn được hưởng toàn bộ quyền lợi như một người làm thật khi doanh số của bạn đạt (vốn là do đại lý thật đẩy cho), như được tặng gói bảo hiểm (không phải bảo hiểm xã hội), vé đi du lịch, v.v.
 
-Bài chi tiết:: [Làm nhân viên ảo là làm gì?](../../../L%C3%A0m%20nh%C3%A2n%20s%E1%BB%B1%20%E1%BA%A3o.md)
+Bài chi tiết:: [Làm nhân viên ảo là làm gì?](../../../L%C3%A0m%20nh%C3%A2n%20s%E1%BB%B1%20%E1%BA%A3o%20cho%20nh%C3%A2n%20s%E1%BB%B1%20th%E1%BA%ADt.md)
 
 Một số công ty có đại lý thật muốn tuyển đại lý ảo:
 - [Học làm đại lý Bảo Việt](../../../../../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/%C3%9D%20t%C6%B0%E1%BB%9Fng%20ki%E1%BA%BFm%20ti%E1%BB%81n/%C3%9D%20t%C6%B0%E1%BB%9Fng/Ki%E1%BA%BFm%20ti%E1%BB%81n%20nhanh/H%E1%BB%8Dc%20l%C3%A0m%20%C4%91%E1%BA%A1i%20l%C3%BD%20B%E1%BA%A3o%20Vi%E1%BB%87t.md)
