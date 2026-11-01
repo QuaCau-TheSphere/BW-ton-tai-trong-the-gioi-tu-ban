@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-09-20T13:26
-updated: 2026-10-29T21:28
+updated: 2026-11-01T11:07
 ---
 Chính vì như vậy, nên [Sản phẩm phi nhân thọ hay được dùng để làm quà tặng đính kèm với sản phẩm nhân thọ, và để lấy dữ liệu khách hàng](../../../../../../%F0%9F%92%B8H%C3%ACnh%20th%E1%BB%A9c%20ki%E1%BA%BFm%20ti%E1%BB%81n/Thi%E1%BA%BFu%20li%C3%AAm%20ch%C3%ADnh.%20Ph%E1%BA%A1m%20ph%C3%A1p/M%E1%BA%B7t%20kh%C3%A1ch%20quan/C%C3%A1ch%20th%E1%BB%B1c%20hi%E1%BB%87n/B%C3%A1n%20h%C3%A0ng/%C4%90%E1%BA%A1i%20l%C3%BD/S%E1%BA%A3n%20ph%E1%BA%A9m%20phi%20nh%C3%A2n%20th%E1%BB%8D%20hay%20%C4%91%C6%B0%E1%BB%A3c%20d%C3%B9ng%20%C4%91%E1%BB%83%20l%C3%A0m%20qu%C3%A0%20t%E1%BA%B7ng%20%C4%91%C3%ADnh%20k%C3%A8m%20v%E1%BB%9Bi%20s%E1%BA%A3n%20ph%E1%BA%A9m%20nh%C3%A2n%20th%E1%BB%8D,%20v%C3%A0%20%C4%91%E1%BB%83%20l%E1%BA%A5y%20d%E1%BB%AF%20li%E1%BB%87u%20kh%C3%A1ch%20h%C3%A0ng.md)
 
@@ -10,3 +10,4 @@ Chính vì như vậy, nên [Sản phẩm phi nhân thọ hay được dùng đ�
 Xem việc người thân mua ủng hộ là
 
 [Các tập huấn cho người mới tập trung vào việc khai thác người xung quanh tư vấn viên, chứ không phải là doanh nghiệp](../../../Ch%C3%ADnh%20s%C3%A1ch%20c%C3%B4ng%20ty/Chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c/C%C3%A1c%20t%E1%BA%ADp%20hu%E1%BA%A5n%20cho%20ng%C6%B0%E1%BB%9Di%20m%E1%BB%9Bi%20t%E1%BA%ADp%20trung%20v%C3%A0o%20vi%E1%BB%87c%20khai%20th%C3%A1c%20ng%C6%B0%E1%BB%9Di%20xung%20quanh%20t%C6%B0%20v%E1%BA%A5n%20vi%C3%AAn,%20ch%E1%BB%A9%20kh%C3%B4ng%20ph%E1%BA%A3i%20l%C3%A0%20doanh%20nghi%E1%BB%87p.md)
+[Phí ban đầu đúng ra nên gọi là phí bán hàng](../../Ph%C3%AD%20v%C3%A0%20qu%E1%BB%B9/Ph%C3%AD%20ban%20%C4%91%E1%BA%A7u/Ph%C3%AD%20ban%20%C4%91%E1%BA%A7u%20%C4%91%C3%BAng%20ra%20n%C3%AAn%20g%E1%BB%8Di%20l%C3%A0%20ph%C3%AD%20b%C3%A1n%20h%C3%A0ng.md)

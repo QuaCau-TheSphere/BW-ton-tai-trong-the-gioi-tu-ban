@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-09-30T23:34
-updated: 2026-10-30T17:55
+updated: 2026-11-01T11:06
 aliases:
   - Luật cấm đại lý trích hoa hồng để giảm số phí bảo hiểm phải đóng của khách, nhưng không cấm việc tặng nhau
 ---
@@ -22,3 +22,4 @@ Nguồn:: [CHI HOA HỒNG CHO KHÁCH: LỢI BẤT CẬP HẠI](https://vacpa.org
 
 [Có thể né thuế bằng việc nhận lương bằng cổ phiếu, vay nợ và lập quỹ từ thiện](../../../../../%F0%9F%92%B8H%C3%ACnh%20th%E1%BB%A9c%20ki%E1%BA%BFm%20ti%E1%BB%81n/K%E1%BA%BF%20ho%E1%BA%A1ch%20t%C3%A0i%20ch%C3%ADnh/L%C3%A0m%20gi%C3%A0u/C%C3%B3%20th%E1%BB%83%20n%C3%A9%20thu%E1%BA%BF%20b%E1%BA%B1ng%20vi%E1%BB%87c%20nh%E1%BA%ADn%20l%C6%B0%C6%A1ng%20b%E1%BA%B1ng%20c%E1%BB%95%20phi%E1%BA%BFu,%20vay%20n%E1%BB%A3%20v%C3%A0%20l%E1%BA%ADp%20qu%E1%BB%B9%20t%E1%BB%AB%20thi%E1%BB%87n.md)
 [Có những đại lý sẵn sàng bỏ tiền của mình để mua cho khách, chỉ tập trung vào tuyển dụng](../../C%C3%B3%20nh%E1%BB%AFng%20%C4%91%E1%BA%A1i%20l%C3%BD%20s%E1%BA%B5n%20s%C3%A0ng%20b%E1%BB%8F%20ti%E1%BB%81n%20c%E1%BB%A7a%20m%C3%ACnh%20%C4%91%E1%BB%83%20mua%20cho%20kh%C3%A1ch,%20ch%E1%BB%89%20t%E1%BA%ADp%20trung%20v%C3%A0o%20tuy%E1%BB%83n%20d%E1%BB%A5ng.md)
+[Phí bảo hiểm hiện nay được hình thành chủ yếu qua con đường cạnh tranh hạ phí phi kỹ thuật mà không quan tâm đến đối tượng bảo hiểm như thế nào, mức độ rủi ro ra sao](../../Nguy%C3%AAn%20t%E1%BA%AFc%20ho%E1%BA%A1t%20%C4%91%E1%BB%99ng/Ph%C3%AD%20v%C3%A0%20qu%E1%BB%B9/Ph%C3%AD%20b%E1%BA%A3o%20hi%E1%BB%83m%20hi%E1%BB%87n%20nay%20%C4%91%C6%B0%E1%BB%A3c%20h%C3%ACnh%20th%C3%A0nh%20ch%E1%BB%A7%20y%E1%BA%BFu%20qua%20con%20%C4%91%C6%B0%E1%BB%9Dng%20c%E1%BA%A1nh%20tranh%20h%E1%BA%A1%20ph%C3%AD%20phi%20k%E1%BB%B9%20thu%E1%BA%ADt%20m%C3%A0%20kh%C3%B4ng%20quan%20t%C3%A2m%20%C4%91%E1%BA%BFn%20%C4%91%E1%BB%91i%20t%C6%B0%E1%BB%A3ng%20b%E1%BA%A3o%20hi%E1%BB%83m%20nh%C6%B0%20th%E1%BA%BF%20n%C3%A0o,%20m%E1%BB%A9c%20%C4%91%E1%BB%99%20r%E1%BB%A7i%20ro%20ra%20sao.md)
