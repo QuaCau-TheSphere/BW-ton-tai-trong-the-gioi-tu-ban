@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2026-11-01T11:03
-updated: 2026-11-01T21:13
+updated: 2026-11-02T14:38
 ---
 Nếu bạn muốn học bảo hiểm để chuẩn bị cho [kế hoạch tài chính](../../../%F0%9F%92%B8H%C3%ACnh%20th%E1%BB%A9c%20ki%E1%BA%BFm%20ti%E1%BB%81n/K%E1%BA%BF%20ho%E1%BA%A1ch%20t%C3%A0i%20ch%C3%ADnh/index.md) của mình được tốt hơn, bạn có thể học từ **các khóa học tài chính cá nhân, dịch vụ tư vấn độc lập**.
 
@@ -24,8 +24,13 @@ Nguồn:: [đừng để tiền rơi - Sách bảo hiểm](https://www.baohiemkh
 
 ## Học các khóa học do Bộ Tài chính mở
 [Cổng thông tin điện tử Bộ Tài Chính](https://vidi.mof.gov.vn/vien-phat-trien-bao-hiem-viet-nam/djao-tao) 
-[Fetching Title#xneu](https://vidi.mof.gov.vn/vien-phat-trien-bao-hiem-viet-nam/tinh-hinh-hoat-dong-dao-tao/vien-phat-trien-bao-hiem-viet-nam-thong-bao-lich-dao-tao-thang-11-va-12-nam-2026)
+[Lịch đào tạo Cổng thông tin điện tử Bộ Tài Chính](https://vidi.mof.gov.vn/vien-phat-trien-bao-hiem-viet-nam/tinh-hinh-hoat-dong-dao-tao/vien-phat-trien-bao-hiem-viet-nam-thong-bao-lich-dao-tao-thang-11-va-12-nam-2026)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/watch?v=ngH2JZ55A14" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Học thẩm định rủi ro
 [Actuary là gì? Chân dung một chuyên gia Actuar (phần 1/3)](https://tuoitre.vn/actuary-la-gi-chan-dung-mot-chuyen-gia-actuar-phan-1-3-20230223165428509.htm)
+[Định phí bảo hiểm – Wikipedia tiếng Việt](https://vi.wikipedia.org/wiki/Định_phí_bảo_hiểm)
+
+[Actuary Program ISFA - NEU \| Facebook](https://www.facebook.com/viet.actuary/)
+[Actuary ISFA – MFE NEU – Khoa Toán Đại học kinh tế quốc dân](https://mfe.neu.edu.vn/tuyen-sinh/actuary-isfa/)
+[Actuary \| Actuarial videos in Vietnamese (Eng sub) \| Nghề Quản Trị Rủi Ro - YouTube](https://www.youtube.com/playlist?list=PLfxoWBfGcbbupqIJYvj5V6zwbQxFBeo5c)
