@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-26T00:05
-updated: 2026-11-02T14:37
+updated: 2026-11-04T12:07
 ---
 Càng giàu càng đáng tin. Một số dịch vụ cần mình chứng minh rằng mình có thu nhập của mình cao, như nâng hạn mức thẻ tín dụng, cấp visa. Từ đó có rất nhiều hình thức 
 
