@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2026-11-01T11:03
-updated: 2026-11-02T14:38
+updated: 2026-11-02T16:18
 ---
 Nếu bạn muốn học bảo hiểm để chuẩn bị cho [kế hoạch tài chính](../../../%F0%9F%92%B8H%C3%ACnh%20th%E1%BB%A9c%20ki%E1%BA%BFm%20ti%E1%BB%81n/K%E1%BA%BF%20ho%E1%BA%A1ch%20t%C3%A0i%20ch%C3%ADnh/index.md) của mình được tốt hơn, bạn có thể học từ **các khóa học tài chính cá nhân, dịch vụ tư vấn độc lập**.
 
@@ -34,3 +34,4 @@ Nguồn:: [đừng để tiền rơi - Sách bảo hiểm](https://www.baohiemkh
 [Actuary Program ISFA - NEU \| Facebook](https://www.facebook.com/viet.actuary/)
 [Actuary ISFA – MFE NEU – Khoa Toán Đại học kinh tế quốc dân](https://mfe.neu.edu.vn/tuyen-sinh/actuary-isfa/)
 [Actuary \| Actuarial videos in Vietnamese (Eng sub) \| Nghề Quản Trị Rủi Ro - YouTube](https://www.youtube.com/playlist?list=PLfxoWBfGcbbupqIJYvj5V6zwbQxFBeo5c)
+[CAP - Club of Actuary Pioneers - YouTube](https://www.youtube.com/@cap-clubofactuarypioneers8592/videos)
