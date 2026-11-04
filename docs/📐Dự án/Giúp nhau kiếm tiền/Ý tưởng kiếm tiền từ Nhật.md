@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-11-01T10:38
-updated: 2026-10-25T16:04
+updated: 2026-11-04T12:20
 aliases:
   - kiếm tiền từ Nhật
 ---
@@ -21,3 +21,4 @@ aliases:
 - [Nhóm giúp nhau kiếm tiền](./index.md)
 - [Ý tưởng tiết kiệm](../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/S%E1%BB%91ng%20v%E1%BB%ABa%20%C4%91%E1%BB%A7,%20b%E1%BB%81n%20v%E1%BB%AFng,%20ti%E1%BA%BFt%20ki%E1%BB%87m/index.md)
 - [Làm sao để kiếm tiền từ các tài nguyên có tổng lớn hơn 0?](../X%C3%A2y%20d%E1%BB%B1ng%20h%E1%BB%87%20th%E1%BB%91ng%20kinh%20t%E1%BA%BF%20m%E1%BB%9Bi/L%C3%A0m%20sao%20%C4%91%E1%BB%83%20ki%E1%BA%BFm%20ti%E1%BB%81n%20t%E1%BB%AB%20c%C3%A1c%20t%C3%A0i%20nguy%C3%AAn%20kh%C3%B4ng%20m%E1%BA%A5t%20%C4%91i%20khi%20%C4%91%C6%B0a%20cho%20ng%C6%B0%E1%BB%9Di%20kh%C3%A1c.md)
+- [Quỹ tín dụng Lý Minh Nhật](../%CE%9E%20Ng%C6%B0%E1%BB%9Di%20ch%C6%A1i/L%C3%BD%20Minh%20Nh%E1%BA%ADt/Qu%E1%BB%B9%20t%C3%ADn%20d%E1%BB%A5ng%20L%C3%BD%20Minh%20Nh%E1%BA%ADt.md)

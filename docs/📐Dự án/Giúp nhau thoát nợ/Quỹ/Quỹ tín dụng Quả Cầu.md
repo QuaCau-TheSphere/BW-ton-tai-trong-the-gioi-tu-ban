@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-10-22T08:32
-updated: 2026-11-02T14:10
+updated: 2026-11-02T20:47
 aliases:
   - Xây dựng quỹ tín dụng vi mô
   - Giúp nhau thoát nợ
@@ -49,9 +49,15 @@ Trong công tác xã hội thì đây có lẽ được gọi là các nhóm đ�
 Xem thêm:: [Làm sao cho vay mà không bị xù](../T%C3%A0i%20li%E1%BB%87u/L%C3%A0m%20sao%20cho%20vay%20m%C3%A0%20kh%C3%B4ng%20b%E1%BB%8B%20x%C3%B9.md)
 
 ## Mô hình hoạt động
+Điều quan trọng nhất là các quyết định của quỹ sẽ do các thành viên quyết định, nên sẽ không có một quy định 
 Về cơ bản quỹ đại diện người vay và người nhận thương lượng về lãi suất cũng như các chi tiết khác về khoản vay.
+- Điều quan trọng với người vay: lãi thấp
+- Điều quan trọng với người cho vay: thông tin về người vay
+- Điều quan trọng với quỹ: 
 
-Trong trường hợp họ muốn cho một người vay cụ thể vay, quỹ sẽ vận hành tương tự một [sàn cho vay ngang hàng](../../../%F0%9F%A7%91%E2%80%8D%F0%9F%8C%BENg%C3%A0nh%20ngh%E1%BB%81%20c%E1%BB%A5%20th%E1%BB%83/T%C3%A0i%20ch%C3%ADnh/T%C3%ADn%20d%E1%BB%A5ng/T%C3%ADn%20d%E1%BB%A5ng%20t%C6%B0%20b%E1%BA%A3n/Vay%20n%E1%BB%A3/Kh%C3%B4ng%20d%E1%BB%B1a%20tr%C3%AAn%20%C4%91i%E1%BB%83m%20t%C3%ADn%20d%E1%BB%A5ng/Vay%20ngang%20h%C3%A0ng/index.md).
+Nếu không đạt được những điều này thì
+
+Khi hết tiền trong quỹ, hoặc khi có người vay mà quỹ không muốn cho vay, hoặc khi người cho vay muốn cho một người vay cụ thể vay, quỹ sẽ vận hành tương tự một [sàn cho vay ngang hàng](../../../%F0%9F%A7%91%E2%80%8D%F0%9F%8C%BENg%C3%A0nh%20ngh%E1%BB%81%20c%E1%BB%A5%20th%E1%BB%83/T%C3%A0i%20ch%C3%ADnh/T%C3%ADn%20d%E1%BB%A5ng/T%C3%ADn%20d%E1%BB%A5ng%20t%C6%B0%20b%E1%BA%A3n/Vay%20n%E1%BB%A3/Kh%C3%B4ng%20d%E1%BB%B1a%20tr%C3%AAn%20%C4%91i%E1%BB%83m%20t%C3%ADn%20d%E1%BB%A5ng/Vay%20ngang%20h%C3%A0ng/index.md).
 
 ### Hệ thống thông tin
 Quỹ hiện tại đang sử dụng [hledger](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Ch%E1%BB%8Dn%20s%E1%BA%A3n%20ph%E1%BA%A9m%20ph%C3%B9%20h%E1%BB%A3p/Ch%C6%B0%C6%A1ng%20tr%C3%ACnh%20qu%E1%BA%A3n%20l%C3%BD%20ti%E1%BB%81n/5%20T%C3%AAn%20ch%C6%B0%C6%A1ng%20tr%C3%ACnh/K%E1%BA%BF%20to%C3%A1n/hledger/Kinh%20nghi%E1%BB%87m%20d%C3%B9ng%20hledger.md), một [chương trình kế toán dùng định dạng đơn giản](https://plaintextaccounting.org/What-is-Plain-Text-Accounting) để quản lý dòng tiền, nhưng có thể sẽ cần xây dựng hệ thống riêng. Để đảm bảo tính toàn vẹn và minh bạch của thông tin, quỹ sử dụng [git](https://obsidian.quảcầu.cc/📜Tài%20nguyên/Giải%20pháp%20kỹ%20thuật/Học%20Git?utm_source=Vault+B+Tồn+tại+trong+thế+giới+tư+bản+(Dự+án)&utm_medium=Vault&utm_campaign=C1&utm_content=📐Dự+án%2FGiúp+nhau+thoát+nợ%2FQuỹ%2FNgân+hàng+mini+và+mạng+lưới+cho+vay+ngang+hàng.md&utm_term=), một chương trình quản lý phiên bản. Trong tương lai sẽ hướng đến việc sử dụng giao thức Các Tín dụng Chung ([Credit Commons protocol](https://creditcommons.net/)) cho việc kết nối, liên minh giữa các quỹ. Xa hơn nữa là sử dụng mô hình biểu diễn dữ liệu (ontology) [Valeflows](../../../%F0%9F%8E%81Ph%C3%A1t%20tri%E1%BB%83n%20b%E1%BB%81n%20v%E1%BB%AFng.%20C%C3%A1c%20n%E1%BB%81n%20kinh%20t%E1%BA%BF%20thay%20th%E1%BA%BF/Gi%E1%BA%A3i%20ph%C3%A1p/H%E1%BB%87%20th%E1%BB%91ng%20th%C3%B4ng%20tin%20(Valueflows)/index.md) thay vì bút toán kép như hiện tại.

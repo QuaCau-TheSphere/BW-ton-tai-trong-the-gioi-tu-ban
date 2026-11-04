@@ -1,6 +1,6 @@
 ---
 share: true
-updated: 2026-10-18T15:34
+updated: 2026-11-04T12:03
 aliases:
   - nhờ Nhật đứng tên
 created: 2025-08-21T09:20
@@ -56,7 +56,7 @@ Lộc chọn Vietinbank vì [nó là một trong bốn ngân hàng lớn ở Vi�
 - [Kế hoạch tài chính cá nhân của Nhật](./K%E1%BA%BF%20ho%E1%BA%A1ch%20t%C3%A0i%20ch%C3%ADnh%20c%C3%A1%20nh%C3%A2n.md)
 - [Hướng dẫn sử dụng nguồn lực của Lý Minh Nhật](https://nhucầu.quảcầu.cc/2%20Thực%20thể/Cá%20nhân/Nhật/Cách%20làm%20việc/Hướng%20dẫn%20sử%20dụng%20nguồn%20lực?utm_source=Vault+B+Tư+bản+và+các+hình+thái+kinh+tế+thay+thế+(Dự+án)&utm_medium=Vault&utm_campaign=A1&utm_content=📐Dự+án%2FΞ+Người+chơi%2FLý+Minh+Nhật%2FCác+khoản+tài+sản+và+khoản+nợ+Nhật+đứng+tên+(phiên+bản+cho+bạn+bè).md&utm_term=)
 - [Các tài khoản và mã QR ngân hàng của Nhật](./C%C3%A1c%20t%C3%A0i%20kho%E1%BA%A3n%20v%C3%A0%20m%C3%A3%20QR%20ng%C3%A2n%20h%C3%A0ng%20c%E1%BB%A7a%20Nh%E1%BA%ADt.md)
-- 
+- [Quỹ tín dụng Lý Minh Nhật](./Qu%E1%BB%B9%20t%C3%ADn%20d%E1%BB%A5ng%20L%C3%BD%20Minh%20Nh%E1%BA%ADt.md)
 
 ## Nơi thảo luận
 ![](https://imagizer.imageshack.com/a/img923/1273/jQAnX6.png)
