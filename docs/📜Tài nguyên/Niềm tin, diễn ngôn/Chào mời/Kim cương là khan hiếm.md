@@ -3,7 +3,7 @@ share: true
 created: 2025-03-24T09:52
 updated: 2026-07-27T02:26
 ---
-Khái niệm:: [Khan hiếm](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Kinh%20t%E1%BA%BF%20h%E1%BB%8Dc/Khan%20hi%E1%BA%BFm.md)
+Khái niệm:: [Khan hiếm](../../../%CE%9E%20Meta/Kh%C3%A1i%20ni%E1%BB%87m/Kinh%20t%E1%BA%BF%20h%E1%BB%8Dc/Khan%20hi%E1%BA%BFm.md)
 
 Nguồn:: 
 [Tư duy khan hiếm](../../S%E1%BB%91ng%20v%E1%BB%ABa%20%C4%91%E1%BB%A7,%20b%E1%BB%81n%20v%E1%BB%AFng,%20ti%E1%BA%BFt%20ki%E1%BB%87m/T%C6%B0%20duy%20khan%20hi%E1%BA%BFm.md)
