@@ -38,6 +38,7 @@ title: Niềm tin, diễn ngôn
     - [Cuộc sống không bao giờ công bằng. Điều duy nhất mình có thể làm là thích ứng với nó](./Gi%C3%BAp%20%C4%91%E1%BB%A1/Cu%E1%BB%99c%20s%E1%BB%91ng%20kh%C3%B4ng%20bao%20gi%E1%BB%9D%20c%C3%B4ng%20b%E1%BA%B1ng.%20%C4%90i%E1%BB%81u%20duy%20nh%E1%BA%A5t%20m%C3%ACnh%20c%C3%B3%20th%E1%BB%83%20l%C3%A0m%20l%C3%A0%20th%C3%ADch%20%E1%BB%A9ng%20v%E1%BB%9Bi%20n%C3%B3.md)
     - [Các mối quan hệ không thể cho đủ tiền lúc cần kíp nhất](./Gi%C3%BAp%20%C4%91%E1%BB%A1/C%C3%A1c%20m%E1%BB%91i%20quan%20h%E1%BB%87%20kh%C3%B4ng%20th%E1%BB%83%20cho%20%C4%91%E1%BB%A7%20ti%E1%BB%81n%20l%C3%BAc%20c%E1%BA%A7n%20k%C3%ADp%20nh%E1%BA%A5t.md)
     - [Giúp đỡ sẽ tạo ra sự lệ thuộc](./Gi%C3%BAp%20%C4%91%E1%BB%A1/Gi%C3%BAp%20%C4%91%E1%BB%A1%20s%E1%BA%BD%20t%E1%BA%A1o%20ra%20s%E1%BB%B1%20l%E1%BB%87%20thu%E1%BB%99c.md)
+    - [Không bao giờ cho không thứ gì](./Gi%C3%BAp%20%C4%91%E1%BB%A1/Kh%C3%B4ng%20bao%20gi%E1%BB%9D%20cho%20kh%C3%B4ng%20th%E1%BB%A9%20g%C3%AC.md)
     - [Kinh doanh không phải từ thiện](./Gi%C3%BAp%20%C4%91%E1%BB%A1/Kinh%20doanh%20kh%C3%B4ng%20ph%E1%BA%A3i%20t%E1%BB%AB%20thi%E1%BB%87n.md)
     - [Người vững vàng là người không phụ thuộc vào người khác](./Gi%C3%BAp%20%C4%91%E1%BB%A1/Ng%C6%B0%E1%BB%9Di%20v%E1%BB%AFng%20v%C3%A0ng%20l%C3%A0%20ng%C6%B0%E1%BB%9Di%20kh%C3%B4ng%20ph%E1%BB%A5%20thu%E1%BB%99c%20v%C3%A0o%20ng%C6%B0%E1%BB%9Di%20kh%C3%A1c.md)
     - [Nếu có người cho không thì đó là họ sẽ thu lại bằng một cách nào khác](./Gi%C3%BAp%20%C4%91%E1%BB%A1/N%E1%BA%BFu%20c%C3%B3%20ng%C6%B0%E1%BB%9Di%20cho%20kh%C3%B4ng%20th%C3%AC%20%C4%91%C3%B3%20l%C3%A0%20h%E1%BB%8D%20s%E1%BA%BD%20thu%20l%E1%BA%A1i%20b%E1%BA%B1ng%20m%E1%BB%99t%20c%C3%A1ch%20n%C3%A0o%20kh%C3%A1c.md)
@@ -77,6 +78,7 @@ title: Niềm tin, diễn ngôn
 
 - Tiền: 
     - [Của rẻ là của ôi](./Ti%E1%BB%81n/Gi%C3%A1%20tr%E1%BB%8B/C%E1%BB%A7a%20r%E1%BA%BB%20l%C3%A0%20c%E1%BB%A7a%20%C3%B4i.md)
+    - [Của cho là của nợ](./Ti%E1%BB%81n/Gi%C3%A1%20tr%E1%BB%8B/C%E1%BB%A7a%20cho%20l%C3%A0%20c%E1%BB%A7a%20n%E1%BB%A3.md)
     - [Không có gì là miễn phí thực sự cả](./Ti%E1%BB%81n/Gi%C3%A1%20tr%E1%BB%8B/Kh%C3%B4ng%20c%C3%B3%20g%C3%AC%20l%C3%A0%20mi%E1%BB%85n%20ph%C3%AD%20th%E1%BB%B1c%20s%E1%BB%B1%20c%E1%BA%A3.md)
     - [Làm gì có chuyện việc nhẹ lương cao](./Ti%E1%BB%81n/Gi%C3%A1%20tr%E1%BB%8B/L%C3%A0m%20g%C3%AC%20c%C3%B3%20chuy%E1%BB%87n%20vi%E1%BB%87c%20nh%E1%BA%B9%20l%C6%B0%C6%A1ng%20cao.md)
     - [Mua được cái mới sao phải sửa cái cũ chi](./Ti%E1%BB%81n/Gi%C3%A1%20tr%E1%BB%8B/Mua%20%C4%91%C6%B0%E1%BB%A3c%20c%C3%A1i%20m%E1%BB%9Bi%20sao%20ph%E1%BA%A3i%20s%E1%BB%ADa%20c%C3%A1i%20c%C5%A9%20chi.md)
