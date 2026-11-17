@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-06-21T09:22
-updated: 2025-08-19T11:41
+updated: 2026-07-06T21:45
 ---
 Khái niệm:: 
 nhà ở của người dân mà cố gắng ko có kts
