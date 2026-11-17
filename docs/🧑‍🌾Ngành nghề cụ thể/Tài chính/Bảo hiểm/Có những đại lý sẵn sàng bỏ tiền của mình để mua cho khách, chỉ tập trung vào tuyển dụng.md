@@ -12,4 +12,4 @@ Khi có thưởng hay ưu đãi gì của công ty, đại lý này cũng sẽ t
 Vì số tiền hoa hồng cho đại lý không bằng số phí phải đóng kỳ đầu, nên từ phí khách đóng cả năm chỉ đủ để trả tiền cho 3 tháng đầu, nên việc sẵn sàng trả tiền cả năm cho khách là từ tiền túi của bọn mình. Họ làm vậy vì họ thực sự muốn khách được trải nghiệm hợp đồng, để khách có thời gian để đánh giá mức độ hữu ích của nó. Lỗ với họ không phải là vấn đề, vì tiền tuyển dụng là đủ.
 
 
-Nguồn:: [Tự ngẫm nghĩ, trải nghiệm](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Ngu%E1%BB%93n/T%E1%BB%B1%20ng%E1%BA%ABm%20ngh%C4%A9,%20tr%E1%BA%A3i%20nghi%E1%BB%87m.md)
+Nguồn:: [Tự ngẫm nghĩ, trải nghiệm](../../../%CE%9E%20Meta/Ngu%E1%BB%93n/T%E1%BB%B1%20ng%E1%BA%ABm%20ngh%C4%A9,%20tr%E1%BA%A3i%20nghi%E1%BB%87m.md)
