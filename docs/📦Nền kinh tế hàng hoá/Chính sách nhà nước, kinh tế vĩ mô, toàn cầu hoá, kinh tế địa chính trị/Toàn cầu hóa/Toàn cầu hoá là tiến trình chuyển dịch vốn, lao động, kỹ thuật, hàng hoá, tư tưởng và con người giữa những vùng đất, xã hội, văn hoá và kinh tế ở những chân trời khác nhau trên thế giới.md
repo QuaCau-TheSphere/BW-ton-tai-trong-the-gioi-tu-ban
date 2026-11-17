@@ -24,4 +24,4 @@ Huntington chia các nền văn hoá/văn minh đa phần là từ tôn giáo. H
 Có vẻ như lý thuyết 1 và 2 có khả năng giải thích *lý do* vì sao sự ngoại lai lại đến địa  phương. Lý thuyết 2, 3, 4 có vẻ có khả năng *mô tả* cách sự ngoại lai và nội địa tương tác với nhau như thế nào.
 
 Nguồn:: [Lương Văn Hy](L%C6%B0%C6%A1ng%20V%C4%83n%20Hy.md)
-Khái niệm:: [Hàng hoá](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Kinh%20t%E1%BA%BF%20h%E1%BB%8Dc/H%C3%A0ng%20ho%C3%A1.md)
+Khái niệm:: [Hàng hoá](../../../%CE%9E%20Meta/Kh%C3%A1i%20ni%E1%BB%87m/Kinh%20t%E1%BA%BF%20h%E1%BB%8Dc/H%C3%A0ng%20ho%C3%A1.md)
