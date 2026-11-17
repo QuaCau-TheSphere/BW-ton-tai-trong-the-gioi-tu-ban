@@ -1,0 +1,6 @@
+---
+share: true
+---
+Khái niệm:: [Luật Việt Nam](../../../%CE%9E%20Meta/Kh%C3%A1i%20ni%E1%BB%87m/Nh%C3%A0%20n%C6%B0%E1%BB%9Bc/Lu%E1%BA%ADt%20Vi%E1%BB%87t%20Nam.md), [Luật dân sự](Lu%E1%BA%ADt%20d%C3%A2n%20s%E1%BB%B1.md), [Thừa kế](../../../%CE%9E%20Meta/Kh%C3%A1i%20ni%E1%BB%87m/T%C3%A0i%20s%E1%BA%A3n/Th%E1%BB%ABa%20k%E1%BA%BF.md)
+
+Nguồn:: 
