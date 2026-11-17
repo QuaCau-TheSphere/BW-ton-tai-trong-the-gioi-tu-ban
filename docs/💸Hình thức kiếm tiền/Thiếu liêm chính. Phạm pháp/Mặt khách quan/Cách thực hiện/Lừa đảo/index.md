@@ -4,7 +4,7 @@ created: 2026-10-02T13:58
 updated: 2026-10-02T13:59
 title: Cảnh giác lừa đảo
 ---
-Khái niệm:: [Lừa đảo](../../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Ki%E1%BA%BFm%20ti%E1%BB%81n/Kh%C3%B4ng%20li%C3%AAm%20ch%C3%ADnh/L%E1%BB%ABa%20%C4%91%E1%BA%A3o.md), [Khai thác điểm yếu con người](../../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Ki%E1%BA%BFm%20ti%E1%BB%81n/Kh%C3%B4ng%20li%C3%AAm%20ch%C3%ADnh/Khai%20th%C3%A1c%20%C4%91i%E1%BB%83m%20y%E1%BA%BFu%20con%20ng%C6%B0%E1%BB%9Di.md)
+Khái niệm:: [Lừa đảo](../../../../../%CE%9E%20Meta/Kh%C3%A1i%20ni%E1%BB%87m/Ki%E1%BA%BFm%20ti%E1%BB%81n/Kh%C3%B4ng%20li%C3%AAm%20ch%C3%ADnh/L%E1%BB%ABa%20%C4%91%E1%BA%A3o.md), [Khai thác điểm yếu con người](../../../../../%CE%9E%20Meta/Kh%C3%A1i%20ni%E1%BB%87m/Ki%E1%BA%BFm%20ti%E1%BB%81n/Kh%C3%B4ng%20li%C3%AAm%20ch%C3%ADnh/Khai%20th%C3%A1c%20%C4%91i%E1%BB%83m%20y%E1%BA%BFu%20con%20ng%C6%B0%E1%BB%9Di.md)
 
 If you take one lesson from the Consumer Reports study, it’s this: everyone is a target, and most of the defenses you’ve been told to deploy won’t help. Scams have become a machine-learning problem, not an awareness or hygiene issue.
 
