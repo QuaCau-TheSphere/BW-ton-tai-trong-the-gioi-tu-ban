@@ -6,7 +6,7 @@ created: 2025-09-08T09:44
 Khái niệm:: 
 Bị giải toả 2 lần: 
 
-[Chung cư cũ ngày càng bị đe doạ giải thể bởi xuống cấp công trình, yêu cầu an toàn, và sức ép từ các dự án tái phát triển đô thị](../../../%F0%9F%A7%91%E2%80%8D%F0%9F%8C%BENg%C3%A0nh%20ngh%E1%BB%81%20c%E1%BB%A5%20th%E1%BB%83/X%C3%A2y%20d%E1%BB%B1ng,%20b%E1%BA%A5t%20%C4%91%E1%BB%99ng%20s%E1%BA%A3n/Chung%20c%C6%B0/Chung%20c%C6%B0%20c%C5%A9%20ng%C3%A0y%20c%C3%A0ng%20b%E1%BB%8B%20%C4%91e%20do%E1%BA%A1%20gi%E1%BA%A3i%20th%E1%BB%83%20b%E1%BB%9Fi%20xu%E1%BB%91ng%20c%E1%BA%A5p%20c%C3%B4ng%20tr%C3%ACnh,%20y%C3%AAu%20c%E1%BA%A7u%20an%20to%C3%A0n,%20v%C3%A0%20s%E1%BB%A9c%20%C3%A9p%20t%E1%BB%AB%20c%C3%A1c%20d%E1%BB%B1%20%C3%A1n%20t%C3%A1i%20ph%C3%A1t%20tri%E1%BB%83n%20%C4%91%C3%B4%20th%E1%BB%8B.md)
+[Chung cư cũ ngày càng bị đe doạ giải thể bởi xuống cấp công trình, yêu cầu an toàn, và sức ép từ các dự án tái phát triển đô thị](../../../%F0%9F%A7%91%E2%80%8D%F0%9F%8C%BENg%C3%A0nh%20ngh%E1%BB%81%20c%E1%BB%A5%20th%E1%BB%83/Khu%20v%E1%BB%B1c%203/B%E1%BA%A5t%20%C4%91%E1%BB%99ng%20s%E1%BA%A3n/Chung%20c%C6%B0/Chung%20c%C6%B0%20c%C5%A9%20ng%C3%A0y%20c%C3%A0ng%20b%E1%BB%8B%20%C4%91e%20do%E1%BA%A1%20gi%E1%BA%A3i%20th%E1%BB%83%20b%E1%BB%9Fi%20xu%E1%BB%91ng%20c%E1%BA%A5p%20c%C3%B4ng%20tr%C3%ACnh,%20y%C3%AAu%20c%E1%BA%A7u%20an%20to%C3%A0n,%20v%C3%A0%20s%E1%BB%A9c%20%C3%A9p%20t%E1%BB%AB%20c%C3%A1c%20d%E1%BB%B1%20%C3%A1n%20t%C3%A1i%20ph%C3%A1t%20tri%E1%BB%83n%20%C4%91%C3%B4%20th%E1%BB%8B.md)
 
 ​Khi giải toả không chỉ là dỡ bỏ công trình, mà là tháo rời một cộng đồng đã tồn tại.
 
