@@ -3,7 +3,7 @@ share: true
 created: 2024-06-27T22:05
 updated: 2026-07-27T02:27
 ---
-Khái niệm:: [Rửa tiền](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Ki%E1%BA%BFm%20ti%E1%BB%81n/Kh%C3%B4ng%20li%C3%AAm%20ch%C3%ADnh/R%E1%BB%ADa%20ti%E1%BB%81n.md)
+Khái niệm:: [Rửa tiền](%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Ki%E1%BA%BFm%20ti%E1%BB%81n/Kh%C3%B4ng%20li%C3%AAm%20ch%C3%ADnh/R%E1%BB%ADa%20ti%E1%BB%81n.md)
 Vì là trung gian thanh toán, nên các ví điện tử đứng ra bảo lãnh cho người quẹt. Chuyển khoản thì còn không biết đang làm gì, chứ dùng trung gian thanh toán thì mã QR nhận tiền đã được đăng ký từ đầu là để bán hàng rồi. Ngân hàng sẽ thấy là sạch, và điểm tín dụng sẽ cao hơn. 
 
 Một cửa hàng hoàn toàn có thể vi phạm chính sách, như gian lận để ăn khuyến mãi, rút tiền đáo hạn hay thậm chí là rửa tiền bẩn. Nếu phát hiện ra hành vi này thì các ví điện tử có quyền hủy điểm bán đó chấm dứt hợp đồng. Cái này y chang như bảo hiểm. Nhưng việc này ngân hàng cũng không biết.
