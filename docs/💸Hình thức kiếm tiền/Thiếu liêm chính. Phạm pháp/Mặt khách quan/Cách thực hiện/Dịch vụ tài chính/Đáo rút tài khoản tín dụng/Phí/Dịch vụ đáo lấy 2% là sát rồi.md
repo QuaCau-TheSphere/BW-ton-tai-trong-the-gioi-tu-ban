@@ -3,7 +3,7 @@ share: true
 created: 2025-04-15T23:34
 updated: 2026-09-23T13:11
 ---
-Khái niệm:: [Đáo, rút thẻ tín dụng](../../../../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/T%C3%ADn%20d%E1%BB%A5ng/Vay,%20n%E1%BB%A3/%C4%90%C3%A1o,%20r%C3%BAt%20th%E1%BA%BB%20t%C3%ADn%20d%E1%BB%A5ng.md)
+Khái niệm:: [Đáo, rút thẻ tín dụng](../../../../../../../%CE%9E%20Meta/Kh%C3%A1i%20ni%E1%BB%87m/T%C3%ADn%20d%E1%BB%A5ng/Vay,%20n%E1%BB%A3/%C4%90%C3%A1o,%20r%C3%BAt%20th%E1%BA%BB%20t%C3%ADn%20d%E1%BB%A5ng.md)
 Thực chất khi làm đáo là sự hợp tác của 3 bên:
 - Bên cấp máy pos
 - Cửa hàng, đăng ký địa điểm kinh doanh
@@ -21,7 +21,7 @@ Phản ví dụ: [VNC](../../../../../Tr%C6%B0%E1%BB%9Dng%20h%E1%BB%A3p%20c%E1%B
 
 Phải rải rác với các điểm bán và chia phần trăm. Phải đủ doanh số. Giống khoán. Phải charge đủ 3 tỉ
 Một điểm bán thu cả ngàn tỉ
-Nguồn:: [ĐHMT](../../../../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Ngu%E1%BB%93n/C%C3%A1%20nh%C3%A2n,%20t%E1%BB%95%20ch%E1%BB%A9c/%C4%90HMT.md)
+Nguồn:: [ĐHMT](../../../../../../../%CE%9E%20Meta/Ngu%E1%BB%93n/C%C3%A1%20nh%C3%A2n,%20t%E1%BB%95%20ch%E1%BB%A9c/%C4%90HMT.md)
 [Dùng thẻ tín dụng cho mã ngành xăng dầu thường không được hoàn vì dễ khai khống](../D%C3%B9ng%20th%E1%BA%BB%20t%C3%ADn%20d%E1%BB%A5ng%20cho%20m%C3%A3%20ng%C3%A0nh%20x%C4%83ng%20d%E1%BA%A7u%20th%C6%B0%E1%BB%9Dng%20kh%C3%B4ng%20%C4%91%C6%B0%E1%BB%A3c%20ho%C3%A0n%20v%C3%AC%20d%E1%BB%85%20khai%20kh%E1%BB%91ng.md)
 
 [Đáo thẻ một năm cũng không khác gì trả lãi ngân hàng](./%C4%90%C3%A1o%20th%E1%BA%BB%20m%E1%BB%99t%20n%C4%83m%20c%C5%A9ng%20kh%C3%B4ng%20kh%C3%A1c%20g%C3%AC%20tr%E1%BA%A3%20l%C3%A3i%20ng%C3%A2n%20h%C3%A0ng.md)
