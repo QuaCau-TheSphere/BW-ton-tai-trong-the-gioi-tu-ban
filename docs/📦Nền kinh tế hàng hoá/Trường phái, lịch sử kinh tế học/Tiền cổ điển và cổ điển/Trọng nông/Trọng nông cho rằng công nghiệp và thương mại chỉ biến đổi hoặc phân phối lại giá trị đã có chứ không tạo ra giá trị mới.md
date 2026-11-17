@@ -1,9 +1,9 @@
 ---
 share: true
-updated: 2026-07-27T02:20
+updated: 2026-07-27T02:26
 created: 2025-09-03T09:46
 ---
-Khái niệm:: [Nông nghiệp, nông thôn](../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Giai%20c%E1%BA%A5p.%20Ph%C3%A1t%20tri%E1%BB%83n%20b%E1%BB%81n%20v%E1%BB%AFng/N%C3%B4ng%20nghi%E1%BB%87p,%20n%C3%B4ng%20th%C3%B4n.md)
+Khái niệm:: [Nông nghiệp, nông thôn](../../../../%CE%9E%20Meta/Kh%C3%A1i%20ni%E1%BB%87m/Giai%20c%E1%BA%A5p.%20Ph%C3%A1t%20tri%E1%BB%83n%20b%E1%BB%81n%20v%E1%BB%AFng/N%C3%B4ng%20nghi%E1%BB%87p,%20n%C3%B4ng%20th%C3%B4n.md)
 **Trường phái Trọng nông – Khi đất đai được xem là nguồn của mọi của cải**
 
 Giữa thế kỷ 18, nước Pháp đang ở vào thế tiến thoái lưỡng nan. Trên danh nghĩa là một cường quốc châu Âu, nhưng ngân khố luôn căng thẳng, nông thôn kiệt quệ vì thuế khóa, và sản xuất công nghiệp vẫn kém xa Anh. Trong bối cảnh ấy, một nhóm trí thức và quan chức bắt đầu hoài nghi về cách mà chính phủ quản lý nền kinh tế. Họ không tin rằng việc tích trữ vàng bạc và dựng hàng rào thuế quan như tín điều của chủ nghĩa Trọng thương đang làm sẽ đưa nước Pháp đến thịnh vượng. Thay vào đó, họ quay về nhìn vào chính những cánh đồng – thứ nuôi sống phần lớn dân chúng – và đặt câu hỏi: có phải chính đất đai mới là nguồn gốc của mọi của cải?
