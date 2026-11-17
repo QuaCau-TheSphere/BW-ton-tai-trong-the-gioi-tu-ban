@@ -11,6 +11,7 @@ title: Tự động hoá
 | Cá nhân hóa | Phù hợp hơn     | Tương tác tốt hơn |
 
 - \-: 
+    - [Bán số lượng lớn tự động trên các nền tảng](./B%C3%A1n%20s%E1%BB%91%20l%C6%B0%E1%BB%A3ng%20l%E1%BB%9Bn%20t%E1%BB%B1%20%C4%91%E1%BB%99ng%20tr%C3%AAn%20c%C3%A1c%20n%E1%BB%81n%20t%E1%BA%A3ng.md)
     - [Hệ thống thông tin](./H%E1%BB%87%20th%E1%BB%91ng%20th%C3%B4ng%20tin.md)
     - [Hệ thống tài khoản cho tài chính cá nhân](./H%E1%BB%87%20th%E1%BB%91ng%20t%C3%A0i%20kho%E1%BA%A3n%20cho%20t%C3%A0i%20ch%C3%ADnh%20c%C3%A1%20nh%C3%A2n.md)
     - [Quản lý tài khoản](./Qu%E1%BA%A3n%20l%C3%BD%20t%C3%A0i%20kho%E1%BA%A3n.md)
@@ -24,8 +25,8 @@ title: Tự động hoá
     - [Kiếm tiền từ Trấn Kỳ](./Tr%E1%BA%A5n%20K%E1%BB%B3/Blog/Ki%E1%BA%BFm%20ti%E1%BB%81n%20t%E1%BB%AB%20Tr%E1%BA%A5n%20K%E1%BB%B3.md)
     - [Lý do viết Trấn Kỳ](./Tr%E1%BA%A5n%20K%E1%BB%B3/Blog/L%C3%BD%20do%20vi%E1%BA%BFt%20Tr%E1%BA%A5n%20K%E1%BB%B3.md)
     - [Lời mời xây dựng một startup để làm những việc một người bạn sẽ làm](./Tr%E1%BA%A5n%20K%E1%BB%B3/Blog/L%E1%BB%9Di%20m%E1%BB%9Di%20x%C3%A2y%20d%E1%BB%B1ng%20m%E1%BB%99t%20startup%20%C4%91%E1%BB%83%20l%C3%A0m%20nh%E1%BB%AFng%20vi%E1%BB%87c%20m%E1%BB%99t%20ng%C6%B0%E1%BB%9Di%20b%E1%BA%A1n%20s%E1%BA%BD%20l%C3%A0m.md)
-    - [Trấn Kỳ là gì](./Tr%E1%BA%A5n%20K%E1%BB%B3/Blog/Tr%E1%BA%A5n%20K%E1%BB%B3%20l%C3%A0%20g%C3%AC.md)
     - [Mô hình kinh doanh Trấn Kỳ](./Tr%E1%BA%A5n%20K%E1%BB%B3/Blog/M%C3%B4%20h%C3%ACnh%20kinh%20doanh%20Tr%E1%BA%A5n%20K%E1%BB%B3.md)
+    - [Trấn Kỳ là gì](./Tr%E1%BA%A5n%20K%E1%BB%B3/Blog/Tr%E1%BA%A5n%20K%E1%BB%B3%20l%C3%A0%20g%C3%AC.md)
     - [Chương trình quản lý chi tiêu cá nhân](./Tr%E1%BA%A5n%20K%E1%BB%B3/Ch%C6%B0%C6%A1ng%20tr%C3%ACnh%20qu%E1%BA%A3n%20l%C3%BD%20chi%20ti%C3%AAu%20c%C3%A1%20nh%C3%A2n/index.md)
     - [Tiềm năng thị trường](./Tr%E1%BA%A5n%20K%E1%BB%B3/Ch%C6%B0%C6%A1ng%20tr%C3%ACnh%20qu%E1%BA%A3n%20l%C3%BD%20chi%20ti%C3%AAu%20c%C3%A1%20nh%C3%A2n/Ti%E1%BB%81m%20n%C4%83ng%20th%E1%BB%8B%20tr%C6%B0%E1%BB%9Dng.md)
     - [Hướng phát triển](./Tr%E1%BA%A5n%20K%E1%BB%B3/Ch%C6%B0%C6%A1ng%20tr%C3%ACnh%20qu%E1%BA%A3n%20l%C3%BD%20chi%20ti%C3%AAu%20c%C3%A1%20nh%C3%A2n/T%C3%A0i%20li%E1%BB%87u/H%C6%B0%E1%BB%9Bng%20ph%C3%A1t%20tri%E1%BB%83n.md)
@@ -54,7 +55,6 @@ title: Tự động hoá
     - [Kế hoạch bán cho người cần có sự kỷ luật tài chính](./Tr%E1%BA%A5n%20K%E1%BB%B3/C%C5%A9/4%20Th%C3%A0nh%20ph%E1%BA%A9m/K%E1%BA%BF%20ho%E1%BA%A1ch/K%E1%BA%BF%20ho%E1%BA%A1ch%20t%E1%BA%A1o%20l%E1%BB%A3i%20nhu%E1%BA%ADn%20t%E1%BB%AB%20Tr%E1%BA%A5n%20K%E1%BB%B3/K%E1%BA%BF%20ho%E1%BA%A1ch%20b%C3%A1n%20cho%20ng%C6%B0%E1%BB%9Di%20c%E1%BA%A7n%20c%C3%B3%20s%E1%BB%B1%20k%E1%BB%B7%20lu%E1%BA%ADt%20t%C3%A0i%20ch%C3%ADnh.md)
     - [Kế hoạch xây dựng cộng đồng phát triển Trấn Kỳ](./Tr%E1%BA%A5n%20K%E1%BB%B3/C%C5%A9/4%20Th%C3%A0nh%20ph%E1%BA%A9m/K%E1%BA%BF%20ho%E1%BA%A1ch/K%E1%BA%BF%20ho%E1%BA%A1ch%20x%C3%A2y%20d%E1%BB%B1ng%20c%E1%BB%99ng%20%C4%91%E1%BB%93ng%20ph%C3%A1t%20tri%E1%BB%83n%20Tr%E1%BA%A5n%20K%E1%BB%B3.md)
     - [Kế hoạch](./Tr%E1%BA%A5n%20K%E1%BB%B3/C%C5%A9/4%20Th%C3%A0nh%20ph%E1%BA%A9m/K%E1%BA%BF%20ho%E1%BA%A1ch/index.md)
-    - [Untitled](./Tr%E1%BA%A5n%20K%E1%BB%B3/C%C5%A9/4%20Th%C3%A0nh%20ph%E1%BA%A9m/K%E1%BA%BF%20ho%E1%BA%A1ch/Untitled.md)
     - [Câu hỏi khảo sát](./Tr%E1%BA%A5n%20K%E1%BB%B3/C%C5%A9/4%20Th%C3%A0nh%20ph%E1%BA%A9m/Ng%C6%B0%E1%BB%9Di%20d%C3%B9ng/Ng%C6%B0%E1%BB%9Di%20d%C3%B9ng%20c%C3%A1%20nh%C3%A2n/Nhu%20c%E1%BA%A7u%20ph%C3%A2n%20lo%E1%BA%A1i%20t%E1%BB%B1%20%C4%91%E1%BB%99ng/C%C3%A2u%20h%E1%BB%8Fi%20kh%E1%BA%A3o%20s%C3%A1t.md)
     - [Câu hỏi phỏng vấn](./Tr%E1%BA%A5n%20K%E1%BB%B3/C%C5%A9/4%20Th%C3%A0nh%20ph%E1%BA%A9m/Ng%C6%B0%E1%BB%9Di%20d%C3%B9ng/Ng%C6%B0%E1%BB%9Di%20d%C3%B9ng%20c%C3%A1%20nh%C3%A2n/Nhu%20c%E1%BA%A7u%20ph%C3%A2n%20lo%E1%BA%A1i%20t%E1%BB%B1%20%C4%91%E1%BB%99ng/C%C3%A2u%20h%E1%BB%8Fi%20ph%E1%BB%8Fng%20v%E1%BA%A5n.md)
     - [Duy Phong](./Tr%E1%BA%A5n%20K%E1%BB%B3/C%C5%A9/4%20Th%C3%A0nh%20ph%E1%BA%A9m/Ng%C6%B0%E1%BB%9Di%20d%C3%B9ng/Ng%C6%B0%E1%BB%9Di%20d%C3%B9ng%20c%C3%A1%20nh%C3%A2n/Nhu%20c%E1%BA%A7u%20ph%C3%A2n%20lo%E1%BA%A1i%20t%E1%BB%B1%20%C4%91%E1%BB%99ng/K%E1%BA%BFt%20qu%E1%BA%A3/Duy%20Phong.md)
