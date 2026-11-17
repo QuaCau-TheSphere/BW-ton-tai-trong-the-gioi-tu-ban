@@ -37,4 +37,4 @@ Thuận tiện cho việc chuyển tiền
 | VIB                                                                                                     | 5138920615042705 |                  | 15tr    |
 | Vietcombank JCB                                                                                         | 3567719254616646 |                  | 5tr     |
 
-[Các khoản tài sản và khoản nợ Nhật đứng tên (phiên bản cho bạn bè)](./C%C3%A1c%20kho%E1%BA%A3n%20t%C3%A0i%20s%E1%BA%A3n%20v%C3%A0%20kho%E1%BA%A3n%20n%E1%BB%A3%20Nh%E1%BA%ADt%20%C4%91%E1%BB%A9ng%20t%C3%AAn%20(phi%C3%AAn%20b%E1%BA%A3n%20cho%20b%E1%BA%A1n%20b%C3%A8).md)
+[Quỹ tín dụng Lý Minh Nhật](./Qu%E1%BB%B9%20t%C3%ADn%20d%E1%BB%A5ng%20L%C3%BD%20Minh%20Nh%E1%BA%ADt.md)
