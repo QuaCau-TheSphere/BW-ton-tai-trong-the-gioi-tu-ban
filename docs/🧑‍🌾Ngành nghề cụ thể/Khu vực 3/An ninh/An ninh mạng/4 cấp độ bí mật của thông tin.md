@@ -3,7 +3,7 @@ share: true
 created: 2025-01-23T14:28
 updated: 2026-07-27T02:26
 ---
-Khái niệm:: [Bảo mật](../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/B%E1%BA%A3o%20m%E1%BA%ADt.md)
+Khái niệm:: [Bảo mật](../../../../%CE%9E%20Meta/Kh%C3%A1i%20ni%E1%BB%87m/B%E1%BA%A3o%20m%E1%BA%ADt.md)
 **Điều 4. Phân loại thông tin**
 Thông tin xử lý, lưu trữ thông qua hệ thống thông tin được phân loại theo thuộc tính bí mật như sau:
 
