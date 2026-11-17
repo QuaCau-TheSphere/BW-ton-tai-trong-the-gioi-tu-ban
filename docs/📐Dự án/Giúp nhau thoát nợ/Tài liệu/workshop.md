@@ -1,6 +1,6 @@
 ---
 share: true
-updated: 2026-07-27T02:20
+updated: 2026-07-27T02:26
 created: 2025-05-15T21:48
 ---
 Tín dụng được dùng nhiều hơn 
