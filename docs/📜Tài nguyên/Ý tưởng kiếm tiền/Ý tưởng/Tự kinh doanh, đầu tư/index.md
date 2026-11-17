@@ -13,9 +13,9 @@ aliases:
 ## Kết nối, hợp tác
 - Hệ thống thông tin: 
     - [Danh bạ các doanh nghiệp](./K%E1%BA%BFt%20n%E1%BB%91i%20nhu%20c%E1%BA%A7u/H%E1%BB%87%20th%E1%BB%91ng%20th%C3%B4ng%20tin/Danh%20b%E1%BA%A1%20c%C3%A1c%20doanh%20nghi%E1%BB%87p.md)
+    - [Kho tri thức](./K%E1%BA%BFt%20n%E1%BB%91i%20nhu%20c%E1%BA%A7u/H%E1%BB%87%20th%E1%BB%91ng%20th%C3%B4ng%20tin/Kho%20tri%20th%E1%BB%A9c.md)
     - [Kho địa điểm để chọn nơi gặp mặt](./K%E1%BA%BFt%20n%E1%BB%91i%20nhu%20c%E1%BA%A7u/H%E1%BB%87%20th%E1%BB%91ng%20th%C3%B4ng%20tin/Kho%20%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m%20%C4%91%E1%BB%83%20ch%E1%BB%8Dn%20n%C6%A1i%20g%E1%BA%B7p%20m%E1%BA%B7t.md)
     - [Kết nối nhu cầu di chuyển của người khuyết tật](./K%E1%BA%BFt%20n%E1%BB%91i%20nhu%20c%E1%BA%A7u/H%E1%BB%87%20th%E1%BB%91ng%20th%C3%B4ng%20tin/K%E1%BA%BFt%20n%E1%BB%91i%20nhu%20c%E1%BA%A7u%20di%20chuy%E1%BB%83n%20c%E1%BB%A7a%20ng%C6%B0%E1%BB%9Di%20khuy%E1%BA%BFt%20t%E1%BA%ADt.md)
-    - [Kho tri thức](./K%E1%BA%BFt%20n%E1%BB%91i%20nhu%20c%E1%BA%A7u/H%E1%BB%87%20th%E1%BB%91ng%20th%C3%B4ng%20tin/Kho%20tri%20th%E1%BB%A9c.md)
     - [Mạng xã hội nơi mọi người hiểu rõ chính mình](./K%E1%BA%BFt%20n%E1%BB%91i%20nhu%20c%E1%BA%A7u/H%E1%BB%87%20th%E1%BB%91ng%20th%C3%B4ng%20tin/M%E1%BA%A1ng%20x%C3%A3%20h%E1%BB%99i%20n%C6%A1i%20m%E1%BB%8Di%20ng%C6%B0%E1%BB%9Di%20hi%E1%BB%83u%20r%C3%B5%20ch%C3%ADnh%20m%C3%ACnh.md)
 
 - Nhóm: 
@@ -26,11 +26,11 @@ aliases:
     - [Vườn ươm kinh doanh](./K%E1%BA%BFt%20n%E1%BB%91i%20nhu%20c%E1%BA%A7u/Nh%C3%B3m/V%C6%B0%E1%BB%9Dn%20%C6%B0%C6%A1m%20kinh%20doanh.md)
 
 - Tín dụng: 
+    - [Nhóm hỗ trợ các nhóm hỗ trợ người mắc nợ](./K%E1%BA%BFt%20n%E1%BB%91i%20nhu%20c%E1%BA%A7u/T%C3%ADn%20d%E1%BB%A5ng/Nh%C3%B3m%20h%E1%BB%97%20tr%E1%BB%A3%20c%C3%A1c%20nh%C3%B3m%20h%E1%BB%97%20tr%E1%BB%A3%20ng%C6%B0%E1%BB%9Di%20m%E1%BA%AFc%20n%E1%BB%A3.md)
     - [Quỹ cho vay](./K%E1%BA%BFt%20n%E1%BB%91i%20nhu%20c%E1%BA%A7u/T%C3%ADn%20d%E1%BB%A5ng/Qu%E1%BB%B9%20cho%20vay.md)
-    - [Sàn cho vay ngang hàng](./K%E1%BA%BFt%20n%E1%BB%91i%20nhu%20c%E1%BA%A7u/T%C3%ADn%20d%E1%BB%A5ng/S%C3%A0n%20cho%20vay%20ngang%20h%C3%A0ng.md)
     - [Quỹ đầu tư](./K%E1%BA%BFt%20n%E1%BB%91i%20nhu%20c%E1%BA%A7u/T%C3%ADn%20d%E1%BB%A5ng/Qu%E1%BB%B9%20%C4%91%E1%BA%A7u%20t%C6%B0.md)
+    - [Sàn cho vay ngang hàng](./K%E1%BA%BFt%20n%E1%BB%91i%20nhu%20c%E1%BA%A7u/T%C3%ADn%20d%E1%BB%A5ng/S%C3%A0n%20cho%20vay%20ngang%20h%C3%A0ng.md)
     - [Sàn gây quỹ đám đông](./K%E1%BA%BFt%20n%E1%BB%91i%20nhu%20c%E1%BA%A7u/T%C3%ADn%20d%E1%BB%A5ng/S%C3%A0n%20g%C3%A2y%20qu%E1%BB%B9%20%C4%91%C3%A1m%20%C4%91%C3%B4ng.md)
-    - [Xây dựng các nhóm hỗ trợ người mắc nợ](./K%E1%BA%BFt%20n%E1%BB%91i%20nhu%20c%E1%BA%A7u/T%C3%ADn%20d%E1%BB%A5ng/X%C3%A2y%20d%E1%BB%B1ng%20c%C3%A1c%20nh%C3%B3m%20h%E1%BB%97%20tr%E1%BB%A3%20ng%C6%B0%E1%BB%9Di%20m%E1%BA%AFc%20n%E1%BB%A3.md)
 
 
 
@@ -43,13 +43,13 @@ aliases:
 
 
 ## Gia công giải pháp
+- [Chuyển đổi số cho các dòng họ](./Gia%20c%C3%B4ng%20gi%E1%BA%A3i%20ph%C3%A1p/Chuy%E1%BB%83n%20%C4%91%E1%BB%95i%20s%E1%BB%91%20cho%20c%C3%A1c%20d%C3%B2ng%20h%E1%BB%8D.md)
 - [Gia công giải pháp](./Gia%20c%C3%B4ng%20gi%E1%BA%A3i%20ph%C3%A1p/index.md)
 - [Plugin giúp phân loại dữ liệu cho các chương trình kế toán](./Gia%20c%C3%B4ng%20gi%E1%BA%A3i%20ph%C3%A1p/Plugin%20gi%C3%BAp%20ph%C3%A2n%20lo%E1%BA%A1i%20d%E1%BB%AF%20li%E1%BB%87u%20cho%20c%C3%A1c%20ch%C6%B0%C6%A1ng%20tr%C3%ACnh%20k%E1%BA%BF%20to%C3%A1n.md)
-- [Chuyển đổi số cho các dòng họ](./Gia%20c%C3%B4ng%20gi%E1%BA%A3i%20ph%C3%A1p/Chuy%E1%BB%83n%20%C4%91%E1%BB%95i%20s%E1%BB%91%20cho%20c%C3%A1c%20d%C3%B2ng%20h%E1%BB%8D.md)
 - [Rút gọn liên kết cho các kho dữ liệu](./Gia%20c%C3%B4ng%20gi%E1%BA%A3i%20ph%C3%A1p/R%C3%BAt%20g%E1%BB%8Dn%20li%C3%AAn%20k%E1%BA%BFt%20cho%20c%C3%A1c%20kho%20d%E1%BB%AF%20li%E1%BB%87u.md)
 - [Tạo báo cáo tiếp thị quản lý được theo từng cấp](./Gia%20c%C3%B4ng%20gi%E1%BA%A3i%20ph%C3%A1p/T%E1%BA%A1o%20b%C3%A1o%20c%C3%A1o%20ti%E1%BA%BFp%20th%E1%BB%8B%20qu%E1%BA%A3n%20l%C3%BD%20%C4%91%C6%B0%E1%BB%A3c%20theo%20t%E1%BB%ABng%20c%E1%BA%A5p.md)
-- [Tổng hợp thông tin khách hàng FE](./Gia%20c%C3%B4ng%20gi%E1%BA%A3i%20ph%C3%A1p/T%E1%BB%95ng%20h%E1%BB%A3p%20th%C3%B4ng%20tin%20kh%C3%A1ch%20h%C3%A0ng%20FE.md)
 - [Tổng hợp các sự kiện sắp xảy ra vào Google Calendar](./Gia%20c%C3%B4ng%20gi%E1%BA%A3i%20ph%C3%A1p/T%E1%BB%95ng%20h%E1%BB%A3p%20c%C3%A1c%20s%E1%BB%B1%20ki%E1%BB%87n%20s%E1%BA%AFp%20x%E1%BA%A3y%20ra%20v%C3%A0o%20Google%20Calendar.md)
+- [Tổng hợp thông tin khách hàng FE](./Gia%20c%C3%B4ng%20gi%E1%BA%A3i%20ph%C3%A1p/T%E1%BB%95ng%20h%E1%BB%A3p%20th%C3%B4ng%20tin%20kh%C3%A1ch%20h%C3%A0ng%20FE.md)
 
 
 ## Xem thêm
