@@ -11,7 +11,7 @@ aliases:
 ## Mua đồ ăn rẻ 
 - Mua đồ ăn ở chợ đầu mối
 - Tham gia các [Nhóm mua chung, câu lạc bộ tiêu dùng](../../%F0%9F%93%90D%E1%BB%B1%20%C3%A1n/X%C3%A2y%20d%E1%BB%B1ng%20h%E1%BB%87%20th%E1%BB%91ng%20kinh%20t%E1%BA%BF%20m%E1%BB%9Bi/Nh%C3%B3m%20mua%20chung,%20c%C3%A2u%20l%E1%BA%A1c%20b%E1%BB%99%20ti%C3%AAu%20d%C3%B9ng.md)
-- Săn [Phiếu giảm giá (voucher)](../Gi%E1%BB%9Bi%20thi%E1%BB%87u%20d%E1%BB%8Bch%20v%E1%BB%A5/T%C3%A0i%20ch%C3%ADnh/B%E1%BA%A3o%20hi%E1%BB%83m/Phi%E1%BA%BFu%20gi%E1%BA%A3m%20gi%C3%A1%20(voucher).md)
+- Săn [Phiếu giảm giá (voucher)](../Gi%E1%BB%9Bi%20thi%E1%BB%87u%20d%E1%BB%8Bch%20v%E1%BB%A5/Phi%E1%BA%BFu%20gi%E1%BA%A3m%20gi%C3%A1%20(voucher).md)
 - Aeon sau 9h tối bán đồ ăn đại hạ giá
 
 ## Đến những nơi [Tặng đồ ăn](../Qu%C3%A0%20t%E1%BA%B7ng/T%E1%BA%B7ng%20%C4%91%E1%BB%93%20%C4%83n.md)
