@@ -3,7 +3,7 @@ share: true
 updated: 2026-07-27T02:26
 created: 2026-02-24T17:00
 ---
-Khái niệm:: [Tiền](../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/T%C3%A0i%20s%E1%BA%A3n/Ti%E1%BB%81n.md)
+Khái niệm:: [Tiền](../../../../%CE%9E%20Meta/Kh%C3%A1i%20ni%E1%BB%87m/T%C3%A0i%20s%E1%BA%A3n/Ti%E1%BB%81n.md)
 
 Nguồn:: [Đồng tiền và xã hội Việt Nam ngày nay \| Trần Hữu Quang](https://tapchithoidai.diendan.org/ThoiDai10/200710_THQuang.htm)
 ![Dreaming-Of-Money-In-Ho-Chi-Minh-City.pdf](../../../../assets/attachments/Dreaming-Of-Money-In-Ho-Chi-Minh-City.pdf)
