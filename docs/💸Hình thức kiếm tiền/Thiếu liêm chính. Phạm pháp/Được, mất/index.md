@@ -21,8 +21,8 @@ Trong lý luận pháp luật, phần được mà mình quan tâm sẽ là đ�
     - [Có tiền nhanh](./%C4%90%C6%B0%E1%BB%A3c%20(%C4%91%E1%BB%99ng%20c%C6%A1)/C%C3%B3%20ti%E1%BB%81n%20nhanh.md)
     - [Giúp nhau](./%C4%90%C6%B0%E1%BB%A3c%20(%C4%91%E1%BB%99ng%20c%C6%A1)/Gi%C3%BAp%20nhau.md)
     - [Giữ lòng trung thành với người mình cần dùng](./%C4%90%C6%B0%E1%BB%A3c%20(%C4%91%E1%BB%99ng%20c%C6%A1)/Gi%E1%BB%AF%20l%C3%B2ng%20trung%20th%C3%A0nh%20v%E1%BB%9Bi%20ng%C6%B0%E1%BB%9Di%20m%C3%ACnh%20c%E1%BA%A7n%20d%C3%B9ng.md)
-    - [Tham gia vào hệ thống](./%C4%90%C6%B0%E1%BB%A3c%20(%C4%91%E1%BB%99ng%20c%C6%A1)/Tham%20gia%20v%C3%A0o%20h%E1%BB%87%20th%E1%BB%91ng.md)
     - [Phản kháng với bất công hệ thống](./%C4%90%C6%B0%E1%BB%A3c%20(%C4%91%E1%BB%99ng%20c%C6%A1)/Ph%E1%BA%A3n%20kh%C3%A1ng%20v%E1%BB%9Bi%20b%E1%BA%A5t%20c%C3%B4ng%20h%E1%BB%87%20th%E1%BB%91ng.md)
+    - [Tham gia vào hệ thống](./%C4%90%C6%B0%E1%BB%A3c%20(%C4%91%E1%BB%99ng%20c%C6%A1)/Tham%20gia%20v%C3%A0o%20h%E1%BB%87%20th%E1%BB%91ng.md)
     - [Thỏa mãn ham muốn](./%C4%90%C6%B0%E1%BB%A3c%20(%C4%91%E1%BB%99ng%20c%C6%A1)/Th%E1%BB%8Fa%20m%C3%A3n%20ham%20mu%E1%BB%91n.md)
     - [Trả thù](./%C4%90%C6%B0%E1%BB%A3c%20(%C4%91%E1%BB%99ng%20c%C6%A1)/Tr%E1%BA%A3%20th%C3%B9.md)
 
