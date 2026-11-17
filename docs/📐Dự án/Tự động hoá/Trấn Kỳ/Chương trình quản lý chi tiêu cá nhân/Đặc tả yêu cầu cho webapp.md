@@ -50,7 +50,7 @@ Thời gian hoàn thành dự kiến (giả sử ngày làm 10 tiếng):
 ## Cách thức trao đổi nhu cầu
 Đáp ứng được các mục tiêu của [Nhật](../C%C5%A9/4%20Th%C3%A0nh%20ph%E1%BA%A9m/%C4%90%E1%BB%99i%20ng%C5%A9/Nh%E1%BA%ADt.md), [Trí](%F0%9F%93%90D%E1%BB%B1%20%C3%A1n/Gi%C3%BAp%20nhau%20tho%C3%A1t%20n%E1%BB%A3/Kh%C3%A1ch%20h%C3%A0ng/Kendy/Kendy%20c%E1%BA%A7n%20g%C3%AC.md) và [Thịnh](../C%C5%A9/4%20Th%C3%A0nh%20ph%E1%BA%A9m/%C4%90%E1%BB%99i%20ng%C5%A9/Th%E1%BB%8Bnh.md). Nếu không thì giá để Nhật làm là 200k/giờ hoặc $1000/tháng.
 
-Xem thêm:: [Lý do viết Trấn Kỳ](../C%C5%A9/9%20Blog/L%C3%BD%20do%20vi%E1%BA%BFt%20Tr%E1%BA%A5n%20K%E1%BB%B3.md)
+Xem thêm:: [Lý do viết Trấn Kỳ](../Blog/L%C3%BD%20do%20vi%E1%BA%BFt%20Tr%E1%BA%A5n%20K%E1%BB%B3.md)
 
 ## Nền tảng cần dùng
 - **Máy chủ:** Deno Deploy
