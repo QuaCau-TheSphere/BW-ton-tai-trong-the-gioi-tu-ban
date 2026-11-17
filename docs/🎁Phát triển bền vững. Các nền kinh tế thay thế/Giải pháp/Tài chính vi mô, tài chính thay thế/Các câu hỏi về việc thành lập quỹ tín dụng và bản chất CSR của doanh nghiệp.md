@@ -21,4 +21,4 @@ Luật pháp chỉ hiểu về kinh doanh, chứ ko phải là phi lợi nhuận
 - Anh cũng đăng fb, đó có gọi là truyền thông ko? Điều gì khiến anh thấy việc truyền thông là có hại cho việc hữu xạ tự nhiên hương?
 
 [Doanh nhân chỉ biết kiếm tiền](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Ni%E1%BB%81m%20tin,%20di%E1%BB%85n%20ng%C3%B4n/Ti%E1%BB%81n/%C4%90%E1%BA%A1o%20%C4%91%E1%BB%A9c/Doanh%20nh%C3%A2n%20ch%E1%BB%89%20bi%E1%BA%BFt%20ki%E1%BA%BFm%20ti%E1%BB%81n.md)
-Hỏi thêm:: [PTS](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Ngu%E1%BB%93n/PTS.md)
+Hỏi thêm:: [PTS](../../../%CE%9E%20Meta/Ngu%E1%BB%93n/C%C3%A1%20nh%C3%A2n,%20t%E1%BB%95%20ch%E1%BB%A9c/PTS.md)
