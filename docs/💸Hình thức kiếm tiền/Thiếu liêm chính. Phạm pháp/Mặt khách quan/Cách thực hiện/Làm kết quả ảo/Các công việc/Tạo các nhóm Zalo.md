@@ -17,7 +17,7 @@ Bạn cần tạo 10 nhóm Zalo, mỗi nhóm có 10 tài khoản khác nhau, đ�
 - Tài khoản không cần tương tác
 - Sau 1 tháng có thể thoát nhóm. Trong thời gian đó có thể ẩn đi
 
-Xem thêm:: [Giới hạn và tiện lợi ở Zalo](../../../../../../%F0%9F%A7%91%E2%80%8D%F0%9F%8C%BENg%C3%A0nh%20ngh%E1%BB%81%20c%E1%BB%A5%20th%E1%BB%83/Vi%E1%BB%85n%20th%C3%B4ng/Zalo/Gi%E1%BB%9Bi%20h%E1%BA%A1n%20v%C3%A0%20ti%E1%BB%87n%20l%E1%BB%A3i%20%E1%BB%9F%20Zalo.md)
+Xem thêm:: [Giới hạn và tiện lợi ở Zalo](../../../../../../%F0%9F%A7%91%E2%80%8D%F0%9F%8C%BENg%C3%A0nh%20ngh%E1%BB%81%20c%E1%BB%A5%20th%E1%BB%83/Khu%20v%E1%BB%B1c%204/Vi%E1%BB%85n%20th%C3%B4ng/Zalo/Gi%E1%BB%9Bi%20h%E1%BA%A1n%20v%C3%A0%20ti%E1%BB%87n%20l%E1%BB%A3i%20%E1%BB%9F%20Zalo.md)
 
 Số tiền đầu tư:: 
 Số tiền đặt cọc:: 
