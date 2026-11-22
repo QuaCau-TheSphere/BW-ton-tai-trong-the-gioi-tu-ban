@@ -36,10 +36,10 @@ Tài nguyên, vật dụng cần có sẵn::
 Đặc điểm khác:: [Không cần độ tập trung cao](../../../../%C4%90%E1%BA%B7c%20%C4%91i%E1%BB%83m%20c%C3%B4ng%20vi%E1%BB%87c/%C4%90%E1%BA%B7c%20%C4%91i%E1%BB%83m%20kh%C3%A1c/Kh%C3%B4ng%20c%E1%BA%A7n%20%C4%91%E1%BB%99%20t%E1%BA%ADp%20trung%20cao.md)
 
 Các hình thức huy động vốn tương tự, có thể kết hợp làm chung:
-- [Cho vay lấy lãi](./Cho%20vay%20l%E1%BA%A5y%20l%C3%A3i.md)
+- [Nhóm hỗ trợ các nhóm hỗ trợ người mắc nợ](./Nh%C3%B3m%20h%E1%BB%97%20tr%E1%BB%A3%20c%C3%A1c%20nh%C3%B3m%20h%E1%BB%97%20tr%E1%BB%A3%20ng%C6%B0%E1%BB%9Di%20m%E1%BA%AFc%20n%E1%BB%A3.md)
 - [Quỹ cho vay](./Qu%E1%BB%B9%20cho%20vay.md)
-- [Quỹ đầu tư](./Qu%E1%BB%B9%20%C4%91%E1%BA%A7u%20t%C6%B0.md)
 - [Sàn cho vay ngang hàng](./S%C3%A0n%20cho%20vay%20ngang%20h%C3%A0ng.md)
+- [Quỹ đầu tư](./Qu%E1%BB%B9%20%C4%91%E1%BA%A7u%20t%C6%B0.md)
 
 
 Tất cả những cái này là một phần của dự án [Giúp nhau kiếm tiền](../../../../../../%F0%9F%93%90D%E1%BB%B1%20%C3%A1n/Gi%C3%BAp%20nhau%20ki%E1%BA%BFm%20ti%E1%BB%81n/index.md).
