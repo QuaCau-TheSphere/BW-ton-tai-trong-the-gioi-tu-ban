@@ -3,7 +3,7 @@ share: true
 created: 2026-10-28T14:40
 updated: 2026-10-28T14:41
 ---
-Khái niệm:: [Luật Việt Nam](../../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Nh%C3%A0%20n%C6%B0%E1%BB%9Bc/Lu%E1%BA%ADt%20Vi%E1%BB%87t%20Nam.md), [Luật kinh doanh bảo hiểm](../../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Lu%E1%BA%ADt%20kinh%20doanh%20b%E1%BA%A3o%20hi%E1%BB%83m.md)
+Khái niệm:: [Luật Việt Nam](../../../../../%CE%9E%20Meta/Kh%C3%A1i%20ni%E1%BB%87m/Nh%C3%A0%20n%C6%B0%E1%BB%9Bc/Lu%E1%BA%ADt%20Vi%E1%BB%87t%20Nam.md), [Luật kinh doanh bảo hiểm](../../../../../%CE%9E%20Meta/Kh%C3%A1i%20ni%E1%BB%87m/Lu%E1%BA%ADt%20kinh%20doanh%20b%E1%BA%A3o%20hi%E1%BB%83m.md)
 Điều 9. Các hành vi bị nghiêm cấm
 1. Hoạt động kinh doanh bảo hiểm, kinh doanh tái bảo hiểm, nhượng tái bảo hiểm, môi giới bảo hiểm khi không có giấy phép thành lập và hoạt động.
 2. Hoạt động kinh doanh bảo hiểm, kinh doanh tái bảo hiểm, nhượng tái bảo hiểm, môi giới bảo hiểm không đúng phạm vi được cấp phép.
