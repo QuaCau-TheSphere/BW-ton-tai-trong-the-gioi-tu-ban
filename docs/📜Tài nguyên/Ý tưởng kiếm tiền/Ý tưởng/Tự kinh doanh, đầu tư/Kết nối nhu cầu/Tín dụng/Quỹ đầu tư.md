@@ -25,7 +25,7 @@ Vào [Discord Quả Cầu](https://discord.com/channels/898550123007709204/12495
 [![](https://i.vgy.me/BjXA75.png)](https://discord.com/channels/898550123007709204/1249553476745298010)
 
 Các hình thức huy động vốn tương tự, có thể kết hợp làm chung:
-- [Cho vay lấy lãi](./Cho%20vay%20l%E1%BA%A5y%20l%C3%A3i.md)
+- [Nhóm hỗ trợ các nhóm hỗ trợ người mắc nợ](./Nh%C3%B3m%20h%E1%BB%97%20tr%E1%BB%A3%20c%C3%A1c%20nh%C3%B3m%20h%E1%BB%97%20tr%E1%BB%A3%20ng%C6%B0%E1%BB%9Di%20m%E1%BA%AFc%20n%E1%BB%A3.md)
 - [Quỹ cho vay](./Qu%E1%BB%B9%20cho%20vay.md)
 - [Sàn cho vay ngang hàng](./S%C3%A0n%20cho%20vay%20ngang%20h%C3%A0ng.md)
 - [Sàn gây quỹ đám đông](./S%C3%A0n%20g%C3%A2y%20qu%E1%BB%B9%20%C4%91%C3%A1m%20%C4%91%C3%B4ng.md)
