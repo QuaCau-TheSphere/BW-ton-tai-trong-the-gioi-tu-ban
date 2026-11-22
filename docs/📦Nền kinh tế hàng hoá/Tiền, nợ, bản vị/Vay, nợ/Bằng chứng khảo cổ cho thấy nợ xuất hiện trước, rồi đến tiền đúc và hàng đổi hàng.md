@@ -3,7 +3,7 @@ share: true
 updated: 2026-10-09T20:15
 created: 2023-09-05T16:17
 ---
-Khái niệm:: [Nợ](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/T%C3%ADn%20d%E1%BB%A5ng/Vay,%20n%E1%BB%A3/N%E1%BB%A3.md)
+Khái niệm:: [Nợ](../../../%CE%9E%20Meta/Kh%C3%A1i%20ni%E1%BB%87m/T%C3%ADn%20d%E1%BB%A5ng/Vay,%20n%E1%BB%A3/N%E1%BB%A3.md)
 Nợ là hình thức trao đổi đầu tiên của nhân loại, xuất hiện trước tiền tệ và hệ thống thương mại
 
 Theo Graeber, Smith và kinh tế học cổ điển đã đặt quan hệ trao đổi giữa các cá nhân ngang hàng vào vị trí trung tâm của đời sống kinh tế, từ đó xây dựng một giả thuyết về nguồn gốc tiền tệ không phù hợp với các bằng chứng khảo cổ và nhân học. Smith hình dung phương thức trao đổi hàng hóa đã phát triển qua ba giai đoạn: từ hàng đổi hàng đến tiền kim loại đúc, rồi tín dụng ngân hàng và tiền giấy (tức những giấy ghi nợ được dùng làm tiền trong lưu thông).
