@@ -1,11 +1,13 @@
 ---
 share: true
 created: 2025-03-23T00:21
-updated: 2026-11-01T11:03
+updated: 2026-11-16T13:15
 title: Có những cách có lợi nào để mua bảo hiểm nhân thọ?
 aliases:
   - review hợp đồng bảo hiểm nhân thọ
 ---
+[Các lý do từ chối mua thường gặp](../../../%F0%9F%A7%91%E2%80%8D%F0%9F%8C%BENg%C3%A0nh%20ngh%E1%BB%81%20c%E1%BB%A5%20th%E1%BB%83/T%C3%A0i%20ch%C3%ADnh/B%E1%BA%A3o%20hi%E1%BB%83m/Nhu%20c%E1%BA%A7u,%20l%E1%BB%A3i%20%C3%ADch%20c%E1%BB%A7a%20kh%C3%A1ch%20h%C3%A0ng/C%C3%A1c%20l%C3%BD%20do%20t%E1%BB%AB%20ch%E1%BB%91i%20mua%20th%C6%B0%E1%BB%9Dng%20g%E1%BA%B7p.md)
+
 ## Học làm đại lý ở công ty có sản phẩm mình muốn mua
 Các công ty luôn muốn tuyển dụng đại lý mới, nên họ sẽ có thưởng cho mình khi đi học làm đại lý. Học xong vừa có kiến thức vừa có tiền, sau đó bạn có thể tự mua sản phẩm để nhận có tiền hoa hồng đại lý. Sau đó bạn không làm tiếp cũng được, hoặc làm dưới dạng [đại lý bảo hiểm ảo](../../../%F0%9F%92%B8H%C3%ACnh%20th%E1%BB%A9c%20ki%E1%BA%BFm%20ti%E1%BB%81n/Thi%E1%BA%BFu%20li%C3%AAm%20ch%C3%ADnh.%20Ph%E1%BA%A1m%20ph%C3%A1p/M%E1%BA%B7t%20kh%C3%A1ch%20quan/C%C3%A1ch%20th%E1%BB%B1c%20hi%E1%BB%87n/L%C3%A0m%20k%E1%BA%BFt%20qu%E1%BA%A3%20%E1%BA%A3o/C%C3%A1c%20c%C3%B4ng%20vi%E1%BB%87c/B%E1%BA%A3o%20hi%E1%BB%83m/index.md) nếu tìm được người chịu làm cho mình (thông thường chính là quản lý của bạn luôn).
 
@@ -14,12 +16,21 @@ Nhược điểm là bạn chỉ có thể mua sản phẩm của công ty nếu
 ## Mua từ các đại lý muốn chạy số
 Các công ty hay có chính sách thưởng theo cấp để kích thích doanh số. Ví dụ như làm được 1 đến 3 hợp đồng thì không được thưởng, nhưng làm được 4 cái thì được thưởng 1tr, làm được 6 cái thì được thưởng 2tr. Nếu các đại lý còn thiếu một vài hợp đồng là được một khoản thưởng lớn thì họ có thể sẵn sàng mua hoặc giảm giá kỳ đầu tiên cho bạn. [Hoa hồng cao là để đại lý trích một phần mua quà chăm sóc khách](../../../%F0%9F%92%B8H%C3%ACnh%20th%E1%BB%A9c%20ki%E1%BA%BFm%20ti%E1%BB%81n/Thi%E1%BA%BFu%20li%C3%AAm%20ch%C3%ADnh.%20Ph%E1%BA%A1m%20ph%C3%A1p/M%E1%BA%B7t%20kh%C3%A1ch%20quan/C%C3%A1ch%20th%E1%BB%B1c%20hi%E1%BB%87n/B%C3%A1n%20h%C3%A0ng/%C4%90%E1%BA%A1i%20l%C3%BD/Hoa%20h%E1%BB%93ng%20cao%20l%C3%A0%20%C4%91%E1%BB%83%20%C4%91%E1%BA%A1i%20l%C3%BD%20tr%C3%ADch%20m%E1%BB%99t%20ph%E1%BA%A7n%20mua%20qu%C3%A0%20ch%C4%83m%20s%C3%B3c%20kh%C3%A1ch.md), nên lúc này bạn chỉ phải trả giá gốc. [Luật tuy cấm đại lý trích hoa hồng để giảm số phí bảo hiểm phải đóng của khách, nhưng không cấm việc tặng nhau](../../../%F0%9F%A7%91%E2%80%8D%F0%9F%8C%BENg%C3%A0nh%20ngh%E1%BB%81%20c%E1%BB%A5%20th%E1%BB%83/T%C3%A0i%20ch%C3%ADnh/B%E1%BA%A3o%20hi%E1%BB%83m/Lu%E1%BA%ADt/B%E1%BA%A3o%20hi%E1%BB%83m%20t%C6%B0%20nh%C3%A2n/%E2%9D%93C%E1%BA%A5m%20%C4%91%E1%BA%A1i%20l%C3%BD%20tr%C3%ADch%20hoa%20h%E1%BB%93ng%20%C4%91%E1%BB%83%20gi%E1%BA%A3m%20s%E1%BB%91%20ph%C3%AD%20b%E1%BA%A3o%20hi%E1%BB%83m%20ph%E1%BA%A3i%20%C4%91%C3%B3ng%20c%E1%BB%A7a%20kh%C3%A1ch,%20nh%C6%B0ng%20kh%C3%B4ng%20c%E1%BA%A5m%20vi%E1%BB%87c%20t%E1%BA%B7ng%20nhau.md).
 
+## Tìm đến các hợp tác xã nhân viên
+
 ## Tìm đến những dịch vụ tư vấn độc lập
+### Nhìn bảo hiểm từ góc độ luật
+- [Góc Khuất Bồi Thường Bảo Hiểm](https://www.facebook.com/groups/9589653691151331/?__mmr=1&_rdr)
+- [Trang chủ - Sự Kiện Bảo Hiểm](https://sukienbaohiem.com/)
+- ['Bẫy' trong hợp đồng bảo hiểm đến từ đâu?](https://tuoitre.vn/bay-trong-hop-dong-bao-hiem-den-tu-dau-20230411084436694.htm)
+
+### Nhìn bảo hiểm từ góc độ tài chính
 - [Review hợp đồng BHNT \| Facebook](https://facebook.com/groups/1141721981042227)
+Theo quan sát của mình, nhóm review hợp đồng bảo hiểm này chủ yếu là làm cùng với các nhân viên kinh doanh của các công ty. Mình nghĩ nhóm thì cũng có tìm cách để sự tư vấn được trung lập, nhưng về lý thuyết thì vẫn chưa loại bỏ mâu thuẫn lợi ích ngay từ đầu.
+
 - [Nền tảng Tài chính cá nhân \| Mình hoàn thành tool cho ai cần tính toán về xác định nhu cầu BHNT từ góc độ Rõ Chi \| Facebook](https://www.facebook.com/groups/NentangTaichinhcanhan/permalink/2624159557768251/)
 - [Doanh thu 60 triệu/tháng từ lớp học tài chính cá nhân - A Vậy Hả](https://avayha.com/centicoach/)
 - [Thu nhập thụ động 7 triệu/tháng từ web tư vấn tài chính bảo hiểm - A Vậy Hả](https://avayha.com/moneyhub/)
-- ['Bẫy' trong hợp đồng bảo hiểm đến từ đâu?](https://tuoitre.vn/bay-trong-hop-dong-bao-hiem-den-tu-dau-20230411084436694.htm)
 
 | GIAI ĐOẠN                                           | ĐỊNH MUA                                                             | CHUẨN BỊ MUA                                                            | MUA                                                                            | ĐÃ MUA                                                                                            |
 | --------------------------------------------------- | -------------------------------------------------------------------- | ----------------------------------------------------------------------- | ------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------- |
@@ -30,5 +41,6 @@ Các công ty hay có chính sách thưởng theo cấp để kích thích doanh
 
 Nguồn:: [đừng để tiền rơi - Sách bảo hiểm](https://www.baohiemkhohieu.com/s%C3%A1ch-b%E1%BA%A3o-hi%E1%BB%83m)
 
-## Tìm đến các hợp tác xã nhân viên
+
 [Cổng thông tin điện tử Bộ Tài Chính](https://vidi.mof.gov.vn/vien-phat-trien-bao-hiem-viet-nam/djao-tao) 
+[Học bảo hiểm](./H%E1%BB%8Dc%20b%E1%BA%A3o%20hi%E1%BB%83m.md) 
