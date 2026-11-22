@@ -9,7 +9,7 @@ created: 2026-06-05T18:43
 ## Hiểu biết sâu
 ## Chiến lược tiếp cận
 ## Sản phẩm, giải pháp 
-[Lý do viết Trấn Kỳ](../../../../../%F0%9F%93%90D%E1%BB%B1%20%C3%A1n/T%E1%BB%B1%20%C4%91%E1%BB%99ng%20ho%C3%A1/Tr%E1%BA%A5n%20K%E1%BB%B3/C%C5%A9/9%20Blog/L%C3%BD%20do%20vi%E1%BA%BFt%20Tr%E1%BA%A5n%20K%E1%BB%B3.md)
+[Lý do viết Trấn Kỳ](../../../../../%F0%9F%93%90D%E1%BB%B1%20%C3%A1n/T%E1%BB%B1%20%C4%91%E1%BB%99ng%20ho%C3%A1/Tr%E1%BA%A5n%20K%E1%BB%B3/Blog/L%C3%BD%20do%20vi%E1%BA%BFt%20Tr%E1%BA%A5n%20K%E1%BB%B3.md)
 
 ## Thành quả mong muốn
 ## Vai trò thương hiệu
