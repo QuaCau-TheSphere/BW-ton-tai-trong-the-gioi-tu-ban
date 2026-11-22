@@ -3,7 +3,7 @@ share: true
 created: 2024-11-18T13:26
 updated: 2026-07-31T23:32
 ---
-Khái niệm:: [Thu nhập thụ động](../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Ki%E1%BA%BFm%20ti%E1%BB%81n/Thu%20nh%E1%BA%ADp%20th%E1%BB%A5%20%C4%91%E1%BB%99ng.md)
+Khái niệm:: [Thu nhập thụ động](../../../../%CE%9E%20Meta/Kh%C3%A1i%20ni%E1%BB%87m/Ki%E1%BA%BFm%20ti%E1%BB%81n/Thu%20nh%E1%BA%ADp%20th%E1%BB%A5%20%C4%91%E1%BB%99ng.md)
 [Thu nhập = thời gian x giá trị x quy mô](../../../../%F0%9F%92%B8H%C3%ACnh%20th%E1%BB%A9c%20ki%E1%BA%BFm%20ti%E1%BB%81n/K%E1%BA%BF%20ho%E1%BA%A1ch%20t%C3%A0i%20ch%C3%ADnh/Thu%20nh%E1%BA%ADp%20th%E1%BB%A5%20%C4%91%E1%BB%99ng,%20d%C3%B2ng%20ti%E1%BB%81n%20d%C6%B0%C6%A1ng/Thu%20nh%E1%BA%ADp%20=%20th%E1%BB%9Di%20gian%20x%20gi%C3%A1%20tr%E1%BB%8B%20x%20quy%20m%C3%B4.md)
 - [Kiếm tiền trực tuyến (MMO)](../../../../%F0%9F%92%B8H%C3%ACnh%20th%E1%BB%A9c%20ki%E1%BA%BFm%20ti%E1%BB%81n/Thi%E1%BA%BFu%20li%C3%AAm%20ch%C3%ADnh.%20Ph%E1%BA%A1m%20ph%C3%A1p/M%E1%BA%B7t%20kh%C3%A1ch%20quan/C%C3%B4ng%20c%E1%BB%A5%20th%E1%BB%B1c%20hi%E1%BB%87n,%20k%C3%AAnh%20t%E1%BA%A5n%20c%C3%B4ng,%20%C4%91i%E1%BB%81u%20ki%E1%BB%87n%20h%E1%BB%97%20tr%E1%BB%A3/Tr%C3%AAn%20m%E1%BA%A1ng/Ki%E1%BA%BFm%20ti%E1%BB%81n%20tr%E1%BB%B1c%20tuy%E1%BA%BFn%20(MMO).md)
 - SaaS
