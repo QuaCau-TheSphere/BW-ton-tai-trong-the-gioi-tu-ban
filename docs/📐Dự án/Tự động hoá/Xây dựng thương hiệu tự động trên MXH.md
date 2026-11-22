@@ -3,7 +3,7 @@ share: true
 created: 2024-10-24T19:14
 updated: 2026-07-27T02:26
 ---
-Một phần của [Nhóm chạy chỉ tiêu](../../%F0%9F%92%B8H%C3%ACnh%20th%E1%BB%A9c%20ki%E1%BA%BFm%20ti%E1%BB%81n/Thi%E1%BA%BFu%20li%C3%AAm%20ch%C3%ADnh.%20Ph%E1%BA%A1m%20ph%C3%A1p/C%C3%A1ch%20th%E1%BB%B1c%20hi%E1%BB%87n/L%C3%A0m%20k%E1%BA%BFt%20qu%E1%BA%A3%20%E1%BA%A3o/C%C3%A1c%20c%C3%B4ng%20vi%E1%BB%87c/Gian%20l%E1%BA%ADn%20c%C3%B4ng%20ty.md)
+Một phần của [Nhóm chạy chỉ tiêu](%F0%9F%92%B8H%C3%ACnh%20th%E1%BB%A9c%20ki%E1%BA%BFm%20ti%E1%BB%81n/Thi%E1%BA%BFu%20li%C3%AAm%20ch%C3%ADnh.%20Ph%E1%BA%A1m%20ph%C3%A1p/C%C3%A1ch%20th%E1%BB%B1c%20hi%E1%BB%87n/L%C3%A0m%20k%E1%BA%BFt%20qu%E1%BA%A3%20%E1%BA%A3o/C%C3%A1c%20c%C3%B4ng%20vi%E1%BB%87c/Gian%20l%E1%BA%ADn%20c%C3%B4ng%20ty.md)
 ## Vấn đề
 [Làm sao để nhân viên bán hàng đang mắc rất nhiều nợ mở rộng mối quan hệ khi chỉ có một mình và không có nhiều tiền](../Gi%C3%BAp%20nhau%20tho%C3%A1t%20n%E1%BB%A3/T%C3%A0i%20li%E1%BB%87u/L%C3%A0m%20sao%20%C4%91%E1%BB%83%20nh%C3%A2n%20vi%C3%AAn%20b%C3%A1n%20h%C3%A0ng%20%C4%91ang%20m%E1%BA%AFc%20r%E1%BA%A5t%20nhi%E1%BB%81u%20n%E1%BB%A3%20m%E1%BB%9F%20r%E1%BB%99ng%20m%E1%BB%91i%20quan%20h%E1%BB%87%20khi%20ch%E1%BB%89%20c%C3%B3%20m%E1%BB%99t%20m%C3%ACnh%20v%C3%A0%20kh%C3%B4ng%20c%C3%B3%20nhi%E1%BB%81u%20ti%E1%BB%81n.md)
 
