@@ -3,7 +3,7 @@ share: true
 updated: 2026-07-27T02:26
 created: 2025-07-07T13:03
 ---
-Khái niệm:: [Luật Việt Nam](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Nh%C3%A0%20n%C6%B0%E1%BB%9Bc/Lu%E1%BA%ADt%20Vi%E1%BB%87t%20Nam.md)
+Khái niệm:: [Luật Việt Nam](../../../%CE%9E%20Meta/Kh%C3%A1i%20ni%E1%BB%87m/Nh%C3%A0%20n%C6%B0%E1%BB%9Bc/Lu%E1%BA%ADt%20Vi%E1%BB%87t%20Nam.md)
 
 cùng lắm thì bài viết đó được bảo hộ dưới dạng tác phẩm phái sinh theo Đ4.8 Luật SHTT hiện hành, mà thật ra có là phái sinh thì cũng không được bảo hộ tại có dấu hiệu xuyên tạc tác phẩm gốc theo Đ14.2 Luật SHTT rồi. Chưa kể, giả định bài viết đó được bảo hộ thì cách trích dẫn trong group cũng rơi vào các trường hợp thuộc Đ25.1.c, đ, k Luật SHTT hiện hành, tức là các trường hợp ngoại lệ không xâm phạm quyền tác giả
 Tác phẩm phái sinh chỉ được bảo hộ theo quy định tại khoản 1 Điều này nếu không gây phương hại đến quyền tác giả đối với tác phẩm được dùng để làm tác phẩm phái sinh.
