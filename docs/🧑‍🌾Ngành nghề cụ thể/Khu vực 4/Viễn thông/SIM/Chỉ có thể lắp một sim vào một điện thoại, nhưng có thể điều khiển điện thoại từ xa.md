@@ -3,7 +3,7 @@ share: true
 updated: 2026-07-29T21:30
 created: 2025-10-03T08:56
 ---
-Khái niệm:: [SIM](../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/S%E1%BB%91%20%C4%91i%E1%BB%87n%20tho%E1%BA%A1i.md)
+Khái niệm:: [SIM](../../../../%CE%9E%20Meta/Kh%C3%A1i%20ni%E1%BB%87m/S%E1%BB%91%20%C4%91i%E1%BB%87n%20tho%E1%BA%A1i.md)
 
 The SIM card isn't necessary for your phone to send radio signals to cell phone towers. All the technology is already there in your phone. It's just that cell towers are programmed not to accept any requests from phones who can't authorize themselves. Basically, your phone goes "hey tower, I'd like to place a call please", and the tower goes "okay, what's the password?". And if your phone can't give the password, then the call doesn't get placed. The job of the SIM card is to provide the password. (It's not literally a password, but you can think of it that way.)
 
