@@ -11,4 +11,4 @@ Khái niệm::
 - Công việc đang tạo nên một điều gì đó **có ý nghĩa** cho mình và mọi người (meaningful)
 
 Nguồn:: [Mô hình động lực của Daniel Pink](https://www.gamehoa.org/p/dong-luc-daniel-pink)
-[Phiếu đăng ký nhận việc](../Gi%C3%BAp%20nhau%20ki%E1%BA%BFm%20ti%E1%BB%81n/T%C3%A0i%20li%E1%BB%87u/Phi%E1%BA%BFu%20%C4%91%C4%83ng%20k%C3%BD%20nh%E1%BA%ADn%20vi%E1%BB%87c.md)
+[Phiếu đăng ký nhận việc](../Gi%C3%BAp%20nhau%20ki%E1%BA%BFm%20ti%E1%BB%81n/Gi%C3%BAp%20nh%C3%A2n%20vi%C3%AAn%20c%C3%B4ng%20ty%20%C4%91%E1%BA%A1t%20ch%E1%BB%89%20ti%C3%AAu/T%C3%A0i%20li%E1%BB%87u/Phi%E1%BA%BFu%20%C4%91%C4%83ng%20k%C3%BD%20nh%E1%BA%ADn%20vi%E1%BB%87c.md)
