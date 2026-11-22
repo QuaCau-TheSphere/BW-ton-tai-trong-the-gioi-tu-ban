@@ -5,7 +5,7 @@ aliases:
   - Những yếu tố khiến tội phạm mạng trở nên nghiêm trọng và khó kiểm soát
 created: 2025-05-10T16:23
 ---
-Khái niệm:: [Tội phạm mạng](../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Ki%E1%BA%BFm%20ti%E1%BB%81n/Kh%C3%B4ng%20li%C3%AAm%20ch%C3%ADnh/T%E1%BB%99i%20ph%E1%BA%A1m%20m%E1%BA%A1ng.md), [Bảo mật](../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/B%E1%BA%A3o%20m%E1%BA%ADt.md)
+Khái niệm:: [Tội phạm mạng](../../../../%CE%9E%20Meta/Kh%C3%A1i%20ni%E1%BB%87m/Ki%E1%BA%BFm%20ti%E1%BB%81n/Kh%C3%B4ng%20li%C3%AAm%20ch%C3%ADnh/T%E1%BB%99i%20ph%E1%BA%A1m%20m%E1%BA%A1ng.md), [Bảo mật](../../../../%CE%9E%20Meta/Kh%C3%A1i%20ni%E1%BB%87m/B%E1%BA%A3o%20m%E1%BA%ADt.md)
 Những yếu tố khiến tội phạm mạng trở nên nghiêm trọng và khó kiểm soát:
 - Không có ranh giới địa lý:
   - Toàn cầu hóa kinh tế cho phép các cuộc tấn công có phạm vi ảnh hưởng lớn.
