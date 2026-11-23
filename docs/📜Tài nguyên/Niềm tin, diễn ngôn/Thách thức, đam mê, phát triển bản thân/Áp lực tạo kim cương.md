@@ -3,7 +3,7 @@ share: true
 created: 2024-10-16T21:10
 updated: 2026-07-27T02:26
 ---
-Khái niệm:: [Áp lực](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/T%C3%A2m%20l%C3%BD/%C3%81p%20l%E1%BB%B1c.md)
+Khái niệm:: [Áp lực](../../../%CE%9E%20Meta/Kh%C3%A1i%20ni%E1%BB%87m/T%C3%A2m%20l%C3%BD/%C3%81p%20l%E1%BB%B1c.md)
 Tiêu chí của việc chọn đồ ăn là ngon, bổ, rẻ. Tuy nhiên không có thứ nào có được cả 3, mà ta thường chỉ chọn được 2. Trong trường hợp tạo ra sản phẩm thì ngon, bổ, rẻ sẽ là:
 - tiết kiệm thời gian,
 - chất lượng tốt,
