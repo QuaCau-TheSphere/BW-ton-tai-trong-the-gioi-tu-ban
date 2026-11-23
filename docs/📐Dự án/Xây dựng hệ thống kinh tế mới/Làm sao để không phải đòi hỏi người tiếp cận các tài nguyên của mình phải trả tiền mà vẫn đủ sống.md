@@ -37,4 +37,4 @@ Trong trường hợp bạn thấy các dự án này chưa đạt đủ quy mô
 - [Có những cách đóng góp lại nào khi nhận được sự hỗ trợ?](./Nh%E1%BB%AFng%20c%C3%A1ch%20%C4%91%C3%B3ng%20g%C3%B3p%20l%E1%BA%A1i%20khi%20nh%E1%BA%ADn%20%C4%91%C6%B0%E1%BB%A3c%20s%E1%BB%B1%20h%E1%BB%97%20tr%E1%BB%A3.md)
 - [Từ thiện và những thứ có vẻ giống như nó](../../%F0%9F%8E%81Ph%C3%A1t%20tri%E1%BB%83n%20b%E1%BB%81n%20v%E1%BB%AFng.%20C%C3%A1c%20n%E1%BB%81n%20kinh%20t%E1%BA%BF%20thay%20th%E1%BA%BF/Th%E1%BB%B1c%20tr%E1%BA%A1ng/T%E1%BB%AB%20thi%E1%BB%87n,%20vi%E1%BB%87n%20tr%E1%BB%A3,%20t%C3%A0i%20tr%E1%BB%A3/T%E1%BB%AB%20thi%E1%BB%87n%20v%C3%A0%20nh%E1%BB%AFng%20th%E1%BB%A9%20c%C3%B3%20v%E1%BA%BB%20gi%E1%BB%91ng%20nh%C6%B0%20n%C3%B3.md)
 
-Khái niệm:: [Tài nguyên, nguồn lực](../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/T%C3%A0i%20nguy%C3%AAn,%20ngu%E1%BB%93n%20l%E1%BB%B1c.md)
+Khái niệm:: [Tài nguyên, nguồn lực](../../%CE%9E%20Meta/Kh%C3%A1i%20ni%E1%BB%87m/T%C3%A0i%20nguy%C3%AAn,%20ngu%E1%BB%93n%20l%E1%BB%B1c.md)
