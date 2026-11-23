@@ -6,7 +6,7 @@ aliases:
   - Vốn điều lệ là do thành viên góp vào
   - Vốn pháp định là do pháp luật quy định
 ---
-Khái niệm:: [Vốn (khái niệm)](../../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Kinh%20t%E1%BA%BF%20h%E1%BB%8Dc/V%E1%BB%91n%20(kh%C3%A1i%20ni%E1%BB%87m).md)
+Khái niệm:: [Vốn (khái niệm)](../../../../../%CE%9E%20Meta/Kh%C3%A1i%20ni%E1%BB%87m/Kinh%20t%E1%BA%BF%20h%E1%BB%8Dc/V%E1%BB%91n%20(kh%C3%A1i%20ni%E1%BB%87m).md)
 - Nhân thọ: bao gồm bảo hiểm liên kết đơn vị, và/hoặc bảo hiểm hưu trí
 - Phi nhân thọ: bao gồm bảo hiểm hàng không và/hoặc bảo hiểm vệ tinh
 
