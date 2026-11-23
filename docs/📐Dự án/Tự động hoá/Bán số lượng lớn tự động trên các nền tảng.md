@@ -26,4 +26,4 @@ và thứ 3 là proxy ngoại, đặc biệt là proxy US IPv4 khá mắc 2.1$/p
 e cần 5,000 acc
 v2ray theo những gì em hiểu, nó chỉ là lấy gói cước 3G vietnam rồi bật tắt để tạo 1 IP mới, nó có vẻ chỉ phù hợp vs việc reg acc, chứ ko tạo proxy để nuôi acc lâu dài
 
-[Thương mại điện tử](../../%F0%9F%92%B8H%C3%ACnh%20th%E1%BB%A9c%20ki%E1%BA%BFm%20ti%E1%BB%81n/Th%C6%B0%C6%A1ng%20m%E1%BA%A1i%20%C4%91i%E1%BB%87n%20t%E1%BB%AD.md)
+[Thương mại điện tử](../../%F0%9F%A7%91%E2%80%8D%F0%9F%8C%BENg%C3%A0nh%20ngh%E1%BB%81%20c%E1%BB%A5%20th%E1%BB%83/Khu%20v%E1%BB%B1c%204/Th%C6%B0%C6%A1ng%20m%E1%BA%A1i%20%C4%91i%E1%BB%87n%20t%E1%BB%AD.md)
