@@ -1,6 +1,6 @@
 ---
 share: true
-updated: 2026-07-27T02:26
+updated: 2026-11-21T13:59
 title: Việt Nam chưa bao giờ có hoàn cảnh và điều kiện để hình thành động lực tự ý thức trong việc du nhập, học hỏi một cách nghiêm túc và trực tiếp tư tưởng và tác phẩm của Adam Smith
 created: 2026-06-16T21:50
 ---
