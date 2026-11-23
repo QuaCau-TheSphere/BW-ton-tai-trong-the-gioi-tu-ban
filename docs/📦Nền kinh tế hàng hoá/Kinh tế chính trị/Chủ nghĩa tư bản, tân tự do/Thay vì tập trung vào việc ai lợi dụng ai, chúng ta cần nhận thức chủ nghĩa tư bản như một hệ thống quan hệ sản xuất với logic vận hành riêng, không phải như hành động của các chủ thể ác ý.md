@@ -3,7 +3,7 @@ share: true
 updated: 2026-07-27T02:26
 created: 2025-11-11T18:31
 ---
-Khái niệm:: [Tư bản](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Kinh%20t%E1%BA%BF%20h%E1%BB%8Dc/T%C6%B0%20b%E1%BA%A3n.md)
+Khái niệm:: [Tư bản](../../../%CE%9E%20Meta/Kh%C3%A1i%20ni%E1%BB%87m/Kinh%20t%E1%BA%BF%20h%E1%BB%8Dc/T%C6%B0%20b%E1%BA%A3n.md)
 Hôm nay, một người em trong nhóm chia sẻ với tôi là bạn ấy thấy một bài viết trên mạng xã hội với luận điểm: "Chủ nghĩa tư bản lợi dụng các phong trào xã hội (môi trường, giới,...)".
 
 Tôi cho rằng cách diễn đạt là "LỢI DỤNG" có những hạn chế nghiêm trọng về mặt khái niệm và lý thuyết, bởi nó che giấu bản chất thực sự của chủ nghĩa tư bản và dẫn đến những hiểu lầm về cách thức hệ thống này vận hành.
