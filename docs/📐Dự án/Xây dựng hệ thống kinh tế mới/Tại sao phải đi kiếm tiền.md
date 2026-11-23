@@ -28,7 +28,7 @@ Văn hóa, y tế, giáo dục
 Muốn được tập trung vào thứ làm mình rực rỡ
 [Nhiều người có mức sống dư dả vẫn thấy đau khổ về tiền](../../%F0%9F%93%A6N%E1%BB%81n%20kinh%20t%E1%BA%BF%20h%C3%A0ng%20ho%C3%A1/Kinh%20t%E1%BA%BF%20h%E1%BB%8Dc%20t%C3%A2m%20l%C3%BD/Nhi%E1%BB%81u%20ng%C6%B0%E1%BB%9Di%20c%C3%B3%20m%E1%BB%A9c%20s%E1%BB%91ng%20d%C6%B0%20d%E1%BA%A3%20v%E1%BA%ABn%20th%E1%BA%A5y%20%C4%91au%20kh%E1%BB%95%20v%E1%BB%81%20ti%E1%BB%81n.md)
 [Sự giàu có đích thực là gì?](../../%F0%9F%8E%81Ph%C3%A1t%20tri%E1%BB%83n%20b%E1%BB%81n%20v%E1%BB%AFng.%20C%C3%A1c%20n%E1%BB%81n%20kinh%20t%E1%BA%BF%20thay%20th%E1%BA%BF/Gi%E1%BA%A3i%20ph%C3%A1p/C%C3%A1c%20n%E1%BB%81n%20kinh%20t%E1%BA%BF%20thay%20th%E1%BA%BF/N%E1%BB%81n%20kinh%20t%E1%BA%BF%20v%E1%BB%ABa%20%C4%91%E1%BB%A7/index.md)
-[Các cộng đồng trước đây không nghĩ là mình nghèo](../../%F0%9F%8E%81Ph%C3%A1t%20tri%E1%BB%83n%20b%E1%BB%81n%20v%E1%BB%AFng.%20C%C3%A1c%20n%E1%BB%81n%20kinh%20t%E1%BA%BF%20thay%20th%E1%BA%BF/Th%E1%BB%B1c%20tr%E1%BA%A1ng/Ng%C6%B0%E1%BB%9Di%20ngh%C3%A8o/C%C3%A1c%20c%E1%BB%99ng%20%C4%91%E1%BB%93ng%20tr%C6%B0%E1%BB%9Bc%20%C4%91%C3%A2y%20kh%C3%B4ng%20ngh%C4%A9%20l%C3%A0%20m%C3%ACnh%20ngh%C3%A8o.md)
+[Các cộng đồng tự cung tự cấp không nghĩ là mình nghèo. Chỉ đến khi có sự tiếp xúc với bên ngoài mới nghĩ là mình nghèo](../../%F0%9F%8E%81Ph%C3%A1t%20tri%E1%BB%83n%20b%E1%BB%81n%20v%E1%BB%AFng.%20C%C3%A1c%20n%E1%BB%81n%20kinh%20t%E1%BA%BF%20thay%20th%E1%BA%BF/Th%E1%BB%B1c%20tr%E1%BA%A1ng/Ng%C6%B0%E1%BB%9Di%20ngh%C3%A8o/C%C3%A1c%20c%E1%BB%99ng%20%C4%91%E1%BB%93ng%20t%E1%BB%B1%20cung%20t%E1%BB%B1%20c%E1%BA%A5p%20kh%C3%B4ng%20ngh%C4%A9%20l%C3%A0%20m%C3%ACnh%20ngh%C3%A8o.%20Ch%E1%BB%89%20%C4%91%E1%BA%BFn%20khi%20c%C3%B3%20s%E1%BB%B1%20ti%E1%BA%BFp%20x%C3%BAc%20v%E1%BB%9Bi%20b%C3%AAn%20ngo%C3%A0i%20m%E1%BB%9Bi%20ngh%C4%A9%20l%C3%A0%20m%C3%ACnh%20ngh%C3%A8o.md)
 Có phải là tình thế cấp thiết không? Biện pháp đặc biệt tạm thời
 [Rơi vào tình thế cấp bách thì không thể gọi là tự nguyện](../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/R%C6%A1i%20v%C3%A0o%20t%C3%ACnh%20th%E1%BA%BF%20c%E1%BA%A5p%20b%C3%A1ch%20th%C3%AC%20kh%C3%B4ng%20th%E1%BB%83%20g%E1%BB%8Di%20l%C3%A0%20t%E1%BB%B1%20nguy%E1%BB%87n.md)
 
@@ -73,7 +73,7 @@ Chỉ loanh quanh được ở phần tài sản vô hình, còn hữu hình th�
 Sức hấp dẫn của việc dùng tiền là không phải nghĩ nhiều. Có thể viết ra các nhu cầu của mình rồi 
 [Ý tưởng tiết kiệm](../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/S%E1%BB%91ng%20v%E1%BB%ABa%20%C4%91%E1%BB%A7,%20b%E1%BB%81n%20v%E1%BB%AFng,%20ti%E1%BA%BFt%20ki%E1%BB%87m/index.md)
 ## Xem thêm
-Khái niệm:: [Kiếm tiền](../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Ki%E1%BA%BFm%20ti%E1%BB%81n/index.md)
+Khái niệm:: [Kiếm tiền](../../%CE%9E%20Meta/Kh%C3%A1i%20ni%E1%BB%87m/Ki%E1%BA%BFm%20ti%E1%BB%81n/index.md)
 - [Các lý do không muốn bị mất điểm tín dụng](../Gi%C3%BAp%20nhau%20tho%C3%A1t%20n%E1%BB%A3/T%C3%A0i%20li%E1%BB%87u/M%E1%BA%A5t%20%C4%91i%E1%BB%83m%20t%C3%ADn%20d%E1%BB%A5ng.md)
 - [Kiếm tiền không xấu](../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Ni%E1%BB%81m%20tin,%20di%E1%BB%85n%20ng%C3%B4n/Ti%E1%BB%81n/%C4%90%E1%BA%A1o%20%C4%91%E1%BB%A9c/Ki%E1%BA%BFm%20ti%E1%BB%81n%20kh%C3%B4ng%20x%E1%BA%A5u.md)
 - [Làm sao để kiếm tiền từ các tài nguyên không mất đi khi đưa cho người khác?](./L%C3%A0m%20sao%20%C4%91%E1%BB%83%20ki%E1%BA%BFm%20ti%E1%BB%81n%20t%E1%BB%AB%20c%C3%A1c%20t%C3%A0i%20nguy%C3%AAn%20kh%C3%B4ng%20m%E1%BA%A5t%20%C4%91i%20khi%20%C4%91%C6%B0a%20cho%20ng%C6%B0%E1%BB%9Di%20kh%C3%A1c.md)
