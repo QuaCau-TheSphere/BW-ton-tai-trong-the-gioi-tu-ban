@@ -1,12 +1,19 @@
 ---
 share: true
 created: 2024-08-14T21:27
-updated: 2026-07-27T02:43
+updated: 2026-11-23T14:37
+aliases:
+  - pass đồ
+  - Dùng đồ cũ
 ---
 - [BẠN CẦN - TÔI TẶNG (SAIGONGIVE) | Facebook](https://www.facebook.com/groups/362234617663903)
 - [Pass Đồ Sinh Viên Giá Rẻ TP.HCM \| Facebook](https://www.facebook.com/groups/457345977993363)
 - [Cho tặng đồ miễn phí tại Hà Nội \| Facebook](https://www.facebook.com/groups/204728197758128/)
 - [Freecycle: Find a Town](https://www.freecycle.org/find-towns)
+- [VÉN KHÉO \| Facebook](https://www.facebook.com/groups/1658624727884777/?action_source=group_mall_recommendation_affordance)
+- [Chợ Tốt - Website Mua Bán, Rao Vặt Trực Tuyến Hàng Đầu Của Người Việt](https://www.chotot.com/)
+
+Cũng có nhiều người tham gia trong các nhóm này thực ra chỉ để bán hàng
 
 [Group Facebook 370.000 thành viên “Bạn cần tôi tặng” ở Sài Gòn: “Nếu bạn chưa gặp người tốt, hãy trở thành họ!”](https://kenh14.vn/group-facebook-370000-thanh-vien-ban-can-toi-tang-o-sai-gon-neu-ban-chua-gap-nguoi-tot-hay-tro-thanh-ho-215241228172705917.chn)
 
