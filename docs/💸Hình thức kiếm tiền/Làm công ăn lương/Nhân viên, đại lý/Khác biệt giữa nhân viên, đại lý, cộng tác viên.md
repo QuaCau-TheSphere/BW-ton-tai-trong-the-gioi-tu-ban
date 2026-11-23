@@ -23,4 +23,4 @@ Freelancer: Không tốn 2 tiếng mỗi ngày để di chuyển lên công ty; 
 
 Văn phòng-er: Đảm bảo ổn định nguồn thu nhập hằng tháng (miễn là còn hợp đồng và công ty phát triển ổn); có đồng nghiệp hợp cạ để tâm sự khi stress... Bù lại, quy trình làm việc đôi lúc gò bó hơn, hoặc làm mãi một việc sẽ cảm thấy "burn-out".
 
-Xem thêm:: [Nhóm cộng tác viên cho nhân viên](../../Thi%E1%BA%BFu%20li%C3%AAm%20ch%C3%ADnh.%20Ph%E1%BA%A1m%20ph%C3%A1p/C%C3%A1ch%20th%E1%BB%B1c%20hi%E1%BB%87n/L%C3%A0m%20k%E1%BA%BFt%20qu%E1%BA%A3%20%E1%BA%A3o/C%C3%A1c%20c%C3%B4ng%20vi%E1%BB%87c/Gian%20l%E1%BA%ADn%20c%C3%B4ng%20ty.md)
+Xem thêm:: [Nhóm cộng tác viên cho nhân viên](%F0%9F%92%B8H%C3%ACnh%20th%E1%BB%A9c%20ki%E1%BA%BFm%20ti%E1%BB%81n/Thi%E1%BA%BFu%20li%C3%AAm%20ch%C3%ADnh.%20Ph%E1%BA%A1m%20ph%C3%A1p/C%C3%A1ch%20th%E1%BB%B1c%20hi%E1%BB%87n/L%C3%A0m%20k%E1%BA%BFt%20qu%E1%BA%A3%20%E1%BA%A3o/C%C3%A1c%20c%C3%B4ng%20vi%E1%BB%87c/Gian%20l%E1%BA%ADn%20c%C3%B4ng%20ty.md)
