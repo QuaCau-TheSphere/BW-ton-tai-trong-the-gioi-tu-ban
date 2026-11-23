@@ -3,7 +3,7 @@ share: true
 updated: 2026-07-27T02:26
 created: 2025-12-19T17:27
 ---
-Khái niệm:: [Di cư](../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Giai%20c%E1%BA%A5p.%20Ph%C3%A1t%20tri%E1%BB%83n%20b%E1%BB%81n%20v%E1%BB%AFng/Di%20c%C6%B0.md)
+Khái niệm:: [Di cư](../../%CE%9E%20Meta/Kh%C3%A1i%20ni%E1%BB%87m/Giai%20c%E1%BA%A5p.%20Ph%C3%A1t%20tri%E1%BB%83n%20b%E1%BB%81n%20v%E1%BB%AFng/Di%20c%C6%B0.md)
 Nếu bạn được cử xuống một làng để tìm hiểu về vấn đề làng đó cho dự án phát triển sắp tới. Nhiệm vụ của bạn là tìm hiểu được mọi tiếng nói đa dạng của mọi thành viên của cộng đồng.
 
 Bạn sẽ gặp một trở ngại thế này. Phần lớn những người ở nhà là người già, phụ nữ, hoặc trẻ con, một số thanh niên không đi làm xa. Vậy nếu không hỏi được những người làm xa thì phải làm sao?

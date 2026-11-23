@@ -26,5 +26,5 @@ Giải pháp thì cũng nhiều người nói rồi. Người bình thường kh
 - [Vấn đề đạo đức khi có lợi ích nhóm](../Tham%20nh%C5%A9ng,%20l%E1%BB%A3i%20%C3%ADch%20nh%C3%B3m,%20h%E1%BB%91i%20l%E1%BB%99,%20mua%20chu%E1%BB%99c/V%E1%BA%A5n%20%C4%91%E1%BB%81%20%C4%91%E1%BA%A1o%20%C4%91%E1%BB%A9c%20khi%20c%C3%B3%20l%E1%BB%A3i%20%C3%ADch%20nh%C3%B3m.md)
 - [Vấn đề đạo đức trong việc lừa dối cấp trên](./V%E1%BA%A5n%20%C4%91%E1%BB%81%20%C4%91%E1%BA%A1o%20%C4%91%E1%BB%A9c%20trong%20vi%E1%BB%87c%20l%E1%BB%ABa%20d%E1%BB%91i%20c%E1%BA%A5p%20tr%C3%AAn.md)
 
-Nguồn:: [Tự ngẫm nghĩ, trải nghiệm](../../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Ngu%E1%BB%93n/T%E1%BB%B1%20ng%E1%BA%ABm%20ngh%C4%A9,%20tr%E1%BA%A3i%20nghi%E1%BB%87m.md)
+Nguồn:: [Tự ngẫm nghĩ, trải nghiệm](../../../../../%CE%9E%20Meta/Ngu%E1%BB%93n/T%E1%BB%B1%20ng%E1%BA%ABm%20ngh%C4%A9,%20tr%E1%BA%A3i%20nghi%E1%BB%87m.md)
 

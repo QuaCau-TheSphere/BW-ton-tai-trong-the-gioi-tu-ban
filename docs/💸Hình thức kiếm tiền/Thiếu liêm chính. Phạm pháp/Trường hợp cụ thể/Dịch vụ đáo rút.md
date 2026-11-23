@@ -6,13 +6,13 @@ aliases:
   - Lê Ngọc Biết
   - VNC
 ---
-[Đáo rút tài khoản tín dụng](../C%C3%A1ch%20th%E1%BB%B1c%20hi%E1%BB%87n/D%E1%BB%8Bch%20v%E1%BB%A5%20t%C3%A0i%20ch%C3%ADnh/%C4%90%C3%A1o%20r%C3%BAt%20t%C3%A0i%20kho%E1%BA%A3n%20t%C3%ADn%20d%E1%BB%A5ng/index.md)
+[Đáo rút tài khoản tín dụng](../M%E1%BA%B7t%20kh%C3%A1ch%20quan/C%C3%A1ch%20th%E1%BB%B1c%20hi%E1%BB%87n/D%E1%BB%8Bch%20v%E1%BB%A5%20t%C3%A0i%20ch%C3%ADnh/%C4%90%C3%A1o%20r%C3%BAt%20t%C3%A0i%20kho%E1%BA%A3n%20t%C3%ADn%20d%E1%BB%A5ng/index.md)
 
 | Tên cơ sở    | Địa chỉ                 | Phí rút | Phí đáo | Ưu đãi   |
 | ------------ | ----------------------- | ------- | ------- | -------- |
 | VNC Credit   |                         | 1.5     | 1.5     |          |
 |              | 297 Ngô Gia Tự          | 1.6     | 1.6     |          |
-[Các ngày 4, 5, 10, 15 là các ngày cao điểm. Ra có khi phải chờ lâu](../C%C3%A1ch%20th%E1%BB%B1c%20hi%E1%BB%87n/D%E1%BB%8Bch%20v%E1%BB%A5%20t%C3%A0i%20ch%C3%ADnh/%C4%90%C3%A1o%20r%C3%BAt%20t%C3%A0i%20kho%E1%BA%A3n%20t%C3%ADn%20d%E1%BB%A5ng/C%C3%A1c%20ng%C3%A0y%204,%205,%2010,%2015%20l%C3%A0%20c%C3%A1c%20ng%C3%A0y%20cao%20%C4%91i%E1%BB%83m.%20Ra%20c%C3%B3%20khi%20ph%E1%BA%A3i%20ch%E1%BB%9D%20l%C3%A2u.md)
+[Các ngày 4, 5, 10, 15 là các ngày cao điểm. Ra có khi phải chờ lâu](../M%E1%BA%B7t%20kh%C3%A1ch%20quan/C%C3%A1ch%20th%E1%BB%B1c%20hi%E1%BB%87n/D%E1%BB%8Bch%20v%E1%BB%A5%20t%C3%A0i%20ch%C3%ADnh/%C4%90%C3%A1o%20r%C3%BAt%20t%C3%A0i%20kho%E1%BA%A3n%20t%C3%ADn%20d%E1%BB%A5ng/C%C3%A1c%20ng%C3%A0y%204,%205,%2010,%2015%20l%C3%A0%20c%C3%A1c%20ng%C3%A0y%20cao%20%C4%91i%E1%BB%83m.%20Ra%20c%C3%B3%20khi%20ph%E1%BA%A3i%20ch%E1%BB%9D%20l%C3%A2u.md)
 
 ## Nghi ngờ lừa đảo
 ### Lê Ngọc Biết

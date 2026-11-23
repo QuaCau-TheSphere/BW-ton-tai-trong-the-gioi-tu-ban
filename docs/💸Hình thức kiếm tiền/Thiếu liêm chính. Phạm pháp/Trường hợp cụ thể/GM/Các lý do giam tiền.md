@@ -3,7 +3,7 @@ share: true
 updated: 2026-07-27T02:26
 created: 2025-11-12T09:29
 ---
-Khái niệm:: [Lừa đảo](../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Ki%E1%BA%BFm%20ti%E1%BB%81n/Kh%C3%B4ng%20li%C3%AAm%20ch%C3%ADnh/L%E1%BB%ABa%20%C4%91%E1%BA%A3o.md)
+Khái niệm:: [Lừa đảo](../../../../%CE%9E%20Meta/Kh%C3%A1i%20ni%E1%BB%87m/Ki%E1%BA%BFm%20ti%E1%BB%81n/Kh%C3%B4ng%20li%C3%AAm%20ch%C3%ADnh/L%E1%BB%ABa%20%C4%91%E1%BA%A3o.md)
 Đang tìm cách câu kéo dài thời gian để mình rút tiền được nên viện đủ lý do, ngu nhất là ko nhất quán,
 - Ngân hàng bảo trì nên việc chuyển tiền gặp trục trặc bảo đợi trong khi rút 2 3 bên ngân hàng ko đc, mà bên nào thì chuyển khoản cũng bình thường hết
 - Do mình trục lợi bằng việc chỉ điểm danh lụm tiền chứ ko bỏ tiền vào hợp tác

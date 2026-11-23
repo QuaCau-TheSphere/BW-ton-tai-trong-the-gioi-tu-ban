@@ -3,7 +3,7 @@ share: true
 created: 2025-01-19T16:13
 updated: 2026-10-28T12:41
 ---
-Khái niệm:: [Giảm giá](../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Ki%E1%BA%BFm%20ti%E1%BB%81n/Gi%E1%BA%A3m%20gi%C3%A1.md)
+Khái niệm:: [Giảm giá](../../%CE%9E%20Meta/Kh%C3%A1i%20ni%E1%BB%87m/Ki%E1%BA%BFm%20ti%E1%BB%81n/Gi%E1%BA%A3m%20gi%C3%A1.md)
 
 Khuyến khích việc khai thác, không phải khuyến khích việc quan tâm lại
 [Giảm giá không phải là quà, vì quà thì không cần phải đáp ứng ngược lại gì](../../%F0%9F%92%B8H%C3%ACnh%20th%E1%BB%A9c%20ki%E1%BA%BFm%20ti%E1%BB%81n/Thi%E1%BA%BFu%20li%C3%AAm%20ch%C3%ADnh.%20Ph%E1%BA%A1m%20ph%C3%A1p/M%E1%BA%B7t%20kh%C3%A1ch%20quan/C%C3%A1ch%20th%E1%BB%B1c%20hi%E1%BB%87n/B%C3%A1n%20h%C3%A0ng/Gi%E1%BA%A3m%20gi%C3%A1%20kh%C3%B4ng%20ph%E1%BA%A3i%20l%C3%A0%20qu%C3%A0,%20v%C3%AC%20qu%C3%A0%20th%C3%AC%20kh%C3%B4ng%20c%E1%BA%A7n%20ph%E1%BA%A3i%20%C4%91%C3%A1p%20%E1%BB%A9ng%20ng%C6%B0%E1%BB%A3c%20l%E1%BA%A1i%20g%C3%AC.md)

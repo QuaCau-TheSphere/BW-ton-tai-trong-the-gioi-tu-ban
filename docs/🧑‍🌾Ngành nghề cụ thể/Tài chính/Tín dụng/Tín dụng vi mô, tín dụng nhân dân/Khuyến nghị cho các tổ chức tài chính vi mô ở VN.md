@@ -3,7 +3,7 @@ share: true
 created: 2025-04-15T21:09
 updated: 2026-07-27T02:27
 ---
-Khái niệm:: [Tài chính vi mô](../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/T%C3%ADn%20d%E1%BB%A5ng/T%C3%A0i%20ch%C3%ADnh%20vi%20m%C3%B4.md)
+Khái niệm:: [Tài chính vi mô](../../../../%CE%9E%20Meta/Kh%C3%A1i%20ni%E1%BB%87m/T%C3%ADn%20d%E1%BB%A5ng/T%C3%A0i%20ch%C3%ADnh%20vi%20m%C3%B4.md)
 
 - Ban quản lý của các TCTCVM cần tập trung vào việc giảm chi phí hoạt động bằng cách triển khai các mô hình dịch vụ tài chính kỹ thuật số thay vì sử dụng mô hình dựa trên nhân sự
 - Tăng phí dịch vụ thay vì tăng lãi suất

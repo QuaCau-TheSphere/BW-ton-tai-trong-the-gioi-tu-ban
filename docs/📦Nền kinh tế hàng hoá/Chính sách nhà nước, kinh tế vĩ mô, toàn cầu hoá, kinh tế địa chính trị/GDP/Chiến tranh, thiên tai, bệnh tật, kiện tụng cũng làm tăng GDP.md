@@ -3,7 +3,7 @@ share: true
 updated: 2026-07-27T02:26
 created: 2025-10-15T19:55
 ---
-Khái niệm:: [GDP](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Kinh%20t%E1%BA%BF%20h%E1%BB%8Dc/GDP.md) 
+Khái niệm:: [GDP](../../../%CE%9E%20Meta/Kh%C3%A1i%20ni%E1%BB%87m/Kinh%20t%E1%BA%BF%20h%E1%BB%8Dc/Kinh%20t%E1%BA%BF%20v%C4%A9%20m%C3%B4/GDP.md) 
 
 Xây một quả bom với xây một ngôi trường đều làm tăng GDP. Tiền vào bệnh viện, quân đội
 [Một ông chủ nhà máy bán hết máy móc của mình cũng làm tăng lợi nhuận và GDP](./M%E1%BB%99t%20%C3%B4ng%20ch%E1%BB%A7%20nh%C3%A0%20m%C3%A1y%20b%C3%A1n%20h%E1%BA%BFt%20m%C3%A1y%20m%C3%B3c%20c%E1%BB%A7a%20m%C3%ACnh%20c%C5%A9ng%20l%C3%A0m%20t%C4%83ng%20l%E1%BB%A3i%20nhu%E1%BA%ADn%20v%C3%A0%20GDP.md)

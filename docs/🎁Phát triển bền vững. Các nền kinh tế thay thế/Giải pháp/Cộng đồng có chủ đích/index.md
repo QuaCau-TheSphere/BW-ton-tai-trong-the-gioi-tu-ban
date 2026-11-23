@@ -1,6 +1,6 @@
 ---
 share: true
-updated: 2026-10-28T18:19
+updated: 2026-11-18T19:38
 created: 2025-10-20T09:52
 aliases:
   - đồng cư, hợp tác xã nhà ở, quỹ nhà ở vi mô
@@ -10,6 +10,7 @@ aliases:
 description: Khái niệm, phân loại, nguồn lực, hướng dẫn ghé thăm, dự án xây dựng một cộng đồng như vậy, và các phản ví dụ
 title: Cộng đồng có chủ đích
 ---
+# Cộng đồng có chủ đích
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PfAsblgWXtg?si=HRFiWadJ1c9AS0pC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 [Cộng đồng có chủ đích được hình thành khi một nhóm người quyết định sống cùng nhau hoặc đủ gần nhau để thực hành một lối sống chung, bên trong một văn hóa chung, để đạt được một mục đích chung](./C%E1%BB%99ng%20%C4%91%E1%BB%93ng%20c%C3%B3%20ch%E1%BB%A7%20%C4%91%C3%ADch%20%C4%91%C6%B0%E1%BB%A3c%20h%C3%ACnh%20th%C3%A0nh%20khi%20m%E1%BB%99t%20nh%C3%B3m%20ng%C6%B0%E1%BB%9Di%20quy%E1%BA%BFt%20%C4%91%E1%BB%8Bnh%20s%E1%BB%91ng%20%C4%91%E1%BB%A7%20g%E1%BA%A7n%20nhau%20%C4%91%E1%BB%83%20th%E1%BB%B1c%20h%C3%A0nh%20m%E1%BB%99t%20l%E1%BB%91i%20s%E1%BB%91ng%20chung%20v%C3%A0%20%C4%91%E1%BB%83%20%C4%91%E1%BA%A1t%20%C4%91%C6%B0%E1%BB%A3c%20m%E1%BB%A5c%20%C4%91%C3%ADch%20chung.md). Đây là một số mục đích cơ bản mà cộng đồng nào cũng có:
@@ -17,7 +18,7 @@ title: Cộng đồng có chủ đích
 - Có thêm các mối quan hệ thân mật
 - Thử nghiệm các cách tổ chức xã hội phi chủ lưu
 
-Ngoài ra thì còn có thể có những mục đích khác:
+Ngoài ra thì còn có thể có những mục đích khác như:
 - Nghiên cứu học thuật
 - Thực hành sinh thái
 - Thực hành nghệ thuật
@@ -29,7 +30,7 @@ Ngoài ra thì còn có thể có những mục đích khác:
 
 Một cộng đồng có thể theo đuổi nhiều mục đích khác nhau.
 
-Về cách thức tổ chức nhà ở, thường gặp nhất là **sống chung nhà, ở ghép (shared housing, flat-sharing)**. Nếu mỗi người sống trong những căn nhà riêng, nhưng việc nấu ăn, ăn uống, giặt giũ, học tập, vui chơi ở các nhà bếp, nhà ăn, phòng giặt, thư viện, sân chơi chung, và tất cả ở trong một tòa nhà lớn giống như trong khách sạn thì gọi là **sống cùng nhau (co-living)**. Nếu các căn nhà đó không phải là các phòng trong một tòa nhà lớn mà là các căn nhà đất riêng biệt thì gọi là **đồng cư (cohousing)**. Nếu ban quản trị phát hành cổ phiếu thì gọi là **hợp tác xã nhà ở (housing cooperative)**.
+Về cách thức tổ chức nhà ở, thường gặp nhất là **sống chung nhà, ở ghép (shared housing, flat-sharing)**. Nếu mỗi người sống trong những căn nhà riêng, nhưng việc nấu ăn ở nhà bếp chung, ăn uống ở nhà ăn chung, giặt giũ ở phòng giặt chung, học tập ở thư viện chung, vui chơi ở sân chơi chung, và tất cả ở trong một tòa nhà lớn giống như trong khách sạn thì gọi là **sống cùng nhau (co-living)**. Nếu các căn nhà đó không phải là các phòng trong một tòa nhà lớn mà là các căn nhà đất riêng biệt thì gọi là **đồng cư (cohousing)**. Nếu ban quản trị phát hành cổ phiếu thì gọi là **hợp tác xã nhà ở (housing cooperative)**.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Pgxweff5AjQ?si=HdxJFn7FmfmCFgoP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

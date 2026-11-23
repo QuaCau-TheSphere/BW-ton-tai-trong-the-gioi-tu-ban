@@ -3,7 +3,7 @@ share: true
 updated: 2026-10-16T14:55
 created: 2025-09-08T22:03
 ---
-Khái niệm:: [Tiền](../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/T%C3%A0i%20s%E1%BA%A3n/Ti%E1%BB%81n.md), [Lạm phát](../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Kinh%20t%E1%BA%BF%20h%E1%BB%8Dc/Kinh%20t%E1%BA%BF%20v%C4%A9%20m%C3%B4/L%E1%BA%A1m%20ph%C3%A1t.md)
+Khái niệm:: [Tiền](../../%CE%9E%20Meta/Kh%C3%A1i%20ni%E1%BB%87m/T%C3%A0i%20s%E1%BA%A3n/Ti%E1%BB%81n.md), [Lạm phát](../../%CE%9E%20Meta/Kh%C3%A1i%20ni%E1%BB%87m/Kinh%20t%E1%BA%BF%20h%E1%BB%8Dc/Kinh%20t%E1%BA%BF%20v%C4%A9%20m%C3%B4/L%E1%BA%A1m%20ph%C3%A1t.md)
 Lý do:: [Nơi trữ tiền càng an toàn càng bị rủi ro bởi lạm phát](../../%F0%9F%93%A6N%E1%BB%81n%20kinh%20t%E1%BA%BF%20h%C3%A0ng%20ho%C3%A1/Ti%E1%BB%81n,%20n%E1%BB%A3,%20b%E1%BA%A3n%20v%E1%BB%8B/Gi%C3%A1%20tr%E1%BB%8B%20c%E1%BB%A7a%20ti%E1%BB%81n/N%C6%A1i%20tr%E1%BB%AF%20ti%E1%BB%81n%20c%C3%A0ng%20an%20to%C3%A0n%20c%C3%A0ng%20b%E1%BB%8B%20r%E1%BB%A7i%20ro%20b%E1%BB%9Fi%20l%E1%BA%A1m%20ph%C3%A1t.md)
 [Lạm phát làm tiền gửi ngân hàng mất giá trị](../../%F0%9F%93%A6N%E1%BB%81n%20kinh%20t%E1%BA%BF%20h%C3%A0ng%20ho%C3%A1/Ti%E1%BB%81n,%20n%E1%BB%A3,%20b%E1%BA%A3n%20v%E1%BB%8B/Gi%C3%A1%20tr%E1%BB%8B%20c%E1%BB%A7a%20ti%E1%BB%81n/L%E1%BA%A1m%20ph%C3%A1t%20l%C3%A0m%20ti%E1%BB%81n%20g%E1%BB%ADi%20ng%C3%A2n%20h%C3%A0ng%20m%E1%BA%A5t%20gi%C3%A1%20tr%E1%BB%8B.md)
 [Người nghèo và người trung lưu có rất nhiều tiêu sản. Người giàu có tăng sản](./T%C3%A0i%20s%E1%BA%A3n/Ng%C6%B0%E1%BB%9Di%20ngh%C3%A8o%20v%C3%A0%20ng%C6%B0%E1%BB%9Di%20trung%20l%C6%B0u%20c%C3%B3%20r%E1%BA%A5t%20nhi%E1%BB%81u%20ti%C3%AAu%20s%E1%BA%A3n.%20Ng%C6%B0%E1%BB%9Di%20gi%C3%A0u%20c%C3%B3%20t%C4%83ng%20s%E1%BA%A3n.md)

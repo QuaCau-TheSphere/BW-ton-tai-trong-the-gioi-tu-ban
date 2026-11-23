@@ -3,7 +3,7 @@ share: true
 updated: 2026-07-27T02:27
 created: 2025-05-27T16:20
 ---
-Khái niệm:: [Thanh toán không tiền mặt](../../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/T%C3%A0i%20s%E1%BA%A3n/Thanh%20to%C3%A1n%20kh%C3%B4ng%20ti%E1%BB%81n%20m%E1%BA%B7t.md)
+Khái niệm:: [Thanh toán không tiền mặt](../../../../../%CE%9E%20Meta/Kh%C3%A1i%20ni%E1%BB%87m/T%C3%A0i%20s%E1%BA%A3n/Thanh%20to%C3%A1n%20kh%C3%B4ng%20ti%E1%BB%81n%20m%E1%BA%B7t.md)
 
 “Chúng ta có thể là một xã hội không dùng tiền mặt trong tương lai, nhưng ngày nay, vẫn còn rất nhiều người không thể thanh toán theo phương thức kỹ thuật số bởi vì họ không có tài khoản ngân hàng, không có thẻ tín dụng, thẻ ghi nợ hoặc điện thoại thông minh,” Rebell nói. Những người này được gọi là “người không có tài khoản ngân hàng,” có nghĩa là họ không tiếp cận được các sản phẩm ngân hàng với giá cả phải chăng và thay vào đó phải dựa vào các dịch vụ phụ, như thanh toán bằng séc và vay ngày với lãi suất cao.
 

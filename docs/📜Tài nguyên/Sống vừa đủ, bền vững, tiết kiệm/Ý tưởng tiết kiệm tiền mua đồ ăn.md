@@ -1,29 +1,30 @@
 ---
 share: true
 created: 2025-08-31T16:23
-updated: 2026-10-25T00:51
+updated: 2026-11-18T19:46
 aliases:
   - Mua đồ ăn giá rẻ
   - Kiếm đồ ăn miễn phí
   - Tìm nơi tặng đồ ăn
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Ui9RKzeJoJg?si=tl5tZqV3OCAbiMPD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## Mua đồ ăn rẻ 
 - Mua đồ ăn ở chợ đầu mối
 - Tham gia các [Nhóm mua chung, câu lạc bộ tiêu dùng](../../%F0%9F%93%90D%E1%BB%B1%20%C3%A1n/X%C3%A2y%20d%E1%BB%B1ng%20h%E1%BB%87%20th%E1%BB%91ng%20kinh%20t%E1%BA%BF%20m%E1%BB%9Bi/Nh%C3%B3m%20mua%20chung,%20c%C3%A2u%20l%E1%BA%A1c%20b%E1%BB%99%20ti%C3%AAu%20d%C3%B9ng.md)
-- Săn [Phiếu giảm giá (voucher)](../Gi%E1%BB%9Bi%20thi%E1%BB%87u%20d%E1%BB%8Bch%20v%E1%BB%A5/T%C3%A0i%20ch%C3%ADnh/B%E1%BA%A3o%20hi%E1%BB%83m/Phi%E1%BA%BFu%20gi%E1%BA%A3m%20gi%C3%A1%20(voucher).md)
+- Săn [Phiếu giảm giá (voucher)](../Gi%E1%BB%9Bi%20thi%E1%BB%87u%20d%E1%BB%8Bch%20v%E1%BB%A5/Phi%E1%BA%BFu%20gi%E1%BA%A3m%20gi%C3%A1%20(voucher).md)
 - Aeon sau 9h tối bán đồ ăn đại hạ giá
+- [Các dự án chia sẻ hoạt động sống với nhau](./C%C3%A1c%20d%E1%BB%B1%20%C3%A1n%20chia%20s%E1%BA%BB%20ho%E1%BA%A1t%20%C4%91%E1%BB%99ng%20s%E1%BB%91ng%20v%E1%BB%9Bi%20nhau.md)
 
 ## Đến những nơi [Tặng đồ ăn](../Qu%C3%A0%20t%E1%BA%B7ng/T%E1%BA%B7ng%20%C4%91%E1%BB%93%20%C4%83n.md)
 - [Ngân hàng thực phẩm Việt Nam - Food Bank Việt Nam](https://foodbankvietnam.com/)
 - [Tổng Hợp Địa Chỉ Bán Cơm Từ Thiện Giá 2,000đ - The Vietnam Foodbanking Network](https://foodbankvietnam.com/tong-hop-dia-chi-ban-com-tu-thien-gia-2000d/). Ở bệnh viện cũng phát đồ ăn từ thiện nhiều
 - Đến các hội chợ, triển lãm, festival ngành nhà hàng, thực phẩm
-- Săn phỏng vấn, khảo sát đồ ăn cần tìm đáp viên
-- [Hội nhóm hàng trăm nghìn người cho, nhận đồ ăn](https://vnexpress.net/hoi-nhom-hang-tram-nghin-nguoi-cho-nhan-do-an-5097915.html)
+- [Săn phỏng vấn, khảo sát đồ ăn cần tìm đáp viên](../../%F0%9F%92%B8H%C3%ACnh%20th%E1%BB%A9c%20ki%E1%BA%BFm%20ti%E1%BB%81n/Thi%E1%BA%BFu%20li%C3%AAm%20ch%C3%ADnh.%20Ph%E1%BA%A1m%20ph%C3%A1p/M%E1%BA%B7t%20kh%C3%A1ch%20quan/C%C3%A1ch%20th%E1%BB%B1c%20hi%E1%BB%87n/L%C3%A0m%20k%E1%BA%BFt%20qu%E1%BA%A3%20%E1%BA%A3o/C%C3%A1c%20c%C3%B4ng%20vi%E1%BB%87c/S%C4%83n%20ph%E1%BB%8Fng%20v%E1%BA%A5n,%20kh%E1%BA%A3o%20s%C3%A1t%20c%E1%BA%A7n%20t%C3%ACm%20%C4%91%C3%A1p%20vi%C3%AAn,%20s%E1%BB%B1%20ki%E1%BB%87n%20c%E1%BA%A7n%20l%E1%BA%A5p%20kh%C3%A1n%20gi%E1%BA%A3.md). Các công ty luôn cần người thử nghiệm. Có thể vào đó để đánh giá rồi kiếm tiền. 
 
+- [Hội nhóm hàng trăm nghìn người cho, nhận đồ ăn](https://vnexpress.net/hoi-nhom-hang-tram-nghin-nguoi-cho-nhan-do-an-5097915.html)
 Trước đây có [FoodShare](https://foodshare.id.vn/foods/tat-ca-thuc-pham) nhưng mà đã chết.
 
 ## Dành cho người không biết nhục
 - Đến mấy cửa hàng bán đồ ăn nhanh ăn đồ người ta bỏ lại. Nếu mạnh dạn hơn có thể lục thùng rác cũng được. Đồ ăn trong thùng rác luôn là đồ ăn mới nên không sợ bị hư
-- Lẻn vào các tiệc cưới, tiệc công ty, hội thảo có tổ chức ăn uống. Có thể đóng hộp đồ ăn thừa
-- [Săn phỏng vấn, khảo sát cần tìm đáp viên, sự kiện cần lấp khán giả](../../%F0%9F%92%B8H%C3%ACnh%20th%E1%BB%A9c%20ki%E1%BA%BFm%20ti%E1%BB%81n/Thi%E1%BA%BFu%20li%C3%AAm%20ch%C3%ADnh.%20Ph%E1%BA%A1m%20ph%C3%A1p/M%E1%BA%B7t%20kh%C3%A1ch%20quan/C%C3%A1ch%20th%E1%BB%B1c%20hi%E1%BB%87n/L%C3%A0m%20k%E1%BA%BFt%20qu%E1%BA%A3%20%E1%BA%A3o/C%C3%A1c%20c%C3%B4ng%20vi%E1%BB%87c/S%C4%83n%20ph%E1%BB%8Fng%20v%E1%BA%A5n,%20kh%E1%BA%A3o%20s%C3%A1t%20c%E1%BA%A7n%20t%C3%ACm%20%C4%91%C3%A1p%20vi%C3%AAn,%20s%E1%BB%B1%20ki%E1%BB%87n%20c%E1%BA%A7n%20l%E1%BA%A5p%20kh%C3%A1n%20gi%E1%BA%A3.md)
+- Lẻn vào các tiệc cưới, tiệc công ty, hội thảo có tổ chức ăn uống. Một số tiệc cho đóng hộp đồ ăn thừa

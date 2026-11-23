@@ -3,7 +3,7 @@ share: true
 updated: 2026-10-09T20:08
 created: 2026-02-16T14:37
 ---
-Khái niệm:: [Lạm phát](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Kinh%20t%E1%BA%BF%20h%E1%BB%8Dc/Kinh%20t%E1%BA%BF%20v%C4%A9%20m%C3%B4/L%E1%BA%A1m%20ph%C3%A1t.md), [Nợ công](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Nh%C3%A0%20n%C6%B0%E1%BB%9Bc/N%E1%BB%A3%20c%C3%B4ng.md)
+Khái niệm:: [Lạm phát](../../../%CE%9E%20Meta/Kh%C3%A1i%20ni%E1%BB%87m/Kinh%20t%E1%BA%BF%20h%E1%BB%8Dc/Kinh%20t%E1%BA%BF%20v%C4%A9%20m%C3%B4/L%E1%BA%A1m%20ph%C3%A1t.md), [Nợ công](../../../%CE%9E%20Meta/Kh%C3%A1i%20ni%E1%BB%87m/Nh%C3%A0%20n%C6%B0%E1%BB%9Bc/N%E1%BB%A3%20c%C3%B4ng.md)
 Khối lượng tiền tệ được nâng cao, tiền mất giá, nợ quốc gia tự nhiên triệt giảm. Trong trường hợp một nước nợ gần 20 ngàn tỷ USD như Hoa Kỳ, mỗi phần trăm giảm giá Đô La có khả năng làm nhẹ bớt 200 tỷ vốn nợ.
 
 Âu Châu cũng đã áp dụng phương pháp này sau hai cuộc thế chiến. Nợ của Đức và Pháp sau chiến tranh nhiều gấp 2 đến 3 lần số nợ hiện nay, nhưng được hóa giải nhanh chóng bởi lạm phát và phát triển. Tại Pháp, từ 1945 đến 1948, mức lạm phát trung bình là 53,23 % mỗi năm, và nợ quốc gia, trong cùng thời gian, giảm từ hơn 100 % GDP xuống dưới 20 % GDP. Ngày nay, phương pháp này không còn áp dụng được nữa, vì các quốc gia trong vùng Euro đã mất quyền ấn hành tiền tệ.

@@ -3,7 +3,7 @@ share: true
 updated: 2026-07-27T02:26
 created: 2025-08-26T16:01
 ---
-Khái niệm:: [Tăng trưởng](../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Kinh%20t%E1%BA%BF%20h%E1%BB%8Dc/T%C4%83ng%20tr%C6%B0%E1%BB%9Fng.md)
+Khái niệm:: [Tăng trưởng](../../../../%CE%9E%20Meta/Kh%C3%A1i%20ni%E1%BB%87m/Kinh%20t%E1%BA%BF%20h%E1%BB%8Dc/Kinh%20t%E1%BA%BF%20v%C4%A9%20m%C3%B4/T%C4%83ng%20tr%C6%B0%E1%BB%9Fng.md)
 
 Nguồn:: [Khi nghĩ đến việc thay đổi toàn bộ hệ thống toàn cầu, chúng ta dễ rơi vào cảm giác bất lực. Nhưng nếu quay về với những gì nằm trong tầm tay – thì ta mới thực sự cảm thấy mình có quyền lực](https://www.vcil.community/post/chieu-phim-hcm-21052025)
 

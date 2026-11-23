@@ -101,4 +101,4 @@ Sáng nói lý tưởng, tối sống
 Huy động được tiền 
 Hay cùng lắm là mô hình nhà nước phúc lợi thôi, chứ nó vẫn là chủ nghĩa tư bản
 
-[Thư giới thiệu cho Lộc](../../X%C3%A2y%20d%E1%BB%B1ng%20h%E1%BB%87%20th%E1%BB%91ng%20kinh%20t%E1%BA%BF%20m%E1%BB%9Bi/Th%C6%B0%20gi%E1%BB%9Bi%20thi%E1%BB%87u%20cho%20L%E1%BB%99c.md)
+[Thư giới thiệu cho Lộc](../../%CE%9E%20Ng%C6%B0%E1%BB%9Di%20ch%C6%A1i/Nguy%E1%BB%85n%20H%E1%BB%AFu%20L%E1%BB%99c/Th%C6%B0%20gi%E1%BB%9Bi%20thi%E1%BB%87u%20cho%20L%E1%BB%99c.md)

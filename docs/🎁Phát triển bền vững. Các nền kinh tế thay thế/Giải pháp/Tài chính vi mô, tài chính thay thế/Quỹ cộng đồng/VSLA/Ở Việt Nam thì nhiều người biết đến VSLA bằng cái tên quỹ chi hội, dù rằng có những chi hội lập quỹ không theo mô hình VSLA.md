@@ -10,4 +10,4 @@ Ngay cả cái tên VSLA có lẽ cũng không đúng, vì làng (chữ V trong 
 Khi muốn giảm bớt nhiều rào cản nhất có thể để thuyết phục một nhóm tham gia thì dùng thuật ngữ nào làm họ dễ hiểu nhất cũng được. Nhưng khi mô hình mở rộng, hoặc khi lên viết bài với nhiều loại độc giả khác nhau thì tốt nhất là nên dùng thuật ngữ chính xác nhất có thể
 
 Nguồn:: [Nam Nguyen - Một trong 2 đột phá quan trọng nhất của mô... \| Facebook](https://www.facebook.com/nam.knows/posts/pfbid0cyHnuqeFn8k8X6e41v9ZUVZfMacjRLUXTgSF8XndEGioyf1otbL4XgZFK7PD5dbCl?comment_id=2625033754606428)
-[Nam nguyễn](../../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Ngu%E1%BB%93n/Nam%20nguy%E1%BB%85n.md)
+[Nam nguyễn](../../../../../%CE%9E%20Meta/Ngu%E1%BB%93n/C%C3%A1%20nh%C3%A2n,%20t%E1%BB%95%20ch%E1%BB%A9c/Nam%20nguy%E1%BB%85n.md)

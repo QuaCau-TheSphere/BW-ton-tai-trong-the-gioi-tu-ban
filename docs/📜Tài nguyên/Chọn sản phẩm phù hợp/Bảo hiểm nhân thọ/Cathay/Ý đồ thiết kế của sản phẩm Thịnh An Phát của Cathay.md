@@ -75,7 +75,7 @@ Sản phẩm bảo hiểm cũng như sản phẩm ngân hàng có mức độ r�
 
 
 ### Được xem như một chi phí vận hành cho doanh nghiệp và không bị tính thuế
-Bài chi tiết: [Tại sao doanh nghiệp khi mua bảo hiểm nohân thọ cho nhân viên lại không bị tính vào thuế thu nhập doanh nghiệp?](../../../../%F0%9F%A7%91%E2%80%8D%F0%9F%8C%BENg%C3%A0nh%20ngh%E1%BB%81%20c%E1%BB%A5%20th%E1%BB%83/T%C3%A0i%20ch%C3%ADnh/B%E1%BA%A3o%20hi%E1%BB%83m/Lu%E1%BA%ADt/Doanh%20nghi%E1%BB%87p%20khi%20mua%20b%E1%BA%A3o%20hi%E1%BB%83m%20nh%C3%A2n%20th%E1%BB%8D%20cho%20nh%C3%A2n%20vi%C3%AAn%20l%E1%BA%A1i%20kh%C3%B4ng%20b%E1%BB%8B%20t%C3%ADnh%20v%C3%A0o%20thu%E1%BA%BF%20thu%20nh%E1%BA%ADp%20doanh%20nghi%E1%BB%87p,%20d%C3%B9%20th%E1%BB%B1c%20ra%20lu%E1%BA%ADt%20v%E1%BA%ABn%20c%E1%BA%A5m.md).
+Bài chi tiết: [Tại sao doanh nghiệp khi mua bảo hiểm nohân thọ cho nhân viên lại không bị tính vào thuế thu nhập doanh nghiệp?](../../../../%F0%9F%A7%91%E2%80%8D%F0%9F%8C%BENg%C3%A0nh%20ngh%E1%BB%81%20c%E1%BB%A5%20th%E1%BB%83/T%C3%A0i%20ch%C3%ADnh/B%E1%BA%A3o%20hi%E1%BB%83m/Lu%E1%BA%ADt/B%E1%BA%A3o%20hi%E1%BB%83m%20t%C6%B0%20nh%C3%A2n/Doanh%20nghi%E1%BB%87p%20khi%20mua%20b%E1%BA%A3o%20hi%E1%BB%83m%20nh%C3%A2n%20th%E1%BB%8D%20cho%20nh%C3%A2n%20vi%C3%AAn%20l%E1%BA%A1i%20kh%C3%B4ng%20b%E1%BB%8B%20t%C3%ADnh%20v%C3%A0o%20thu%E1%BA%BF%20thu%20nh%E1%BA%ADp%20doanh%20nghi%E1%BB%87p,%20d%C3%B9%20th%E1%BB%B1c%20ra%20lu%E1%BA%ADt%20v%E1%BA%ABn%20c%E1%BA%A5m.md).
 
 ### Đặc điểm khác
 #### Người nhận tiền sẽ không gặp nhiều phiền phức để làm thủ tục

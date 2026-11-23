@@ -39,4 +39,4 @@ A giải thích xem lý do nào hợp lý nhất?
 Công nghệ cgi quá mạnh
 Mà nếu vậy thì là cái Giả thiết deep fake tạo bank ngày xưa là hợp lý. Lúc đó em cứ bảo bọn nó ko cần
 
-[Fake cam, KYC](../Tr%C3%AAn%20m%E1%BA%A1ng/Fake%20cam,%20KYC.md)
+[Làm giả camera, KYC](../Tr%C3%AAn%20m%E1%BA%A1ng/L%C3%A0m%20gi%E1%BA%A3%20camera,%20KYC.md)

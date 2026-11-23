@@ -23,6 +23,6 @@ Khái niệm::
 - Người vay phải làm việc với tất cả những người cho vay (các cổ đông) hoặc đại diện của họ
 - Phù hợp khi những người cho vay muốn biết về nhau, và biết về người vay. Điều này giúp làm được điều bền vững nhất là xây dựng cộng đồng
 
-Nguồn:: [Tự ngẫm nghĩ, trải nghiệm](../../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Ngu%E1%BB%93n/T%E1%BB%B1%20ng%E1%BA%ABm%20ngh%C4%A9,%20tr%E1%BA%A3i%20nghi%E1%BB%87m.md)
+Nguồn:: [Tự ngẫm nghĩ, trải nghiệm](../../../../../%CE%9E%20Meta/Ngu%E1%BB%93n/T%E1%BB%B1%20ng%E1%BA%ABm%20ngh%C4%A9,%20tr%E1%BA%A3i%20nghi%E1%BB%87m.md)
 
 [Các dịch vụ vay tín chấp](../../../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Ch%E1%BB%8Dn%20s%E1%BA%A3n%20ph%E1%BA%A9m%20ph%C3%B9%20h%E1%BB%A3p/Vay%20t%C3%ADn%20ch%E1%BA%A5p/index.md)
