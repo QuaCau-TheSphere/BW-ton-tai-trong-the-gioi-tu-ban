@@ -8,7 +8,7 @@ Mô tả công việc::
 Số tiền kiếm được:: 
 
 ## Mô tả chi tiết
-[Phiếu giảm giá (voucher)](../../../../Qu%C3%A0%20t%E1%BA%B7ng/C%C3%B3%20m%E1%BB%A5c%20%C4%91%C3%ADch%20ki%E1%BA%BFm%20ti%E1%BB%81n/Phi%E1%BA%BFu%20gi%E1%BA%A3m%20gi%C3%A1%20(voucher).md)
+[Phiếu giảm giá (voucher)](../../../../Gi%E1%BB%9Bi%20thi%E1%BB%87u%20d%E1%BB%8Bch%20v%E1%BB%A5/Phi%E1%BA%BFu%20gi%E1%BA%A3m%20gi%C3%A1%20(voucher).md)
 App:
 - [UrBox](https://urbox.vn/)
 - Golder Spoon
