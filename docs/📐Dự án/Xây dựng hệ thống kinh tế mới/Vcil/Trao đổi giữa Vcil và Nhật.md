@@ -356,3 +356,7 @@ Không nghĩ là nên hỗ trợ những nơi không minh bạch và không th�
 
 Các bạn hay nói về sở hữu chung. Nay tại sao lại nói là của riêng các bạn?
 [Sở hữu chung không phải là sở hữu riêng và cũng không phải là sở hữu công](../../../%F0%9F%8E%81Ph%C3%A1t%20tri%E1%BB%83n%20b%E1%BB%81n%20v%E1%BB%AFng.%20C%C3%A1c%20n%E1%BB%81n%20kinh%20t%E1%BA%BF%20thay%20th%E1%BA%BF/Th%E1%BB%B1c%20tr%E1%BA%A1ng/S%E1%BB%9F%20h%E1%BB%AFu%20chung%20kh%C3%B4ng%20ph%E1%BA%A3i%20l%C3%A0%20s%E1%BB%9F%20h%E1%BB%AFu%20ri%C3%AAng%20v%C3%A0%20c%C5%A9ng%20kh%C3%B4ng%20ph%E1%BA%A3i%20l%C3%A0%20s%E1%BB%9F%20h%E1%BB%AFu%20c%C3%B4ng.md)
+
+Cảm ơn các bạn đã mời tham gia lại, nhưng vẫn còn sự chưa đảm bảo minh bạch và giải trình. Việc đó được thể hiện qua việc giải thích đầy đủ và hợp lý các câu hỏi mình đã, đang và sẽ hỏi. Còn chưa làm được thì chưa phải là 
+
+Xung quanh vẫn có những người bạn chung, vẫn có thể Mình vẫn có thể đóng góp cho nhau bằng những
