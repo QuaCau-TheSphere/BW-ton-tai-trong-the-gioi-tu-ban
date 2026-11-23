@@ -3,7 +3,7 @@ share: true
 created: 2026-10-16T14:54
 updated: 2026-10-16T14:55
 ---
-Khái niệm:: [Lạm phát](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Kinh%20t%E1%BA%BF%20h%E1%BB%8Dc/Kinh%20t%E1%BA%BF%20v%C4%A9%20m%C3%B4/L%E1%BA%A1m%20ph%C3%A1t.md)
+Khái niệm:: [Lạm phát](../../../%CE%9E%20Meta/Kh%C3%A1i%20ni%E1%BB%87m/Kinh%20t%E1%BA%BF%20h%E1%BB%8Dc/Kinh%20t%E1%BA%BF%20v%C4%A9%20m%C3%B4/L%E1%BA%A1m%20ph%C3%A1t.md)
 
 Nguồn:: [Phạm Thế Anh - Cách tước đoạt nhanh nhất thu nhập/tài sản... \| Facebook](https://www.facebook.com/share/p/1ByZoWm4Tv/)
 
