@@ -4,4 +4,4 @@ created: 2024-10-18T22:22
 updated: 2026-07-27T02:26
 ---
 Khái niệm:: 
-Chính vì như vậy, nên mặc dù [Công việc bán hàng có thu nhập đột biến, không bị trói buộc thời gian và luôn tuyển dụng](../../B%C3%A1n%20h%C3%A0ng/C%C3%B4ng%20vi%E1%BB%87c%20b%C3%A1n%20h%C3%A0ng%20c%C3%B3%20thu%20nh%E1%BA%ADp%20%C4%91%E1%BB%99t%20bi%E1%BA%BFn,%20kh%C3%B4ng%20b%E1%BB%8B%20tr%C3%B3i%20bu%E1%BB%99c%20th%E1%BB%9Di%20gian%20v%C3%A0%20lu%C3%B4n%20tuy%E1%BB%83n%20d%E1%BB%A5ng.md), nó sẽ làm quản lý bị thiệt. Điều này dẫn đến sự tranh giành nhân sự giữa các quản lý
+Chính vì như vậy, nên mặc dù [Công việc bán hàng có thu nhập đột biến, không bị trói buộc thời gian và luôn tuyển dụng](../../../Thi%E1%BA%BFu%20li%C3%AAm%20ch%C3%ADnh.%20Ph%E1%BA%A1m%20ph%C3%A1p/M%E1%BA%B7t%20kh%C3%A1ch%20quan/C%C3%A1ch%20th%E1%BB%B1c%20hi%E1%BB%87n/B%C3%A1n%20h%C3%A0ng/C%C3%B4ng%20vi%E1%BB%87c%20b%C3%A1n%20h%C3%A0ng%20c%C3%B3%20thu%20nh%E1%BA%ADp%20%C4%91%E1%BB%99t%20bi%E1%BA%BFn,%20kh%C3%B4ng%20b%E1%BB%8B%20tr%C3%B3i%20bu%E1%BB%99c%20th%E1%BB%9Di%20gian%20v%C3%A0%20lu%C3%B4n%20tuy%E1%BB%83n%20d%E1%BB%A5ng.md), nó sẽ làm quản lý bị thiệt. Điều này dẫn đến sự tranh giành nhân sự giữa các quản lý
