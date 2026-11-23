@@ -3,8 +3,8 @@ share: true
 created: 2025-04-20T22:56
 updated: 2026-09-23T13:11
 ---
-Khái niệm:: [Máy cà thẻ](../../../../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/T%C3%ADn%20d%E1%BB%A5ng/M%C3%A1y%20c%C3%A0%20th%E1%BA%BB.md)
-Nguồn:: [ĐHMT](../../../../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Ngu%E1%BB%93n/C%C3%A1%20nh%C3%A2n,%20t%E1%BB%95%20ch%E1%BB%A9c/%C4%90HMT.md)
+Khái niệm:: [Máy cà thẻ](../../../../../../../%CE%9E%20Meta/Kh%C3%A1i%20ni%E1%BB%87m/T%C3%ADn%20d%E1%BB%A5ng/M%C3%A1y%20c%C3%A0%20th%E1%BA%BB.md)
+Nguồn:: [ĐHMT](../../../../../../../%CE%9E%20Meta/Ngu%E1%BB%93n/C%C3%A1%20nh%C3%A2n,%20t%E1%BB%95%20ch%E1%BB%A9c/%C4%90HMT.md)
 
 [Thẻ JCB chỉ phục vụ trực tiếp cho việc ăn ở nhà hàng](../../../../../../../%F0%9F%A7%91%E2%80%8D%F0%9F%8C%BENg%C3%A0nh%20ngh%E1%BB%81%20c%E1%BB%A5%20th%E1%BB%83/T%C3%A0i%20ch%C3%ADnh/T%C3%ADn%20d%E1%BB%A5ng/T%C3%ADn%20d%E1%BB%A5ng%20t%C6%B0%20b%E1%BA%A3n/T%E1%BB%95%20ch%E1%BB%A9c%20c%E1%BB%A5%20th%E1%BB%83/Ng%C3%A2n%20h%C3%A0ng/Ch%C3%ADnh%20s%C3%A1ch%20cho%20vay/Th%E1%BA%BB%20JCB%20ch%E1%BB%89%20ph%E1%BB%A5c%20v%E1%BB%A5%20tr%E1%BB%B1c%20ti%E1%BA%BFp%20cho%20vi%E1%BB%87c%20%C4%83n%20%E1%BB%9F%20nh%C3%A0%20h%C3%A0ng.md)
 
