@@ -52,6 +52,7 @@ Các hình thức hỗ trợ tổ nhóm tương tự, có thể kết hợp làm
 - [Hợp tác xã nhân viên](./H%E1%BB%A3p%20t%C3%A1c%20x%C3%A3%20nh%C3%A2n%20vi%C3%AAn.md)
 - [Nhóm mua chung, câu lạc bộ tiêu dùng](./Nh%C3%B3m%20mua%20chung,%20c%C3%A2u%20l%E1%BA%A1c%20b%E1%BB%99%20ti%C3%AAu%20d%C3%B9ng.md)
 - [Nhóm môi giới, đại lý](./Nh%C3%B3m%20m%C3%B4i%20gi%E1%BB%9Bi,%20%C4%91%E1%BA%A1i%20l%C3%BD.md)
+- [Vườn ươm kinh doanh](./V%C6%B0%E1%BB%9Dn%20%C6%B0%C6%A1m%20kinh%20doanh.md)
 
 
 Tất cả những cái này là một phần của dự án [Nhóm giúp nhau kiếm tiền](../../../../../../%F0%9F%93%90D%E1%BB%B1%20%C3%A1n/Gi%C3%BAp%20nhau%20ki%E1%BA%BFm%20ti%E1%BB%81n/index.md).
