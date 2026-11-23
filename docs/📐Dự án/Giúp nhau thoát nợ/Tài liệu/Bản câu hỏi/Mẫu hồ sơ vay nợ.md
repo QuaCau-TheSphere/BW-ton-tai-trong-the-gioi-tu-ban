@@ -26,7 +26,7 @@ created: 2025-12-09T17:23
 | ...                 |      |             |             |             |     |
 
 ### Cuộc sống của bạn đã thay đổi thế nào từ lúc có nợ?
-### Bạn đã làm [báo cáo tài chính](../../../../%F0%9F%A7%91%E2%80%8D%F0%9F%8C%BENg%C3%A0nh%20ngh%E1%BB%81%20c%E1%BB%A5%20th%E1%BB%83/T%C3%A0i%20ch%C3%ADnh/K%E1%BA%BF%20to%C3%A1n/B%C3%A1o%20c%C3%A1o/B%C3%A1o%20c%C3%A1o%20t%C3%A0i%20ch%C3%ADnh%20c%C3%A1%20nh%C3%A2n%20g%E1%BB%93m%20b%E1%BA%A3n%20thu%20chi%20c%C3%A1%20nh%C3%A2n%20v%C3%A0%20b%E1%BA%A3n%20c%C3%A2n%20%C4%91%E1%BB%91i%20t%C3%A0i%20s%E1%BA%A3n.md) và [kế hoạch tài chính](../../../../%F0%9F%92%B8H%C3%ACnh%20th%E1%BB%A9c%20ki%E1%BA%BFm%20ti%E1%BB%81n/K%E1%BA%BF%20ho%E1%BA%A1ch%20t%C3%A0i%20ch%C3%ADnh/index.md) chưa?
+### Bạn đã làm [báo cáo tài chính](../../../../%F0%9F%8F%A2V%E1%BA%ADn%20h%C3%A0nh%20doanh%20nghi%E1%BB%87p/K%E1%BA%BF%20to%C3%A1n/B%C3%A1o%20c%C3%A1o/B%C3%A1o%20c%C3%A1o%20t%C3%A0i%20ch%C3%ADnh%20c%C3%A1%20nh%C3%A2n%20g%E1%BB%93m%20b%E1%BA%A3n%20thu%20chi%20c%C3%A1%20nh%C3%A2n%20v%C3%A0%20b%E1%BA%A3n%20c%C3%A2n%20%C4%91%E1%BB%91i%20t%C3%A0i%20s%E1%BA%A3n.md) và [kế hoạch tài chính](../../../../%F0%9F%92%B8H%C3%ACnh%20th%E1%BB%A9c%20ki%E1%BA%BFm%20ti%E1%BB%81n/K%E1%BA%BF%20ho%E1%BA%A1ch%20t%C3%A0i%20ch%C3%ADnh/index.md) chưa?
 ### Chi phí sinh hoạt hàng tháng:
 
 | Khoản chi | Số tiền | Ngày chi | 
