@@ -34,7 +34,7 @@ Cam kết không khai thác cảm xúc của họ và tạo gánh nặng trong s
 
 Bất cứ ai cũng có thể tham gia: nhân viên, bạn bè, con cái, v.v.
 
-Xem thêm:: [Nhóm chạy chỉ tiêu (KPI) cho nhân viên](../../../../../%F0%9F%92%B8H%C3%ACnh%20th%E1%BB%A9c%20ki%E1%BA%BFm%20ti%E1%BB%81n/Thi%E1%BA%BFu%20li%C3%AAm%20ch%C3%ADnh.%20Ph%E1%BA%A1m%20ph%C3%A1p/C%C3%A1ch%20th%E1%BB%B1c%20hi%E1%BB%87n/L%C3%A0m%20k%E1%BA%BFt%20qu%E1%BA%A3%20%E1%BA%A3o/C%C3%A1c%20c%C3%B4ng%20vi%E1%BB%87c/Gian%20l%E1%BA%ADn%20c%C3%B4ng%20ty.md)
+Xem thêm:: [Nhóm chạy chỉ tiêu (KPI) cho nhân viên](../../../../../%F0%9F%92%B8H%C3%ACnh%20th%E1%BB%A9c%20ki%E1%BA%BFm%20ti%E1%BB%81n/Thi%E1%BA%BFu%20li%C3%AAm%20ch%C3%ADnh.%20Ph%E1%BA%A1m%20ph%C3%A1p/M%E1%BA%B7t%20kh%C3%A1ch%20quan/C%C3%A1ch%20th%E1%BB%B1c%20hi%E1%BB%87n/L%C3%A0m%20k%E1%BA%BFt%20qu%E1%BA%A3%20%E1%BA%A3o/C%C3%A1c%20c%C3%B4ng%20vi%E1%BB%87c/Gian%20l%E1%BA%ADn%20c%C3%B4ng%20ty.md)
 
 ## Nơi thảo luận
 ![](https://i.imgur.com/6TJxtif.png)
