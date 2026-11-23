@@ -16,6 +16,6 @@ updated: 2026-07-27T02:26
 - Có những công ty rất chăm lo cho  doanh nghiệp không thấy được việc ? 
 - Anh có thể kể tên một số tiêu chí KPI của các doanh nghiệp làm CSR mà anh thấy là không đi vào bản chất của phát triển cộng đồng ko?
 
-Hỏi thêm:: [PTS](../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Ngu%E1%BB%93n/PTS.md)
+Hỏi thêm:: [PTS](../../../../%CE%9E%20Meta/Ngu%E1%BB%93n/C%C3%A1%20nh%C3%A2n,%20t%E1%BB%95%20ch%E1%BB%A9c/PTS.md)
 
 [Kiếm tiền không xấu](./Ki%E1%BA%BFm%20ti%E1%BB%81n%20kh%C3%B4ng%20x%E1%BA%A5u.md)
