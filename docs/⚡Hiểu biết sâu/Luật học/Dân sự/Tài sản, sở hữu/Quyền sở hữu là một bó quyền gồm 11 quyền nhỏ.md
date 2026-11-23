@@ -3,7 +3,7 @@ share: true
 updated: 2026-10-28T13:40
 created: 2026-06-22T14:16
 ---
-Khái niệm:: [Chiếm hữu, sở hữu](../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Kinh%20t%E1%BA%BF%20h%E1%BB%8Dc/Chi%E1%BA%BFm%20h%E1%BB%AFu,%20s%E1%BB%9F%20h%E1%BB%AFu.md)
+Khái niệm:: [Chiếm hữu, sở hữu, quyền tài sản](../../../../%CE%9E%20Meta/Kh%C3%A1i%20ni%E1%BB%87m/Kinh%20t%E1%BA%BF%20h%E1%BB%8Dc/Chi%E1%BA%BFm%20h%E1%BB%AFu,%20s%E1%BB%9F%20h%E1%BB%AFu,%20quy%E1%BB%81n%20t%C3%A0i%20s%E1%BA%A3n.md)
 
 Quyền sở hữu là gì? - Giới thiệu lý thuyết "bó quyền” của A. M. Honoré
 
