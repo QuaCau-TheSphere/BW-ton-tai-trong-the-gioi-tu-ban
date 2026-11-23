@@ -3,7 +3,7 @@ share: true
 updated: 2026-10-05T20:52
 created: 2026-07-27T14:53
 ---
-Khái niệm:: [Tài sản](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Kinh%20t%E1%BA%BF%20h%E1%BB%8Dc/T%C3%A0i%20s%E1%BA%A3n.md), [Chiếm hữu, sở hữu](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Kinh%20t%E1%BA%BF%20h%E1%BB%8Dc/Chi%E1%BA%BFm%20h%E1%BB%AFu,%20s%E1%BB%9F%20h%E1%BB%AFu.md)
+Khái niệm:: [Tài sản](../../../%CE%9E%20Meta/Kh%C3%A1i%20ni%E1%BB%87m/Kinh%20t%E1%BA%BF%20h%E1%BB%8Dc/T%C3%A0i%20s%E1%BA%A3n.md), [Chiếm hữu, sở hữu, quyền tài sản](../../../%CE%9E%20Meta/Kh%C3%A1i%20ni%E1%BB%87m/Kinh%20t%E1%BA%BF%20h%E1%BB%8Dc/Chi%E1%BA%BFm%20h%E1%BB%AFu,%20s%E1%BB%9F%20h%E1%BB%AFu,%20quy%E1%BB%81n%20t%C3%A0i%20s%E1%BA%A3n.md)
 
 Nguồn:: [Asset - Wikipedia](https://en.wikipedia.org/wiki/Asset)
 [Quyền sở hữu là một bó quyền gồm 11 quyền nhỏ](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Lu%E1%BA%ADt%20h%E1%BB%8Dc/D%C3%A2n%20s%E1%BB%B1/T%C3%A0i%20s%E1%BA%A3n,%20s%E1%BB%9F%20h%E1%BB%AFu/Quy%E1%BB%81n%20s%E1%BB%9F%20h%E1%BB%AFu%20l%C3%A0%20m%E1%BB%99t%20b%C3%B3%20quy%E1%BB%81n%20g%E1%BB%93m%2011%20quy%E1%BB%81n%20nh%E1%BB%8F.md)
