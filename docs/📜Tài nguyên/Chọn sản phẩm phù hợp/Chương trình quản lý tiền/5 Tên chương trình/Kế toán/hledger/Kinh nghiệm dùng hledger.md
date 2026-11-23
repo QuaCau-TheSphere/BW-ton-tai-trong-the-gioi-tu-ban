@@ -39,7 +39,7 @@ Dùng alias trong posting thì sau này đổi danh mục cũng tiện, nhưng p
 
 include thì dùng app không gợi ý?
 
-[Tài khoản có thể được phân loại theo người sở hữu, nơi lưu tiền, mục đích sử dụng](../../../../../../%F0%9F%A7%91%E2%80%8D%F0%9F%8C%BENg%C3%A0nh%20ngh%E1%BB%81%20c%E1%BB%A5%20th%E1%BB%83/T%C3%A0i%20ch%C3%ADnh/K%E1%BA%BF%20to%C3%A1n/Nguy%C3%AAn%20l%C3%BD%20to%C3%A1n%20h%E1%BB%8Dc/T%C3%A0i%20kho%E1%BA%A3n%20c%C3%B3%20th%E1%BB%83%20%C4%91%C6%B0%E1%BB%A3c%20ph%C3%A2n%20lo%E1%BA%A1i%20theo%20ng%C6%B0%E1%BB%9Di%20s%E1%BB%9F%20h%E1%BB%AFu,%20n%C6%A1i%20l%C6%B0u%20ti%E1%BB%81n,%20m%E1%BB%A5c%20%C4%91%C3%ADch%20s%E1%BB%AD%20d%E1%BB%A5ng.md). Chỉ có thể assertion ở nơi lưu tiền
+[Tài khoản có thể được phân loại theo người sở hữu, nơi lưu tiền, mục đích sử dụng](../../../../../../%F0%9F%8F%A2V%E1%BA%ADn%20h%C3%A0nh%20doanh%20nghi%E1%BB%87p/K%E1%BA%BF%20to%C3%A1n/Nguy%C3%AAn%20l%C3%BD%20to%C3%A1n%20h%E1%BB%8Dc/T%C3%A0i%20kho%E1%BA%A3n%20c%C3%B3%20th%E1%BB%83%20%C4%91%C6%B0%E1%BB%A3c%20ph%C3%A2n%20lo%E1%BA%A1i%20theo%20ng%C6%B0%E1%BB%9Di%20s%E1%BB%9F%20h%E1%BB%AFu,%20n%C6%A1i%20l%C6%B0u%20ti%E1%BB%81n,%20m%E1%BB%A5c%20%C4%91%C3%ADch%20s%E1%BB%AD%20d%E1%BB%A5ng.md). Chỉ có thể assertion ở nơi lưu tiền
 
 Thu nhập là số âm. Nếu xem tài khoản đó là thứ mình quan tâm thì chỉ là sự chuyển đổi giữa các tài khoản. Nên không để kiểu là R được. Nhưng để như vậy thì có mấy lệnh sẽ tiện
 
