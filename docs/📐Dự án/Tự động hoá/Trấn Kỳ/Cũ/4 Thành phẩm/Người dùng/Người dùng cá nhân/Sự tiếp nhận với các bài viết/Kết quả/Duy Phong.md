@@ -55,7 +55,7 @@ luôn luôn nghĩ về tiền rất khó chịu
 ## Vì sao bạn ngừng đọc?
 ## Bạn nghĩ ai là người sẽ quan tâm bài này?
 ## Vì sao bạn chưa chia sẻ bài này đến cho những người đó?
-# Tiếp nhận khi đọc [Lời mời xây dựng một startup để làm những việc một người bạn sẽ làm](../../../../../9%20Blog/L%E1%BB%9Di%20m%E1%BB%9Di%20x%C3%A2y%20d%E1%BB%B1ng%20m%E1%BB%99t%20startup%20%C4%91%E1%BB%83%20l%C3%A0m%20nh%E1%BB%AFng%20vi%E1%BB%87c%20m%E1%BB%99t%20ng%C6%B0%E1%BB%9Di%20b%E1%BA%A1n%20s%E1%BA%BD%20l%C3%A0m.md)
+# Tiếp nhận khi đọc [Lời mời xây dựng một startup để làm những việc một người bạn sẽ làm](../../../../../../Blog/L%E1%BB%9Di%20m%E1%BB%9Di%20x%C3%A2y%20d%E1%BB%B1ng%20m%E1%BB%99t%20startup%20%C4%91%E1%BB%83%20l%C3%A0m%20nh%E1%BB%AFng%20vi%E1%BB%87c%20m%E1%BB%99t%20ng%C6%B0%E1%BB%9Di%20b%E1%BA%A1n%20s%E1%BA%BD%20l%C3%A0m.md)
 ## Bạn đã biết tới bài này thế nào?
 ## Điều gì khiến bạn quyết định bấm vào đọc?
 ## Bạn thấy tiêu đề thế nào?
@@ -77,7 +77,7 @@ có một cái nhỏ thì thấy giúp dễ hơn
 ## Vì sao bạn ngừng đọc?
 ## Bạn nghĩ ai là người sẽ quan tâm bài này?
 ## Vì sao bạn chưa chia sẻ bài này đến cho những người đó?
-# Tiếp nhận khi đọc [Lý do viết Trấn Kỳ](../../../../../9%20Blog/L%C3%BD%20do%20vi%E1%BA%BFt%20Tr%E1%BA%A5n%20K%E1%BB%B3.md)
+# Tiếp nhận khi đọc [Lý do viết Trấn Kỳ](../../../../../../Blog/L%C3%BD%20do%20vi%E1%BA%BFt%20Tr%E1%BA%A5n%20K%E1%BB%B3.md)
 ## Bạn đã biết tới bài này thế nào?
 ## Điều gì khiến bạn quyết định bấm vào đọc?
 ## Bạn thấy tiêu đề thế nào?
@@ -93,7 +93,7 @@ có một cái nhỏ thì thấy giúp dễ hơn
 ## Vì sao bạn ngừng đọc?
 ## Bạn nghĩ ai là người sẽ quan tâm bài này?
 ## Vì sao bạn chưa chia sẻ bài này đến cho những người đó?
-# Tiếp nhận khi đọc [Mô hình kinh doanh Trấn Kỳ](../../../../../9%20Blog/M%C3%B4%20h%C3%ACnh%20kinh%20doanh%20Tr%E1%BA%A5n%20K%E1%BB%B3.md)
+# Tiếp nhận khi đọc [Mô hình kinh doanh Trấn Kỳ](../../../../../../Blog/M%C3%B4%20h%C3%ACnh%20kinh%20doanh%20Tr%E1%BA%A5n%20K%E1%BB%B3.md)
 ## Bạn đã biết tới bài này thế nào?
 ## Điều gì khiến bạn quyết định bấm vào đọc?
 ## Bạn thấy tiêu đề thế nào?
