@@ -7,7 +7,7 @@ aliases:
   - Tiêu chí xác định hộ nghèo, cận nghèo giai đoạn 2021 – 2025
   - Việt Nam không ai chết đói
 ---
-Khái niệm:: [Nghèo, người nghèo](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Giai%20c%E1%BA%A5p.%20Ph%C3%A1t%20tri%E1%BB%83n%20b%E1%BB%81n%20v%E1%BB%AFng/Ngh%C3%A8o,%20ng%C6%B0%E1%BB%9Di%20ngh%C3%A8o.md)
+Khái niệm:: [Nghèo, người nghèo](../../../%CE%9E%20Meta/Kh%C3%A1i%20ni%E1%BB%87m/Giai%20c%E1%BA%A5p.%20Ph%C3%A1t%20tri%E1%BB%83n%20b%E1%BB%81n%20v%E1%BB%AFng/Ngh%C3%A8o,%20ng%C6%B0%E1%BB%9Di%20ngh%C3%A8o.md)
 [Ý tưởng tiết kiệm tiền mua đồ ăn](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/S%E1%BB%91ng%20v%E1%BB%ABa%20%C4%91%E1%BB%A7,%20b%E1%BB%81n%20v%E1%BB%AFng,%20ti%E1%BA%BFt%20ki%E1%BB%87m/%C3%9D%20t%C6%B0%E1%BB%9Fng%20ti%E1%BA%BFt%20ki%E1%BB%87m%20ti%E1%BB%81n%20mua%20%C4%91%E1%BB%93%20%C4%83n.md)
 [Nông nghiệp sinh thái ở Việt Nam](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/S%E1%BB%91ng%20v%E1%BB%ABa%20%C4%91%E1%BB%A7,%20b%E1%BB%81n%20v%E1%BB%AFng,%20ti%E1%BA%BFt%20ki%E1%BB%87m/N%C3%B4ng%20nghi%E1%BB%87p%20sinh%20th%C3%A1i%20%E1%BB%9F%20Vi%E1%BB%87t%20Nam.md)
 
