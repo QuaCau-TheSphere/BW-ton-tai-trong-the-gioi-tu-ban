@@ -10,4 +10,4 @@ updated: 2026-11-23T14:37
 ## Dùng đồ cũ
 VD: đến các nhóm [Tặng đồ đạc](../Qu%C3%A0%20t%E1%BA%B7ng/T%E1%BA%B7ng%20%C4%91%E1%BB%93%20%C4%91%E1%BA%A1c.md)
 
-[Các dự án chia sẻ hoạt động sống với nhau](./C%C3%A1c%20d%E1%BB%B1%20%C3%A1n%20chia%20s%E1%BA%BB%20ho%E1%BA%A1t%20%C4%91%E1%BB%99ng%20s%E1%BB%91ng%20v%E1%BB%9Bi%20nhau.md)
+[Xây dựng các nhóm tương trợ nhau](../../%F0%9F%93%90D%E1%BB%B1%20%C3%A1n/X%C3%A2y%20d%E1%BB%B1ng%20c%C3%A1c%20nh%C3%B3m%20t%C6%B0%C6%A1ng%20tr%E1%BB%A3%20nhau/index.md)

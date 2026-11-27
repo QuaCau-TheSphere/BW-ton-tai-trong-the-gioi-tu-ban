@@ -11,10 +11,10 @@ aliases:
 
 ## Mua đồ ăn rẻ 
 - Mua đồ ăn ở chợ đầu mối
-- Tham gia các [Nhóm mua chung, câu lạc bộ tiêu dùng](../../%F0%9F%93%90D%E1%BB%B1%20%C3%A1n/X%C3%A2y%20d%E1%BB%B1ng%20h%E1%BB%87%20th%E1%BB%91ng%20kinh%20t%E1%BA%BF%20m%E1%BB%9Bi/Nh%C3%B3m%20mua%20chung,%20c%C3%A2u%20l%E1%BA%A1c%20b%E1%BB%99%20ti%C3%AAu%20d%C3%B9ng.md)
+- Tham gia các [Nhóm mua chung, câu lạc bộ tiêu dùng](%F0%9F%93%90D%E1%BB%B1%20%C3%A1n/X%C3%A2y%20d%E1%BB%B1ng%20h%E1%BB%87%20th%E1%BB%91ng%20kinh%20t%E1%BA%BF%20m%E1%BB%9Bi/Nh%C3%B3m%20mua%20chung,%20c%C3%A2u%20l%E1%BA%A1c%20b%E1%BB%99%20ti%C3%AAu%20d%C3%B9ng.md)
 - Săn [Phiếu giảm giá (voucher)](../Gi%E1%BB%9Bi%20thi%E1%BB%87u%20d%E1%BB%8Bch%20v%E1%BB%A5/Phi%E1%BA%BFu%20gi%E1%BA%A3m%20gi%C3%A1%20(voucher).md)
 - Aeon sau 9h tối bán đồ ăn đại hạ giá
-- [Các dự án chia sẻ hoạt động sống với nhau](./C%C3%A1c%20d%E1%BB%B1%20%C3%A1n%20chia%20s%E1%BA%BB%20ho%E1%BA%A1t%20%C4%91%E1%BB%99ng%20s%E1%BB%91ng%20v%E1%BB%9Bi%20nhau.md)
+- [Xây dựng các nhóm tương trợ nhau](../../%F0%9F%93%90D%E1%BB%B1%20%C3%A1n/X%C3%A2y%20d%E1%BB%B1ng%20c%C3%A1c%20nh%C3%B3m%20t%C6%B0%C6%A1ng%20tr%E1%BB%A3%20nhau/index.md)
 
 ## Đến những nơi [Tặng đồ ăn](../Qu%C3%A0%20t%E1%BA%B7ng/T%E1%BA%B7ng%20%C4%91%E1%BB%93%20%C4%83n.md)
 - [Ngân hàng thực phẩm Việt Nam - Food Bank Việt Nam](https://foodbankvietnam.com/)

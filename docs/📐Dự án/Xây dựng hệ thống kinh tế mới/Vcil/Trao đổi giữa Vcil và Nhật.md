@@ -1,6 +1,6 @@
 ---
 share: true
-updated: 2026-10-26T19:59
+updated: 2026-11-24T21:28
 created: 2026-04-24T23:19
 ---
 ## Vcil gửi 23/4/2026
@@ -360,3 +360,5 @@ Các bạn hay nói về sở hữu chung. Nay tại sao lại nói là của ri
 Cảm ơn các bạn đã mời tham gia lại, nhưng vẫn còn sự chưa đảm bảo minh bạch và giải trình. Việc đó được thể hiện qua việc giải thích đầy đủ và hợp lý các câu hỏi mình đã, đang và sẽ hỏi. Còn chưa làm được thì chưa phải là 
 
 Xung quanh vẫn có những người bạn chung, vẫn có thể Mình vẫn có thể đóng góp cho nhau bằng những
+
+Trước khi FSF (hoặc những người) đề xuất khái niệm đó thì khái niệm đó không tồn tại. 
