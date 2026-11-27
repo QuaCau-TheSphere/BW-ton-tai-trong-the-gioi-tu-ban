@@ -22,7 +22,7 @@ Diễn đàn, hội thảo
 
 | Hình thức hỗ trợ                                                                                                                   | Điều kiện nhận hỗ trợ   |
 | ------------------------------------------------------------------------------------------------------------------------------------ | ------------------------- |
-| Đăng trên [Giúp nhau quảng cáo, giới thiệu dịch vụ](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Gi%E1%BB%9Bi%20thi%E1%BB%87u%20d%E1%BB%8Bch%20v%E1%BB%A5/index.md), [Mạng kết nối nhu cầu](../../M%E1%BA%A1ng%20k%E1%BA%BFt%20n%E1%BB%91i%20nhu%20c%E1%BA%A7u/index.md) | Không                   |
+| Đăng trên [Giúp nhau quảng cáo, giới thiệu dịch vụ](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Gi%E1%BB%9Bi%20thi%E1%BB%87u%20d%E1%BB%8Bch%20v%E1%BB%A5/index.md), [Xây dựng các nhóm tương trợ nhau](../../X%C3%A2y%20d%E1%BB%B1ng%20c%C3%A1c%20nh%C3%B3m%20t%C6%B0%C6%A1ng%20tr%E1%BB%A3%20nhau/index.md) | Không                   |
 | Đăng trên [Giúp nhau tuyển dụng](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/%C3%9D%20t%C6%B0%E1%BB%9Fng%20ki%E1%BA%BFm%20ti%E1%BB%81n/Gi%C3%BAp%20nhau%20tuy%E1%BB%83n%20d%E1%BB%A5ng.md)                                                                                                 | Điền đầy đủ mẫu         |
 | Thông báo trên server Discord của Quả Cầu, Facebook Quả Cầu                                                                        | Trả lời hết các câu hỏi |
 
