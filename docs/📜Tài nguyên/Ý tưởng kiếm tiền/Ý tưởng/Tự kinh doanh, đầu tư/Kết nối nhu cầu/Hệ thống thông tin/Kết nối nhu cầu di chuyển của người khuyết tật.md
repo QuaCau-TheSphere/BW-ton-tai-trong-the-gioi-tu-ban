@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2026-07-27T02:26
+updated: 2026-11-27T16:48
 ---
 Tính chất công việc:: [Cần biết lập trình](../../../../%C4%90%E1%BA%B7c%20%C4%91i%E1%BB%83m%20c%C3%B4ng%20vi%E1%BB%87c/T%C3%A0i%20nguy%C3%AAn,%20v%E1%BA%ADt%20d%E1%BB%A5ng/C%C3%B4ng%20ngh%E1%BB%87/C%E1%BA%A7n%20bi%E1%BA%BFt%20l%E1%BA%ADp%20tr%C3%ACnh.md)
 Hình thức:: [Gia công giải pháp](../../Gia%20c%C3%B4ng%20gi%E1%BA%A3i%20ph%C3%A1p/index.md)
@@ -86,10 +86,11 @@ Thời gian khởi động dưới 5s
 | Open Street Map |                                                                | Miễn phí                                   |
 
 ### Ngôn ngữ, framework
-Ngôn ngữ TypeScript với runtime Deno là thích hợp nhất cho những app còn nhỏ. Nếu viết app mobile thì có thể dùng framework Capacitor để có thể viết một lần mà có cả app Android và iOS, nhưng như vậy thì có thể sẽ phải đổi runtime sang Node. Nếu đổi sang ngôn ngữ khác thì sẽ đội chi phí lên (nếu muốn đặt bên mình). Nếu chỉ cần dùng bản web được thì sẽ tốt hơn.
+Tốt nhất là dùng Gleam. Xem [Học ngôn ngữ lập trình nào để giải quyết nhu cầu công việc?](https://obsidian.quảcầu.cc/📜Tài%20nguyên/Giải%20pháp%20kỹ%20thuật/Tự%20động%20hoá/Học%20ngôn%20ngữ%20lập%20trình%20nào%20để%20giải%20quyết%20nhu%20cầu%20công%20việc?utm_source=Vault+B+Tư+bản+và+các+hình+thái+kinh+tế+thay+thế+(Tài+nguyên)&utm_medium=Vault&utm_campaign=C1&utm_content=📜Tài+nguyên%2FÝ+tưởng+kiếm+tiền%2FÝ+tưởng%2FTự+kinh+doanh%2C+đầu+tư%2FKết+nối+nhu+cầu%2FHệ+thống+thông+tin%2FKết+nối+nhu+cầu+di+chuyển+của+người+khuyết+tật.md&utm_term=).
+
+Nếu dùng TypeScript thì nên dùng môi trường thực thi Dodo. Nếu viết app điện thoại  thì có thể dùng framework Capacitor để có thể viết một lần mà có cả app Android và iOS, nhưng như vậy thì có thể sẽ phải đổi runtime sang Node. Nếu đổi sang ngôn ngữ khác thì sẽ đội chi phí lên (nếu muốn đặt bên mình). Nếu chỉ cần dùng bản web được thì sẽ tốt hơn.
 
 ### Máy chủ
-Firebase/Deno Deploy
 
 ### Thiết bị
 Nếu làm app cho iOS thì cần mở tài khoản Apple Development giá $99/năm.
